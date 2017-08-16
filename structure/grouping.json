@@ -1,0 +1,33 @@
+[
+    {
+        "uid": "long",
+        "name": "Long",
+        "contains": ["dn", "da"]
+    },
+    {
+        "uid": "medium",
+        "name": "Medium",
+        "contains": ["mn"],
+    },
+    {
+        "uid": "connected",
+        "name": "Connected",
+        "contains": ["sn"],
+    },
+    {
+        "uid": "numbered",
+        "name": "Numbered",
+        "contains": ["an"]
+    },
+    {
+        "uid": "minor",
+        "name": "Minor",
+        "contains": ["kn"]
+    },
+    {
+        "uid": "other",
+        "name": "Other",
+        "contains": []
+    }
+]
+    
