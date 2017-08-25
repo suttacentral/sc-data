@@ -2,27 +2,27 @@
     {
         "uid": "long",
         "name": "Long",
-        "contains": ["dn", "da"]
+        "contains": ["dn", "da", "da-ot"]
     },
     {
         "uid": "medium",
         "name": "Medium",
-        "contains": ["mn"],
+        "contains": ["mn", "ma", "ma-ot"]
     },
     {
-        "uid": "connected",
-        "name": "Connected",
-        "contains": ["sn"],
+        "uid": "linked",
+        "name": "Linked",
+        "contains": ["sn", "sa-1", "sa-2", "sa-3", "sa-ot"]
     },
     {
         "uid": "numbered",
         "name": "Numbered",
-        "contains": ["an"]
+        "contains": ["an", "ea", "ea-2", "ea-ot"]
     },
     {
         "uid": "minor",
         "name": "Minor",
-        "contains": ["kn"]
+        "contains": ["kn", "lzh-ja"]
     },
     {
         "uid": "other",
