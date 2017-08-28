@@ -1,0 +1,15 @@
+
+/* This query roughly produces the menu structure. */
+
+FOR group IN grouping
+    SORT group.num
+    LET children = (
+        FOR division IN 1..1 OUTBOUND group `root_edges`
+        SORT division.num
+        LET parents = MERGE(FOR category IN 1..1 INBOUND division `root_edges`
+        RETURN {[category.type] : category})
+        RETURN UNSET_RECURSIVE(MERGE(division, parents),  '_rev', '_id', '_key', 'num', 'grouping')
+    )
+
+    RETURN UNSET({name: group.name, uid: group.uid, children: children}, '_rev', '_id', '_key', 'num')
+    
