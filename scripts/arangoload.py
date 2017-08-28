@@ -4,14 +4,11 @@ import pathlib
 
 from collections import defaultdict, Counter
 
-from pyArango.connection import *
-from pyArango.collection import Collection, Field, Edges
-from pyArango.graph import Graph, EdgeDefinition
+from arango import ArangoClient
 
 import settings
 
-conn = Connection(**settings.arango)
-db = conn.databases['sc']
+conn = ArangoClient(**settings.arango)
 
 data_dir = settings.data_dir
 
@@ -19,28 +16,26 @@ html_dir = data_dir / 'html_texts'
 relationship_dir = data_dir / 'relationships'
 structure_dir = data_dir / 'structure'
 
+if 'sc' in conn.databases():
+    conn.delete_database('sc')
+
+db = conn.create_database('sc')
 
 collections = [
-    ('Collection', 'division'),
-    ('Edges', 'division_edges'),
-    ('Collection', 'categories')
+    ('root', False),
+    ('root_edges', True)
     ]
 
-
-for class_name, name in collections:
-    if not name in db.collections:
-        db.createCollection(class_name, name=name)
-    else:
-        db[name].empty()
+for name, edge in collections:
+    db.create_collection(name=name, edge=edge)
 
 docs = []
-category_docs = []
 edges = []
 
 mapping = {}
 
-for division_file in sorted((structure_dir / 'division').glob('**/*.json')):
-    with division_file.open('r', encoding='utf8') as f:
+for root_file in sorted((structure_dir / 'division').glob('**/*.json')):
+    with root_file.open('r', encoding='utf8') as f:
         entries = json.load(f)
     unique_counter = Counter(entry['_path'].split('/')[-1] for entry in entries)
     
@@ -53,10 +48,10 @@ for division_file in sorted((structure_dir / 'division').glob('**/*.json')):
             # uid is the end of path, unless it is non-unique in which case
             # combine with the second to last part of path
             uid = '-'.join(entry['_path'].split('/')[-2:])
-            
         
         entry['_key'] = uid
         entry['uid'] = uid
+            
         del entry['_path']
         entry['num'] = i # number is used for ordering, it is not otherwise meaningful
         
@@ -65,10 +60,13 @@ for division_file in sorted((structure_dir / 'division').glob('**/*.json')):
         # find the parent
         parent = mapping.get(path.parent)
         if parent:
-            edges.append({'_from': 'division/'+parent['_key'], '_to': 'division/'+entry['_key']})
-
+            edges.append({'_from': 'root/'+parent['_key'], '_to': 'root/'+entry['_key'], 'type': 'child'})
 
 for category_file in sorted(structure_dir.glob('*.json')):
+    category_name = category_file.stem
+    collection = db.create_collection(category_name)
+    category_docs = []
+    
     with category_file.open('r', encoding='utf8') as f:
         entries = json.load(f)
     
@@ -79,18 +77,21 @@ for category_file in sorted(structure_dir.glob('*.json')):
         entry['_key'] = entry['uid']
         entry['num'] = i
         
-        category_docs.append(entry)
         for uid in entry['contains']:
             child = mapping.get(pathlib.PurePath(uid))
-            edges.append({'_from': 'categories/'+entry['_key'], '_to': 'division/'+child['_key'], 'type': edge_type})
+            child[entry['type']] = entry['uid']
+            edges.append({'_from': f'{category_name}/{entry["_key"]}', '_to': f'root/{child["_key"]}', 'type': edge_type})
+        del entry['contains']
+        category_docs.append(entry)
+    collection.import_bulk(category_docs)
+
+
+for entry in docs:
+    if entry.get('pitaka') == 'su':
+        if 'grouping' not in entry:
+            entry['grouping'] = 'other'
+        
 
 # make documents
-db['division'].importBulk(docs)
-db['categories'].importBulk(category_docs)
-db['division_edges'].importBulk(edges)
-
-            
-        
-        
-        
-
+db['root'].import_bulk(docs)
+db['root_edges'].import_bulk(edges)

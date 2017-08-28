@@ -12,7 +12,7 @@
     {
         "uid": "linked",
         "name": "Linked",
-        "contains": ["sn", "sa-1", "sa-2", "sa-3", "sa-ot"]
+        "contains": ["sn", "sa", "sa-2", "sa-3", "sa-ot"]
     },
     {
         "uid": "numbered",
