@@ -12,4 +12,21 @@ FOR group IN grouping
     )
 
     RETURN UNSET({name: group.name, uid: group.uid, children: children}, '_rev', '_id', '_key', 'num')
-    
+
+/* UNSET is significantly slower than cherry-picking only the attributes you want*/
+
+/* return all language objects */
+FOR l IN language
+    return l
+
+/* return all language objects as a key: value mapping */
+RETURN MERGE( /* Merges array of documents into one */
+    FOR l IN language
+        RETURN {[l.uid] : l} /* Set the key as the uid */
+)
+
+/* MERGE: Trying to merge 50000 documents failed with a timeout. Not sure why
+because python can do the equivilant in the blink of an eye. Seems safe to assume
+merge is not optimized for large result sets. */
+
+

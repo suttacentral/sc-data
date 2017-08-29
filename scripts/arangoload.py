@@ -1,10 +1,14 @@
 
 import json
 import pathlib
+import hashlib
+import lxml.html
 
 from collections import defaultdict, Counter
 
+import arango
 from arango import ArangoClient
+
 
 import settings
 
@@ -23,11 +27,23 @@ db = conn.create_database('sc')
 
 collections = [
     ('root', False),
-    ('root_edges', True)
+    ('root_edges', True),
+    ('html_texts', False),
+    ('unicode_points', False),
+    ('mtimes', False),    
     ]
+
+
 
 for name, edge in collections:
     db.create_collection(name=name, edge=edge)
+
+
+# create indexes
+
+db['html_texts'].add_skiplist_index(fields=["uid"], unique=False)
+db['html_texts'].add_skiplist_index(fields=["author_uid"], unique=False)
+db['html_texts'].add_skiplist_index(fields=["lang"], unique=False)
 
 docs = []
 edges = []
@@ -76,12 +92,12 @@ for category_file in sorted(structure_dir.glob('*.json')):
         entry['type'] = edge_type
         entry['_key'] = entry['uid']
         entry['num'] = i
-        
-        for uid in entry['contains']:
-            child = mapping.get(pathlib.PurePath(uid))
-            child[entry['type']] = entry['uid']
-            edges.append({'_from': f'{category_name}/{entry["_key"]}', '_to': f'root/{child["_key"]}', 'type': edge_type})
-        del entry['contains']
+        if 'contains' in entry:
+            for uid in entry['contains']:
+                child = mapping.get(pathlib.PurePath(uid))
+                child[entry['type']] = entry['uid']
+                edges.append({'_from': f'{category_name}/{entry["_key"]}', '_to': f'root/{child["_key"]}', 'type': edge_type})
+            del entry['contains']
         category_docs.append(entry)
     collection.import_bulk(category_docs)
 
@@ -95,3 +111,67 @@ for entry in docs:
 # make documents
 db['root'].import_bulk(docs)
 db['root_edges'].import_bulk(edges)
+
+
+
+def get_mtimes():
+    # track modifications
+
+    try:
+        db.create_collection('mtimes')
+    except arango.client.CollectionCreateError:
+        pass
+
+    # Extract the mtimes from arangodb
+
+    old_mtimes = {entry['path']: entry['mtime'] for entry in db.aql.execute('''
+    FOR entry in mtimes
+        RETURN entry
+    ''') }
+
+
+    # Get the mtimes from the file system
+
+    new_mtimes = {}
+    for html_file in data_dir.glob('**/*.html'):
+        new_mtimes[str(html_file.relative_to(data_dir))] = html_file.stat().st_mtime_ns
+
+    deleted = set(old_mtimes).difference(new_mtimes)
+    changed_or_new = {}
+
+    for path, mtime in new_mtimes.items():
+        if mtime != old_mtimes.get(path):
+            changed_or_new[path] = mtime
+    
+    return changed_or_new, deleted
+
+changed_or_new, deleted = get_mtimes()
+
+def update_mtimes(changed_or_new, deleted):
+    # Update mtimes in arangodb
+
+    mtimes_col.aql.execute('''
+    FOR entry IN mtimes
+        FILTER entry.path IN @to_remove
+        REMOVE entry
+    ''', to_remove=list(deleted))
+
+    db['mtimes'].import_bulk([{'path': k, 'mtime': v, '_key': k.replace('/', '_')} for k, v in changed_or_new.items()], on_duplicate="replace")
+
+    
+
+languages = db.aql.execute('''/* return all language objects as a key: value mapping */
+    RETURN MERGE(
+        FOR l IN language
+            RETURN {[l.uid] : l} /* Set the key as the uid */
+    )''').next()
+
+authors = {} # to do
+
+import textdata
+with textdata.ArangoTextInfoModel(db=db) as tim:
+    for lang_dir in html_dir.glob('*'):
+        if not lang_dir.is_dir:
+            continue
+        tim.process_lang_dir(lang_dir=lang_dir, data_dir=data_dir, files_to_process=changed_or_new, force=False)
+    
