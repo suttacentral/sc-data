@@ -1,5 +1,6 @@
 
 import json
+import regex
 import pathlib
 import hashlib
 import lxml.html
@@ -9,156 +10,280 @@ from collections import defaultdict, Counter
 import arango
 from arango import ArangoClient
 
-
 import settings
+import textdata
 
 conn = ArangoClient(**settings.arango)
 
 data_dir = settings.data_dir
 
-html_dir = data_dir / 'html_texts'
+html_dir = data_dir / 'html_text'
 relationship_dir = data_dir / 'relationships'
 structure_dir = data_dir / 'structure'
 
-if 'sc' in conn.databases():
-    conn.delete_database('sc')
+def setup_database():
+    if 'sc' in conn.databases():
+        conn.delete_database('sc')
 
-db = conn.create_database('sc')
+    db = conn.create_database('sc')
 
-collections = [
-    ('root', False),
-    ('root_edges', True),
-    ('html_texts', False),
-    ('unicode_points', False),
-    ('mtimes', False),    
-    ]
+    collections = [
+        ('grouping', False),
+        ('language', False),
+        ('pitaka', False),
+        ('sect', False),
+        ('root', False),
+        ('root_edges', True),
+        ('relationships', True),
+        ('html_text', False),
+        ('unicode_points', False),
+        ('mtimes', False),    
+        ]
 
 
 
-for name, edge in collections:
-    db.create_collection(name=name, edge=edge)
+    for name, edge in collections:
+        db.create_collection(name=name, edge=edge)
 
 
-# create indexes
+    # create indexes
 
-db['html_texts'].add_skiplist_index(fields=["uid"], unique=False)
-db['html_texts'].add_skiplist_index(fields=["author_uid"], unique=False)
-db['html_texts'].add_skiplist_index(fields=["lang"], unique=False)
+    db['html_text'].add_hash_index(fields=["uid"], unique=False)
+    db['html_text'].add_hash_index(fields=["author_uid"], unique=False)
+    db['html_text'].add_hash_index(fields=["lang"], unique=False)
+    db['root'].add_hash_index(fields=["uid"], unique=False)
+
+    return db
+
+db = conn.database('sc')
+
+class ChangeTracker:
+    def __init__(self, base_dir):
+        self.base_dir = base_dir
+
+        # Extract the mtimes from arangodb
+
+        self.old_mtimes = old_mtimes = {entry['path']: entry['mtime'] for entry in db.aql.execute('''
+        FOR entry in mtimes
+            RETURN entry
+        ''') }
+
+
+        # Get the mtimes from the file system
+
+        self.new_mtimes = new_mtimes = {}
+        for path in base_dir.glob('**/*'):
+            if path.is_dir():
+                continue
+            new_mtimes[str(path.relative_to(base_dir))] = path.stat().st_mtime_ns
+
+        self.deleted = deleted = set(old_mtimes).difference(new_mtimes)
+        self.changed_or_new = changed_or_new = {}
+
+        for path, mtime in new_mtimes.items():
+            if mtime != old_mtimes.get(path):
+                changed_or_new[path] = mtime
+        print(f'{len(changed_or_new)} files to be processed')
+        print(f'{len(deleted)} files to be deleted')
+
+    def file_has_changed(self, path):
+        if str(path.relative_to(self.base_dir)) in self.changed_or_new:
+            return True
+        return False
+        
+    def any_file_has_changed(self, files):
+        return any(self.file_has_changed(file) for file in files)
+    
+    def update_mtimes(self):
+        # Update mtimes in arangodb
+
+        mtimes_col.aql.execute('''
+        FOR entry IN mtimes
+            FILTER entry.path IN @to_remove
+            REMOVE entry
+        ''', to_remove=list(self.deleted))
+
+        db['mtimes'].import_bulk([{'path': k, 'mtime': v, '_key': k.replace('/', '_')} for k, v in self.changed_or_new.items()], on_duplicate="replace")
+
+change_tracker = ChangeTracker(data_dir)
 
 docs = []
 edges = []
 
 mapping = {}
 
-for root_file in sorted((structure_dir / 'division').glob('**/*.json')):
-    with root_file.open('r', encoding='utf8') as f:
-        entries = json.load(f)
-    unique_counter = Counter(entry['_path'].split('/')[-1] for entry in entries)
-    
-    for i, entry in enumerate(entries):
-        path = pathlib.PurePath(entry['_path'])
-        mapping[path] = entry
+root_files = sorted((structure_dir / 'division').glob('**/*.json'))
+category_files = sorted(structure_dir.glob('*.json'))
+
+if change_tracker.any_file_has_changed(root_files + category_files):
+    # To handle deletions as easily as possible we completely rebuild
+    # the root structure
+    for root_file in root_files:
+        with root_file.open('r', encoding='utf8') as f:
+            entries = json.load(f)
+        unique_counter = Counter(entry['_path'].split('/')[-1] for entry in entries)
         
-        uid = path.parts[-1]
-        if unique_counter[uid] > 1:
-            # uid is the end of path, unless it is non-unique in which case
-            # combine with the second to last part of path
-            uid = '-'.join(entry['_path'].split('/')[-2:])
-        
-        entry['_key'] = uid
-        entry['uid'] = uid
+        for i, entry in enumerate(entries):
+            path = pathlib.PurePath(entry['_path'])
+            mapping[path] = entry
             
-        del entry['_path']
-        entry['num'] = i # number is used for ordering, it is not otherwise meaningful
+            uid = path.parts[-1]
+            if unique_counter[uid] > 1:
+                # uid is the end of path, unless it is non-unique in which case
+                # combine with the second to last part of path
+                uid = '-'.join(entry['_path'].split('/')[-2:])
+            
+            entry['_key'] = uid
+            entry['uid'] = uid
+                
+            del entry['_path']
+            entry['num'] = i # number is used for ordering, it is not otherwise meaningful
+            
+            docs.append(entry)
+            
+            # find the parent
+            parent = mapping.get(path.parent)
+            if parent:
+                edges.append({'_from': 'root/'+parent['_key'], '_to': 'root/'+entry['_key'], 'type': 'child'})
+
+    for category_file in category_files:
+        category_name = category_file.stem
+        collection = db[category_name]
+        category_docs = []
         
-        docs.append(entry)
+        with category_file.open('r', encoding='utf8') as f:
+            entries = json.load(f)
         
-        # find the parent
-        parent = mapping.get(path.parent)
-        if parent:
-            edges.append({'_from': 'root/'+parent['_key'], '_to': 'root/'+entry['_key'], 'type': 'child'})
-
-for category_file in sorted(structure_dir.glob('*.json')):
-    category_name = category_file.stem
-    collection = db.create_collection(category_name)
-    category_docs = []
-    
-    with category_file.open('r', encoding='utf8') as f:
-        entries = json.load(f)
-    
-    edge_type = category_file.stem
-    
-    for i, entry in enumerate(entries):
-        entry['type'] = edge_type
-        entry['_key'] = entry['uid']
-        entry['num'] = i
-        if 'contains' in entry:
-            for uid in entry['contains']:
-                child = mapping.get(pathlib.PurePath(uid))
-                child[entry['type']] = entry['uid']
-                edges.append({'_from': f'{category_name}/{entry["_key"]}', '_to': f'root/{child["_key"]}', 'type': edge_type})
-            del entry['contains']
-        category_docs.append(entry)
-    collection.import_bulk(category_docs)
-
-
-for entry in docs:
-    if entry.get('pitaka') == 'su':
-        if 'grouping' not in entry:
-            entry['grouping'] = 'other'
+        edge_type = category_file.stem
         
+        for i, entry in enumerate(entries):
+            entry['type'] = edge_type
+            entry['_key'] = entry['uid']
+            entry['num'] = i
+            if 'contains' in entry:
+                for uid in entry['contains']:
+                    child = mapping.get(pathlib.PurePath(uid))
+                    child[entry['type']] = entry['uid']
+                    edges.append({'_from': f'{category_name}/{entry["_key"]}', '_to': f'root/{child["_key"]}', 'type': edge_type})
+                del entry['contains']
+            category_docs.append(entry)
+        collection.truncate()
+        collection.import_bulk(category_docs)
 
-# make documents
-db['root'].import_bulk(docs)
-db['root_edges'].import_bulk(edges)
+
+    for entry in docs:
+        if entry.get('pitaka') == 'su':
+            if 'grouping' not in entry:
+                entry['grouping'] = 'other'
+            
+
+    # make documents
+    db['root'].truncate()
+    db['root'].import_bulk(docs)
+    db['root_edges'].truncate()
+    db['root_edges'].import_bulk(edges)
 
 
 
-def get_mtimes():
-    # track modifications
+# generate parallel edges
 
-    try:
-        db.create_collection('mtimes')
-    except arango.client.CollectionCreateError:
+print('Generating Parallels')
+
+with (data_dir / 'relationships' / 'parallels.json').open('r', encoding='utf8') as f:
+    parallels_data = json.load(f)
+
+all_uids = set(db.aql.execute('''
+FOR doc IN root
+    SORT doc.num
+    RETURN doc.uid
+'''))
+
+def get_true_uids(uid):
+    uids = []
+    seen = set()
+    uid = uid.lstrip('~').split('#')[0]
+    if uid in all_uids:
+        uids.append(uid)
+        seen.add(uid)
+    
+    # Welcome to hell
+    
+    def expand(prefix, start, end):
+        for i in range(int(start), int(end) + 1):
+            possible_uid = prefix + str(i)
+            if possible_uid in all_uids and possible_uid not in seen:
+                uids.append(possible_uid)
+                seen.add(possible_uid)
+    
+    # deal with ranges: sa390-391
+    # non-greedy match to the rescue
+    m = regex.match(r'(.*?)(\d+)-(\d+)(.*)', uid)
+    if m:
+        if m[4]:
+            # deal with weird ranges: sn19.1-19.21
+            # lets try a crazier regex with back reference
+            m = regex.match(r'((.*?)(.*\.?))(\d+)-\3(\d+)$', uid)
+            if m:
+                expand(m[1], m[4], m[5])            
+        else:
+            expand(m[1], m[2], m[3])
+    
+    # More complex: dhsk1-dhsk17 sn19.1-sn19.21
+    # backreference is a big help here!
+    m = regex.match(r'(.*)(\d+)-\1(\d+)', uid)
+    if m:
+        expand(m[1], m[2], m[3])
+    
+    return uids
+
+antispam = set()
+def print_once(msg):
+    if msg in antispam:
+        return
+    print(msg)
+    antispam.add(msg)
+    
+ll_edges = []
+for entry in parallels_data:
+    remarks = entry.pop('remarks', None)
+    assert len(entry) == 1
+    for r_type, uids in entry.items():
         pass
-
-    # Extract the mtimes from arangodb
-
-    old_mtimes = {entry['path']: entry['mtime'] for entry in db.aql.execute('''
-    FOR entry in mtimes
-        RETURN entry
-    ''') }
-
-
-    # Get the mtimes from the file system
-
-    new_mtimes = {}
-    for html_file in data_dir.glob('**/*.html'):
-        new_mtimes[str(html_file.relative_to(data_dir))] = html_file.stat().st_mtime_ns
-
-    deleted = set(old_mtimes).difference(new_mtimes)
-    changed_or_new = {}
-
-    for path, mtime in new_mtimes.items():
-        if mtime != old_mtimes.get(path):
-            changed_or_new[path] = mtime
+    full = [uid for uid in uids if not uid.startswith('~')]
+    partial = [uid for uid in uids if uid.startswith('~')]
     
-    return changed_or_new, deleted
+    for from_uid in full:
+        true_from_uids = get_true_uids(from_uid)
+        if not true_from_uids:
+            print_once(f'Could not find any uids for: {from_uid}')
+            continue
+        for to_uids, is_partial in ((full, False), (partial, True)):
+            for to_uid in to_uids:
+                if to_uid == from_uid:
+                    continue
+                true_to_uids = get_true_uids(to_uid)
+                if not true_from_uids:
+                    if is_partial:
+                        print_once(f'Could not find any uids for: {to_uid}')
+                    continue
+                
+                for true_from_uid in true_from_uids:
+                    for true_to_uid in true_to_uids:
+                        ll_edges.append({
+                            '_from': true_from_uid,
+                            '_to': true_to_uid,
+                            'from': from_uid,
+                            'to': to_uid.lstrip('~'),
+                            'type': r_type,
+                            'partial': is_partial,
+                        })
 
-changed_or_new, deleted = get_mtimes()
+db['relationships'].truncate()
+db['relationships'].import_bulk(ll_edges, from_prefix='root/', to_prefix='root/')
 
-def update_mtimes(changed_or_new, deleted):
-    # Update mtimes in arangodb
+print('Loading HTML texts')
 
-    mtimes_col.aql.execute('''
-    FOR entry IN mtimes
-        FILTER entry.path IN @to_remove
-        REMOVE entry
-    ''', to_remove=list(deleted))
-
-    db['mtimes'].import_bulk([{'path': k, 'mtime': v, '_key': k.replace('/', '_')} for k, v in changed_or_new.items()], on_duplicate="replace")
-
-    
+# Load HTML texts
 
 languages = db.aql.execute('''/* return all language objects as a key: value mapping */
     RETURN MERGE(
@@ -168,10 +293,13 @@ languages = db.aql.execute('''/* return all language objects as a key: value map
 
 authors = {} # to do
 
-import textdata
 with textdata.ArangoTextInfoModel(db=db) as tim:
     for lang_dir in html_dir.glob('*'):
         if not lang_dir.is_dir:
             continue
         tim.process_lang_dir(lang_dir=lang_dir, data_dir=data_dir, files_to_process=changed_or_new, force=False)
+
     
+change_tracker.update_mtimes()
+
+
