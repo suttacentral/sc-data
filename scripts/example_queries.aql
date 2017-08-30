@@ -30,3 +30,25 @@ because python can do the equivilant in the blink of an eye. Seems safe to assum
 merge is not optimized for large result sets. */
 
 
+/* Parallels API endpoint prototype */
+LET pairs = (FOR entry, edge IN 1..1 ANY 'root/dn2' relationships
+    /* We need to make sure the uid in question is on the "left hand side" which requires a conditional swap */
+    /* we should also note if we've performed this swap because sometimes direction matter */
+    RETURN (edge._from == 'root/dn2' ? {from: edge.from, to: edge.to, _from: edge._from, _to: edge._to} :
+                                    {from: edge.to, to: edge.from, _from: edge._to, _to: edge._from, inverted: true}))
+
+
+FOR result IN pairs
+    COLLECT from = result.from INTO right = {
+        to: result.to,
+        _to: result._to
+    }
+    RETURN {
+        left: from,
+        right: (FOR e IN UNIQUE(right)
+                    FOR sutta IN root
+                        FILTER e._to == sutta._id
+                        RETURN MERGE(e, {name: sutta.name})
+                        /* todo: add a translated name */
+                )
+    }
