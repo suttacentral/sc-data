@@ -40,8 +40,6 @@ def setup_database():
         ('mtimes', False),    
         ]
 
-
-
     for name, edge in collections:
         db.create_collection(name=name, edge=edge)
 
@@ -55,7 +53,10 @@ def setup_database():
 
     return db
 
-db = conn.database('sc')
+if 'sc' in conn.databases():
+    db = conn.database('sc')
+else:
+    db = setup_database()
 
 class ChangeTracker:
     def __init__(self, base_dir):
@@ -97,11 +98,11 @@ class ChangeTracker:
     def update_mtimes(self):
         # Update mtimes in arangodb
 
-        mtimes_col.aql.execute('''
+        db.aql.execute('''
         FOR entry IN mtimes
             FILTER entry.path IN @to_remove
-            REMOVE entry
-        ''', to_remove=list(self.deleted))
+            REMOVE entry IN mtimes
+        ''', bind_vars={"to_remove": list(self.deleted)})
 
         db['mtimes'].import_bulk([{'path': k, 'mtime': v, '_key': k.replace('/', '_')} for k, v in self.changed_or_new.items()], on_duplicate="replace")
 
@@ -183,103 +184,106 @@ if change_tracker.any_file_has_changed(root_files + category_files):
     db['root_edges'].truncate()
     db['root_edges'].import_bulk(edges)
 
-
-
 # generate parallel edges
 
 print('Generating Parallels')
 
-with (data_dir / 'relationships' / 'parallels.json').open('r', encoding='utf8') as f:
-    parallels_data = json.load(f)
+parallels_files = list((data_dir / 'relationships').glob('*.json'))
 
-all_uids = set(db.aql.execute('''
-FOR doc IN root
-    SORT doc.num
-    RETURN doc.uid
-'''))
+if change_tracker.any_file_has_changed(parallels_files):
+    parallels_data = []
+    for parallels_file in parallels_files:
+        with parallels_file.open('r', encoding='utf8') as f:
+            parallels_data.extend(json.load(f))
 
-def get_true_uids(uid):
-    uids = []
-    seen = set()
-    uid = uid.lstrip('~').split('#')[0]
-    if uid in all_uids:
-        uids.append(uid)
-        seen.add(uid)
-    
-    # Welcome to hell
-    
-    def expand(prefix, start, end):
-        for i in range(int(start), int(end) + 1):
-            possible_uid = prefix + str(i)
-            if possible_uid in all_uids and possible_uid not in seen:
-                uids.append(possible_uid)
-                seen.add(possible_uid)
-    
-    # deal with ranges: sa390-391
-    # non-greedy match to the rescue
-    m = regex.match(r'(.*?)(\d+)-(\d+)(.*)', uid)
-    if m:
-        if m[4]:
-            # deal with weird ranges: sn19.1-19.21
-            # lets try a crazier regex with back reference
-            m = regex.match(r'((.*?)(.*\.?))(\d+)-\3(\d+)$', uid)
-            if m:
-                expand(m[1], m[4], m[5])            
-        else:
+    all_uids = set(db.aql.execute('''
+    FOR doc IN root
+        SORT doc.num
+        RETURN doc.uid
+    '''))
+
+    def get_true_uids(uid):
+        uids = []
+        seen = set()
+        uid = uid.lstrip('~').split('#')[0]
+        if uid in all_uids:
+            uids.append(uid)
+            seen.add(uid)
+        
+        # Welcome to hell
+        
+        def expand(prefix, start, end):
+            for i in range(int(start), int(end) + 1):
+                possible_uid = prefix + str(i)
+                if possible_uid in all_uids and possible_uid not in seen:
+                    uids.append(possible_uid)
+                    seen.add(possible_uid)
+        
+        # deal with ranges: sa390-391
+        # non-greedy match to the rescue
+        m = regex.match(r'(.*?)(\d+)-(\d+)(.*)', uid)
+        if m:
+            if m[4]:
+                # deal with weird ranges: sn19.1-19.21
+                # lets try a crazier regex with back reference
+                m = regex.match(r'((.*?)(.*\.?))(\d+)-\3(\d+)$', uid)
+                if m:
+                    expand(m[1], m[4], m[5])            
+            else:
+                expand(m[1], m[2], m[3])
+        
+        # More complex: dhsk1-dhsk17 sn19.1-sn19.21
+        # backreference is a big help here!
+        m = regex.match(r'(.*)(\d+)-\1(\d+)', uid)
+        if m:
             expand(m[1], m[2], m[3])
-    
-    # More complex: dhsk1-dhsk17 sn19.1-sn19.21
-    # backreference is a big help here!
-    m = regex.match(r'(.*)(\d+)-\1(\d+)', uid)
-    if m:
-        expand(m[1], m[2], m[3])
-    
-    return uids
+        
+        return uids
 
-antispam = set()
-def print_once(msg):
-    if msg in antispam:
-        return
-    print(msg)
-    antispam.add(msg)
-    
-ll_edges = []
-for entry in parallels_data:
-    remarks = entry.pop('remarks', None)
-    assert len(entry) == 1
-    for r_type, uids in entry.items():
-        pass
-    full = [uid for uid in uids if not uid.startswith('~')]
-    partial = [uid for uid in uids if uid.startswith('~')]
-    
-    for from_uid in full:
-        true_from_uids = get_true_uids(from_uid)
-        if not true_from_uids:
-            print_once(f'Could not find any uids for: {from_uid}')
-            continue
-        for to_uids, is_partial in ((full, False), (partial, True)):
-            for to_uid in to_uids:
-                if to_uid == from_uid:
-                    continue
-                true_to_uids = get_true_uids(to_uid)
-                if not true_from_uids:
-                    if is_partial:
-                        print_once(f'Could not find any uids for: {to_uid}')
-                    continue
-                
-                for true_from_uid in true_from_uids:
-                    for true_to_uid in true_to_uids:
-                        ll_edges.append({
-                            '_from': true_from_uid,
-                            '_to': true_to_uid,
-                            'from': from_uid,
-                            'to': to_uid.lstrip('~'),
-                            'type': r_type,
-                            'partial': is_partial,
-                        })
+    antispam = set()
+    def print_once(msg):
+        if msg in antispam:
+            return
+        print(msg)
+        antispam.add(msg)
+        
+    ll_edges = []
+    for entry in parallels_data:
+        remarks = entry.pop('remarks', None)
+        assert len(entry) == 1
+        for r_type, uids in entry.items():
+            pass
+        full = [uid for uid in uids if not uid.startswith('~')]
+        partial = [uid for uid in uids if uid.startswith('~')]
+        
+        for from_uid in full:
+            true_from_uids = get_true_uids(from_uid)
+            if not true_from_uids:
+                print_once(f'Could not find any uids for: {from_uid}')
+                continue
+            for to_uids, is_partial in ((full, False), (partial, True)):
+                for to_uid in to_uids:
+                    if to_uid == from_uid:
+                        continue
+                    true_to_uids = get_true_uids(to_uid)
+                    if not true_from_uids:
+                        if is_partial:
+                            print_once(f'Could not find any uids for: {to_uid}')
+                        continue
+                    
+                    for true_from_uid in true_from_uids:
+                        for true_to_uid in true_to_uids:
+                            ll_edges.append({
+                                '_from': true_from_uid,
+                                '_to': true_to_uid,
+                                'from': from_uid,
+                                'to': to_uid.lstrip('~'),
+                                'type': r_type,
+                                'partial': is_partial,
+                            })
 
-db['relationships'].truncate()
-db['relationships'].import_bulk(ll_edges, from_prefix='root/', to_prefix='root/')
+    db['relationships'].truncate()
+    db['relationships'].import_bulk(ll_edges, from_prefix='root/', to_prefix='root/')
 
 print('Loading HTML texts')
 
