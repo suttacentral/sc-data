@@ -52,3 +52,22 @@ FOR result IN pairs
                         /* todo: add a translated name */
                 )
     }
+
+
+
+/* This query creates edges between texts and their translations */
+FOR sutta IN root
+    FOR text IN html_text
+        FILTER sutta.uid == text.uid
+        INSERT {
+            _from: sutta._id,
+            _to: text._id,
+            lang: text.lang
+        } INTO text_edges
+        
+
+/* This query finds an ancestor of given type (i.e. language) it is quite fast*/
+FOR entry IN 1..10 INBOUND @sutta_id root_edges
+    FILTER entry.type == 'language'
+    RETURN entry
+    

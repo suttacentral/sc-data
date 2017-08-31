@@ -18,7 +18,7 @@ conn = ArangoClient(**settings.arango)
 data_dir = settings.data_dir
 
 html_dir = data_dir / 'html_text'
-relationship_dir = data_dir / 'relationships'
+relationship_dir = data_dir / 'relationship'
 structure_dir = data_dir / 'structure'
 
 def setup_database():
@@ -50,6 +50,7 @@ def setup_database():
     db['html_text'].add_hash_index(fields=["author_uid"], unique=False)
     db['html_text'].add_hash_index(fields=["lang"], unique=False)
     db['root'].add_hash_index(fields=["uid"], unique=False)
+    db['relationships'].add_hash_index(fields=["_to"], unique=False)
 
     return db
 
@@ -129,7 +130,7 @@ if change_tracker.any_file_has_changed(root_files + category_files):
             mapping[path] = entry
             
             uid = path.parts[-1]
-            if unique_counter[uid] > 1:
+            if unique_counter[uid] > 1 or uid.startswith('vagga'):
                 # uid is the end of path, unless it is non-unique in which case
                 # combine with the second to last part of path
                 uid = '-'.join(entry['_path'].split('/')[-2:])
@@ -188,7 +189,7 @@ if change_tracker.any_file_has_changed(root_files + category_files):
 
 print('Generating Parallels')
 
-parallels_files = list((data_dir / 'relationships').glob('*.json'))
+parallels_files = list(relationship_dir.glob('*.json'))
 
 if change_tracker.any_file_has_changed(parallels_files):
     parallels_data = []
@@ -198,7 +199,6 @@ if change_tracker.any_file_has_changed(parallels_files):
 
     all_uids = set(db.aql.execute('''
     FOR doc IN root
-        SORT doc.num
         RETURN doc.uid
     '''))
 
@@ -301,7 +301,7 @@ with textdata.ArangoTextInfoModel(db=db) as tim:
     for lang_dir in html_dir.glob('*'):
         if not lang_dir.is_dir:
             continue
-        tim.process_lang_dir(lang_dir=lang_dir, data_dir=data_dir, files_to_process=changed_or_new, force=False)
+        tim.process_lang_dir(lang_dir=lang_dir, data_dir=data_dir, files_to_process=change_tracker.changed_or_new, force=False)
 
     
 change_tracker.update_mtimes()
