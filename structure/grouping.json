@@ -1,33 +1,34 @@
-[
-    {
-        "uid": "long",
-        "name": "Long",
-        "contains": ["dn", "da", "da-ot"]
-    },
-    {
-        "uid": "medium",
-        "name": "Medium",
-        "contains": ["mn", "ma", "ma-ot"]
-    },
-    {
-        "uid": "linked",
-        "name": "Linked",
-        "contains": ["sn", "sa", "sa-2", "sa-3", "sa-ot"]
-    },
-    {
-        "uid": "numbered",
-        "name": "Numbered",
-        "contains": ["an", "ea", "ea-2", "ea-ot"]
-    },
-    {
-        "uid": "minor",
-        "name": "Minor",
-        "contains": ["kn", "lzh-ja"]
-    },
-    {
-        "uid": "other",
-        "name": "Other",
-        "contains": []
-    }
-]
-    
+{
+    "su": [
+        {
+            "uid": "long",
+            "name": "Long",
+            "contains": ["dn", "da", "da-ot"]
+        },
+        {
+            "uid": "medium",
+            "name": "Medium",
+            "contains": ["mn", "ma", "ma-ot"]
+        },
+        {
+            "uid": "linked",
+            "name": "Linked",
+            "contains": ["sn", "sa", "sa-2", "sa-3", "sa-ot"]
+        },
+        {
+            "uid": "numbered",
+            "name": "Numbered",
+            "contains": ["an", "ea", "ea-2", "ea-ot"]
+        },
+        {
+            "uid": "minor",
+            "name": "Minor",
+            "contains": ["kn", "lzh-ja"]
+        },
+        {
+            "uid": "other",
+            "name": "Other",
+            "contains": []
+        }
+    ]
+}
