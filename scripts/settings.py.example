@@ -1,8 +1,0 @@
-import pathlib
-
-arango = {
-    "username": "",
-    "password": ""
-}
-
-base_dir = pathlib.Path('../')
