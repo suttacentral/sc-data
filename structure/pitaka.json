@@ -2,6 +2,14 @@
   {
     "uid": "su",
     "name": "Sutta",
+    "grouping": [
+      "long",
+      "medium",
+      "linked",
+      "numbered",
+      "minor",
+      "other"
+    ],
     "contains": [
       "dn",
       "mn",
@@ -47,6 +55,7 @@
   {
     "uid": "vi",
     "name": "Vinaya",
+    "grouping": [],
     "contains": [
       "pi-tv-bu-vb",
       "pi-tv-bi-vb",
@@ -146,6 +155,7 @@
   {
     "uid": "ab",
     "name": "Abhidhamma",
+    "grouping": [],
     "contains": [
       "ds",
       "vb",
