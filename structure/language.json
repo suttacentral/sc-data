@@ -218,12 +218,6 @@
     "iso_code": "ar"
   },
   {
-    "uid": "bo",
-    "name": "Tibetan",
-    "is_root": false,
-    "iso_code": "bo"
-  },
-  {
     "uid": "ca",
     "name": "Català",
     "is_root": false,
@@ -326,18 +320,6 @@
     "iso_code": "no"
   },
   {
-    "uid": "oth",
-    "name": "Other",
-    "is_root": false,
-    "iso_code": "ot"
-  },
-  {
-    "uid": "pi",
-    "name": "Pāli",
-    "is_root": false,
-    "iso_code": "pi"
-  },
-  {
     "uid": "pl",
     "name": "Polski",
     "is_root": false,
@@ -354,12 +336,6 @@
     "name": "ру́сский язы́к",
     "is_root": false,
     "iso_code": "ru"
-  },
-  {
-    "uid": "skt",
-    "name": "Sanskrit",
-    "is_root": false,
-    "iso_code": "sa"
   },
   {
     "uid": "si",
@@ -404,12 +380,6 @@
     "iso_code": "vn"
   },
   {
-    "uid": "lzh",
-    "name": "Chinese",
-    "is_root": false,
-    "iso_code": "lzh"
-  },
-  {
     "uid": "zh",
     "name": "汉语",
     "is_root": false,
@@ -420,18 +390,6 @@
     "name": "မြန်မာဘာသာ",
     "is_root": false,
     "iso_code": "my"
-  },
-  {
-    "uid": "gr",
-    "name": "Gāndhārī",
-    "is_root": false,
-    "iso_code": "gr"
-  },
-  {
-    "uid": "pr",
-    "name": "Prākrit",
-    "is_root": false,
-    "iso_code": "pr"
   },
   {
     "uid": "mr",
