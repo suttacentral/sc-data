@@ -88,10 +88,10 @@
     ]
   },
   {
-    "uid": "pi",
+    "uid": "pli",
     "name": "Pāli",
     "is_root": true,
-    "iso_code": "pi",
+    "iso_code": "pli",
     "contains": [
       "dn",
       "mn",
@@ -116,10 +116,10 @@
     ]
   },
   {
-    "uid": "skt",
+    "uid": "san",
     "name": "Sanskrit",
     "is_root": true,
-    "iso_code": "sa",
+    "iso_code": "san",
     "contains": [
       "arv",
       "avs",
@@ -154,10 +154,10 @@
     ]
   },
   {
-    "uid": "bo",
+    "uid": "xct",
     "name": "Tibetan",
     "is_root": true,
-    "iso_code": "bo",
+    "iso_code": "xct",
     "contains": [
       "dq",
       "up",
@@ -174,10 +174,10 @@
     ]
   },
   {
-    "uid": "gr",
+    "uid": "pgd",
     "name": "Gāndhārī",
     "is_root": true,
-    "iso_code": "gr",
+    "iso_code": "pgd",
     "contains": [
       "gdhp",
       "gf",
@@ -186,10 +186,10 @@
     ]
   },
   {
-    "uid": "pr",
+    "uid": "pra",
     "name": "Prākrit",
     "is_root": true,
-    "iso_code": "pr",
+    "iso_code": "pra",
     "contains": [
       "pdhp",
       "pf"
@@ -392,10 +392,10 @@
     "iso_code": "th"
   },
   {
-    "uid": "ug",
+    "uid": "uig",
     "name": "Uighur",
     "is_root": false,
-    "iso_code": "ug"
+    "iso_code": "uig"
   },
   {
     "uid": "vn",
