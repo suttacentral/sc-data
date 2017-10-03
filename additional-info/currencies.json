@@ -3,816 +3,952 @@
         "name": "Afghan Afghani",
         "symbol": "AFN",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Albanian Lek",
         "symbol": "ALL",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Algerian Dinar",
         "symbol": "DZD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Angolan Kwanza",
         "symbol": "AOA",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Argentine Peso",
         "symbol": "ARS",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Armenian Dram",
         "symbol": "AMD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Aruban Florin",
         "symbol": "AWG",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Australian Dollar",
         "symbol": "AUD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Azerbaijani Manat",
         "symbol": "AZN",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Bahamian Dollar",
         "symbol": "BSD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Bangladeshi Taka",
         "symbol": "BDT",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Barbadian Dollar",
         "symbol": "BBD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Belize Dollar",
         "symbol": "BZD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Bermudian Dollar",
         "symbol": "BMD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Bolivian Boliviano",
         "symbol": "BOB",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Bosnia & Herzegovina Convertible Mark",
         "symbol": "BAM",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Botswana Pula",
         "symbol": "BWP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Brazilian Real",
         "symbol": "BRL",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "British Pound",
         "symbol": "GBP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Brunei Dollar",
         "symbol": "BND",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Bulgarian Lev",
         "symbol": "BGN",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Burundian Franc",
         "symbol": "BIF",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Cambodian Riel",
         "symbol": "KHR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Canadian Dollar",
         "symbol": "CAD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Cape Verdean Escudo",
         "symbol": "CVE",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Cayman Islands Dollar",
         "symbol": "KYD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Central African Cfa Franc",
         "symbol": "XAF",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Cfp Franc",
         "symbol": "XPF",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Chilean Peso",
         "symbol": "CLP",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Chinese Renminbi Yuan",
         "symbol": "CNY",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Colombian Peso",
         "symbol": "COP",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Comorian Franc",
         "symbol": "KMF",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Congolese Franc",
         "symbol": "CDF",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Costa Rican Col\u00f3n",
         "symbol": "CRC",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Croatian Kuna",
         "symbol": "HRK",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Czech Koruna",
         "symbol": "CZK",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Danish Krone",
         "symbol": "DKK",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Djiboutian Franc",
         "symbol": "DJF",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Dominican Peso",
         "symbol": "DOP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "East Caribbean Dollar",
         "symbol": "XCD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Egyptian Pound",
         "symbol": "EGP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Ethiopian Birr",
         "symbol": "ETB",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Euro",
         "symbol": "EUR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Falkland Islands Pound",
         "symbol": "FKP",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Fijian Dollar",
         "symbol": "FJD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Gambian Dalasi",
         "symbol": "GMD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Georgian Lari",
         "symbol": "GEL",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Gibraltar Pound",
         "symbol": "GIP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Guatemalan Quetzal",
         "symbol": "GTQ",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Guinean Franc",
         "symbol": "GNF",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Guyanese Dollar",
         "symbol": "GYD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Haitian Gourde",
         "symbol": "HTG",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Honduran Lempira",
         "symbol": "HNL",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Hong Kong Dollar",
         "symbol": "HKD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Hungarian Forint",
         "symbol": "HUF",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Icelandic Kr\u00f3na",
         "symbol": "ISK",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Indian Rupee",
         "symbol": "INR",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Indonesian Rupiah",
         "symbol": "IDR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Israeli New Sheqel",
         "symbol": "ILS",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Jamaican Dollar",
         "symbol": "JMD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Japanese Yen",
         "symbol": "JPY",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Kazakhstani Tenge",
         "symbol": "KZT",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Kenyan Shilling",
         "symbol": "KES",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Kyrgyzstani Som",
         "symbol": "KGS",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Lao Kip",
         "symbol": "LAK",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Lebanese Pound",
         "symbol": "LBP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Lesotho Loti",
         "symbol": "LSL",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Liberian Dollar",
         "symbol": "LRD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Macanese Pataca",
         "symbol": "MOP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Macedonian Denar",
         "symbol": "MKD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Malagasy Ariary",
         "symbol": "MGA",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Malawian Kwacha",
         "symbol": "MWK",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Malaysian Ringgit",
         "symbol": "MYR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Maldivian Rufiyaa",
         "symbol": "MVR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Mauritanian Ouguiya",
         "symbol": "MRO",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Mauritian Rupee",
         "symbol": "MUR",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Mexican Peso",
         "symbol": "MXN",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Moldovan Leu",
         "symbol": "MDL",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Mongolian T\u00f6gr\u00f6g",
         "symbol": "MNT",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Moroccan Dirham",
         "symbol": "MAD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Mozambican Metical",
         "symbol": "MZN",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Myanmar Kyat",
         "symbol": "MMK",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Namibian Dollar",
         "symbol": "NAD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Nepalese Rupee",
         "symbol": "NPR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Netherlands Antillean Gulden",
         "symbol": "ANG",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "New Taiwan Dollar",
         "symbol": "TWD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "New Zealand Dollar",
         "symbol": "NZD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Nicaraguan C\u00f3rdoba",
         "symbol": "NIO",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Nigerian Naira",
         "symbol": "NGN",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Norwegian Krone",
         "symbol": "NOK",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Pakistani Rupee",
         "symbol": "PKR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Panamanian Balboa",
         "symbol": "PAB",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Papua New Guinean Kina",
         "symbol": "PGK",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Paraguayan Guaran\u00ed",
         "symbol": "PYG",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Peruvian Nuevo Sol",
         "symbol": "PEN",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Philippine Peso",
         "symbol": "PHP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Polish Z\u0142oty",
         "symbol": "PLN",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Qatari Riyal",
         "symbol": "QAR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Romanian Leu",
         "symbol": "RON",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Russian Ruble",
         "symbol": "RUB",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Rwandan Franc",
         "symbol": "RWF",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe Dobra",
         "symbol": "STD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Saint Helenian Pound",
         "symbol": "SHP",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Salvadoran Col\u00f3n",
         "symbol": "SVC",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Samoan Tala",
         "symbol": "WST",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Saudi Riyal",
         "symbol": "SAR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Serbian Dinar",
         "symbol": "RSD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Seychellois Rupee",
         "symbol": "SCR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Sierra Leonean Leone",
         "symbol": "SLL",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Singapore Dollar",
         "symbol": "SGD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Solomon Islands Dollar",
         "symbol": "SBD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Somali Shilling",
         "symbol": "SOS",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "South African Rand",
         "symbol": "ZAR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "South Korean Won",
         "symbol": "KRW",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Sri Lankan Rupee",
         "symbol": "LKR",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Surinamese Dollar",
         "symbol": "SRD",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Swazi Lilangeni",
         "symbol": "SZL",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Swedish Krona",
         "symbol": "SEK",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Swiss Franc",
         "symbol": "CHF",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Tajikistani Somoni",
         "symbol": "TJS",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Tanzanian Shilling",
         "symbol": "TZS",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Thai Baht",
         "symbol": "THB",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Tongan Pa\u02bbanga",
         "symbol": "TOP",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Trinidad and Tobago Dollar",
         "symbol": "TTD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Turkish Lira",
         "symbol": "TRY",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Ugandan Shilling",
         "symbol": "UGX",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Ukrainian Hryvnia",
         "symbol": "UAH",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "United Arab Emirates Dirham",
         "symbol": "AED",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "United States Dollar",
         "symbol": "USD",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Uruguayan Peso",
         "symbol": "UYU",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Uzbekistani Som",
         "symbol": "UZS",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Vanuatu Vatu",
         "symbol": "VUV",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Vietnamese \u0110\u1ed3ng",
         "symbol": "VND",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "West African Cfa Franc",
         "symbol": "XOF",
         "american_express": false,
-        "use": true
+        "use": true,
+        "decimal": false
     },
     {
         "name": "Yemeni Rial",
         "symbol": "YER",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     },
     {
         "name": "Zambian Kwacha",
         "symbol": "ZMW",
         "american_express": true,
-        "use": true
+        "use": true,
+        "decimal": true
     }
 ]
