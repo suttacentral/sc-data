@@ -114,7 +114,7 @@
         "parallels": ["an1.258-267", "ea7.1-3", "~t126#t0834a27-#t0834b21"]
     },
     {
-        "parallels": ["an1.268-277", "~mn115", "~dq110", "~ma181", "~t1537.10", "~t776", "~up1.032"]
+        "parallels": ["an1.268-277", "~mn115", "~d297#sha297a", "~ma181", "~t1537.10", "~t776", "~up1.032"]
     },
     {
         "parallels": ["an1.29", "ea11.5"]
@@ -332,7 +332,7 @@
         "parallels": ["an10.6", "~an11.18", "~an11.7"]
     },
     {
-        "parallels": ["an10.60", "dq100"]
+        "parallels": ["an10.60", "d38#ka276a5-279a2"]
     },
     {
         "parallels": ["an10.61", "~an10.62", "~ma51", "~ma52", "~ma53", "~t36", "~t37"]
@@ -419,7 +419,7 @@
         "parallels": ["an11.15", "ea49.10", "sht-sutta4", "t138", "~an8.1"]
     },
     {
-        "parallels": ["an11.17", "~mn33", "~ea49.1", "~sa1249", "~t123", "~t1509.2", "~dq104"]
+        "parallels": ["an11.17", "~mn33", "~ea49.1", "~sa1249", "~t123", "~t1509.2", "~d211#tsha123b1-125a3"]
     },
     {
         "parallels": ["an11.18", "~an10.6"]
@@ -1695,11 +1695,11 @@
         "retells": ["dn19", "cp5"]
     },
     {
-        "parallels": ["dn2", "da27", "dq70", "ea43.7", "sht-sutta58", "san-mu-kd17#sbvii216-#sbvii235", "t22", "~sa154-163", "~sf1", "~sf288", "~t1442.13", "~t1444.1", "~t1450.10"],
+        "parallels": ["dn2", "da27", "d1#nga258a", "ea43.7", "sht-sutta58", "san-mu-kd17#sbvii216-#sbvii235", "t22", "~sa154-163", "~sf1", "~sf288", "~t1442.13", "~t1444.1", "~t1450.10"],
         "remarks": "sht-sutta58: Identified in <span class='author'>Wille</span> 2005:9."
     },
     {
-        "parallels": ["dn20", "da19", "sf108", "sf140", "sf242", "sf282", "sf55", "sht-sutta8", "t19", "tib90", "~sa-2.105", "~sa1192", "~sn1.37"]
+        "parallels": ["dn20", "da19", "sf108", "sf140", "sf242", "sf282", "sf55", "sht-sutta8", "t19", "d34", "~sa-2.105", "~sa1192", "~sn1.37"]
     },
     {
         "parallels": ["dn21", "da14", "ma134", "sht-sutta54", "t15", "t203.73", "~sf139", "~sf241"],
@@ -1740,7 +1740,7 @@
         "remarks": "sht-sutta39: Identified in SHT viii p. 169."
     },
     {
-        "parallels": ["dn3", "da20", "dq40", "dq85", "sht-sutta26", "t20", "~sf43"]
+        "parallels": ["dn3", "da20", "d1#kha63a", "d6#da191a", "sht-sutta26", "t20", "~sf43"]
     },
     {
         "parallels": ["dn30", "~ma59"]
@@ -1749,7 +1749,7 @@
         "parallels": ["dn31", "da16", "ma135", "sht-sutta43", "t16", "t17", "~sf100"]
     },
     {
-        "parallels": ["dn32", "sht-sutta6", "t1245", "tib100", "~sf103", "~sf143", "~sf269", "~sf45", "~sf71", "~sf77"],
+        "parallels": ["dn32", "sht-sutta6", "t1245", "d33", "~sf103", "~sf143", "~sf269", "~sf45", "~sf71", "~sf77"],
         "remarks": "sht-sutta6: Identified in SHT viii p. 198."
     },
     {
@@ -1783,16 +1783,16 @@
         "parallels": ["dn9", "da28", "~sf297", "~sf59"]
     },
     {
-        "parallels": ["dq104", "~sn12.1-2", "~sa298", "~t124", "~an11.17"]
+        "parallels": ["d211#tsha123b1-125a3", "~sn12.1-2", "~sa298", "~t124", "~an11.17"]
     },
     {
-        "parallels": ["dq120", "~mn133", "~ma165"]
+        "parallels": ["d313#sa161b", "~mn133", "~ma165"]
     },
     {
-        "parallels": ["dq140", "~mn133", "~ma165"]
+        "parallels": ["d617#ba56a", "~mn133", "~ma165"]
     },
     {
-        "parallels": ["dq150", "~mn133", "~ma165"]
+        "parallels": ["d974#wam101.90a", "~mn133", "~ma165"]
     },
     {
         "parallels": ["ea-2.1", "sn22.57_a"]
@@ -1816,7 +1816,7 @@
         "parallels": ["ea-2.9", "~an4.95"]
     },
     {
-        "parallels": ["ea1.1", "~mn83", "~dq30", "~ea50.4", "~ja541", "~ja9", "~ma67", "~t152.87", "~t211.38", "~up2.050"]
+        "parallels": ["ea1.1", "~mn83", "~d1#kha53a", "~ea50.4", "~ja541", "~ja9", "~ma67", "~t152.87", "~t211.38", "~up2.050"]
     },
     {
         "parallels": ["ea12.7", "~sn17.35-36", "~pli-tv-kd17#22-#30", "~sa1064", "~an4.68", "~ea23.7", "~sa-2.3"]
@@ -1840,7 +1840,7 @@
         "parallels": ["ea18.9", "~an2.25-26"]
     },
     {
-        "parallels": ["ea19.2", "~sn56.11", "~pli-tv-kd1#68-#84", "~dq95", "~lal26", "~san-mu-kd17#sbvi134-#sbvi139", "~t109", "~lzh-mi-kd1#t0104b23", "~lzh-dg-kd1#t0788a06-#t0788c08", "~t1450.6", "~pli-tv-kd1#68-#84"],
+        "parallels": ["ea19.2", "~sn56.11", "~pli-tv-kd1#68-#84", "~d31#ka180b1-183a7", "~lal26", "~san-mu-kd17#sbvi134-#sbvi139", "~t109", "~lzh-mi-kd1#t0104b23", "~lzh-dg-kd1#t0788a06-#t0788c08", "~t1450.6", "~pli-tv-kd1#68-#84"],
         "remarks": "lzh-mi-kd1#t0104b23: embedded parallel uid t1421.15b, lzh-dg-kd1#t0788a06-#t0788c08: embedded parallel uid t1428.32a, pli-tv-kd1#68-#84: embedded parallel uid pancavaggiyakatha"
     },
     {
@@ -2004,7 +2004,7 @@
         "parallels": ["ja546", "~san-lo-mvu44"]
     },
     {
-        "parallels": ["kf10", "~mn135", "~dq130", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~tib40"],
+        "parallels": ["kf10", "~mn135", "~d339#sa298b", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~d339#sa298b"],
         "remarks": "ma170: The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class='author'>Lévi</span> 1933 (cf. also <span class='author'>Sieg</span> 1938), and in the Sogdian fragment in <span class='author'>Rosenberg</span> 1920, do not parallel MN 135."
     },
     {
@@ -2061,7 +2061,7 @@
         "parallels": ["ma148", "~an5.31"]
     },
     {
-        "parallels": ["ma204", "~sn56.11", "~pli-tv-kd1#68-#84", "~dq95", "~lal26", "~san-mu-kd17#sbvi134-#sbvi139", "~t109", "~lzh-mi-kd1#t0104b23", "~lzh-dg-kd1#t0788a06-#t0788c08", "~t1450.6", "~pli-tv-kd1#68-#84"],
+        "parallels": ["ma204", "~sn56.11", "~pli-tv-kd1#68-#84", "~d31#ka180b1-183a7", "~lal26", "~san-mu-kd17#sbvi134-#sbvi139", "~t109", "~lzh-mi-kd1#t0104b23", "~lzh-dg-kd1#t0788a06-#t0788c08", "~t1450.6", "~pli-tv-kd1#68-#84"],
         "remarks": "lzh-mi-kd1#t0104b23: embedded parallel uid t1421.15b, lzh-dg-kd1#t0788a06-#t0788c08: embedded parallel uid t1428.32a, pli-tv-kd1#68-#84: embedded parallel uid pancavaggiyakatha"
     },
     {
@@ -2089,7 +2089,7 @@
         "parallels": ["mn101", "ma19"]
     },
     {
-        "parallels": ["mn102", "sht-sutta24", "tib80", "~sf57"]
+        "parallels": ["mn102", "sht-sutta24", "d294", "~sf57"]
     },
     {
         "parallels": ["mn104", "ma196", "t85"]
@@ -2125,7 +2125,7 @@
         "parallels": ["mn114", "~an9.6", "~ma109#t0598c14"]
     },
     {
-        "parallels": ["mn115", "dq110", "ma181", "t1537.10", "t776", "up1.032", "~an1.268-277", "~t1509.24a"]
+        "parallels": ["mn115", "d297#sha297a", "ma181", "t1537.10", "t776", "up1.032", "~an1.268-277", "~t1509.24a"]
     },
     {
         "parallels": ["mn116", "ea38.7"],
@@ -2151,10 +2151,10 @@
         "remarks": "ma168: <span class='author'>Akanuma</span> p. 169 lists A iv. 123, 124 as parallel(s). Neither AN 4.123–124 at AN ii 126 nor AN 7.66 at AN iv 123–124 bears any resemblance to MN 120. He also lists MA 168 as a full parallel, yet  examination shows that this discourse differs in so many respects from MN 120 that it is probably best reckoned as a partial parallel. A so far unpublished Gandharī fragment, Senior manuscript 10, parallels part of MN 120 (Mark Allon, private communication)."
     },
     {
-        "parallels": ["mn121", "ma190", "tib60"]
+        "parallels": ["mn121", "ma190", "d290"]
     },
     {
-        "parallels": ["mn122", "ma191", "tib70"]
+        "parallels": ["mn122", "ma191", "d291"]
     },
     {
         "parallels": ["mn123", "ma32", "~an4.127"],
@@ -2196,13 +2196,13 @@
         "parallels": ["mn132", "ma167", "~sf106"]
     },
     {
-        "parallels": ["mn133", "ma165", "~dq120", "~dq140", "~dq150", "~t1362"]
+        "parallels": ["mn133", "ma165", "~d313#sa161b", "~d617#ba56a", "~d974#wam101.90a", "~t1362"]
     },
     {
         "parallels": ["mn134", "ma166", "t77"]
     },
     {
-        "parallels": ["mn135", "dq130", "ma170", "sht-sutta67", "t755", "t78", "t79", "t80", "t81", "tib40", "~kf10", "~sf76", "~sf85", "~sf87", "~sf88", "~sf98", "~mn99", "~ma152"],
+        "parallels": ["mn135", "d339#sa298b", "ma170", "sht-sutta67", "t755", "t78", "t79", "t80", "t81", "d339#sa298b", "~kf10", "~sf76", "~sf85", "~sf87", "~sf88", "~sf98", "~mn99", "~ma152"],
         "remarks": "ma170: The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class='author'>Lévi</span> 1933 (cf. also <span class='author'>Sieg</span> 1938), and in the Sogdian fragment in <span class='author'>Rosenberg</span> 1920, do not parallel MN 135., sf98: New edition <span class='author'>Kudo</span> 2004."
     },
     {
@@ -2246,7 +2246,7 @@
         "parallels": ["mn144", "sa1266", "sn35.87"]
     },
     {
-        "parallels": ["mn145", "divy2", "dq20", "sa311", "sn35.88", "t108", "t1448.3"],
+        "parallels": ["mn145", "divy2", "d1#ka304b", "sa311", "sn35.88", "t108", "t1448.3"],
         "remarks": "sa311: <span class='author'>Akanuma</span> p. 171 lists SA 215 at T ii 54b as a further parallel. However, SA 215 corresponds to only the first section of MN 145. We follow <span class='author'>Yin Shun</span> 1983 vol. i pp. 263–264 in identifying SA 215 as rather a parallel to SN 35.70, which it matches closely though disagreeing over the bhikkhu’s name: Punna in SA 215, Upavana in SN 35.70."
     },
     {
@@ -2443,7 +2443,7 @@
         "remarks": "sht-sutta29: SHT iii 966 is identified in SHT vii p. 272. | SHT iv 165.32+37 is identified in SHT vi p. 212."
     },
     {
-        "parallels": ["mn61", "dq80", "ma14", "sht-sutta49", "t1442.24", "t211.31", "t212.14", "~t1509.13"]
+        "parallels": ["mn61", "d3#cha215a", "ma14", "sht-sutta49", "t1442.24", "t211.31", "t212.14", "~t1509.13"]
     },
     {
         "parallels": ["mn62", "ea17.1"]
@@ -2490,7 +2490,7 @@
         "parallels": ["mn73", "sa-2.198", "sa964"]
     },
     {
-        "parallels": ["mn74", "avs99", "sa-2.203", "sa969", "t1509.1a", "t1545.98", "t200.90", "tib20", "tib30", "~sf133", "~sf81"],
+        "parallels": ["mn74", "avs99", "sa-2.203", "sa969", "t1509.1a", "t1545.98", "t200.90", "xct-mu-kd-devacandra", "xct-mu-kd-eimer", "~sf133", "~sf81"],
         "remarks": "sf133: New edition Hosoda 1989b."
     },
     {
@@ -2519,16 +2519,16 @@
         "parallels": ["mn80", "ma209", "t90"]
     },
     {
-        "parallels": ["mn81", "dq10", "ma63", "san-mu-kd17#sbvii22-#sbvii30", "t197.10", "~san-lo-mvu31"]
+        "parallels": ["mn81", "d1#ga4a", "ma63", "san-mu-kd17#sbvii22-#sbvii30", "t197.10", "~san-lo-mvu31"]
     },
     {
-        "parallels": ["mn82", "avs90", "dq60", "ma132", "sht-sutta18", "t68", "t69", "tib10", "~sf101", "~sf283", "~t1507.4", "~t199.18a", "~t199.18b", "~pli-tv-bu-vb-pj1#41-#59"]
+        "parallels": ["mn82", "avs90", "d1#kha101a", "ma132", "sht-sutta18", "t68", "t69", "d1#kha101a", "~sf101", "~sf283", "~t1507.4", "~t199.18a", "~t199.18b", "~pli-tv-bu-vb-pj1#41-#59"]
     },
     {
         "mentions": ["mn82", "~tha-ap20"]
     },
     {
-        "parallels": ["mn83", "dq30", "ea50.4", "ja541", "ja9", "ma67", "t152.87", "t211.38", "up2.050", "~ea1.1", "~t744"]
+        "parallels": ["mn83", "d1#kha53a", "ea50.4", "ja541", "ja9", "ma67", "t152.87", "t211.38", "up2.050", "~ea1.1", "~t744"]
     },
     {
         "retells": ["ja9", "cp6"]
@@ -2554,14 +2554,14 @@
         "parallels": ["mn88", "ma214"]
     },
     {
-        "parallels": ["mn89", "an10.30", "dq90", "ea38.10", "ma213", "t1451.8"]
+        "parallels": ["mn89", "an10.30", "d6#tha82a", "ea38.10", "ma213", "t1451.8"]
     },
     {
         "parallels": ["mn9", "sa344", "~ma29", "~sf172", "~an9.13"],
         "remarks": "ma29: <span class='author'>Akanuma</span> p. 163 lists EA 49.5 at T ii 797b as a partial parallel. EA 49.5 reports the Buddha giving a detailed explanation of the twelve links of <i>paṭiccasamuppada</i> and correcting Ānanda’s lack of appreciation of its profundity. It finds its closest parallel in SN 12.2 at SN ii 2 as regards the exposition of <i>paṭiccasamuppada</i>; and it has Ānanda’s underestimation of the profundity of <i>paṭiccasamuppada</i> in common with DN 15 at DN ii 55 and SN 12.60 at SN ii 92."
     },
     {
-        "parallels": ["mn90", "dq50", "ma212"]
+        "parallels": ["mn90", "d1#kha86a", "ma212"]
     },
     {
         "parallels": ["mn91", "ma161", "sht-sutta53", "t76"]
@@ -2590,7 +2590,7 @@
         "parallels": ["mn98", "snp3.9"]
     },
     {
-        "parallels": ["mn99", "ma152", "~mn135", "~dq130", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~tib40"],
+        "parallels": ["mn99", "ma152", "~mn135", "~d339#sa298b", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~d339#sa298b"],
         "remarks": "ma170: The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class='author'>Lévi</span> 1933 (cf. also <span class='author'>Sieg</span> 1938), and in the Sogdian fragment in <span class='author'>Rosenberg</span> 1920, do not parallel MN 135. ma152: <span class='author'>Akanuma</span> p. 168 lists T 79 at T i 888b as a parallel to MN 99. Inspection reveals that T 79 is rather a parallel to MN 135."
     },
     {
@@ -2880,7 +2880,7 @@
         "parallels": ["sa153", "~sn55.49"]
     },
     {
-        "parallels": ["sa154-163", "~dn2", "~da27", "~dq70", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
+        "parallels": ["sa154-163", "~dn2", "~da27", "~d1#nga258a", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
         "remarks": "sht-sutta58: Identified in <span class='author'>Wille</span> 2005:9."
     },
     {
@@ -3138,7 +3138,7 @@
         "parallels": ["sa973", "~an3.71"]
     },
     {
-        "parallels": ["sf1", "~dn2", "~da27", "~dq70", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
+        "parallels": ["sf1", "~dn2", "~da27", "~d1#nga258a", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
         "remarks": "sht-sutta58: Identified in <span class='author'>Wille</span> 2005:9."
     },
     {
@@ -3148,14 +3148,14 @@
         "parallels": ["sf100", "~dn31", "~da16", "~ma135", "~sht-sutta43", "~t16", "~t17", "~sn45.141-148", "~ma141", "~sa-2.66", "~sa1239", "~t765.1"]
     },
     {
-        "parallels": ["sf101", "~mn82", "~avs90", "~dq60", "~ma132", "~sht-sutta18", "~t68", "~t69", "~tib10"]
+        "parallels": ["sf101", "~mn82", "~avs90", "~d1#kha101a", "~ma132", "~sht-sutta18", "~t68", "~t69", "~d1#kha101a"]
     },
     {
         "parallels": ["sf102", "~dn17", "~ma68", "~sf245#34.1-#34.169"],
         "remarks": "sf245#34.1-#34.169: embedded parallel uid sf245.34.1-169"
     },
     {
-        "parallels": ["sf103", "~dn32", "~sht-sutta6", "~t1245", "~tib100"],
+        "parallels": ["sf103", "~dn32", "~sht-sutta6", "~t1245", "~d33"],
         "remarks": "sht-sutta6: Identified in SHT viii p. 198."
     },
     {
@@ -3258,7 +3258,7 @@
         "parallels": ["sf132", "~an10.93", "~sa-2.202", "~sa968", "~an10.96", "~sa-2.201", "~sa967", "~an3.64", "~sa-2.204", "~sa970", "~an4.185"]
     },
     {
-        "parallels": ["sf133", "~mn74", "~avs99", "~sa-2.203", "~sa969", "~t1509.1a", "~t1545.98", "~t200.90", "~tib20", "~tib30"],
+        "parallels": ["sf133", "~mn74", "~avs99", "~sa-2.203", "~sa969", "~t1509.1a", "~t1545.98", "~t200.90", "~xct-mu-kd-devacandra", "~xct-mu-kd-eimer"],
         "remarks": "sf133: New edition Hosoda 1989b."
     },
     {
@@ -3271,7 +3271,7 @@
         "parallels": ["sf136", "~sn56.43", "~sa422"]
     },
     {
-        "parallels": ["sf137", "~sn11.3", "~ea24.1", "~sa981", "~tib75"]
+        "parallels": ["sf137", "~sn11.3", "~ea24.1", "~sa981", "~d292"]
     },
     {
         "parallels": ["sf138", "~dn15", "~da13", "~ma97", "~sht-sutta23", "~t14", "~t52"]
@@ -3291,7 +3291,7 @@
         "remarks": "t757#t0591c16-#t0597c25: embedded parallel uid t757.1"
     },
     {
-        "parallels": ["sf143", "~dn32", "~sht-sutta6", "~t1245", "~tib100"],
+        "parallels": ["sf143", "~dn32", "~sht-sutta6", "~t1245", "~d33"],
         "remarks": "sht-sutta6: Identified in SHT viii p. 198."
     },
     {
@@ -3302,7 +3302,7 @@
         "remarks": "sht-sutta22: Identified in <span class='author'>Wille</span> 2005:7."
     },
     {
-        "parallels": ["sf147", "~sn11.3", "~ea24.1", "~sa981", "~tib75"]
+        "parallels": ["sf147", "~sn11.3", "~ea24.1", "~sa981", "~d292"]
     },
     {
         "parallels": ["sf148", "~sn3.15", "~sa-2.64", "~sa1237"]
@@ -3429,7 +3429,7 @@
         "parallels": ["sf238", "~sn12.1-2", "~sa298", "~t124"]
     },
     {
-        "parallels": ["sf239", "~sn11.3", "~ea24.1", "~sa981", "~tib75"]
+        "parallels": ["sf239", "~sn11.3", "~ea24.1", "~sa981", "~d292"]
     },
     {
         "parallels": ["sf24", "~sn7.14", "~sa-2.262", "~sa96", "~sn7.15", "~sa-2.258", "~sa92"]
@@ -3490,7 +3490,7 @@
         "parallels": ["sf26", "~sn6.3", "~sa-2.265", "~sa99"]
     },
     {
-        "parallels": ["sf260", "~sn56.11", "~pli-tv-kd1#68-#84", "~dq95", "~lal26", "~san-mu-kd17#sbvi134-#sbvi139", "~t109", "~lzh-mi-kd1#t0104b23", "~lzh-dg-kd1#t0788a06-#t0788c08", "~t1450.6", "~pli-tv-kd1#68-#84"],
+        "parallels": ["sf260", "~sn56.11", "~pli-tv-kd1#68-#84", "~d31#ka180b1-183a7", "~lal26", "~san-mu-kd17#sbvi134-#sbvi139", "~t109", "~lzh-mi-kd1#t0104b23", "~lzh-dg-kd1#t0788a06-#t0788c08", "~t1450.6", "~pli-tv-kd1#68-#84"],
         "remarks": "lzh-mi-kd1#t0104b23: embedded parallel uid t1421.15b, lzh-dg-kd1#t0788a06-#t0788c08: embedded parallel uid t1428.32a, pli-tv-kd1#68-#84: embedded parallel uid pancavaggiyakatha"
     },
     {
@@ -3510,7 +3510,7 @@
         "parallels": ["sf265", "~sn11.4", "~ea34.8", "~sa-2.39", "~sa1110"]
     },
     {
-        "parallels": ["sf266", "~sn11.3", "~ea24.1", "~sa981", "~tib75"]
+        "parallels": ["sf266", "~sn11.3", "~ea24.1", "~sa981", "~d292"]
     },
     {
         "parallels": ["sf267", "~sn56.3-4"]
@@ -3520,7 +3520,7 @@
         "remarks": "sf245#1.1-#33.3: embedded parallel uid sf245.1.1-33.3, sht-sutta5: SHT i 184 is identified as not being a parallel to DN 16 in SHT viii p. 172. | SHT iv 412.62 is identified in SHT viii p. 174."
     },
     {
-        "parallels": ["sf269", "~dn32", "~sht-sutta6", "~t1245", "~tib100"],
+        "parallels": ["sf269", "~dn32", "~sht-sutta6", "~t1245", "~d33"],
         "remarks": "sht-sutta6: Identified in SHT viii p. 198."
     },
     {
@@ -3541,7 +3541,7 @@
         "parallels": ["sf275", "~sn11.12", "~sa-2.35", "~sa1106"]
     },
     {
-        "parallels": ["sf276", "~sn2.9", "~dq103", "~dq124", "~sa-2.167", "~sa583"]
+        "parallels": ["sf276", "~sn2.9", "~d42#ka282a6-282b6", "~d331#sa259b3-260a4", "~sa-2.167", "~sa583"]
     },
     {
         "parallels": ["sf278", "~an6.55", "~ea23.3", "~ma123", "~sa254", "~lzh-mi-kd6#t0145a22", "~lzh-dg-kd5#t0843b12-#t0845a11"],
@@ -3561,7 +3561,7 @@
         "parallels": ["sf281", "~mn56", "~ma133", "~sht-sutta17"]
     },
     {
-        "parallels": ["sf283", "~mn82", "~avs90", "~dq60", "~ma132", "~sht-sutta18", "~t68", "~t69", "~tib10"]
+        "parallels": ["sf283", "~mn82", "~avs90", "~d1#kha101a", "~ma132", "~sht-sutta18", "~t68", "~t69", "~d1#kha101a"]
     },
     {
         "parallels": ["sf284", "~sn35.133", "~sa253"]
@@ -3578,7 +3578,7 @@
         "remarks": "lal17a: The events described in MN 36 are treated in several Chinese Buddha biographies; e.g., the first <i>jhāna</i> experience of the bodhisatta can be found in the Chinese counterparts to the Lalitavistara and the Saṅghabhedavastu, T 186 at T iii 499b, T 187 at T iii 560b, and T 191 at T iii 944b, and also in such accounts as are found in T 184 at T iii 467b, T 185 at T iii 475b, T 188 at T iii 619b, T 189 at T iii 629a, T 190 at T iii 706a, T 192 at T iv 8c, and T 193 at T iv 66b; cf. also the Divyāvadāna in <span class='author'>Cowell</span> 1886 p. 391. | New edition <span class='author'>Vaidya</span> 1958b."
     },
     {
-        "parallels": ["sf288", "~dn2", "~da27", "~dq70", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
+        "parallels": ["sf288", "~dn2", "~da27", "~d1#nga258a", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
         "remarks": "sht-sutta58: Identified in <span class='author'>Wille</span> 2005:9."
     },
     {
@@ -3670,14 +3670,14 @@
         "parallels": ["sf42", "~dn4", "~da22", "~sht-sutta56"]
     },
     {
-        "parallels": ["sf43", "~dn3", "~da20", "~dq40", "~dq85", "~sht-sutta26", "~t20"]
+        "parallels": ["sf43", "~dn3", "~da20", "~d1#kha63a", "~d6#da191a", "~sht-sutta26", "~t20"]
     },
     {
         "parallels": ["sf44", "~mn60", "~sht-sutta29"],
         "remarks": "sht-sutta29: SHT iii 966 is identified in SHT vii p. 272. | SHT iv 165.32+37 is identified in SHT vi p. 212."
     },
     {
-        "parallels": ["sf45", "~dn32", "~sht-sutta6", "~t1245", "~tib100"],
+        "parallels": ["sf45", "~dn32", "~sht-sutta6", "~t1245", "~d33"],
         "remarks": "sht-sutta6: Identified in SHT viii p. 198."
     },
     {
@@ -3723,7 +3723,7 @@
         "remarks": "sht-sutta1: SHT iv 165.41 is identified in SHT viii p. 169. | SHT vi 1592 is identified in SHT viii p. 209."
     },
     {
-        "parallels": ["sf57", "~mn102", "~sht-sutta24", "~tib80"]
+        "parallels": ["sf57", "~mn102", "~sht-sutta24", "~d294"]
     },
     {
         "parallels": ["sf58", "~dn29", "~da17", "~sht-sutta39"],
@@ -3778,7 +3778,7 @@
         "remarks": "sht-sutta10: Identified in <span class='author'>Wille</span> 2005:9."
     },
     {
-        "parallels": ["sf71", "~dn32", "~sht-sutta6", "~t1245", "~tib100"],
+        "parallels": ["sf71", "~dn32", "~sht-sutta6", "~t1245", "~d33"],
         "remarks": "sht-sutta6: Identified in SHT viii p. 198."
     },
     {
@@ -3794,11 +3794,11 @@
         "parallels": ["sf75", "~sn20.5", "~sa1255"]
     },
     {
-        "parallels": ["sf76", "~mn135", "~dq130", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~tib40"],
+        "parallels": ["sf76", "~mn135", "~d339#sa298b", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~d339#sa298b"],
         "remarks": "ma170: The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class='author'>Lévi</span> 1933 (cf. also <span class='author'>Sieg</span> 1938), and in the Sogdian fragment in <span class='author'>Rosenberg</span> 1920, do not parallel MN 135."
     },
     {
-        "parallels": ["sf77", "~dn32", "~sht-sutta6", "~t1245", "~tib100"],
+        "parallels": ["sf77", "~dn32", "~sht-sutta6", "~t1245", "~d33"],
         "remarks": "sht-sutta6: Identified in SHT viii p. 198."
     },
     {
@@ -3815,7 +3815,7 @@
         "parallels": ["sf80", "~an10.93", "~sa-2.202", "~sa968"]
     },
     {
-        "parallels": ["sf81", "~mn74", "~avs99", "~sa-2.203", "~sa969", "~t1509.1a", "~t1545.98", "~t200.90", "~tib20", "~tib30"]
+        "parallels": ["sf81", "~mn74", "~avs99", "~sa-2.203", "~sa969", "~t1509.1a", "~t1545.98", "~t200.90", "~xct-mu-kd-devacandra", "~xct-mu-kd-eimer"]
     },
     {
         "parallels": ["sf82", "~an3.64", "~sa-2.204", "~sa970"]
@@ -3827,18 +3827,18 @@
         "parallels": ["sf84", "~an4.185", "~sa-2.206"]
     },
     {
-        "parallels": ["sf85", "~mn135", "~dq130", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~tib40"],
+        "parallels": ["sf85", "~mn135", "~d339#sa298b", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~d339#sa298b"],
         "remarks": "ma170: The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class='author'>Lévi</span> 1933 (cf. also <span class='author'>Sieg</span> 1938), and in the Sogdian fragment in <span class='author'>Rosenberg</span> 1920, do not parallel MN 135."
     },
     {
         "parallels": ["sf86", "~an2.33", "~ea20.11"]
     },
     {
-        "parallels": ["sf87", "~mn135", "~dq130", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~tib40"],
+        "parallels": ["sf87", "~mn135", "~d339#sa298b", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~d339#sa298b"],
         "remarks": "ma170: The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class='author'>Lévi</span> 1933 (cf. also <span class='author'>Sieg</span> 1938), and in the Sogdian fragment in <span class='author'>Rosenberg</span> 1920, do not parallel MN 135."
     },
     {
-        "parallels": ["sf88", "~mn135", "~dq130", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~tib40"],
+        "parallels": ["sf88", "~mn135", "~d339#sa298b", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~d339#sa298b"],
         "remarks": "ma170: The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class='author'>Lévi</span> 1933 (cf. also <span class='author'>Sieg</span> 1938), and in the Sogdian fragment in <span class='author'>Rosenberg</span> 1920, do not parallel MN 135."
     },
     {
@@ -3873,7 +3873,7 @@
         "parallels": ["sf97", "~mn56", "~ma133", "~sht-sutta17"]
     },
     {
-        "parallels": ["sf98", "~mn135", "~dq130", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~tib40"],
+        "parallels": ["sf98", "~mn135", "~d339#sa298b", "~ma170", "~sht-sutta67", "~t755", "~t78", "~t79", "~t80", "~t81", "~d339#sa298b"],
         "remarks": "ma170: The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class='author'>Lévi</span> 1933 (cf. also <span class='author'>Sieg</span> 1938), and in the Sogdian fragment in <span class='author'>Rosenberg</span> 1920, do not parallel MN 135., sf98: New edition <span class='author'>Kudo</span> 2004."
     },
     {
@@ -3904,7 +3904,7 @@
         "parallels": ["san-lo-mvu29", "kp6", "snp2.1"]
     },
     {
-        "parallels": ["san-lo-mvu31", "~mn81", "~dq10", "~ma63", "~san-mu-kd17#sbvii22-#sbvii30", "~t197.10"]
+        "parallels": ["san-lo-mvu31", "~mn81", "~d1#ga4a", "~ma63", "~san-mu-kd17#sbvii22-#sbvii30", "~t197.10"]
     },
     {
         "parallels": ["san-lo-mvu33", "~ja12", "~snp1.3"]
@@ -4066,7 +4066,7 @@
         "parallels": ["sn1.36", "sa-2.284", "sa1286"]
     },
     {
-        "parallels": ["sn1.37", "sa-2.105", "sa1192", "~da19", "~dn20", "~sf108", "~sf140", "~sf242", "~sf282", "~sf55", "~sht-sutta8", "~t19", "~tib90"]
+        "parallels": ["sn1.37", "sa-2.105", "sa1192", "~da19", "~dn20", "~sf108", "~sf140", "~sf242", "~sf282", "~sf55", "~sht-sutta8", "~t19", "~d34"]
     },
     {
         "parallels": ["sn1.38", "sa-2.287", "sa1289"]
@@ -4234,7 +4234,7 @@
         "parallels": ["sn11.19", "sa-2.40", "sa1111"]
     },
     {
-        "parallels": ["sn11.2", "~sn11.3", "~ea24.1", "~sa981", "~tib75"]
+        "parallels": ["sn11.2", "~sn11.3", "~ea24.1", "~sa981", "~d292"]
     },
     {
         "parallels": ["sn11.20", "sa-2.42", "sa1113"]
@@ -4252,7 +4252,7 @@
         "parallels": ["sn11.24", "sa-2.37", "sa1108"]
     },
     {
-        "parallels": ["sn11.3", "ea24.1", "sa981", "tib75", "~sf137", "~sf147", "~sf239", "~sf266", "~sn11.2"]
+        "parallels": ["sn11.3", "ea24.1", "sa981", "d292", "~sf137", "~sf147", "~sf239", "~sf266", "~sn11.2"]
     },
     {
         "parallels": ["sn11.4", "ea34.8", "sa-2.39", "sa1110", "~sf265"]
@@ -4276,7 +4276,7 @@
         "parallels": ["sn11.9-10", "sa-2.44", "sa1115"]
     },
     {
-        "parallels": ["sn12.1-2", "sa298", "t124", "~dq104", "~ea49.5", "~sf165", "~sf238", "~sf256", "~arv5"]
+        "parallels": ["sn12.1-2", "sa298", "t124", "~d211#tsha123b1-125a3", "~ea49.5", "~sf165", "~sf238", "~sf256", "~arv5"]
     },
     {
         "parallels": ["sn12.10", "san-mu-kd17#sbvi127", "~sa285", "~sf152"]
@@ -4611,7 +4611,7 @@
         "parallels": ["sn2.1", "sa-2.316", "sa1317"]
     },
     {
-        "parallels": ["sn2.10", "dq102"]
+        "parallels": ["sn2.10", "d41#ka282a6-282b6"]
     },
     {
         "parallels": ["sn2.11", "sa-2.302", "sa1303"]
@@ -4681,7 +4681,7 @@
         "parallels": ["sn2.7", "sa-2.304", "sa1305"]
     },
     {
-        "parallels": ["sn2.9", "dq103", "dq124", "sa-2.167", "sa583", "~sf276"]
+        "parallels": ["sn2.9", "d42#ka282a6-282b6", "d331#sa259b3-260a4", "sa-2.167", "sa583", "~sf276"]
     },
     {
         "parallels": ["sn20.1", "sf199#14.22"],
@@ -5085,7 +5085,7 @@
         "parallels": ["sn29.1", "~ea27.8", "~sn30.1", "~sn30.2"]
     },
     {
-        "parallels": ["sn3.1", "dq105", "sa-2.53", "sa1226", "san-mu-kd17#sbvi182-#sbvi183"]
+        "parallels": ["sn3.1", "d296#sha295b2-297a2", "sa-2.53", "sa1226", "san-mu-kd17#sbvi182-#sbvi183"]
     },
     {
         "parallels": ["sn3.10", "sa-2.62", "sa1235"]
@@ -5667,7 +5667,7 @@
         "parallels": ["sn45.16-17", "sa766"]
     },
     {
-        "parallels": ["sn45.2", "dq115", "sa726", "sa768"]
+        "parallels": ["sn45.2", "d300#sha304b5-305a7", "sa726", "sa768"]
     },
     {
         "parallels": ["sn45.21", "sa770", "sa784", "t112", "~sn45.8", "~arv7"]
@@ -6182,14 +6182,14 @@
         "parallels": ["sn56.10", "sa411"]
     },
     {
-        "parallels": ["sn56.11", "pli-tv-kd1#68-#84", "dq95", "lal26", "san-mu-kd17#sbvi134-#sbvi139", "t109", "lzh-mi-kd1#t0104b23", "lzh-dg-kd1#t0788a06-#t0788c08", "t1450.6", "~dq126", "~ea19.2", "~ma204", "~sa379", "~sf260", "~sn56.12", "~t110", "~lzh-sarv-kd18#t0448b19", "~san-lo-mvu95"],
+        "parallels": ["sn56.11", "pli-tv-kd1#68-#84", "d31#ka180b1-183a7", "lal26", "san-mu-kd17#sbvi134-#sbvi139", "t109", "lzh-mi-kd1#t0104b23", "lzh-dg-kd1#t0788a06-#t0788c08", "t1450.6", "~d337#sa275a6-277a4", "~ea19.2", "~ma204", "~sa379", "~sf260", "~sn56.12", "~t110", "~lzh-sarv-kd18#t0448b19", "~san-lo-mvu95"],
         "remarks": "ps2.6#1-#15: embedded parallel uid ps2.7.1, lzh-mi-kd1#t0104b23: embedded parallel uid t1421.15b, lzh-dg-kd1#t0788a06-#t0788c08: embedded parallel uid t1428.32a, lzh-sarv-kd18#t0448b19: embedded parallel uid t1435.60, pli-tv-kd1#68-#84: embedded parallel uid pancavaggiyakatha"
     },
     {
         "mentions": ["sn56.11", "~ps2.7", "~kv20.6#2", "~ne14#16-#20", "~ne4#31-#33", "ps2.6#1-#15", "~ne4#41-43"]
     },
     {
-        "parallels": ["sn56.12", "dq126", "t110", "lzh-sarv-kd18#t0448b19", "sa379", "~sn56.11", "~pli-tv-kd1#68-#84", "~dq95", "~lal26", "~san-mu-kd17#sbvi134-#sbvi139", "~t109", "~lzh-mi-kd1#t0104b23", "~lzh-dg-kd1#t0788a06-#t0788c08", "~t1450.6", "~pli-tv-kd1#68-#84"],
+        "parallels": ["sn56.12", "d337#sa275a6-277a4", "t110", "lzh-sarv-kd18#t0448b19", "sa379", "~sn56.11", "~pli-tv-kd1#68-#84", "~d31#ka180b1-183a7", "~lal26", "~san-mu-kd17#sbvi134-#sbvi139", "~t109", "~lzh-mi-kd1#t0104b23", "~lzh-dg-kd1#t0788a06-#t0788c08", "~t1450.6", "~pli-tv-kd1#68-#84"],
         "remarks": "lzh-mi-kd1#t0104b23: embedded parallel uid t1421.15b, lzh-dg-kd1#t0788a06-#t0788c08: embedded parallel uid t1428.32a, pli-tv-kd1#68-#84: embedded parallel uid pancavaggiyakatha; lzh-sarv-kd18#t0448b19: embedded parallel uid t1435.60"
     },
     {
@@ -6208,7 +6208,7 @@
         "mentions": ["sn56.20", "kv6.3#6", "ps2.2#1"]
     },
     {
-        "parallels": ["sn56.21", "dq122", "ea25.1", "sa403"]
+        "parallels": ["sn56.21", "d316#sa170a1-170b4", "ea25.1", "sa403"]
     },
     {
         "parallels": ["sn56.22", "~sa390-392"]
@@ -6482,18 +6482,18 @@
         "parallels": ["t1362", "~mn133", "~ma165"]
     },
     {
-        "parallels": ["t1442.13", "~dn2", "~da27", "~dq70", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
+        "parallels": ["t1442.13", "~dn2", "~da27", "~d1#nga258a", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
         "remarks": "sht-sutta58: Identified in <span class='author'>Wille</span> 2005:9."
     },
     {
         "parallels": ["t1442.39", "~mn22", "~ma200"]
     },
     {
-        "parallels": ["t1444.1", "~dn2", "~da27", "~dq70", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
+        "parallels": ["t1444.1", "~dn2", "~da27", "~d1#nga258a", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
         "remarks": "sht-sutta58: Identified in <span class='author'>Wille</span> 2005:9."
     },
     {
-        "parallels": ["t1450.10", "~dn2", "~da27", "~dq70", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
+        "parallels": ["t1450.10", "~dn2", "~da27", "~d1#nga258a", "~ea43.7", "~sht-sutta58", "~san-mu-kd17#sbvii216-#sbvii235", "~t22"],
         "remarks": "sht-sutta58: Identified in <span class='author'>Wille</span> 2005:9."
     },
     {
@@ -6509,13 +6509,13 @@
         "remarks": "sf245#34.1-#34.169: embedded parallel uid sf245.34.1-169"
     },
     {
-        "parallels": ["t1507.4", "~mn82", "~avs90", "~dq60", "~ma132", "~sht-sutta18", "~t68", "~t69", "~tib10"]
+        "parallels": ["t1507.4", "~mn82", "~avs90", "~d1#kha101a", "~ma132", "~sht-sutta18", "~t68", "~t69", "~d1#kha101a"]
     },
     {
-        "parallels": ["t1509.13", "~mn61", "~dq80", "~ma14", "~sht-sutta49", "~t1442.24", "~t211.31", "~t212.14"]
+        "parallels": ["t1509.13", "~mn61", "~d3#cha215a", "~ma14", "~sht-sutta49", "~t1442.24", "~t211.31", "~t212.14"]
     },
     {
-        "parallels": ["t1509.24a", "~mn115", "~dq110", "~ma181", "~t1537.10", "~t776", "~up1.032"]
+        "parallels": ["t1509.24a", "~mn115", "~d297#sha297a", "~ma181", "~t1537.10", "~t776", "~up1.032"]
     },
     {
         "parallels": ["t1509.24b", "~mn136", "~ma171"]
@@ -6531,10 +6531,10 @@
         "remarks": "sht-sutta16: Identified in <span class='author'>Wille</span> 2005:6."
     },
     {
-        "parallels": ["t199.18a", "~mn82", "~avs90", "~dq60", "~ma132", "~sht-sutta18", "~t68", "~t69", "~tib10"]
+        "parallels": ["t199.18a", "~mn82", "~avs90", "~d1#kha101a", "~ma132", "~sht-sutta18", "~t68", "~t69", "~d1#kha101a"]
     },
     {
-        "parallels": ["t199.18b", "~mn82", "~avs90", "~dq60", "~ma132", "~sht-sutta18", "~t68", "~t69", "~tib10"]
+        "parallels": ["t199.18b", "~mn82", "~avs90", "~d1#kha101a", "~ma132", "~sht-sutta18", "~t68", "~t69", "~d1#kha101a"]
     },
     {
         "parallels": ["t202.52", "~mn142", "~ma180", "~sht-sutta31", "~t84", "~up4.103"]
@@ -6603,7 +6603,7 @@
         "parallels": ["t741", "~ea32.4", "~ma64", "~t42", "~t43", "~t86#t0909b02-#t0910c20", "~da30#t0126b09-#t0127a28", "~t212.10#verse-num-sc306-#t0669b10", "~t24#t0330c18-#t0332b16", "~t25#t0365a15-#t0387b13", "~mn130", "~an3.36"]
     },
     {
-        "parallels": ["t744", "~mn83", "~dq30", "~ea50.4", "~ja541", "~ja9", "~ma67", "~t152.87", "~t211.38", "~up2.050"]
+        "parallels": ["t744", "~mn83", "~d1#kha53a", "~ea50.4", "~ja541", "~ja9", "~ma67", "~t152.87", "~t211.38", "~up2.050"]
     },
     {
         "parallels": ["t757#t0598a04-#t0599c18", "~mn36", "~divy27", "~lal17a", "~sht-sutta28", "~san-lo-mvu47", "~san-mu-kd17#sbvi100-#sbvi119"],
@@ -6693,7 +6693,7 @@
         "parallels": ["an8.11", "ma157", "t75", "pli-tv-bu-vb-pj1#2-#18"]
     },
     {
-        "parallels": ["mn82#3-#16", "pli-tv-bu-vb-pj1#41-#59", "~avs90", "~dq60", "~ma132", "~sht-sutta18", "~t68", "~t69", "~tib10"]
+        "parallels": ["mn82#3-#16", "pli-tv-bu-vb-pj1#41-#59", "~avs90", "~d1#kha101a", "~ma132", "~sht-sutta18", "~t68", "~t69", "~d1#kha101a"]
     },
     {
         "parallels": ["pli-tv-bu-vb-pj1#141", "pli-tv-bu-vb-pj1#135"]
