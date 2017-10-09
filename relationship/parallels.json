@@ -1,5 +1,191 @@
 [
     {
+        "parallels": ["sag#1.1","sn1.20#28"]
+    },
+    {
+        "parallels": ["sag#2.1","sn1.20#20"]
+    },
+    {
+        "parallels": ["sag#2.2","sn1.20#21"]
+    },
+    {
+        "parallels": ["sag#2.3","sn1.20#23"]
+    },
+    {
+        "parallels": ["sag#2.4","sn1.20#25"]
+    },
+    {
+        "parallels": ["sag#4.1-#4.3","sn4.25#16-#18"]
+    },
+    {
+        "parallels": ["sag#5.1-#5.2","sn2.17#2-#3"]
+    },
+    {
+        "parallels": ["sag#5.3","sn1.1#2", "sn2.18#6"]
+    },
+    {
+        "parallels": ["sn1.1", "sa-2.180", "sa1267", "~sag#13"]
+    },
+    {
+        "parallels": ["sag#13","~sn1.1"]
+    },
+    {
+        "parallels": ["sag#6.1","~dn19#64"]
+    },
+    {
+        "parallels": ["~sag#6.1","dn19#64"]
+    },
+    {
+        "parallels": ["sag#6.2","sn2.14#3"]
+    },
+    {
+        "parallels": ["sag#6.3","~dn19#65"]
+    },
+    {
+        "parallels": ["~sag#6.3","dn19#65"]
+    },
+    {
+        "parallels": ["sag##7.1","sn10.12#6"]
+    },
+    {
+        "parallels": ["snp1.10#verse-num-sc188", "sn10.12#7"]
+    },
+    {
+        "parallels": ["snp1.10#verse-num-sc189", "sn10.12#8", "sag#7.2"]
+    },
+    {
+        "parallels": ["snp1.10#verse-num-sc186", "sn10.12#5", "sag#9.2"]
+    },
+    {
+        "parallels": ["sn1.27", "sa-2.176", "sa601", "sht-sutta41", "sag#8.1-#8.3"]
+    },
+    {
+        "parallels": ["sag#9.1","sn10.12#4"]
+    },
+    {
+        "parallels": ["sn2.15", "sa-2.315", "sa1316", "~sa-2.178", "~sa1269", "sag#10.1-#10.3"]
+    },
+    {
+        "parallels": ["sag#11.1-#11.4","sn10.3#3-#6"]
+    },
+    {
+        "parallels": ["sn2.5", "sa-2.310", "sa1311", "sag#12.1-#12.4"]
+    },
+    {
+        "parallels": ["sag#14.1","sn4.25#13"]
+    },
+    {
+        "parallels": ["sag#14.2", "an10.26#2", "sn4.25#14"]
+    },
+    {
+        "parallels": ["sag#15","uv1#1.3"]
+    },
+    {
+        "parallels": ["dhp#21", "gdhp#115", "ja520#1", "pdhp#14", "t210.10#vagga-gatha-num-sc10.1", "t212.4#vagga-gatha-num-sc4.1", "t213.4#vagga-gatha-num-sc4.1", "uv4#4.1", "sag#16"]
+    },
+    {
+        "parallels": ["dhp#349", "t210.32#vagga-gatha-num-sc32.18", "t212.3#vagga-gatha-num-sc3.1", "t213.3#vagga-gatha-num-sc3.1", "uv3#3.1", "sag#17"]
+    },
+    {
+        "parallels": ["uv5#5.24", "~dhp#217", "~t210.24#vagga-gatha-num-sc24.7", "~t212.6#vagga-gatha-num-sc6.21", "~t213.5#vagga-gatha-num-sc5.22", "sag#18"]
+    },
+    {
+        "parallels": ["uv9#9.6", "t210.17#vagga-gatha-num-sc17.22", "t212.10#vagga-gatha-num-sc10.7", "t213.9#vagga-gatha-num-sc9.7", "sag#19"]
+    },
+    {
+        "parallels": ["uv8#8.11", "t210.38#vagga-gatha-num-sc38.14", "t212.9#vagga-gatha-num-sc9.13", "t213.8#vagga-gatha-num-sc8.13", "sag#20"]
+    },
+    {
+        "parallels": ["uv10#10.1", "t210.4#vagga-gatha-num-sc4.1", "t212.11#vagga-gatha-num-sc11.1", "t213.10#vagga-gatha-num-sc10.1", "sag#21"]
+    },
+    {
+        "parallels": ["uv22#22.6", "t210.3#vagga-gatha-num-sc3.4", "t213.22#vagga-gatha-num-sc22.15", "sag#22"]
+    },
+    {
+        "parallels": ["dhp#95", "t210.15#vagga-gatha-num-sc15.6", "t210.36#vagga-gatha-num-sc36.24", "t212.18#vagga-gatha-num-sc18.12", "t213.17#vagga-gatha-num-sc17.13", "uv17#17.12", "sag#23"]
+    },
+    {
+        "parallels": ["uv22#22.12", "t212.23#vagga-gatha-num-sc23.11", "t213.22#vagga-gatha-num-sc22.14", "sag#24.1"]
+    },
+    {
+        "parallels": ["sag#24.2","uv22#22.13"]
+    },
+    {
+        "parallels": ["uv22#22.14", "t212.23#vagga-gatha-num-sc23.12", "t213.22#vagga-gatha-num-sc22.16", "sag#24.3"]
+    },
+    {
+        "parallels": ["uv22#22.15", "t213.22#vagga-gatha-num-sc22.17", "sag#24.4"]
+    },
+    {
+        "parallels": ["uv22#22.16", "t213.22#vagga-gatha-num-sc22.18", "sag#24.5"]
+    },
+    {
+        "parallels": ["uv16#16.22", "t212.17#vagga-gatha-num-sc17.22", "t213.16#vagga-gatha-num-sc16.19", "sag#25"]
+    },
+    {
+        "parallels": ["dhp#150", "gdhp#284", "t210.19#vagga-gatha-num-sc19.5", "t212.17#vagga-gatha-num-sc17.23", "t213.16#vagga-gatha-num-sc16.20", "uv16#16.23", "sag#26"]
+    },
+    {
+        "parallels": ["uv26#26.1", "t212.27#vagga-gatha-num-sc27.1", "t213.26#vagga-gatha-num-sc26.1", "sag#27"]
+    },
+    {
+        "parallels": ["uv26#26.30", "t212.27#vagga-gatha-num-sc27.30", "t213.26#vagga-gatha-num-sc26.34", "sag#28"]
+    },
+    {
+        "parallels": ["dhp#251", "t210.26#vagga-gatha-num-sc26.17", "uv29#29.37", "sag#29"]
+    },
+    {
+        "parallels": ["dhp#254", "t210.26#vagga-gatha-num-sc26.18", "t213.29#vagga-gatha-num-sc29.34", "uv29#29.38", "sag#30"]
+    },
+    {
+        "parallels": ["sag#31","uv29#29.51"]
+    },
+    {
+        "parallels": ["uv29#29.56", "t212.30#vagga-gatha-num-sc30.44", "t213.29#vagga-gatha-num-sc29.48", "sag#32"]
+    },
+    {
+        "parallels": ["uv28#28.2", "t212.29#vagga-gatha-num-sc29.2", "t213.28#vagga-gatha-num-sc28.2", "sag#33"]
+    },
+    {
+        "parallels": ["dhp#183", "dn14#176", "pdhp#357", "t210.22#vagga-gatha-num-sc22.11", "t212.29#vagga-gatha-num-sc29.1", "t213.28#vagga-gatha-num-sc28.1", "uv28#28.1", "sag#34"]
+    },
+    {
+        "parallels": ["dhp#35", "pdhp#345", "t210.11#vagga-gatha-num-sc11.2", "t212.32#vagga-gatha-num-sc32.1", "t213.31#vagga-gatha-num-sc31.1", "uv31#31.1", "sag#35"]
+    },
+    {
+        "parallels": ["uv31#31.51", "t212.32#vagga-gatha-num-sc32.46", "t213.31#vagga-gatha-num-sc31.39", "sag#36"]
+    },
+    {
+        "parallels": ["uv32#32.5", "t212.33#vagga-gatha-num-sc33.5", "t213.32#vagga-gatha-num-sc32.5", "sag#37"]
+    },
+    {
+        "parallels": ["uv33#33.55", "t212.32#vagga-gatha-num-sc32.8", "t213.31#vagga-gatha-num-sc31.8", "sag#38"]
+    },
+    {
+        "parallels": ["sag#39.1-#39.10","snp5.2"]
+    },
+    {
+        "parallels": ["sag#40.1-#40.5","snp4.1"]
+    },
+    {
+        "parallels": ["snp4.1#verse-num-sc773", "ja467#1", "sag#40.1"]
+    },
+    {
+        "parallels": ["sag#40.6","~uv10#10.13", "~uv3#3.10"]
+    },
+    {
+        "parallels": ["dhp#250", "pdhp#328", "t210.26#vagga-gatha-num-sc26.14", "t212.11#vagga-gatha-num-sc11.15", "t213.10#vagga-gatha-num-sc10.15", "uv10#10.13", "~sag#40.6"]
+    },
+    {
+        "parallels": ["dhp#336", "pdhp#139", "t210.32#vagga-gatha-num-sc32.3", "t212.3#vagga-gatha-num-sc3.10", "t213.3#vagga-gatha-num-sc3.12-#vagga-gatha-num-sc3.13", "thag6.5#verse-num-sc401", "uv3#3.10", "~sag#40.6"]
+    },
+    {
+        "parallels": ["sag#41.1","mn131#2-#3", "mn132#4-#5", "mn133#5-#6", "mn134#2-#3"]
+    },
+    {
+        "parallels": ["mn131#2-#5", "mn132#4-#7", "mn133#5-#8", "mn134#2-#5"]
+    },
+    {
         "parallels": ["vb6", "~dhsk1-dhsk14"]
     },
     {
@@ -3982,9 +4168,6 @@
         "parallels": ["san-lo-mvu99", "ja522"]
     },
     {
-        "parallels": ["sn1.1", "sa-2.180", "sa1267"]
-    },
-    {
         "parallels": ["sn1.10", "sa-2.132", "sa995", "~sf17"]
     },
     {
@@ -4034,9 +4217,6 @@
     },
     {
         "parallels": ["sn1.26", "sa-2.309", "sa1310", "sn2.4"]
-    },
-    {
-        "parallels": ["sn1.27", "sa-2.176", "sa601", "sht-sutta41"]
     },
     {
         "parallels": ["sn1.28", "sa-2.183", "sa589"]
@@ -4623,9 +4803,6 @@
         "parallels": ["sn2.14", "~sa-2.182", "~sa597"]
     },
     {
-        "parallels": ["sn2.15", "sa-2.315", "sa1316", "~sa-2.178", "~sa1269"]
-    },
-    {
         "parallels": ["sn2.17", "sa-2.181", "sa596"]
     },
     {
@@ -4664,9 +4841,6 @@
     },
     {
         "parallels": ["sn2.30", "sa-2.307", "sa1308"]
-    },
-    {
-        "parallels": ["sn2.5", "sa-2.310", "sa1311"]
     },
     {
         "parallels": ["sn2.6", "sa-2.312", "sa1313"]
@@ -6400,7 +6574,7 @@
         "parallels": ["sn8.3", "sa-2.251", "sa1216"]
     },
     {
-        "parallels": ["sn8.4", "ea35.9", "sa-2.230", "sa1214"]
+        "parallels": ["sn8.4", "ea35.9", "sa-2.230", "sa1214", "sag3.1-3.5"]
     },
     {
         "parallels": ["sn8.5", "sa-2.253", "sa1218"]
@@ -10456,9 +10630,6 @@
         "mentions": ["dhp#15", "pe1#49"]
     },
     {
-        "parallels": ["dhp#150", "gdhp#284", "t210.19#vagga-gatha-num-sc19.5", "t212.17#vagga-gatha-num-sc17.23", "t213.16#vagga-gatha-num-sc16.20", "uv16#16.23"]
-    },
-    {
         "parallels": ["dhp#151", "gdhp#160", "ja537#43", "sn3.3#2", "t210.19#vagga-gatha-num-sc19.6", "t212.1#vagga-gatha-num-sc1.54", "t213.1#vagga-gatha-num-sc1.30", "uv1#1.28"]
     },
     {
@@ -10586,9 +10757,6 @@
         "parallels": ["dhp#182", "gdhp#263", "pdhp#334", "t210.22#vagga-gatha-num-sc22.5"]
     },
     {
-        "parallels": ["dhp#183", "dn14#176", "pdhp#357", "t210.22#vagga-gatha-num-sc22.11", "t212.29#vagga-gatha-num-sc29.1", "t213.28#vagga-gatha-num-sc28.1", "uv28#28.1"]
-    },
-    {
         "mentions": ["dhp#183", "ne10#11", "ne19#4", "ne37#397", "ne37#501", "pe2#157"]
     },
     {
@@ -10689,9 +10857,6 @@
     },
     {
         "parallels": ["dhp#209", "gdhp#266", "pdhp#173", "t210.24#vagga-gatha-num-sc24.1", "uv5#5.9"]
-    },
-    {
-        "parallels": ["dhp#21", "gdhp#115", "ja520#1", "pdhp#14", "t210.10#vagga-gatha-num-sc10.1", "t212.4#vagga-gatha-num-sc4.1", "t213.4#vagga-gatha-num-sc4.1", "uv4#4.1"]
     },
     {
         "mentions": ["dhp#21", "ne9#11", "~pe5#36"]
@@ -10850,19 +11015,10 @@
         "parallels": ["dhp#25", "gdhp#111", "pdhp#29", "t210.10#vagga-gatha-num-sc10.5", "t213.4#vagga-gatha-num-sc4.6", "uv4#4.5", "~t212.4#t0638a16"]
     },
     {
-        "parallels": ["dhp#250", "pdhp#328", "t210.26#vagga-gatha-num-sc26.14", "t212.11#vagga-gatha-num-sc11.15", "t213.10#vagga-gatha-num-sc10.15", "uv10#10.13"]
-    },
-    {
-        "parallels": ["dhp#251", "t210.26#vagga-gatha-num-sc26.17", "uv29#29.37"]
-    },
-    {
         "parallels": ["dhp#252", "gdhp#272", "pdhp#166", "t212.28#vagga-gatha-num-sc28.1", "t213.27#vagga-gatha-num-sc27.1", "uv27#27.1", "~ja374#5"]
     },
     {
         "parallels": ["dhp#253", "pdhp#268", "t212.28#vagga-gatha-num-sc28.2", "t213.27#vagga-gatha-num-sc27.2", "~gdhp#339", "~uv27#27.2"]
-    },
-    {
-        "parallels": ["dhp#254", "t210.26#vagga-gatha-num-sc26.18", "t213.29#vagga-gatha-num-sc29.34", "uv29#29.38"]
     },
     {
         "parallels": ["dhp#255", "t210.26#vagga-gatha-num-sc26.19", "t213.29#vagga-gatha-num-sc29.35", "~uv29#29.38"]
@@ -11208,9 +11364,6 @@
         "parallels": ["dhp#335", "pdhp#138", "t210.32#vagga-gatha-num-sc32.2", "t212.3#vagga-gatha-num-sc3.9", "t213.3#vagga-gatha-num-sc3.11-#vagga-gatha-num-sc3.12", "thag6.5#verse-num-sc400", "uv3#3.9"]
     },
     {
-        "parallels": ["dhp#336", "pdhp#139", "t210.32#vagga-gatha-num-sc32.3", "t212.3#vagga-gatha-num-sc3.10", "t213.3#vagga-gatha-num-sc3.12-#vagga-gatha-num-sc3.13", "thag6.5#verse-num-sc401", "uv3#3.10"]
-    },
-    {
         "parallels": ["dhp#337", "t210.32#vagga-gatha-num-sc32.7", "t212.3#vagga-gatha-num-sc3.11", "t212.3#vagga-gatha-num-sc3.13", "thag6.5#verse-num-sc402", "~gdhp#126", "~ja475#12", "~ja516#45", "~pdhp#140", "~uv3#3.11"]
     },
     {
@@ -11265,13 +11418,7 @@
         "parallels": ["dhp#348", "gdhp#161", "pdhp#150", "t212.30#vagga-gatha-num-sc30.45", "t213.29#vagga-gatha-num-sc29.49", "uv29#29.57"]
     },
     {
-        "parallels": ["dhp#349", "t210.32#vagga-gatha-num-sc32.18", "t212.3#vagga-gatha-num-sc3.1", "t213.3#vagga-gatha-num-sc3.1", "uv3#3.1"]
-    },
-    {
         "mentions": ["dhp#349", "pe3#4"]
-    },
-    {
-        "parallels": ["dhp#35", "pdhp#345", "t210.11#vagga-gatha-num-sc11.2", "t212.32#vagga-gatha-num-sc32.1", "t213.31#vagga-gatha-num-sc31.1", "uv31#31.1"]
     },
     {
         "parallels": ["dhp#350", "t210.32#vagga-gatha-num-sc32.19", "t212.3#vagga-gatha-num-sc3.2", "t213.3#vagga-gatha-num-sc3.2", "~uv3#3.2"]
@@ -11759,9 +11906,6 @@
     },
     {
         "mentions": ["dhp#94", "ne37#328", "pe2#101"]
-    },
-    {
-        "parallels": ["dhp#95", "t210.15#vagga-gatha-num-sc15.6", "t210.36#vagga-gatha-num-sc36.24", "t212.18#vagga-gatha-num-sc18.12", "t213.17#vagga-gatha-num-sc17.13", "uv17#17.12"]
     },
     {
         "parallels": ["dhp#96", "pdhp#88", "t210.15#vagga-gatha-num-sc15.7", "t212.32#vagga-gatha-num-sc32.39", "t213.31#vagga-gatha-num-sc31.33", "uv31#31.45", "~sn7.2#4", "~thag6.12#verse-num-sc441"]
@@ -12505,9 +12649,6 @@
         "parallels": ["uv1#1.24", "~t213.1#vagga-gatha-num-sc1.25"]
     },
     {
-        "parallels": ["uv10#10.1", "t210.4#vagga-gatha-num-sc4.1", "t212.11#vagga-gatha-num-sc11.1", "t213.10#vagga-gatha-num-sc10.1"]
-    },
-    {
         "parallels": ["uv10#10.10", "t210.4#vagga-gatha-num-sc4.10", "t212.11#vagga-gatha-num-sc11.11", "t213.10#vagga-gatha-num-sc10.11"]
     },
     {
@@ -12709,9 +12850,6 @@
         "parallels": ["uv16#16.20", "t213.16#vagga-gatha-num-sc16.17"]
     },
     {
-        "parallels": ["uv16#16.22", "t212.17#vagga-gatha-num-sc17.22", "t213.16#vagga-gatha-num-sc16.19"]
-    },
-    {
         "parallels": ["uv16#16.24", "t212.17#vagga-gatha-num-sc17.24", "t213.16#vagga-gatha-num-sc16.21"]
     },
     {
@@ -12859,18 +12997,6 @@
         "parallels": ["uv22#22.10", "t210.2#vagga-gatha-num-sc2.23", "t212.23#vagga-gatha-num-sc23.9", "t213.22#vagga-gatha-num-sc22.11"]
     },
     {
-        "parallels": ["uv22#22.12", "t212.23#vagga-gatha-num-sc23.11", "t213.22#vagga-gatha-num-sc22.14"]
-    },
-    {
-        "parallels": ["uv22#22.14", "t212.23#vagga-gatha-num-sc23.12", "t213.22#vagga-gatha-num-sc22.16"]
-    },
-    {
-        "parallels": ["uv22#22.15", "t213.22#vagga-gatha-num-sc22.17"]
-    },
-    {
-        "parallels": ["uv22#22.16", "t213.22#vagga-gatha-num-sc22.18"]
-    },
-    {
         "parallels": ["uv22#22.17", "t212.23#vagga-gatha-num-sc23.15", "t213.22#vagga-gatha-num-sc22.19"]
     },
     {
@@ -12890,9 +13016,6 @@
     },
     {
         "parallels": ["uv22#22.5", "t212.23#vagga-gatha-num-sc23.5", "t213.22#vagga-gatha-num-sc22.5"]
-    },
-    {
-        "parallels": ["uv22#22.6", "t210.3#vagga-gatha-num-sc3.4", "t213.22#vagga-gatha-num-sc22.15"]
     },
     {
         "parallels": ["uv22#22.7", "t212.23#vagga-gatha-num-sc23.6", "t213.22#vagga-gatha-num-sc22.6"]
@@ -12988,9 +13111,6 @@
         "parallels": ["uv25#25.9", "t212.26#vagga-gatha-num-sc26.9", "t213.25#vagga-gatha-num-sc25.10"]
     },
     {
-        "parallels": ["uv26#26.1", "t212.27#vagga-gatha-num-sc27.1", "t213.26#vagga-gatha-num-sc26.1"]
-    },
-    {
         "parallels": ["uv26#26.10", "t210.36#vagga-gatha-num-sc36.6", "t212.27#vagga-gatha-num-sc27.12", "t213.26#vagga-gatha-num-sc26.12"]
     },
     {
@@ -13031,9 +13151,6 @@
     },
     {
         "parallels": ["uv26#26.29", "~dhp#352", "~pdhp#147", "~t210.32#vagga-gatha-num-sc32.21", "~t212.27#vagga-gatha-num-sc27.29", "~t213.26#vagga-gatha-num-sc26.33"]
-    },
-    {
-        "parallels": ["uv26#26.30", "t212.27#vagga-gatha-num-sc27.30", "t213.26#vagga-gatha-num-sc26.34"]
     },
     {
         "parallels": ["uv26#26.4", "t212.27#vagga-gatha-num-sc27.4", "t213.26#vagga-gatha-num-sc26.4"]
@@ -13120,9 +13237,6 @@
         "parallels": ["uv28#28.17", "t212.29#vagga-gatha-num-sc29.17", "t213.28#vagga-gatha-num-sc28.16"]
     },
     {
-        "parallels": ["uv28#28.2", "t212.29#vagga-gatha-num-sc29.2", "t213.28#vagga-gatha-num-sc28.2"]
-    },
-    {
         "parallels": ["uv28#28.24", "t212.29#vagga-gatha-num-sc29.24", "t213.28#vagga-gatha-num-sc28.23"]
     },
     {
@@ -13187,9 +13301,6 @@
     },
     {
         "parallels": ["uv29#29.55", "t212.30#vagga-gatha-num-sc30.43", "t213.29#vagga-gatha-num-sc29.47"]
-    },
-    {
-        "parallels": ["uv29#29.56", "t212.30#vagga-gatha-num-sc30.44", "t213.29#vagga-gatha-num-sc29.48"]
     },
     {
         "parallels": ["uv29#29.6", "t212.30#vagga-gatha-num-sc30.6", "t213.29#vagga-gatha-num-sc29.6"]
@@ -13348,9 +13459,6 @@
         "parallels": ["uv31#31.49", "t212.32#vagga-gatha-num-sc32.43", "t213.31#vagga-gatha-num-sc31.37"]
     },
     {
-        "parallels": ["uv31#31.51", "t212.32#vagga-gatha-num-sc32.46", "t213.31#vagga-gatha-num-sc31.39"]
-    },
-    {
         "parallels": ["uv31#31.52", "t212.32#vagga-gatha-num-sc32.47", "t213.31#vagga-gatha-num-sc31.40"]
     },
     {
@@ -13421,9 +13529,6 @@
     },
     {
         "parallels": ["uv32#32.49", "t213.32#vagga-gatha-num-sc32.49"]
-    },
-    {
-        "parallels": ["uv32#32.5", "t212.33#vagga-gatha-num-sc33.5", "t213.32#vagga-gatha-num-sc32.5"]
     },
     {
         "parallels": ["uv32#32.50", "t213.32#vagga-gatha-num-sc32.50"]
@@ -13516,9 +13621,6 @@
         "parallels": ["uv33#33.52", "t212.34#vagga-gatha-num-sc34.53"]
     },
     {
-        "parallels": ["uv33#33.55", "t212.32#vagga-gatha-num-sc32.8", "t213.31#vagga-gatha-num-sc31.8"]
-    },
-    {
         "parallels": ["uv33#33.55", "~dhp#37", "~pdhp#344", "~t210.11#vagga-gatha-num-sc11.4", "~t212.34#vagga-gatha-num-sc34.58", "~t213.33#vagga-gatha-num-sc33.55", "~uv31#31.8A"]
     },
     {
@@ -13583,9 +13685,6 @@
     },
     {
         "parallels": ["uv5#5.2", "~dhp#213", "~t213.5#vagga-gatha-num-sc5.2", "~t212.6#t0649c08"]
-    },
-    {
-        "parallels": ["uv5#5.24", "~dhp#217", "~t210.24#vagga-gatha-num-sc24.7", "~t212.6#vagga-gatha-num-sc6.21", "~t213.5#vagga-gatha-num-sc5.22"]
     },
     {
         "parallels": ["uv5#5.25", "t212.6#vagga-gatha-num-sc6.22", "t213.5#vagga-gatha-num-sc5.23"]
@@ -13654,9 +13753,6 @@
         "parallels": ["uv7#7.8", "t210.7#vagga-gatha-num-sc7.2", "t212.8#vagga-gatha-num-sc8.9", "t213.7#vagga-gatha-num-sc7.8"]
     },
     {
-        "parallels": ["uv8#8.11", "t210.38#vagga-gatha-num-sc38.14", "t212.9#vagga-gatha-num-sc9.13", "t213.8#vagga-gatha-num-sc8.13"]
-    },
-    {
         "parallels": ["uv8#8.12", "t210.8#vagga-gatha-num-sc8.9", "t212.9#vagga-gatha-num-sc9.14", "t213.8#vagga-gatha-num-sc8.14"]
     },
     {
@@ -13703,9 +13799,6 @@
     },
     {
         "parallels": ["uv9#9.4", "t212.10#vagga-gatha-num-sc10.4", "t213.9#vagga-gatha-num-sc9.5"]
-    },
-    {
-        "parallels": ["uv9#9.6", "t210.17#vagga-gatha-num-sc17.22", "t212.10#vagga-gatha-num-sc10.7", "t213.9#vagga-gatha-num-sc9.7"]
     },
     {
         "parallels": ["uv9#9.7", "t210.30#vagga-gatha-num-sc30.11", "t212.10#vagga-gatha-num-sc10.8", "t213.9#vagga-gatha-num-sc9.8"]
@@ -13826,9 +13919,6 @@
     },
     {
         "parallels": ["an10.25#1", "an10.29#4", "dn33#339", "dn34#207"]
-    },
-    {
-        "parallels": ["an10.26#2", "sn4.25#14"]
     },
     {
         "parallels": ["an10.29#6", "an8.65#1", "dn33#287", "dn34#159", "~an1.394-574#439.1", "~dn16#129", "~mn77#37", "~an8.119#1"]
@@ -15684,9 +15774,6 @@
         "mentions": ["mn130#23", "cnd23#32-#33", "mnd15#7-#8", "~mil3.4.6#2"]
     },
     {
-        "parallels": ["mn131#2-#5", "mn132#4-#7", "mn133#5-#8", "mn134#2-#5"]
-    },
-    {
         "mentions": ["mn131#2-#5", "ne37#216-#219", "tha-ap550#20-#23"]
     },
     {
@@ -16410,9 +16497,6 @@
         "retells": ["san-lo-mvu51", "cp13"]
     },
     {
-        "parallels": ["sn1.1#2", "sn2.18#6"]
-    },
-    {
         "mentions": ["sn1.1#2", "mnd15#165"]
     },
     {
@@ -16968,13 +17052,7 @@
         "parallels": ["sn8.2#2-#6", "thag21.1#verse-num-sc1223-#verse-num-sc1227"]
     },
     {
-        "parallels": ["snp1.10#verse-num-sc186", "sn10.12#5"]
-    },
-    {
         "mentions": ["snp1.10#verse-num-sc186", "~mil3.1.10", "~mil3.1.11#3"]
-    },
-    {
-        "parallels": ["snp1.10#verse-num-sc188-#verse-num-sc189", "sn10.12#7-#8"]
     },
     {
         "mentions": ["snp1.10#verse-num-sc188-#verse-num-sc189", "ne37#190-#191"]
@@ -17230,9 +17308,6 @@
     },
     {
         "mentions": ["snp3.8#verse-num-sc583-#verse-num-sc587", "mnd6#23-#27"]
-    },
-    {
-        "parallels": ["snp4.1#verse-num-sc773", "ja467#1"]
     },
     {
         "mentions": ["snp4.1#verse-num-sc773", "mnd1#2", "ne15#40", "ne4#3", "pe2#75", "mnd1#12"]
@@ -18087,10 +18162,7 @@
         "mentions": ["snp5.2#verse-num-sc1044", "cnd2#6", "cnd5#35", "ne16#10", "ne5#26", "pe5#10"]
     },
     {
-        "parallels": ["snp5.2#verse-num-sc1045", "sn12.31#2"]
-    },
-    {
-        "mentions": ["snp5.2#verse-num-sc1045", "cnd2#7", "ne5#37", "cnd5#41", "pe5#12"]
+        "mentions": ["snp5.2#verse-num-sc1045", "cnd2#7", "ne5#37", "cnd5#41", "pe5#12", "sn12.31#2"]
     },
     {
         "mentions": ["snp5.2#verse-num-sc1046", "cnd2#8", "cnd5#50", "ne5#40"]
