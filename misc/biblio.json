@@ -536,8 +536,8 @@
     "name": "Devacandra 1996",
     "text": "DEVACANDRA 1996. Gaṅ po la sogs pa’i rtogs pa brjod pa brgya pa. Xining.",
     "contains": [
-      "tib10",
-      "tib20"
+      "d1#kha101a",
+      "xct-mu-kd-devacandra"
     ]
   },
   {
@@ -562,7 +562,7 @@
     "name": "Eimer 1983",
     "text": "<span class='author'>EIMER, Helmut</span> 1983. Rab tu \\'byuṅ ba\\'i gźi. Die Tibetische Übersetzung des Pravrajyāvastu im Vinaya der Mūlasarvāstivādins. Wiesbaden: Harrasowitz. Vol. 2.",
     "contains": [
-      "tib30"
+      "xct-mu-kd-eimer"
     ]
   },
   {
@@ -933,7 +933,7 @@
     "name": "Levi 1932",
     "text": "<span class='author'>LÉVI, Sylvain</span> 1932. Mahākarmavibhaṅga (La Grande Classification des Actes) et Karmavibhaṅgopadeśa (Discussion sur le Mahā Karmavibhaṅga), Textes sanscrits rapportés du Népal, édités et traduits avec les textes parallèles en Sanscrit, en Pali, en Tibétain, en Chinois et en Koutchéen. Paris: Librairie Ernest Leroux.",
     "contains": [
-      "tib40",
+      "d339#sa298b",
       "sf98",
       "sf99"
     ]
@@ -1107,14 +1107,6 @@
     "text": "<span class='author'>SCHLINGLOFF, Dieter</span> 1964. Ein Buddhistisches Yogalehrbuch: Textband. ( = Sanskrittexte aus den Turfanfunden VII). Berlin: Akademie-Verlag."
   },
   {
-    "uid": "sch1843",
-    "name": "Schmidt 1843",
-    "text": "<span class='author'>SCHMIDT, I. J.</span> 1843. Der Weise und der Thor, aus dem Tibetischen übersetzt und mit dem Originaltexte herausgegeben. St. Petersburg: Kaiserliche Akademie der Wissenschaften.",
-    "contains": [
-      "tib50"
-    ]
-  },
-  {
     "uid": "sen1882",
     "name": "Senart 1882",
     "text": "<span class='author'>SENART, Emile</span> 1882. Le Mahāvastu (vol 1): Texte sanscrit publié pour la première fois et accompagné d’introductions et d’un commentaire (Société Asiatique, Collection d’Ouvrages Orientaux, Seconde série. Paris: Imprimerie Nationale."
@@ -1243,13 +1235,16 @@
     "name": "Skilling 1994",
     "text": "<span class='author'>SKILLING, Peter</span> 1994. Mahāsūtras: Great Discourses of the Buddha, Volume I: Texts. Oxford: Pali Text Society.",
     "contains": [
-      "tib60",
-      "tib70",
-      "tib75",
-      "tib78",
-      "tib80",
-      "tib90",
-      "tib100",
+      "d288",
+      "d289",
+      "d290",
+      "d291",
+      "d292",
+      "d293",
+      "d294",
+      "d33",
+      "d34",
+      "d312"
       "sf147"
     ]
   },
@@ -1681,7 +1676,7 @@
     "name": "Weller 1935",
     "text": "<span class='author'>WELLER, Friedrich,</span> 1935. Das tibetische Brahmajālasūtra. Zeitschrift für Indologie und Iranistik, 10: 1–61.",
     "contains": [
-      "tib110"
+      "Up3.050"
     ]
   },
   {
