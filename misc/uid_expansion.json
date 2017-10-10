@@ -455,8 +455,8 @@
     "name": "Nidāna"
   },
   {
-    "uid": "pi",
-    "acro": "Pi",
+    "uid": "pli",
+    "acro": "Pli",
     "name": "Pāli"
   },
   {
@@ -470,28 +470,28 @@
     "name": "Chinese"
   },
   {
-    "uid": "skt",
-    "acro": "Skt",
+    "uid": "san",
+    "acro": "San",
     "name": "Sanskrit"
   },
   {
-    "uid": "gr",
-    "acro": "Gr",
+    "uid": "pgd",
+    "acro": "Pgd",
     "name": "Gāndhārī"
   },
   {
-    "uid": "pr",
-    "acro": "Pr",
+    "uid": "pra",
+    "acro": "Pra",
     "name": "Prākrit"
   },
   {
-    "uid": "ug",
-    "acro": "Ug",
+    "uid": "uig",
+    "acro": "Uig",
     "name": "Uighur"
   },
   {
-    "uid": "bo",
-    "acro": "Bo",
+    "uid": "xct",
+    "acro": "Xct",
     "name": "Tibetan"
   },
   {
@@ -535,8 +535,8 @@
     "name": "Vietnamese"
   },
   {
-    "uid": "kh",
-    "acro": "Kh",
+    "uid": "kho",
+    "acro": "Kho",
     "name": "Khotanese"
   },
   {
@@ -800,8 +800,8 @@
     "name": "Hybrid Sanskrit fragment"
   },
   {
-    "uid": "hskt",
-    "acro": "Hskt",
+    "uid": "hsan",
+    "acro": "Hsan",
     "name": "Hybrid Sanskrit"
   },
   {
