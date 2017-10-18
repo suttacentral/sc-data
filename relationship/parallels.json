@@ -186,10 +186,10 @@
         "parallels": ["mn131#2-#5", "mn132#4-#7", "mn133#5-#8", "mn134#2-#5"]
     },
     {
-        "parallels": ["vb6", "~dhsk1-dhsk14"]
+        "parallels": ["vb6", "~dk1-dk14"]
     },
     {
-        "parallels": ["~vb6", "dhsk1-dhsk14"]
+        "parallels": ["~vb6", "dk1-dk14"]
     },
     {
         "parallels": ["~mn71#3", "mn14#14"]
@@ -198,16 +198,16 @@
         "parallels": ["mn71#3", "~mn14#14"]
     },
     {
-        "parallels": ["vb14", "~dhsk15-dhsk17"]
+        "parallels": ["vb14", "~dk15-dk17"]
     },
     {
-        "parallels": ["~vb14", "dhsk15-dhsk17"]
+        "parallels": ["~vb14", "dk15-dk17"]
     },
     {
-        "parallels": ["vb13", "~dhsk18-dhsk19"]
+        "parallels": ["vb13", "~dk18-dk19"]
     },
     {
-        "parallels": ["~vb13", "dhsk18-dhsk19"]
+        "parallels": ["~vb13", "dk18-dk19"]
     },
     {
         "parallels": ["sn46.33", "an5.23#1-2","~an3.101","~sa1246"]
