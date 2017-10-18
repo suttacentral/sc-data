@@ -96,7 +96,7 @@
     "description": "Folio number in the manuscript."
   },
   {
-    "uid": "gatha-number",
+    "uid": "gn",
     "description": "Verse number."
   },
   {
@@ -308,7 +308,7 @@
     "description": "Vol/page of the Pali Text Society translation."
   },
   {
-    "uid": "pts-vp-pi",
+    "uid": "pts-vp-pli",
     "description": "Vol/page of the Pali Text Society Pali edition."
   },
   {
@@ -316,7 +316,7 @@
     "description": "Pali Text Society vol/page number."
   },
   {
-    "uid": "pts-p-pi",
+    "uid": "pts-p-pli",
     "description": "Pali Text Society page number for the Pali text."
   },
   {
@@ -364,11 +364,11 @@
     "description": "References for SHT fragments."
   },
   {
-    "uid": "snp-vagga-section-verse",
+    "uid": "svsv",
     "description": "Chapter, section, and verse number within the section."
   },
   {
-    "uid": "snp-vagga-verse",
+    "uid": "svv",
     "description": "Chapter, and verse number within the chapter."
   },
   {
@@ -396,11 +396,11 @@
     "description": "Paragraph numbers in Thích Thiện Châu."
   },
   {
-    "uid": "ud-sutta",
+    "uid": "us",
     "description": "Sutta number."
   },
   {
-    "uid": "ud-vagga-sutta",
+    "uid": "uvs",
     "description": "Chapter/sutta number."
   },
   {
@@ -424,7 +424,7 @@
     "description": "Chapter and verse numbers for the Udānavarga."
   },
   {
-    "uid": "vagga-gatha-num-sc",
+    "uid": "vgns",
     "description": "SuttaCentral vagga and verse number"
   },
   {
@@ -444,11 +444,11 @@
     "description": "Paragraph numbers in Varsavastu Masanori Shono"
   },
   {
-    "uid": "verse-num-sc",
+    "uid": "vns",
     "description": "SuttaCentral verse number"
   },
   {
-    "uid": "verse-num-pts",
+    "uid": "vnp",
     "description": "Verse number in the Pali Text Society edition."
   },
   {
@@ -528,7 +528,7 @@
     "description": "Wisdom Publications paragraph number."
   },
   {
-    "uid": "wp-verse",
+    "uid": "wpv",
     "description": "Wisdom Publications verse number."
   },
   {
