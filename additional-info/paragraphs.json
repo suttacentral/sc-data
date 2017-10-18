@@ -328,6 +328,10 @@
     "description": "Volume and page numbers in Rahula Sankriytayana translation."
   },
   {
+    "uid": "sag",
+    "description": "Verse numbers in Sarirarthagatha of the Cintamayibhumi"
+  },
+  {
     "uid": "san87",
     "description": "Paragraph numbers in Sander, 1987."
   },
@@ -342,6 +346,10 @@
   {
     "uid": "sb",
     "description": "Paragraph numbers in Fritz Schaefer / Raimund Beyerlein."
+  },
+  {
+    "uid": "sbh",
+    "description": "Page numbers in Sravakabhumi of Acarya Asanga"
   },
   {
     "uid": "sbvi",
