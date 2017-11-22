@@ -123,7 +123,7 @@
         "parallels": ["uv16#16.22","t212.17#vgns17.22","t213.16#vgns16.19","sag#25"]
     },
     {
-        "parallels": ["dhp#150","gdhp#284","t210.19#vgns19.5","t212.17#vgns17.23","t213.16#vgns16.20","uv16#16.23","sag#26"]
+        "parallels": ["dhp#150","gdhp#284","t210.19#vgns19.5","t212.17#vgns17.23","t213.16#vgns16.20","uv16#16.23","sag#26","Manusmṛti_6.77"]
     },
     {
         "parallels": ["uv26#26.1","t212.27#vgns27.1","t213.26#vgns26.1","sag#27"]
@@ -10152,7 +10152,7 @@
         "parallels": ["dhp#105","pdhp#320","t210.16#vgns16.6","t212.24#vgns24.5","t213.23#vgns23.5","uv23#23.5"]
     },
     {
-        "parallels": ["dhp#106","gdhp#310","gdhp#320","pdhp#379","san-lo-mvu109#5-#9","t210.16#vgns16.7","t213.24#vgns24.32"]
+        "parallels": ["dhp#106","gdhp#310","gdhp#320","pdhp#379","san-lo-mvu109#5-#9","t210.16#vgns16.7","t213.24#vgns24.32","Manusmṛti_5.53"]
     },
     {
         "parallels": ["dhp#107","gdhp#319-320","pdhp#380","san-lo-mvu109#16-#17","t210.16#vgns16.8","t213.24#vgns24.33","uv24#24.16"]
@@ -10161,7 +10161,7 @@
         "parallels": ["dhp#108","gdhp#321","pdhp#381","san-lo-mvu109#18","t210.16#vgns16.9","t212.25#vgns25.9","t213.24#vgns24.21","uv24#24.30"]
     },
     {
-        "parallels": ["dhp#109","gdhp#172"]
+        "parallels": ["dhp#109","gdhp#172","Manusmṛti_2.121"]
     },
     {
         "parallels": ["dhp#11","gdhp#213","t210.9#vgns9.11","t212.30#vgns30.3","t213.29#vgns29.3","uv29#29.3"]
@@ -10227,7 +10227,7 @@
         "parallels": ["dhp#126","pdhp#274","t210.17#vgns17.20","t212.1#vgns1.48","t213.1#vgns1.25"]
     },
     {
-        "parallels": ["dhp#127","divy#475.021","t210.17#vgns17.21","t212.10#vgns10.5","t213.9#vgns9.6","uv9#9.5"]
+        "parallels": ["dhp#127","divy#475.021","t210.17#vgns17.21","t212.10#vgns10.5","t213.9#vgns9.6","uv9#9.5","Garudapurāṇa_Adyāṣa_113‒20"]
     },
     {
         "parallels": ["dhp#128","t210.1#vgns1.19","t212.1#vgns1.49","t213.1#vgns1.27","uv1#1.25"]
@@ -10236,7 +10236,7 @@
         "mentions": ["dhp#128","mil5.2.4#2"]
     },
     {
-        "parallels": ["dhp#129","pdhp#202","t210.18#vgns18.1","t212.6#vgns6.16","t213.5#vgns5.17","uv5#5.19","~dhp#130","~snp3.11#vns711"]
+        "parallels": ["dhp#129","pdhp#202","t210.18#vgns18.1","t212.6#vgns6.16","t213.5#vgns5.17","uv5#5.19","~dhp#130","~snp3.11#vns711","Hitopadeśa_1.2"]
     },
     {
         "mentions": ["dhp#129","~mil5.2.3"]
@@ -10248,7 +10248,7 @@
         "parallels": ["dhp#130","~dhp#129","~pdhp#202","~t210.18#vgns18.1","~t212.6#vgns6.16","~t213.5#vgns5.17","~uv5#5.19"]
     },
     {
-        "parallels": ["dhp#131","pdhp#203","t212.31#vgns31.3","t213.30#vgns30.3","ud2.3#3","uv30#30.3"]
+        "parallels": ["dhp#131","pdhp#203","t212.31#vgns31.3","t213.30#vgns30.3","ud2.3#3","uv30#30.3","Mahābhārata_13.5565","Manusmṛti_5.45"]
     },
     {
         "mentions": ["dhp#131","ne37#18","ne37#70","ne9#7"]
@@ -10350,7 +10350,7 @@
         "parallels": ["dhp#160","pdhp#321","t210.20#vgns20.4","t213.23#vgns23.20","uv23#23.11"]
     },
     {
-        "parallels": ["dhp#161","pdhp#307","t210.20#vgns20.5","t212.29#vgns29.12","t213.28#vgns28.11","~uv28#28.12"]
+        "parallels": ["dhp#161","pdhp#307","t210.20#vgns20.5","t212.29#vgns29.12","t213.28#vgns28.11","~uv28#28.12","Garuda_Purāna_119_Adyāya_19"]
     },
     {
         "mentions": ["dhp#161","ne37#475"]
@@ -10512,7 +10512,7 @@
         "parallels": ["dhp#20","gdhp#191","pdhp#291","t210.9#vgns9.22","t212.7#vgns7.32","t213.4#vgns4.22","uv4#4.23"]
     },
     {
-        "parallels": ["dhp#200","gdhp#168","ja539#133","pdhp#257","sn4.18#4","t210.23#vgns23.4","t212.31#vgns31.50","t213.30#vgns30.44","uv30#30.49"]
+        "parallels": ["dhp#200","gdhp#168","ja539#133","pdhp#257","sn4.18#4","t210.23#vgns23.4","t212.31#vgns31.50","t213.30#vgns30.44","uv30#30.49","Mahābhārata_12.9917"]
     },
     {
         "parallels": ["dhp#201","avs#0.1","gdhp#180","pdhp#81","sn3.14#5","t210.23#vgns23.6","t212.31#vgns31.1","t213.30#vgns30.1","uv30#30.1"]
@@ -10593,7 +10593,7 @@
         "parallels": ["dhp#222","gdhp#275","t210.25#vgns25.3","t212.21#vgns21.20","t213.20#vgns20.19","uv20#20.22"]
     },
     {
-        "parallels": ["dhp#223","gdhp#280","ja151#2","t210.25#vgns25.4","t212.15#vgns15.19","t212.21#vgns21.18","t213.20#vgns20.17","uv20#20.19"]
+        "parallels": ["dhp#223","gdhp#280","ja151#2","t210.25#vgns25.4","t212.15#vgns15.19","t212.21#vgns21.18","t213.20#vgns20.17","uv20#20.19","Mahābhārata"]
     },
     {
         "parallels": ["dhp#224","gdhp#281","pdhp#292","t210.25#vgns25.5","t212.21#vgns21.15","t213.20#vgns20.14","uv20#20.16"]
@@ -10722,7 +10722,7 @@
         "parallels": ["dhp#26","gdhp#117","mn86#37","pdhp#17","sn1.36#5","t210.10#vgns10.6","t212.4#vgns4.8","t213.4#vgns4.10-#vgns4.11","thag16.8#vns883","uv4#4.10"]
     },
     {
-        "parallels": ["dhp#260","gdhp#182","t210.27#vgns27.5","t212.12#vgns12.12","t213.11#vgns11.11","uv11#11.11"]
+        "parallels": ["dhp#260","gdhp#182","t210.27#vgns27.5","t212.12#vgns12.12","t213.11#vgns11.11","uv11#11.11","Manusmṛti_2.158"]
     },
     {
         "parallels": ["dhp#261","pdhp#289","~ja166#2"]
@@ -10806,7 +10806,7 @@
         "mentions": ["dhp#279","~cnd12#12","~cnd16#23","~cnd6#14","kv16.4#15","mnd4#42","ne37#376","ne4#19","pe2#136","pe2#62","an3.136#1"]
     },
     {
-        "parallels": ["dhp#28","gdhp#119","pdhp#19","t210.10#vgns10.8-#vgns10.9","t213.4#vgns4.4","uv4#4.4","~t212.4#t0637c13"]
+        "parallels": ["dhp#28","gdhp#119","pdhp#19","t210.10#vgns10.8-#vgns10.9","t213.4#vgns4.4","uv4#4.4","~t212.4#t0637c13","Yogabhāṣya_40"]
     },
     {
         "mentions": ["dhp#28","mil7.4.5#10"]
@@ -10839,7 +10839,7 @@
         "parallels": ["dhp#286","pdhp#364","t210.13#vgns13.5","t212.1#vgns1.74","t213.1#vgns1.37","uv1#1.38","~gdhp#333"]
     },
     {
-        "parallels": ["dhp#287","pdhp#365","t210.28#vgns28.14","t212.1#vgns1.76","uv1#1.39","~gdhp#334"]
+        "parallels": ["dhp#287","pdhp#365","t210.28#vgns28.14","t212.1#vgns1.76","uv1#1.39","~gdhp#334","Mahābhārata_12.175"]
     },
     {
         "parallels": ["dhp#288","gdhp#261","pdhp#366","t210.1#vgns1.17","t212.1#vgns1.37","t213.1#vgns1.38","uv1#1.40"]
@@ -11388,10 +11388,10 @@
         "parallels": ["dhp#46","gdhp#300","pdhp#134","t210.12#vgns12.4","t212.19#vgns19.18","t213.18#vgns18.25","uv18#18.18"]
     },
     {
-        "parallels": ["dhp#47","gdhp#294","pdhp#128","t210.12#vgns12.5","t212.19#vgns19.14","t213.18#vgns18.15","uv18#18.14"]
+        "parallels": ["dhp#47","gdhp#294","pdhp#128","t210.12#vgns12.5","t212.19#vgns19.14","t213.18#vgns18.15","uv18#18.14","Śhāntiparva_9939_Mahābhārata"]
     },
     {
-        "parallels": ["dhp#48","pdhp#129","t210.12#vgns12.6","t212.19#vgns19.15","t213.18#vgns18.16","uv18#18.15"]
+        "parallels": ["dhp#48","pdhp#129","t210.12#vgns12.6","t212.19#vgns19.15","t213.18#vgns18.16","uv18#18.15", "- Śhāntiparva_6540_Mahābhārata"]
     },
     {
         "parallels": ["dhp#49","gdhp#292","pdhp#127","t210.12#vgns12.7","t212.19#vgns19.9","t213.18#vgns18.9","uv18#18.8"]
