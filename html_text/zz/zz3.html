@@ -12,7 +12,7 @@
 <div class="hgroup">
 <h1>Text Classes</h1>
 </div>
-<table class="textable">
+<table class="text-table">
 <tr>
 <th>Class</th>
 <th>Definition</th>
@@ -29,13 +29,13 @@
 <td>.article</td>
 <td>Used on cite tags. Title of article, usually in a Journal.</td>
 <td>font-style: normal </td>
-<td><cite class="article">Example</cite></td>
+<td>See Info above</td>
 </tr>
 <tr>
 <td>.author</td>
 <td>Indicates proper name of author/editor/translator</td>
 <td>Use small-caps, inherit serif or sans serif as per context.</td>
-<td><span class="author">Example</span></td>
+<td>See Info above</td>
 </tr>
 <tr>
 <td>.bhikkhuni</td>
@@ -47,7 +47,7 @@
 <td>.book</td>
 <td>Used on cite tags. Title of a book.</td>
 <td>font-style: italic</td>
-<td><cite class="book">Example</cite></td>
+<td>See Info above</td>
 </tr>
 <tr>
 <td>.collection</td>
@@ -71,7 +71,7 @@
 <td>.dharani</td>
 <td>Indicates a span of text marked in the CBETA files as a "dharani", or matra/invocation.</td>
 <td>Semantic only, no style.</td>
-<td><span class="dharani">XIXIV</span></td>
+<td><span class="dharani">Example</span></td>
 </tr>
 <tr>
 <td>.division</td>
@@ -83,42 +83,42 @@
 <td>.editor</td>
 <td>Marks the "prepared for SC by" span.</td>
 <td>Inherit</td>
-<td><span class="editor">Example</span></td>
+<td>See Info above</td>
 </tr>
 <tr>
 <td>.end</td>
-<td>The most general of the "end" tags. </td>
-<td>Italic</td>
+<td>The most general of the "end" tags. Prefer more specific tags, use this as fallback.</td>
+<td>Italic, center, secondary-text-color</td>
 <td><span class="end">Example</span></td>
 </tr>
 <tr>
 <td>.endbook</td>
 <td></td>
-<td>text-transform:uppercase, font-weight:bold, letter-spacing (as per headings)</td>
+<td>text-transform:uppercase, font-weight:bold, letter-spacing (as per headings), center, secondary-text-color</td>
 <td><span class="endbook">Example</span></td>
 </tr>
 <tr>
 <td>.endsection</td>
 <td></td>
-<td>Italic</td>
+<td>Italic, center, secondary-text-color</td>
 <td><span class="endsection">Example</span></td>
 </tr>
 <tr>
 <td>.endsubsection</td>
 <td></td>
-<td>Italic</td>
+<td>Italic, center, secondary-text-color</td>
 <td><span class="endsubsection">Example</span></td>
 </tr>
 <tr>
 <td>.endsutta</td>
 <td></td>
-<td>Bold</td>
+<td>Bold, center, secondary-text-color</td>
 <td><span class="endsutta">Example</span></td>
 </tr>
 <tr>
 <td>.endvagga</td>
 <td></td>
-<td>text-transform:uppercase, letter-spacing (as per headings)</td>
+<td>text-transform:uppercase, letter-spacing (as per headings),center, secondary-text-color</td>
 <td><span class="endvagga">Example</span></td>
 </tr>
 <tr>
@@ -128,8 +128,14 @@
 <td><span class="evam">Example</span></td>
 </tr>
 <tr>
+<td>.fakechapter</td>
+<td>Indicates what appears to be erroneous or misplaced titles in Vietnamese texts. Note that there are long-standing structural problems with the Vietnamese texts, and i have not yet found anyone to fix them. So these may contain info relevant for sorting that out. Compare voidchapter</td>
+<td>Semantic only, no style.</td>
+<td><h4>Example</h4></td>
+</tr>
+<tr>
 <td>.jataka</td>
-<td>Marks Jataka texts embedded in Vinaya (could be extended to suttas, too.</td>
+<td>Marks Jataka texts embedded in Vinaya (could be extended to suttas, too).</td>
 <td>Semantic only, no style.</td>
 <td><span class="jataka">Example</span></td>
 </tr> 
@@ -161,25 +167,25 @@
 <td>.latin</td>
 <td>Marks latin text—usually either Pali or English—in a Chinese text. These are mostly inserted titles and so on for easy identification of sections.</td>
 <td>no style</td>
-<td><span class="latin">Example</span></td>
+<td><p class="latin">Example</p></td>
 </tr>
 <tr>
 <td>.mirror-left latin</td>
 <td>The Latin half of a mirrored hgroup.</td>
-<td>As per old site</td>
+<td>See below</td>
 <td><span class="mirror-left latin">Example</span></td>
 </tr>
 <tr>
 <td>.mirror-right</td>
 <td>The right half of a mirrored hgroup.</td>
-<td>As per old site</td>
+<td>See below</td>
 <td><span class="mirror-right">Example</span></td>
 </tr>
 <tr>
 <td>.mirror-row</td>
 <td></td>
-<td></td>
-<td><p class="mirror-right">Example</p></td>
+<td>See below</td>
+<td><h1 class="mirror-row">Example</h1></td>
 </tr>
 <tr>
 <td>.namo</td>
@@ -191,7 +197,7 @@
 <td>.nipata</td>
 <td>Marks nipata in supertitle for some Sinhalese texts.</td>
 <td>Inherit</td>
-<td><span class="nipata">Example</span></td>
+<td><p class="nipata">Example</p></td>
 </tr>
 <tr>
 <td>.pannasa</td>
@@ -237,88 +243,63 @@
 </tr>
 <tr>
 <td>.subdivision</td>
-<td></td>
-<td></td>
+<td>Identifies subdivision in supertitle.</td>
+<td>Inherit</td>
 <td><p class="subdivision">Example</p></td>
 </tr>
 <tr>
 <td>.subheading</td>
-<td></td>
-<td></td>
+<td>Subtitle within hgroup, appearing below "h1". These are usually headings given by a translator to describe the text more clearly than the regular title.</td>
+<td>centered, italic, serif, secondary-text-color, a bit of padding.</td>
 <td><p class="subheading">Example</p></td>
 </tr>
 <tr>
 <td>.subrule</td>
-<td></td>
-<td></td>
+<td>Minor or secondary rule mentioned in the discussion of another Vinaya rule.</td>
+<td>Bold</td>
 <td><span class="subrule">Example</span></td>
 </tr>
 <tr>
 <td>.subsubdivision</td>
-<td></td>
-<td></td>
+<td>A level of hierarchy in supertitles, in between a subdivision and a vagga, usually corresponding to a pannasa, bhaga, etc.</td>
+<td>Inherit</td>
 <td><p class="subsubdivision">Example</p></td>
 </tr>
 <tr>
-<tr>
-<td>.sutta</td>
-<td></td>
-<td></td>
-<td><p class="sutta">Example</p></td>
-</tr>
-<tr>
 <td>.t-byline</td>
-<td></td>
-<td></td>
+<td>Notes translator, etc. of Chinese texts. Similar to "scribe".Inherit</td>
+<td>Inherit</td>
 <td><span class="t-byline">Example</span></td>
 </tr> 
 <tr>
 <td>.t-counter</td>
-<td></td>
+<td>Counts numbers in Chinese txts.	</td>
 <td></td>
 <td><span class="t-counter">Example</span></td>
 </tr> 
 <tr>
 <td>.t-headname</td>
-<td></td>
-<td></td>
+<td>A kind of title class inherited from CBETA. Used in various contexts.</td>
+<td>Inherit</td>
 <td><span class="t-headname">Example</span></td>
 </tr> 
 <tr>
 <td>.t-juanname</td>
-<td></td>
-<td></td>
+<td>Name of juan (folio) in CBETA texts</td>
+<td>Inherit</td>
 <td><span class="t-juanname">Example</span></td>
 </tr> 
 <tr>
-<td>.t-juannumber</td>
-<td></td>
-<td></td>
-<td><span class="t-juannumber">Example</span></td>
-</tr> 
-<tr>
-<td>.t-linehead</td>
-<td></td>
-<td></td>
-<td><span class="t-linehead">Example</span></td>
-</tr> 
-<tr>
 <td>.t-note</td>
-<td></td>
-<td></td>
+<td>Text marked as Note in CBETA</td>
+<td>secondary-text-color</td>
 <td><span class="t-note">Example</span></td>
 </tr> 
 <tr>
-<td>.t-w</td>
-<td>Only used on article tags</td>
-<td></td>
-<td><article class="t-w">Example</article></td>
-</tr>
-<tr>
 <td>.uddana</td>
-<td></td>
-<td></td>
-<td><span class="uddana">Example</span></td>
+<td>Marks text that is an uddana, or summary/list of contents at the end of a vagga or other section.</td>
+<td>Secondary text color, smaller font size.</td>
+<td><p class="uddana">Example</p></td>
 </tr>
 <tr>
 <td>.uddana-intro</td>
@@ -327,10 +308,28 @@
 <td><span class="uddana-intro">Example</span></td>
 </tr>
 <tr>
+<td>.vagga-number</td>
+<td>Marks vagga number in Chinese texts, using Chinese numerals</td>
+<td>secondary-text-color</td>
+<td><span class="vagga-number">Example</span></td>
+</tr>
+<tr>
 <td>.vagga</td>
-<td></td>
-<td></td>
+<td>Marks vagga in supertitles.</td>
+<td>Inherit</td>
 <td><p class="vagga">Example</p></td>
+</tr>
+<tr>
+<td>.voidchapter</td>
+<td>Used in Vietnamese texts, indicating heading of an empty section or passage; these appear to be untranslated peyyala series.</td>
+<td>Semantic only, no style.</td>
+<td><h2 class="voidchapter">Example</h2></td>
+</tr>
+<tr>
+<td>.wrongview</td>
+<td>A special markup for the kathavatthu, clarifying the voice of the orthodox and the opponent in the debate.</td>
+<td>secondary text color</td>
+<td><span class="wrongview">Example</span></td>
 </tr>
 </table>
 
@@ -352,7 +351,8 @@ kataṃ buddhassa sāsanan”ti.</p>
 </blockquote>
 
 <p>.uddanagatha</p>
-<p>Used on blockquotes and paragraphs:</p>
+<p>Used only on blockquotes. Labels verse inside uddana. Unlike normal text verses, these are left-aligned.</p>
+<p>Inherit</p>
 <blockquote class="uddanagatha">
 <p>“Yāva kāsijanapado,<br>
 suṅko me tatthako ahu;<br>
@@ -365,22 +365,6 @@ sandhāveyyaṃ punappunaṃ;<br>
 Tisso vijjā sacchikatā,<br>
 kataṃ buddhassa sāsanan”ti.</p>
 </blockquote>
-
-<p>.vagguddanagatha</p>
-<p>Used on 1 blockquote in the text:</p>
-<blockquote class="vagguddanagatha">
-<p>“Yāva kāsijanapado,<br>
-suṅko me tatthako ahu;<br>
-Taṃ katvā negamo agghaṃ,<br>
-aḍḍhenagghaṃ ṭhapesi maṃ.</p>
-<p>Atha nibbindahaṃ rūpe,<br>
-nibbindañca virajjahaṃ;<br>
-Mā puna jātisaṃsāraṃ,<br>
-sandhāveyyaṃ punappunaṃ;<br>
-Tisso vijjā sacchikatā,<br>
-kataṃ buddhassa sāsanan”ti.</p>
-</blockquote>
-
 
 <h2>Example of Chinese header</h2>
 <p>This example is inside a class="hgroup mirror": Indicates "mirrored" styles in sutta title, used for displaying Latin | Chinese.</p>
@@ -398,6 +382,8 @@ kataṃ buddhassa sāsanan”ti.</p>
 </article>
 <aside id="metaarea">
 <p>Auteur: <span class="author">Vimala</span></p>
+<p><cite class="book">This is a book title</cite></p>
+<p><cite class="article">This is an article title</cite></p>
 <p>Prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p></aside>
 </section>
 </div>
