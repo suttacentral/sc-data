@@ -1,5 +1,26 @@
 [
   {
+    "uid": "tv",
+    "name": "Theravāda",
+    "contains": [
+      "pli-tv-bu-vb",
+      "pli-tv-bi-vb",
+      "pli-tv-kd",
+      "pli-tv-pvr",
+      "pli-tv-pvr-bu",
+      "pli-tv-pvr-bi",
+      "pli-tv-bu-pm",
+      "pli-tv-bi-pm",
+      "ds",
+      "vb",
+      "dt",
+      "pp",
+      "kv",
+      "ya",
+      "patthana"
+    ]
+  },
+  {
     "uid": "dg",
     "name": "Dharmaguptaka",
     "contains": [
@@ -145,27 +166,6 @@
       "jp",
       "mvs",
       "dk"
-    ]
-  },
-  {
-    "uid": "tv",
-    "name": "Theravāda",
-    "contains": [
-      "pli-tv-bu-vb",
-      "pli-tv-bi-vb",
-      "pli-tv-kd",
-      "pli-tv-pvr",
-      "pli-tv-pvr-bu",
-      "pli-tv-pvr-bi",
-      "pli-tv-bu-pm",
-      "pli-tv-bi-pm",
-      "ds",
-      "vb",
-      "dt",
-      "pp",
-      "kv",
-      "ya",
-      "patthana"
     ]
   }
 ]
