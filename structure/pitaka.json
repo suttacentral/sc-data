@@ -1,6 +1,6 @@
 [
   {
-    "uid": "su",
+    "uid": "sutta",
     "name": "Sutta",
     "grouping": [
       "long",
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "uid": "vi",
+    "uid": "vinaya",
     "name": "Vinaya",
     "grouping": [],
     "contains": [
@@ -155,7 +155,7 @@
     ]
   },
   {
-    "uid": "ab",
+    "uid": "abhidhamma",
     "name": "Abhidhamma",
     "grouping": [],
     "contains": [

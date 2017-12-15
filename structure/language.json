@@ -83,7 +83,6 @@
       "vk",
       "pk",
       "jp",
-      "jp",
       "mvs",
       "sab"
     ]
@@ -298,10 +297,10 @@
     "iso_code": "it"
   },
   {
-    "uid": "jp",
+    "uid": "jpn",
     "name": "日本語",
     "is_root": false,
-    "iso_code": "jp"
+    "iso_code": "jpn"
   },
   {
     "uid": "ko",
@@ -376,10 +375,10 @@
     "iso_code": "uig"
   },
   {
-    "uid": "vn",
+    "uid": "vi",
     "name": "Tiếng Việt",
     "is_root": false,
-    "iso_code": "vn"
+    "iso_code": "vi"
   },
   {
     "uid": "zh",
