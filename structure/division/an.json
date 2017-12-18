@@ -1,4 +1,4 @@
-[{"_path": "an", "name": "Aṅguttaranikāya", "type": "div", "num": 4, "child_count": 11},
+[{"_path": "an", "name": "Aṅguttaranikāya", "type": "division", "num": 4, "child_count": 11},
 {"_path": "an/an1", "name": "Ekakanipāta", "type": "div", "num": 1, "child_count": 20},
 {"_path": "an/an1/an1.1-10", "name": "Rūpādi Vagga", "type": "text", "num": 1},
 {"_path": "an/an1/an1.11-20", "name": "Nīvaraṇappahāna Vagga", "type": "text", "num": 2},
