@@ -22,7 +22,7 @@
     {
         "uid": "minor",
         "name": "Minor",
-        "contains": ["kn", "lzh-ja"]
+        "contains": ["kn", "lzh-ja", "minor-other"]
     },
     {
         "uid": "other",
@@ -30,4 +30,3 @@
         "contains": []
     }
 ]
-    
