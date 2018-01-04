@@ -375,6 +375,18 @@
     "iso_code": "uig"
   },
   {
+    "uid": "kho",
+    "name": "Khotanese",
+    "is_root": false,
+    "iso_code": "kho"
+  },
+  {
+    "uid": "xto",
+    "name": "Tocharian A",
+    "is_root": false,
+    "iso_code": "xto"
+  },
+  {
     "uid": "vi",
     "name": "Tiếng Việt",
     "is_root": false,
