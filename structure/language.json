@@ -197,10 +197,34 @@
     ]
   },
   {
+    "uid": "uig",
+    "name": "Uighur",
+    "is_root": false,
+    "iso_code": "uig",
+    "contains": [
+      "uf"
+    ]
+  },
+  {
+    "uid": "kho",
+    "name": "Khotanese",
+    "is_root": false,
+    "iso_code": "kho",
+    "contains": [
+      "kf"
+    ]
+  },
+  {
+    "uid": "xto",
+    "name": "Tocharian A",
+    "is_root": false,
+    "iso_code": "xto"
+  },
+  {
     "uid": "oth",
     "name": "Other",
     "is_root": true,
-    "iso_code": "ot",
+    "iso_code": "ot"
   },
   {
     "uid": "af",
@@ -363,30 +387,6 @@
     "name": "ไทย",
     "is_root": false,
     "iso_code": "th"
-  },
-  {
-    "uid": "uig",
-    "name": "Uighur",
-    "is_root": false,
-    "iso_code": "uig",
-    "contains": [
-      "uf"
-    ]
-  },
-  {
-    "uid": "kho",
-    "name": "Khotanese",
-    "is_root": false,
-    "iso_code": "kho",
-    "contains": [
-      "kf"
-    ]
-  },
-  {
-    "uid": "xto",
-    "name": "Tocharian A",
-    "is_root": false,
-    "iso_code": "xto"
   },
   {
     "uid": "vi",
