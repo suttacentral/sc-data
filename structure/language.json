@@ -201,10 +201,6 @@
     "name": "Other",
     "is_root": true,
     "iso_code": "ot",
-    "contains": [
-      "kf",
-      "uf"
-    ]
   },
   {
     "uid": "af",
@@ -372,13 +368,19 @@
     "uid": "uig",
     "name": "Uighur",
     "is_root": false,
-    "iso_code": "uig"
+    "iso_code": "uig",
+    "contains": [
+      "uf"
+    ]
   },
   {
     "uid": "kho",
     "name": "Khotanese",
     "is_root": false,
-    "iso_code": "kho"
+    "iso_code": "kho",
+    "contains": [
+      "kf"
+    ]
   },
   {
     "uid": "xto",
