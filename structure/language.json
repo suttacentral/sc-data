@@ -221,12 +221,6 @@
     "iso_code": "xto"
   },
   {
-    "uid": "oth",
-    "name": "Other",
-    "is_root": true,
-    "iso_code": "ot"
-  },
-  {
     "uid": "af",
     "name": "Afrikaans",
     "is_root": false,

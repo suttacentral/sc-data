@@ -1,0 +1,230 @@
+[
+	{
+		"UID": ["pli"],
+		"edition_full": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+		"edition_short": "Mahāsaṅgīti",
+		"edition_slug": "mahasangiti"
+	},
+	{
+		"UID": ["lzh"],
+		"edition_full": "Taishō Tripiṭaka",
+		"edition_short": "Taishō",
+		"edition_slug": "taisho"
+	},
+	{
+		"UID": ["xct"],
+		"edition_full": "Degé Kangyur",
+		"edition_short": "Degé",
+		"edition_slug": "dege"
+	},
+	{
+		"UID": ["arv"],
+		"edition_full": "N.H. Samtani",
+		"edition_short": "Samtani",
+		"edition_slug": "samtani"
+	},
+	{
+		"UID": ["avs"],
+		"edition_full": "P.L. Vaidya, J.S. Speyer",
+		"edition_short": "Vaidya/Speyer",
+		"edition_slug": "vadiya-speyer"
+	},
+	{
+		"UID": ["divy","lal","sf238"],
+		"edition_full": "P.L. Vaidya",
+		"edition_short": "Vaidya",
+		"edition_slug": "vaidya"
+	},
+	{
+		"UID": ["sf18","sag"],
+		"edition_full": "Fumio Enomoto",
+		"edition_short": "Enomoto",
+		"edition_slug": "enomoto"
+	},
+	{
+		"UID": ["sf36"],
+		"edition_full": "Takamichi Fukita",
+		"edition_short": "Fukita",
+		"edition_slug": "fukita"
+	},
+	{
+		"UID": ["sf68"],
+		"edition_full": "Jens-Uwe Hartmann",
+		"edition_short": "Hartmann",
+		"edition_slug": "hartmann"
+	},
+	{
+		"UID": ["sf73","sf74","sf75"],
+		"edition_full": "A.F. Rudolf Hoernle",
+		"edition_short": "Hoernle",
+		"edition_slug": "hoernle"
+	},
+		{
+		"UID": ["sf78","sf79","sf80","sf81","sf81","sf82","sf83","sf84"],
+		"edition_full": "N. Hosoda",
+		"edition_short": "Hosoda",
+		"edition_slug": "hosoda"
+	},
+	{
+		"UID": ["sf89","sf90"],
+		"edition_full": "Louis de La Vallée-Poussin",
+		"edition_short": "La Vallée-Poussin",
+		"edition_slug": "vallee"
+	},
+	{
+		"UID": ["sf101","sf102"],
+		"edition_full": "Hisashi Matsamura",
+		"edition_short": "Matsumura",
+		"edition_slug": "matsumura"
+	},
+	{
+		"UID": ["sf104,sf105"],
+		"edition_full": "Adelheid Mette",
+		"edition_short": "Mette",
+		"edition_slug": "mette"
+	},
+	{
+		"UID": ["sf107"],
+		"edition_full": "Kusum Mittal, Dieter Schlingoff",
+		"edition_short": "Mittal/Schlingoff",
+		"edition_slug": "mittal-schlingoff"
+	},
+	{
+		"UID": ["sf137"],
+		"edition_full": "Lore Sander",
+		"edition_short": "Sander",
+		"edition_slug": "sander"
+	},
+	{
+		"UID": ["sf140"],
+		"edition_full": "Ernst Waldschmidt, Lore Sander",
+		"edition_short": "Waldschmidt/Sander",
+		"edition_slug": "waldschmidt-sander"
+	},
+	{
+		"UID": ["sf146"],
+		"edition_full": "M.B. Shakya",
+		"edition_short": "Shakya",
+		"edition_slug": "shakya"
+	},
+	{
+		"UID": ["sf150","sf151","sf152","sf153","sf154","sf155","sf156","sf157","sf158","sf159","sf160","sf161","sf162","sf163","sf164","sf165","sf166","sf167","sf168","sf169","sf170","sf171","sf172","sf173","sf174","sf177","sf180","sf183","sf186","sf188","sf189","sf190","sf191","sf192","sf194","sf196","sf199","sf202","sf203","sf206","sf210","sf213","sf214","sf215","sf216","sf217","sf225","sf231","sf232","sf233","sf234","sf235","sf237"],
+		"edition_full": "C. Tripāṭhī",
+		"edition_short": "Tripāṭhī",
+		"edition_slug": "tripathi"
+	},
+	{
+		"UID": ["sf241","sf245","sf253","sf258","sf259","sf263","sf264","sf265","sf271","sf273","sf276","sf277","sf279","sf280","sf284","san-sarv-sm","san-sarv-bi-pm-tf44","san-sarv-bi-pm-tf3215","san-sarv-bi-vb"],
+		"edition_full": "Ernst Waldschmidt",
+		"edition_short": "Waldschmidt",
+		"edition_slug": "waldschmidt"
+	},
+	{
+		"UID": ["sf299"],
+		"edition_full": "Isshi Yamada",
+		"edition_short": "Yamada",
+		"edition_slug": "yamada"
+	},
+	{
+		"UID": ["uv"],
+		"edition_full": "F. Bernhard",
+		"edition_short": "Bernhard",
+		"edition_slug": "bernhard"
+	},
+	{
+		"UID": ["sbh"],
+		"edition_full": "Karunesha Shukla",
+		"edition_short": "Shukla",
+		"edition_slug": "shukla"
+	},
+	{
+		"UID": ["mkv"],
+		"edition_full": "Sylvain Lévi",
+		"edition_short": "Lévi",
+		"edition_slug": "levi"
+	},
+	{
+		"UID": ["dk"],
+		"edition_full": "Siglinde Dietz, Kazunobu Matsuda",
+		"edition_short": "Dietz/Matsuda",
+		"edition_slug": "dietz-matsuda"
+	},
+		{
+		"UID": ["san-mg-bu-pm"],
+		"edition_full": "W. Pachow, R. Mishra",
+		"edition_short": "Pachow/Mishra",
+		"edition_slug": "pachow-mishra"
+	},
+			{
+		"UID": ["san-mu-bu-pm-gbm2"],
+		"edition_full": "Lokesh Chandra",
+		"edition_short": "Chandra",
+		"edition_slug": "chandra"
+	},
+			{
+		"UID": ["san-lo-bu-pm"],
+		"edition_full": "N. Tatia",
+		"edition_short": "Tatia",
+		"edition_slug": "tatia"
+	},
+			{
+		"UID": ["san-mu-bu-pm-gbm3"],
+		"edition_full": "Anukul Chandra Banerjee",
+		"edition_short": "Banerjee",
+		"edition_slug": "banerjee"
+	},
+			{
+		"UID": ["san-mu-mpt-bu-pm"],
+		"edition_full": "I.P. Minaev, N.D. Mironov",
+		"edition_short": "Minaev/Mironov",
+		"edition_slug": "minaev-mironov"
+	},
+				{
+		"UID": ["san-sarv-bu-pm-tf11"],
+		"edition_full": "Georg von Simson",
+		"edition_short": "Simson",
+		"edition_slug": "simson"
+	},
+				{
+		"UID": ["san-lo-bi-nidana","san-lo-bi-pn","san-lo-bi-vb","san-lo-bu-pn"],
+		"edition_full": "Gustav Roth",
+		"edition_short": "Roth",
+		"edition_slug": "roth"
+	},
+				{
+		"UID": ["san-lo-mvu"],
+		"edition_full": "Émile Senart",
+		"edition_short": "Senart",
+		"edition_slug": "senart"
+	},
+				{
+		"UID": ["san-mu-kd"],
+		"edition_full": "Gilgit Buddhist Manuscripts",
+		"edition_short": "Gilgit",
+		"edition_slug": "gbm"
+	},
+					{
+		"UID": ["gdhp"],
+		"edition_full": "John Brough",
+		"edition_short": "Brough",
+		"edition_slug": "brough"
+	},
+						{
+		"UID": ["g2dhp"],
+		"edition_full": "Timothy Lenz",
+		"edition_short": "Lenz",
+		"edition_slug": "lenz"
+	},
+						{
+		"UID": ["g3dhp"],
+		"edition_full": "Harry Falk",
+		"edition_short": "Falk",
+		"edition_slug": "falk"
+	},
+						{
+		"UID": ["pdhp"],
+		"edition_full": "Margaret Cone",
+		"edition_short": "Cone",
+		"edition_slug": "cone"
+	}
+]
