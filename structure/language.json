@@ -218,7 +218,10 @@
     "uid": "xto",
     "name": "Tocharian A",
     "is_root": false,
-    "iso_code": "xto"
+    "iso_code": "xto",
+    "contains": [
+      "tf"
+    ]
   },
   {
     "uid": "af",
