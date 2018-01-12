@@ -1,4 +1,4 @@
-[{"_path": "minor-other/gdhp", "acronym": "G-Dhp", "name": "Gāndhārī Dharmapada", "type": "division", "num": 3},
+[{"_path": "minor-other/gdhp", "acronym": "G-Dhp", "name": "Gāndhārī Dharmapada", "type": "subdiv", "num": 3},
 {"_path": "minor-other/gdhp/gdhp-vagga1", "name": "Brammaṇa Vagga", "type": "vagga"},
 {"_path": "minor-other/gdhp/gdhp-vagga1/gdhp1", "name": "Brammaṇavagga 1.1"},
 {"_path": "minor-other/gdhp/gdhp-vagga1/gdhp2", "name": "Brammaṇavagga 1.2"},
@@ -364,5 +364,5 @@
 {"_path": "minor-other/gdhp/gdhp-vagga22/gdhp342", "name": "Nāga-aśvavagga 22.2"},
 {"_path": "minor-other/gdhp/gdhp-vagga22/gdhp343", "name": "Nāga-aśvavagga 22.3"},
 {"_path": "minor-other/gdhp/gdhp-vagga22/gdhp344", "name": "Nāga-aśvavagga 22.4"},
-{"_path": "minor-other/g2dhp", "acronym": "G2-Dhp", "name": "Gāndhārī 2nd Dharmapada", "type": "division", "num": 4},
-{"_path": "minor-other/g3dhp", "acronym": "G3-Dhp", "name": "Gāndhārī 3rd Dharmapada", "type": "division", "num": 5}]
+{"_path": "minor-other/g2dhp", "acronym": "G2-Dhp", "name": "Gāndhārī 2nd Dharmapada", "type": "subdiv", "num": 4},
+{"_path": "minor-other/g3dhp", "acronym": "G3-Dhp", "name": "Gāndhārī 3rd Dharmapada", "type": "subdiv", "num": 5}]
