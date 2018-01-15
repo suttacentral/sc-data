@@ -8,7 +8,7 @@
       "linked",
       "numbered",
       "minor",
-      "other"
+      "other-group"
     ],
     "contains": [
       "dn",
@@ -33,22 +33,15 @@
       "lzh-ssnp",
       "lzh-dharani",
       "lzh-svk",
-      "arv",
-      "avs",
-      "divy",
-      "lal",
-      "ybs",
-      "mkv",
-      "sht",
-      "sf",
-      "d",
-      "up",
-      "pf",
       "gf",
       "kf",
+      "pf",
+      "tf",
       "uf",
       "minor-other",
-      "minor-lzh"
+      "minor-lzh",
+      "other-san",
+      "other-xct"
     ]
   },
   {
@@ -150,7 +143,8 @@
       "xct-mu-uttaragantha-2",
       "xct-mu-bu-kammavaca",
       "pgd-pm-bf13",
-      "pgd-dg-bu-pm"
+      "pgd-dg-bu-pm",
+      "ssn-lo-bi-vb"
     ]
   },
   {

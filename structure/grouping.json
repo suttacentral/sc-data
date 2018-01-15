@@ -25,8 +25,8 @@
         "contains": ["kn", "minor-lzh", "minor-other"]
     },
     {
-        "uid": "other",
+        "uid": "other-group",
         "name": "Other",
-        "contains": []
+        "contains": ["other-san", "other-xct", "gf", "kf", "pf", "tf", "uf"]
     }
 ]
