@@ -35,6 +35,11 @@
     "name": "Cariyāpiṭaka"
   },
   {
+    "uid": "cps",
+    "acro": "Cps",
+    "name": "Catuṣpariṣatsūtra"
+  },
+  {
     "uid": "da",
     "acro": "DA",
     "name": "Dīrghāgama"
@@ -178,6 +183,11 @@
     "uid": "ma",
     "acro": "MA",
     "name": "Madhyamāgama"
+  },
+  {
+    "uid": "mbh",
+    "acro": "Mbh",
+    "name": "Mahābhārata"
   },
   {
     "uid": "mc",
@@ -418,6 +428,11 @@
     "uid": "uv",
     "acro": "UV",
     "name": "Udānavarga"
+  },
+  {
+    "uid": "uvs",
+    "acro": "UVS",
+    "name": "Udānavarga de Subaši"
   },
   {
     "uid": "ve",
