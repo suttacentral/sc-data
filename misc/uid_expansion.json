@@ -481,7 +481,7 @@
   },
   {
     "uid": "pli",
-    "acro": "Pli",
+    "acro": "Pāli",
     "name": "Pāli"
   },
   {
@@ -491,12 +491,12 @@
   },
   {
     "uid": "lzh",
-    "acro": "Lzh",
+    "acro": "Chinese",
     "name": "Chinese"
   },
   {
     "uid": "san",
-    "acro": "San",
+    "acro": "Sanskrit",
     "name": "Sanskrit"
   },
   {
@@ -516,7 +516,7 @@
   },
   {
     "uid": "xct",
-    "acro": "Xct",
+    "acro": "Tibetan",
     "name": "Tibetan"
   },
   {
@@ -581,17 +581,17 @@
   },
   {
     "uid": "tv",
-    "acro": "Tv",
+    "acro": "Theravāda",
     "name": "Theravāda"
   },
   {
     "uid": "vb",
-    "acro": "Vb",
+    "acro": "Vibhaṅga",
     "name": "Vibhaṅga"
   },
   {
     "uid": "pm",
-    "acro": "Pm",
+    "acro": "Pātimokkha",
     "name": "Pātimokkha"
   },
   {
@@ -601,12 +601,12 @@
   },
   {
     "uid": "sarv",
-    "acro": "Sarv",
+    "acro": "Sarvāstivāda",
     "name": "Sarvāstivāda"
   },
   {
     "uid": "mu",
-    "acro": "Mu",
+    "acro": "Mūlasarvāstivāda",
     "name": "Mūlasarvāstivāda"
   },
   {
@@ -621,17 +621,17 @@
   },
   {
     "uid": "mg",
-    "acro": "Mg",
+    "acro": "Mahāsaṅghika",
     "name": "Mahāsaṅghika"
   },
   {
     "uid": "lo",
-    "acro": "Lo",
+    "acro": "Lokuttaravāda",
     "name": "Lokuttaravāda"
   },
   {
     "uid": "dg",
-    "acro": "Dg",
+    "acro": "Dharmaguptaka",
     "name": "Dharmaguptaka"
   },
   {
@@ -741,12 +741,12 @@
   },
   {
     "uid": "bu",
-    "acro": "Bu",
+    "acro": "Bhikkhu",
     "name": "Bhikkhu"
   },
   {
     "uid": "bi",
-    "acro": "Bi",
+    "acro": "Bhikkhunī",
     "name": "Bhikkhunī"
   },
   {
