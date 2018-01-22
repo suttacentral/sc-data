@@ -140,6 +140,11 @@
     "name": "Itivuttaka"
   },
   {
+    "uid": "isi",
+    "acro": "Isibhās",
+    "name": "Isibhāsiyāiṁ"
+  },
+  {
     "uid": "ja",
     "acro": "Ja",
     "name": "Jātaka"
@@ -365,9 +370,9 @@
     "name": "Śāriputraparipṛcchā"
   },
   {
-    "uid": "svbh",
-    "acro": "Svbh",
-    "name": ""
+    "uid": "suy",
+    "acro": "Sūy",
+    "name": "Sūyagadamgasuttam"
   },
   {
     "uid": "t",
@@ -423,6 +428,11 @@
     "uid": "upp",
     "acro": "Upp",
     "name": "Upaliparipṛcchā"
+  },
+  {
+    "uid": "utt",
+    "acro": "Utt",
+    "name": "Uttarādhyayanasūtra"
   },
   {
     "uid": "uv",

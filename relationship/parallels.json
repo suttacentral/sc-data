@@ -10143,7 +10143,7 @@
         "parallels": ["dhp#102","gdhp#309","pdhp#377","t210.16#vgns16.3","t213.24#vgns24.3","uv24#24.2","g3dhp#86"]
     },
     {
-        "parallels": ["dhp#103","gdhp#305","san-lo-mvu109#4","pdhp#378","t210.16#vgns16.4","t212.24#vgns24.3","t213.23#vgns23.3","uv23#23.3","g3dhp#88","uvs#298"]
+        "parallels": ["dhp#103","gdhp#305","san-lo-mvu109#4","pdhp#378","t210.16#vgns16.4","t212.24#vgns24.3","t213.23#vgns23.3","uv23#23.3","g3dhp#88","uvs#298","utt9#34"]
     },
     {
         "parallels": ["dhp#104","pdhp#319","t210.16#vgns16.5","t212.24#vgns24.4","t213.23#vgns23.4","uv23#23.4","g3dhp#89"]
@@ -10569,7 +10569,7 @@
         "parallels": ["dhp#20","gdhp#191","pdhp#291","t210.9#vgns9.22","t212.7#vgns7.32","t213.4#vgns4.22","uv4#4.23"]
     },
     {
-        "parallels": ["dhp#200","gdhp#168","ja539#133","pdhp#257","sn4.18#4","t210.23#vgns23.4","t212.31#vgns31.50","t213.30#vgns30.44","uv30#30.49","mbh#12.9917"]
+        "parallels": ["dhp#200","gdhp#168","ja539#133","pdhp#257","sn4.18#4","t210.23#vgns23.4","t212.31#vgns31.50","t213.30#vgns30.44","uv30#30.49","mbh#12.9917","~utt9#14"]
     },
     {
         "parallels": ["dhp#201","avs#0.1","gdhp#180","pdhp#81","sn3.14#5","t210.23#vgns23.6","t212.31#vgns31.1","t213.30#vgns30.1","uv30#30.1"]
@@ -10908,7 +10908,7 @@
         "parallels": ["dhp#284","pdhp#362","t210.28#vgns28.10","t210.32#vgns32.32","t212.19#vgns19.5","t213.18#vgns18.5","uv18#18.4","~gdhp#94"]
     },
     {
-        "parallels": ["dhp#285","gdhp#299","pdhp#363","t212.19#vgns19.6","t213.18#vgns18.6","uv18#18.5"]
+        "parallels": ["dhp#285","gdhp#299","pdhp#363","t212.19#vgns19.6","t213.18#vgns18.6","uv18#18.5","~utt10#28"]
     },
     {
         "mentions": ["dhp#285","ne9#27"]
@@ -11394,7 +11394,7 @@
         "mentions": ["dhp#404","mil7.4.5#4"]
     },
     {
-        "parallels": ["dhp#405","gdhp#18","mn98#41","snp3.9#vns635","t210.35#vgns35.23","t212.34#vgns34.38","t213.33#vgns33.36","uv33#33.36"]
+        "parallels": ["dhp#405","gdhp#18","mn98#41","snp3.9#vns635","t210.35#vgns35.23","t212.34#vgns34.38","t213.33#vgns33.36","uv33#33.36","~utt19#89"]
     },
     {
         "parallels": ["dhp#406","gdhp#29","mn98#42","snp3.9#vns636","t210.35#vgns35.24","t212.34#vgns34.34","t212.34#vgns34.39","t213.33#vgns33.32","t213.33#vgns33.37","uv33#33.39"]
@@ -11517,6 +11517,21 @@
         "mentions": ["dhp#56","mil6.4.1#12"]
     },
     {
+        "parallels": ["thag18.1#vns1056","thag8.1#vns495","thag2.2#vns124","~suy1#2.2.11"]
+    },
+    {
+        "parallels": ["thag3.9#vns243","utt2#3"]
+    },
+    {
+        "parallels": ["thag1.31","~utt2#10"]
+    },
+    {
+        "parallels": ["thag8.1#vns497","~isi4#15"]
+    },
+    {
+        "parallels": ["thag15.2#vns700","~utt25#17"]
+    },
+    {
         "parallels": ["dhp#57","gdhp#297","pdhp#124","t210.12#vgns12.15","t212.7#vgns7.28","t213.6#vgns6.20","uv6#6.19","g3dhp#79"]
     },
     {
@@ -11577,7 +11592,7 @@
         "parallels": ["dhp#7","gdhp#217","pdhp#7","t210.9#vgns9.7","t212.30#vgns30.16","t213.29#vgns29.15","uv29#29.15"]
     },
     {
-        "parallels": ["dhp#70","san-lo-mvu109#15","pdhp#388","t210.13#vgns13.15","t212.25#vgns25.8","t213.24#vgns24.20","t213.24#vgns24.23","uv24#24.17","uv24#24.20E","~t212.25#t0726b14"]
+        "parallels": ["dhp#70","san-lo-mvu109#15","pdhp#388","t210.13#vgns13.15","t212.25#vgns25.8","t213.24#vgns24.20","t213.24#vgns24.23","uv24#24.17","uv24#24.20E","~t212.25#t0726b14","isi41#13","utt9#44"]
     },
     {
         "parallels": ["dhp#71","pdhp#107","t210.17#vgns17.13","t212.10#vgns10.22","t213.9#vgns9.15","uv9#9.17"]
@@ -17085,6 +17100,9 @@
         "mentions": ["snp4.1#vns776","mnd1#37","mnd1#45","ne4#9"]
     },
     {
+        "parallels": ["snp4.1#vns776","~utt3#17"]
+    },
+    {
         "mentions": ["snp4.1#vns777","mnd1#46","mnd1#73","ne4#11"]
     },
     {
@@ -17577,6 +17595,9 @@
         "mentions": ["snp4.6#vns812","mnd6#31","mnd6#37"]
     },
     {
+        "parallels": ["snp4.6#vns812","~suy1#2.2.9"]
+    },
+    {
         "mentions": ["snp4.6#vns813","mnd6#38","mnd6#49"]
     },
     {
@@ -17590,6 +17611,9 @@
     },
     {
         "mentions": ["snp4.6#vns817","mnd6#67","mnd6#72"]
+    },
+    {
+        "parallels": ["snp4.6#vns817","suy1#2.2.17"]
     },
     {
         "mentions": ["snp4.6#vns818","mnd6#73","mnd6#79"]
@@ -17916,6 +17940,12 @@
         "mentions": ["snp5.2#vns1041","cnd2#3","ne16#5","cnd5#16","ne5#16"]
     },
     {
+        "parallels": ["snp5.2#vns1041","~isi29#1"]
+    },
+    {
+        "parallels": ["snp3.9#vns604","~utt25#17"]
+    },
+    {
         "mentions": ["snp5.2#vns1042","cnd2#4","ne16#6","pe1#132","pe5#7","ne5#22","cnd5#23"]
     },
     {
@@ -18156,7 +18186,7 @@
         "mentions": ["thag11.1#vns606-#vns607","mil3.2.4#3-#4"]
     },
     {
-        "parallels": ["thag16.4#vns786","mn82#47"]
+        "parallels": ["thag16.4#vns786","mn82#47","utt4#3"]
     },
     {
         "mentions": ["thag16.4#vns786","ne37#16","ne9#5"]
