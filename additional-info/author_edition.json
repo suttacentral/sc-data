@@ -337,6 +337,12 @@
   },
   {
     "type": "author",
+    "uid": "galadriel",
+    "short_name": "Galadriel",
+    "long_name": "Galadriel"
+  },
+  {
+    "type": "author",
     "uid": "fl_robert",
     "short_name": "Robert",
     "long_name": "Florent Robert"
