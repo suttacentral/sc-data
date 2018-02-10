@@ -260,6 +260,12 @@
     "iso_code": "en"
   },
   {
+    "uid": "ev",
+    "name": "Sindarin",
+    "is_root": false,
+    "iso_code": "ev"
+  },
+  {
     "uid": "es",
     "name": "Español",
     "is_root": false,
