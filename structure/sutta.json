@@ -111266,24 +111266,13 @@
   },
   {
     "name": "種子",
-    "uid": "sa1008a",
+    "uid": "sa1008",
     "subdivision_uid": "sa1001-1100",
     "vagga_number": "",
     "number_in_vagga": "",
     "language": "lzh",
-    "acronym": "SA 1008a//T 99.1008a",
-    "volpage": "T ii 263c12–264a07",
-    "biblio_uid": ""
-  },
-  {
-    "name": "",
-    "uid": "sa1008b",
-    "subdivision_uid": "sa1001-1100",
-    "vagga_number": "",
-    "number_in_vagga": "",
-    "language": "lzh",
-    "acronym": "SA 1008b//T 99.1008b",
-    "volpage": "T ii 264a08–19",
+    "acronym": "SA 1008//T 99.1008a",
+    "volpage": "T ii 263c12",
     "biblio_uid": ""
   },
   {
@@ -144904,24 +144893,13 @@
   },
   {
     "name": "身毛喜豎",
-    "uid": "t757.1",
+    "uid": "t757",
     "subdivision_uid": "lzh-ssnp",
     "vagga_number": "",
     "number_in_vagga": "",
     "language": "lzh",
-    "acronym": "T 757.1",
+    "acronym": "T 757",
     "volpage": "T xvii 591c11",
-    "biblio_uid": ""
-  },
-  {
-    "name": "身毛喜豎",
-    "uid": "t757.2",
-    "subdivision_uid": "lzh-ssnp",
-    "vagga_number": "",
-    "number_in_vagga": "",
-    "language": "lzh",
-    "acronym": "T 757.2",
-    "volpage": "T xvii 598a04–599c29",
     "biblio_uid": ""
   },
   {
@@ -145717,6 +145695,17 @@
     "biblio_uid": ""
   },
   {
+    "name": "Nāgasena Bhikṣu Sūtra (A)",
+    "uid": "t1670a",
+    "subdivision_uid": "lzh-nbs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "lzh",
+    "acronym": "T 1670a",
+    "volpage": "",
+    "biblio_uid": ""
+  },
+  {
     "name": "1.1 Introduction",
     "uid": "t1670b1.1",
     "subdivision_uid": "lzh-nbs",
@@ -146274,6 +146263,17 @@
     "number_in_vagga": "",
     "language": "lzh",
     "acronym": "T 1670b 2.49",
+    "volpage": "",
+    "biblio_uid": ""
+  },
+  {
+    "name": "2.50 Whereabouts of Karma",
+    "uid": "t1670b2.50",
+    "subdivision_uid": "lzh-nbs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "lzh",
+    "acronym": "T 1670b 2.50",
     "volpage": "",
     "biblio_uid": ""
   },
@@ -148444,6 +148444,28 @@
     "volpage": "",
     "biblio_uid": ""
   },
+  {
+    "name": "五段 (Five Sections)",
+    "uid": "lzh-sarv-ba11",
+    "subdivision_uid": "lzh-sarv-ba",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "lzh",
+    "acronym": "Lzh Sarv Ba 11",
+    "volpage": "",
+    "biblio_uid": ""
+  },
+  {
+    "name": "雜品 (Miscellaneous)",
+    "uid": "lzh-sarv-ba12",
+    "subdivision_uid": "lzh-sarv-ba",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "lzh",
+    "acronym": "Lzh Sarv Ba 12",
+    "volpage": "",
+    "biblio_uid": ""
+  },  
   {
     "name": "波羅夷法初戒一 (Pārājika 1)",
     "uid": "lzh-sarv-ba51",
