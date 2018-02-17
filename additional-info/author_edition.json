@@ -38,7 +38,7 @@
   {
     "type": "author",
     "uid": "alokananda",
-    "short_name": "бхиккху",
+    "short_name": "Алокананда",
     "long_name": "Алокананда бхиккху"
   },
   {
@@ -902,7 +902,7 @@
   {
     "type": "author",
     "uid": "pannyavaro",
-    "short_name": "бхиккху",
+    "short_name": "Панньяваро",
     "long_name": "Панньяваро бхиккху"
   },
   {
@@ -1102,6 +1102,12 @@
     "uid": "sv",
     "short_name": "SV",
     "long_name": "SV"
+  },
+  {
+    "type": "author",
+    "uid": "sugata",
+    "short_name": "Сугата",
+    "long_name": "Сугата Бхиккху"
   },
   {
     "type": "author",
