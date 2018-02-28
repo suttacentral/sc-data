@@ -145,8 +145,7 @@
     "is_root": true,
     "iso_code": "xct",
     "contains": [
-      "d",
-      "up",
+      "other-xct",
       "xct-mu-kd",
       "xct-mu-bu-pm",
       "xct-mu-bu-vb",
@@ -165,6 +164,8 @@
     "iso_code": "pgd",
     "contains": [
       "gdhp",
+      "g2dhp",
+      "g3dhp",
       "gf",
       "pgd-pm-bf13",
       "pgd-dg-bu-pm"
