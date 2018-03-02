@@ -120,14 +120,6 @@
     "description": "Paragraph numbers in Hellmuth Hecker."
   },
   {
-    "uid": "hn",
-    "description": "Verse numbers in Hideaki Nakatani."
-  },
-  {
-    "uid": "hnfolio",
-    "description": "Folio numbers in Hideaki Nakatani."
-  },
-  {
     "uid": "hoe16",
     "description": "Verse numbers in Hoernle, 1916."
   },
@@ -429,7 +421,7 @@
   },
   {
     "uid": "uvs",
-    "description": "Chapter and verse numbers for the Udānavarga de Subaši."
+    "description": "Chapter/sutta number."
   },
   {
     "uid": "thv",
