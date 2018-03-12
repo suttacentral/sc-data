@@ -359,6 +359,12 @@
     "iso_code": "si"
   },
   {
+    "uid": "sl",
+    "name": "Slovenščina",
+    "is_root": false,
+    "iso_code": "sl"
+  },
+  {
     "uid": "sr",
     "name": "Srpski",
     "is_root": false,
