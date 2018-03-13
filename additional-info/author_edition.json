@@ -49,6 +49,24 @@
   },
   {
     "type": "author",
+    "uid": "hiriko",
+    "short_name": "Hiriko",
+    "long_name": "Ajahn Hiriko"
+  },
+  {
+    "type": "author",
+    "uid": "hiriko3",
+    "short_name": "Hiriko v3",
+    "long_name": "Ajahn Hiriko (3)"
+  },
+  {
+    "type": "author",
+    "uid": "hiriko2",
+    "short_name": "Hiriko v2",
+    "long_name": "Ajahn Hiriko (2)"
+  },
+  {
+    "type": "author",
     "uid": "anandajoti",
     "short_name": "Ānandajoti",
     "long_name": "Bhikkhu Ānandajoti"
