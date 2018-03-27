@@ -367,6 +367,18 @@
   },
   {
     "type": "author",
+    "uid": "spock",
+    "short_name": "Spock",
+    "long_name": "Mr. Spock"
+  },
+  {
+    "type": "author",
+    "uid": "worf",
+    "short_name": "Worf",
+    "long_name": "Worf"
+  },
+  {
+    "type": "author",
     "uid": "fl_robert",
     "short_name": "Robert",
     "long_name": "Florent Robert"
