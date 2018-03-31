@@ -257,6 +257,18 @@
     "iso_code": "ev"
   },
   {
+    "uid": "kln",
+    "name": "Klingon",
+    "is_root": false,
+    "iso_code": "kln"
+  },
+  {
+    "uid": "vu",
+    "name": "Vulcan",
+    "is_root": false,
+    "iso_code": "vu"
+  },
+  {
     "uid": "es",
     "name": "Español",
     "is_root": false,
