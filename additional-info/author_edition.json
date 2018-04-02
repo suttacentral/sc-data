@@ -1135,6 +1135,12 @@
   },
   {
     "type": "author",
+    "uid": "walters",
+    "short_name": "Walters",
+    "long_name": "Jonathan S. Walters"
+  },
+  {
+    "type": "author",
     "uid": "sv",
     "short_name": "SV",
     "long_name": "SV"
