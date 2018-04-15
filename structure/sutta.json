@@ -128128,7 +128128,7 @@
     "biblio_uid": ""
   },
   {
-    "name": "Snātram*",
+    "name": "Snātram",
     "uid": "avs13",
     "subdivision_uid": "avs",
     "vagga_number": 2,
@@ -128150,7 +128150,7 @@
     "biblio_uid": ""
   },
   {
-    "name": "Prātihāryam*",
+    "name": "Prātihāryam",
     "uid": "avs15",
     "subdivision_uid": "avs",
     "vagga_number": 2,
@@ -128161,7 +128161,7 @@
     "biblio_uid": ""
   },
   {
-    "name": "Pāñcavārṣikam*",
+    "name": "Pāñcavārṣikam",
     "uid": "avs16",
     "subdivision_uid": "avs",
     "vagga_number": 2,
@@ -128194,13 +128194,24 @@
     "biblio_uid": ""
   },
   {
-    "name": "Kāśikavastram*",
+    "name": "Kāśikavastram",
     "uid": "avs19",
     "subdivision_uid": "avs",
     "vagga_number": 2,
     "number_in_vagga": 9,
     "language": "san",
     "acronym": "Avs 19",
+    "volpage": "",
+    "biblio_uid": ""
+  },
+  {
+    "name": "Divyabhojanam",
+    "uid": "avs20",
+    "subdivision_uid": "avs",
+    "vagga_number": 2,
+    "number_in_vagga": 10,
+    "language": "san",
+    "acronym": "Avs 20",
     "volpage": "",
     "biblio_uid": ""
   },
@@ -128227,7 +128238,7 @@
     "biblio_uid": ""
   },
   {
-    "name": "Cakram*",
+    "name": "Cakram",
     "uid": "avs23",
     "subdivision_uid": "avs",
     "vagga_number": 3,
@@ -128249,7 +128260,7 @@
     "biblio_uid": ""
   },
   {
-    "name": "Sūkṣmatvak*",
+    "name": "Sūkṣmatvak",
     "uid": "avs25",
     "subdivision_uid": "avs",
     "vagga_number": 3,
@@ -128436,7 +128447,7 @@
     "biblio_uid": ""
   },
   {
-    "name": "Bhaktam*",
+    "name": "Bhaktam",
     "uid": "avs42",
     "subdivision_uid": "avs",
     "vagga_number": 5,
@@ -128447,7 +128458,7 @@
     "biblio_uid": ""
   },
   {
-    "name": "Pānīyam*",
+    "name": "Pānīyam",
     "uid": "avs43",
     "subdivision_uid": "avs",
     "vagga_number": 5,
@@ -128579,7 +128590,7 @@
     "biblio_uid": ""
   },
   {
-    "name": "Vastram*",
+    "name": "Vastram",
     "uid": "avs55",
     "subdivision_uid": "avs",
     "vagga_number": 6,
