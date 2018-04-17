@@ -523,6 +523,12 @@
   },
   {
     "type": "author",
+    "uid": "hecker-khema",
+    "short_name": "Hecker …",
+    "long_name": "Dr. Hellmuth Hecker, Ayya Khema"
+  },
+  {
+    "type": "author",
     "uid": "hod",
     "short_name": "HoD",
     "long_name": "HoD"
