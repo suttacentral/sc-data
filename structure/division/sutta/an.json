@@ -567,7 +567,6 @@
 {"_path": "an/an4/an4-pancamapannasaka/an4-ragapeyyala/an4.276", "name": "Iddhipāda Sutta", "type": "text", "num": 3},
 {"_path": "an/an4/an4-pancamapannasaka/an4-ragapeyyala/an4.277-303", "name": "Pariññādi Sutta", "type": "text", "num": 4},
 {"_path": "an/an4/an4-pancamapannasaka/an4-ragapeyyala/an4.304-783", "name": "Dosaabhiññādi Sutta", "type": "text", "num": 5},
-
 {"_path": "an/an5", "name": "Pañcakanipāta", "type": "div", "num": 5, "child_count": 6},
 {"_path": "an/an5/an5-pathamapannasaka", "name": "Paṭhamapaṇṇāsaka", "type": "div", "num": 1, "child_count": 5},
 {"_path": "an/an5/an5-pathamapannasaka/an5-sekhabalavagga", "name": "Sekhabala Vagga", "type": "div", "num": 1, "child_count": 10, "display_num": "1-10"},
@@ -875,8 +874,6 @@
 {"_path": "an/an5/an5-chatthapannasaka/an5-ragapeyyala/an5.306", "name": "", "type": "text", "num": 4},
 {"_path": "an/an5/an5-chatthapannasaka/an5-ragapeyyala/an5.307", "name": "", "type": "text", "num": 5},
 {"_path": "an/an5/an5-chatthapannasaka/an5-ragapeyyala/an5.308-1152", "name": "", "type": "text", "num": 6},
-
-
 {"_path": "an/an6", "name": "Chakkanipāta", "type": "div", "num": 6, "child_count": 2},
 {"_path": "an/an6/an6-pathamapannasaka", "name": "Paṭhamapaṇṇāsaka", "type": "div", "num": 1, "child_count": 5},
 {"_path": "an/an6/an6-pathamapannasaka/an6-ahuneyyavagga", "name": "Āhuneyya Vagga", "type": "div", "num": 1, "child_count": 10, "display_num": "1-10"},
@@ -1018,8 +1015,6 @@
 {"_path": "an/an6/an6-dutiyapannasaka/an6-ragapeyyala/an6.142", "name": "", "type": "text", "num": 3},
 {"_path": "an/an6/an6-dutiyapannasaka/an6-ragapeyyala/an6.143-169", "name": "", "type": "text", "num": 4},
 {"_path": "an/an6/an6-dutiyapannasaka/an6-ragapeyyala/an6.170-649", "name": "", "type": "text", "num": 5},
-
-
 {"_path": "an/an7", "name": "Sattakanipāta", "type": "div", "num": 7, "child_count": 2},
 {"_path": "an/an7/an7-pathamapannasaka", "name": "Paṭhamapaṇṇāsaka", "type": "div", "num": 1, "child_count": 5},
 {"_path": "an/an7/an7-pathamapannasaka/an7-dhanavagga", "name": "Dhana Vagga", "type": "div", "num": 1, "child_count": 10, "display_num": "1-10"},
@@ -1135,8 +1130,6 @@
 {"_path": "an/an7/an7-dutiyapannasaka/an7-ragapeyyala/an7.617", "name": "", "type": "text", "num": 3},
 {"_path": "an/an7/an7-dutiyapannasaka/an7-ragapeyyala/an7.618-644", "name": "", "type": "text", "num": 4},
 {"_path": "an/an7/an7-dutiyapannasaka/an7-ragapeyyala/an7.645-1124", "name": "", "type": "text", "num": 5},
-
-
 {"_path": "an/an8", "name": "Aṭṭhakanipāta", "type": "div", "num": 8, "child_count": 2},
 {"_path": "an/an8/an8-pathamapannasaka", "name": "Paṭhamapaṇṇāsaka", "type": "div", "num": 1, "child_count": 5},
 {"_path": "an/an8/an8-pathamapannasaka/an8-mettavagga", "name": "Mettā Vagga", "type": "div", "num": 1, "child_count": 10, "display_num": "1-10"},
@@ -1246,8 +1239,6 @@
 {"_path": "an/an8/an8-dutiyapannasaka/an8-ragapeyyala/an8.120", "name": "", "type": "text", "num": 3},
 {"_path": "an/an8/an8-dutiyapannasaka/an8-ragapeyyala/an8.121-147", "name": "", "type": "text", "num": 4},
 {"_path": "an/an8/an8-dutiyapannasaka/an8-ragapeyyala/an8.148-627", "name": "", "type": "text", "num": 5},
-
-
 {"_path": "an/an9", "name": "Navakanipāta", "type": "div", "num": 9, "child_count": 2},
 {"_path": "an/an9/an9-pathamapannasaka", "name": "Paṭhamapaṇṇāsaka", "type": "div", "num": 1, "child_count": 5},
 {"_path": "an/an9/an9-pathamapannasaka/an9-sambodhivagga", "name": "Sambodhi Vagga", "type": "div", "num": 1, "child_count": 10, "display_num": "1-10"},
@@ -1343,8 +1334,6 @@
 {"_path": "an/an9/an9-dutiyapannasaka/an9-ragapeyyala/an9.94", "name": "", "type": "text", "num": 2},
 {"_path": "an/an9/an9-dutiyapannasaka/an9-ragapeyyala/an9.95-112", "name": "", "type": "text", "num": 3},
 {"_path": "an/an9/an9-dutiyapannasaka/an9-ragapeyyala/an9.113-432", "name": "", "type": "text", "num": 4},
-
-
 {"_path": "an/an10", "name": "Dasakanipāta", "type": "div", "num": 10, "child_count": 5},
 {"_path": "an/an10/an10-pathamapannasaka", "name": "Paṭhamapaṇṇāsaka", "type": "div", "num": 1, "child_count": 5},
 {"_path": "an/an10/an10-pathamapannasaka/an10-anisamsavagga", "name": "Ānisaṃsa Vagga", "type": "div", "num": 1, "child_count": 10, "display_num": "1-10"},
@@ -1577,18 +1566,14 @@
 {"_path": "an/an10/an10-pancamapannasaka/an10-samannavagga/an10.223", "name": "", "type": "text", "num": 3},
 {"_path": "an/an10/an10-pancamapannasaka/an10-samannavagga/an10.224", "name": "", "type": "text", "num": 4},
 {"_path": "an/an10/an10-pancamapannasaka/an10-samannavagga/an10.225-228", "name": "", "type": "text", "num": 5},
-{"_path": "an/an10/an10-pancamapannasaka/an10-samannavagga/an10.229", "name": "", "type": "text", "num": 6},
+{"_path": "an/an10/an10-pancamapannasaka/an10-samannavagga/an10.229-232", "name": "", "type": "text", "num": 6},
 {"_path": "an/an10/an10-pancamapannasaka/an10-samannavagga/an10.233-236", "name": "", "type": "text", "num": 7},
-
-
 {"_path": "an/an10/an10-pancamapannasaka/an10-ragapeyyala", "name": "Rāga Peyyāla", "type": "div", "num": 3, "child_count": 5, "display_num": "237-746"},
 {"_path": "an/an10/an10-pancamapannasaka/an10-ragapeyyala/an10.237", "name": "", "type": "text", "num": 1},
 {"_path": "an/an10/an10-pancamapannasaka/an10-ragapeyyala/an10.238", "name": "", "type": "text", "num": 2},
 {"_path": "an/an10/an10-pancamapannasaka/an10-ragapeyyala/an10.239", "name": "", "type": "text", "num": 3},
-{"_path": "an/an10/an10-pancamapannasaka/an10-ragapeyyala/an10.240", "name": "", "type": "text", "num": 4},
-{"_path": "an/an10/an10-pancamapannasaka/an10-ragapeyyala/an10.267", "name": "", "type": "text", "num": 5},
-
-
+{"_path": "an/an10/an10-pancamapannasaka/an10-ragapeyyala/an10.240-266", "name": "", "type": "text", "num": 4},
+{"_path": "an/an10/an10-pancamapannasaka/an10-ragapeyyala/an10.267-746", "name": "", "type": "text", "num": 5},
 {"_path": "an/an11", "name": "Ekādasakanipāta", "type": "div", "num": 11, "child_count": 1},
 {"_path": "an/an11/an11-pathamapannasaka", "name": "Paṭhamapaṇṇāsaka", "type": "div", "num": 1, "child_count": 4},
 {"_path": "an/an11/an11-pathamapannasaka/an11-nissayavagga", "name": "Nissaya Vagga", "type": "div", "num": 1, "child_count": 10, "display_num": "1-10"},
@@ -1617,16 +1602,16 @@
 {"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga", "name": "Sāmañña Vagga", "type": "div", "num": 3, "child_count": 11, "display_num": "22-981"},
 {"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.22-29", "name": "", "type": "text", "num": 1},
 {"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.30-501", "name": "", "type": "text", "num": 2},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.502", "name": "", "type": "text", "num": 3},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.550", "name": "", "type": "text", "num": 4},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.598", "name": "", "type": "text", "num": 5},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.646", "name": "", "type": "text", "num": 6},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.694", "name": "", "type": "text", "num": 7},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.742", "name": "", "type": "text", "num": 8},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.790", "name": "", "type": "text", "num": 9},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.838", "name": "", "type": "text", "num": 10},
-{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.886", "name": "", "type": "text", "num": 11},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.502-549", "name": "", "type": "text", "num": 3},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.550-597", "name": "", "type": "text", "num": 4},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.598-645", "name": "", "type": "text", "num": 5},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.646-693", "name": "", "type": "text", "num": 6},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.694-741", "name": "", "type": "text", "num": 7},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.742-789", "name": "", "type": "text", "num": 8},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.790-837", "name": "", "type": "text", "num": 9},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.838-885", "name": "", "type": "text", "num": 10},
+{"_path": "an/an11/an11-pathamapannasaka/an11-samannavagga/an11.886-981", "name": "", "type": "text", "num": 11},
 {"_path": "an/an11/an11-pathamapannasaka/an11-ragapeyyala", "name": "Rāga Peyyāla", "type": "div", "num": 4, "child_count": 3, "display_num": "982-1151"},
 {"_path": "an/an11/an11-pathamapannasaka/an11-ragapeyyala/an11.982", "name": "", "type": "text", "num": 1},
-{"_path": "an/an11/an11-pathamapannasaka/an11-ragapeyyala/an11.983", "name": "", "type": "text", "num": 2},
-{"_path": "an/an11/an11-pathamapannasaka/an11-ragapeyyala/an11.992", "name": "", "type": "text", "num": 3}]
+{"_path": "an/an11/an11-pathamapannasaka/an11-ragapeyyala/an11.983-991", "name": "", "type": "text", "num": 2},
+{"_path": "an/an11/an11-pathamapannasaka/an11-ragapeyyala/an11.992-1151", "name": "", "type": "text", "num": 3}]
