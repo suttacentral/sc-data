@@ -34,6 +34,7 @@
 {"_path": "/gdhp/gdhp-vagga1/gdhp32", "name": "Brammaṇavagga 1.32", "type": "text", "num": 32},
 {"_path": "/gdhp/gdhp-vagga1/gdhp33", "name": "Brammaṇavagga 1.33", "type": "text", "num": 33},
 {"_path": "/gdhp/gdhp-vagga1/gdhp34", "name": "Brammaṇavagga 1.34", "type": "text", "num": 34},
+{"_path": "/gdhp/gdhp-vagga1/gdhp35", "name": "Brammaṇavagga 1.35", "type": "text", "num": 35},
 {"_path": "/gdhp/gdhp-vagga1/gdhp36", "name": "Brammaṇavagga 1.36", "type": "text", "num": 36},
 {"_path": "/gdhp/gdhp-vagga1/gdhp37", "name": "Brammaṇavagga 1.37", "type": "text", "num": 37},
 {"_path": "/gdhp/gdhp-vagga1/gdhp38", "name": "Brammaṇavagga 1.38", "type": "text", "num": 38},
@@ -428,7 +429,7 @@
 {"_path": "/g2dhp/g2dhp60", "name": "Gāndhārī 2nd Dharmapada verse 60", "type": "text", "num": 60},
 {"_path": "/g2dhp/g2dhp61", "name": "Gāndhārī 2nd Dharmapada verse 61", "type": "text", "num": 61},
 
-{"_path": "/g3dhp", "acronym": "G3-Dhp", "name": "Gāndhārī 3rd Dharmapada", "type": "subdiv", "num": 8, "child_count": 73},
+{"_path": "/g3dhp", "acronym": "G3-Dhp", "name": "Gāndhārī 3rd Dharmapada", "type": "text", "num": 8, "child_count": 73},
 {"_path": "/g3dhp/g3dhp1", "name": "Gāndhārī 3rd Dharmapada verse 1", "type": "text", "num": 1},
 {"_path": "/g3dhp/g3dhp2", "name": "Gāndhārī 3rd Dharmapada verse 2", "type": "text", "num": 2},
 {"_path": "/g3dhp/g3dhp3", "name": "Gāndhārī 3rd Dharmapada verse 3", "type": "text", "num": 3},
