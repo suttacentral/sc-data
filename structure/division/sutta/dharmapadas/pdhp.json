@@ -1,6 +1,6 @@
 [{"_path": "dharmapadas/pdhp", "acronym": "P-Dhp", "name": "Patna Dharmapada", "type": "subdiv", "num": 5, "child_count": 23},
 
-{"_path": "dharmapadas/pdhp", "name": "Patna Dhammapada", "type": "text", "num": 1},
+{"_path": "dharmapadas/pdhp/pdhp", "name": "Patna Dhammapada", "type": "text", "num": 1},
 
 {"_path": "dharmapadas/pdhp/pdhp-vagga1", "name": "Jama Vagga", "type": "vagga", "num": 2, "child_count": 13},
 {"_path": "dharmapadas/pdhp/pdhp-vagga1/pdhp1", "name": "Jamavagga 1.1", "type": "text", "num": 1},
