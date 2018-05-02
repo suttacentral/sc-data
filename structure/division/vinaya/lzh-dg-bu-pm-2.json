@@ -1,5 +1,6 @@
 [{"_path": "lzh-dg-bu-pm2", "acronym": "Lzh Dg Bu Pm 2", "name": "Bhikkhu Pātimokkha (2nd)", "type": "division", "child_count": 9},
-{"_path": "lzh-dg-bu-pm2/lzh-dg-bu-pm-2", "name": "Bhikkhu Pātimokkha (2nd)", "type": "text", "num": 1},
+{"_path": "lzh-dg-bu-pm2/lzh-dg-bu-pm-2-text", "name": "Bhikkhu Pātimokkha", "type": "div", "num": 1, "child_count": 1},
+{"_path": "lzh-dg-bu-pm2/lzh-dg-bu-pm-2-text/lzh-dg-bu-pm-2", "name": "Bhikkhu Pātimokkha (2nd)", "type": "text", "num": 1},
 {"_path": "lzh-dg-bu-pm2/lzh-dg-bu-pm-2-pj", "name": "Pārājika", "type": "div", "num": 2, "child_count": 4},
 {"_path": "lzh-dg-bu-pm2/lzh-dg-bu-pm-2-pj/lzh-dg-bu-pm-2-pj1", "name": "Methunadhamma", "type": "text", "num": 1},
 {"_path": "lzh-dg-bu-pm2/lzh-dg-bu-pm-2-pj/lzh-dg-bu-pm-2-pj2", "name": "Adinnādāna", "type": "text", "num": 2},
