@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/mn/mn131.po\n"
+"X-Pootle-Revision: 942\n"
+
+#. <section class="sutta" id="mn131"><article><div class="hgroup"><p class="division">
+msgctxt "mn131:0.1"
+msgid "Majjhima Nikāya 131"
+msgstr "Middle Discourses 131"
+
+#. </p><h1>
+msgctxt "mn131:0.2"
+msgid "Bhaddekarattasutta"
+msgstr "One Fine Night"
+
+#. </h1></div><p>
+#. <a class="nya" id="nya1"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "mn131:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr "So I have heard."
+
+msgctxt "mn131:1.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+"At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, "
+"Anāthapiṇḍika’s monastery."
+
+msgctxt "mn131:1.3"
+msgid "Tatra kho bhagavā bhikkhū āmantesi:"
+msgstr "There the Buddha addressed the mendicants:"
+
+msgctxt "mn131:1.4"
+msgid "“bhikkhavo”ti."
+msgstr "“Mendicants!”"
+
+msgctxt "mn131:1.5"
+msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
+msgstr "“Venerable sir,” they replied."
+
+msgctxt "mn131:1.6"
+msgid "Bhagavā etadavoca:"
+msgstr "The Buddha said this:"
+
+#. <a class="nya" id="nya2"></a>
+msgctxt "mn131:2.1"
+msgid "“bhaddekarattassa vo, bhikkhave, uddesañca vibhaṅgañca desessāmi."
+msgstr ""
+"“I shall teach you the passage for recitation and the analysis of one fine "
+"night."
+
+msgctxt "mn131:2.2"
+msgid "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti."
+msgstr "Listen and pay close attention, I will speak.”"
+
+msgctxt "mn131:2.3"
+msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ."
+msgstr "“Yes, sir,” they replied."
+
+msgctxt "mn131:2.4"
+msgid "Bhagavā etadavoca:"
+msgstr "The Buddha said this:"
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="nya" id="nya3"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "mn131:3.1"
+msgid "“Atītaṃ nānvāgameyya,"
+msgstr "“Don’t run back to the past,"
+
+#. <br>
+msgctxt "mn131:3.2"
+msgid "nappaṭikaṅkhe anāgataṃ;"
+msgstr "don’t hope for the future."
+
+#. <br>
+msgctxt "mn131:3.3"
+msgid "Yadatītaṃ pahīnaṃ taṃ,"
+msgstr "What’s past is left behind;"
+
+#. <br>
+msgctxt "mn131:3.4"
+msgid "appattañca anāgataṃ."
+msgstr "the future’s not arrived;"
+
+# The ca here indicates that this phrase belongs with the previous padas. BB’s translation following the comm tortures the grammar.
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "mn131:3.5"
+msgid "Paccuppannañca yo dhammaṃ,"
+msgstr "and phenomena in the present"
+
+#. <br>
+msgctxt "mn131:3.6"
+msgid "Tattha tattha vipassati;"
+msgstr "are clearly seen in every case."
+
+# There is no need to connect this phrase to Nibbana or any particular stage of meditation. It just means to be committed and dedicated to practice. Cp eg Thag 14.1, AN 10.33. samharati = to fold = faltering (with apologies for the strictly literal etymology!)
+#. <br>
+#. VAR: Asaṃhīraṃ → asaṃhiraṃ (s1-3, km, mr)
+msgctxt "mn131:3.7"
+msgid "Asaṃhīraṃ asaṃkuppaṃ,"
+msgstr "Knowing this, foster it—"
+
+# There is no need to connect this phrase to Nibbana or any particular stage of meditation. It just means to be committed and dedicated to practice. Cp eg Thag 14.1, AN 10.33
+#. <br>
+msgctxt "mn131:3.8"
+msgid "Taṃ vidvā manubrūhaye."
+msgstr "unfaltering, unshakable."
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+#. VAR: kiccamātappaṃ → kiccaṃ ātappaṃ (bj, mr)
+msgctxt "mn131:3.9"
+msgid "Ajjeva kiccamātappaṃ,"
+msgstr "Today’s the day to keenly work—"
+
+#. <br>
+msgctxt "mn131:3.10"
+msgid "ko jaññā maraṇaṃ suve;"
+msgstr "who knows, tomorrow may bring death!"
+
+#. <br>
+msgctxt "mn131:3.11"
+msgid "Na hi no saṅgaraṃ tena,"
+msgstr "For there is no bargain to be struck"
+
+#. <br>
+msgctxt "mn131:3.12"
+msgid "mahāsenena maccunā."
+msgstr "with Death and his mighty hordes."
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "mn131:3.13"
+msgid "Evaṃvihāriṃ ātāpiṃ,"
+msgstr "The peaceful sage explained it’s those"
+
+#. <br>
+msgctxt "mn131:3.14"
+msgid "ahorattamatanditaṃ;"
+msgstr "who keenly meditate like this,"
+
+#. <br>
+msgctxt "mn131:3.15"
+msgid "Taṃ ve bhaddekarattoti,"
+msgstr "not slacking off by night or day,"
+
+#. <br>
+#. VAR: muni → munīti (bj, s1-3, km, pts1)
+msgctxt "mn131:3.16"
+msgid "santo ācikkhate muni."
+msgstr "who truly have that one fine night."
+
+#. </p></blockquote><p>
+#. <a class="nya" id="nya4"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.188"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "mn131:4.1"
+msgid "Kathañca, bhikkhave, atītaṃ anvāgameti?"
+msgstr "And how do you run back to the past?"
+
+# samanvāneti is not in the dicts, it is sam-anu-āneti. samāneti appears in DN 30 and Thig 12.1 in the sense of “renuite, bring together”, and the sense must be similar here. To “muster” is to assemble and to rouse, which fits pretty well.
+msgctxt "mn131:4.2"
+msgid ""
+"‘Evaṃrūpo ahosiṃ atītamaddhānan’ti tattha nandiṃ samanvāneti, ‘evaṃvedano "
+"ahosiṃ atītamaddhānan’ti tattha nandiṃ samanvāneti, ‘evaṃsañño ahosiṃ "
+"atītamaddhānan’ti tattha nandiṃ samanvāneti, ‘evaṃsaṅkhāro ahosiṃ "
+"atītamaddhānan’ti tattha nandiṃ samanvāneti, ‘evaṃviññāṇo ahosiṃ "
+"atītamaddhānan’ti tattha nandiṃ samanvāneti—"
+msgstr ""
+"You muster delight there, thinking: ‘I had such form in the past.’ … ‘I had "
+"such feeling … perception … choice … consciousness in the past.’"
+
+msgctxt "mn131:4.3"
+msgid "evaṃ kho, bhikkhave, atītaṃ anvāgameti."
+msgstr "That’s how you run back to the past."
+
+#. </p><p>
+#. <a class="nya" id="nya5"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "mn131:5.1"
+msgid "Kathañca, bhikkhave, atītaṃ nānvāgameti?"
+msgstr "And how do you not run back to the past?"
+
+msgctxt "mn131:5.2"
+msgid ""
+"‘Evaṃrūpo ahosiṃ atītamaddhānan’ti tattha nandiṃ na samanvāneti, ‘evaṃvedano "
+"ahosiṃ atītamaddhānan’ti tattha nandiṃ na samanvāneti, ‘evaṃsañño ahosiṃ "
+"atītamaddhānan’ti tattha nandiṃ na samanvāneti, ‘evaṃsaṅkhāro ahosiṃ "
+"atītamaddhānan’ti tattha nandiṃ na samanvāneti, ‘evaṃviññāṇo ahosiṃ "
+"atītamaddhānan’ti tattha nandiṃ na samanvāneti—"
+msgstr ""
+"You don’t muster delight there, thinking: ‘I had such form in the past.’ … ‘"
+"I had such feeling … perception … choice … consciousness in the past.’"
+
+msgctxt "mn131:5.3"
+msgid "evaṃ kho, bhikkhave, atītaṃ nānvāgameti."
+msgstr "That’s how you don’t run back to the past."
+
+#. </p><p>
+#. <a class="nya" id="nya6"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "mn131:6.1"
+msgid "Kathañca, bhikkhave, anāgataṃ paṭikaṅkhati?"
+msgstr "And how do you hope for the future?"
+
+msgctxt "mn131:6.2"
+msgid ""
+"‘Evaṃrūpo siyaṃ anāgatamaddhānan’ti tattha nandiṃ samanvāneti, evaṃvedano "
+"siyaṃ … pe … evaṃsañño siyaṃ … evaṃsaṅkhāro siyaṃ … evaṃviññāṇo siyaṃ "
+"anāgatamaddhānanti tattha nandiṃ samanvāneti—"
+msgstr ""
+"You muster delight there, thinking: ‘May I have such form in the future.’ … ‘"
+"May I have such feeling … perception … choice … consciousness in the future.’"
+
+msgctxt "mn131:6.3"
+msgid "evaṃ kho, bhikkhave, anāgataṃ paṭikaṅkhati."
+msgstr "That’s how you hope for the future."
+
+#. </p><p>
+#. <a class="nya" id="nya7"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "mn131:7.1"
+msgid "Kathañca, bhikkhave, anāgataṃ nappaṭikaṅkhati?"
+msgstr "And how do you not hope for the future?"
+
+msgctxt "mn131:7.2"
+msgid ""
+"‘Evaṃrūpo siyaṃ anāgatamaddhānan’ti tattha nandiṃ na samanvāneti, evaṃvedano "
+"siyaṃ … evaṃsañño siyaṃ … evaṃsaṅkhāro siyaṃ … ‘evaṃviññāṇo siyaṃ "
+"anāgatamaddhānan’ti tattha nandiṃ na samanvāneti—"
+msgstr ""
+"You don’t muster delight there, thinking: ‘May I have such form in the "
+"future.’ … ‘May I have such feeling … perception … choice … consciousness in "
+"the future.’"
+
+msgctxt "mn131:7.3"
+msgid "evaṃ kho, bhikkhave, anāgataṃ nappaṭikaṅkhati."
+msgstr "That’s how you don’t hope for the future."
+
+#. </p><p>
+#. <a class="nya" id="nya8"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.189"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "mn131:8.1"
+msgid "Kathañca, bhikkhave, paccuppannesu dhammesu saṃhīrati?"
+msgstr "And how do you falter amid presently arisen phenomena?"
+
+msgctxt "mn131:8.2"
+msgid ""
+"Idha, bhikkhave, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa "
+"akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido "
+"sappurisadhamme avinīto "
+msgstr ""
+"It’s when an uneducated ordinary person has not seen the noble ones, and is "
+"neither skilled nor trained in their teaching. They’ve not seen good "
+"persons, and are neither skilled nor trained in their teaching. "
+
+msgctxt "mn131:8.3"
+msgid ""
+"rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ "
+"vā attānaṃ;"
+msgstr ""
+"They regard form as self, self as having form, form in self, or self in form."
+
+msgctxt "mn131:8.4"
+msgid "vedanaṃ … pe …"
+msgstr "They regard feeling …"
+
+msgctxt "mn131:8.5"
+msgid "saññaṃ …"
+msgstr "perception …"
+
+msgctxt "mn131:8.6"
+msgid "saṅkhāre …"
+msgstr "choices …"
+
+msgctxt "mn131:8.7"
+msgid ""
+"viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ attani vā viññāṇaṃ, "
+"viññāṇasmiṃ vā attānaṃ—"
+msgstr ""
+"consciousness as self, self as having consciousness, consciousness in self, "
+"or self in consciousness."
+
+msgctxt "mn131:8.8"
+msgid "evaṃ kho, bhikkhave, paccuppannesu dhammesu saṃhīrati."
+msgstr "That’s how you falter amid presently arisen phenomena."
+
+#. </p><p>
+#. <a class="nya" id="nya9"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "mn131:9.1"
+msgid "Kathañca, bhikkhave, paccuppannesu dhammesu na saṃhīrati?"
+msgstr "And how do you not falter amid presently arisen phenomena?"
+
+msgctxt "mn131:9.2"
+msgid ""
+"Idha, bhikkhave, sutavā ariyasāvako ariyānaṃ dassāvī ariyadhammassa kovido "
+"ariyadhamme suvinīto sappurisānaṃ dassāvī sappurisadhammassa kovido "
+"sappurisadhamme suvinīto "
+msgstr ""
+"It’s when an educated noble disciple has seen the noble ones, and is skilled "
+"and trained in their teaching. They’ve seen good persons, and are skilled "
+"and trained in their teaching. "
+
+msgctxt "mn131:9.3"
+msgid ""
+"na rūpaṃ attato samanupassati, na rūpavantaṃ vā attānaṃ, na attani vā rūpaṃ, "
+"na rūpasmiṃ vā attānaṃ;"
+msgstr ""
+"They don’t regard form as self, self as having form, form in self, or self "
+"in form."
+
+msgctxt "mn131:9.4"
+msgid "na vedanaṃ …"
+msgstr "They don’t regard feeling …"
+
+msgctxt "mn131:9.5"
+msgid "na saññaṃ …"
+msgstr "perception …"
+
+msgctxt "mn131:9.6"
+msgid "na saṅkhāre …"
+msgstr "choices …"
+
+msgctxt "mn131:9.7"
+msgid ""
+"na viññāṇaṃ attato samanupassati, na viññāṇavantaṃ vā attānaṃ, na attani vā "
+"viññāṇaṃ, na viññāṇasmiṃ vā attānaṃ—"
+msgstr ""
+"consciousness as self, self as having consciousness, consciousness in self, "
+"or self in consciousness."
+
+msgctxt "mn131:9.8"
+msgid "evaṃ kho, bhikkhave, paccuppannesu dhammesu na saṃhīrati."
+msgstr "That’s how you don’t falter amid presently arisen phenomena."
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="nya" id="nya10"></a>
+#. <a class="sc" id="sc12"></a>
+msgctxt "mn131:10.1"
+msgid "Atītaṃ nānvāgameyya,"
+msgstr "Don’t run back to the past,"
+
+#. <br>
+msgctxt "mn131:10.2"
+msgid "nappaṭikaṅkhe anāgataṃ;"
+msgstr "don’t hope for the future."
+
+#. <br>
+msgctxt "mn131:10.3"
+msgid "Yadatītaṃ pahīnaṃ taṃ,"
+msgstr "What’s past is left behind;"
+
+#. <br>
+msgctxt "mn131:10.4"
+msgid "appattañca anāgataṃ."
+msgstr "the future’s not arrived;"
+
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "mn131:10.5"
+msgid "Paccuppannañca yo dhammaṃ,"
+msgstr "and phenomena in the present"
+
+#. <br>
+msgctxt "mn131:10.6"
+msgid "tattha tattha vipassati;"
+msgstr "are clearly seen in every case."
+
+#. <br>
+msgctxt "mn131:10.7"
+msgid "Asaṃhīraṃ asaṅkuppaṃ,"
+msgstr "Knowing this, foster it—"
+
+#. <br>
+msgctxt "mn131:10.8"
+msgid "taṃ vidvā manubrūhaye."
+msgstr "unfaltering, unshakable."
+
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+msgctxt "mn131:10.9"
+msgid "Ajjeva kiccamātappaṃ,"
+msgstr "Today’s the day to keenly work—"
+
+#. <br>
+msgctxt "mn131:10.10"
+msgid "ko jaññā maraṇaṃ suve;"
+msgstr "who knows, tomorrow may bring death!"
+
+#. <br>
+msgctxt "mn131:10.11"
+msgid "Na hi no saṅgaraṃ tena,"
+msgstr "For there is no bargain to be struck"
+
+#. <br>
+msgctxt "mn131:10.12"
+msgid "mahāsenena maccunā."
+msgstr "with Death and his mighty hordes."
+
+#. </p><p>
+#. <a class="sc" id="sc15"></a>
+msgctxt "mn131:10.13"
+msgid "Evaṃvihāriṃ ātāpiṃ,"
+msgstr "The peaceful sage explained it’s those"
+
+#. <br>
+msgctxt "mn131:10.14"
+msgid "ahorattamatanditaṃ;"
+msgstr "who keenly meditate like this,"
+
+#. <br>
+msgctxt "mn131:10.15"
+msgid "Taṃ ve bhaddekarattoti,"
+msgstr "not slacking off by night or day,"
+
+#. <br>
+msgctxt "mn131:10.16"
+msgid "santo ācikkhate munīti."
+msgstr "who truly have that one fine night."
+
+#. </p></blockquote><p>
+#. <a class="nya" id="nya11"></a>
+#. <a class="sc" id="sc16"></a>
+msgctxt "mn131:11.1"
+msgid "‘Bhaddekarattassa vo, bhikkhave, uddesañca vibhaṅgañca desessāmī’ti—"
+msgstr ""
+"And that’s what I meant when I said: ‘I shall teach you the passage for "
+"recitation and the analysis of one fine night.’”"
+
+msgctxt "mn131:11.2"
+msgid "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttan”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc17"></a>
+msgctxt "mn131:11.3"
+msgid "Idamavoca bhagavā."
+msgstr ""
+
+msgctxt "mn131:11.4"
+msgid "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti."
+msgstr "Uplifted, the mendicants approved of what the Buddha said."
+
+#. </p><p class="endsection">
+msgctxt "mn131:11.5"
+msgid "Bhaddekarattasuttaṃ niṭṭhitaṃ paṭhamaṃ."
+msgstr ""

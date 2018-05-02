@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/sn/sn11/sn11.09.po\n"
+"X-Pootle-Revision: 4308\n"
+
+#. <section class="sutta" id="sn11.9"><article><div class="hgroup"><p class="division">
+msgctxt "sn11.9:0.1"
+msgid "Saṃyutta Nikāya 11"
+msgstr "Linked Discourses 11"
+
+#. </p><p>
+msgctxt "sn11.9:0.2"
+msgid "1. Paṭhamavagga"
+msgstr "1. The First Chapter"
+
+#. </p><h1>
+#. VAR: 9. Araññāyatanaisisutta → āraññakasuttaṃ (s1-3) | isayo araññakā (gandha) (pts1)
+msgctxt "sn11.9:0.3"
+msgid "9. Araññāyatanaisisutta"
+msgstr "9. Seers in the Wilderness"
+
+#. </h1></div><p>
+#. <a class="pts2ed" id="pts2ed1.488"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn11.9:1.1"
+msgid "Sāvatthiyaṃ."
+msgstr "At Sāvatthī."
+
+msgctxt "sn11.9:1.2"
+msgid ""
+"“Bhūtapubbaṃ, bhikkhave, sambahulā isayo sīlavanto kalyāṇadhammā "
+"araññāyatane paṇṇakuṭīsu sammanti."
+msgstr ""
+"“Once upon a time, mendicants, several seers who were ethical, of good "
+"character, settled in leaf huts in a wilderness region."
+
+msgctxt "sn11.9:1.3"
+msgid ""
+"Atha kho, bhikkhave, sakko ca devānamindo vepacitti ca asurindo yena te "
+"isayo sīlavanto kalyāṇadhammā tenupasaṅkamiṃsu."
+msgstr ""
+"Then Sakka, lord of gods, and Vepacitti, lord of demons, went to those seers."
+
+# Readings of apabyamato are highly uncertain. But it seems odd to me that none of the disctionaries or translations consider taking the most obvious reading. byāma means fathom, apabyāmato means “a fathom away, a good distance off”. This fits much better with the story. Vepacitti was not crudely trying to show arbitrary disrespect: why would he? He’s just come for a visit. No; he’s just repelled by the smell. Being a physical being he is affected by this, but the gods smell only the silagandha.
+#. VAR: paṭaliyo → aṭaliyo (bj, s1-3, km, pts1-2) | āṭaliyo (mr)
+msgctxt "sn11.9:1.4"
+msgid ""
+"Atha kho, bhikkhave, vepacitti asurindo paṭaliyo upāhanā ārohitvā khaggaṃ "
+"olaggetvā chattena dhāriyamānena aggadvārena assamaṃ pavisitvā te isayo "
+"sīlavante kalyāṇadhamme apabyāmato karitvā atikkami."
+msgstr ""
+"Then Vepacitti put on his boots, strapped on his sword, and, carrying a "
+"sunshade, entered the hermitage through the main gate. He walked right past "
+"those seers, keeping them at a distance."
+
+msgctxt "sn11.9:1.5"
+msgid ""
+"Atha kho, bhikkhave, sakko devānamindo paṭaliyo upāhanā orohitvā khaggaṃ "
+"aññesaṃ datvā chattaṃ apanāmetvā dvāreneva assamaṃ pavisitvā te isayo "
+"sīlavante kalyāṇadhamme anuvātaṃ pañjaliko namassamāno aṭṭhāsi."
+msgstr ""
+"Then Sakka took off his boots, gave his sword to others, and, putting down "
+"his sunshade, entered the hermitage through a gate he happened upon. He "
+"stood downwind of those seers, revering them with joined palms."
+
+msgctxt "sn11.9:1.6"
+msgid ""
+"Atha kho, bhikkhave, te isayo sīlavanto kalyāṇadhammā sakkaṃ devānamindaṃ "
+"gāthāya ajjhabhāsiṃsu:"
+msgstr "Then those seers addressed Sakka in verse:"
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn11.9:2.1"
+msgid "‘Gandho isīnaṃ ciradikkhitānaṃ,"
+msgstr "‘When seers have been long ordained,"
+
+#. <br>
+msgctxt "sn11.9:2.2"
+msgid "Kāyā cuto gacchati mālutena;"
+msgstr "the odor of their bodies goes with the wind."
+
+#. <br>
+msgctxt "sn11.9:2.3"
+msgid "Ito paṭikkamma sahassanetta,"
+msgstr "You’d better leave, O thousand-eyed!"
+
+#. <br>
+msgctxt "sn11.9:2.4"
+msgid "Gandho isīnaṃ asuci devarājā’ti."
+msgstr "The odor of the seers is unclean, king of gods.’"
+
+#. </p><p>
+#. <a class="pts1ed" id="pts1ed1.227"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn11.9:3.1"
+msgid "‘Gandho isīnaṃ ciradikkhitānaṃ,"
+msgstr "‘When seers have been long ordained,"
+
+#. <br>
+#. VAR: gacchatu → gacchati (si, s1-3, km)
+msgctxt "sn11.9:3.2"
+msgid "Kāyā cuto gacchatu mālutena;"
+msgstr "let the odor of their bodies go with the wind."
+
+#. <br>
+msgctxt "sn11.9:3.3"
+msgid "Sucitrapupphaṃ sirasmiṃva mālaṃ,"
+msgstr "We yearn for this odor, sirs,"
+
+#. <br>
+msgctxt "sn11.9:3.4"
+msgid "Gandhaṃ etaṃ paṭikaṅkhāma bhante;"
+msgstr "like a colorful crown of flowers."
+
+#. <br>
+msgctxt "sn11.9:3.5"
+msgid "Na hettha devā paṭikūlasaññino’”ti."
+msgstr "The gods don’t see it as repulsive.’”"

@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/an/an07/an7.061.po\n"
+"X-Pootle-Revision: 2868\n"
+
+#. <section class="sutta" id="an7.61"><article><div class="hgroup"><p class="division">
+msgctxt "an7.61:0.1"
+msgid "Aṅguttara Nikāya 7"
+msgstr "Numbered Discourses 7"
+
+#. </p><p>
+msgctxt "an7.61:0.2"
+msgid "6. Abyākatavagga"
+msgstr "6. The Undeclared Points"
+
+#. </p><h1>
+#. VAR: 61. Pacalāyamānasutta → pacalāyanasuttaṃ (bj)
+msgctxt "an7.61:0.3"
+msgid "61. Pacalāyamānasutta"
+msgstr "61. Nodding Off"
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an7.61:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr "So I have heard."
+
+msgctxt "an7.61:1.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye."
+msgstr ""
+"At one time the Buddha was staying in the land of the Bhaggas on Crocodile "
+"Hill, in the deer park at Bhesakaḷā’s Wood."
+
+# It’s curious name, with many variants. I wonder whether it stands for kālavāḷaputta, the “son of the black monster”. It was common for villages to be named after the local deity who had a shrine there, eg Alavi. Children were, it seems, offered to some of the darker deities.
+#. VAR: kallavāḷaputtagāme → kallavālamuttagāme (bj, s1-3) | kallavāḷamuttagāme (pts1)
+msgctxt "an7.61:1.3"
+msgid ""
+"Tena kho pana samayena āyasmā mahāmoggallāno magadhesu kallavāḷaputtagāme "
+"pacalāyamāno nisinno hoti."
+msgstr ""
+"Now at that time, in the land of the Magadhans near Kallavāḷamutta Village, "
+"Venerable Mahāmoggallāna was nodding off while meditating."
+
+msgctxt "an7.61:1.4"
+msgid ""
+"Addasā kho bhagavā dibbena cakkhunā visuddhena atikkantamānusakena "
+"āyasmantaṃ mahāmoggallānaṃ magadhesu kallavāḷaputtagāme pacalāyamānaṃ "
+"nisinnaṃ."
+msgstr ""
+"The Buddha saw him with his clairvoyance that is purified and superhuman."
+
+msgctxt "an7.61:1.5"
+msgid "Disvā—"
+msgstr ""
+
+msgctxt "an7.61:1.6"
+msgid ""
+"seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā "
+"bāhaṃ samiñjeyya; evamevaṃ—bhaggesu susumāragire bhesakaḷāvane migadāye "
+"antarahito magadhesu kallavāḷaputtagāme āyasmato mahāmoggallānassa sammukhe "
+"pāturahosi."
+msgstr ""
+"Then, as easily as a strong person would extend or contract their arm, he "
+"vanished from the deer park at Bhesakaḷā’s Wood in the land of the Bhaggas "
+"and reappeared in front of Mahāmoggallāna near Kallavāḷamutta Village in the "
+"land of the Magadhans."
+
+msgctxt "an7.61:1.7"
+msgid "Nisīdi bhagavā paññatte āsane."
+msgstr "He sat on the seat spread out"
+
+msgctxt "an7.61:1.8"
+msgid "Nisajja kho bhagavā āyasmantaṃ mahāmoggallānaṃ etadavoca:"
+msgstr "and said to Mahāmoggallāna:"
+
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.86"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an7.61:2.1"
+msgid "“Pacalāyasi no tvaṃ, moggallāna, pacalāyasi no tvaṃ, moggallānā”ti?"
+msgstr "“Are you nodding off, Moggallāna? Are you nodding off?”"
+
+msgctxt "an7.61:2.2"
+msgid "“Evaṃ, bhante”."
+msgstr "“Yes, sir.”"
+
+#. VAR: saññaṃ mā manasākāsi → saññaṃ manasikareyyāsi (s1-3) | saññaṃ manasākāsi (mr)
+#. VAR: taṃ saññaṃ mā bahulamakāsi → taṃ saññaṃ bahulaṃ kareyyāsi (s1-3) | taṃ saññaṃ bahulamakāsi (pts1, mr)
+msgctxt "an7.61:2.3"
+msgid ""
+"“Tasmātiha, moggallāna, yathāsaññissa te viharato taṃ middhaṃ okkamati, taṃ "
+"saññaṃ mā manasākāsi, taṃ saññaṃ mā bahulamakāsi."
+msgstr ""
+"“So, Moggallāna, don’t focus on or cultivate the perception that you were "
+"meditating on when you fell drowsy."
+
+msgctxt "an7.61:2.4"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, moggallāna, vijjati yaṃ te evaṃ viharato taṃ middhaṃ "
+"pahīyetha. (1)"
+msgstr "It’s possible that you’ll give up drowsiness in this way."
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an7.61:3.1"
+msgid ""
+"No ce te evaṃ viharato taṃ middhaṃ pahīyetha, tato tvaṃ, moggallāna, "
+"yathāsutaṃ yathāpariyattaṃ dhammaṃ cetasā anuvitakkeyyāsi anuvicāreyyāsi, "
+"manasā anupekkheyyāsi."
+msgstr ""
+"But what if that doesn’t work? Then think about and consider the teaching as "
+"you’ve learned and memorized it, examining it with your mind."
+
+msgctxt "an7.61:3.2"
+msgid ""
+"Ṭhānaṃ kho panetaṃ vijjati yaṃ te evaṃ viharato taṃ middhaṃ pahīyetha. (2)"
+msgstr "It’s possible that you’ll give up drowsiness in this way."
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an7.61:4.1"
+msgid ""
+"No ce te evaṃ viharato taṃ middhaṃ pahīyetha, tato tvaṃ, moggallāna, "
+"yathāsutaṃ yathāpariyattaṃ dhammaṃ vitthārena sajjhāyaṃ kareyyāsi."
+msgstr ""
+"But what if that doesn’t work? Then recite in detail the teaching as you’ve "
+"learned and memorized it."
+
+msgctxt "an7.61:4.2"
+msgid ""
+"Ṭhānaṃ kho panetaṃ vijjati yaṃ te evaṃ viharato taṃ middhaṃ pahīyetha. (3)"
+msgstr "It’s possible that you’ll give up drowsiness in this way."
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+#. VAR: āviñcheyyāsi → āviñjeyyāsi (bj) | āvijeyyāsi (s2, s3, pts1)
+msgctxt "an7.61:5.1"
+msgid ""
+"No ce te evaṃ viharato taṃ middhaṃ pahīyetha, tato tvaṃ, moggallāna, ubho "
+"kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
+msgstr "But what if that doesn’t work? Then pinch your ears and rub your limbs."
+
+msgctxt "an7.61:5.2"
+msgid ""
+"Ṭhānaṃ kho panetaṃ vijjati yaṃ te evaṃ viharato taṃ middhaṃ pahīyetha. (4)"
+msgstr "It’s possible that you’ll give up drowsiness in this way."
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+#. VAR: anumajjitvā → paniñjitvā (mr)
+msgctxt "an7.61:6.1"
+msgid ""
+"No ce te evaṃ viharato taṃ middhaṃ pahīyetha, tato tvaṃ, moggallāna, "
+"uṭṭhāyāsanā udakena akkhīni anumajjitvā disā anuvilokeyyāsi, nakkhattāni "
+"tārakarūpāni ullokeyyāsi."
+msgstr ""
+"But what if that doesn’t work? Then get up from your seat, flush your eyes "
+"with water, look around in every direction, and look up at the stars and "
+"constellations."
+
+msgctxt "an7.61:6.2"
+msgid ""
+"Ṭhānaṃ kho panetaṃ vijjati yaṃ te evaṃ viharato taṃ middhaṃ pahīyetha. (5)"
+msgstr "It’s possible that you’ll give up drowsiness in this way."
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an7.61:7.1"
+msgid ""
+"No ce te evaṃ viharato taṃ middhaṃ pahīyetha, tato tvaṃ, moggallāna, "
+"ālokasaññaṃ manasi kareyyāsi, divāsaññaṃ adhiṭṭhaheyyāsi—"
+msgstr ""
+"But what if that doesn’t work? Then focus on the perception of light, "
+"concentrating on the perception of day,"
+
+msgctxt "an7.61:7.2"
+msgid "yathā divā tathā rattiṃ yathā rattiṃ tathā divā."
+msgstr "regardless of whether it’s night or day."
+
+#. VAR: vivaṭena → vivaṭṭena (s1, s2) | middhavigatena (mr)
+msgctxt "an7.61:7.3"
+msgid "Iti vivaṭena cetasā apariyonaddhena sappabhāsaṃ cittaṃ bhāveyyāsi."
+msgstr ""
+"And so, with an open and unenveloped heart, develop a mind that’s full of "
+"radiance."
+
+msgctxt "an7.61:7.4"
+msgid ""
+"Ṭhānaṃ kho panetaṃ vijjati yaṃ te evaṃ viharato taṃ middhaṃ pahīyetha. (6)"
+msgstr "It’s possible that you’ll give up drowsiness in this way."
+
+# BB translates pacchāpuresaññī as “what is behind you and what is in front”, which seems ti imply it is taken in a spatial sense, i.e. aware of the path before and after. However, the phrase frequently occurs in a temporal sense, where it emphasizes the continuity of perception: Pacchāpuresaññī ca viharati—yathā pure tathā pacchā … Of course it could be a different contextual meaning. however the contexts share a lot in common. In those cases we find such expressions as appaṇihitaṃ me bahiddhā cittan’ti pajānāti. Atha pacchāpure ‘asaṅkhittaṃ vimuttaṃ appaṇihitan’ti pajānāti; na ca bahiddhā vikkhitto bhavissati. Pacchāpuresaññī ca viharati It seems the phrase is used consistently to emphasize that attention is focussed constantly and internally as against the mind scattered externally.
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.87"></a>
+#. <a class="sc" id="sc8"></a>
+#. VAR: pacchāpuresaññī → pacchāpure tathāsaññī (katthaci)
+msgctxt "an7.61:8.1"
+msgid ""
+"No ce te evaṃ viharato taṃ middhaṃ pahīyetha, tato tvaṃ, moggallāna, "
+"pacchāpuresaññī caṅkamaṃ adhiṭṭhaheyyāsi antogatehi indriyehi abahigatena "
+"mānasena."
+msgstr ""
+"But what if that doesn’t work? Then walk meditation concentrating on "
+"perception of continuity, your faculties directed inwards and your mind not "
+"scattered outside."
+
+msgctxt "an7.61:8.2"
+msgid ""
+"Ṭhānaṃ kho panetaṃ vijjati yaṃ te evaṃ viharato taṃ middhaṃ pahīyetha. (7)"
+msgstr "It’s possible that you’ll give up drowsiness in this way."
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an7.61:9.1"
+msgid ""
+"No ce te evaṃ viharato taṃ middhaṃ pahīyetha, tato tvaṃ, moggallāna, "
+"dakkhiṇena passena sīhaseyyaṃ kappeyyāsi pāde pādaṃ accādhāya sato sampajāno "
+"uṭṭhānasaññaṃ manasi karitvā."
+msgstr ""
+"But what if that doesn’t work? Then lie down in the lion’s posture—on the "
+"right side, placing one foot on top of the other—mindful and aware, and "
+"focused on the time of getting up."
+
+#. VAR: Paṭibuddhena ca → paṭibuddheneva (bj, s1-3)
+msgctxt "an7.61:9.2"
+msgid "Paṭibuddhena ca te, moggallāna, khippaññeva paccuṭṭhātabbaṃ:"
+msgstr "When you wake, you should get up quickly, thinking:"
+
+msgctxt "an7.61:9.3"
+msgid "‘na seyyasukhaṃ na passasukhaṃ na middhasukhaṃ anuyutto viharissāmī’ti."
+msgstr ""
+"‘I will not live attached to the pleasures of sleeping, lying down, and "
+"drowsing.’"
+
+msgctxt "an7.61:9.4"
+msgid "Evañhi te, moggallāna, sikkhitabbaṃ."
+msgstr "That’s how you should train."
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "an7.61:10.1"
+msgid "Tasmātiha, moggallāna, evaṃ sikkhitabbaṃ:"
+msgstr "So you should train like this:"
+
+# Bb uses a nice phrase for this very idiomatic phrase. But I’m not sure why he uses the plural here.
+msgctxt "an7.61:10.2"
+msgid "‘na uccāsoṇḍaṃ paggahetvā kulāni upasaṅkamissāmī’ti."
+msgstr "‘I will not approach families with my head swollen with vanity.’"
+
+msgctxt "an7.61:10.3"
+msgid "Evañhi te, moggallāna, sikkhitabbaṃ."
+msgstr "That’s how you should train."
+
+msgctxt "an7.61:10.4"
+msgid ""
+"Sace, moggallāna, bhikkhu uccāsoṇḍaṃ paggahetvā kulāni upasaṅkamati, santi "
+"hi, moggallāna, kulesu kiccakaraṇīyāni."
+msgstr ""
+"What happens if a mendicant approaches families with a head swollen with "
+"vanity? Well, families have business to attend to,"
+
+msgctxt "an7.61:10.5"
+msgid ""
+"Yehi manussā āgataṃ bhikkhuṃ na manasi karonti, tatra bhikkhussa evaṃ hoti:"
+msgstr ""
+"so people might not notice when a mendicant arrives. In that case the "
+"mendicant thinks:"
+
+msgctxt "an7.61:10.6"
+msgid ""
+"‘kosu nāma idāni maṃ imasmiṃ kule paribhindi, virattarūpā dānime mayi "
+"manussā’ti."
+msgstr ""
+"‘Who on earth has turned this family against me? It seems they’re no longer "
+"interested in me.’"
+
+msgctxt "an7.61:10.7"
+msgid ""
+"Itissa alābhena maṅkubhāvo, maṅkubhūtassa uddhaccaṃ, uddhatassa asaṃvaro, "
+"asaṃvutassa ārā cittaṃ samādhimhā."
+msgstr ""
+"And so, because they don’t get anything they feel dismayed. Being dismayed, "
+"they become restless. Being restless, they lose restraint. And without "
+"restraint the mind is far from immersion."
+
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.88"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "an7.61:11.1"
+msgid "Tasmātiha, moggallāna, evaṃ sikkhitabbaṃ:"
+msgstr "So you should train like this:"
+
+msgctxt "an7.61:11.2"
+msgid "‘na viggāhikakathaṃ kathessāmī’ti."
+msgstr "‘I won’t get into arguments.’"
+
+msgctxt "an7.61:11.3"
+msgid "Evañhi te, moggallāna, sikkhitabbaṃ."
+msgstr "That’s how you should train."
+
+#. VAR: nāhaṃ moggalāna sabbeheva samaggaṃ vaṇṇayāmi gahaṭṭhehi pabbajitehi kho ahaṃ moggallāna samaggaṃ vaṇṇayāmi (ka-ma)
+msgctxt "an7.61:11.4"
+msgid ""
+"Viggāhikāya, moggallāna, kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ, "
+"kathābāhulle sati uddhaccaṃ, uddhatassa asaṃvaro, asaṃvutassa ārā cittaṃ "
+"samādhimhā."
+msgstr ""
+"When there’s an argument, you can expect there’ll be lots of talking. When "
+"there’s lots of talking, people become restless. Being restless, they lose "
+"restraint. And without restraint the mind is far from immersion."
+
+msgctxt "an7.61:11.5"
+msgid "Nāhaṃ, moggallāna, sabbeheva saṃsaggaṃ vaṇṇayāmi."
+msgstr "Moggallāna, I don’t praise all kinds of closeness."
+
+# BB’s phrasing here “bonding with no-one at all” doesn’t fit with the explanation, where it is places that are mentioned, not people.
+msgctxt "an7.61:11.6"
+msgid "Na panāhaṃ, moggallāna, sabbeheva saṃsaggaṃ na vaṇṇayāmi."
+msgstr "Nor do I criticize all kinds of closeness."
+
+msgctxt "an7.61:11.7"
+msgid "Sagahaṭṭhapabbajitehi kho ahaṃ, moggallāna, saṃsaggaṃ na vaṇṇayāmi."
+msgstr "I don’t praise closeness with laypeople and renunciates."
+
+#. VAR: manussarāhasseyyakāni → manussarāhaseyyakāni (bj, s1-3, pts1)
+#. VAR: saṃsaggaṃ → samaggaṃ (mr)
+msgctxt "an7.61:11.8"
+msgid ""
+"Yāni ca kho tāni senāsanāni appasaddāni appanigghosāni vijanavātāni "
+"manussarāhasseyyakāni paṭisallānasāruppāni tathārūpehi senāsanehi saṃsaggaṃ "
+"vaṇṇayāmī”ti."
+msgstr ""
+"I do praise closeness with those lodgings that are quiet and still, far from "
+"the madding crowd, remote from human settlements, and appropriate for "
+"retreat.”"
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an7.61:12.1"
+msgid "Evaṃ vutte, āyasmā mahāmoggallāno bhagavantaṃ etadavoca:"
+msgstr "When he said this, Venerable Moggallāna asked the Buddha:"
+
+msgctxt "an7.61:12.2"
+msgid ""
+"“kittāvatā nu kho, bhante, bhikkhu saṅkhittena taṇhāsaṅkhayavimutto hoti "
+"accantaniṭṭho accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho "
+"devamanussānan”ti?"
+msgstr ""
+"“Sir, how do you briefly define a mendicant who is freed through the ending "
+"of craving, who has reached the ultimate end, the ultimate sanctuary, the "
+"ultimate spiritual life, the ultimate goal, and is best among gods and "
+"humans?”"
+
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "an7.61:13.1"
+msgid "“Idha, moggallāna, bhikkhuno sutaṃ hoti:"
+msgstr "“It’s when a mendicant has heard:"
+
+msgctxt "an7.61:13.2"
+msgid "‘sabbe dhammā nālaṃ abhinivesāyā’ti;"
+msgstr "‘Nothing is worth clinging on to.’"
+
+msgctxt "an7.61:13.3"
+msgid "evañcetaṃ, moggallāna, bhikkhuno sutaṃ hoti:"
+msgstr "When a mendicant has heard that"
+
+msgctxt "an7.61:13.4"
+msgid "‘sabbe dhammā nālaṃ abhinivesāyā’ti."
+msgstr "nothing is worth clinging on to,"
+
+msgctxt "an7.61:13.5"
+msgid ""
+"So sabbaṃ dhammaṃ abhijānāti, sabbaṃ dhammaṃ abhiññāya sabbaṃ dhammaṃ "
+"parijānāti. Sabbaṃ dhammaṃ pariññāya yaṃ kiñci vedanaṃ vediyati sukhaṃ vā "
+"dukkhaṃ vā adukkhamasukhaṃ vā."
+msgstr ""
+"they directly know all things. Directly knowing all things, they completely "
+"understand all things. Having completely understood all things, when they "
+"experience any kind of feeling—pleasant, unpleasant, or neutral—"
+
+msgctxt "an7.61:13.6"
+msgid ""
+"So tāsu vedanāsu aniccānupassī viharati, virāgānupassī viharati, "
+"nirodhānupassī viharati, paṭinissaggānupassī viharati."
+msgstr ""
+"they meditate observing impermanence, dispassion, cessation, and letting go "
+"in those feelings."
+
+#. VAR: na kiñci → na ca kiñci (bj, s1-3, mr)
+msgctxt "an7.61:13.7"
+msgid ""
+"So tāsu vedanāsu aniccānupassī viharanto virāgānupassī viharanto "
+"nirodhānupassī viharanto paṭinissaggānupassī viharanto na kiñci loke "
+"upādiyati, "
+msgstr "Meditating in this way, they don’t grasp at anything in the world. "
+
+msgctxt "an7.61:13.8"
+msgid "anupādiyaṃ na paritassati, aparitassaṃ paccattaṃyeva parinibbāyati."
+msgstr ""
+"Not grasping, they’re not anxious. Not being anxious, they personally become "
+"extinguished."
+
+msgctxt "an7.61:13.9"
+msgid ""
+"‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti "
+"pajānāti."
+msgstr ""
+"They understand: ‘Rebirth is ended, the spiritual journey has been "
+"completed, what had to be done has been done, there is no return to any "
+"state of existence.’"
+
+msgctxt "an7.61:13.10"
+msgid ""
+"Ettāvatā kho, moggallāna, bhikkhu saṃkhittena taṇhāsaṅkhayavimutto hoti "
+"accantaniṭṭho accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho "
+"devamanussānan”ti."
+msgstr ""
+"That’s how I briefly define a mendicant who is freed through the ending of "
+"craving, who has reached the ultimate end, the ultimate sanctuary, the "
+"ultimate spiritual life, the ultimate goal, and is best among gods and "
+"humans.”"
+
+#. </p><p class="endsection">
+msgctxt "an7.61:13.11"
+msgid "Aṭṭhamaṃ."
+msgstr ""

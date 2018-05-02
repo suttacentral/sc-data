@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/sn/sn41/sn41.05.po\n"
+"X-Pootle-Revision: 6108\n"
+
+#. <section class="sutta" id="sn41.5"><article><div class="hgroup"><p class="division">
+msgctxt "sn41.5:0.1"
+msgid "Saṃyutta Nikāya 41"
+msgstr "Linked Discourses 41"
+
+#. </p><p>
+msgctxt "sn41.5:0.2"
+msgid "1. Cittavagga"
+msgstr "1. With Citta"
+
+#. </p><h1>
+msgctxt "sn41.5:0.3"
+msgid "5. Paṭhamakāmabhūsutta"
+msgstr "5. With Kāmabhū (1st)"
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn41.5:1.1"
+msgid "Ekaṃ samayaṃ āyasmā kāmabhū macchikāsaṇḍe viharati ambāṭakavane."
+msgstr ""
+"At one time Venerable Kāmabhū was staying near Macchikāsaṇḍa in the Wild "
+"Mango Grove."
+
+msgctxt "sn41.5:1.2"
+msgid ""
+"Atha kho citto gahapati yenāyasmā kāmabhū tenupasaṅkami; upasaṅkamitvā "
+"āyasmantaṃ kāmabhuṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho "
+"cittaṃ gahapatiṃ āyasmā kāmabhū etadavoca:"
+msgstr ""
+"Then Citta the householder went up to Venerable Kāmabhū, bowed, and sat down "
+"to one side. Kāmabhū said to him:"
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn41.5:2.1"
+msgid "“Vuttamidaṃ, gahapati:"
+msgstr "“Householder, there is this saying:"
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn41.5:3.1"
+msgid "‘Nelaṅgo setapacchādo,"
+msgstr "‘With flawless wheel and white canopy,"
+
+#. <br>
+msgctxt "sn41.5:3.2"
+msgid "ekāro vattatī ratho;"
+msgstr "the one-spoke chariot rolls on."
+
+#. <br>
+#. VAR: āyantaṃ → appattaṃ (s1, s2, km, mr)
+msgctxt "sn41.5:3.3"
+msgid "Anīghaṃ passa āyantaṃ,"
+msgstr "See it come, untroubled,"
+
+# I’m unconvinced by chinnasota here, it just seems like such a mixed metaphor. Thag 4.4 has chinnasutta abandhana, which is at least more consistent. However, if it is a mistake, it is an old one, for the Chinese at SA 566 supports sota: 斷流不復縛.
+#. <br>
+msgctxt "sn41.5:3.4"
+msgid "chinnasotaṃ abandhanan’ti."
+msgstr "with stream cut, unbound.’"
+
+#. </p></blockquote><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn41.5:4.1"
+msgid ""
+"Imassa nu kho, gahapati, saṅkhittena bhāsitassa kathaṃ vitthārena attho "
+"daṭṭhabbo”ti?"
+msgstr "How should we see the detailed meaning of this brief statement?”"
+
+msgctxt "sn41.5:4.2"
+msgid "“Kiṃ nu kho etaṃ, bhante, bhagavatā bhāsitan”ti?"
+msgstr "“Sir, was this spoken by the Buddha?”"
+
+msgctxt "sn41.5:4.3"
+msgid "“Evaṃ, gahapatī”ti."
+msgstr "“Yes, householder.”"
+
+msgctxt "sn41.5:4.4"
+msgid "“Tena hi, bhante, muhuttaṃ āgamehi yāvassa atthaṃ pekkhāmī”ti."
+msgstr ""
+"“Well then, sir, please wait a moment while I consider the meaning of this.”"
+
+msgctxt "sn41.5:4.5"
+msgid ""
+"Atha kho citto gahapati muhuttaṃ tuṇhī hutvā āyasmantaṃ kāmabhuṃ etadavoca:"
+msgstr "Then after a short silence Citta said to Kāmabhū:"
+
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.292"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn41.5:5.1"
+msgid "“‘Nelaṅgan’ti kho, bhante, sīlānametaṃ adhivacanaṃ."
+msgstr "“Sir, ‘flawless wheel’ is a term for ethics."
+
+msgctxt "sn41.5:5.2"
+msgid "‘Setapacchādo’ti kho, bhante, vimuttiyā etaṃ adhivacanaṃ."
+msgstr "‘White canopy’ is a term for freedom."
+
+msgctxt "sn41.5:5.3"
+msgid "‘Ekāro’ti kho, bhante, satiyā etaṃ adhivacanaṃ."
+msgstr "‘One spoke’ is a term for mindfulness."
+
+msgctxt "sn41.5:5.4"
+msgid "‘Vattatī’ti kho, bhante, abhikkamapaṭikkamassetaṃ adhivacanaṃ."
+msgstr "‘Rolls on’ is a term for going forward and coming back."
+
+msgctxt "sn41.5:5.5"
+msgid ""
+"‘Ratho’ti kho, bhante, imassetaṃ cātumahābhūtikassa kāyassa adhivacanaṃ "
+"mātāpettikasambhavassa odanakummāsūpacayassa "
+"aniccucchādanaparimaddanabhedanaviddhaṃsanadhammassa."
+msgstr ""
+"‘Chariot’ is a term for this body made up of the four primary elements, "
+"produced by mother and father, built up from rice and porridge, liable to "
+"impermanence, to wearing away and erosion, to breaking up and destruction."
+
+msgctxt "sn41.5:5.6"
+msgid "Rāgo kho, bhante, nīgho, doso nīgho, moho nīgho."
+msgstr "Greed, hate, and delusion are troubles."
+
+msgctxt "sn41.5:5.7"
+msgid ""
+"Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā "
+"āyatiṃ anuppādadhammā."
+msgstr ""
+"A mendicant who has ended the defilements has given these up, cut them off "
+"at the root, made them like a palm stump, and exterminated them, so they are "
+"unable to arise in the future."
+
+msgctxt "sn41.5:5.8"
+msgid "Tasmā khīṇāsavo bhikkhu ‘anīgho’ti vuccati."
+msgstr ""
+"That’s why a mendicant who has ended the defilements is called ‘untroubled’."
+
+msgctxt "sn41.5:5.9"
+msgid "‘Āyantan’ti kho, bhante, arahato etaṃ adhivacanaṃ."
+msgstr "‘The one who comes’ is a term for the perfected one."
+
+msgctxt "sn41.5:5.10"
+msgid "‘Soto’ti kho, bhante, taṇhāyetaṃ adhivacanaṃ."
+msgstr "‘Stream’ is a term for craving."
+
+msgctxt "sn41.5:5.11"
+msgid ""
+"Sā khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā "
+"āyatiṃ anuppādadhammā."
+msgstr ""
+"A mendicant who has ended the defilements has given this up, cut it off at "
+"the root, made it like a palm stump, and exterminated it, so it’s unable to "
+"arise in the future."
+
+msgctxt "sn41.5:5.12"
+msgid "Tasmā khīṇāsavo bhikkhu ‘chinnasoto’ti vuccati."
+msgstr ""
+"That’s why a mendicant who has ended the defilements is said to have ‘cut "
+"the stream’."
+
+msgctxt "sn41.5:5.13"
+msgid "Rāgo kho, bhante, bandhanaṃ, doso bandhanaṃ, moho bandhanaṃ."
+msgstr "Greed, hate, and delusion are bonds."
+
+msgctxt "sn41.5:5.14"
+msgid ""
+"Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā "
+"āyatiṃ anuppādadhammā."
+msgstr ""
+"A mendicant who has ended the defilements has given these up, cut them off "
+"at the root, made them like a palm stump, and exterminated them, so they are "
+"unable to arise in the future."
+
+msgctxt "sn41.5:5.15"
+msgid "Tasmā khīṇāsavo bhikkhu ‘abandhano’ti vuccati."
+msgstr ""
+"That’s why a mendicant who has ended the defilements is called ‘unbound’."
+
+msgctxt "sn41.5:5.16"
+msgid "Iti kho, bhante, yaṃ taṃ bhagavatā vuttaṃ:"
+msgstr ""
+"So, sir, that’s how I understand the detailed meaning of what the Buddha "
+"said in brief:"
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn41.5:6.1"
+msgid "‘Nelaṅgo setapacchādo,"
+msgstr "‘With flawless wheel and white canopy,"
+
+#. <br>
+msgctxt "sn41.5:6.2"
+msgid "ekāro vattatī ratho;"
+msgstr "the one-spoke chariot rolls on."
+
+#. <br>
+msgctxt "sn41.5:6.3"
+msgid "Anīghaṃ passa āyantaṃ,"
+msgstr "See it come, untroubled,"
+
+#. <br>
+msgctxt "sn41.5:6.4"
+msgid "chinnasotaṃ abandhanan’ti."
+msgstr "with stream cut, unbound.’”"
+
+#. </p></blockquote><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn41.5:7.1"
+msgid ""
+"Imassa kho, bhante, bhagavatā saṅkhittena bhāsitassa evaṃ vitthārena atthaṃ "
+"ājānāmī”ti."
+msgstr ""
+
+msgctxt "sn41.5:7.2"
+msgid "“Lābhā te, gahapati, suladdhaṃ te, gahapati."
+msgstr "“You’re fortunate, householder, so very fortunate,"
+
+msgctxt "sn41.5:7.3"
+msgid "Yassa te gambhīre buddhavacane paññācakkhu kamatī”ti."
+msgstr "to traverse the Buddha’s deep teachings with the eye of wisdom.”"
+
+#. </p><p class="endsection">
+msgctxt "sn41.5:7.4"
+msgid "Pañcamaṃ."
+msgstr ""

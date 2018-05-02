@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/an/an05/an5.191.po\n"
+"X-Pootle-Revision: 2336\n"
+
+#. <section class="sutta" id="an5.191"><article><div class="hgroup"><p class="division">
+msgctxt "an5.191:0.1"
+msgid "Aṅguttara Nikāya 5"
+msgstr "Numbered Discourses 5"
+
+# I’m puzzled at why BB calls this “Dogs”. All editions I’ve seen call it “brahmana”, with no variant readings.
+#. </p><p>
+msgctxt "an5.191:0.2"
+msgid "20. Brāhmaṇavagga"
+msgstr "20. Brahmins"
+
+#. </p><h1>
+msgctxt "an5.191:0.3"
+msgid "191. Soṇasutta"
+msgstr "191. Dogs"
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an5.191:1.1"
+msgid ""
+"“Pañcime, bhikkhave, porāṇā brāhmaṇadhammā etarahi sunakhesu sandissanti, no "
+"brāhmaṇesu."
+msgstr ""
+"“Mendicants, these five traditions of the brahmins are seen these days among "
+"dogs, but not among brahmins."
+
+msgctxt "an5.191:1.2"
+msgid "Katame pañca?"
+msgstr "What five?"
+
+#. VAR: sudaṃ → pubbassudaṃ (mr)
+msgctxt "an5.191:1.3"
+msgid ""
+"Pubbe sudaṃ, bhikkhave, brāhmaṇā brāhmaṇiṃyeva gacchanti, no abrāhmaṇiṃ."
+msgstr "In the past brahmins had sex only with brahmin women, not with others."
+
+msgctxt "an5.191:1.4"
+msgid ""
+"Etarahi, bhikkhave, brāhmaṇā brāhmaṇimpi gacchanti, abrāhmaṇimpi gacchanti."
+msgstr "These days brahmins have sex with both brahmin women and others."
+
+msgctxt "an5.191:1.5"
+msgid "Etarahi, bhikkhave, sunakhā sunakhiṃyeva gacchanti, no asunakhiṃ."
+msgstr ""
+"But these days dogs have sex only with female dogs, not with other species."
+
+msgctxt "an5.191:1.6"
+msgid ""
+"Ayaṃ, bhikkhave, paṭhamo porāṇo brāhmaṇadhammo etarahi sunakhesu sandissati, "
+"no brāhmaṇesu."
+msgstr ""
+"This is the first tradition of the brahmins seen these days among dogs, but "
+"not among brahmins."
+
+# See https://discourse.suttacentral.net/t/menstruation-and-fertility-in-the-pali-texts/3042
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.222"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an5.191:2.1"
+msgid ""
+"Pubbe sudaṃ, bhikkhave, brāhmaṇā brāhmaṇiṃ utuniṃyeva gacchanti, no anutuniṃ."
+msgstr ""
+"In the past brahmins had sex only with brahmin women in the fertile half of "
+"the month that starts with menstruation, not at other times."
+
+msgctxt "an5.191:2.2"
+msgid ""
+"Etarahi, bhikkhave, brāhmaṇā brāhmaṇiṃ utunimpi gacchanti, anutunimpi "
+"gacchanti."
+msgstr ""
+"These days brahmins have sex with brahmin women both in the fertile half of "
+"the month and at other times."
+
+msgctxt "an5.191:2.3"
+msgid "Etarahi, bhikkhave, sunakhā sunakhiṃ utuniṃyeva gacchanti, no anutuniṃ."
+msgstr ""
+"But these days dogs have sex only with female dogs when they are in heat, "
+"not at other times."
+
+msgctxt "an5.191:2.4"
+msgid ""
+"Ayaṃ, bhikkhave, dutiyo porāṇo brāhmaṇadhammo etarahi sunakhesu sandissati, "
+"no brāhmaṇesu."
+msgstr ""
+"This is the second tradition of the brahmins seen these days among dogs, but "
+"not among brahmins."
+
+# Note that the similar passage in Snp 2.7 explicitly adds “mutual consent”.
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+#. VAR: kiṇanti → kīṇanti (s1-3)
+#. VAR: sambandhāya → saṃsaggatthāya (bj, pts1)
+msgctxt "an5.191:3.1"
+msgid ""
+"Pubbe sudaṃ, bhikkhave, brāhmaṇā brāhmaṇiṃ neva kiṇanti no vikkiṇanti, "
+"sampiyeneva saṃvāsaṃ sambandhāya sampavattenti."
+msgstr ""
+"In the past brahmins neither bought nor sold brahmin women. They lived "
+"together because they loved each other and wanted their family line to "
+"continue."
+
+# See BB’s note for the readings. I find it very strange that brahmins are said to buy and sell brahmin women: I am not aware of this being said elsewhere. I suspect it stems from a misinterpretation of Brihadarannyaka 6.4, which parallels this very closely, where a brahman is encouraged to bribe his wife for sex when need be, using the same verb kinati. It doesn’t refer to buying a wife, certainly not selling her.
+msgctxt "an5.191:3.2"
+msgid ""
+"Etarahi, bhikkhave, brāhmaṇā brāhmaṇiṃ kiṇantipi vikkiṇantipi, sampiyenapi "
+"saṃvāsaṃ sambandhāya sampavattenti."
+msgstr ""
+"These days brahmins both buy and sell brahmin women. They live together "
+"whether they love each other or not and they want their family line to "
+"continue."
+
+# “Love” is odd here, but it seems to me that “sampiya” is no less odd.
+msgctxt "an5.191:3.3"
+msgid ""
+"Etarahi, bhikkhave, sunakhā sunakhiṃ neva kiṇanti no vikkiṇanti, sampiyeneva "
+"saṃvāsaṃ sambandhāya sampavattenti."
+msgstr ""
+"But these days dogs neither buy nor sell female dogs. They live together "
+"because they’re attracted to each other and want their family line to "
+"continue."
+
+msgctxt "an5.191:3.4"
+msgid ""
+"Ayaṃ, bhikkhave, tatiyo porāṇo brāhmaṇadhammo etarahi sunakhesu sandissati, "
+"no brāhmaṇesu."
+msgstr ""
+"This is the third tradition of the brahmins seen these days among dogs, but "
+"not among brahmins."
+
+# The importance of this as an ethical principle for the ancients perhaps hints at the nomadic pastoral origins of the Indo-European peoples.
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an5.191:4.1"
+msgid ""
+"Pubbe sudaṃ, bhikkhave, brāhmaṇā na sannidhiṃ karonti dhanassapi dhaññassapi "
+"rajatassapi jātarūpassapi."
+msgstr "In the past brahmins did not store up money, grain, silver, or gold."
+
+msgctxt "an5.191:4.2"
+msgid ""
+"Etarahi, bhikkhave, brāhmaṇā sannidhiṃ karonti dhanassapi dhaññassapi "
+"rajatassapi jātarūpassapi."
+msgstr "These days brahmins do store up money, grain, silver, and gold."
+
+msgctxt "an5.191:4.3"
+msgid ""
+"Etarahi, bhikkhave, sunakhā na sannidhiṃ karonti dhanassapi dhaññassapi "
+"rajatassapi jātarūpassapi."
+msgstr "But these days dogs don’t store up money, grain, silver, or gold."
+
+msgctxt "an5.191:4.4"
+msgid ""
+"Ayaṃ, bhikkhave, catuttho porāṇo brāhmaṇadhammo etarahi sunakhesu "
+"sandissati, no brāhmaṇesu."
+msgstr ""
+"This is the fourth tradition of the brahmins seen these days among dogs, but "
+"not among brahmins."
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an5.191:5.1"
+msgid ""
+"Pubbe sudaṃ, bhikkhave, brāhmaṇā sāyaṃ sāyamāsāya pāto pātarāsāya bhikkhaṃ "
+"pariyesanti."
+msgstr ""
+"In the past brahmins went looking for almsfood for dinner in the evening, "
+"and for breakfast in the morning."
+
+msgctxt "an5.191:5.2"
+msgid ""
+"Etarahi, bhikkhave, brāhmaṇā yāvadatthaṃ udarāvadehakaṃ bhuñjitvā avasesaṃ "
+"ādāya pakkamanti."
+msgstr ""
+"These days brahmins eat as much as they like until their bellies are full, "
+"then take away the leftovers."
+
+msgctxt "an5.191:5.3"
+msgid ""
+"Etarahi, bhikkhave, sunakhā sāyaṃ sāyamāsāya pāto pātarāsāya bhikkhaṃ "
+"pariyesanti."
+msgstr ""
+"But these days dogs go looking for dinner in the evening, and for breakfast "
+"in the morning."
+
+msgctxt "an5.191:5.4"
+msgid ""
+"Ayaṃ, bhikkhave, pañcamo porāṇo brāhmaṇadhammo etarahi sunakhesu sandissati, "
+"no brāhmaṇesu."
+msgstr ""
+"This is the fifth tradition of the brahmins seen these days among dogs, but "
+"not among brahmins."
+
+msgctxt "an5.191:5.5"
+msgid ""
+"Ime kho, bhikkhave, pañca porāṇā brāhmaṇadhammā etarahi sunakhesu "
+"sandissanti, no brāhmaṇesū”ti."
+msgstr ""
+"These five traditions of the brahmins are seen these days among dogs, but "
+"not among brahmins.”"
+
+#. </p><p class="endsection">
+msgctxt "an5.191:5.6"
+msgid "Paṭhamaṃ."
+msgstr ""

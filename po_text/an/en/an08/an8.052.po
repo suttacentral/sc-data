@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/an/an08/an8.052.po\n"
+"X-Pootle-Revision: 3052\n"
+
+#. <section class="sutta" id="an8.52"><article><div class="hgroup"><p class="division">
+msgctxt "an8.52:0.1"
+msgid "Aṅguttara Nikāya 8"
+msgstr "Numbered Discourses 8"
+
+#. </p><p>
+msgctxt "an8.52:0.2"
+msgid "6. Gotamīvagga"
+msgstr "6. Gotamī"
+
+#. </p><h1>
+#. VAR: 52. Ovādasutta → bhikkhunovādakasuttaṃ (bj)
+msgctxt "an8.52:0.3"
+msgid "52. Ovādasutta"
+msgstr "52. An Adviser for Nuns"
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an8.52:1.1"
+msgid "Ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ."
+msgstr ""
+"At one time the Buddha was staying near Vesālī, at the Great Wood, in the "
+"hall with the peaked roof."
+
+msgctxt "an8.52:1.2"
+msgid ""
+"Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ "
+"abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando "
+"bhagavantaṃ etadavoca:"
+msgstr ""
+"Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, "
+"and said to the Buddha:"
+
+msgctxt "an8.52:1.3"
+msgid ""
+"“katihi nu kho, bhante, dhammehi samannāgato bhikkhu bhikkhunovādako "
+"sammannitabbo”ti?"
+msgstr ""
+"“Sir, how many qualities should a monk have to be agreed on as an adviser "
+"for nuns?”"
+
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.280"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an8.52:2.1"
+msgid ""
+"“Aṭṭhahi kho, ānanda, dhammehi samannāgato bhikkhu bhikkhunovādako "
+"sammannitabbo."
+msgstr ""
+"“Ānanda, a monk with eight qualities may be agreed on as an adviser for nuns."
+
+msgctxt "an8.52:2.2"
+msgid "Katamehi aṭṭhahi?"
+msgstr "What eight?"
+
+msgctxt "an8.52:2.3"
+msgid "Idhānanda, bhikkhu sīlavā hoti … pe … samādāya sikkhati sikkhāpadesu;"
+msgstr ""
+"Firstly, a monk is ethical, restrained in the code of conduct, and "
+"accomplished in appropriate behavior and means of collecting alms. Seeing "
+"danger in the slightest flaw, they keep the rules they’ve undertaken."
+
+msgctxt "an8.52:2.4"
+msgid "bahussuto hoti … pe … diṭṭhiyā suppaṭividdhā;"
+msgstr ""
+"They’re learned, remembering and keeping what they’ve learned. These "
+"teachings are good in the beginning, good in the middle, and good in the "
+"end, meaningful and well-phrased, describing a spiritual practice that’s "
+"totally full and pure. They are very learned in such teachings, remembering "
+"them, reciting them, mentally scrutinizing them, and understanding them with "
+"right view."
+
+msgctxt "an8.52:2.5"
+msgid ""
+"ubhayāni kho panassa pātimokkhāni vitthārena svāgatāni honti suvibhattāni "
+"suppavattīni suvinicchitāni suttaso anubyañjanaso;"
+msgstr ""
+"Both monastic codes have been passed down to them in detail, well analyzed, "
+"well mastered, well judged in both the rules and accompanying material."
+
+#. VAR: vissaṭṭhāya → visaṭṭhāya (mr)
+#. VAR: anelagaḷāya → anelagalāya (bj) | aneḷagaḷāya (s1, mr)
+msgctxt "an8.52:2.6"
+msgid ""
+"kalyāṇavāco hoti kalyāṇavākkaraṇo, poriyā vācāya samannāgato vissaṭṭhāya "
+"anelagaḷāya atthassa viññāpaniyā;"
+msgstr ""
+"They’re a good speaker. Their voice is polished, clear, articulate, and "
+"expresses the meaning."
+
+msgctxt "an8.52:2.7"
+msgid ""
+"paṭibalo hoti bhikkhunisaṃghassa dhammiyā kathāya sandassetuṃ samādapetuṃ "
+"samuttejetuṃ sampahaṃsetuṃ;"
+msgstr ""
+"They’re able to educate, encourage, fire up, and inspire the community of "
+"nuns."
+
+msgctxt "an8.52:2.8"
+msgid "yebhuyyena bhikkhunīnaṃ piyo hoti manāpo;"
+msgstr "They’re likable and agreeable to most of the nuns."
+
+# The text says “fallen into a grave offence”. The grave offences are the sanghadisesas, and the relevant rules are 2-4, which deal with sexual harassment either verbally or physically. I think it’s important to make this clear. Also, the phrasing of this is odd in several ways. Why not use a more normal phrase for someone who has gone forth? Regardless, both Horner and Thanissaro mistranslate this. I follow BB’s construal of the grammar.
+msgctxt "an8.52:2.9"
+msgid ""
+"na kho panetaṃ bhagavantaṃ uddissa pabbajitāya kāsāyavatthavasanāya "
+"garudhammaṃ ajjhāpannapubbo hoti;"
+msgstr ""
+"They have never previously sexually harassed any woman wearing the ocher "
+"robe who has gone forth in the Buddha’s name."
+
+msgctxt "an8.52:2.10"
+msgid "vīsativasso vā hoti atirekavīsativasso vā."
+msgstr "They have been ordained for twenty years or more."
+
+msgctxt "an8.52:2.11"
+msgid ""
+"Imehi kho, ānanda, aṭṭhahi dhammehi samannāgato bhikkhu bhikkhunovādako "
+"sammannitabbo”ti."
+msgstr ""
+"A monk with these eight qualities may be agreed on as an adviser for nuns.”"
+
+#. </p><p class="endsection">
+msgctxt "an8.52:2.12"
+msgid "Dutiyaṃ."
+msgstr ""
