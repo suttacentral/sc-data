@@ -1,4 +1,6 @@
 [{"_path": "pli-tv-bu-pm", "acronym": "Pli Tv Bu Pm", "name": "Bhikkhu Pātimokkha", "type": "division"},
+{"_path": "pli-tv-bu-pm-pm/pli-tv-bu-pm-pm-text", "name": "Bhikkhu Pātimokkha", "type": "subdivision"},
+{"_path": "pli-tv-bu-pm-pm/pli-tv-bu-pm-pm-text/pli-tv-bu-pm-pm", "name": "Bhikkhu Pātimokkha", "type": "text"},
 {"_path": "pli-tv-bu-pm/pli-tv-bu-pm-pj", "name": "Pārājika", "type": "subdivision"},
 {"_path": "pli-tv-bu-pm/pli-tv-bu-pm-pj/pli-tv-bu-pm-pj1", "name": "Methunadhamma"},
 {"_path": "pli-tv-bu-pm/pli-tv-bu-pm-pj/pli-tv-bu-pm-pj2", "name": "Adinnādāna"},
