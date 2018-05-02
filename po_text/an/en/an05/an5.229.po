@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/an/an05/an5.229.po\n"
+"X-Pootle-Revision: 2412\n"
+
+#. <section class="sutta" id="an5.229"><article><div class="hgroup"><p class="division">
+msgctxt "an5.229:0.1"
+msgid "Aṅguttara Nikāya 5"
+msgstr "Numbered Discourses 5"
+
+#. </p><p>
+msgctxt "an5.229:0.2"
+msgid "23. Dīghacārikavagga"
+msgstr "23. Long Wandering"
+
+#. </p><h1>
+msgctxt "an5.229:0.3"
+msgid "229. Paṭhamakaṇhasappasutta"
+msgstr "229. Black Snakes (1st)"
+
+# Note that here once again it is clear adinava does not mean “danger”. Only one of the five factors is actually the dangerous nature of the snake.
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an5.229:1.1"
+msgid "“Pañcime, bhikkhave, ādīnavā kaṇhasappe."
+msgstr "“Mendicants, there are these five drawbacks of a black snake."
+
+msgctxt "an5.229:1.2"
+msgid "Katame pañca?"
+msgstr "What five?"
+
+# I’m not sure why BB has “frightening “for sabhiru. The dicts give “fearful”, see opp. abhiru in CPD.” frightening, dangerous” seems to be redundant, while “cowardly” is not. Also, below a charnel ground is said to be sappatibbhaya. It’s not so obvious that a charnel ground is “dangerous”, but it certainly is “frightening”.
+msgctxt "an5.229:1.3"
+msgid "Asuci, duggandho, sabhīru, sappaṭibhayo, mittadubbhī."
+msgstr "It’s filthy, stinking, cowardly, frightening, and treacherous."
+
+msgctxt "an5.229:1.4"
+msgid "Ime kho, bhikkhave, pañca ādīnavā kaṇhasappe."
+msgstr "These are the five dangers of a black snake."
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an5.229:2.1"
+msgid "Evamevaṃ kho, bhikkhave, pañcime ādīnavā mātugāme."
+msgstr "In the same way there are five drawbacks of a female."
+
+msgctxt "an5.229:2.2"
+msgid "Katame pañca?"
+msgstr "What five?"
+
+msgctxt "an5.229:2.3"
+msgid "Asuci, duggandho, sabhīru, sappaṭibhayo, mittadubbhī."
+msgstr "She’s filthy, stinking, cowardly, frightening, and treacherous."
+
+msgctxt "an5.229:2.4"
+msgid "Ime kho, bhikkhave, pañca ādīnavā mātugāme”ti."
+msgstr "These are the five drawbacks of a female.”"
+
+#. </p><p class="endsection">
+msgctxt "an5.229:2.5"
+msgid "Navamaṃ."
+msgstr ""
