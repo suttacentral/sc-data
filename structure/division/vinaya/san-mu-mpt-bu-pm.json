@@ -1,6 +1,5 @@
 [{"_path": "san-mu-mpt-bu-pm-div", "acronym": "San Mu Mpt Bu Pm", "name": "Mahāvyutpatti", "type": "division"},
-{"_path": "san-mu-mpt-bu-pm-div/san-mu-mpt-bu-pm-text", "name": "Mahāvyutpatti", "type": "subdivision"},
-{"_path": "san-mu-mpt-bu-pm-div/san-mu-mpt-bu-pm-text/san-mu-mpt-bu-pm", "name": "Mahāvyutpatti", "type": "text"},
+{"_path": "san-mu-mpt-bu-pm-div/san-mu-mpt-bu-pm", "name": "Mahāvyutpatti", "type": "text"},
 {"_path": "san-mu-mpt-bu-pm-div/san-mu-mpt-bu-pm-pj", "name": "Pārājika", "type": "subdivision"},
 {"_path": "san-mu-mpt-bu-pm-div/san-mu-mpt-bu-pm-pj/san-mu-mpt-bu-pm-pj1", "name": "Methunadhamma"},
 {"_path": "san-mu-mpt-bu-pm-div/san-mu-mpt-bu-pm-pj/san-mu-mpt-bu-pm-pj2", "name": "Adinnādāna"},

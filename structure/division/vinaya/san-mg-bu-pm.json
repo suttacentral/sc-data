@@ -1,6 +1,5 @@
 [{"_path": "san-mg-bu-pm-div", "acronym": "San Mg Bu Pm", "name": "Bhikkhu Pātimokkha", "type": "division"},
-{"_path": "san-mg-bu-pm-div/san-mg-bu-pm-text", "name": "Bhikkhu Pātimokkha", "type": "subdivision"},
-{"_path": "san-mg-bu-pm-div/san-mg-bu-pm-text/san-mg-bu-pm", "name": "Bhikkhu Pātimokkha", "type": "text"},
+{"_path": "san-mg-bu-pm-div/san-mg-bu-pm", "name": "Bhikkhu Pātimokkha", "type": "text"},
 {"_path": "san-mg-bu-pm-div/san-mg-bu-pm-pj", "name": "Pārājika", "type": "subdivision"},
 {"_path": "san-mg-bu-pm-div/san-mg-bu-pm-pj/san-mg-bu-pm-pj1", "name": "Methunadhamma"},
 {"_path": "san-mg-bu-pm-div/san-mg-bu-pm-pj/san-mg-bu-pm-pj2", "name": "Adinnādāna"},
