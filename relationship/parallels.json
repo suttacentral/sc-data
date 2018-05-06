@@ -156,13 +156,13 @@
         "parallels": ["dhp183","dn14#176","pdhp357","t210.22#vgns22.11","t212.29#vgns29.1","t213.28#vgns28.1","uv28#28.1","sag34","uv-kg28#618"]
     },
     {
-        "parallels": ["dhp35","pdhp345","t210.11#vgns11.2","t212.32#vgns32.1","t213.31#vgns31.1","uv31#31.1","sag35","uv-kg31#31.1"]
+        "parallels": ["dhp35","pdhp345","t210.11#vgns11.2","t212.32#vgns32.1","t213.31#vgns31.1","uv31#31.1","sag35","uv-kg31#770"]
     },
     {
-        "parallels": ["uv31#31.51","t212.32#vgns32.46","t213.31#vgns31.39","sag36","uv-kg31#31.51"]
+        "parallels": ["uv31#31.51","t212.32#vgns32.46","t213.31#vgns31.39","sag36","uv-kg31#823"]
     },
     {
-        "parallels": ["uv32#32.5","t212.33#vgns33.5","t213.32#vgns32.5","sag37","uv-kg32#32.5"]
+        "parallels": ["uv32#32.5","t212.33#vgns33.5","t213.32#vgns32.5","sag37","uv-kg32#837"]
     },
     {
         "parallels": ["uv33#33.55","t212.32#vgns32.8","t213.31#vgns31.8","sag38","uv-kg33#969"]
@@ -10128,7 +10128,7 @@
         "parallels": ["an8.29#14","~dhp315","~gdhp131","~pdhp234","~t210.30#vgns30.12","~t212.6#vgns6.13-#vgns6.14","~t213.5#vgns5.14-#vgns5.15","~thag17.2#vns1004","~uv5#5.16-#5.17","~uv-kg5#135-#136"]
     },
     {
-        "parallels": ["dhp1","gdhp201","pdhp1","t210.9#vgns9.1","t212.32#vgns32.13","t213.31#vgns31.13","uv31#31.23","~mkv#66","uv-kg31#31.23"]
+        "parallels": ["dhp1","gdhp201","pdhp1","t210.9#vgns9.1","t212.32#vgns32.13","t213.31#vgns31.13","uv31#31.23","~mkv#66","uv-kg31#793"]
     },
     {
         "mentions": ["dhp1","ne37#10","pe2#6"]
@@ -10260,7 +10260,7 @@
         "mentions": ["dhp129","~mil5.2.3"]
     },
     {
-        "parallels": ["dhp13","gdhp219","pdhp351","t210.9#vgns9.13","t212.32#vgns32.11","t213.31#vgns31.11","thag2.7#vns133","uv31#31.11"]
+        "parallels": ["dhp13","gdhp219","pdhp351","t210.9#vgns9.13","t212.32#vgns32.11","t213.31#vgns31.11","thag2.7#vns133","uv31#31.11","uv-kg31#781"]
     },
     {
         "parallels": ["dhp130","~dhp129","~pdhp202","~t210.18#vgns18.1","~t212.6#vgns6.16","~t213.5#vgns5.17","~uv5#5.19","~uv-kg5#138"]
@@ -10299,16 +10299,31 @@
         "parallels": ["dhp139","t210.18#vgns18.7","t212.29#vgns29.28","t213.28#vgns28.27","uv28#28.27","uv-kg28#645"]
     },
     {
-        "parallels": ["dhp14","gdhp220","pdhp352","t210.9#vgns9.14","t212.32#vgns32.12","t213.31#vgns31.12","thag2.7#vns134","uv31#31.17","uv-kg31#781-#782"]
+        "parallels": ["dhp14","gdhp220","pdhp352","t210.9#vgns9.14","t212.32#vgns32.12","t213.31#vgns31.12","thag2.7#vns134","uv31#31.17","uv-kg31#782"]
     },
     {
-        "parallels": ["uv31#31.18","uv-kg31#783-#784"]
+        "parallels": ["uv31#31.12","uv-kg31#783"]
     },
     {
-        "parallels": ["uv31#31.19","uv-kg31#785-#786"]
+        "parallels": ["uv31#31.18","uv-kg31#784"]
     },
     {
-        "parallels": ["uv31#31.20","uv-kg31#787-#789"]
+        "parallels": ["uv31#31.13","uv-kg31#785"]
+    },
+    {
+        "parallels": ["uv31#31.19","uv-kg31#786"]
+    },
+    {
+        "parallels": ["uv31#31.14","uv-kg31#787"]
+    },
+    {
+        "parallels": ["uv31#31.15","uv-kg31#789"]
+    },
+    {
+        "parallels": ["uv31#31.16","uv-kg31#791"]
+    },
+    {
+        "parallels": ["uv31#31.20","uv-kg31#788"]
     },
     {
         "parallels": ["dhp140","t210.18#vgns18.8","t212.29#vgns29.29","t213.28#vgns28.28","uv28#28.29","uv-kg28#646","~an5.174#10","~gdhp211","~iti30#4"]
@@ -10398,10 +10413,10 @@
         "parallels": ["dhp152","pdhp209","t210.19#vgns19.7","thag17.3#vns1028"]
     },
     {
-        "parallels": ["dhp153","t210.19#vgns19.8","t212.32#vgns32.6","t213.31#vgns31.6","uv31#31.6","~thag1.78","~thag2.32#vns183","~thig6.7","uv-kg31#31.6"]
+        "parallels": ["dhp153","t210.19#vgns19.8","t212.32#vgns32.6","t213.31#vgns31.6","uv31#31.6","~thag1.78","~thag2.32#vns183","~thig6.7","uv-kg31#775"]
     },
     {
-        "parallels": ["dhp154","t210.19#vgns19.9","t212.32#vgns32.7","t213.31#vgns31.7","uv31#31.7","~thag2.32#vns184","uv-kg31#31.7"]
+        "parallels": ["dhp154","t210.19#vgns19.9","t212.32#vgns32.7","t213.31#vgns31.7","uv31#31.7","~thag2.32#vns184","uv-kg31#776"]
     },
     {
         "parallels": ["dhp155","pdhp229","t210.19#vgns19.10","t212.18#vgns18.3","t213.17#vgns17.4","uv17#17.3","uv-kg17#351"]
@@ -10539,7 +10554,7 @@
         "parallels": ["dhp184","dn14#175","pdhp239","t210.22#vgns22.9","t210.36#vgns36.1","t212.27#vgns27.2","t213.26#vgns26.2","uv26#26.2","uv-kg26#548"]
     },
     {
-        "parallels": ["dhp185","dn14#177","t210.22#vgns22.10","t212.32#vgns32.44","t213.31#vgns31.38","ud4.6#4","uv31#31.50","uv-kg31#31.50"]
+        "parallels": ["dhp185","dn14#177","t210.22#vgns22.10","t212.32#vgns32.44","t213.31#vgns31.38","ud4.6#4","uv31#31.50","uv-kg31#822"]
     },
     {
         "parallels": ["dhp186","divy#138.021","ja258#2","pdhp145","t210.33#vgns33.3","t212.2#vgns2.42","t213.2#vgns2.19","uv2#2.17","uv-kg2#59"]
@@ -10614,7 +10629,10 @@
         "parallels": ["uv30#30.44","uv-kg30#765"]
     },
     {
-        "parallels": ["dhp2","gdhp202","pdhp2","t210.9#vgns9.2","t212.32#vgns32.14","t213.31#vgns31.14","uv31#31.24","~mkv#66","uv-kg31#794-#795"]
+        "parallels": ["dhp2","gdhp202","pdhp2","t210.9#vgns9.2","t212.32#vgns32.14","t213.31#vgns31.14","uv31#31.24","~mkv#66","uv-kg31#794"]
+    },
+    {
+        "parallels": ["uv31#31.27","uv-kg31#795"]
     },
     {
         "mentions": ["dhp2","ne37#65","pe2#6","pe8#47"]
@@ -10716,7 +10734,7 @@
         "parallels": ["dhp226","pdhp269","t210.25#vgns25.7","t210.6#vgns6.9","t212.16#vgns16.17","t212.7#vgns7.11","t213.15#vgns15.9","t213.6#vgns6.9","uv15#15.8","~uv6#6.7","~uv-kg6#153","uv-kg15#305"]
     },
     {
-        "parallels": ["an4.37#7","~uv6#6.7","~uv31#31.44","g3dhp9","~uv-kg6#153","~uv-kg31#31.44"]
+        "parallels": ["an4.37#7","~uv6#6.7","~uv31#31.44","g3dhp9","~uv-kg6#153","~uv-kg31#816"]
     },
     {
         "parallels": ["~an4.37#7","uv6#6.7","~g3dhp9","uv-kg6#153","~t213.6#vgns6.9"]
@@ -10884,10 +10902,10 @@
         "parallels": ["dhp265","gdhp1","gdhp189","pdhp236","t210.27#vgns27.10","t212.12#vgns12.18","t213.11#vgns11.16-#vgns11.17","uv33#33.8","~uv11#11.14","uv-kg33#913","~uv-kg11#242-#243"]
     },
     {
-        "parallels": ["dhp266","gdhp67","san-lo-mvu107#35","sn7.20#2","t210.27#vgns27.11","t210.34#vgns34.31","t212.33#vgns33.13","t213.32#vgns32.12","uv32#32.18","uv-kg32#32.18"]
+        "parallels": ["dhp266","gdhp67","san-lo-mvu107#35","sn7.20#2","t210.27#vgns27.11","t210.34#vgns34.31","t212.33#vgns33.13","t213.32#vgns32.12","uv32#32.18","uv-kg32#850"]
     },
     {
-        "parallels": ["dhp267","gdhp68","san-lo-mvu107#36","sn7.20#3","t210.27#vgns27.12","t212.12#vgns12.13","t213.11#vgns11.12","uv11#11.12","uv32#32.19","uv-kg11#240","uv-kg32#32.19"]
+        "parallels": ["dhp267","gdhp68","san-lo-mvu107#36","sn7.20#3","t210.27#vgns27.12","t212.12#vgns12.13","t213.11#vgns11.12","uv11#11.12","uv32#32.19","uv-kg11#240","uv-kg32#851"]
     },
     {
         "parallels": ["dhp268","t210.27#vgns27.13"]
@@ -10911,7 +10929,7 @@
         "parallels": ["dhp271","gdhp65","pdhp271","san-lo-mvu107#33","t210.27#vgns27.16","t212.33#vgns33.25","t213.32#vgns32.22","uv32#32.31","uv-kg32#863"]
     },
     {
-        "parallels": ["dhp272","gdhp66","pdhp272","san-lo-mvu107#34","t210.27#vgns27.17","uv32#32.32","uv-kg32#864"]
+        "parallels": ["dhp272","gdhp66","pdhp272","san-lo-mvu107#34","t210.27#vgns27.17","uv32#32.32","uv-kg32#863-#864"]
     },
     {
         "parallels": ["dhp273","gdhp109","pdhp358","t210.28#vgns28.1","t212.13#vgns13.1","t213.12#vgns12.3-#vgns12.4","uv12#12.4","~t212.13#vgns13.4","uv-kg12#248"]
@@ -10962,7 +10980,7 @@
         "mentions": ["dhp28","mil7.4.5#10"]
     },
     {
-        "parallels": ["dhp280","gdhp113","pdhp30","t210.28#vgns28.6","t212.32#vgns32.26","t213.31#vgns31.21","uv31#31.32","uv-kg31#31.32"]
+        "parallels": ["dhp280","gdhp113","pdhp30","t210.28#vgns28.6","t212.32#vgns32.26","t213.31#vgns31.21","uv31#31.32","uv-kg31#802"]
     },
     {
         "parallels": ["dhp281","pdhp278","t210.28#vgns28.8","t212.8#vgns8.13","t213.7#vgns7.14","uv7#7.12","uv-kg7#178"]
@@ -11184,7 +11202,7 @@
         "mentions": ["dhp325","ne37#12","ne9#9"]
     },
     {
-        "parallels": ["dhp326","t210.31#vgns31.7","t212.32#vgns32.5","t213.31#vgns31.5","thag1.77","thag19.1#vns1133","uv31#31.5","uv-kg31#31.5"]
+        "parallels": ["dhp326","t210.31#vgns31.7","t212.32#vgns32.5","t213.31#vgns31.5","thag1.77","thag19.1#vns1133","uv31#31.5","uv-kg31#774"]
     },
     {
         "parallels": ["dhp327","gdhp132","pdhp24","t210.31#vgns31.8","t212.5#vgns5.17","t213.4#vgns4.26","uv4#4.27","uv-kg4#108"]
@@ -11208,7 +11226,7 @@
         "mentions": ["dhp329","cnd23#140","tha-ap2#21"]
     },
     {
-        "parallels": ["dhp33","pdhp342","t210.11#vgns11.1","t212.32#vgns32.9","t213.31#vgns31.9","uv31#31.8","~gdhp136","uv-kg31#31.8"]
+        "parallels": ["dhp33","pdhp342","t210.11#vgns11.1","t212.32#vgns32.9","t213.31#vgns31.9","uv31#31.8","~gdhp136","uv-kg31#777"]
     },
     {
         "parallels": ["dhp330","Mūlasarvāstivādivinaya (Gilgit III.ii.185)","ja428#10","mn128#13","pdhp11","pli-tv-kd10#46","t210.2#vgns2.14","t210.31#vgns31.11","t212.15#vgns15.21","t213.14#vgns14.14","uv14#14.16","uv-kg14#298"]
@@ -11244,10 +11262,10 @@
         "mentions": ["dhp338","ne10#8"]
     },
     {
-        "parallels": ["dhp339","pdhp237","t210.32#vgns32.10","t212.32#vgns32.23","t213.31#vgns31.18","uv31#31.29","~thag16.3#vns760","g3dhp67","uv-kg31#31.29"]
+        "parallels": ["dhp339","pdhp237","t210.32#vgns32.10","t212.32#vgns32.23","t213.31#vgns31.18","uv31#31.29","~thag16.3#vns760","g3dhp67","uv-kg31#799"]
     },
     {
-        "parallels": ["dhp34","pdhp343","t212.32#vgns32.2","t213.31#vgns31.2","uv31#31.2","~gdhp137","uv-kg31#31.2"]
+        "parallels": ["dhp34","pdhp343","t212.32#vgns32.2","t213.31#vgns31.2","uv31#31.2","~gdhp137","uv-kg31#771"]
     },
     {
         "parallels": ["dhp340","t210.32#vgns32.11","~thag16.3#vns761"]
@@ -11355,13 +11373,13 @@
         "mentions": ["dhp361","~mil5.3.3#2","mil7.5.10#6","pe2#179"]
     },
     {
-        "parallels": ["dhp362","gdhp53","pdhp52","t210.34#vgns34.2","t212.33#vgns33.7","uv32#32.7","~san-lo-mvu107#38","uv-kg32#32.7"]
+        "parallels": ["dhp362","gdhp53","pdhp52","t210.34#vgns34.2","t212.33#vgns33.7","uv32#32.7","~san-lo-mvu107#38","uv-kg32#839"]
     },
     {
         "parallels": ["dhp363","gdhp54","pdhp54","t210.34#vgns34.3","t210.8#vgns8.8","t212.9#vgns9.12","t213.8#vgns8.12","uv8#8.10","~ja269#3","uv-kg8#188"]
     },
     {
-        "parallels": ["dhp364","gdhp64","iti86#3","pdhp226","san-lo-mvu107#31","t210.34#vgns34.4","t212.33#vgns33.8","t213.32#vgns32.7","thag17.3#vns1035","uv32#32.8","uv-kg32#32.8"]
+        "parallels": ["dhp364","gdhp64","iti86#3","pdhp226","san-lo-mvu107#31","t210.34#vgns34.4","t212.33#vgns33.8","t213.32#vgns32.7","thag17.3#vns1035","uv32#32.8","uv-kg32#840"]
     },
     {
         "parallels": ["dhp365","gdhp61","pdhp55","t210.33#vgns33.9","t210.34#vgns34.5","t213.13#vgns13.9","uv13#13.8","~t212.14#t0691c18","uv-kg13#272"]
@@ -11370,19 +11388,19 @@
         "parallels": ["dhp366","gdhp62","pdhp56","t210.34#vgns34.6","t212.33#vgns33.1","t213.32#vgns32.1","~uv13#13.12","~uv-kg13#276"]
     },
     {
-        "parallels": ["dhp367","gdhp79","snp4.15#vns957","t210.34#vgns34.8","t212.33#vgns33.12","t213.32#vgns32.11","uv32#32.17","uv-kg32#32.17"]
+        "parallels": ["dhp367","gdhp79","snp4.15#vns957","t210.34#vgns34.8","t212.33#vgns33.12","t213.32#vgns32.11","uv32#32.17","uv-kg32#849"]
     },
     {
         "mentions": ["dhp367","mnd15#155"]
     },
     {
-        "parallels": ["dhp368","gdhp70","pdhp59","san-lo-mvu107#27","t210.34#vgns34.7","t212.33#vgns33.2","t213.32#vgns32.2","uv32#32.21","~thag1.11","uv-kg32#32.21"]
+        "parallels": ["dhp368","gdhp70","pdhp59","san-lo-mvu107#27","t210.34#vgns34.7","t212.33#vgns33.2","t213.32#vgns32.2","uv32#32.21","~thag1.11","uv-kg32#853"]
     },
     {
         "parallels": ["dhp369","gdhp76","pdhp57","san-lo-mvu107#23-#26","t210.34#vgns34.9","t212.27#vgns27.15","t213.26#vgns26.14","uv26#26.12","uv-kg26#558"]
     },
     {
-        "parallels": ["dhp37","pdhp344","t210.11#vgns11.4","t212.34#vgns34.58","t213.33#vgns33.55","uv31#31.8A","~gdhp137","~t212.32#vgns32.8","~t213.31#vgns31.8","~uv33#33.55","uv-kg31#31.8A","~uv-kg33#969"]
+        "parallels": ["dhp37","pdhp344","t210.11#vgns11.4","t212.34#vgns34.58","t213.33#vgns33.55","uv31#31.8A","~gdhp137","~t212.32#vgns32.8","~t213.31#vgns31.8","~uv33#33.55","uv-kg31#778","~uv-kg33#969"]
     },
     {
         "parallels": ["dhp370","gdhp78","sn1.5#3","t210.34#vgns34.10","thag1.15"]
@@ -11391,40 +11409,40 @@
         "mentions": ["dhp370","ne37#391"]
     },
     {
-        "parallels": ["dhp371","gdhp75","pdhp33","t210.34#vgns34.11","t212.32#vgns32.25","t212.33#vgns33.21","t213.32#vgns32.18","~t213.31#vgns31.20","~uv31#31.31","~uv32#32.27","~uv-kg31#31.31","~uv-kg32#32.27"]
+        "parallels": ["dhp371","gdhp75","pdhp33","t210.34#vgns34.11","t212.32#vgns32.25","t212.33#vgns33.21","t213.32#vgns32.18","~t213.31#vgns31.20","~uv31#31.31","~uv32#32.27","~uv-kg31#801","~uv-kg32#859"]
     },
     {
-        "parallels": ["dhp372","gdhp58","pdhp62","t210.34#vgns34.12","t212.33#vgns33.20","t213.32#vgns32.17","uv32#32.25","uv-kg32#32.25"]
+        "parallels": ["dhp372","gdhp58","pdhp62","t210.34#vgns34.12","t212.33#vgns33.20","t213.32#vgns32.17","uv32#32.25","uv-kg32#857"]
     },
     {
-        "parallels": ["dhp373","gdhp55","pdhp60","t210.34#vgns34.13","t212.33#vgns33.9","t213.32#vgns32.8","uv32#32.9","uv-kg32#32.9"]
+        "parallels": ["dhp373","gdhp55","pdhp60","t210.34#vgns34.13","t212.33#vgns33.9","t213.32#vgns32.8","uv32#32.9","uv-kg32#841"]
     },
     {
-        "parallels": ["dhp374","gdhp56","pdhp61","t210.34#vgns34.14","t212.33#vgns33.10","t213.32#vgns32.9","uv32#32.10","uv-kg32#32.10"]
+        "parallels": ["dhp374","gdhp56","pdhp61","t210.34#vgns34.14","t212.33#vgns33.10","t213.32#vgns32.9","uv32#32.10","uv-kg32#842"]
     },
     {
-        "parallels": ["uv32#32.11","uv-kg32#32.11"]
+        "parallels": ["uv32#32.11","uv-kg32#843"]
     },
     {
-        "parallels": ["uv32#32.12","uv-kg32#32.12"]
+        "parallels": ["uv32#32.12","uv-kg32#844"]
     },
     {
-        "parallels": ["dhp375","gdhp59","pdhp63","t210.34#vgns34.15","uv32#32.26","uv-kg32#32.26"]
+        "parallels": ["dhp375","gdhp59","pdhp63","t210.34#vgns34.15","uv32#32.26","uv-kg32#858"]
     },
     {
-        "parallels": ["dhp376","pdhp64","sn9.11#3","t210.34#vgns34.16","t212.33#vgns33.6","t213.32#vgns32.6","uv32#32.6","~gdhp60","uv-kg32#32.6"]
+        "parallels": ["dhp376","pdhp64","sn9.11#3","t210.34#vgns34.16","t212.33#vgns33.6","t213.32#vgns32.6","uv32#32.6","~gdhp60","uv-kg32#838"]
     },
     {
         "parallels": ["dhp377","gdhp298","pdhp133","t210.34#vgns34.17","t212.19#vgns19.11","t213.18#vgns18.14","uv18#18.11","uv-kg18#373"]
     },
     {
-        "parallels": ["dhp378","pdhp53","t210.34#vgns34.18","t212.33#vgns33.22","t213.32#vgns32.19","uv32#32.28","uv-kg32#32.28"]
+        "parallels": ["dhp378","pdhp53","t210.34#vgns34.18","t212.33#vgns33.22","t213.32#vgns32.19","uv32#32.28","uv-kg32#860"]
     },
     {
         "parallels": ["dhp379","pdhp324","t210.34#vgns34.19"]
     },
     {
-        "parallels": ["dhp38","pdhp335","t210.11#vgns11.5","t212.32#vgns32.22","t213.31#vgns31.17","uv31#31.28","~gdhp137","uv-kg31#31.28"]
+        "parallels": ["dhp38","pdhp335","t210.11#vgns11.5","t212.32#vgns32.22","t213.31#vgns31.17","uv31#31.28","~gdhp137","uv-kg31#798"]
     },
     {
         "parallels": ["dhp380","pdhp322","t210.34#vgns34.20","t212.20#vgns20.12","t213.19#vgns19.17","uv19#19.14","uv-kg19#408"]
@@ -11541,7 +11559,10 @@
         "parallels": ["dhp4","Mūlasarvāstivādivinaya (Gilgit III.ii.184)","ja371#5","ja428#4","mn128#7","pdhp6","pli-tv-kd10#39","uv14#14.10","~t212.15#vgns15.9","~t213.14#vgns14.10","uv-kg14#292"]
     },
     {
-        "parallels": ["dhp40","pdhp350","t210.11#vgns11.12","t212.32#vgns32.29","t213.31#vgns31.24","uv31#31.35","~gdhp138","uv-kg31#805-#806"]
+        "parallels": ["dhp40","pdhp350","t210.11#vgns11.12","t212.32#vgns32.29","t213.31#vgns31.24","uv31#31.35","~gdhp138","uv-kg31#805"]
+    },
+    {
+        "parallels": ["uv31#31.37","uv-kg31#806"]
     },
     {
         "mentions": ["dhp40","pe1#115"]
@@ -11613,7 +11634,7 @@
         "parallels": ["dhp419","gdhp44","mn98#55","snp3.9#vns649","t212.34#vgns34.49","t213.33#vgns33.47","uv33#33.48","uv-kg33#961"]
     },
     {
-        "parallels": ["dhp42","ud4.3#8","~uv31#31.9","~uv-kg31#31.9"]
+        "parallels": ["dhp42","ud4.3#8","~uv31#31.9","~uv-kg31#779"]
     },
     {
         "parallels": ["dhp420","gdhp43","mn98#56","snp3.9#vns650","t210.35#vgns35.37","t212.34#vgns34.45","t213.33#vgns33.43","uv33#33.46","~gdhp26","uv-kg33#957-#958"]
@@ -11628,7 +11649,7 @@
         "parallels": ["dhp423","an3.58#11","iti99#6","mn91#64","mn98#59","snp3.9#vns653","t210.35#vgns35.40","t212.34#vgns34.47","t213.33#vgns33.45","uv33#33.47","~gdhp5","uv-kg33#959"]
     },
     {
-        "parallels": ["dhp43","t210.11#vgns11.11","t212.32#vgns32.10","t213.31#vgns31.10","uv31#31.10","uv-kg31#31.10"]
+        "parallels": ["dhp43","t210.11#vgns11.11","t212.32#vgns32.10","t213.31#vgns31.10","uv31#31.10","uv-kg31#780"]
     },
     {
         "parallels": ["dhp44","gdhp301","pdhp131","t210.12#vgns12.1","t212.19#vgns19.1","t213.18#vgns18.1","uv18#18.1","g3dhp83","uv-kg18#361"]
@@ -11874,7 +11895,7 @@
         "parallels": ["dhp88","an10.117#5","an10.118#6","an10.169#6","an10.170#5","pdhp264","sn45.34#6","t210.14#vgns14.16","~t210.10#vgns10.20","~t212.17#vgns17.16","~t213.16#vgns16.11","~uv16#16.14","~uv-kg16#338"]
     },
     {
-        "parallels": ["dhp89","an10.117#6","an10.118#7","an10.169#7","an10.170#6","pdhp265","sn45.34#7","t210.14#vgns14.17","t212.32#vgns32.31","t213.31#vgns31.26","uv31#31.39","uv-kg31#31.39"]
+        "parallels": ["dhp89","an10.117#6","an10.118#7","an10.169#7","an10.170#6","pdhp265","sn45.34#7","t210.14#vgns14.17","t212.32#vgns32.31","t213.31#vgns31.26","uv31#31.39","uv-kg31#809"]
     },
     {
         "parallels": ["dhp9","gdhp192","ja221#1","ja514#26","pdhp94","t210.9#vgns9.9","t212.30#vgns30.7","t213.29#vgns29.7","thag17.1#vns969","uv29#29.7","uv-kg29#665"]
@@ -11904,13 +11925,13 @@
         "parallels": ["uv29#29.30","uv-kg29#689"]
     },
     {
-        "parallels": ["dhp94","pdhp89","t210.15#vgns15.5","t210.31#vgns31.16","t212.20#vgns20.2","t213.19#vgns19.3-#vgns19.4","uv19#19.3","uv-kg19#19.3","~thag2.43#vns205"]
+        "parallels": ["dhp94","pdhp89","t210.15#vgns15.5","t210.31#vgns31.16","t212.20#vgns20.2","t213.19#vgns19.3-#vgns19.4","uv19#19.3","~thag2.43#vns205","uv-kg19#19.3"]
     },
     {
         "mentions": ["dhp94","ne37#328","pe2#101"]
     },
     {
-        "parallels": ["dhp96","pdhp88","t210.15#vgns15.7","t212.32#vgns32.39","t213.31#vgns31.33","uv31#31.45","~sn7.2#4","~thag6.12#vns441","uv-kg31#31.45"]
+        "parallels": ["dhp96","pdhp88","t210.15#vgns15.7","t212.32#vgns32.39","t213.31#vgns31.33","uv31#31.45","~sn7.2#4","~thag6.12#vns441","uv-kg31#817"]
     },
     {
         "parallels": ["dhp97","pdhp333","t210.15#vgns15.8","t212.30#vgns30.24","t213.29#vgns29.22","uv29#29.23","g3dhp12","uv-kg29#681"]
@@ -11931,19 +11952,19 @@
         "parallels": ["gdhp126","~dhp337","~t210.32#vgns32.7","~t212.3#vgns3.11","~t212.3#vgns3.13","~thag6.5#vns402"]
     },
     {
-        "parallels": ["gdhp136","~dhp33","~pdhp342","~t210.11#vgns11.1","~t212.32#vgns32.9","~t213.31#vgns31.9","~uv31#31.8","~uv-kg31#31.8"]
+        "parallels": ["gdhp136","~dhp33","~pdhp342","~t210.11#vgns11.1","~t212.32#vgns32.9","~t213.31#vgns31.9","~uv31#31.8","~uv-kg31#777"]
     },
     {
-        "parallels": ["gdhp137","~dhp34","~pdhp343","~t212.32#vgns32.2","~t213.31#vgns31.2","~uv31#31.2","~dhp37","~pdhp344","~t210.11#vgns11.4","~t212.34#vgns34.58","~t213.33#vgns33.55","~uv31#31.8A","~dhp38","~pdhp335","~t210.11#vgns11.5","~t212.32#vgns32.22","~t213.31#vgns31.17","~uv31#31.28","~dhp39","~pdhp347","~t210.11#vgns11.6","~t212.29#vgns29.6","~t212.32#vgns32.17","~t213.28#vgns28.6","~uv28#28.6","~uv-kg28#623","~uv-kg31#31.2","~uv-kg31#31.8A","~uv-kg31#31.28"]
+        "parallels": ["gdhp137","~dhp34","~pdhp343","~t212.32#vgns32.2","~t213.31#vgns31.2","~uv31#31.2","~dhp37","~pdhp344","~t210.11#vgns11.4","~t212.34#vgns34.58","~t213.33#vgns33.55","~uv31#31.8A","~dhp38","~pdhp335","~t210.11#vgns11.5","~t212.32#vgns32.22","~t213.31#vgns31.17","~uv31#31.28","~dhp39","~pdhp347","~t210.11#vgns11.6","~t212.29#vgns29.6","~t212.32#vgns32.17","~t213.28#vgns28.6","~uv28#28.6","~uv-kg28#623","~uv-kg31#771","~uv-kg31#778","~uv-kg31#798"]
     },
     {
-        "parallels": ["uv31#31.21","uv-kg31#790-#791"]
+        "parallels": ["uv31#31.21","uv-kg31#790"]
     },
     {
-        "parallels": ["uv31#31.22","uv-kg31#31.22"]
+        "parallels": ["uv31#31.22","uv-kg31#792"]
     },
     {
-        "parallels": ["gdhp138","~dhp40","~pdhp350","~t210.11#vgns11.12","~t212.32#vgns32.29","~t213.31#vgns31.24","~uv31#31.35","~uv-kg31#805-#806"]
+        "parallels": ["gdhp138","~dhp40","~pdhp350","~t210.11#vgns11.12","~t212.32#vgns32.29","~t213.31#vgns31.24","~uv31#31.35","~uv-kg31#805"]
     },
     {
         "parallels": ["gdhp187","~dhp263","~t210.27#vgns27.8","~t212.30#vgns30.10","~t213.29#vgns29.10","~uv29#29.9","~uv-kg29#668"]
@@ -11988,7 +12009,7 @@
         "parallels": ["gdhp5","~dhp423","~an3.58#11","~iti99#6","~mn91#64","~mn98#59","~snp3.9#vns653","~t210.35#vgns35.40","~t212.34#vgns34.47","~t213.33#vgns33.45","~uv33#33.47","~uv-kg33#959"]
     },
     {
-        "parallels": ["gdhp60","~dhp376","~pdhp64","~sn9.11#3","~t210.34#vgns34.16","~t212.33#vgns33.6","~t213.32#vgns32.6","~uv32#32.6","~uv-kg32#32.6"]
+        "parallels": ["gdhp60","~dhp376","~pdhp64","~sn9.11#3","~t210.34#vgns34.16","~t212.33#vgns33.6","~t213.32#vgns32.6","~uv32#32.6","~uv-kg32#838"]
     },
     {
         "parallels": ["gdhp91","~dhp334","~pdhp137","~t210.32#vgns32.1","~t212.3#vgns3.4","~t213.3#vgns3.4-#vgns3.5","~thag6.5#vns399","~uv3#3.4"]
@@ -12039,7 +12060,7 @@
         "parallels": ["ja528#37","~dhp141","~Mūlasarvāstivādivinaya (Gilgit III.iv.40)","~divy#210.003","~pdhp195","~san-lo-mvu104#23","~t210.18#vgns18.9","~t212.34#vgns34.1","~t213.33#vgns33.1","~uv33#33.1","~uv-kg33#906"]
     },
     {
-        "parallels": ["mkv#66","~dhp1","~gdhp201","~pdhp1","~t210.9#vgns9.1","~t212.32#vgns32.13","~t213.31#vgns31.13","~uv31#31.23","~dhp2","~gdhp202","~pdhp2","~t210.9#vgns9.2","~t212.32#vgns32.14","~t213.31#vgns31.14","~uv31#31.24","~uv-kg31#31.23","~uv-kg31#794-#795"]
+        "parallels": ["mkv#66","~dhp1","~gdhp201","~pdhp1","~t210.9#vgns9.1","~t212.32#vgns32.13","~t213.31#vgns31.13","~uv31#31.23","~dhp2","~gdhp202","~pdhp2","~t210.9#vgns9.2","~t212.32#vgns32.14","~t213.31#vgns31.14","~uv31#31.24","~uv-kg31#793","~uv-kg31#794"]
     },
     {
         "parallels": ["mn75#22","~dhp204","~gdhp162","~pdhp76","~t210.36#vgns36.2","~t212.27#vgns27.6","~t213.26#vgns26.6","~uv26#26.6","~uv-kg26#552"]
@@ -12081,7 +12102,7 @@
         "parallels": ["pdhp92","~dhp323","~t210.31#vgns31.4","~t212.20#vgns20.7","~t213.19#vgns19.9","~uv19#19.8","~uv-kg19#394"]
     },
     {
-        "parallels": ["san-lo-mvu107#38","~dhp362","~gdhp53","~pdhp52","~t210.34#vgns34.2","~t212.33#vgns33.7","~uv32#32.7","~uv-kg32#32.7"]
+        "parallels": ["san-lo-mvu107#38","~dhp362","~gdhp53","~pdhp52","~t210.34#vgns34.2","~t212.33#vgns33.7","~uv32#32.7","~uv-kg32#839"]
     },
     {
         "parallels": ["sn1.26#2","~dhp387","~gdhp50","~pdhp39","~sn21.11#4","~t210.35#vgns35.5","~t212.34#vgns34.70","~t213.33#vgns33.68","~uv33#33.74","~uv-kg33#987-#988"]
@@ -12129,7 +12150,7 @@
         "parallels": ["sn5.6#2-#3","thig7.3#2-#3"]
     },
     {
-        "parallels": ["sn7.2#4","~dhp96","~pdhp88","~t210.15#vgns15.7","~t212.32#vgns32.39","~t213.31#vgns31.33","~uv31#31.45","~uv-kg31#31.45"]
+        "parallels": ["sn7.2#4","~dhp96","~pdhp88","~t210.15#vgns15.7","~t212.32#vgns32.39","~t213.31#vgns31.33","~uv31#31.45","~uv-kg31#817"]
     },
     {
         "parallels": ["sn7.7#2-#3","thig8.1#2-#3"]
@@ -12204,7 +12225,7 @@
         "parallels": ["t210.34#vgns34.1","~dhp360","~san-lo-mvu107#39"]
     },
     {
-        "parallels": ["t210.34#vgns34.6","~uv32#32.1","~uv-kg32#32.1"]
+        "parallels": ["t210.34#vgns34.6","~uv32#32.1","~uv-kg32#833"]
     },
     {
         "parallels": ["t210.35#vgns35.26","t212.34#vgns34.57","t213.33#vgns33.54"]
@@ -12261,10 +12282,10 @@
         "parallels": ["t212.30#vgns30.38","~dhp230","~an4.28#7","~an4.6#9","~an5.42#4","~gdhp242","~pdhp287","~t210.25#vgns25.11","~t213.29#vgns29.42","~ud7.6#4","~uv22#22.11","~uv-kg22#458"]
     },
     {
-        "parallels": ["t212.32#vgns32.8","~dhp37","~pdhp344","~t210.11#vgns11.4","~t212.34#vgns34.58","~t213.33#vgns33.55","~uv31#31.8A","~uv-kg31#31.8A"]
+        "parallels": ["t212.32#vgns32.8","~dhp37","~pdhp344","~t210.11#vgns11.4","~t212.34#vgns34.58","~t213.33#vgns33.55","~uv31#31.8A","~uv-kg31#778"]
     },
     {
-        "parallels": ["t212.33#vgns33.1","~uv32#32.1","~uv-kg32#32.1"]
+        "parallels": ["t212.33#vgns33.1","~uv32#32.1","~uv-kg32#833"]
     },
     {
         "parallels": ["t212.34#vgns34.2","~dhp411","~mn98#47","~snp3.9#vns641","~t213.33#vgns33.53","~uv33#33.54","~uv-kg33#968"]
@@ -12465,16 +12486,16 @@
         "parallels": ["t213.31#vgns31.31","t212.32#vgns32.37"]
     },
     {
-        "parallels": ["t213.31#vgns31.8","~dhp37","~pdhp344","~t210.11#vgns11.4","~t212.34#vgns34.58","~t213.33#vgns33.55","~uv31#31.8A","~uv-kg31#31.8A"]
+        "parallels": ["t213.31#vgns31.8","~dhp37","~pdhp344","~t210.11#vgns11.4","~t212.34#vgns34.58","~t213.33#vgns33.55","~uv31#31.8A","~uv-kg31#778"]
     },
     {
-        "parallels": ["t213.32#vgns32.1","~uv32#32.1","~uv-kg32#32.1"]
+        "parallels": ["t213.32#vgns32.1","~uv32#32.1","~uv-kg32#833"]
     },
     {
         "parallels": ["t213.32#vgns32.13","t210.34#vgns34.32","t212.33#vgns33.14"]
     },
     {
-        "parallels": ["t213.32#vgns32.16","t212.33#vgns33.19","uv32#32.24","uv-kg32#32.24"]
+        "parallels": ["t213.32#vgns32.16","t212.33#vgns33.19","uv32#32.24","uv-kg32#856"]
     },
     {
         "parallels": ["t213.32#vgns32.23","t212.33#vgns33.26"]
@@ -12564,10 +12585,10 @@
         "parallels": ["t213.9#vgns9.17","t212.10#vgns10.24"]
     },
     {
-        "parallels": ["thag1.11","~dhp368","~gdhp70","~pdhp59","~san-lo-mvu107#27","~t210.34#vgns34.7","~t212.33#vgns33.2","~t213.32#vgns32.2","~uv32#32.21","~uv-kg32#32.21"]
+        "parallels": ["thag1.11","~dhp368","~gdhp70","~pdhp59","~san-lo-mvu107#27","~t210.34#vgns34.7","~t212.33#vgns33.2","~t213.32#vgns32.2","~uv32#32.21","~uv-kg32#853"]
     },
     {
-        "parallels": ["thag1.78","~dhp153","~t210.19#vgns19.8","~t212.32#vgns32.6","~t213.31#vgns31.6","~uv31#31.6","~uv-kg31#31.6"]
+        "parallels": ["thag1.78","~dhp153","~t210.19#vgns19.8","~t212.32#vgns32.6","~t213.31#vgns31.6","~uv31#31.6","~uv-kg31#775"]
     },
     {
         "parallels": ["thag10.3#vns548","~dhp172","~gdhp122","~mn86#25","~pdhp20","~t210.10#vgns10.15","~t213.16#vgns16.5","~thag16.8#vns871","~uv16#16.5","~dhp173","~mn86#26","~t210.10#vgns10.18","~t212.17#vgns17.10","~thag16.8#vns872","~uv16#16.9","~uv-kg16#334","~uv-kg16#330"]
@@ -12579,7 +12600,7 @@
         "parallels": ["thag14.1#vns653","~dhp315","~gdhp131","~pdhp234","~t210.30#vgns30.12","~t212.6#vgns6.13-#vgns6.14","~t213.5#vgns5.14-#vgns5.15","~thag17.2#vns1004","~uv5#5.16-#5.17","~uv-kg5#135-#136"]
     },
     {
-        "parallels": ["thag16.3#vns760","~dhp339","~pdhp237","~t210.32#vgns32.10","~t212.32#vgns32.23","~t213.31#vgns31.18","~uv31#31.29","~uv-kg31#31.29"]
+        "parallels": ["thag16.3#vns760","~dhp339","~pdhp237","~t210.32#vgns32.10","~t212.32#vgns32.23","~t213.31#vgns31.18","~uv31#31.29","~uv-kg31#799"]
     },
     {
         "parallels": ["thag16.3#vns761","~dhp340","~t210.32#vgns32.11"]
@@ -12588,10 +12609,10 @@
         "parallels": ["thag2.13#vns146","~dhp136","~t210.13#vgns13.14","~uv9#9.12","~g3dhp43","~uv-kg9#204"]
     },
     {
-        "parallels": ["thag2.32#vns183","~dhp153","~t210.19#vgns19.8","~t212.32#vgns32.6","~t213.31#vgns31.6","~uv31#31.6","~uv-kg31#31.6"]
+        "parallels": ["thag2.32#vns183","~dhp153","~t210.19#vgns19.8","~t212.32#vgns32.6","~t213.31#vgns31.6","~uv31#31.6","~uv-kg31#775"]
     },
     {
-        "parallels": ["thag2.32#vns184","~dhp154","~t210.19#vgns19.9","~t212.32#vgns32.7","~t213.31#vgns31.7","~uv31#31.7","~uv-kg31#31.7"]
+        "parallels": ["thag2.32#vns184","~dhp154","~t210.19#vgns19.9","~t212.32#vgns32.7","~t213.31#vgns31.7","~uv31#31.7","~uv-kg31#776"]
     },
     {
         "parallels": ["thag2.34","~dhp346","~gdhp170","~ja201#2","~pdhp144","~sn3.10#5","~t210.32#vgns32.15","~t212.2#vgns2.18","~uv2#2.6","~uv-kg2#48","~t213.2#vgns2.6"]
@@ -12603,13 +12624,13 @@
         "parallels": ["thag2.43#vns205","~dhp94","~pdhp89","~t210.15#vgns15.5","~t210.31#vgns31.16","~t212.20#vgns20.2","~t213.19#vgns19.3-#vgns19.4","~uv19#19.3","~uv-kg19#19.3"]
     },
     {
-        "parallels": ["thag6.12#vns441","~dhp96","~pdhp88","~t210.15#vgns15.7","~t212.32#vgns32.39","~t213.31#vgns31.33","~uv31#31.45","~uv-kg31#31.45"]
+        "parallels": ["thag6.12#vns441","~dhp96","~pdhp88","~t210.15#vgns15.7","~t212.32#vgns32.39","~t213.31#vgns31.33","~uv31#31.45","~uv-kg31#817"]
     },
     {
         "parallels": ["thig1.5","~dhp315","~gdhp131","~pdhp234","~t210.30#vgns30.12","~t212.6#vgns6.13-#vgns6.14","~t213.5#vgns5.14-#vgns5.15","~thag17.2#vns1004","~uv5#5.16-#5.17","~uv-kg5#135-#136"]
     },
     {
-        "parallels": ["thig6.7","~dhp153","~t210.19#vgns19.8","~t212.32#vgns32.6","~t213.31#vgns31.6","~uv31#31.6","~uv-kg31#31.6"]
+        "parallels": ["thig6.7","~dhp153","~t210.19#vgns19.8","~t212.32#vgns32.6","~t213.31#vgns31.6","~uv31#31.6","~uv-kg31#775"]
     },
     {
         "parallels": ["ud1.9#4","~dhp393","~t210.35#vgns35.11","~uv33#33.7","~uv-kg33#912"]
@@ -12942,9 +12963,6 @@
         "parallels": ["uv20#20.10","t210.25#vgns25.23","t212.21#vgns21.9","t213.20#vgns20.8","uv-kg20#419"]
     },
     {
-        "parallels": ["uv20#20.9","uv-kg20#417-#418"]
-    },
-    {
         "parallels": ["uv20#20.11","t210.25#vgns25.24","t212.21#vgns21.10","t213.20#vgns20.9","sn7.2#6","sn7.3#4","sn11.4#11","sn11.5#12","thag6.12#vns443","uv-kg20#420"]
     },
     {
@@ -12984,7 +13002,10 @@
         "parallels": ["uv20#20.7","t210.25#vgns25.21","t212.21#vgns21.7","t213.20#vgns20.6","uv-kg20#415"]
     },
     {
-        "parallels": ["uv20#20.8","t210.25#vgns25.22","t212.21#vgns21.8","t213.20#vgns20.7","uv-kg20#416"]
+        "parallels": ["uv20#20.8","uv-kg20#416"]
+    },
+    {
+        "parallels": ["uv20#20.9","uv-kg20#417-#418","t210.25#vgns25.22","t212.21#vgns21.8","t213.20#vgns20.7"]
     },
     {
         "parallels": ["uv21#21.10","t212.22#vgns22.12","t213.21#vgns21.11","uv-kg21#439"]
@@ -13083,7 +13104,7 @@
         "parallels": ["uv23#23.17","t213.23#vgns23.14","~t212.24#t0724a12","uv-kg23#479"]
     },
     {
-        "parallels": ["uv23#23.18","t213.23#vgns23.15","~t212.24#t0724a12","uv-kg23#23.18"]
+        "parallels": ["uv23#23.18","t213.23#vgns23.15","~t212.24#t0724a12","uv-kg23#23.18-19"]
     },
     {
         "parallels": ["uv23#23.20","t213.23#vgns23.16","~t212.24#t0724a12"]
@@ -13506,259 +13527,268 @@
         "parallels": ["uv30#30.9","t212.31#vgns31.10","t213.30#vgns30.10","uv-kg30#726"]
     },
     {
-        "parallels": ["uv31#31.25","t210.9#vgns9.3","t212.32#vgns32.18","t213.31#vgns31.15","uv-kg31#31.25"]
+        "parallels": ["uv31#31.25","t210.9#vgns9.3","t212.32#vgns32.18","t213.31#vgns31.15","uv-kg31#796"]
     },
     {
-        "parallels": ["uv31#31.26","t210.9#vgns9.4","t212.32#vgns32.19","t213.31#vgns31.16","uv-kg31#31.26"]
+        "parallels": ["uv31#31.26","t210.9#vgns9.4","t212.32#vgns32.19","t213.31#vgns31.16","uv-kg31#797"]
     },
     {
-        "parallels": ["uv31#31.3","t212.32#vgns32.3","t213.31#vgns31.3","uv-kg31#31.3"]
+        "parallels": ["uv31#31.3","t212.32#vgns32.3","t213.31#vgns31.3","uv-kg31#772"]
     },
     {
-        "parallels": ["uv31#31.30","t212.32#vgns32.24","t213.31#vgns31.19","uv-kg31#31.30"]
+        "parallels": ["uv31#31.30","t212.32#vgns32.24","t213.31#vgns31.19","uv-kg31#800"]
     },
     {
-        "parallels": ["uv31#31.31","~dhp371","~gdhp75","~pdhp33","~t210.34#vgns34.11","~t212.32#vgns32.25","~t212.33#vgns33.21","~t213.32#vgns32.18","uv-kg31#31.31"]
+        "parallels": ["uv31#31.31","~dhp371","~gdhp75","~pdhp33","~t210.34#vgns34.11","~t212.32#vgns32.25","~t212.33#vgns33.21","~t213.32#vgns32.18","uv-kg31#801"]
     },
     {
-        "parallels": ["uv31#31.33","t212.32#vgns32.27","t213.31#vgns31.22","uv-kg31#31.33"]
+        "parallels": ["uv31#31.33","t212.32#vgns32.27","t213.31#vgns31.22","uv-kg31#803"]
     },
     {
-        "parallels": ["uv31#31.34","t212.32#vgns32.28","t213.31#vgns31.23","uv-kg31#31.34"]
+        "parallels": ["uv31#31.34","t212.32#vgns32.28","t213.31#vgns31.23","uv-kg31#804"]
     },
     {
-        "parallels": ["uv31#31.36","t212.32#vgns32.30","t213.31#vgns31.25","uv-kg31#31.36"]
+        "parallels": ["uv31#31.36","t212.32#vgns32.30","t213.31#vgns31.25","uv-kg31#807"]
     },
     {
-        "parallels": ["uv31#31.38","uv-kg31#31.38"]
+        "parallels": ["uv31#31.38","uv-kg31#808"]
     },
     {
-        "parallels": ["uv31#31.4","t213.31#vgns31.4","t212.32#vgns32.4","uv-kg31#31.4"]
+        "parallels": ["uv31#31.4","t213.31#vgns31.4","t212.32#vgns32.4","uv-kg31#773"]
     },
     {
-        "parallels": ["uv31#31.40","t212.32#vgns32.32","t213.31#vgns31.27","uv-kg31#31.40"]
+        "parallels": ["uv31#31.40","t212.32#vgns32.32","t213.31#vgns31.27","uv-kg31#810"]
     },
     {
-        "parallels": ["uv31#31.41","t212.32#vgns32.33","t213.31#vgns31.28","uv-kg31#31.41"]
+        "parallels": ["uv31#31.41","t212.32#vgns32.33","t213.31#vgns31.28","uv-kg31#811"]
     },
     {
-        "parallels": ["uv31#31.42","t210.7#vgns7.9","t212.32#vgns32.35","t213.31#vgns31.29","uv-kg31#812-#814"]
+        "parallels": ["uv31#31.42","t210.7#vgns7.9","t212.32#vgns32.35","t213.31#vgns31.29","uv-kg31#814"]
     },
     {
-        "parallels": ["uv31#31.43","t212.32#vgns32.36","t213.31#vgns31.30","uv-kg31#31.43"]
+        "parallels": ["uv31#31.42A","uv-kg31#813"]
     },
     {
-        "parallels": ["uv31#31.44","t212.32#vgns32.38","t213.31#vgns31.32","~an4.37#7","~g3dhp9","uv-kg31#31.44"]
+        "parallels": ["uv31#31.42B","uv-kg31#812"]
     },
     {
-        "parallels": ["uv31#31.46","t212.32#vgns32.40","t213.31#vgns31.34","uv-kg31#31.46"]
+        "parallels": ["uv31#31.43","t212.32#vgns32.36","t213.31#vgns31.30","uv-kg31#815"]
     },
     {
-        "parallels": ["uv31#31.47","t212.32#vgns32.41","t213.31#vgns31.35","uv-kg31#31.47"]
+        "parallels": ["uv31#31.44","t212.32#vgns32.38","t213.31#vgns31.32","~an4.37#7","~g3dhp9","uv-kg31#816"]
     },
     {
-        "parallels": ["uv31#31.48","t212.32#vgns32.42","t213.31#vgns31.36","uv-kg31#31.48"]
+        "parallels": ["uv31#31.46","t212.32#vgns32.40","t213.31#vgns31.34","uv-kg31#818"]
     },
     {
-        "parallels": ["uv31#31.49","t212.32#vgns32.43","t213.31#vgns31.37","uv-kg31#31.49"]
+        "parallels": ["uv31#31.47","t212.32#vgns32.41","t213.31#vgns31.35","uv-kg31#819"]
     },
     {
-        "parallels": ["uv31#31.52","t212.32#vgns32.47","t213.31#vgns31.40","uv-kg31#31.52"]
+        "parallels": ["uv31#31.48","t212.32#vgns32.42","t213.31#vgns31.36","uv-kg31#820"]
     },
     {
-        "parallels": ["uv31#31.53","t212.32#vgns32.48","t213.31#vgns31.41","uv-kg31#31.53"]
+        "parallels": ["uv31#31.49","t212.32#vgns32.43","t213.31#vgns31.37","uv-kg31#821"]
     },
     {
-        "parallels": ["uv31#31.54","t212.32#vgns32.49","t213.31#vgns31.42","uv-kg31#31.54"]
+        "parallels": ["uv31#31.52","t212.32#vgns32.47","t213.31#vgns31.40","uv-kg31#824"]
     },
     {
-        "parallels": ["uv31#31.55","t212.32#vgns32.50","t213.31#vgns31.43","uv-kg31#31.55"]
+        "parallels": ["uv31#31.53","t212.32#vgns32.48","t213.31#vgns31.41","uv-kg31#825"]
     },
     {
-        "parallels": ["uv31#31.56","t212.32#vgns32.51","t213.31#vgns31.44","uv-kg31#31.56"]
+        "parallels": ["uv31#31.54","t212.32#vgns32.49","t213.31#vgns31.42","uv-kg31#826"]
     },
     {
-        "parallels": ["uv31#31.57","uv-kg31#31.57"]
+        "parallels": ["uv31#31.55","t212.32#vgns32.50","t213.31#vgns31.43","uv-kg31#827"]
     },
     {
-        "parallels": ["uv31#31.58","uv-kg31#31.58"]
+        "parallels": ["uv31#31.56","t212.32#vgns32.51","t213.31#vgns31.44","uv-kg31#828"]
     },
     {
-        "parallels": ["uv31#31.59","uv-kg31#31.59"]
+        "parallels": ["uv31#31.57","uv-kg31#829"]
     },
     {
-        "parallels": ["uv31#31.60","t212.32#vgns32.52","t213.31#vgns31.45","uv-kg31#31.60"]
+        "parallels": ["uv31#31.58","uv-kg31#830"]
     },
     {
-        "parallels": ["uv31#31.9","~dhp42","~ud4.3#8","uv-kg31#31.9"]
+        "parallels": ["uv31#31.59","uv-kg31#831"]
     },
     {
-        "parallels": ["uv32#32.1","~t210.34#vgns34.6","~t212.33#vgns33.1","~t213.32#vgns32.1","uv-kg32#32.1"]
+        "parallels": ["uv31#31.60","t212.32#vgns32.52","t213.31#vgns31.45","uv-kg31#832"]
     },
     {
-        "parallels": ["uv32#32.2","uv-kg32#32.2"]
+        "parallels": ["uv31#31.9","~dhp42","~ud4.3#8","uv-kg31#779"]
     },
     {
-        "parallels": ["uv32#32.22","uv-kg32#32.22"]
+        "parallels": ["uv32#32.1","~t210.34#vgns34.6","~t212.33#vgns33.1","~t213.32#vgns32.1","uv-kg32#833"]
     },
     {
-        "parallels": ["uv32#32.14","uv-kg32#32.14"]
+        "parallels": ["uv32#32.2","uv-kg32#834"]
     },
     {
-        "parallels": ["uv32#32.15","uv-kg32#32.15"]
+        "parallels": ["uv32#32.22","uv-kg32#854"]
     },
     {
-        "parallels": ["uv32#32.16","uv-kg32#32.16"]
+        "parallels": ["uv32#32.14","uv-kg32#846"]
     },
     {
-        "parallels": ["uv32#32.13","t212.33#vgns33.11","t213.32#vgns32.10","uv-kg32#32.13"]
+        "parallels": ["uv32#32.15","uv-kg32#847"]
     },
     {
-        "parallels": ["uv32#32.20","t212.33#vgns33.17","t213.32#vgns32.14","uv-kg32#32.20"]
+        "parallels": ["uv32#32.16","uv-kg32#848"]
     },
     {
-        "parallels": ["uv32#32.23","t212.33#vgns33.18","t213.32#vgns32.15","uv-kg32#32.23"]
+        "parallels": ["uv32#32.13","t212.33#vgns33.11","t213.32#vgns32.10","uv-kg32#845"]
     },
     {
-        "parallels": ["uv32#32.27","~dhp371","~gdhp75","~pdhp33","~t210.34#vgns34.11","~t212.32#vgns32.25","~t212.33#vgns33.21","~t213.32#vgns32.18","uv-kg32#32.27"]
+        "parallels": ["uv32#32.20","t212.33#vgns33.17","t213.32#vgns32.14","uv-kg32#852"]
     },
     {
-        "parallels": ["uv32#32.29","t212.33#vgns33.23","t213.32#vgns32.20","uv-kg32#32.29"]
+        "parallels": ["uv32#32.23","t212.33#vgns33.18","t213.32#vgns32.15","uv-kg32#855"]
     },
     {
-        "parallels": ["uv32#32.3","t212.33#vgns33.3","t213.32#vgns32.3","uv-kg32#32.3"]
+        "parallels": ["uv32#32.27","~dhp371","~gdhp75","~pdhp33","~t210.34#vgns34.11","~t212.32#vgns32.25","~t212.33#vgns33.21","~t213.32#vgns32.18","uv-kg32#859"]
     },
     {
-        "parallels": ["uv32#32.30","t212.33#vgns33.24","t213.32#vgns32.21","uv-kg32#32.30"]
+        "parallels": ["uv32#32.29","t212.33#vgns33.23","t213.32#vgns32.20","uv-kg32#861"]
     },
     {
-        "parallels": ["uv32#32.33","t210.34#vgns34.26","t212.33#vgns33.27","t213.32#vgns32.24","uv-kg32#865"]
+        "parallels": ["uv32#32.3","t212.33#vgns33.3","t213.32#vgns32.3","uv-kg32#835"]
     },
     {
-        "parallels": ["uv32#32.4","t212.33#vgns33.4","t213.32#vgns32.4","uv-kg32#32.4"]
+        "parallels": ["uv32#32.30","t212.33#vgns33.24","t213.32#vgns32.21","uv-kg32#862"]
     },
     {
-        "parallels": ["uv32#32.35","uv-kg32#32.35"]
+        "parallels": ["uv32#32.33","t210.34#vgns34.26","t212.33#vgns33.27","t213.32#vgns32.24","uv-kg32#863-#865"]
     },
     {
-        "parallels": ["uv32#32.36","uv-kg32#32.36"]
+        "parallels": ["uv32#32.34","uv-kg32#865"]
     },
     {
-        "parallels": ["uv32#32.37","uv-kg32#32.37"]
+        "parallels": ["uv32#32.4","t212.33#vgns33.4","t213.32#vgns32.4","uv-kg32#836"]
     },
     {
-        "parallels": ["uv32#32.38","uv-kg32#32.38"]
+        "parallels": ["uv32#32.35","uv-kg32#866"]
     },
     {
-        "parallels": ["uv32#32.39","uv-kg32#32.39"]
+        "parallels": ["uv32#32.36","uv-kg32#867"]
     },
     {
-        "parallels": ["uv32#32.52","uv-kg32#32.52"]
+        "parallels": ["uv32#32.37","uv-kg32#868"]
     },
     {
-        "parallels": ["uv32#32.53","uv-kg32#32.53"]
+        "parallels": ["uv32#32.38","uv-kg32#869"]
     },
     {
-        "parallels": ["uv32#32.42","uv-kg32#873-#874"]
+        "parallels": ["uv32#32.39","uv-kg32#870"]
     },
     {
-        "parallels": ["uv32#32.46","uv-kg32#875-#876"]
+        "parallels": ["uv32#32.52","uv-kg32#881"]
     },
     {
-        "parallels": ["uv32#32.40","t212.33#vgns33.29","t213.32#vgns32.26","uv-kg32#871-#872"]
+        "parallels": ["uv32#32.53","uv-kg32#882"]
     },
     {
-        "parallels": ["uv32#32.41","t212.33#vgns33.30","t213.32#vgns32.27"]
+        "parallels": ["uv32#32.42","uv-kg32#874"]
     },
     {
-        "parallels": ["uv32#32.43","t212.33#vgns33.32","t213.32#vgns32.29"]
+        "parallels": ["uv32#32.46","uv-kg32#876"]
+    },
+    {
+        "parallels": ["uv32#32.40","t212.33#vgns33.29","t213.32#vgns32.26","uv-kg32#872"]
+    },
+    {
+        "parallels": ["uv32#32.41","t212.33#vgns33.30","t213.32#vgns32.27","uv-kg32#871"]
+    },
+    {
+        "parallels": ["uv32#32.43","t212.33#vgns33.32","t213.32#vgns32.29","uv-kg32#873"]
     },
     {
         "parallels": ["uv32#32.45","t212.33#vgns33.31","t213.32#vgns32.28"]
     },
     {
-        "parallels": ["uv32#32.47","t212.33#vgns33.33","t213.32#vgns32.30"]
+        "parallels": ["uv32#32.47","t212.33#vgns33.33","t213.32#vgns32.30","uv-kg32#875"]
     },
     {
-        "parallels": ["uv32#32.48","t213.32#vgns32.48","uv-kg32#32.48"]
+        "parallels": ["uv32#32.48","t213.32#vgns32.48","uv-kg32#877"]
     },
     {
-        "parallels": ["uv32#32.49","t213.32#vgns32.49","uv-kg32#32.49"]
+        "parallels": ["uv32#32.49","t213.32#vgns32.49","uv-kg32#878"]
     },
     {
-        "parallels": ["uv32#32.50","t213.32#vgns32.50","uv-kg32#32.50"]
+        "parallels": ["uv32#32.50","t213.32#vgns32.50","uv-kg32#879"]
     },
     {
-        "parallels": ["uv32#32.51","t213.32#vgns32.51","uv-kg32#32.51"]
+        "parallels": ["uv32#32.51","t213.32#vgns32.51","uv-kg32#880"]
     },
     {
-        "parallels": ["uv32#32.54","t212.33#vgns33.35","t213.32#vgns32.33","uv-kg32#32.54"]
+        "parallels": ["uv32#32.54","t212.33#vgns33.35","t213.32#vgns32.33","uv-kg32#883"]
     },
     {
-        "parallels": ["uv32#32.55","t212.33#vgns33.36","t213.32#vgns32.34","uv-kg32#32.55"]
+        "parallels": ["uv32#32.55","t212.33#vgns33.36","t213.32#vgns32.34","uv-kg32#884"]
     },
     {
         "parallels": ["uv32#32.56","t212.33#vgns33.37","t213.32#vgns32.35"]
     },
     {
-        "parallels": ["uv32#32.62","t213.32#vgns32.53","uv-kg32#32.62"]
+        "parallels": ["uv32#32.62","t213.32#vgns32.53","uv-kg32#885"]
     },
     {
-        "parallels": ["uv32#32.63","t213.32#vgns32.54","uv-kg32#32.63"]
+        "parallels": ["uv32#32.63","t213.32#vgns32.54","uv-kg32#886"]
     },
     {
-        "parallels": ["uv32#32.64","t213.32#vgns32.55","uv-kg32#32.64"]
+        "parallels": ["uv32#32.64","t213.32#vgns32.55","uv-kg32#887"]
     },
     {
-        "parallels": ["uv32#32.65","t213.32#vgns32.56","uv-kg32#32.65"]
+        "parallels": ["uv32#32.65","t213.32#vgns32.56","uv-kg32#888"]
     },
     {
-        "parallels": ["uv32#32.66","uv-kg32#32.66"]
+        "parallels": ["uv32#32.66","uv-kg32#889"]
     },
     {
-        "parallels": ["uv32#32.67","uv-kg32#32.67"]
+        "parallels": ["uv32#32.67","uv-kg32#890"]
     },
     {
-        "parallels": ["uv32#32.72","uv-kg32#32.72"]
+        "parallels": ["uv32#32.72","uv-kg32#895"]
     },
     {
-        "parallels": ["uv32#32.73","uv-kg32#32.73"]
+        "parallels": ["uv32#32.73","uv-kg32#896"]
     },
     {
-        "parallels": ["uv32#32.77","uv-kg32#32.77"]
+        "parallels": ["uv32#32.77","uv-kg32#899"]
     },
     {
-        "parallels": ["uv32#32.80","uv-kg32#32.80"]
+        "parallels": ["uv32#32.80","uv-kg32#902"]
     },
     {
-        "parallels": ["uv32#32.68","t213.32#vgns32.58","uv-kg32#32.68"]
+        "parallels": ["uv32#32.68","t213.32#vgns32.58","uv-kg32#891"]
     },
     {
-        "parallels": ["uv32#32.69","t213.32#vgns32.59","uv-kg32#32.69"]
+        "parallels": ["uv32#32.69","t213.32#vgns32.59","uv-kg32#892"]
     },
     {
-        "parallels": ["uv32#32.70","t213.32#vgns32.60","uv-kg32#32.70"]
+        "parallels": ["uv32#32.70","t213.32#vgns32.60","uv-kg32#893"]
     },
     {
-        "parallels": ["uv32#32.71","t213.32#vgns32.61","uv-kg32#32.71"]
+        "parallels": ["uv32#32.71","t213.32#vgns32.61","uv-kg32#894"]
     },
     {
-        "parallels": ["uv32#32.75","t212.33#vgns33.38","t213.32#vgns32.36","uv-kg32#32.75"]
+        "parallels": ["uv32#32.75","t212.33#vgns33.38","t213.32#vgns32.36","uv-kg32#897"]
     },
     {
-        "parallels": ["uv32#32.76","t212.33#vgns33.39","t213.32#vgns32.37","uv-kg32#32.76"]
+        "parallels": ["uv32#32.76","t212.33#vgns33.39","t213.32#vgns32.37","uv-kg32#898"]
     },
     {
-        "parallels": ["uv32#32.78","t212.33#vgns33.40","t213.32#vgns32.38","uv-kg32#32.78"]
+        "parallels": ["uv32#32.78","t212.33#vgns33.40","t213.32#vgns32.38","uv-kg32#900"]
     },
     {
-        "parallels": ["uv32#32.79","t212.33#vgns33.41","t213.32#vgns32.39","uv-kg32#32.79"]
+        "parallels": ["uv32#32.79","t212.33#vgns33.41","t213.32#vgns32.39","uv-kg32#901"]
     },
     {
-        "parallels": ["uv32#32.81","t212.33#vgns33.45","t213.32#vgns32.63","uv-kg32#32.81"]
+        "parallels": ["uv32#32.81","t212.33#vgns33.45","t213.32#vgns32.63","uv-kg32#903"]
     },
     {
-        "parallels": ["uv32#32.82","t212.33#vgns33.46","t213.32#vgns32.64","uv-kg32#32.82"]
+        "parallels": ["uv32#32.82","t212.33#vgns33.46","t213.32#vgns32.64","uv-kg32#904"]
     },
     {
         "parallels": ["uv33#33.10","t210.35#vgns35.6","t212.34#vgns34.12","t213.33#vgns33.11","uv-kg33#915"]
@@ -13827,7 +13857,7 @@
         "parallels": ["uv33#33.56","uv-kg33#967"]
     },
     {
-        "parallels": ["uv33#33.55","~dhp37","~pdhp344","~t210.11#vgns11.4","~t212.34#vgns34.58","~t213.33#vgns33.55","~uv31#31.8A","~uv-kg31#31.8A","uv-kg33#969"]
+        "parallels": ["uv33#33.55","~dhp37","~pdhp344","~t210.11#vgns11.4","~t212.34#vgns34.58","~t213.33#vgns33.55","~uv31#31.8A","~uv-kg31#778","uv-kg33#969"]
     },
     {
         "parallels": ["uv33#33.57","t212.34#vgns34.59","t213.33#vgns33.56","uv-kg33#970"]
@@ -18858,7 +18888,7 @@
         "parallels": ["ud2.10#9","pli-tv-kd17#10"]
     },
     {
-        "parallels": ["ud3.10#8","san-lo-mvu64#496","uv32#32.33-#32.39","uv-kg32#865-#870"]
+        "parallels": ["ud3.10#8","san-lo-mvu64#496","uv32#32.33-#32.39","uv-kg32#864-#870"]
     },
     {
         "mentions": ["ud2.2#6","pe2#172","ne37#345"]
