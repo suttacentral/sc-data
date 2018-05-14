@@ -1405,6 +1405,12 @@
   },
   {
     "type": "edition",
+    "uid": "chandako",
+    "short_name": "Chandako",
+    "long_name": "Ajahn Chandako"
+  },
+  {
+    "type": "edition",
     "uid": "chandra",
     "short_name": "Chandra",
     "long_name": "Lokesh Chandra"
