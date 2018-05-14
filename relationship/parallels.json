@@ -12696,10 +12696,10 @@
         "parallels": ["ud6.3#3","~dhp228","~gdhp240","~pdhp284","~t210.25#vgns25.9","~t212.30#vgns30.37","~t213.29#vgns29.41","~uv29#29.46","~uv-kg29#708"]
     },
     {
-        "parallels": ["uv1#1.24","~t213.1#vgns1.25","uv-kg1#24","~dhp126","~pdhp274","~t210.17#vgns17.20","~t212.1#vgns1.48"]
+        "parallels": ["uv-kg1#1.24","t213.1#vgns1.25-#vgns1.26","~uv1#1.24","~dhp126","~pdhp274","~t210.17#vgns17.20","~t212.1#vgns1.48"]
     },
     {
-        "parallels": ["dhp126","pdhp274","t210.17#vgns17.20","t212.1#vgns1.48","t213.1#vgns1.25","~uv1#1.24","~uv-kg1#24"]
+        "parallels": ["uv1#1.24","t213.1#vgns1.25","dhp126","pdhp274","t210.17#vgns17.20","t212.1#vgns1.48","~uv-kg1#24"]
     },
     {
         "parallels": ["uv10#10.10","t210.4#vgns4.10","t212.11#vgns11.11","t213.10#vgns10.11","uv-kg10#222"]
