@@ -10,7 +10,7 @@
 {"_path": "kn/kp/kp8", "name": "Nidhikaṇḍa Sutta", "type": "text", "num": 8},
 {"_path": "kn/kp/kp9", "name": "Metta Sutta", "type": "text", "num": 9},
 
-{"_path": "kn/dhp", "name": "Dhammapada", "type": "text", "num": 2, "child_count": 26},
+{"_path": "kn/dhp", "name": "Dhammapada", "type": "div", "num": 2, "child_count": 26},
 {"_path": "kn/dhp/dhp1-20", "name": "Yamaka Vagga", "type": "text", "num": 1},
 {"_path": "kn/dhp/dhp21-32", "name": "Appamāda Vagga", "type": "text", "num": 2},
 {"_path": "kn/dhp/dhp33-43", "name": "Citta Vagga", "type": "text", "num": 3},
