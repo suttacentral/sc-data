@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:24+0000\n"
+"POT-Creation-Date: 2018-05-21 09:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn22/sn22.057.po\n"
-"X-Pootle-Revision: 4950\n"
+"X-Pootle-Revision: 9118\n"
 
 #. <section class="sutta" id="sn22.57"><article><div class="hgroup"><p class="division">
 msgctxt "sn22.57:0.1"
@@ -30,7 +30,7 @@ msgid "57. Sattaṭṭhānasutta"
 msgstr "57. Seven Cases"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.62"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.62"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn22.57:1.1"
 msgid "Sāvatthinidānaṃ."
@@ -169,7 +169,7 @@ msgid ""
 "rūpassa nissaraṇaṃ abhiññāya rūpassa nibbidāya virāgāya nirodhāya paṭipannā, "
 "te suppaṭipannā."
 msgstr ""
-"its origin, gratification, and escape—and are practicing for the "
+"its gratification, drawback, and escape—and are practicing for the "
 "disillusionment, fading away, and cessation of form: they are practicing "
 "well."
 
@@ -179,7 +179,7 @@ msgstr ""
 "Those who practice well have a firm footing in this teaching and training."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.63"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.63"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn22.57:5.1"
 msgid ""
@@ -188,7 +188,7 @@ msgid ""
 "rūpanirodhagāminiṃ paṭipadaṃ abhiññāya;"
 msgstr ""
 "Those ascetics and brahmins who have directly known form in this way—and its "
-"origin, its cessation, and the practice that leads to its cessation"
+"origin, its cessation, and the practice that leads to its cessation;"
 
 msgctxt "sn22.57:5.2"
 msgid ""
@@ -196,9 +196,9 @@ msgid ""
 "rūpassa nissaraṇaṃ abhiññāya rūpassa nibbidā virāgā nirodhā anupādā vimuttā, "
 "te suvimuttā."
 msgstr ""
-"its origin, gratification, and escape—and due to the disillusionment, fading "
-"away, and cessation of consciousness, are freed by not grasping: they are "
-"well freed."
+"its gratification, drawback, and escape—and due to the disillusionment, "
+"fading away, and cessation of form, are freed by not grasping: they are well "
+"freed."
 
 msgctxt "sn22.57:5.3"
 msgid "Ye suvimuttā, te kevalino."
@@ -216,11 +216,11 @@ msgstr "And what is feeling?"
 
 msgctxt "sn22.57:6.2"
 msgid "Chayime, bhikkhave, vedanākāyā—"
-msgstr "There are these six classes of feeling."
+msgstr "There are these six classes of feeling:"
 
 msgctxt "sn22.57:6.3"
 msgid "cakkhusamphassajā vedanā … pe …"
-msgstr "Feeling born of eye contact …"
+msgstr "feeling born of eye contact …"
 
 msgctxt "sn22.57:6.4"
 msgid "manosamphassajā vedanā."
@@ -321,12 +321,12 @@ msgstr "And what is perception?"
 
 msgctxt "sn22.57:10.2"
 msgid "Chayime, bhikkhave, saññākāyā—"
-msgstr "There are these six classes of perception."
+msgstr "There are these six classes of perception:"
 
 msgctxt "sn22.57:10.3"
 msgid ""
 "rūpasaññā, saddasaññā, gandhasaññā, rasasaññā, phoṭṭhabbasaññā, dhammasaññā."
-msgstr "Perceptions of sights, sounds, smells, tastes, touches, and thoughts."
+msgstr "perceptions of sights, sounds, smells, tastes, touches, and thoughts."
 
 msgctxt "sn22.57:10.4"
 msgid "Ayaṃ vuccati, bhikkhave, saññā."
@@ -356,7 +356,7 @@ msgid "vaṭṭaṃ tesaṃ natthi paññāpanāya."
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.64"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.64"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "sn22.57:11.1"
 msgid "Katame ca, bhikkhave, saṅkhārā?"
@@ -364,11 +364,11 @@ msgstr "And what are choices?"
 
 msgctxt "sn22.57:11.2"
 msgid "Chayime, bhikkhave, cetanākāyā—"
-msgstr "There are these six classes of intention."
+msgstr "There are these six classes of intention:"
 
 msgctxt "sn22.57:11.3"
 msgid "rūpasañcetanā … pe …"
-msgstr "Intention regarding sights …"
+msgstr "intention regarding sights …"
 
 msgctxt "sn22.57:11.4"
 msgid "dhammasañcetanā."
@@ -449,13 +449,13 @@ msgstr "And what is consciousness?"
 
 msgctxt "sn22.57:14.2"
 msgid "Chayime, bhikkhave, viññāṇakāyā—"
-msgstr "There are these six classes of consciousness."
+msgstr "There are these six classes of consciousness:"
 
 msgctxt "sn22.57:14.3"
 msgid ""
 "cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ, "
 "manoviññāṇaṃ."
-msgstr "Eye, ear, nose, tongue, body, and mind consciousness."
+msgstr "eye, ear, nose, tongue, body, and mind consciousness."
 
 msgctxt "sn22.57:14.4"
 msgid "Idaṃ vuccati, bhikkhave, viññāṇaṃ."
@@ -532,7 +532,7 @@ msgid ""
 "viññāṇassa nissaraṇaṃ abhiññāya viññāṇassa nibbidāya virāgāya nirodhāya "
 "paṭipannā, te suppaṭipannā."
 msgstr ""
-"its origin, gratification, and escape—and are practicing for the "
+"its gratification, drawback, and escape—and are practicing for the "
 "disillusionment, fading away, and cessation of consciousness: they are "
 "practicing well."
 
@@ -542,7 +542,7 @@ msgstr ""
 "Those who practice well have a firm footing in this teaching and training."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.65"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.65"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "sn22.57:17.1"
 msgid ""
@@ -560,9 +560,9 @@ msgid ""
 "viññāṇassa nissaraṇaṃ abhiññāya viññāṇassa nibbidā virāgā nirodhā anupādā "
 "vimuttā, te suvimuttā."
 msgstr ""
-"its origin, gratification, and escape—and due to the disillusionment, fading "
-"away, and cessation of consciousness, are freed by not grasping: they are "
-"well freed."
+"its gratification, drawback, and escape—and due to the disillusionment, "
+"fading away, and cessation of consciousness, are freed by not grasping: they "
+"are well freed."
 
 msgctxt "sn22.57:17.3"
 msgid "Ye suvimuttā, te kevalino."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:26+0000\n"
+"POT-Creation-Date: 2018-05-21 09:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgstr "157. Inappropriate Talk"
 
 # This is a difficult idiom to get right. I follow the Comm. reading of “puggalam puggalam”. BB has “weigh one type of person against the other”. Upanidhaya normally has the meaning of “compare”, but I am not sure how that makes sense here. You’re not comparing people, you’re assessing what is approppriate for this specific person. Comm. says “taṃ taṃ puggalaṃ upanikkhipitvā, sakkhiṃ katvā”, which (I think!) implies specificity rather than distribution, i.e. “examining that specific person”. As for the rest, I have translated according to the sense as best I can. The meaning is clear enough from what follows.
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.181"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.181"></a>
 #. <a class="sc" id="sc1"></a>
 #. VAR: puggale puggalaṃ → puggalaṃ puggalaṃ (bj, pts1)
 msgctxt "an5.157:1.1"
@@ -164,7 +164,7 @@ msgstr ""
 "That’s why it’s inappropriate to talk to an unlearned person about learning."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.182"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.182"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an5.157:5.1"
 msgid "Kasmā ca, bhikkhave, maccharissa cāgakathā dukkathā?"
@@ -332,7 +332,7 @@ msgstr ""
 "conduct."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.183"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.183"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "an5.157:10.1"
 msgid "Kasmā ca, bhikkhave, bahussutassa bāhusaccakathā sukathā?"

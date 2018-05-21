@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:22+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn27.po\n"
-"X-Pootle-Revision: 666\n"
+"X-Pootle-Revision: 199715\n"
 
 #. <section class="sutta" id="dn27"><article><div class="hgroup"><p class="division">
 msgctxt "dn27:0.1"
@@ -26,7 +26,7 @@ msgstr "The Origin of the World"
 
 #. </h1></div><p>
 #. <a class="pts-cs" id="pts-cs1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.80"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.80"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "dn27:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -91,7 +91,7 @@ msgid "“Evamāvuso”ti kho bhāradvājo vāseṭṭhassa paccassosi."
 msgstr "“Yes, reverend,” replied Bhāradvāja."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.81"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.81"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "dn27:2.7"
 msgid ""
@@ -177,7 +177,7 @@ msgstr "That’s how the brahmins insult us.”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.82"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.82"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "dn27:4.1"
 msgid "“Taggha vo, vāseṭṭha, brāhmaṇā porāṇaṃ assarantā evamāhaṃsu:"
@@ -309,7 +309,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.83"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.83"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "dn27:6.1"
 msgid ""
@@ -430,7 +430,7 @@ msgstr "And here’s a way to understand how this is so."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs8"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.84"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.84"></a>
 #. <a class="sc" id="sc9"></a>
 #. VAR: kho → kho pana (bj, mr)
 msgctxt "dn27:8.1"
@@ -572,7 +572,7 @@ msgstr ""
 "the sky, steadily glorious, and they remain like that for a very long time."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.85"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.85"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "dn27:10.4"
 msgid ""
@@ -689,7 +689,7 @@ msgstr "3. The Moon and Sun Appear"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs12"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.86"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.86"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "dn27:12.1"
 msgid ""
@@ -808,7 +808,7 @@ msgstr "4. Ground-Sprouts"
 # I am not sure why there is such uncertainty about pappaṭaka. Surely it must = papaṭikā = Skt prapāṭikā = shoots, sprouts.
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs14"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.87"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.87"></a>
 #. <a class="sc" id="sc16"></a>
 msgctxt "dn27:14.1"
 msgid ""
@@ -898,7 +898,7 @@ msgstr "And they were as sweet as pure manuka honey."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs15"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.88"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.88"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "dn27:15.1"
 msgid "Atha kho te, vāseṭṭha, sattā padālataṃ upakkamiṃsu paribhuñjituṃ."
@@ -1036,7 +1036,7 @@ msgstr "Due to this fever they had sex with each other."
 
 # Unless seṭṭhiṃ khipanti means “they threw millionares” I am stumped by this. Comm says “Seṭṭhinti chārikaṃ” which is equally plausible and unsupported. Mu Kd 17 has “pāṃśum api kṣipanti, loṣṭam api śarkarā api kapālāny api”, all of which are earthy: dust, mud lumps, potsherds, etc. Nevertheless, in the absence of anything better I follow comm.
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.89"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.89"></a>
 #. <a class="sc" id="sc23"></a>
 msgctxt "dn27:16.11"
 msgid ""
@@ -1156,7 +1156,7 @@ msgstr ""
 "once, thinking: ‘This seems fine.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.90"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.90"></a>
 #. <a class="sc" id="sc26"></a>
 msgctxt "dn27:17.13"
 msgid ""
@@ -1231,7 +1231,7 @@ msgstr "9. Dividing the Fields"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs18"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.91"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.91"></a>
 #. <a class="sc" id="sc29"></a>
 msgctxt "dn27:18.1"
 msgid "Atha kho te, vāseṭṭha, sattā sannipatiṃsu, sannipatitvā anutthuniṃsu:"
@@ -1485,7 +1485,7 @@ msgid "Mayaṃ panassa sālīnaṃ bhāgaṃ anuppadassāmā’ti."
 msgstr "We shall pay them with a share of rice.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.93"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.93"></a>
 #. <a class="sc" id="sc32"></a>
 msgctxt "dn27:20.5"
 msgid ""
@@ -1570,7 +1570,7 @@ msgstr "11. The Circle of Brahmins"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs22"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.94"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.94"></a>
 #. <a class="sc" id="sc34"></a>
 #. VAR: sattānaṃyeva → te sattānaṃyeva (s1, s2) | tesaṃ sattānaṃyeva (s3) | tesaṃ yeva kho vāseṭṭha sattānaṃ (pts1)
 msgctxt "dn27:22.1"
@@ -1790,7 +1790,7 @@ msgstr ""
 # A rare use of dhamma in this sense.
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs26"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.96"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.96"></a>
 #. <a class="sc" id="sc37"></a>
 msgctxt "dn27:26.1"
 msgid ""
@@ -1917,7 +1917,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs29"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.97"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.97"></a>
 #. <a class="sc" id="sc40"></a>
 msgctxt "dn27:29.1"
 msgid ""
@@ -2050,7 +2050,7 @@ msgid "Ahampi, vāseṭṭha, evaṃ vadāmi—"
 msgstr "I also say:"
 
 #. </p><blockquote class="gatha"><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.98"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.98"></a>
 #. <a class="sc" id="sc46"></a>
 msgctxt "dn27:32.8"
 msgid "Khattiyo seṭṭho janetasmiṃ,"

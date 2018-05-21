@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:24+0000\n"
+"POT-Creation-Date: 2018-05-21 09:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn22/sn22.089.po\n"
-"X-Pootle-Revision: 5014\n"
+"X-Pootle-Revision: 9303\n"
 
 #. <section class="sutta" id="sn22.89"><article><div class="hgroup"><p class="division">
 msgctxt "sn22.89:0.1"
@@ -28,10 +28,10 @@ msgstr "9. Senior Mendicants"
 #. VAR: 89. Khemakasutta → khemo (pts1)
 msgctxt "sn22.89:0.3"
 msgid "89. Khemakasutta"
-msgstr "89. Khemaka"
+msgstr "89. With Khemaka"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.127"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.127"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn22.89:1.1"
 msgid "Ekaṃ samayaṃ sambahulā therā bhikkhū kosambiyaṃ viharanti ghositārāme."
@@ -133,7 +133,9 @@ msgctxt "sn22.89:2.7"
 msgid ""
 "rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, "
 "saṅkhārupādānakkhandho, viññāṇupādānakkhandho."
-msgstr "form, feeling, perception, choices, and consciousness."
+msgstr ""
+"the grasping aggregates of form, feeling, perception, choices, and "
+"consciousness."
 
 msgctxt "sn22.89:2.8"
 msgid ""
@@ -144,7 +146,7 @@ msgstr ""
 "belonging to self?’”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.128"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.128"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn22.89:3.1"
 msgid ""
@@ -248,7 +250,7 @@ msgstr ""
 
 msgctxt "sn22.89:4.11"
 msgid "Tenahāyasmā khemako arahaṃ khīṇāsavo’”ti."
-msgstr "then he is a perfected one, with defilements ended.”"
+msgstr "then he is a perfected one, with defilements ended.’”"
 
 #. </p><p>
 #. <a class="sc" id="sc5"></a>
@@ -306,7 +308,7 @@ msgstr ""
 "‘I am’. But I don’t regard anything as ‘I am this’.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.129"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.129"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "sn22.89:6.1"
 msgid "Atha kho āyasmā dāsako yena therā bhikkhū … pe …"
@@ -436,7 +438,7 @@ msgid "ahameva yena therā bhikkhū tenupasaṅkamissāmī”ti."
 msgstr "I’ll go to see the senior mendicants myself.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.130"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.130"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "sn22.89:9.1"
 msgid ""
@@ -573,7 +575,7 @@ msgstr ""
 "‘I am’. But I don’t regard anything as ‘I am this’."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.131"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.131"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "sn22.89:11.1"
 msgid ""
@@ -590,7 +592,7 @@ msgid ""
 "So aparena samayena pañcasu upādānakkhandhesu udayabbayānupassī viharati—"
 msgstr ""
 "After some time they meditate observing rise and fall in the five grasping "
-"masses."
+"aggregates."
 
 msgctxt "sn22.89:11.3"
 msgid "iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo;"
@@ -677,7 +679,7 @@ msgid ""
 "So aparena samayena pañcasu upādānakkhandhesu udayabbayānupassī viharati."
 msgstr ""
 "After some time they meditate observing rise and fall in the five grasping "
-"masses."
+"aggregates."
 
 msgctxt "sn22.89:12.8"
 msgid "‘Iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo;"
@@ -709,7 +711,7 @@ msgid ""
 msgstr "As they do so, that lingering residue is uprooted.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.132"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.132"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "sn22.89:13.1"
 msgid "Evaṃ vutte, therā bhikkhū āyasmantaṃ khemakaṃ etadavocuṃ:"

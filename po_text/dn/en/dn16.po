@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-30 08:08+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn16.po\n"
-"X-Pootle-Revision: 8590\n"
+"X-Pootle-Revision: 204463\n"
 
 #. <section class="sutta" id="dn16"><article><div class="hgroup"><p class="division">
 msgctxt "dn16:0.1"
@@ -26,7 +26,7 @@ msgstr "The Great Discourse on the Buddha’s Extinguishment"
 
 #. </h1></div><p>
 #. <a class="pts-cs" id="pts-cs1.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.72"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.72"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "dn16:1.1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -62,7 +62,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.73"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.73"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "dn16:1.2.1"
 msgid ""
@@ -219,7 +219,7 @@ msgstr ""
 "expect growth, not decline."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.74"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.74"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "dn16:1.4.6"
 msgid ""
@@ -323,7 +323,7 @@ msgstr ""
 "decline."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.75"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.75"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "dn16:1.4.18"
 msgid ""
@@ -412,7 +412,7 @@ msgstr ""
 "expect growth, not decline.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.76"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.76"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "dn16:1.5.5"
 msgid "Evaṃ vutte, vassakāro brāhmaṇo magadhamahāmatto bhagavantaṃ etadavoca:"
@@ -540,7 +540,7 @@ msgstr ""
 "expect growth, not decline."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.77"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.77"></a>
 #. <a class="sc" id="sc16"></a>
 msgctxt "dn16:1.6.12"
 msgid ""
@@ -641,7 +641,7 @@ msgid "Bhagavā etadavoca:"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.78"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.78"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "dn16:1.7.4"
 msgid ""
@@ -723,7 +723,7 @@ msgstr ""
 "expect growth, not decline."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.79"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.79"></a>
 #. <a class="sc" id="sc32"></a>
 msgctxt "dn16:1.8.2"
 msgid "Aparepi vo, bhikkhave, satta aparihāniye dhamme desessāmi … pe …."
@@ -881,7 +881,7 @@ msgid ""
 msgstr "cessation, they can expect growth, not decline."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.80"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.80"></a>
 #. <a class="sc" id="sc38"></a>
 msgctxt "dn16:1.10.12"
 msgid ""
@@ -982,7 +982,7 @@ msgstr ""
 "suffering—they can expect growth, not decline."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.81"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.81"></a>
 #. <a class="sc" id="sc45"></a>
 msgctxt "dn16:1.11.10"
 msgid ""
@@ -1016,7 +1016,7 @@ msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
 msgctxt "dn16:1.12.3"
-msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgid "Sīlaparibhāvito immersion mahapphalo hoti mahānisaṃso."
 msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:1.12.4"
@@ -1077,7 +1077,7 @@ msgid "“iti sīlaṃ iti samādhi iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
 msgctxt "dn16:1.14.4"
-msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgid "Sīlaparibhāvito immersion mahapphalo hoti mahānisaṃso."
 msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:1.14.5"
@@ -1131,7 +1131,7 @@ msgstr "4. Sāriputta’s Lion’s Roar"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.16"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.82"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.82"></a>
 #. <a class="sc" id="sc49"></a>
 msgctxt "dn16:1.16.1"
 msgid ""
@@ -1246,7 +1246,7 @@ msgid "“No hetaṃ, bhante”."
 msgstr "“No, sir.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.83"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.83"></a>
 #. <a class="sc" id="sc53"></a>
 msgctxt "dn16:1.16.16"
 msgid ""
@@ -1358,7 +1358,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.18"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.84"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.84"></a>
 #. <a class="sc" id="sc55"></a>
 msgctxt "dn16:1.18.1"
 msgid ""
@@ -1373,7 +1373,7 @@ msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
 msgctxt "dn16:1.18.3"
-msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgid "Sīlaparibhāvito immersion mahapphalo hoti mahānisaṃso."
 msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:1.18.4"
@@ -1397,7 +1397,7 @@ msgstr "5. The Drawbacks of Unethical Conduct"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.85"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.85"></a>
 #. <a class="sc" id="sc56"></a>
 msgctxt "dn16:1.19.1"
 msgid ""
@@ -1605,7 +1605,7 @@ msgstr "6. The Benefits of Ethical Conduct"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.24"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.86"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.86"></a>
 #. <a class="sc" id="sc62"></a>
 msgctxt "dn16:1.24.1"
 msgid "Pañcime, gahapatayo, ānisaṃsā sīlavato sīlasampadāya."
@@ -1725,7 +1725,7 @@ msgstr "7. Building a Citadel"
 # Note nagara here, as often, means “citadel, fortress”, not “city”.
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.26"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.87"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.87"></a>
 #. <a class="sc" id="sc68"></a>
 msgctxt "dn16:1.26.1"
 msgid ""
@@ -1783,7 +1783,7 @@ msgid ""
 msgstr "The Buddha rose at the crack of dawn and addressed Ānanda:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.88"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.88"></a>
 #. <a class="sc" id="sc69"></a>
 #. VAR: kho → ko nu kho (bj, s1-3, km, pts1, mr)
 #. VAR: māpentī”ti → māpeti (si) | māpetīti (s1-3, km, pts1, mr)
@@ -1986,7 +1986,7 @@ msgid "mānitā mānayanti naṃ."
 msgstr "honored, they honor him."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.89"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.89"></a>
 #. <a class="sc" id="sc74"></a>
 msgctxt "dn16:1.31.10"
 msgid "Tato naṃ anukampanti,"
@@ -2133,7 +2133,7 @@ msgstr "8. Talk on the Noble Truths"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs2.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.90"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.90"></a>
 #. <a class="sc" id="sc81"></a>
 msgctxt "dn16:2.1.1"
 msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi:"
@@ -2225,7 +2225,7 @@ msgid "Idaṃ vatvāna sugato athāparaṃ etadavoca satthā:"
 msgstr "Then the Holy One, the Teacher, went on to say:"
 
 #. </p><blockquote class="gatha"><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.91"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.91"></a>
 #. <a class="sc" id="sc83"></a>
 msgctxt "dn16:2.3.3"
 msgid "“Catunnaṃ ariyasaccānaṃ,"
@@ -2283,7 +2283,7 @@ msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
 msgctxt "dn16:2.4.3"
-msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgid "Sīlaparibhāvito immersion mahapphalo hoti mahānisaṃso."
 msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:2.4.4"
@@ -2307,7 +2307,7 @@ msgstr "9. The Deaths in Nādika"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs2.5"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.92"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.92"></a>
 #. <a class="sc" id="sc86"></a>
 msgctxt "dn16:2.5.1"
 msgid ""
@@ -2420,7 +2420,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.7"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.93"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.93"></a>
 #. <a class="sc" id="sc87"></a>
 msgctxt "dn16:2.7.1"
 msgid ""
@@ -2614,7 +2614,7 @@ msgstr ""
 "people can know it for themselves.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.94"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.94"></a>
 #. <a class="sc" id="sc92"></a>
 msgctxt "dn16:2.9.7"
 msgid "Saṅghe aveccappasādena samannāgato hoti: "
@@ -2677,7 +2677,7 @@ msgid "“Iti sīlaṃ iti samādhi iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
 msgctxt "dn16:2.10.3"
-msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgid "Sīlaparibhāvito immersion mahapphalo hoti mahānisaṃso."
 msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:2.10.4"
@@ -2733,7 +2733,7 @@ msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.95"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.95"></a>
 #. <a class="sc" id="sc97"></a>
 msgctxt "dn16:2.12.2"
 msgid "“Sato, bhikkhave, bhikkhu vihareyya sampajāno, "
@@ -2878,7 +2878,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.15"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.96"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.96"></a>
 #. <a class="sc" id="sc100"></a>
 msgctxt "dn16:2.15.1"
 msgid ""
@@ -2964,7 +2964,7 @@ msgstr ""
 "matron!”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.97"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.97"></a>
 #. <a class="sc" id="sc101"></a>
 msgctxt "dn16:2.16.9"
 msgid "Atha kho te licchavī yena ambapālivanaṃ tena pāyiṃsu."
@@ -3062,7 +3062,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.98"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.98"></a>
 #. <a class="sc" id="sc102"></a>
 msgctxt "dn16:2.19.1"
 msgid ""
@@ -3140,7 +3140,7 @@ msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
 msgctxt "dn16:2.20.3"
-msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgid "Sīlaparibhāvito immersion mahapphalo hoti mahānisaṃso."
 msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:2.20.4"
@@ -3164,7 +3164,7 @@ msgstr "12. Commencing the Rains at Beluva"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs2.21"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.99"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.99"></a>
 #. <a class="sc" id="sc104"></a>
 msgctxt "dn16:2.21.1"
 msgid ""
@@ -3251,7 +3251,7 @@ msgid ""
 "“na kho metaṃ patirūpaṃ, yvāhaṃ anāmantetvā upaṭṭhāke anapaloketvā "
 "bhikkhusaṃghaṃ parinibbāyeyyaṃ."
 msgstr ""
-"“It would not be appropriate for me to become finally extinguished before "
+"“It would not be appropriate for me to become fully extinguished before "
 "informing my attendants and taking leave of the mendicant Saṅgha."
 
 msgctxt "dn16:2.23.5"
@@ -3314,12 +3314,12 @@ msgid ""
 "‘na tāva bhagavā parinibbāyissati, na yāva bhagavā bhikkhusaṃghaṃ ārabbha "
 "kiñcideva udāharatī’”ti."
 msgstr ""
-"the Buddha won’t become finally extinguished without making some statement "
+"the Buddha won’t become fully extinguished without making some statement "
 "regarding the Saṅgha of mendicants.”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.25"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.100"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.100"></a>
 #. <a class="sc" id="sc106"></a>
 #. VAR: paccāsīsati → paccāsiṃsati (bj, s1-3, km, pts1)
 msgctxt "dn16:2.25.1"
@@ -3468,7 +3468,7 @@ msgstr "13. An Obvious Hint"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs3.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.102"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.102"></a>
 #. <a class="sc" id="sc107"></a>
 msgctxt "dn16:3.1.1"
 msgid ""
@@ -3517,7 +3517,7 @@ msgid "Āyasmāpi kho ānando bhagavantaṃ abhivādetvā ekamantaṃ nisīdi."
 msgstr "Ānanda bowed to the Buddha and sat down to one side."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.103"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.103"></a>
 #. <a class="sc" id="sc108"></a>
 msgctxt "dn16:3.2.3"
 msgid "Ekamantaṃ nisinnaṃ kho āyasmantaṃ ānandaṃ bhagavā etadavoca:"
@@ -3582,7 +3582,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.5"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.104"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.104"></a>
 #. <a class="sc" id="sc109"></a>
 msgctxt "dn16:3.5.1"
 msgid "Dutiyampi kho bhagavā … pe …"
@@ -3676,7 +3676,7 @@ msgstr "14. The Appeal of Māra"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs3.7"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.105"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.105"></a>
 #. <a class="sc" id="sc110"></a>
 msgctxt "dn16:3.7.1"
 msgid ""
@@ -3692,9 +3692,9 @@ msgid ""
 "“parinibbātu dāni, bhante, bhagavā, parinibbātu sugato, parinibbānakālo "
 "dāni, bhante, bhagavato."
 msgstr ""
-"“Sir, may the Blessed One now become finally extinguished! May the Holy One "
-"now become finally extinguished! Now is the time for the Buddha to become "
-"finally extinguished."
+"“Sir, may the Blessed One now become fully extinguished! May the Holy One "
+"now become fully extinguished! Now is the time for the Buddha to become "
+"fully extinguished."
 
 msgctxt "dn16:3.7.3"
 msgid "Bhāsitā kho panesā, bhante, bhagavatā vācā:"
@@ -3732,9 +3732,9 @@ msgid ""
 "Parinibbātu dāni, bhante, bhagavā, parinibbātu sugato, parinibbānakālo dāni, "
 "bhante, bhagavato."
 msgstr ""
-"May the Blessed One now become finally extinguished! May the Holy One now "
-"become finally extinguished! Now is the time for the Buddha to become "
-"finally extinguished."
+"May the Blessed One now become fully extinguished! May the Holy One now "
+"become fully extinguished! Now is the time for the Buddha to become fully "
+"extinguished."
 
 #. </p><p>
 #. <a class="sc" id="sc111"></a>
@@ -3768,9 +3768,9 @@ msgid ""
 "Parinibbātu dāni, bhante, bhagavā, parinibbātu sugato, parinibbānakālo dāni, "
 "bhante, bhagavato."
 msgstr ""
-"May the Blessed One now become finally extinguished! May the Holy One now "
-"become finally extinguished! Now is the time for the Buddha to become "
-"finally extinguished."
+"May the Blessed One now become fully extinguished! May the Holy One now "
+"become fully extinguished! Now is the time for the Buddha to become fully "
+"extinguished."
 
 #. </p><p>
 #. <a class="sc" id="sc112"></a>
@@ -3804,12 +3804,12 @@ msgid ""
 "Parinibbātu dāni, bhante, bhagavā, parinibbātu sugato, parinibbānakālo dāni, "
 "bhante, bhagavato."
 msgstr ""
-"May the Blessed One now become finally extinguished! May the Holy One now "
-"become finally extinguished! Now is the time for the Buddha to become "
-"finally extinguished."
+"May the Blessed One now become fully extinguished! May the Holy One now "
+"become fully extinguished! Now is the time for the Buddha to become fully "
+"extinguished."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.106"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.106"></a>
 #. <a class="sc" id="sc113"></a>
 msgctxt "dn16:3.8.11"
 msgid "Bhāsitā kho panesā, bhante, bhagavatā vācā:"
@@ -3841,9 +3841,9 @@ msgid ""
 "Parinibbātu dāni, bhante, bhagavā, parinibbātu sugato, parinibbānakālo dāni, "
 "bhante, bhagavato."
 msgstr ""
-"May the Blessed One now become finally extinguished! May the Holy One now "
-"become finally extinguished! Now is the time for the Buddha to become "
-"finally extinguished."
+"May the Blessed One now become fully extinguished! May the Holy One now "
+"become fully extinguished! Now is the time for the Buddha to become fully "
+"extinguished."
 
 #. </p><p>
 #. <a class="sc" id="sc114"></a>
@@ -3874,9 +3874,9 @@ msgid ""
 "Parinibbātu dāni, bhante, bhagavā, parinibbātu sugato, parinibbānakālo dāni, "
 "bhante, bhagavato”ti."
 msgstr ""
-"May the Blessed One now become finally extinguished! May the Holy One now "
-"become finally extinguished! Now is the time for the Buddha to become "
-"finally extinguished.”"
+"May the Blessed One now become fully extinguished! May the Holy One now "
+"become fully extinguished! Now is the time for the Buddha to become fully "
+"extinguished.”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.9"></a>
@@ -3904,7 +3904,7 @@ msgstr "15. Surrendering the Life Force"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs3.10"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.107"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.107"></a>
 #. <a class="sc" id="sc116"></a>
 msgctxt "dn16:3.10.1"
 msgid "Atha kho bhagavā cāpāle cetiye sato sampajāno āyusaṅkhāraṃ ossaji."
@@ -4013,7 +4013,7 @@ msgstr "What’s the cause, what’s the reason for a great earthquake?”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.13"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.108"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.108"></a>
 #. <a class="sc" id="sc120"></a>
 msgctxt "dn16:3.13.1"
 msgid ""
@@ -4138,7 +4138,7 @@ msgstr "This is the seventh cause and reason for a great earthquake."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.20"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.109"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.109"></a>
 #. <a class="sc" id="sc127"></a>
 msgctxt "dn16:3.20.1"
 msgid ""
@@ -4165,7 +4165,7 @@ msgstr "17. Eight Assemblies"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs3.21"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.110"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.110"></a>
 #. <a class="sc" id="sc128"></a>
 msgctxt "dn16:3.21.1"
 msgid "Aṭṭha kho imā, ānanda, parisā."
@@ -4427,7 +4427,7 @@ msgstr "This is the fifth dimension of mastery."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.30"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.111"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.111"></a>
 #. <a class="sc" id="sc134"></a>
 msgctxt "dn16:3.30.1"
 msgid ""
@@ -4549,7 +4549,7 @@ msgstr "19. The Eight Liberations"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs3.33"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.112"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.112"></a>
 #. <a class="sc" id="sc137"></a>
 msgctxt "dn16:3.33.1"
 msgid "Aṭṭha kho ime, ānanda, vimokkhā."
@@ -4678,9 +4678,9 @@ msgid ""
 "‘parinibbātu dāni, bhante, bhagavā; parinibbātu sugato, parinibbānakālo "
 "dāni, bhante, bhagavato’ti."
 msgstr ""
-"‘Sir, may the Blessed One now become finally extinguished! May the Holy One "
-"now become finally extinguished! Now is the time for the Buddha to become "
-"finally extinguished.’"
+"‘Sir, may the Blessed One now become fully extinguished! May the Holy One "
+"now become fully extinguished! Now is the time for the Buddha to become "
+"fully extinguished.’"
 
 msgctxt "dn16:3.34.4"
 msgid "Evaṃ vutte, ahaṃ, ānanda, māraṃ pāpimantaṃ etadavocaṃ:"
@@ -4688,7 +4688,7 @@ msgstr "When he had spoken, I said to Māra:"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.35"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.113"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.113"></a>
 #. <a class="sc" id="sc139"></a>
 msgctxt "dn16:3.35.1"
 msgid ""
@@ -4751,7 +4751,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.36"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.114"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.114"></a>
 #. <a class="sc" id="sc144"></a>
 msgctxt "dn16:3.36.1"
 msgid ""
@@ -4843,7 +4843,7 @@ msgstr "20. The Appeal of Ānanda"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs3.38"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.115"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.115"></a>
 #. <a class="sc" id="sc146"></a>
 msgctxt "dn16:3.38.1"
 msgid "Evaṃ vutte, āyasmā ānando bhagavantaṃ etadavoca:"
@@ -4968,7 +4968,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.41"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.116"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.116"></a>
 #. <a class="sc" id="sc149"></a>
 msgctxt "dn16:3.41.1"
 msgid "Ekamidāhaṃ, ānanda, samayaṃ rājagahe viharāmi gijjhakūṭe pabbate."
@@ -5035,7 +5035,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.42"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.117"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.117"></a>
 #. <a class="sc" id="sc150"></a>
 msgctxt "dn16:3.42.1"
 msgid ""
@@ -5179,7 +5179,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.46"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.118"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.118"></a>
 #. <a class="sc" id="sc152"></a>
 msgctxt "dn16:3.46.1"
 msgid ""
@@ -5266,7 +5266,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.48"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.119"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.119"></a>
 #. <a class="sc" id="sc153"></a>
 #. VAR: paṭikacceva → paṭigacceva (bj, pts1)
 #. VAR: etaṃ → evaṃ (s1-3, km, pts1)
@@ -5364,7 +5364,7 @@ msgstr "()"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3.50"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.120"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.120"></a>
 #. <a class="sc" id="sc155"></a>
 msgctxt "dn16:3.50.1"
 msgid ""
@@ -5497,7 +5497,7 @@ msgid "sacittamanurakkhatha."
 msgstr "take good care of your minds."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.121"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.121"></a>
 #. <a class="sc" id="sc159"></a>
 msgctxt "dn16:3.51.17"
 msgid "Yo imasmiṃ dhammavinaye,"
@@ -5531,7 +5531,7 @@ msgstr "21. The Elephant Look"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs4.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.122"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.122"></a>
 #. <a class="sc" id="sc160"></a>
 msgctxt "dn16:4.1.1"
 msgid ""
@@ -5565,7 +5565,7 @@ msgstr "“Yes, sir,” Ānanda replied."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.123"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.123"></a>
 #. <a class="sc" id="sc161"></a>
 msgctxt "dn16:4.2.1"
 msgid ""
@@ -5696,7 +5696,7 @@ msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
 msgctxt "dn16:4.4.3"
-msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgid "Sīlaparibhāvito immersion mahapphalo hoti mahānisaṃso."
 msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:4.4.4"
@@ -5720,7 +5720,7 @@ msgstr "22. The Four Great References"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs4.5"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.124"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.124"></a>
 #. <a class="sc" id="sc165"></a>
 msgctxt "dn16:4.5.1"
 msgid ""
@@ -5852,7 +5852,7 @@ msgstr "You should remember it. This is the first great reference."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.9"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.125"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.125"></a>
 #. <a class="sc" id="sc167"></a>
 msgctxt "dn16:4.9.1"
 msgid "Idha pana, bhikkhave, bhikkhu evaṃ vadeyya:"
@@ -6005,7 +6005,7 @@ msgstr "You should remember it. This is the third great reference."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.11"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.126"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.126"></a>
 #. <a class="sc" id="sc169"></a>
 msgctxt "dn16:4.11.1"
 msgid "Idha pana, bhikkhave, bhikkhu evaṃ vadeyya:"
@@ -6104,7 +6104,7 @@ msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
 msgctxt "dn16:4.12.3"
-msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgid "Sīlaparibhāvito immersion mahapphalo hoti mahānisaṃso."
 msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:4.12.4"
@@ -6128,7 +6128,7 @@ msgstr "23. On Cunda the Smith"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs4.13"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.127"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.127"></a>
 #. <a class="sc" id="sc171"></a>
 msgctxt "dn16:4.13.1"
 msgid ""
@@ -6304,7 +6304,7 @@ msgstr "()"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.20"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.128"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.128"></a>
 #. <a class="sc" id="sc173"></a>
 msgctxt "dn16:4.20.1"
 msgid ""
@@ -6380,7 +6380,7 @@ msgstr "24. Bringing a Drink"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs4.21"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.129"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.129"></a>
 #. <a class="sc" id="sc176"></a>
 msgctxt "dn16:4.21.1"
 msgid ""
@@ -6566,7 +6566,7 @@ msgstr "25. On Pukkusa the Mallian"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs4.26"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.130"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.130"></a>
 #. <a class="sc" id="sc179"></a>
 msgctxt "dn16:4.26.1"
 msgid ""
@@ -6746,7 +6746,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.30"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.132"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.132"></a>
 #. <a class="sc" id="sc181"></a>
 msgctxt "dn16:4.30.1"
 msgid "“Ekamidāhaṃ, pukkusa, samayaṃ ātumāyaṃ viharāmi bhusāgāre."
@@ -6894,7 +6894,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.34"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.133"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.133"></a>
 #. <a class="sc" id="sc183"></a>
 msgctxt "dn16:4.34.1"
 msgid "Evaṃ vutte, pukkuso mallaputto bhagavantaṃ etadavoca:"
@@ -7001,7 +7001,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.37"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.134"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.134"></a>
 #. <a class="sc" id="sc185"></a>
 msgctxt "dn16:4.37.1"
 msgid ""
@@ -7139,7 +7139,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.40"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.135"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.135"></a>
 #. <a class="sc" id="sc188"></a>
 msgctxt "dn16:4.40.1"
 msgid ""
@@ -7242,7 +7242,7 @@ msgstr "while Cunda sat there before him."
 
 #. </p></blockquote><p>
 #. <a class="pts-cs" id="pts-cs4.42"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.136"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.136"></a>
 #. <a class="sc" id="sc192"></a>
 #. VAR: kho → yo kho (mr)
 msgctxt "dn16:4.42.1"
@@ -7372,7 +7372,7 @@ msgstr "26. The Pair of Sal Trees"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs5.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.137"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.137"></a>
 #. <a class="sc" id="sc194"></a>
 msgctxt "dn16:5.1.1"
 msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi:"
@@ -7422,7 +7422,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.138"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.138"></a>
 #. <a class="sc" id="sc195"></a>
 msgctxt "dn16:5.2.1"
 msgid "Tena kho pana samayena yamakasālā sabbaphāliphullā honti akālapupphehi."
@@ -7539,7 +7539,7 @@ msgstr "27. The Monk Upavāṇa"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs5.4"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.139"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.139"></a>
 #. <a class="sc" id="sc197"></a>
 msgctxt "dn16:5.4.1"
 msgid ""
@@ -7697,7 +7697,7 @@ msgstr ""
 "world!’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.140"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.140"></a>
 #. <a class="sc" id="sc200"></a>
 msgctxt "dn16:5.6.4"
 msgid ""
@@ -7754,7 +7754,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.8"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.141"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.141"></a>
 #. <a class="sc" id="sc203"></a>
 msgctxt "dn16:5.8.1"
 msgid ""
@@ -7905,7 +7905,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.11"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.142"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.142"></a>
 #. <a class="sc" id="sc207"></a>
 msgctxt "dn16:5.11.1"
 msgid "“Kathaṃ pana, bhante, tathāgatassa sarīre paṭipajjitabban”ti?"
@@ -8029,7 +8029,7 @@ msgid ""
 msgstr "It is for this reason that a Realized One is worthy of a monument."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.143"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.143"></a>
 #. <a class="sc" id="sc210"></a>
 msgctxt "dn16:5.12.8"
 msgid "Kiñcānanda, atthavasaṃ paṭicca paccekasambuddho thūpāraho?"
@@ -8124,7 +8124,7 @@ msgstr "31. Ānanda’s Incredible Qualities"
 # kapisisa is door jamb, not lintel.
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs5.13"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.144"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.144"></a>
 #. <a class="sc" id="sc213"></a>
 msgctxt "dn16:5.13.1"
 msgid ""
@@ -8239,7 +8239,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.15"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.145"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.145"></a>
 #. <a class="sc" id="sc215"></a>
 msgctxt "dn16:5.15.1"
 msgid "Atha kho bhagavā bhikkhū āmantesi:"
@@ -8353,7 +8353,7 @@ msgid "Ime kho, bhikkhave, cattāro acchariyā abbhutā dhammā ānande."
 msgstr "These are the four incredible and amazing things about Ānanda."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.146"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.146"></a>
 #. <a class="sc" id="sc217"></a>
 msgctxt "dn16:5.16.16"
 msgid "Cattārome, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi."
@@ -8515,7 +8515,7 @@ msgstr "this is a little hamlet, a jungle hamlet, a branch hamlet."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.18"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.147"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.147"></a>
 #. <a class="sc" id="sc219"></a>
 msgctxt "dn16:5.18.1"
 msgid ""
@@ -8626,7 +8626,7 @@ msgstr "33. The Mallians Pay Homage"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs5.20"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.148"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.148"></a>
 #. <a class="sc" id="sc221"></a>
 #. VAR: sandhāgāre → santhāgāre (bj, pts1) | saṇṭhāgāre (s1-3, km)
 msgctxt "dn16:5.20.1"
@@ -8757,7 +8757,7 @@ msgstr "34. On Subhadda the Wanderer"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs5.23"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.149"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.149"></a>
 #. <a class="sc" id="sc223"></a>
 msgctxt "dn16:5.23.1"
 msgid ""
@@ -8815,7 +8815,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.24"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.150"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.150"></a>
 #. <a class="sc" id="sc224"></a>
 msgctxt "dn16:5.24.1"
 msgid ""
@@ -8919,7 +8919,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.25"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.151"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.151"></a>
 #. <a class="sc" id="sc225"></a>
 msgctxt "dn16:5.25.1"
 msgid ""
@@ -9097,7 +9097,7 @@ msgid "Ito bahiddhā samaṇopi natthi."
 msgstr "Outside of here there is no true ascetic."
 
 #. </p></blockquote><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.152"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.152"></a>
 #. <a class="sc" id="sc228"></a>
 msgctxt "dn16:5.27.11"
 msgid "Dutiyopi samaṇo natthi."
@@ -9187,7 +9187,7 @@ msgstr ""
 "satisfied, let them give me the going forth, the ordination into monkhood.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.153"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.153"></a>
 #. <a class="sc" id="sc230"></a>
 msgctxt "dn16:5.29.4"
 msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi:"
@@ -9265,7 +9265,7 @@ msgstr "35. The Buddha’s Last Words"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs6.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.154"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.154"></a>
 #. <a class="sc" id="sc231"></a>
 msgctxt "dn16:6.1.1"
 msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi:"
@@ -9346,7 +9346,7 @@ msgstr "but the mendicants should not advise or instruct him.”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.5"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.155"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.155"></a>
 #. <a class="sc" id="sc232"></a>
 msgctxt "dn16:6.5.1"
 msgid "Atha kho bhagavā bhikkhū āmantesi:"
@@ -9455,7 +9455,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.7"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.156"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.156"></a>
 #. <a class="sc" id="sc233"></a>
 msgctxt "dn16:6.7.1"
 msgid "Atha kho bhagavā bhikkhū āmantesi:"
@@ -9547,7 +9547,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.10"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.157"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.157"></a>
 #. <a class="sc" id="sc237"></a>
 msgctxt "dn16:6.10.1"
 msgid ""
@@ -9562,8 +9562,8 @@ msgctxt "dn16:6.10.2"
 msgid ""
 "Parinibbute bhagavati saha parinibbānā brahmāsahampati imaṃ gāthaṃ abhāsi:"
 msgstr ""
-"When the Buddha became fully extinguished, Sakka, lord of gods, recited this "
-"verse:"
+"When the Buddha became fully extinguished, Sakka, lord of gods, recited "
+"this verse:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc238"></a>
@@ -9594,7 +9594,7 @@ msgstr "the Realized One, attained to power,"
 #. <br>
 msgctxt "dn16:6.10.8"
 msgid "sambuddho parinibbuto”ti."
-msgstr "the Buddha became finally extinguished.”"
+msgstr "the Buddha became fully extinguished.”"
 
 #. </p></blockquote><p>
 #. <a class="sc" id="sc239"></a>
@@ -9602,8 +9602,8 @@ msgctxt "dn16:6.10.9"
 msgid ""
 "Parinibbute bhagavati saha parinibbānā sakko devānamindo imaṃ gāthaṃ abhāsi:"
 msgstr ""
-"When the Buddha became fully extinguished, Sakka, lord of gods, recited this "
-"verse:"
+"When the Buddha became fully extinguished, Sakka, lord of gods, recited "
+"this verse:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc240"></a>
@@ -9710,7 +9710,7 @@ msgstr "became fully extinguished.”"
 
 # Note that here the text omits kese pakiriya, for obvious reasons. The Pali is almost always incredibly precise in such tiny details!
 #. </p></blockquote><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.158"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.158"></a>
 #. <a class="sc" id="sc246"></a>
 msgctxt "dn16:6.10.28"
 msgid ""
@@ -9819,7 +9819,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.12"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.159"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.159"></a>
 #. <a class="sc" id="sc249"></a>
 msgctxt "dn16:6.12.1"
 msgid "Atha kho āyasmā anuruddho āyasmantaṃ ānandaṃ āmantesi:"
@@ -9949,7 +9949,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.14"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.160"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.160"></a>
 #. <a class="sc" id="sc252"></a>
 msgctxt "dn16:6.14.1"
 msgid "Atha kho sattamaṃ divasaṃ kosinārakānaṃ mallānaṃ etadahosi:"
@@ -10046,7 +10046,7 @@ msgstr "“Sir, let it be as the deities plan.”"
 # The sense of sandhi here is obscure. I think it means “covered without gaps”.
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.16"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.161"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.161"></a>
 #. <a class="sc" id="sc254"></a>
 #. VAR: santhatā → saṇṭhitā (s1-3, km)
 msgctxt "dn16:6.16.1"
@@ -10154,7 +10154,7 @@ msgid "“tena hi, bhaṇe, mallānaṃ vihataṃ kappāsaṃ sannipātethā”t
 msgstr "“So then, my men, collect uncarded cotton.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.162"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.162"></a>
 #. <a class="sc" id="sc256"></a>
 msgctxt "dn16:6.18.3"
 msgid ""
@@ -10253,7 +10253,7 @@ msgstr "“Conditions are impermanent. How could it possibly be otherwise?”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.20"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.163"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.163"></a>
 #. <a class="sc" id="sc258"></a>
 msgctxt "dn16:6.20.1"
 msgid ""
@@ -10376,7 +10376,7 @@ msgstr "“Sir, let it be as the deities plan.”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.22"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.164"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.164"></a>
 #. <a class="sc" id="sc260"></a>
 msgctxt "dn16:6.22.1"
 msgid ""
@@ -10509,7 +10509,7 @@ msgstr ""
 "Buddha’s relics. I will build a large monument for them.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.165"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.165"></a>
 #. <a class="sc" id="sc263"></a>
 msgctxt "dn16:6.24.5"
 msgid "Assosuṃ kho vesālikā licchavī:"
@@ -10644,7 +10644,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6.25"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.166"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.166"></a>
 #. <a class="sc" id="sc269"></a>
 msgctxt "dn16:6.25.1"
 msgid "Evaṃ vutte, kosinārakā mallā te saṅghe gaṇe etadavocuṃ:"
@@ -10783,7 +10783,7 @@ msgstr "40. Venerating the Relics"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs6.27"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.167"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.167"></a>
 #. <a class="sc" id="sc275"></a>
 msgctxt "dn16:6.27.1"
 msgid ""
@@ -10913,7 +10913,7 @@ msgid "Susakkataṃ sakkatasakkatehi."
 msgstr "is well honored by the honorable."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.168"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.168"></a>
 #. <a class="sc" id="sc279"></a>
 msgctxt "dn16:6.28.13"
 msgid "Devindanāgindanarindapūjito,"

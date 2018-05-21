@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:22+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn22.po\n"
-"X-Pootle-Revision: 656\n"
+"X-Pootle-Revision: 199711\n"
 
 #. <section class="sutta" id="dn22"><article><div class="hgroup"><p class="division">
 msgctxt "dn22:0.1"
@@ -26,7 +26,7 @@ msgstr "The Longer Discourse on Mindfulness Meditation"
 
 #. </h1></div><p>
 #. <a class="pts-cs" id="pts-cs1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.290"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.290"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "dn22:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -124,7 +124,7 @@ msgstr "1.1. Mindfulness of Breathing"
 
 #. </h3><p>
 #. <a class="pts-cs" id="pts-cs2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.291"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.291"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "dn22:2.1"
 msgid "Kathañca pana, bhikkhave, bhikkhu kāye kāyānupassī viharati?"
@@ -212,7 +212,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.292"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.292"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "dn22:2.11"
 msgid ""
@@ -331,7 +331,7 @@ msgstr ""
 "sitting, sleeping, waking, speaking, and keeping silent."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.293"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.293"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "dn22:4.2"
 msgid "Iti ajjhattaṃ vā … pe …"
@@ -378,7 +378,7 @@ msgstr ""
 "sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.294"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.294"></a>
 #. <a class="sc" id="sc16"></a>
 #. VAR: putoḷi → mūtoḷī (s1-3, km) | mutoli (pts1)
 msgctxt "dn22:5.3"
@@ -463,7 +463,7 @@ msgid "‘atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhāt�
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.295"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.295"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "dn22:6.6"
 msgid "Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe …"
@@ -518,7 +518,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs8"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.296"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.296"></a>
 #. <a class="sc" id="sc22"></a>
 #. VAR: kaṅkehi vā khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā khajjamānaṃ → suvānehi vā khajjamānaṃ sigālehi vā khajjamānaṃ (sī1, syā1-3, kaṃ), supāṇehi vā khajjamānaṃ sigālehi vā khajjamānaṃ (pā1)
 msgctxt "dn22:8.1"
@@ -578,7 +578,7 @@ msgid "Aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ …
 msgstr "A skeleton rid of flesh and blood, held together by sinews …"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.297"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.297"></a>
 #. <a class="sc" id="sc26"></a>
 #. VAR: aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ → aññena kaṭaṭṭhikaṃ aññena piṭṭhaṭṭhikaṃ aññena kaṇḍakaṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena uraṭṭhikaṃ aññena aṃsaṭṭhikaṃ aññena bāhuṭṭhikaṃ (syā1-3, kaṃ)
 #. VAR: aññena kaṭiṭṭhikaṃ → aññena piṭṭhiṭṭhikaṃ aññena kaṭaṭṭhikaṃ aññena khandhaṭṭhikaṃ aññena gīvaṭṭhikaṃ (sī1)
@@ -627,7 +627,7 @@ msgid "Aṭṭhikāni puñjakitāni terovassikāni … pe … (8)"
 msgstr "Decrepit bones, heaped in a pile …"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.298"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.298"></a>
 #. <a class="sc" id="sc29"></a>
 msgctxt "dn22:10.3"
 msgid "Aṭṭhikāni pūtīni cuṇṇakajātāni."
@@ -781,7 +781,7 @@ msgstr ""
 "neutral feeling.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.299"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.299"></a>
 #. <a class="sc" id="sc39"></a>
 msgctxt "dn22:11.11"
 msgid ""
@@ -860,7 +860,7 @@ msgstr ""
 "unfreed mind.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.300"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.300"></a>
 #. <a class="sc" id="sc56"></a>
 msgctxt "dn22:12.3"
 msgid ""
@@ -980,7 +980,7 @@ msgstr ""
 "again in the future."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.301"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.301"></a>
 #. <a class="sc" id="sc61"></a>
 msgctxt "dn22:13.7"
 msgid ""
@@ -1060,7 +1060,7 @@ msgstr "4.2. The Aggregates"
 
 #. </h3><p>
 #. <a class="pts-cs" id="pts-cs14"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.302"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.302"></a>
 #. <a class="sc" id="sc64"></a>
 msgctxt "dn22:14.1"
 msgid ""
@@ -1225,7 +1225,7 @@ msgid ""
 msgstr "They understand the body, touches, and the fetter …"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.303"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.303"></a>
 #. <a class="sc" id="sc71"></a>
 msgctxt "dn22:15.8"
 msgid ""
@@ -1348,7 +1348,7 @@ msgid ""
 msgstr "rapture …"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.304"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.304"></a>
 #. <a class="sc" id="sc77"></a>
 msgctxt "dn22:16.7"
 msgid ""
@@ -1474,7 +1474,7 @@ msgstr "4.5.1. The Truth of Suffering"
 
 #. </h4><p>
 #. <a class="pts-cs" id="pts-cs18"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.305"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.305"></a>
 #. <a class="sc" id="sc82"></a>
 msgctxt "dn22:18.1"
 msgid "Katamañca, bhikkhave, dukkhaṃ ariyasaccaṃ?"
@@ -1554,7 +1554,7 @@ msgid "idaṃ vuccati, bhikkhave, maraṇaṃ. (3)"
 msgstr "This is called death."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.306"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.306"></a>
 #. <a class="sc" id="sc86"></a>
 msgctxt "dn22:18.12"
 msgid "Katamo ca, bhikkhave, soko?"
@@ -1691,7 +1691,7 @@ msgid "ayaṃ vuccati, bhikkhave, piyehi vippayogo dukkho. (10)"
 msgstr "this is called separation from the liked is suffering."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.307"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.307"></a>
 #. <a class="sc" id="sc93"></a>
 msgctxt "dn22:18.33"
 msgid "Katamañca, bhikkhave, yampicchaṃ na labhati tampi dukkhaṃ?"
@@ -1798,7 +1798,7 @@ msgstr "4.5.2. The Origin of Suffering"
 
 #. </h4><p>
 #. <a class="pts-cs" id="pts-cs19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.308"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.308"></a>
 #. <a class="sc" id="sc95"></a>
 msgctxt "dn22:19.1"
 msgid "Katamañca, bhikkhave, dukkhasamudayaṃ ariyasaccaṃ?"
@@ -1933,7 +1933,7 @@ msgstr ""
 "that craving arises and settles."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.309"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.309"></a>
 #. <a class="sc" id="sc100"></a>
 msgctxt "dn22:19.25"
 msgid "Cakkhusamphasso loke …"
@@ -2114,7 +2114,7 @@ msgstr ""
 "that craving arises and settles."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.310"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.310"></a>
 #. <a class="sc" id="sc106"></a>
 msgctxt "dn22:19.61"
 msgid "Rūpavicāro loke …"
@@ -2278,7 +2278,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.311"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.311"></a>
 #. <a class="sc" id="sc112"></a>
 msgctxt "dn22:20.24"
 msgid "Cakkhusamphasso loke …"
@@ -2507,7 +2507,7 @@ msgstr ""
 "right effort, right mindfulness, and right immersion."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.312"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.312"></a>
 #. <a class="sc" id="sc120"></a>
 msgctxt "dn22:21.4"
 msgid "Katamā ca, bhikkhave, sammādiṭṭhi?"
@@ -2592,7 +2592,7 @@ msgid "Ayaṃ vuccati, bhikkhave, sammāājīvo. (5)"
 msgstr "This is called right livelihood."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.313"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.313"></a>
 #. <a class="sc" id="sc125"></a>
 msgctxt "dn22:21.19"
 msgid "Katamo ca, bhikkhave, sammāvāyāmo?"
@@ -2738,7 +2738,7 @@ msgstr ""
 "of suffering."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.314"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.314"></a>
 #. <a class="sc" id="sc128"></a>
 msgctxt "dn22:21.38"
 msgid ""
@@ -2849,7 +2849,7 @@ msgid "diṭṭheva dhamme aññā; sati vā upādisese anāgāmitā."
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.315"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.315"></a>
 #. <a class="sc" id="sc131"></a>
 msgctxt "dn22:22.13"
 msgid "Tiṭṭhantu, bhikkhave, satta māsāni."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:24+0000\n"
+"POT-Creation-Date: 2018-05-21 09:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,7 +54,7 @@ msgid "Bhagavā etadavoca:"
 msgstr "The Buddha said this:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.57"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.57"></a>
 #. <a class="sc" id="sc2"></a>
 #. VAR: Katamāni → katamāni ca (s1-3, km, pts1-2, mr)
 msgctxt "sn12.33:2.1"
@@ -194,7 +194,7 @@ msgstr ""
 
 # BB translates dhamma as principle here, which I feel is a little confusing. Of course it is true that pattern of the truths is a principle, and this is a fine translation. However it seems to me that the primary emphasis of the term here is not its application to the truths, but it’s contrast with anvaye nanam later. the two appear in a list of four with no mention of the truths in DN 333 and DN 34. Thus I see it as having a closer affinity to the phrase ditthevadhamme. It is referring to what may be directly seen in this very life.
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.58"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.58"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn12.33:5.1"
 msgid ""
@@ -275,7 +275,7 @@ msgstr ""
 "deathless’."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.59"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.59"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "sn12.33:9.1"
 msgid "Katamā ca, bhikkhave, jāti …"
