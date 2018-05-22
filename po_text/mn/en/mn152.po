@@ -28,11 +28,13 @@ msgstr "The Development of the Faculties"
 #. <a class="nya" id="nya1"></a>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.298"></a>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "mn152:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
 # Keep consistency with AN 10.28
+#. </span>
 #. VAR: gajaṅgalāyaṃ → kajaṅgalāyaṃ (bj, pts1) | kajjaṅgalāyaṃ (s1-3, km)
 #. VAR: suveḷuvane → mukheluvane (bj, pts1) | sukheluvane (si) | veḷuvane (s1-3, km)
 msgctxt "mn152:1.2"

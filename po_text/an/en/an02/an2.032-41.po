@@ -307,10 +307,12 @@ msgstr "36"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc36.1"></a>
+#. <span class="evam">
 msgctxt "an2.32-41:36.1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 msgctxt "an2.32-41:36.1.2"
 msgid ""
 "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
@@ -653,11 +655,13 @@ msgstr "37"
 #. </h1></div><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli1.66"></a>
 #. <a class="sc" id="sc37.1"></a>
+#. <span class="evam">
 msgctxt "an2.32-41:37.1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
 # Two completely different locations given. I have adopted the better attested one against the text.
+#. </span>
 #. VAR: bhaddasāritīre → kaddamadahatīre (bj, s1-3, km, pts1)
 msgctxt "an2.32-41:37.1.2"
 msgid "ekaṃ samayaṃ āyasmā mahākaccāno varaṇāyaṃ viharati bhaddasāritīre."
