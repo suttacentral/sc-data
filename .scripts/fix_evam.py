@@ -4,7 +4,6 @@ import pathlib
 from translate.storage.po import pofile
 
 source_dir = pathlib.Path('../').resolve()
-print(source_dir)
 
 po_dir = source_dir / 'po_text/'
 
