@@ -485,7 +485,7 @@
 {"_path": "kn/pv/pv-mahavagga/pv49", "name": "Bhogasaṃharaṇapetavatthu", "type": "text", "num": 14},
 {"_path": "kn/pv/pv-mahavagga/pv50", "name": "Seṭṭhiputtapetavatthu", "type": "text", "num": 15},
 {"_path": "kn/pv/pv-mahavagga/pv51", "name": "Saṭṭhikūṭapetavatthu", "type": "text", "num": 16},
-{"_path": "kn/thag", "name": "Theragāthā", "type": "div", "num": 8, "child_count": 21, "display_num": "8"},
+{"_path": "kn/thag", "name": "Theragāthā", "type": "div", "num": 8, "child_count": 21},
 {"_path": "kn/thag/thag-ekakanipata", "name": "Ekakanipāta", "type": "div", "num": 1, "child_count": 12, "display_num": "1"},
 {"_path": "kn/thag/thag-ekakanipata/thag-ekakanipata-pathamavagga", "name": "Paṭhama Vagga", "type": "div", "num": 1, "child_count": 10, "display_num": "1-10"},
 {"_path": "kn/thag/thag-ekakanipata/thag-ekakanipata-pathamavagga/thag1.1", "name": "Subhūtittheragāthā", "type": "text", "num": 1},
