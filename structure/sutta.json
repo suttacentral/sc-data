@@ -132726,6 +132726,28 @@
     "biblio_uid": "bro1962/2001"
   },
   {
+    "name": "Pavuvagga",
+    "uid": "gdhp-pavuvagga",
+    "subdivision_uid": "gdhp",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "pgd",
+    "acronym": "G-Dhp Pavuvagga",
+    "volpage": "Brough 1962/2001",
+    "biblio_uid": "bro1962/2001"
+  },
+  {
+    "name": "Arahavagga",
+    "uid": "gdhp-arahavagga",
+    "subdivision_uid": "gdhp",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "pgd",
+    "acronym": "G-Dhp Arahavagga",
+    "volpage": "Brough 1962/2001",
+    "biblio_uid": "bro1962/2001"
+  },
+  {
     "name": "Maguvagga 6.1",
     "uid": "gdhp97",
     "subdivision_uid": "gdhp",
@@ -133144,6 +133166,17 @@
     "biblio_uid": "bro1962/2001"
   },
   {
+    "name": "Unknown Vagga",
+    "uid": "gdhp-unknownvagga",
+    "subdivision_uid": "gdhp",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "pgd",
+    "acronym": "G-Dhp Unknown Vagga",
+    "volpage": "Brough 1962/2001",
+    "biblio_uid": "bro1962/2001"
+  },
+  {
     "name": "Citavagga 8.1",
     "uid": "gdhp135",
     "subdivision_uid": "gdhp",
@@ -133184,6 +133217,17 @@
     "number_in_vagga": 4,
     "language": "pgd",
     "acronym": "G-Dhp 138",
+    "volpage": "Brough 1962/2001",
+    "biblio_uid": "bro1962/2001"
+  },
+  {
+    "name": "Balavagga",
+    "uid": "gdhp-balavagga",
+    "subdivision_uid": "gdhp",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "pgd",
+    "acronym": "G-Dhp Balavagga",
     "volpage": "Brough 1962/2001",
     "biblio_uid": "bro1962/2001"
   },
