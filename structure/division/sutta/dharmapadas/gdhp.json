@@ -42,4 +42,13 @@
 
 {"_path": "/g2dhp", "acronym": "G2-Dhp", "name": "Gāndhārī 2nd Dharmapada", "type": "text", "num": 7},
 
-{"_path": "/g3dhp", "acronym": "G3-Dhp", "name": "Gāndhārī 3rd Dharmapada", "type": "text", "num": 8}]
+{"_path": "/g3dhp", "acronym": "G3-Dhp", "name": "Gāndhārī 3rd Dharmapada", "type": "div", "num": 8, "child_count": 9},
+{"_path": "/g3dhp/g3dhp1-10", "name": "Gāndhārī 3rd Dharmapada Verses 1–10", "type": "text", "num": 1},
+{"_path": "/g3dhp/g3dhp11-20", "name": "Gāndhārī 3rd Dharmapada Verses 11–20", "type": "text", "num": 2},
+{"_path": "/g3dhp/g3dhp21-30", "name": "Gāndhārī 3rd Dharmapada Verses 21–30", "type": "text", "num": 3},
+{"_path": "/g3dhp/g3dhp31-40", "name": "Gāndhārī 3rd Dharmapada Verses 31–40", "type": "text", "num": 4},
+{"_path": "/g3dhp/g3dhp41-50", "name": "Gāndhārī 3rd Dharmapada Verses 41–50", "type": "text", "num": 5},
+{"_path": "/g3dhp/g3dhp51-60", "name": "Gāndhārī 3rd Dharmapada Verses 51–60", "type": "text", "num": 6},
+{"_path": "/g3dhp/g3dhp61-70", "name": "Gāndhārī 3rd Dharmapada Verses 61–70", "type": "text", "num": 7},
+{"_path": "/g3dhp/g3dhp71-80", "name": "Gāndhārī 3rd Dharmapada Verses 71–73", "type": "text", "num": 8},
+{"_path": "/g3dhp/g3dhp81-90", "name": "Gāndhārī 3rd Dharmapada Verses 81–90", "type": "text", "num": 9}]
