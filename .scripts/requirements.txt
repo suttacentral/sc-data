@@ -1,3 +1,4 @@
+arrow==0.12.1
 astroid==1.6.4
 backcall==0.1.0
 decorator==4.3.0
@@ -16,9 +17,11 @@ prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 Pygments==2.2.0
 pylint==1.9.1
+python-arango==4.1.0
 regex==2018.2.21
 simplegeneric==0.8.1
 six==1.11.0
 traitlets==4.3.2
+translate-toolkit==2.3.0
 wcwidth==0.1.7
 wrapt==1.10.11
