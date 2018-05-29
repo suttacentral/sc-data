@@ -102,27 +102,31 @@ class Book:
         self.tempdir = tempfile.TemporaryDirectory()
         self.root = []
         self.images = []
-        self.uid_generator = map('{:04}'.format, itertools.count(1))
+        self.uid_generator = map('p{:04}'.format, itertools.count(1))
 
         self.path = pathlib.Path(self.tempdir.name).resolve()
-        (self.path / 'pages').mkdir()
-        (self.path / 'images').mkdir()
+        self.oebps = self.path / 'OEBPS'
+        self.oebps.mkdir()
+        
+        (self.oebps / 'pages').mkdir()
+        (self.oebps / 'images').mkdir()
+        (self.oebps / 'styles').mkdir()
 
         self.title = kwargs.get('title', 'Untitled')
         self.language = kwargs.get('language', 'en')
         self.author = kwargs.get('author', 'Unknown Author')
 
-    def add_page(self, title, content, parent=None):
+    def add_page(self, title, content, parent=None, uid=None):
         """Add a new page/chapter to the root of the book."""
         log.info('New page: {}'.format(title))
-
-        page = Page(next(self.uid_generator), title, [])
+        uid = uid or next(self.uid_generator)
+        page = Page(uid, title, [])
         self.root.append(page) if not parent else parent.children.append(page)
 
         file = template('page.xhtml')
         file('xhtml:title').text = title
         file('xhtml:body').append(lxml.html.fromstring(content))
-        file.write(self.path / 'pages' / (page.uid + '.xhtml'))
+        file.write(self.oebps / 'pages' / (page.uid + '.xhtml'))
         return page
 
     def add_image(self, name, data):
@@ -132,15 +136,11 @@ class Book:
         if name.endswith('.png'):
             media_type = 'image/png'
         self.images.append(Image(name, media_type))
-        with open(str(self.path / 'images' / name), 'wb') as file:
+        with open(str(self.oebps / 'images' / name), 'wb') as file:
             file.write(data)
-
-    def add_cover(self, data):
-        with open(str(self.path / 'cover.png'), 'wb') as file:
-            file.write(data)
-
+    
     def add_stylesheet(self, data):
-        with open(str(self.path / 'stylesheet.css'), 'w') as file:
+        with open(str(self.oebps / 'styles/stylesheet.css'), 'w') as file:
             file.write(data)
 
     def save(self, filename):
@@ -162,12 +162,11 @@ class Book:
     def _write_spine(self):
         spine = template('content.opf')
         now = arrow.utcnow().format('YYYY-MM-DDTHH:mm:ss')
-        spine(property='dcterms:modified').text = now
         spine('dc:date').text = now
         spine('dc:title').text = self.title
         spine('dc:creator').text = self.author
         spine('dc:language').text = self.language
-        spine(id='uuid_id').text = str(uuid.uuid4())
+        spine(id='BookID').text = str(uuid.uuid4())
 
         for page in flatten(self.root):
             lxml.etree.SubElement(
@@ -185,7 +184,7 @@ class Book:
                 id='img{:03}'.format(uid + 1),
                 **{'media-type': image.type})
 
-        spine.write(self.path / 'content.opf')
+        spine.write(self.oebps / 'content.opf')
 
     def _write_container(self):
         container = template('container.xml')
@@ -196,13 +195,13 @@ class Book:
     def _write_toc(self):
         toc = template('toc.ncx')
         toc('ncx:text').text = self.title
-        for page in self.root:
-            self._page_to_toc(page, toc('ncx:navMap'))
-        toc.write(self.path / 'toc.ncx')
+        for i, page in enumerate(self.root, 1):
+            self._page_to_toc(page, toc('ncx:navMap'), num=i)
+        toc.write(self.oebps / 'toc.ncx')
 
-    def _page_to_toc(self, page, node):
+    def _page_to_toc(self, page, node, num):
         navpoint = lxml.etree.SubElement(
-            node, 'navPoint', id=page.uid, playOrder=page.uid.lstrip('0'))
+            node, 'navPoint', id=page.uid, playOrder=str(num))
         navlabel = lxml.etree.SubElement(navpoint, 'navLabel')
         lxml.etree.SubElement(navlabel, 'text').text = page.title
         lxml.etree.SubElement(

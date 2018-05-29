@@ -6,13 +6,12 @@ import pathlib
 import json
 import regex
 
-client = arango.ArangoClient(protocol='http', host='localhost', port=8529)
-
-db = client.db('suttacentral', username='root', password='test')
-
 storage = pathlib.Path('./storage')
 
-subprocess.run(['docker', 'cp', 'sc-flask:/opt/sc/storage/', str(storage)], check=True)
+if not storage.exists():
+    client = arango.ArangoClient(protocol='http', host='localhost', port=8529)
+    db = client.db('suttacentral', username='root', password='test')
+    subprocess.run(['docker', 'cp', 'sc-flask:/opt/sc/storage/', str(storage)], check=True)
 
 def make_clean_html(uid):
 
@@ -32,9 +31,12 @@ def make_clean_html(uid):
     markup_string = regex.sub(r' *\n *', r'\n', markup_string)
     markup_string = regex.sub(r' +', ' ', markup_string)
     root = lxml.html.fromstring(markup_string)
-    for a in root.iter('a'):
-        a.drop_tag()
-    for p in root.iter('p'):
+    
+    for e in root.iter('a', 'article'):
+        e.drop_tag()
+    root.tag = 'div'
+    
+    for p in root.iter('p', 'blockquote'):
         tc = p.text_content()
         if not tc or tc.isspace():
             p.drop_tree()
@@ -46,3 +48,6 @@ def make_clean_html(uid):
     string = lxml.html.tostring(root, encoding='unicode')
     string = regex.sub(r'\s+</p>', '</p>', string)
     return string
+
+def epubcheck(filename):
+    subprocess.run(['epubcheck', str(filename)])

@@ -1,11 +1,17 @@
 import regex
 import lxml.html
 from epub import Book
-from po_to_html import make_clean_html
+from common import make_clean_html, epubcheck
 
 title = 'Long Discourses'
 author = 'Bhante Sujato'
 cover = 'cover.png'
+
+cover_page = '''
+<div>
+<img src="../images/cover.png" alt="Dhamma Wheel"/>
+</div>
+'''
 
 introduction_page = '''
 <h1>Long Discourses</h1>
@@ -16,16 +22,18 @@ introduction_page = '''
 stylesheet = '''
 '''
 
+outfile = 'dn-predraft.epub'
 
 book = Book(title=title, author=author)
-with open(cover, 'br') as f:
-    book.add_cover(f.read())
 book.add_stylesheet('\n')
-title_page = book.add_page(title='Introduction', content=introduction_page)
+book.add_image(name='cover.png', data=open(cover, 'rb').read())
+book.add_page(title=title, content=cover_page, uid='cover')
+title_page = book.add_page(title='Introduction', content=introduction_page, uid='intro')
 
 for uid in [f'dn{i}' for i in range(1, 35)]:
     chapter_content = make_clean_html(uid)
     chapter_title = regex.search('<h1>(.*)</h1>', chapter_content)[1].strip()
-    chapter = book.add_page(title=chapter_title, content=chapter_content)
+    chapter = book.add_page(title=chapter_title, content=chapter_content, uid=uid)
 
-book.save('dn-predraft.epub')
+book.save(outfile)
+epubcheck(outfile)
