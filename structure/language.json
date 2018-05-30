@@ -228,6 +228,18 @@
     "iso_code": "ar"
   },
   {
+    "uid": "au",
+    "name": "Aurebesh",
+    "is_root": false,
+    "iso_code": "au"
+  },
+  {
+    "uid": "bn",
+    "name": "Bengali",
+    "is_root": false,
+    "iso_code": "bn"
+  },
+  {
     "uid": "ca",
     "name": "Català",
     "is_root": false,
@@ -376,6 +388,12 @@
     "name": "Slovenščina",
     "is_root": false,
     "iso_code": "sl"
+  },
+  {
+    "uid": "sld",
+    "name": "Saarländisch",
+    "is_root": false,
+    "iso_code": "sld"
   },
   {
     "uid": "sr",

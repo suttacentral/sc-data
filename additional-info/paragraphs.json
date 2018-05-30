@@ -53,19 +53,27 @@
   },
   {
     "uid": "bm",
-    "description": "Paragraph numbers in Bhikkhu Mettiko."
+    "description": "Paragraph numbers in Bhikkhu Mettiko"
   },
   {
     "uid": "bn",
-    "description": "Paragraph numbers in Bhikkhu Ñāṇadassana."
+    "description": "Paragraph numbers in Bhikkhu Ñāṇadassana"
   },
   {
     "uid": "bps",
     "description": "Buddhist Publication Society"
   },
   {
+    "uid": "bs",
+    "description": "Verse numbers by Bhikkhu Santagavesaka"
+  },
+  {
     "uid": "bv",
     "description": "Sutta numbers in buddha-vacana.org"
+  },
+  {
+    "uid": "by",
+    "description": "Verse numbers by Bhikkhuni Yun’an"
   },
   {
     "uid": "d-vp",
@@ -106,6 +114,10 @@
   {
     "uid": "fol",
     "description": "Folio number in the manuscript."
+  },
+  {
+    "uid": "gl",
+    "description": "Verse numbers by Guo Liangjun."
   },
   {
     "uid": "gn",
@@ -218,6 +230,10 @@
   {
     "uid": "mc",
     "description": "Verse numbes in Patna Dharmapada, Margaret Cone"
+  },
+  {
+    "uid": "mb",
+    "description": "Verse numbes by Bhikkhu Mahinda"
   },
   {
     "uid": "mkv",
@@ -590,6 +606,10 @@
   {
     "uid": "wrh",
     "description": "Paragraph numbers in Woodville Rockhill."
+  },
+  {
+    "uid": "wx",
+    "description": "Verse numbers by Wuxing/Wu Laoze"
   },
   {
     "uid": "yam72",

@@ -781,6 +781,48 @@
   },
   {
     "type": "author",
+    "uid": "liangjun",
+    "short_name": "Liangjun",
+    "long_name": "Guo Liangjun"
+  },
+  {
+    "type": "author",
+    "uid": "santagavesaka",
+    "short_name": "Santagavesaka",
+    "long_name": "Bhikkhu Santagavesaka"
+  },
+  {
+    "type": "author",
+    "uid": "mahinda",
+    "short_name": "Mahinda",
+    "long_name": "Bhikkhu Mahinda"
+  },
+  {
+    "type": "author",
+    "uid": "wuxing",
+    "short_name": "Wuxing",
+    "long_name": "Wuxing"
+  },
+  {
+    "type": "author",
+    "uid": "yunan",
+    "short_name": "Yun’an",
+    "long_name": "Bhikkhuni Yun’an"
+  },
+  {
+    "type": "author",
+    "uid": "sabbamitta",
+    "short_name": "Sabbamittā",
+    "long_name": "Anagarika Sabbamittā"
+  },
+  {
+    "type": "author",
+    "uid": "amidala",
+    "short_name": "Amidala",
+    "long_name": "Padmé Amidala"
+  },
+  {
+    "type": "author",
     "uid": "maes",
     "short_name": "Maës",
     "long_name": "Christian Maës"
@@ -1222,6 +1264,12 @@
     "uid": "thanissaro",
     "short_name": "Thanissaro",
     "long_name": "Thanissaro Bhikkhu"
+  },
+  {
+    "type": "author",
+    "uid": "amaravati",
+    "short_name": "Amaravati",
+    "long_name": "The Amaravati Sangha"
   },
   {
     "type": "author",
