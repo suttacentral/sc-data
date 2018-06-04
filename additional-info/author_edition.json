@@ -373,6 +373,12 @@
   },
   {
     "type": "author",
+    "uid": "hu",
+    "short_name": "Hû",
+    "long_name": "Fernand Hû"
+  },
+  {
+    "type": "author",
     "uid": "galadriel",
     "short_name": "Galadriel",
     "long_name": "Galadriel"
@@ -772,6 +778,66 @@
     "uid": "lucjan",
     "short_name": "Łucjan",
     "long_name": "Paweł Łucjan"
+  },
+  {
+    "type": "author",
+    "uid": "liangjun",
+    "short_name": "Liangjun",
+    "long_name": "Guo Liangjun"
+  },
+  {
+    "type": "author",
+    "uid": "santagavesaka",
+    "short_name": "Santagavesaka",
+    "long_name": "Bhikkhu Santagavesaka"
+  },
+  {
+    "type": "author",
+    "uid": "mahinda",
+    "short_name": "Mahinda",
+    "long_name": "Bhikkhu Mahinda"
+  },
+  {
+    "type": "author",
+    "uid": "wuxing",
+    "short_name": "Wuxing",
+    "long_name": "Wuxing"
+  },
+  {
+    "type": "author",
+    "uid": "yunan",
+    "short_name": "Yun’an",
+    "long_name": "Bhikkhuni Yun’an"
+  },
+  {
+    "type": "author",
+    "uid": "sabbamitta",
+    "short_name": "Sabbamittā",
+    "long_name": "Anagarika Sabbamittā"
+  },
+  {
+    "type": "author",
+    "uid": "mor",
+    "short_name": "Mor",
+    "long_name": "Mor"
+  },
+  {
+    "type": "author",
+    "uid": "guimaraes",
+    "short_name": "Guimarães",
+    "long_name": "Pedro Guimarães"
+  },
+  {
+    "type": "author",
+    "uid": "durall",
+    "short_name": "Durall",
+    "long_name": "Nil Durall"
+  },
+  {
+    "type": "author",
+    "uid": "amidala",
+    "short_name": "Amidala",
+    "long_name": "Padmé Amidala"
   },
   {
     "type": "author",
@@ -1216,6 +1282,12 @@
     "uid": "thanissaro",
     "short_name": "Thanissaro",
     "long_name": "Thanissaro Bhikkhu"
+  },
+  {
+    "type": "author",
+    "uid": "amaravati",
+    "short_name": "Amaravati",
+    "long_name": "The Amaravati Sangha"
   },
   {
     "type": "author",
