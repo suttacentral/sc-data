@@ -1022,7 +1022,7 @@
 {"_path": "sn/sn-salayatanavaggasamyutta/sn35/sn35-pathamapannasaka/sn35-sabbavagga/sn35.30", "name": "Samugghātasāruppa Sutta", "type": "text", "num": 8},
 {"_path": "sn/sn-salayatanavaggasamyutta/sn35/sn35-pathamapannasaka/sn35-sabbavagga/sn35.31", "name": "Paṭhamasamugghātasappāya Sutta", "type": "text", "num": 9},
 {"_path": "sn/sn-salayatanavaggasamyutta/sn35/sn35-pathamapannasaka/sn35-sabbavagga/sn35.32", "name": "Dutiyasamugghātasappāya Sutta", "type": "text", "num": 10},
-{"_path": "sn/sn-salayatanavaggasamyutta/sn35/sn35-pathamapannasaka/jatidhammavagga", "name": "Jātidhamma Vagga", "type": "text", "num": 4, "display_num": "33-42"},
+{"_path": "sn/sn-salayatanavaggasamyutta/sn35/sn35-pathamapannasaka/jatidhammavagga", "name": "Jātidhamma Vagga", "type": "div", "num": 4, "display_num": "33-42"},
 {"_path": "sn/sn-salayatanavaggasamyutta/sn35/sn35-pathamapannasaka/jatidhammavagga/sn35.33-42", "name": "Jātidhammā Sutta", "type": "text", "num": 4},
 {"_path": "sn/sn-salayatanavaggasamyutta/sn35/sn35-pathamapannasaka/sn35-sabbaaniccavagga", "name": "Sabbaanicca Vagga", "type": "div", "num": 5, "child_count": 2, "display_num": "43-52"},
 {"_path": "sn/sn-salayatanavaggasamyutta/sn35/sn35-pathamapannasaka/sn35-sabbaaniccavagga/sn35.43-51", "name": "Aniccādisuttanavaka", "type": "text", "num": 1},
