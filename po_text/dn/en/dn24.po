@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-06 07:01+0000\n"
+"POT-Creation-Date: 2018-06-14 01:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,7 +67,8 @@ msgctxt "dn24:1.1.6"
 msgid ""
 "Yannūnāhaṃ yena bhaggavagottassa paribbājakassa ārāmo, yena bhaggavagotto "
 "paribbājako tenupasaṅkameyyan”ti."
-msgstr "Why don’t I go to the wanderer Bhaggavagotta’s monastery to visit him?”"
+msgstr ""
+"Why don’t I go to the wanderer Bhaggavagotta’s monastery to visit him?”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.2"></a>
@@ -497,9 +498,9 @@ msgstr ""
 "“The Saṅgha of the Buddha’s disciples is practicing the way that’s good, "
 "straightforward, methodical, and proper. It consists of the four pairs, the "
 "eight individuals. This Saṅgha of the Buddha’s disciples is worthy of "
-"offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’"
-"s offering, and worthy of greeting with joined palms. It is a supreme field "
-"of merit for the world.”"
+"offerings dedicated to the gods, worthy of hospitality, worthy of a "
+"teacher’s offering, and worthy of greeting with joined palms. It is a "
+"supreme field of merit for the world.”"
 
 msgctxt "dn24:1.6.9"
 msgid ""
@@ -1257,8 +1258,8 @@ msgid ""
 "Iti yāvatakaṃ yāvatakaṃ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṃ "
 "karissati, taddiguṇaṃ taddiguṇāhaṃ karissāmī’ti."
 msgstr ""
-"However many demonstrations of psychic power the ascetic Gotama performs, I’"
-"ll perform double.’"
+"However many demonstrations of psychic power the ascetic Gotama performs, "
+"I’ll perform double.’"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.16"></a>
@@ -1814,8 +1815,8 @@ msgid ""
 "nisinno;"
 msgstr ""
 "“Come forth, Reverend Pāṭikaputta! All these very well-known people have "
-"come forth, and the ascetic Gotama is sitting in your monastery for the day’"
-"s meditation."
+"come forth, and the ascetic Gotama is sitting in your monastery for the "
+"day’s meditation."
 
 msgctxt "dn24:1.20.11"
 msgid "bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṃ parisati vācā "
@@ -1866,8 +1867,8 @@ msgid ""
 "Iti yāvatakaṃ yāvatakaṃ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṃ "
 "karissati, taddiguṇaṃ taddiguṇāhaṃ karissāmī”ti"
 msgstr ""
-"However many demonstrations of psychic power the ascetic Gotama performs, I’"
-"ll perform double.’"
+"However many demonstrations of psychic power the ascetic Gotama performs, "
+"I’ll perform double.’"
 
 msgctxt "dn24:1.20.20"
 msgid "abhikkamasseva kho āvuso pāthikaputta, upaḍḍhapathaṃ."
@@ -2926,8 +2927,7 @@ msgstr "6. On Describing the Origin of the World"
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs2.14"></a>
 #. <a class="sc" id="sc76"></a>
-#. VAR: pajānāmi → \
-msgctxt "dn24:2.14.1"
+#. VAR: pajānāmi → msgctxt "dn24:2.14.1"
 msgid "Aggaññañcāhaṃ, bhaggava, pajānāmi."
 msgstr "Bhaggava, I understand the origin of the world."
 
@@ -3066,9 +3066,9 @@ msgid ""
 "Atha aññepi sattā āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā suññaṃ "
 "brahmavimānaṃ upapajjanti tassa sattassa sahabyataṃ."
 msgstr ""
-"Then other sentient beings—due to the running out of their life-span or "
-"merit—pass away from that group of radiant deities and are reborn in that "
-"empty mansion of Brahmā in company with that being."
+"Then other sentient beings—due to the running out of their life-span or merit"
+"—pass away from that group of radiant deities and are reborn in that empty "
+"mansion of Brahmā in company with that being."
 
 msgctxt "dn24:2.16.4"
 msgid ""
@@ -3448,6 +3448,128 @@ msgid "Tesāhaṃ puṭṭho byākaromi:"
 msgstr "So I answer them:"
 
 #. </p><p>
+#. <a class="sc" id="sc93"></a>
+#, fuzzy
+msgctxt "dn24:2.19.9"
+msgid ""
+"‘Santāvuso, manopadosikā nāma devā. Te ativelaṃ aññamaññaṃ upanijjhāyanti. "
+"Te ativelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni padūsenti. Te "
+"aññamaññaṃ paduṭṭhacittā kilantakāyā kilantacittā. Te devā tamhā kāyā "
+"cavanti."
+msgstr ""
+"‘Reverends, there are gods named “malevolent”. They spend too much time "
+"gazing at each other, so they grow angry with each other, and their bodies "
+"and minds get tired. They pass away from that group of gods."
+
+#. </p><p>
+#. <a class="sc" id="sc94"></a>
+#, fuzzy
+msgctxt "dn24:2.19.10"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, āvuso, vijjati, yaṃ aññataro satto tamhā kāyā cavitvā "
+"itthattaṃ āgacchati."
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence."
+
+#, fuzzy
+msgctxt "dn24:2.19.11"
+msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
+msgstr "Having done so, they go forth from the lay life to homelessness."
+
+#, fuzzy
+msgctxt "dn24:2.19.12"
+msgid ""
+"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte taṃ pubbenivāsaṃ anussarati, tato "
+"paraṃ nānussarati."
+msgstr ""
+"By dint of keen, resolute, committed, and diligent effort, and right focus, "
+"they experience an immersion of the heart of such a kind that they recollect "
+"that past life, but no further."
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.33"></a>
+#. <a class="sc" id="sc95"></a>
+#, fuzzy
+msgctxt "dn24:2.19.13"
+msgid "So evamāha:"
+msgstr "They say:"
+
+#. VAR: tamhā → akilantacittā tamhā (c1)
+#, fuzzy
+msgctxt "dn24:2.19.14"
+msgid ""
+"“ye kho te bhonto devā na manopadosikā te nātivelaṃ aññamaññaṃ "
+"upanijjhāyanti. Te nātivelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni "
+"nappadūsenti. Te aññamaññaṃ appaduṭṭhacittā akilantakāyā akilantacittā. Te "
+"devā tamhā kāyā na cavanti, "
+msgstr ""
+"“The gods who are not malevolent don’t spend too much time gazing at each "
+"other, so they don’t grow angry with each other, their bodies and minds "
+"don’t get tired, and they don’t pass away from that group of gods. "
+
+#, fuzzy
+msgctxt "dn24:2.19.15"
+msgid "niccā dhuvā sassatā avipariṇāmadhammā sassatisamaṃ tatheva ṭhassanti."
+msgstr ""
+"They are permanent, everlasting, eternal, imperishable, remaining the same "
+"for all eternity."
+
+#. VAR: padūsimhā → padūsayimhā (bj) | padosiyimhā (s1-3) | padūsimha (pts1)
+#. VAR: Evaṃ mayaṃ → kilan­ta­cittā­eva mayaṃ (pts1) | kilantacittā (c1)
+#, fuzzy
+msgctxt "dn24:2.19.16"
+msgid ""
+"Ye pana mayaṃ ahumhā manopadosikā, te mayaṃ ativelaṃ aññamaññaṃ "
+"upanijjhāyimhā. Te mayaṃ ativelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi "
+"cittāni padūsimhā. Te mayaṃ aññamaññaṃ paduṭṭhacittā kilantakāyā "
+"kilantacittā. Evaṃ mayaṃ tamhā kāyā cutā, "
+msgstr ""
+"But we who were malevolent spent too much time gazing at each other, so our "
+"minds grew angry with each other, our bodies and minds got tired, and we "
+"passed away from that group of gods. "
+
+#, fuzzy
+msgctxt "dn24:2.19.17"
+msgid "aniccā addhuvā appāyukā cavanadhammā itthattaṃ āgatā”ti."
+msgstr ""
+"We are impermanent, not lasting, short-lived, perishable, and have come to "
+"this state of existence.”"
+
+#, fuzzy
+msgctxt "dn24:2.19.18"
+msgid ""
+"Evaṃvihitakaṃ no tumhe āyasmanto manopadosikaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti."
+msgstr ""
+"This is how you describe in your tradition that the origin of the world came "
+"about due to those who are malevolent.’"
+
+#, fuzzy
+msgctxt "dn24:2.19.19"
+msgid "Te evamāhaṃsu:"
+msgstr "They say:"
+
+#, fuzzy
+msgctxt "dn24:2.19.20"
+msgid "‘evaṃ kho no, āvuso gotama, sutaṃ, yathevāyasmā gotamo āhā’ti."
+msgstr "‘That is what we have heard, Reverend Gotama, just as you say.’"
+
+#. </p><p>
+#. <a class="sc" id="sc96"></a>
+#, fuzzy
+msgctxt "dn24:2.19.21"
+msgid "Aggaññañcāhaṃ, bhaggava, pajānāmi … pe …"
+msgstr "Bhaggava, I understand the origin of the world."
+
+#, fuzzy
+msgctxt "dn24:2.19.22"
+msgid "yadabhijānaṃ tathāgato no anayaṃ āpajjati."
+msgstr "Directly knowing this, the Realized One does not come to ruin."
+
+#. </p><p>
 #. <a class="pts-cs" id="pts-cs2.20"></a>
 #. <a class="sc" id="sc97"></a>
 msgctxt "dn24:2.20.1"
@@ -3596,7 +3718,8 @@ msgstr ""
 
 msgctxt "dn24:2.21.2"
 msgid "‘viparīto samaṇo gotamo bhikkhavo ca."
-msgstr "‘The ascetic Gotama has a distorted perspective, and so have his monks."
+msgstr ""
+"‘The ascetic Gotama has a distorted perspective, and so have his monks."
 
 msgctxt "dn24:2.21.3"
 msgid "Samaṇo gotamo evamāha—"
@@ -3698,114 +3821,3 @@ msgstr ""
 msgctxt "dn24:2.21.17"
 msgid "Pāthikasuttaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr ""
-
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs93"></a>
-#. <a class="sc" id="sc93"></a>
-msgctxt "dn24:93.1"
-msgid ""
-"‘Santāvuso, manopadosikā nāma devā. Te ativelaṃ aññamaññaṃ upanijjhāyanti. "
-"Te ativelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni padūsenti. Te "
-"aññamaññaṃ paduṭṭhacittā kilantakāyā kilantacittā. Te devā tamhā kāyā "
-"cavanti."
-msgstr ""
-"‘Reverends, there are gods named “malevolent”. They spend too much time "
-"gazing at each other, so they grow angry with each other, and their bodies "
-"and minds get tired. They pass away from that group of gods."
-
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs94"></a>
-#. <a class="sc" id="sc94"></a>
-msgctxt "dn24:94.1"
-msgid ""
-"Ṭhānaṃ kho panetaṃ, āvuso, vijjati, yaṃ aññataro satto tamhā kāyā cavitvā "
-"itthattaṃ āgacchati."
-msgstr ""
-"It’s possible that one of those beings passes away from that group and is "
-"reborn in this state of existence."
-
-msgctxt "dn24:94.2"
-msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
-msgstr "Having done so, they go forth from the lay life to homelessness."
-
-msgctxt "dn24:94.3"
-msgid ""
-"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
-"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
-"cetosamādhiṃ phusati, yathāsamāhite citte taṃ pubbenivāsaṃ anussarati, tato "
-"paraṃ nānussarati."
-msgstr ""
-"By dint of keen, resolute, committed, and diligent effort, and right focus, "
-"they experience an immersion of the heart of such a kind that they recollect "
-"that past life, but no further."
-
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs95"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.33"></a>
-#. <a class="sc" id="sc95"></a>
-msgctxt "dn24:95.1"
-msgid "So evamāha:"
-msgstr "They say:"
-
-#. VAR: tamhā → akilantacittā tamhā (c1)
-msgctxt "dn24:95.2"
-msgid ""
-"“ye kho te bhonto devā na manopadosikā te nātivelaṃ aññamaññaṃ "
-"upanijjhāyanti. Te nātivelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni "
-"nappadūsenti. Te aññamaññaṃ appaduṭṭhacittā akilantakāyā akilantacittā. Te "
-"devā tamhā kāyā na cavanti, "
-msgstr ""
-"“The gods who are not malevolent don’t spend too much time gazing at each "
-"other, so they don’t grow angry with each other, their bodies and minds don’"
-"t get tired, and they don’t pass away from that group of gods. "
-
-msgctxt "dn24:95.3"
-msgid "niccā dhuvā sassatā avipariṇāmadhammā sassatisamaṃ tatheva ṭhassanti."
-msgstr ""
-"They are permanent, everlasting, eternal, imperishable, remaining the same "
-"for all eternity."
-
-#. VAR: padūsimhā → padūsayimhā (bj) | padosiyimhā (s1-3) | padūsimha (pts1)
-#. VAR: Evaṃ mayaṃ → kilan­ta­cittā­eva mayaṃ (pts1) | kilantacittā (c1)
-msgctxt "dn24:95.4"
-msgid ""
-"Ye pana mayaṃ ahumhā manopadosikā, te mayaṃ ativelaṃ aññamaññaṃ "
-"upanijjhāyimhā. Te mayaṃ ativelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi "
-"cittāni padūsimhā. Te mayaṃ aññamaññaṃ paduṭṭhacittā kilantakāyā "
-"kilantacittā. Evaṃ mayaṃ tamhā kāyā cutā, "
-msgstr ""
-"But we who were malevolent spent too much time gazing at each other, so our "
-"minds grew angry with each other, our bodies and minds got tired, and we "
-"passed away from that group of gods. "
-
-msgctxt "dn24:95.5"
-msgid "aniccā addhuvā appāyukā cavanadhammā itthattaṃ āgatā”ti."
-msgstr ""
-"We are impermanent, not lasting, short-lived, perishable, and have come to "
-"this state of existence.”"
-
-msgctxt "dn24:95.6"
-msgid ""
-"Evaṃvihitakaṃ no tumhe āyasmanto manopadosikaṃ ācariyakaṃ aggaññaṃ "
-"paññapethā’ti."
-msgstr ""
-"This is how you describe in your tradition that the origin of the world came "
-"about due to those who are malevolent.’"
-
-msgctxt "dn24:95.7"
-msgid "Te evamāhaṃsu:"
-msgstr "They say:"
-
-msgctxt "dn24:95.8"
-msgid "‘evaṃ kho no, āvuso gotama, sutaṃ, yathevāyasmā gotamo āhā’ti."
-msgstr "‘That is what we have heard, Reverend Gotama, just as you say.’"
-
-#. </p><p>
-#. <a class="sc" id="sc96"></a>
-msgctxt "dn24:95.9"
-msgid "Aggaññañcāhaṃ, bhaggava, pajānāmi … pe …"
-msgstr "Bhaggava, I understand the origin of the world."
-
-msgctxt "dn24:95.10"
-msgid "yadabhijānaṃ tathāgato no anayaṃ āpajjati."
-msgstr "Directly knowing this, the Realized One does not come to ruin."
