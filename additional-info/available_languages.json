@@ -1,6 +1,12 @@
 [
   {
-    "iso_code": "pl"
+    "iso_code": "pl",
+    "testing": true
+  },
+  {
+    "iso_code": "zh_CN",
+    "testing": true
+
   },
   {
     "iso_code": "en"
