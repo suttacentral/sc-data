@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+
+#. The unique identifier for the root edition, used as URL component
+msgid "root_author_uid"
+msgstr "ms"
+
+msgid "root_author_blurb"
+msgstr ""
+"Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500: World Tipiṭaka "
+"Edition in Roman Script. Edited and published by The M.L. Maniratana Bunnag "
+"Dhamma Society Fund, 2005. Based on the digital edition of the Chaṭṭha "
+"Saṅgāyana published by the Vipassana Research Institute, with corrections "
+"and proofreading by the Dhamma Society."
+
+#. The unique identifier for the translator, used as URL component
+msgid "translation_author_uid"
+msgstr "brahmali"
+
+msgid "translation_author_blurb"
+msgstr "Translated for SuttaCentral by Brahmali Bhikkhu"
+
