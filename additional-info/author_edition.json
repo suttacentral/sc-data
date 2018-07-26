@@ -43,6 +43,12 @@
   },
   {
     "type": "author",
+    "uid": "fausboell",
+    "short_name": "Fausböll",
+    "long_name": "V. Fausböll"
+  },
+  {
+    "type": "author",
     "uid": "karunabangsha",
     "short_name": "Karunabangsha",
     "long_name": "Karunabangsha Bhikkhu"
@@ -58,6 +64,12 @@
     "uid": "analayo",
     "short_name": "Anālayo",
     "long_name": "Bhikkhu Anālayo"
+  },
+  {
+    "type": "author",
+    "uid": "kiribathgoda",
+    "short_name": "Kiribathgoda",
+    "long_name": "Ven. Kiribathgoda Gnanananda Thera"
   },
   {
     "type": "author",

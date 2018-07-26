@@ -29,7 +29,7 @@
       "lzh-mg-bi-pn",
       "lzh-mg-bu-pm-div",
       "lzh-mg-bi-pm-div",
-      "sariputrapariprccha",
+      "lzh-mg-sariputrapariprccha",
       "san-mg-bu-pm-div"
     ]
   },
@@ -56,7 +56,7 @@
       "lzh-mi-vs",
       "lzh-mi-bu-pm-div",
       "lzh-mi-bi-pm-div",
-      "lzh-mi-bu-kammavaca"
+      "lzh-mi-bu-kv"
     ]
   },
   {
@@ -71,9 +71,9 @@
       "lzh-dg-bu-pm-div",
       "lzh-dg-bu-pm-2-div",
       "lzh-dg-bi-pm-div",
-      "lzh-dg-bu-kammavaca",
-      "lzh-dg-bu-kammavaca-2",
-      "lzh-dg-bi-kammavaca",
+      "lzh-dg-bu-kv",
+      "lzh-dg-bu-kv-2",
+      "lzh-dg-bi-kv",
       "pgd-dg-bu-pm",
       "sab"
     ]
@@ -92,9 +92,9 @@
       "lzh-sarv-bu-pm-2-div",
       "lzh-sarv-bi-pm-div",
       "lzh-sarv-bi-pm-dh-div",
-      "lzh-sarv-bu-kammavaca",
-      "lzh-sarv-bu-kammavaca-2",
-      "lzh-sarv-matika",
+      "lzh-sarv-bu-kv",
+      "lzh-sarv-bu-kv-2",
+      "lzh-sarv-mt",
       "lzh-sarv-vi-misc",
       "san-sarv-bu-pm-tf11-div",
       "san-sarv-bu-pm-finot-div",
@@ -102,8 +102,8 @@
       "san-sarv-bi-pm-tf3215-div",
       "san-sarv-bi-pm-tf44-div",
       "san-sarv-sm-div",
-      "san-sarv-bu-kammavaca",
-      "san-sarv-bi-kammavaca",
+      "san-sarv-bu-kv",
+      "san-sarv-bi-kv",
       "sg",
       "lzh-dk",
       "pr",
@@ -122,25 +122,25 @@
       "lzh-mu-bu-vb",
       "lzh-mu-bi-vb",
       "lzh-mu-kd",
-      "lzh-mu-khuddakavatthu",
+      "lzh-mu-khv",
       "lzh-mu-bu-pm-div",
       "lzh-mu-bi-pm-div",
-      "lzh-mu-bu-kammavaca",
+      "lzh-mu-bu-kv",
       "ot",
       "san-mu-kd",
       "san-mu-bu-pm-gbm3-div",
       "san-mu-bu-pm-gbm2-div",
-      "san-mu-bu-kammavaca",
+      "san-mu-bu-kv",
       "san-mu-mpt-bu-pm-div",
       "xct-mu-kd",
       "xct-mu-bu-pm-div",
       "xct-mu-bu-vb",
       "xct-mu-bi-pm",
       "xct-mu-bi-vb",
-      "xct-mu-khuddakavatthu",
-      "xct-mu-uttaragantha",
-      "xct-mu-uttaragantha-2",
-      "xct-mu-bu-kammavaca"
+      "xct-mu-khv",
+      "xct-mu-utg",
+      "xct-mu-utg-2",
+      "xct-mu-bu-kv"
     ]
   },
   {
@@ -152,7 +152,7 @@
       "lzh-upali-bu",
       "sammitiya-sastra",
       "pariprccha",
-      "other-matika",
+      "om",
       "san-bu-pm-qizil",
       "pgd-pm-bf13"
     ]
