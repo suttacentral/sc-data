@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 20:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pi-vi/np/pli-tv-bu-vb-np26.po\n"
+"X-Pootle-Revision: 7478\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-np26"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs0.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. </p><p class="division"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs0.2"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np26:pts-cs0.3"
+msgid "Nissaggiyakaṇḍa"
+msgstr "The chapter on relinquishment"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np26:pts-cs0.4"
+msgid "Pattavagga"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs0.5"
+msgid ""
+msgstr "Monks’ Relinquishment"
+
+#. </p><h1>
+msgctxt "pli-tv-bu-vb-np26:pts-cs0.6"
+msgid "26. Suttaviññattisikkhāpada"
+msgstr "26. The training rule on asking for thread"
+
+#. </h1></div><h2>
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.0a"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.256"></a><a class="pts-cs" id="bu-np.26.1"></a><a class="pts-vp-en" id="bd.2.142"></a><a class="wt-pa" id="2350"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.1"
+msgid ""
+"Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
+msgstr ""
+"At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the "
+"squirrel sanctuary."
+
+#. From the origin story to <i lang="pli">pācittiya</i> 32 it seems <i lang="pli">cīvarakārasamaya</i> refers to any time one is making a robe, see <ref>MS.2.729</ref>.
+#. VAR: bahuṃ suttaṃ → bahusuttaṃ (bj, s1-3, pts1)
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.2"
+msgid ""
+"Tena kho pana samayena chabbaggiyā bhikkhū cīvarakārasamaye bahuṃ suttaṃ "
+"viññāpesuṃ."
+msgstr ""
+"At that time the monks from the group of six were making robes, and they "
+"asked for a large amount of thread."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.3"
+msgid "Katepi cīvare bahuṃ suttaṃ avasiṭṭhaṃ hoti."
+msgstr ""
+"Yet even when their robes had been sewn, there was much thread left over."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.4"
+msgid "Atha kho chabbaggiyānaṃ bhikkhūnaṃ etadahosi—"
+msgstr "They said,"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.5"
+msgid ""
+"“handa mayaṃ, āvuso, aññampi suttaṃ viññāpetvā tantavāyehi cīvaraṃ "
+"vāyāpemā”ti."
+msgstr ""
+"“Well, let’s ask for more thread and get weavers to weave us robe-cloth.”"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.6"
+msgid ""
+"Atha kho chabbaggiyā bhikkhū aññampi suttaṃ viññāpetvā tantavāyehi cīvaraṃ "
+"vāyāpesuṃ."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.7"
+msgid "Vītepi cīvare bahuṃ suttaṃ avasiṭṭhaṃ hoti."
+msgstr ""
+"Yet even when the robe-cloth had been woven, there was much thread left over."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.8"
+msgid ""
+"Dutiyampi kho chabbaggiyā bhikkhū aññampi suttaṃ viññāpetvā tantavāyehi "
+"cīvaraṃ vāyāpesuṃ."
+msgstr ""
+"For a second time they asked for more thread and got weavers to weave them "
+"robe-cloth."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.9"
+msgid "Vītepi cīvare bahuṃ suttaṃ avasiṭṭhaṃ hoti."
+msgstr "Once again there was much thread left over."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.10"
+msgid ""
+"Tatiyampi kho chabbaggiyā bhikkhū aññampi suttaṃ viññāpetvā tantavāyehi "
+"cīvaraṃ vāyāpesuṃ."
+msgstr ""
+"For a third time they asked for more thread and got weavers to weave them "
+"robe-cloth."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.11"
+msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
+msgstr "People grumbled and complained,"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.12"
+msgid ""
+"“kathañhi nāma samaṇā sakyaputtiyā sāmaṃ suttaṃ viññāpetvā tantavāyehi "
+"cīvaraṃ vāyāpessantī”ti."
+msgstr ""
+"“How can the Sakyan ascetics ask for thread and then get weavers to weave "
+"them robe-cloth?”"
+
+#. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2351"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.13"
+msgid ""
+"Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "The monks heard the complaints of those people,"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.14"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "and the monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.15"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized those monks,"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.16"
+msgid ""
+"“kathañhi nāma chabbaggiyā bhikkhū sāmaṃ suttaṃ viññāpetvā tantavāyehi "
+"cīvaraṃ vāyāpessantī”ti."
+msgstr ""
+"“How can the monks from the group of six ask for thread and then get weavers "
+"to weave them robe-cloth?”"
+
+#. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2352"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.17"
+msgid ""
+"Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā "
+"bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.18"
+msgid ""
+"“saccaṃ kira tumhe, bhikkhave, sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ "
+"vāyāpethā”ti?"
+msgstr "“Is it true, monks, that you did this?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.19"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.20"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked them, “…"
+
+#. <a class="pts-vp-en" id="bd.2.143"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.21"
+msgid ""
+"kathañhi nāma tumhe, moghapurisā, sāmaṃ suttaṃ viññāpetvā tantavāyehi "
+"cīvaraṃ vāyāpessatha."
+msgstr ""
+"Foolish men, how can you ask for thread and then get weavers to weave you "
+"robe-cloth?"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.22"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.23"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.23a"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="2353"></a>
+#. <span class="rule"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.24"
+msgid ""
+"“Yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, "
+"nissaggiyaṃ pācittiyan”ti."
+msgstr ""
+"‘If a monk himself asks for thread, and then gets weavers to weave him robe-"
+"cloth, he commits an offense entailing relinquishment and confession.’”"
+
+#. </span> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs1.25"
+msgid "(<em>26</em>:<strong>45</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.0a"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-np.26.2"></a><a class="wt-pa" id="2354"></a>
+#. <span class="term"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.1"
+msgid "Yo panāti"
+msgstr "A:"
+
+#. </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.2"
+msgid "yo yādiso … pe …"
+msgstr "whoever …"
+
+#. </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.3"
+msgid "bhikkhūti"
+msgstr "Monk:"
+
+#. </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.4"
+msgid "… pe …"
+msgstr ""
+"… The monk who has been given the full ordination by a complete Order "
+"through a procedure consisting of one motion and three announcements that is "
+"unchallengeable and fit to stand—"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.5"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "this sort of monk is meant in this case."
+
+#. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2355"></a>
+#. <span class="term"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.6"
+msgid "Sāmanti"
+msgstr "Himself:"
+
+#. </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.7"
+msgid "sayaṃ viññāpetvā."
+msgstr "he himself has asked."
+
+#. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2356"></a>
+#. <span class="term"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.8"
+msgid "Suttaṃ nāma"
+msgstr "Thread:"
+
+#. </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.9"
+msgid "cha suttāni—"
+msgstr "there are six kinds of thread:"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.10"
+msgid "khomaṃ kappāsikaṃ koseyyaṃ kambalaṃ sāṇaṃ bhaṅgaṃ."
+msgstr "linen, cotton, silk, wool, sunn hemp, and hemp."
+
+#. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.257"></a><a class="wt-pa" id="2357"></a>
+#. <span class="term"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.11"
+msgid "Tantavāyehīti"
+msgstr "Weavers:"
+
+#. </span><span class="gloss"> 
+#. VAR: payoge payoge dukkaṭaṃ → payoge dukkaṭaṃ (s1-3, pts1)
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.12"
+msgid "pesakārehi vāyāpeti, payoge payoge dukkaṭaṃ."
+msgstr ""
+"for every effort to get it woven by weavers, he commits an offense of wrong "
+"conduct."
+
+#. <a class="pts-vp-en" id="bd.2.144"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.13"
+msgid "Paṭilābhena nissaggiyaṃ hoti."
+msgstr "When he gets the robe-cloth, it becomes subject to relinquishment."
+
+#. </span></p><hr><p>
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.14"
+msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
+msgstr ""
+"The robe-cloth should be relinquished to an Order, a group, or an individual."
+
+#. <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.15"
+msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
+msgstr "“And, monks, it should be relinquished in this way. …"
+
+#. <span class="pe"> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.16"
+msgid "pe …"
+msgstr ""
+"To be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-np1#13\">"
+"Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
+
+#. </span> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.17"
+msgid ""
+"“idaṃ me, bhante, cīvaraṃ sāmaṃ suttaṃ viññāpetvā tantavāyehi vāyāpitaṃ "
+"nissaggiyaṃ."
+msgstr ""
+"‘Venerables, this robe-cloth which I got woven by weavers after asking for "
+"the thread myself is to be relinquished."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.18"
+msgid "Imāhaṃ saṃghassa nissajjāmī”ti … pe …"
+msgstr "I relinquish it to the Order.’ …"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.19"
+msgid "dadeyyāti … pe …"
+msgstr "the Order should give …"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.20"
+msgid "dadeyyunti … pe …"
+msgstr "you should give …"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.21"
+msgid "āyasmato dammīti."
+msgstr "‘I give this robe-cloth back to you.’”"
+
+#. </span></p><h2>
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.21a"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><p><a class="sc" id="9"></a><a class="wt-pa" id="2358"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.22"
+msgid "Vāyāpite vāyāpitasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"If he got it woven, and he perceives that he did, he commits an offense "
+"entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.23"
+msgid "Vāyāpite vematiko, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"If he got it woven, but he is unsure if he did, he commits an offense "
+"entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.24"
+msgid "Vāyāpite avāyāpitasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"If he got it woven, but he perceives that he did not, he commits an offense "
+"entailing relinquishment and confession."
+
+#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="2359"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.25"
+msgid "Avāyāpite vāyāpitasaññī, āpatti dukkaṭassa."
+msgstr ""
+"If he did not get it woven, but he perceives that he did, he commits an "
+"offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.26"
+msgid "Avāyāpite vematiko, āpatti dukkaṭassa."
+msgstr ""
+"If he did not get it woven, but he is unsure if he did, he commits an "
+"offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.27"
+msgid "Avāyāpite avāyāpitasaññī, anāpatti."
+msgstr ""
+"If he did not get it woven, and he perceives that he did not, there is no "
+"offense."
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.27a"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="11"></a><a class="wt-pa" id="2360"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.28"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.29"
+msgid "cīvaraṃ sibbetuṃ,"
+msgstr "if it is to sew a robe;"
+
+#. Āyoga. Used as a support for the pallattikā sitting posture. See TAP p.259 (ad. sek.26).
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.30"
+msgid "āyoge,"
+msgstr "if it is for a back-and-knee strap;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.31"
+msgid "kāyabandhane,"
+msgstr "if it is for a belt;"
+
+#. VAR: aṃsabaddhake → aṃsavaṭṭake (bj) | aṃsabandhake (s1-3, pts1)
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.32"
+msgid "aṃsabaddhake,"
+msgstr "if it is for a shoulder strap;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.33"
+msgid "pattatthavikāya,"
+msgstr "if it is for a bowl-bag;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.34"
+msgid "parissāvane,"
+msgstr "if it is for a water filter;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.35"
+msgid "ñātakānaṃ,"
+msgstr "if it is from relatives;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.36"
+msgid "pavāritānaṃ,"
+msgstr "if it is from those who have given an invitation;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.37"
+msgid "aññassatthāya,"
+msgstr "if it for the benefit of someone else;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.38"
+msgid "attano dhanena,"
+msgstr "if it is by means of one’s own property;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.39"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.40"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="12"></a><a class="wt-pa" id="2361"></a> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.41"
+msgid "Suttaviññattisikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ."
+msgstr "The sixth rule, the training rule on asking for thread, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html> 
+msgctxt "pli-tv-bu-vb-np26:pts-cs2.42"
+msgid ""
+msgstr ""
