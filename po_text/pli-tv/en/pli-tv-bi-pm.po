@@ -1,0 +1,4464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2018-09-13 06:06+0009\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bi-pm"><article><div class="hgroup"><h1>
+msgctxt "pli-tv-bi-pm:1.1"
+msgid "Bhikkhunīpātimokkhapāḷi"
+msgstr ""
+
+#. HTML: </h1></div><p class="namo">
+msgctxt "pli-tv-bi-pm:2.1"
+msgid "Namo tassa bhagavato arahato sammāsambuddhassa"
+msgstr ""
+
+#. HTML: </p><h2 id="prelim">
+msgctxt "pli-tv-bi-pm:3.1"
+msgid "Preliminaries"
+msgstr ""
+
+#. HTML: </h2><h3>
+msgctxt "pli-tv-bi-pm:4.1"
+msgid "Pubbakaraṇaṃ"
+msgstr ""
+
+#. HTML: </h3><blockquote class="gatha"><p>
+#. REF: sc1
+msgctxt "pli-tv-bi-pm:5.1"
+msgid "Sammajjanī padīpo ca, udakaṃ āsanena ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-bi-pm:5.2"
+msgid "Uposathassa etāni, “pubbakaraṇa”nti vuccati."
+msgstr ""
+
+#. HTML: </p></blockquote><h3>
+msgctxt "pli-tv-bi-pm:6.1"
+msgid "Pubbakiccaṃ"
+msgstr ""
+
+#. HTML: </h3><blockquote class="gatha"><p>
+#. REF: sc2
+msgctxt "pli-tv-bi-pm:7.1"
+msgid "Chanda, pārisuddhi, utukkhānaṃ, bhikkhunigaṇanā ca ovādo;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-bi-pm:7.2"
+msgid "Uposathassa etāni, “pubbakicca”nti vuccati."
+msgstr ""
+
+#. HTML: </p></blockquote><h3>
+msgctxt "pli-tv-bi-pm:8.1"
+msgid "Pattakallaaṅgā"
+msgstr ""
+
+#. HTML: </h3><blockquote class="gatha"><p>
+#. REF: sc3
+msgctxt "pli-tv-bi-pm:9.1"
+msgid "Uposatho, yāvatikā ca bhikkhunī kammappattā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-bi-pm:9.2"
+msgid "Sabhāgāpattiyo ca na vijjanti;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-bi-pm:9.3"
+msgid "Vajjanīyā ca puggalā tasmiṃ na honti, “pattakalla”nti vuccati."
+msgstr ""
+
+#. HTML: </p></blockquote><p>
+#. REF: sc4
+msgctxt "pli-tv-bi-pm:10.1"
+msgid "Pubbakaraṇapubbakiccāni samāpetvā desitāpattikassa samaggassa bhikkhunisaṅghassa anumatiyā pātimokkhaṃ uddisituṃ ārādhanaṃ karoma."
+msgstr ""
+
+#. HTML: </p><h2 id="nidana">
+msgctxt "pli-tv-bi-pm:11.1"
+msgid "Nidānuddeso"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc5
+msgctxt "pli-tv-bi-pm:12.1"
+msgid "Suṇātu me ayye saṅgho."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:12.2"
+msgid "Ajjuposatho pannaraso, yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc6
+msgctxt "pli-tv-bi-pm:13.1"
+msgid "Kiṃ saṅghassa pubbakiccaṃ?"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:13.2"
+msgid "Pārisuddhiṃ ayyāyo ārocetha, pātimokkhaṃ uddisissāmi, taṃ sabbāva santā sādhukaṃ suṇoma manasi karoma."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:13.3"
+msgid "Yassā siyā āpatti, sā āvikareyya, asantiyā āpattiyā tuṇhī bhavitabbaṃ, tuṇhībhāvena kho panāyyāyo, “parisuddhā”ti vedissāmi."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:13.4"
+msgid "Yathā kho pana paccekapuṭṭhassā veyyākaraṇaṃ hoti, evamevaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:13.5"
+msgid "Yā pana bhikkhunī yāvatatiyaṃ anusāviyamāne saramānā santiṃ āpattiṃ nāvikareyya, sampajānamusāvādassā hoti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:13.6"
+msgid "Sampajānamusāvādo kho panāyyāyo, antarāyiko dhammo vutto bhagavatā, tasmā saramānāya bhikkhuniyā āpannāya visuddhāpekkhāya santī āpatti āvikātabbā, āvikatā hissā phāsu hoti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc7
+msgctxt "pli-tv-bi-pm:14.1"
+msgid "Uddiṭṭhaṃ kho, ayyāyo, nidānaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:14.2"
+msgid "Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:15.1"
+msgid "Nidānaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. HTML: </p><h2 id="pj">
+msgctxt "pli-tv-bi-pm:16.1"
+msgid "Pārājikuddeso"
+msgstr ""
+
+#. HTML: </h2><p>
+msgctxt "pli-tv-bi-pm:17.1"
+msgid "Tatrime aṭṭha pārājikā dhammā uddesaṃ āgacchanti."
+msgstr ""
+
+#. HTML: </p><h4 id="pj1">
+msgctxt "pli-tv-bi-pm:18.1"
+msgid "Pārājika 1. Methunadhammasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc8
+msgctxt "pli-tv-bi-pm:19.1"
+msgid "Yā pana bhikkhunī chandaso methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatenapi, pārājikā hoti asaṃvāsā."
+msgstr ""
+
+#. HTML: </p><h4 id="pj2">
+msgctxt "pli-tv-bi-pm:20.1"
+msgid "Pārājika 2. Adinnādānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc9
+msgctxt "pli-tv-bi-pm:21.1"
+msgid "Yā pana bhikkhunī gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya, yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā corāsi bālāsi mūḷhāsi thenāsīti, tathārūpaṃ bhikkhunī adinnaṃ ādiyamānā ayampi pārājikā hoti asaṃvāsā."
+msgstr ""
+
+#. HTML: </p><h4 id="pj3">
+msgctxt "pli-tv-bi-pm:22.1"
+msgid "Pārājika 3. Manussaviggahasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc10
+msgctxt "pli-tv-bi-pm:23.1"
+msgid "Yā pana bhikkhunī sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ vāssa pariyeseyya, maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, “ambho purisa, kiṃ tuyhiminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo”ti, iti cittamanā cittasaṅkappā anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, ayampi pārājikā hoti asaṃvāsā."
+msgstr ""
+
+#. HTML: </p><h4 id="pj4">
+msgctxt "pli-tv-bi-pm:24.1"
+msgid "Pārājika 4. Uttarimanussadhammasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc11
+msgctxt "pli-tv-bi-pm:25.1"
+msgid "Yā pana bhikkhunī anabhijānaṃ uttarimanussadhammaṃ attupanāyikaṃ alamariyañāṇadassanaṃ samudācareyya, “iti jānāmi, iti passāmī”ti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā āpannā visuddhāpekkhā evaṃ vadeyya, “ajānamevaṃ, ayye, avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapi”nti, aññatra adhimānā, ayampi pārājikā hoti asaṃvāsā."
+msgstr ""
+
+#. HTML: </p><h4 id="pj5">
+msgctxt "pli-tv-bi-pm:26.1"
+msgid "Pārājika 5. Ubbhajāṇumaṇḍalikāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc12
+msgctxt "pli-tv-bi-pm:27.1"
+msgid "Yā pana bhikkhunī avassutā avassutassa purisapuggalassa, adhakkhakaṃ ubbhajāṇumaṇḍalaṃ āmasanaṃ vā parāmasanaṃ vā gahaṇaṃ vā chupanaṃ vā paṭipīḷanaṃ vā sādiyeyya, ayampi pārājikā hoti asaṃvāsā ubbhajāṇumaṇḍalikā."
+msgstr ""
+
+#. HTML: </p><h4 id="pj6">
+msgctxt "pli-tv-bi-pm:28.1"
+msgid "Pārājika 6. Vajjappaṭicchādikāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc13
+msgctxt "pli-tv-bi-pm:29.1"
+msgid "Yā pana bhikkhunī jānaṃ pārājikaṃ dhammaṃ ajjhāpannaṃ bhikkhuniṃ nevattanā paṭicodeyya, na gaṇassa āroceyya, yadā ca sā ṭhitā vā assa cutā vā nāsitā vā avassaṭā vā, sā pacchā evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:29.2"
+msgid "“pubbevāhaṃ, ayye, aññāsiṃ etaṃ bhikkhuniṃ ‘evarūpā ca evarūpā ca sā bhaginī’ti, no ca kho attanā paṭicodessaṃ, na gaṇassa ārocessa”nti, ayampi pārājikā hoti asaṃvāsā vajjappaṭicchādikā."
+msgstr ""
+
+#. HTML: </p><h4 id="pj7">
+msgctxt "pli-tv-bi-pm:30.1"
+msgid "Pārājika 7. Ukkhittānuvattikāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc14
+msgctxt "pli-tv-bi-pm:31.1"
+msgid "Yā pana bhikkhunī samaggena saṅghena ukkhittaṃ bhikkhuṃ dhammena vinayena satthusāsanena anādaraṃ appaṭikāraṃ akatasahāyaṃ tamanuvatteyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:31.2"
+msgid "“eso kho, ayye, bhikkhu samaggena saṅghena ukkhitto, dhammena vinayena satthusāsanena anādaro appaṭikāro akatasahāyo, māyye, etaṃ bhikkhuṃ anuvattī”ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyaṃ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi pārājikā hoti asaṃvāsā ukkhittānuvattikā."
+msgstr ""
+
+#. HTML: </p><h4 id="pj8">
+msgctxt "pli-tv-bi-pm:32.1"
+msgid "Pārājika 8. Aṭṭhavatthukāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc15
+msgctxt "pli-tv-bi-pm:33.1"
+msgid "Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthaggahaṇaṃ vā sādiyeyya, saṅghāṭikaṇṇaggahaṇaṃ vā sādiyeyya, santiṭṭheyya vā, sallapeyya vā, saṅketaṃ vā gaccheyya, purisassa vā abbhāgamanaṃ sādiyeyya, channaṃ vā anupaviseyya, kāyaṃ vā tadatthāya upasaṃhareyya etassa asaddhammassa paṭisevanatthāya, ayampi pārājikā hoti asaṃvāsā aṭṭhavatthukā."
+msgstr ""
+
+#. HTML: </p><hr><p>
+#. REF: sc16
+msgctxt "pli-tv-bi-pm:34.1"
+msgid "Uddiṭṭhā kho, ayyāyo, aṭṭha pārājikā dhammā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:34.2"
+msgid "Yesaṃ bhikkhunī aññataraṃ vā aññataraṃ vā āpajjitvā na labhati bhikkhunīhi saddhiṃ saṃvāsaṃ yathā pure, tathā pacchā, pārājikā hoti asaṃvāsā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:34.3"
+msgid "Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:35.1"
+msgid "Pārājikaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. HTML: </p><h2 id="ss">
+msgctxt "pli-tv-bi-pm:36.1"
+msgid "Saṅghādisesuddeso"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc17
+msgctxt "pli-tv-bi-pm:37.1"
+msgid "Ime kho panāyyāyo sattarasa saṅghādisesā dhammā uddesaṃ āgacchanti."
+msgstr ""
+
+#. HTML: </p><h4 id="ss1">
+msgctxt "pli-tv-bi-pm:38.1"
+msgid "Saṅghādisesa 1. Ussayavādikāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc18
+msgctxt "pli-tv-bi-pm:39.1"
+msgid "Yā pana bhikkhunī ussayavādikā vihareyya gahapatinā vā gahapatiputtena vā dāsena vā kammakārena vā antamaso samaṇaparibbājakenāpi, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss2">
+msgctxt "pli-tv-bi-pm:40.1"
+msgid "Saṅghādisesa 2. Corīvuṭṭhāpikāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc19
+msgctxt "pli-tv-bi-pm:41.1"
+msgid "Yā pana bhikkhunī jānaṃ coriṃ vajjhaṃ viditaṃ anapaloketvā rājānaṃ vā saṅghaṃ vā gaṇaṃ vā pūgaṃ vā seṇiṃ vā, aññatra kappā vuṭṭhāpeyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss3">
+msgctxt "pli-tv-bi-pm:42.1"
+msgid "Saṅghādisesa 3. Ekagāmantaragamanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc20
+msgctxt "pli-tv-bi-pm:43.1"
+msgid "Yā pana bhikkhunī ekā vā gāmantaraṃ gaccheyya, ekā vā nadīpāraṃ gaccheyya, ekā vā rattiṃ vippavaseyya, ekā vā gaṇamhā ohiyeyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss4">
+msgctxt "pli-tv-bi-pm:44.1"
+msgid "Saṅghādisesa 4. Ukkhittakaosāraṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc21
+msgctxt "pli-tv-bi-pm:45.1"
+msgid "Yā pana bhikkhunī samaggena saṅghena ukkhittaṃ bhikkhuniṃ dhammena vinayena satthusāsanena anapaloketvā kārakasaṅghaṃ, anaññāya gaṇassa chandaṃ osāreyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss5">
+msgctxt "pli-tv-bi-pm:46.1"
+msgid "Saṅghādisesa 5. Bhojanapaṭiggahaṇapaṭhamasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc22
+msgctxt "pli-tv-bi-pm:47.1"
+msgid "Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss6">
+msgctxt "pli-tv-bi-pm:48.1"
+msgid "Saṅghādisesa 6. Bhojanapaṭiggahaṇadutiyasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc23
+msgctxt "pli-tv-bi-pm:49.1"
+msgid "Yā pana bhikkhunī evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:49.2"
+msgid "“kiṃ te, ayye, eso purisapuggalo karissati avassuto vā anavassuto vā, yato tvaṃ anavassutā, iṅgha, ayye, yaṃ te eso purisapuggalo deti khādanīyaṃ vā bhojanīyaṃ vā, taṃ tvaṃ sahatthā paṭiggahetvā khāda vā bhuñja vā”ti, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss7">
+msgctxt "pli-tv-bi-pm:50.1"
+msgid "Saṅghādisesa 7. Sañcarittasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc24
+msgctxt "pli-tv-bi-pm:51.1"
+msgid "Yā pana bhikkhunī sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ, purisassa vā itthimatiṃ, jāyattane vā jārattane vā antamaso taṅkhaṇikāyapi, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss8">
+msgctxt "pli-tv-bi-pm:52.1"
+msgid "Saṅghādisesa 8. Duṭṭhadosasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc25
+msgctxt "pli-tv-bi-pm:53.1"
+msgid "Yā pana bhikkhunī bhikkhuniṃ duṭṭhā dosā appatītā amūlakena pārājikena dhammena anuddhaṃseyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:53.2"
+msgid "“appeva nāma naṃ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamānā vā asa manuggāhīyamānā vā amūlakañceva taṃ adhikaraṇaṃ hoti, bhikkhunī ca dosaṃ patiṭṭhāti, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss9">
+msgctxt "pli-tv-bi-pm:54.1"
+msgid "Saṅghādisesa 9. Aññabhāgiyasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc26
+msgctxt "pli-tv-bi-pm:55.1"
+msgid "Yā pana bhikkhunī bhikkhuniṃ duṭṭhā dosā appatītā aññabhāgiyassa adhikaraṇassa kiñcidesaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya, “appeva nāma naṃ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā aññabhāgiyañceva taṃ adhikaraṇaṃ hoti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:55.2"
+msgid "Kocideso lesamatto upādinno, bhikkhunī ca dosaṃ patiṭṭhāti, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss10">
+msgctxt "pli-tv-bi-pm:56.1"
+msgid "Saṅghādisesa 10. Sikkhaṃpaccācikkhaṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc27
+msgctxt "pli-tv-bi-pm:57.1"
+msgid "Yā pana bhikkhunī kupitā anattamanā evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:57.2"
+msgid "“buddhaṃ paccācikkhāmi dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:57.3"
+msgid "Sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:57.4"
+msgid "“māyye kupitā anattamanā evaṃ avaca ‘buddhaṃ paccācikkhāmi, dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī’ti, abhiramāyye, svākkhāto dhammo, cara brahmacariyaṃ sammā dukkhassa antakiriyāyā”ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss11">
+msgctxt "pli-tv-bi-pm:58.1"
+msgid "Saṅghādisesa 11. Adhikaraṇakupitasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc28
+msgctxt "pli-tv-bi-pm:59.1"
+msgid "Yā pana bhikkhunī kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:59.2"
+msgid "“chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:59.3"
+msgid "“māyye, kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṃ avaca ‘chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo’ti, ayyā kho chandāpi gaccheyya, dosāpi gaccheyya, mohāpi gaccheyya, bhayāpi gaccheyyā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:59.4"
+msgid "Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss12">
+msgctxt "pli-tv-bi-pm:60.1"
+msgid "Saṅghādisesa 12. Pāpasamācārapaṭhamasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc29
+msgctxt "pli-tv-bi-pm:61.1"
+msgid "Bhikkhuniyo paneva saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:61.2"
+msgid "“bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”ti, evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṃ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, imāpi bhikkhuniyo yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss13">
+msgctxt "pli-tv-bi-pm:62.1"
+msgid "Saṅghādisesa 13. Pāpasamācāradutiyasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc30
+msgctxt "pli-tv-bi-pm:63.1"
+msgid "Yā pana bhikkhunī evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:63.2"
+msgid "“saṃsaṭṭhāva, ayye, tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:63.3"
+msgid "‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”’ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:63.4"
+msgid "“māyye, evaṃ avaca, saṃsaṭṭhāva ayye tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha, tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:63.5"
+msgid "‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”’ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss14">
+msgctxt "pli-tv-bi-pm:64.1"
+msgid "Saṅghādisesa 14. Saṅghabhedakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc31
+msgctxt "pli-tv-bi-pm:65.1"
+msgid "Yā pana bhikkhunī samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:65.2"
+msgid "“māyyā, samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, sametāyyā, saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:65.3"
+msgid "Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:65.4"
+msgid "No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss15">
+msgctxt "pli-tv-bi-pm:66.1"
+msgid "Saṅghādisesa 15. Bhedānuvattakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc32
+msgctxt "pli-tv-bi-pm:67.1"
+msgid "Tassāyeva kho pana bhikkhuniyā bhikkhuniyo honti anuvattikā vaggavādikā ekā vā dve vā tisso vā, tā evaṃ vadeyyuṃ:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:67.2"
+msgid "“māyyāyo, etaṃ bhikkhuniṃ kiñci avacuttha dhammavādinī cesā bhikkhunī, vinayavādinī cesā bhikkhunī, amhākañcesā bhikkhunī chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṃ khamatī”ti, tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:67.3"
+msgid "“māyyāyo, evaṃ avacuttha, na cesā bhikkhunī dhammavādinī, na cesā bhikkhunī vinayavādinī, māyyānampi saṅghabhedo ruccittha, sametāyyānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṃ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:67.4"
+msgid "Iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:67.5"
+msgid "No ce paṭinissajjeyyuṃ, imāpi bhikkhuniyo yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss16">
+msgctxt "pli-tv-bi-pm:68.1"
+msgid "Saṅghādisesa 16. Dubbacasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc33
+msgctxt "pli-tv-bi-pm:69.1"
+msgid "Bhikkhunī paneva dubbacajātikā hoti uddesapariyāpannesu sikkhāpadesu bhikkhunīhi sahadhammikaṃ vuccamānā attānaṃ avacanīyaṃ karoti:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:69.2"
+msgid "“mā maṃ ayyāyo kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahampāyyāyo, na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyyāyo, mama vacanāyā”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:69.3"
+msgid "“māyyā, attānaṃ avacanīyaṃ akāsi, vacanīyameva, ayyā, attānaṃ karotu, ayyāpi bhikkhuniyo vadatu sahadhammena, bhikkhuniyopi ayyaṃ vakkhanti sahadhammena, evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ aññamaññavacanena aññamaññavuṭṭhāpanenā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:69.4"
+msgid "Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:69.5"
+msgid "No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="ss17">
+msgctxt "pli-tv-bi-pm:70.1"
+msgid "Saṅghādisesa 17. Kuladūsakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc34
+msgctxt "pli-tv-bi-pm:71.1"
+msgid "Bhikkhunī paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsikā pāpasamācārā, tassā kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tāya duṭṭhāni dissanti ceva suyyanti ca, sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:71.2"
+msgid "“ayyā, kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya, duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā imamhā āvāsā, alaṃ te idha vāsenā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:71.3"
+msgid "Evañca sā bhikkhunī bhikkhunīhi vuccamānā tā bhikkhuniyo evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:71.4"
+msgid "“chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo, tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:71.5"
+msgid "“māyyā, evaṃ avaca, na ca bhikkhuniyo chandagāminiyo, na ca bhikkhuniyo dosagāminiyo , na ca bhikkhuniyo mohagāminiyo, na ca bhikkhuniyo bhayagāminiyo, ayyā kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā, imamhā āvāsā alaṃ te idha vāsenā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:71.6"
+msgid "Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:71.7"
+msgid "No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ."
+msgstr ""
+
+#. HTML: </p><hr><p>
+#. REF: sc35
+msgctxt "pli-tv-bi-pm:72.1"
+msgid "Uddiṭṭhā kho ayyāyo sattarasa saṅghādisesā dhammā nava paṭhamāpattikā, aṭṭha yāvatatiyakā, yesaṃ bhikkhunī aññataraṃ vā aññataraṃ vā āpajjati, tāya bhikkhuniyā ubhatosaṅghe pakkhamānattaṃ caritabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:72.2"
+msgid "Ciṇṇamānattā bhikkhunī yattha siyā vīsatigaṇo bhikkhunisaṅgho, tattha sā bhikkhunī abbhetabbā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:72.3"
+msgid "Ekāyapi ce ūno vīsatigaṇo bhikkhunisaṅgho taṃ bhikkhuniṃ abbheyya, sā ca bhikkhunī anabbhitā, tā ca bhikkhuniyo gārayhā, ayaṃ tattha sāmīci."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:72.4"
+msgid "Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi, pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:73.1"
+msgid "Saṅghādiseso niṭṭhito."
+msgstr ""
+
+#. HTML: </p><h2 id="np">
+msgctxt "pli-tv-bi-pm:74.1"
+msgid "Nissaggiya pācittiyā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc36
+msgctxt "pli-tv-bi-pm:75.1"
+msgid "Ime kho panāyyāyo tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:76.1"
+msgid "Pattavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="np1">
+msgctxt "pli-tv-bi-pm:77.1"
+msgid "Nissaggiya pācittiya 1. Pattasannicayasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc37
+msgctxt "pli-tv-bi-pm:78.1"
+msgid "Yā pana bhikkhunī pattasannicayaṃ kareyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np2">
+msgctxt "pli-tv-bi-pm:79.1"
+msgid "Nissaggiya pācittiya 2. Akālacīvarabhājanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc38
+msgctxt "pli-tv-bi-pm:80.1"
+msgid "Yā pana bhikkhunī akālacīvaraṃ “kālacīvara”nti adhiṭṭhahitvā bhājāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np3">
+msgctxt "pli-tv-bi-pm:81.1"
+msgid "Nissaggiya pācittiya 3. Cīvaraparivattanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc39
+msgctxt "pli-tv-bi-pm:82.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā saddhiṃ cīvaraṃ parivattetvā sā pacchā evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:82.2"
+msgid "“handāyye, tuyhaṃ cīvaraṃ, āhara metaṃ cīvaraṃ, yaṃ tuyhaṃ tuyhamevetaṃ, yaṃ mayhaṃ mayhamevetaṃ, āhara metaṃ cīvaraṃ, sakaṃ paccāharā”ti acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np4">
+msgctxt "pli-tv-bi-pm:83.1"
+msgid "Nissaggiya pācittiya 4. Aññaviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc40
+msgctxt "pli-tv-bi-pm:84.1"
+msgid "Yā pana bhikkhunī aññaṃ viññāpetvā aññaṃ viññāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np5">
+msgctxt "pli-tv-bi-pm:85.1"
+msgid "Nissaggiya pācittiya 5. Aññacetāpana sikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc41
+msgctxt "pli-tv-bi-pm:86.1"
+msgid "Yā pana bhikkhunī aññaṃ cetāpetvā aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np6">
+msgctxt "pli-tv-bi-pm:87.1"
+msgid "Nissaggiya pācittiya 6. Paṭhamasaṅghikacetāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc42
+msgctxt "pli-tv-bi-pm:88.1"
+msgid "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np7">
+msgctxt "pli-tv-bi-pm:89.1"
+msgid "Nissaggiya pācittiya 7. Dutiyasaṅghikacetāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc43
+msgctxt "pli-tv-bi-pm:90.1"
+msgid "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena saññācikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np8">
+msgctxt "pli-tv-bi-pm:91.1"
+msgid "Nissaggiya pācittiya 8. Paṭhamagaṇikacetāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc44
+msgctxt "pli-tv-bi-pm:92.1"
+msgid "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np9">
+msgctxt "pli-tv-bi-pm:93.1"
+msgid "Nissaggiya pācittiya 9. Dutiyagaṇikacetāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc45
+msgctxt "pli-tv-bi-pm:94.1"
+msgid "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np10">
+msgctxt "pli-tv-bi-pm:95.1"
+msgid "Nissaggiya pācittiya 10. Puggalikacetāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc46
+msgctxt "pli-tv-bi-pm:96.1"
+msgid "Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:97.1"
+msgid "Pattavaggo paṭhamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:98.1"
+msgid "Cīvaravaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="np11">
+msgctxt "pli-tv-bi-pm:99.1"
+msgid "Nissaggiya pācittiya 11. Garupāvuraṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc47
+msgctxt "pli-tv-bi-pm:100.1"
+msgid "Garupāvuraṇaṃ pana bhikkhuniyā cetāpentiyā catukkaṃsaparamaṃ cetāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:100.2"
+msgid "Tato ce uttari cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np12">
+msgctxt "pli-tv-bi-pm:101.1"
+msgid "Nissaggiya pācittiya 12. Lahupāvuraṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc48
+msgctxt "pli-tv-bi-pm:102.1"
+msgid "Lahupāvuraṇaṃ pana bhikkhuniyā cetāpentiyā aḍḍhateyyakaṃsaparamaṃ cetāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:102.2"
+msgid "Tato ce uttari cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np13">
+msgctxt "pli-tv-bi-pm:103.1"
+msgid "Nissaggiya pācittiya 13. Kathinasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc49
+msgctxt "pli-tv-bi-pm:104.1"
+msgid "Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:104.2"
+msgid "Taṃ atikkāmentiyā, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np14">
+msgctxt "pli-tv-bi-pm:105.1"
+msgid "Nissaggiya pācittiya 14. Udositasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc50
+msgctxt "pli-tv-bi-pm:106.1"
+msgid "Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine ekarattampi ce bhikkhunī ticīvarena vippavaseyya, aññatra bhikkhunisammutiyā nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np15">
+msgctxt "pli-tv-bi-pm:107.1"
+msgid "Nissaggiya pācittiya 15. Akālacīvarasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc51
+msgctxt "pli-tv-bi-pm:108.1"
+msgid "Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine bhikkhuniyā paneva akālacīvaraṃ uppajjeyya, ākaṅkhamānāya bhikkhuniyā paṭiggahetabbaṃ, paṭiggahetvā khippameva kāretabbaṃ, no cassa pāripūri, māsaparamaṃ tāya bhikkhuniyā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:108.2"
+msgid "Tato ce uttari nikkhipeyya satiyāpi paccāsāya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np16">
+msgctxt "pli-tv-bi-pm:109.1"
+msgid "Nissaggiya pācittiya 16. Aññātakaviññattisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc52
+msgctxt "pli-tv-bi-pm:110.1"
+msgid "Yā pana bhikkhunī aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya aññatra samayā, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:110.2"
+msgid "Tatthāyaṃ samayo acchinnacīvarā vā hoti bhikkhunī, naṭṭhacīvarā vā, ayaṃ tattha samayo."
+msgstr ""
+
+#. HTML: </p><h4 id="np17">
+msgctxt "pli-tv-bi-pm:111.1"
+msgid "Nissaggiya pācittiya 17. Tatuttarisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc53
+msgctxt "pli-tv-bi-pm:112.1"
+msgid "Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya, santaruttaraparamaṃ tāya bhikkhuniyā tato cīvaraṃ sāditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:112.2"
+msgid "Tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np18">
+msgctxt "pli-tv-bi-pm:113.1"
+msgid "Nissaggiya pācittiya 18. Paṭhamaupakkhaṭasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc54
+msgctxt "pli-tv-bi-pm:114.1"
+msgid "Bhikkhuniṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:114.2"
+msgid "“iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuniṃ cīvarena acchādessāmī”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:114.3"
+msgid "Tatra cesā bhikkhunī pubbe appavāritā upasaṅkamitvā cīvare vikappaṃ āpajjeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:114.4"
+msgid "“sādhu vata, maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī”ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np19">
+msgctxt "pli-tv-bi-pm:115.1"
+msgid "Nissaggiya pācittiya 19. Dutiyaupakkhaṭasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc55
+msgctxt "pli-tv-bi-pm:116.1"
+msgid "Bhikkhuniṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:116.2"
+msgid "“imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuniṃ cīvarehi acchādessāmā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:116.3"
+msgid "Tatra cesā bhikkhūnī pubbe appavāritā upasaṅkamitvā cīvare vikappaṃ āpajjeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:116.4"
+msgid "“sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubhova santā ekenā”ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np20">
+msgctxt "pli-tv-bi-pm:117.1"
+msgid "Nissaggiya pācittiya 20. Rājasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc56
+msgctxt "pli-tv-bi-pm:118.1"
+msgid "Bhikkhuniṃ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.2"
+msgid "“iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuniṃ cīvarena acchādehī”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.3"
+msgid "So ce dūto taṃ bhikkhuniṃ upasaṅkamitvā evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.4"
+msgid "“idaṃ kho, ayye, ayyaṃ uddissa cīvaracetāpannaṃ ābhataṃ, paṭiggaṇhātāyyā cīvaracetāpanna”nti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.5"
+msgid "Tāya bhikkhuniyā so dūto evamassa vacanīyo:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.6"
+msgid "“na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiya”nti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.7"
+msgid "So ce dūto taṃ bhikkhuniṃ evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.8"
+msgid "“atthi panāyyāya, koci veyyāvaccakaro”ti, cīvaratthikāya, bhikkhave, bhikkhuniyā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.9"
+msgid "“eso kho, āvuso, bhikkhunīnaṃ veyyāvaccakaro”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.10"
+msgid "So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuniṃ upasaṅkamitvā evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.11"
+msgid "“yaṃ kho, ayye, ayyā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatāyyā kālena, cīvarena taṃ acchādessatī”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.12"
+msgid "Cīvaratthikāya, bhikkhave, bhikkhuniyā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.13"
+msgid "“attho me, āvuso, cīvarenā”ti, dvattikkhattuṃ codayamānā sārayamānā taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ, no ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtāya uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtā uddissa tiṭṭhamānā taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.14"
+msgid "Tato ce uttari vāyamamānā taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.15"
+msgid "No ce abhinipphādeyya, yatassā cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:118.16"
+msgid "“yaṃ kho tumhe āyasmanto bhikkhuniṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassā bhikkhuniyā kiñci atthaṃ anubhoti, yuñjantāyasmanto sakaṃ, mā vo sakaṃ vinassā”ti, ayaṃ tattha sāmīci."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:119.1"
+msgid "Cīvaravaggo dutiyo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:120.1"
+msgid "Pattavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="np21">
+msgctxt "pli-tv-bi-pm:121.1"
+msgid "Nissaggiya pācittiya 21. Rūpiyasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc57
+msgctxt "pli-tv-bi-pm:122.1"
+msgid "Yā pana bhikkhunī jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np22">
+msgctxt "pli-tv-bi-pm:123.1"
+msgid "Nissaggiya pācittiya 22. Rūpiyasaṃvohārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc58
+msgctxt "pli-tv-bi-pm:124.1"
+msgid "Yā pana bhikkhunī nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np23">
+msgctxt "pli-tv-bi-pm:125.1"
+msgid "Nissaggiya pācittiya 23. Kayavikkayasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc59
+msgctxt "pli-tv-bi-pm:126.1"
+msgid "Yā pana bhikkhunī nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np24">
+msgctxt "pli-tv-bi-pm:127.1"
+msgid "Nissaggiya pācittiya 24. Ūnapañcabandhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc60
+msgctxt "pli-tv-bi-pm:128.1"
+msgid "Yā pana bhikkhunī ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:128.2"
+msgid "Tāya bhikkhuniyā so patto bhikkhuniparisāya nissajjitabbo, yo ca tassā bhikkhuniparisāya pattapariyanto, so tassā bhikkhuniyā padātabbo:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:128.3"
+msgid "“ayaṃ te bhikkhuni patto yāvabhedanāya dhāretabbo”ti, ayaṃ tattha sāmīci."
+msgstr ""
+
+#. HTML: </p><h4 id="np25">
+msgctxt "pli-tv-bi-pm:129.1"
+msgid "Nissaggiya pācittiya 25. Bhesajjasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc61
+msgctxt "pli-tv-bi-pm:130.1"
+msgid "Yāni kho pana tāni gilānānaṃ bhikkhunīnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:130.2"
+msgid "sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:130.3"
+msgid "Taṃ atikkāmentiyā, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np26">
+msgctxt "pli-tv-bi-pm:131.1"
+msgid "Nissaggiya pācittiya 26. Cīvaraacchindanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc62
+msgctxt "pli-tv-bi-pm:132.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā sāmaṃ cīvaraṃ datvā kupitā anattamanā acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np27">
+msgctxt "pli-tv-bi-pm:133.1"
+msgid "Nissaggiya pācittiya 27. Suttaviññattisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc63
+msgctxt "pli-tv-bi-pm:134.1"
+msgid "Yā pana bhikkhunī sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np28">
+msgctxt "pli-tv-bi-pm:135.1"
+msgid "Nissaggiya pācittiya 28. Mahāpesakārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc64
+msgctxt "pli-tv-bi-pm:136.1"
+msgid "Bhikkhuniṃ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra cesā bhikkhunī pubbe appavāritā tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:136.2"
+msgid "“idaṃ kho āvuso cīvaraṃ maṃ uddissa viyyati, āyatañca karotha, vitthatañca appitañca suvītañca suppavāyitañca suvilekhitañca suvitacchitañca karotha, appeva nāma mayampi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā”ti, evañca sā bhikkhunī vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np29">
+msgctxt "pli-tv-bi-pm:137.1"
+msgid "Nissaggiya pācittiya 29. Accekacīvarasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc65
+msgctxt "pli-tv-bi-pm:138.1"
+msgid "Dasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuniyā paneva accekacīvaraṃ uppajjeyya, accekaṃ maññamānāya bhikkhuniyā paṭiggahetabbaṃ, paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:138.2"
+msgid "Tato ce uttari nikkhipeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="np30">
+msgctxt "pli-tv-bi-pm:139.1"
+msgid "Nissaggiya pācittiya 30. Pariṇatasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc66
+msgctxt "pli-tv-bi-pm:140.1"
+msgid "Yā pana bhikkhunī jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:141.1"
+msgid "Pattavaggo tatiyo."
+msgstr ""
+
+#. HTML: </p><hr><p>
+#. REF: sc67
+msgctxt "pli-tv-bi-pm:142.1"
+msgid "Uddiṭṭhā kho, ayyāyo, tiṃsa nissaggiyā pācittiyā dhammā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:142.2"
+msgid "Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:143.1"
+msgid "Nissaggiyapācittiyā niṭṭhitā."
+msgstr ""
+
+#. HTML: </p><h2 id="pc">
+msgctxt "pli-tv-bi-pm:144.1"
+msgid "Suddhapācittiyā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc68
+msgctxt "pli-tv-bi-pm:145.1"
+msgid "Ime kho panāyyāyo, chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:146.1"
+msgid "Lasuṇavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc1">
+msgctxt "pli-tv-bi-pm:147.1"
+msgid "Pācittiya 1. Lasuṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:148.1"
+msgid "Yā pana bhikkhunī lasuṇaṃ khādeyya pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc2">
+msgctxt "pli-tv-bi-pm:149.1"
+msgid "Pācittiya 2. Sambādhalomasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc69
+msgctxt "pli-tv-bi-pm:150.1"
+msgid "Yā pana bhikkhunī sambādhe lomaṃ saṃharāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc3">
+msgctxt "pli-tv-bi-pm:151.1"
+msgid "Pācittiya 3. Talaghātakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:152.1"
+msgid "Talaghātake pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc4">
+msgctxt "pli-tv-bi-pm:153.1"
+msgid "Pācittiya 4. Jatumaṭṭhakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:154.1"
+msgid "Jatumaṭṭhake pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc5">
+msgctxt "pli-tv-bi-pm:155.1"
+msgid "Pācittiya 5. Udakasuddhikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc70
+msgctxt "pli-tv-bi-pm:156.1"
+msgid "Udakasuddhikaṃ pana bhikkhuniyā ādiyamānāya dvaṅgulapabbaparamaṃ ādātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:156.2"
+msgid "Taṃ atikkāmentiyā pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc6">
+msgctxt "pli-tv-bi-pm:157.1"
+msgid "Pācittiya 6. Upatiṭṭhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc71
+msgctxt "pli-tv-bi-pm:158.1"
+msgid "Yā pana bhikkhunī bhikkhussa bhuñjantassa pānīyena vā vidhūpanena vā upatiṭṭheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc7">
+msgctxt "pli-tv-bi-pm:159.1"
+msgid "Pācittiya 7. Āmakadhaññasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc72
+msgctxt "pli-tv-bi-pm:160.1"
+msgid "Yā pana bhikkhunī āmakadhaññaṃ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc8">
+msgctxt "pli-tv-bi-pm:161.1"
+msgid "Pācittiya 8. Paṭhamauccārachaḍḍanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc73
+msgctxt "pli-tv-bi-pm:162.1"
+msgid "Yā pana bhikkhunī uccāraṃ vā passāvaṃ vā saṅkāraṃ vā vighāsaṃ vā tirokuṭṭe vā tiropākāre vā chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc9">
+msgctxt "pli-tv-bi-pm:163.1"
+msgid "Pācittiya 9. Dutiyauccārachaḍḍanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc74
+msgctxt "pli-tv-bi-pm:164.1"
+msgid "Yā pana bhikkhunī uccāraṃ vā passāvaṃ vā saṅkāraṃ vā vighāsaṃ vā harite chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc10">
+msgctxt "pli-tv-bi-pm:165.1"
+msgid "Pācittiya 10. Naccagītasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc75
+msgctxt "pli-tv-bi-pm:166.1"
+msgid "Yā pana bhikkhunī naccaṃ vā gītaṃ vā vāditaṃ vā dassanāya gaccheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:167.1"
+msgid "Lasuṇavaggo paṭhamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:168.1"
+msgid "Rattandhakāravaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc11">
+msgctxt "pli-tv-bi-pm:169.1"
+msgid "Pācittiya 11. Rattandhakārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc76
+msgctxt "pli-tv-bi-pm:170.1"
+msgid "Yā pana bhikkhunī rattandhakāre appadīpe purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc12">
+msgctxt "pli-tv-bi-pm:171.1"
+msgid "Pācittiya 12. Paṭicchannokāsasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc77
+msgctxt "pli-tv-bi-pm:172.1"
+msgid "Yā pana bhikkhunī paṭicchanne okāse purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc13">
+msgctxt "pli-tv-bi-pm:173.1"
+msgid "Pācittiya 13. Ajjhokāsasallapanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc78
+msgctxt "pli-tv-bi-pm:174.1"
+msgid "Yā pana bhikkhunī ajjhokāse purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc14">
+msgctxt "pli-tv-bi-pm:175.1"
+msgid "Pācittiya 14. Dutiyikauyyojanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc79
+msgctxt "pli-tv-bi-pm:176.1"
+msgid "Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā nikaṇṇikaṃ vā jappeyya dutiyikaṃ vā bhikkhuniṃ uyyojeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc15">
+msgctxt "pli-tv-bi-pm:177.1"
+msgid "Pācittiya 15. Anāpucchāpakkamanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc80
+msgctxt "pli-tv-bi-pm:178.1"
+msgid "Yā pana bhikkhunī purebhattaṃ kulāni upasaṅkamitvā āsane nisīditvā sāmike anāpucchā pakkameyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc16">
+msgctxt "pli-tv-bi-pm:179.1"
+msgid "Pācittiya 16. Anāpucchāabhinisīdanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc81
+msgctxt "pli-tv-bi-pm:180.1"
+msgid "Yā pana bhikkhunī pacchābhattaṃ kulāni upasaṅkamitvā sāmike anāpucchā āsane abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc17">
+msgctxt "pli-tv-bi-pm:181.1"
+msgid "Pācittiya 17. Anāpucchāsantharaṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc82
+msgctxt "pli-tv-bi-pm:182.1"
+msgid "Yā pana bhikkhunī vikāle kulāni upasaṅkamitvā sāmike anāpucchā seyyaṃ santharitvā vā santharāpetvā vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc18">
+msgctxt "pli-tv-bi-pm:183.1"
+msgid "Pācittiya 18. Paraujjhāpanakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc83
+msgctxt "pli-tv-bi-pm:184.1"
+msgid "Yā pana bhikkhunī duggahitena dūpadhāritena paraṃ ujjhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc19">
+msgctxt "pli-tv-bi-pm:185.1"
+msgid "Pācittiya 19. Paraabhisapanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc84
+msgctxt "pli-tv-bi-pm:186.1"
+msgid "Yā pana bhikkhunī attānaṃ vā paraṃ vā nirayena vā brahmacariyena vā abhisapeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc20">
+msgctxt "pli-tv-bi-pm:187.1"
+msgid "Pācittiya 20. Rodanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc85
+msgctxt "pli-tv-bi-pm:188.1"
+msgid "Yā pana bhikkhunī attānaṃ vadhitvā vadhitvā rodeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:189.1"
+msgid "Rattandhakāravaggo dutiyo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:190.1"
+msgid "Naggavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc21">
+msgctxt "pli-tv-bi-pm:191.1"
+msgid "Pācittiya 21. Naggasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:192.1"
+msgid "Yā pana bhikkhunī naggā nahāyeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc22">
+msgctxt "pli-tv-bi-pm:193.1"
+msgid "Pācittiya 22. Udakasāṭikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc86
+msgctxt "pli-tv-bi-pm:194.1"
+msgid "Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ , dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:194.2"
+msgid "Taṃ atikkāmentiyā chedanakaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc23">
+msgctxt "pli-tv-bi-pm:195.1"
+msgid "Pācittiya 23. Cīvarasibbanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc87
+msgctxt "pli-tv-bi-pm:196.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā cīvaraṃ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī neva sibbeyya, na sibbāpanāya ussukkaṃ kareyya aññatra catūhapañcāhā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc24">
+msgctxt "pli-tv-bi-pm:197.1"
+msgid "Pācittiya 24. Saṅghāṭicārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc88
+msgctxt "pli-tv-bi-pm:198.1"
+msgid "Yā pana bhikkhunī pañcāhikaṃ saṅghāṭicāraṃ atikkāmeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc25">
+msgctxt "pli-tv-bi-pm:199.1"
+msgid "Pācittiya 25. Cīvarasaṅkamanīyasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc89
+msgctxt "pli-tv-bi-pm:200.1"
+msgid "Yā pana bhikkhunī cīvarasaṅkamanīyaṃ dhāreyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc26">
+msgctxt "pli-tv-bi-pm:201.1"
+msgid "Pācittiya 26. Gaṇacīvarasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc90
+msgctxt "pli-tv-bi-pm:202.1"
+msgid "Yā pana bhikkhunī gaṇassa cīvaralābhaṃ antarāyaṃ kareyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc27">
+msgctxt "pli-tv-bi-pm:203.1"
+msgid "Pācittiya 27. Paṭibāhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc91
+msgctxt "pli-tv-bi-pm:204.1"
+msgid "Yā pana bhikkhunī dhammikaṃ cīvaravibhaṅgaṃ paṭibāheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc28">
+msgctxt "pli-tv-bi-pm:205.1"
+msgid "Pācittiya 28. Cīvaradānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc92
+msgctxt "pli-tv-bi-pm:206.1"
+msgid "Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṃ dadeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc29">
+msgctxt "pli-tv-bi-pm:207.1"
+msgid "Pācittiya 29. Kālaatikkamanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc93
+msgctxt "pli-tv-bi-pm:208.1"
+msgid "Yā pana bhikkhunī dubbalacīvarapaccāsāya cīvarakālasamayaṃ atikkāmeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc30">
+msgctxt "pli-tv-bi-pm:209.1"
+msgid "Pācittiya 30. Kathinuddhārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc94
+msgctxt "pli-tv-bi-pm:210.1"
+msgid "Yā pana bhikkhunī dhammikaṃ kathinuddhāraṃ paṭibāheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:211.1"
+msgid "Naggavaggo tatiyo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:212.1"
+msgid "Tuvaṭṭavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc31">
+msgctxt "pli-tv-bi-pm:213.1"
+msgid "Pācittiya 31. Ekamañcatuvaṭṭanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc95
+msgctxt "pli-tv-bi-pm:214.1"
+msgid "Yā pana bhikkhuniyo dve ekamañce tuvaṭṭeyyuṃ, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc32">
+msgctxt "pli-tv-bi-pm:215.1"
+msgid "Pācittiya 32. Ekattharaṇatuvaṭṭanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc96
+msgctxt "pli-tv-bi-pm:216.1"
+msgid "Yā pana bhikkhuniyo dve ekattharaṇapāvuraṇā tuvaṭṭeyyuṃ, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc33">
+msgctxt "pli-tv-bi-pm:217.1"
+msgid "Pācittiya 33. Aphāsukaraṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc97
+msgctxt "pli-tv-bi-pm:218.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā sañcicca aphāsuṃ kareyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc34">
+msgctxt "pli-tv-bi-pm:219.1"
+msgid "Pācittiya 34. Naupaṭṭhāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc98
+msgctxt "pli-tv-bi-pm:220.1"
+msgid "Yā pana bhikkhunī dukkhitaṃ sahajīviniṃ neva upaṭṭhaheyya, na upaṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc35">
+msgctxt "pli-tv-bi-pm:221.1"
+msgid "Pācittiya 35. Nikkaḍḍhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc99
+msgctxt "pli-tv-bi-pm:222.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā upassayaṃ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc36">
+msgctxt "pli-tv-bi-pm:223.1"
+msgid "Pācittiya 36. Saṃsaṭṭhasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc100
+msgctxt "pli-tv-bi-pm:224.1"
+msgid "Yā pana bhikkhunī saṃsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:224.2"
+msgid "“māyye, saṃsaṭṭhā vihari gahapatināpi gahapatiputtenāpi, viviccāyye, vivekaññeva bhaginiyā saṅgho vaṇṇetī”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:224.3"
+msgid "Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:224.4"
+msgid "No ce paṭinissajjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc37">
+msgctxt "pli-tv-bi-pm:225.1"
+msgid "Pācittiya 37. Antoraṭṭhasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc101
+msgctxt "pli-tv-bi-pm:226.1"
+msgid "Yā pana bhikkhunī antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc38">
+msgctxt "pli-tv-bi-pm:227.1"
+msgid "Pācittiya 38. Tiroraṭṭhasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc102
+msgctxt "pli-tv-bi-pm:228.1"
+msgid "Yā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc39">
+msgctxt "pli-tv-bi-pm:229.1"
+msgid "Pācittiya 39. Antovassasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc103
+msgctxt "pli-tv-bi-pm:230.1"
+msgid "Yā pana bhikkhunī antovassaṃ cārikaṃ careyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc40">
+msgctxt "pli-tv-bi-pm:231.1"
+msgid "Pācittiya 40. Cārikanapakkamanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc104
+msgctxt "pli-tv-bi-pm:232.1"
+msgid "Yā pana bhikkhunī vassaṃvuṭṭhā cārikaṃ na pakkameyya antamaso chappañcayojanānipi, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:233.1"
+msgid "Tuvaṭṭavaggo catuttho."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:234.1"
+msgid "Cittāgāravaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc41">
+msgctxt "pli-tv-bi-pm:235.1"
+msgid "Pācittiya 41. Rājāgārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc105
+msgctxt "pli-tv-bi-pm:236.1"
+msgid "Yā pana bhikkhunī rājāgāraṃ vā cittāgāraṃ vā ārāmaṃ vā uyyānaṃ vā pokkharaṇiṃ vā dassanāya gaccheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc42">
+msgctxt "pli-tv-bi-pm:237.1"
+msgid "Pācittiya 42. Āsandiparibhuñjanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc106
+msgctxt "pli-tv-bi-pm:238.1"
+msgid "Yā pana bhikkhunī āsandiṃ vā pallaṅkaṃ vā paribhuñjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc43">
+msgctxt "pli-tv-bi-pm:239.1"
+msgid "Pācittiya 43. Suttakantanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:240.1"
+msgid "Yā pana bhikkhunī suttaṃ kanteyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc44">
+msgctxt "pli-tv-bi-pm:241.1"
+msgid "Pācittiya 44. Gihiveyyāvaccasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc107
+msgctxt "pli-tv-bi-pm:242.1"
+msgid "Yā pana bhikkhunī gihiveyyāvaccaṃ kareyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc45">
+msgctxt "pli-tv-bi-pm:243.1"
+msgid "Pācittiya 45. Adhikaraṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc108
+msgctxt "pli-tv-bi-pm:244.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:244.2"
+msgid "“ehāyye, imaṃ adhikaraṇaṃ vūpasamehī”ti vuccamānā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:244.3"
+msgid "“sādhū”ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya, na vūpasamāya ussukkaṃ kareyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc46">
+msgctxt "pli-tv-bi-pm:245.1"
+msgid "Pācittiya 46. Bhojanadānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc109
+msgctxt "pli-tv-bi-pm:246.1"
+msgid "Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc47">
+msgctxt "pli-tv-bi-pm:247.1"
+msgid "Pācittiya 47. Āvasathacīvarasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc110
+msgctxt "pli-tv-bi-pm:248.1"
+msgid "Yā pana bhikkhunī āvasathacīvaraṃ anissajjetvā paribhuñjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc48">
+msgctxt "pli-tv-bi-pm:249.1"
+msgid "Pācittiya 48. Āvasathavihārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc111
+msgctxt "pli-tv-bi-pm:250.1"
+msgid "Yā pana bhikkhunī āvasathaṃ anissajjitvā cārikaṃ pakkameyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc49">
+msgctxt "pli-tv-bi-pm:251.1"
+msgid "Pācittiya 49. Tiracchānavijjāpariyāpuṇanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc112
+msgctxt "pli-tv-bi-pm:252.1"
+msgid "Yā pana bhikkhunī tiracchānavijjaṃ pariyāpuṇeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc50">
+msgctxt "pli-tv-bi-pm:253.1"
+msgid "Pācittiya 50. Tiracchānavijjāvācanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc113
+msgctxt "pli-tv-bi-pm:254.1"
+msgid "Yā pana bhikkhunī tiracchānavijjaṃ vāceyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:255.1"
+msgid "Cittāgāravaggo pañcamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:256.1"
+msgid "Ārāmavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc51">
+msgctxt "pli-tv-bi-pm:257.1"
+msgid "Pācittiya 51. Ārāmapavisanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc114
+msgctxt "pli-tv-bi-pm:258.1"
+msgid "Yā pana bhikkhunī jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā paviseyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc52">
+msgctxt "pli-tv-bi-pm:259.1"
+msgid "Pācittiya 52. Bhikkhuakkosanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc115
+msgctxt "pli-tv-bi-pm:260.1"
+msgid "Yā pana bhikkhunī bhikkhuṃ akkoseyya vā paribhāseyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc53">
+msgctxt "pli-tv-bi-pm:261.1"
+msgid "Pācittiya 53. Gaṇaparibhāsanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc116
+msgctxt "pli-tv-bi-pm:262.1"
+msgid "Yā pana bhikkhunī caṇḍīkatā gaṇaṃ paribhāseyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc54">
+msgctxt "pli-tv-bi-pm:263.1"
+msgid "Pācittiya 54. Pavāritasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc117
+msgctxt "pli-tv-bi-pm:264.1"
+msgid "Yā pana bhikkhunī nimantitā vā pavāritā vā khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc55">
+msgctxt "pli-tv-bi-pm:265.1"
+msgid "Pācittiya 55. Kulamaccharinīsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:266.1"
+msgid "Yā pana bhikkhunī kulamaccharinī assa, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc56">
+msgctxt "pli-tv-bi-pm:267.1"
+msgid "Pācittiya 56. Abhikkhukāvāsasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc118
+msgctxt "pli-tv-bi-pm:268.1"
+msgid "Yā pana bhikkhunī abhikkhuke āvāse vassaṃ vaseyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc57">
+msgctxt "pli-tv-bi-pm:269.1"
+msgid "Pācittiya 57. Apavāraṇāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc119
+msgctxt "pli-tv-bi-pm:270.1"
+msgid "Yā pana bhikkhunī vassaṃvuṭṭhā ubhatosaṅghe tīhi ṭhānehi na pavāreyya diṭṭhena vā sutena vā parisaṅkāya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc58">
+msgctxt "pli-tv-bi-pm:271.1"
+msgid "Pācittiya 58. Ovādasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc120
+msgctxt "pli-tv-bi-pm:272.1"
+msgid "Yā pana bhikkhunī ovādāya vā saṃvāsāya vā na gaccheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc59">
+msgctxt "pli-tv-bi-pm:273.1"
+msgid "Pācittiya 59. Ovādūpasaṅkamanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc121
+msgctxt "pli-tv-bi-pm:274.1"
+msgid "Anvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañca ovādūpasaṅkamanañca."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:274.2"
+msgid "Taṃ atikkāmentiyā pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc60">
+msgctxt "pli-tv-bi-pm:275.1"
+msgid "Pācittiya 60. Pasākhejātasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc122
+msgctxt "pli-tv-bi-pm:276.1"
+msgid "Yā pana bhikkhunī pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ ekenekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:277.1"
+msgid "Ārāmavaggo chaṭṭho."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:278.1"
+msgid "Gabbhinivaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc61">
+msgctxt "pli-tv-bi-pm:279.1"
+msgid "Pācittiya 61. Gabbhinīsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc123
+msgctxt "pli-tv-bi-pm:280.1"
+msgid "Yā pana bhikkhunī gabbhiniṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc62">
+msgctxt "pli-tv-bi-pm:281.1"
+msgid "Pācittiya 62. Pāyantīsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc124
+msgctxt "pli-tv-bi-pm:282.1"
+msgid "Yā pana bhikkhunī pāyantiṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc63">
+msgctxt "pli-tv-bi-pm:283.1"
+msgid "Pācittiya 63. Paṭhamasikkhamānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc125
+msgctxt "pli-tv-bi-pm:284.1"
+msgid "Yā pana bhikkhunī dve vassāni chasu dhammesu asikkhitasikkhaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc64">
+msgctxt "pli-tv-bi-pm:285.1"
+msgid "Pācittiya 64. Dutiyasikkhamānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc126
+msgctxt "pli-tv-bi-pm:286.1"
+msgid "Yā pana bhikkhunī dve vassāni chasu dhammesu sikkhitasikkhaṃ sikkhamānaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc65">
+msgctxt "pli-tv-bi-pm:287.1"
+msgid "Pācittiya 65. Paṭhamagihigatasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc127
+msgctxt "pli-tv-bi-pm:288.1"
+msgid "Yā pana bhikkhunī ūnadvādasavassaṃ gihigataṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc66">
+msgctxt "pli-tv-bi-pm:289.1"
+msgid "Pācittiya 66. Dutiyagihigatasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc128
+msgctxt "pli-tv-bi-pm:290.1"
+msgid "Yā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc67">
+msgctxt "pli-tv-bi-pm:291.1"
+msgid "Pācittiya 67. Tatiyagihigatasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc129
+msgctxt "pli-tv-bi-pm:292.1"
+msgid "Yā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu sikkhitasikkhaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc68">
+msgctxt "pli-tv-bi-pm:293.1"
+msgid "Pācittiya 68. Paṭhamasahajīvinīsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc130
+msgctxt "pli-tv-bi-pm:294.1"
+msgid "Yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā dve vassāni neva anuggaṇheyya na anuggaṇhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc69">
+msgctxt "pli-tv-bi-pm:295.1"
+msgid "Pācittiya 69. Pavattinīnānubandhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc131
+msgctxt "pli-tv-bi-pm:296.1"
+msgid "Yā pana bhikkhunī vuṭṭhāpitaṃ pavattiniṃ dve vassāni nānubandheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc70">
+msgctxt "pli-tv-bi-pm:297.1"
+msgid "Pācittiya 70. Dutiyasahajīvinīsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc132
+msgctxt "pli-tv-bi-pm:298.1"
+msgid "Yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:299.1"
+msgid "Gabbhinivaggo sattamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:300.1"
+msgid "Kumāribhūtavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc71">
+msgctxt "pli-tv-bi-pm:301.1"
+msgid "Pācittiya 71. Paṭhamakumāribhūtasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc133
+msgctxt "pli-tv-bi-pm:302.1"
+msgid "Yā pana bhikkhunī ūnavīsativassaṃ kumāribhūtaṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc72">
+msgctxt "pli-tv-bi-pm:303.1"
+msgid "Pācittiya 72. Dutiyakumāribhūtasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc134
+msgctxt "pli-tv-bi-pm:304.1"
+msgid "Yā pana bhikkhunī paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc73">
+msgctxt "pli-tv-bi-pm:305.1"
+msgid "Pācittiya 73. Tatiyakumāribhūtasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc135
+msgctxt "pli-tv-bi-pm:306.1"
+msgid "Yā pana bhikkhunī paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu sikkhitasikkhaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc74">
+msgctxt "pli-tv-bi-pm:307.1"
+msgid "Pācittiya 74. Ūnadvādasavassasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc136
+msgctxt "pli-tv-bi-pm:308.1"
+msgid "Yā pana bhikkhunī ūnadvādasavassā vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc75">
+msgctxt "pli-tv-bi-pm:309.1"
+msgid "Pācittiya 75. Paripuṇṇadvādasavassasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc137
+msgctxt "pli-tv-bi-pm:310.1"
+msgid "Yā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc76">
+msgctxt "pli-tv-bi-pm:311.1"
+msgid "Pācittiya 76. Khiyyanadhammasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc138
+msgctxt "pli-tv-bi-pm:312.1"
+msgid "Yā pana bhikkhunī, “alaṃ tāva te, ayye, vuṭṭhāpitenā”ti vuccamānā, “sādhū”ti paṭissuṇitvā sā pacchā khiyyanadhammaṃ āpajjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc77">
+msgctxt "pli-tv-bi-pm:313.1"
+msgid "Pācittiya 77. Paṭhamasikkhamānanavuṭṭhāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc139
+msgctxt "pli-tv-bi-pm:314.1"
+msgid "Yā pana bhikkhunī sikkhamānaṃ, “sace me tvaṃ, ayye, cīvaraṃ dassasi, evāhaṃ taṃ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc78">
+msgctxt "pli-tv-bi-pm:315.1"
+msgid "Pācittiya 78. Dutiyasikkhamānanavuṭṭhāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc140
+msgctxt "pli-tv-bi-pm:316.1"
+msgid "Yā pana bhikkhunī sikkhamānaṃ, “sace maṃ tvaṃ, ayye, dve vassāni anubandhissasi, evāhaṃ taṃ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc79">
+msgctxt "pli-tv-bi-pm:317.1"
+msgid "Pācittiya 79. Sokāvāsasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc141
+msgctxt "pli-tv-bi-pm:318.1"
+msgid "Yā pana bhikkhunī purisasaṃsaṭṭhaṃ kumārakasaṃsaṭṭhaṃ caṇḍiṃ sokāvāsaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc80">
+msgctxt "pli-tv-bi-pm:319.1"
+msgid "Pācittiya 80. Ananuññātasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc142
+msgctxt "pli-tv-bi-pm:320.1"
+msgid "Yā pana bhikkhunī mātāpitūhi vā sāmikena vā ananuññātaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc81">
+msgctxt "pli-tv-bi-pm:321.1"
+msgid "Pācittiya 81. Pārivāsikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc143
+msgctxt "pli-tv-bi-pm:322.1"
+msgid "Yā pana bhikkhunī pārivāsikachandadānena sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc82">
+msgctxt "pli-tv-bi-pm:323.1"
+msgid "Pācittiya 82. Anuvassasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc144
+msgctxt "pli-tv-bi-pm:324.1"
+msgid "Yā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc83">
+msgctxt "pli-tv-bi-pm:325.1"
+msgid "Pācittiya 83. Ekavassasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc145
+msgctxt "pli-tv-bi-pm:326.1"
+msgid "Yā pana bhikkhunī ekaṃ vassaṃ dve vuṭṭhāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:327.1"
+msgid "Kumāribhūtavaggo aṭṭhamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:328.1"
+msgid "Chattupāhanavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc84">
+msgctxt "pli-tv-bi-pm:329.1"
+msgid "Pācittiya 84. Chattupāhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc146
+msgctxt "pli-tv-bi-pm:330.1"
+msgid "Yā pana bhikkhunī agilānā chattupāhanaṃ dhāreyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc85">
+msgctxt "pli-tv-bi-pm:331.1"
+msgid "Pācittiya 85. Yānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc147
+msgctxt "pli-tv-bi-pm:332.1"
+msgid "Yā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc86">
+msgctxt "pli-tv-bi-pm:333.1"
+msgid "Pācittiya 86. Saṅghāṇisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:334.1"
+msgid "Yā pana bhikkhunī saṅghāṇiṃ dhāreyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc87">
+msgctxt "pli-tv-bi-pm:335.1"
+msgid "Pācittiya 87. Itthālaṅkārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc148
+msgctxt "pli-tv-bi-pm:336.1"
+msgid "Yā pana bhikkhunī itthālaṅkāraṃ dhāreyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc88">
+msgctxt "pli-tv-bi-pm:337.1"
+msgid "Pācittiya 88. Gandhavaṇṇakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc149
+msgctxt "pli-tv-bi-pm:338.1"
+msgid "Yā pana bhikkhunī gandhavaṇṇakena nahāyeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc89">
+msgctxt "pli-tv-bi-pm:339.1"
+msgid "Pācittiya 89. Vāsitakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc150
+msgctxt "pli-tv-bi-pm:340.1"
+msgid "Yā pana bhikkhunī vāsitakena piññākena nahāyeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc90">
+msgctxt "pli-tv-bi-pm:341.1"
+msgid "Pācittiya 90. Bhikkhuniummaddāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc151
+msgctxt "pli-tv-bi-pm:342.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc91">
+msgctxt "pli-tv-bi-pm:343.1"
+msgid "Pācittiya 91. Sikkhamānaummaddāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc152
+msgctxt "pli-tv-bi-pm:344.1"
+msgid "Yā pana bhikkhunī sikkhamānāya ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc92">
+msgctxt "pli-tv-bi-pm:345.1"
+msgid "Pācittiya 92. Sāmaṇerīummaddāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc153
+msgctxt "pli-tv-bi-pm:346.1"
+msgid "Yā pana bhikkhunī sāmaṇeriyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc93">
+msgctxt "pli-tv-bi-pm:347.1"
+msgid "Pācittiya 93. Gihiniummaddāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc154
+msgctxt "pli-tv-bi-pm:348.1"
+msgid "Yā pana bhikkhunī gihiniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc94">
+msgctxt "pli-tv-bi-pm:349.1"
+msgid "Pācittiya 94. Anāpucchāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc155
+msgctxt "pli-tv-bi-pm:350.1"
+msgid "Yā pana bhikkhunī bhikkhussa purato anāpucchā āsane nisīdeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc95">
+msgctxt "pli-tv-bi-pm:351.1"
+msgid "Pācittiya 95. Pañhāpucchanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc156
+msgctxt "pli-tv-bi-pm:352.1"
+msgid "Yā pana bhikkhunī anokāsakataṃ bhikkhuṃ pañhaṃ puccheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc96">
+msgctxt "pli-tv-bi-pm:353.1"
+msgid "Pācittiya 96. Asaṃkaccikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc157
+msgctxt "pli-tv-bi-pm:354.1"
+msgid "Yā pana bhikkhunī asaṃkaccikā gāmaṃ paviseyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:355.1"
+msgid "Chattupāhanavaggo navamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:356.1"
+msgid "Musāvādavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc97">
+msgctxt "pli-tv-bi-pm:357.1"
+msgid "Pācittiya 97. Musāvādasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:358.1"
+msgid "Sampajānamusāvāde pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc98">
+msgctxt "pli-tv-bi-pm:359.1"
+msgid "Pācittiya 98. Omasavādasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:360.1"
+msgid "Omasavāde pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc99">
+msgctxt "pli-tv-bi-pm:361.1"
+msgid "Pācittiya 99. Pesuññasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:362.1"
+msgid "Bhikkhunipesuññe pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc100">
+msgctxt "pli-tv-bi-pm:363.1"
+msgid "Pācittiya 100. Padasodhammasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc158
+msgctxt "pli-tv-bi-pm:364.1"
+msgid "Yā pana bhikkhunī anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc101">
+msgctxt "pli-tv-bi-pm:365.1"
+msgid "Pācittiya 101. Paṭhamasahaseyyasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc159
+msgctxt "pli-tv-bi-pm:366.1"
+msgid "Yā pana bhikkhunī anupasampannāya uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc102">
+msgctxt "pli-tv-bi-pm:367.1"
+msgid "Pācittiya 102. Dutiyasahaseyyasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc160
+msgctxt "pli-tv-bi-pm:368.1"
+msgid "Yā pana bhikkhunī purisena sahaseyyaṃ kappeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc103">
+msgctxt "pli-tv-bi-pm:369.1"
+msgid "Pācittiya 103. Dhammadesanāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc161
+msgctxt "pli-tv-bi-pm:370.1"
+msgid "Yā pana bhikkhunī purisassa uttarichappañcavācāhi dhammaṃ deseyya aññatra viññunā itthiviggahena, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc104">
+msgctxt "pli-tv-bi-pm:371.1"
+msgid "Pācittiya 104. Bhūtārocanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc162
+msgctxt "pli-tv-bi-pm:372.1"
+msgid "Yā pana bhikkhunī anupasampannāya uttarimanussadhammaṃ āroceyya, bhūtasmiṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc105">
+msgctxt "pli-tv-bi-pm:373.1"
+msgid "Pācittiya 105. Duṭṭhullārocanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc163
+msgctxt "pli-tv-bi-pm:374.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā duṭṭhullaṃ āpattiṃ anupasampannāya āroceyya aññatra bhikkhunisammutiyā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc106">
+msgctxt "pli-tv-bi-pm:375.1"
+msgid "Pācittiya 106. Pathavīkhaṇanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc164
+msgctxt "pli-tv-bi-pm:376.1"
+msgid "Yā pana bhikkhunī pathaviṃ khaṇeyya vā khaṇāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:377.1"
+msgid "Musāvādavaggo dasamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:378.1"
+msgid "Bhūtagāmavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc107">
+msgctxt "pli-tv-bi-pm:379.1"
+msgid "Pācittiya 107. Bhūtagāmasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:380.1"
+msgid "Bhūtagāmapātabyatāya pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc108">
+msgctxt "pli-tv-bi-pm:381.1"
+msgid "Pācittiya 108. Aññavādakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:382.1"
+msgid "Aññavādake, vihesake pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc109">
+msgctxt "pli-tv-bi-pm:383.1"
+msgid "Pācittiya 109. Ujjhāpanakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:384.1"
+msgid "Ujjhāpanake, khiyyanake pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc110">
+msgctxt "pli-tv-bi-pm:385.1"
+msgid "Pācittiya 110. Paṭhamasenāsanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc165
+msgctxt "pli-tv-bi-pm:386.1"
+msgid "Yā pana bhikkhunī saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamantī neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc111">
+msgctxt "pli-tv-bi-pm:387.1"
+msgid "Pācittiya 111. Dutiyasenāsanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc166
+msgctxt "pli-tv-bi-pm:388.1"
+msgid "Yā pana bhikkhunī saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamantī neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc112">
+msgctxt "pli-tv-bi-pm:389.1"
+msgid "Pācittiya 112. Anupakhajjasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc167
+msgctxt "pli-tv-bi-pm:390.1"
+msgid "Yā pana bhikkhunī saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuniṃ anupakhajja seyyaṃ kappeyya, “yassā sambādho bhavissati, sā pakkamissatī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc113">
+msgctxt "pli-tv-bi-pm:391.1"
+msgid "Pācittiya 113. Nikkaḍḍhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc168
+msgctxt "pli-tv-bi-pm:392.1"
+msgid "Yā pana bhikkhunī bhikkhuniṃ kupitā anattamanā saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc114">
+msgctxt "pli-tv-bi-pm:393.1"
+msgid "Pācittiya 114. Vehāsakuṭisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc169
+msgctxt "pli-tv-bi-pm:394.1"
+msgid "Yā pana bhikkhunī saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc115">
+msgctxt "pli-tv-bi-pm:395.1"
+msgid "Pācittiya 115. Mahallakavihārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc170
+msgctxt "pli-tv-bi-pm:396.1"
+msgid "Mahallakaṃ pana bhikkhuniyā vihāraṃ kārayamānāya yāva dvārakosā aggaḷaṭṭhapanāya, ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitāya adhiṭṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:396.2"
+msgid "Tato ce uttari appaharitepi ṭhitā adhiṭṭhaheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc116">
+msgctxt "pli-tv-bi-pm:397.1"
+msgid "Pācittiya 116. Sappāṇakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc171
+msgctxt "pli-tv-bi-pm:398.1"
+msgid "Yā pana bhikkhunī jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:399.1"
+msgid "Bhūtagāmavaggo ekādasamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:400.1"
+msgid "Bhojanavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc117">
+msgctxt "pli-tv-bi-pm:401.1"
+msgid "Pācittiya 117. Āvasathapiṇḍasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc172
+msgctxt "pli-tv-bi-pm:402.1"
+msgid "Agilānāya bhikkhuniyā eko āvasathapiṇḍo bhuñjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:402.2"
+msgid "Tato ce uttari bhuñjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc118">
+msgctxt "pli-tv-bi-pm:403.1"
+msgid "Pācittiya 118. Gaṇabhojanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc173
+msgctxt "pli-tv-bi-pm:404.1"
+msgid "Gaṇabhojane aññatra samayā pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:404.2"
+msgid "Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo , cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo."
+msgstr ""
+
+#. HTML: </p><h4 id="pc119">
+msgctxt "pli-tv-bi-pm:405.1"
+msgid "Pācittiya 119. Kāṇamātusikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc174
+msgctxt "pli-tv-bi-pm:406.1"
+msgid "Bhikkhuniṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānāya bhikkhuniyā dvattipattapūrā paṭiggahetabbā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:406.2"
+msgid "Tato ce uttari paṭiggaṇheyya, pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:406.3"
+msgid "Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhunīhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci."
+msgstr ""
+
+#. HTML: </p><h4 id="pc120">
+msgctxt "pli-tv-bi-pm:407.1"
+msgid "Pācittiya 120. Vikālabhojanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc175
+msgctxt "pli-tv-bi-pm:408.1"
+msgid "Yā pana bhikkhunī vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc121">
+msgctxt "pli-tv-bi-pm:409.1"
+msgid "Pācittiya 121. Sannidhikārakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc176
+msgctxt "pli-tv-bi-pm:410.1"
+msgid "Yā pana bhikkhunī sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc122">
+msgctxt "pli-tv-bi-pm:411.1"
+msgid "Pācittiya 122. Dantaponasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc177
+msgctxt "pli-tv-bi-pm:412.1"
+msgid "Yā pana bhikkhunī adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc123">
+msgctxt "pli-tv-bi-pm:413.1"
+msgid "Pācittiya 123. Uyyojanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc178
+msgctxt "pli-tv-bi-pm:414.1"
+msgid "Yā pana bhikkhunī bhikkhuniṃ, “ehāyye, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”ti tassā dāpetvā vā adāpetvā vā uyyojeyya, “gacchāyye, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekikāya me kathā vā nisajjā vā phāsu hotī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc124">
+msgctxt "pli-tv-bi-pm:415.1"
+msgid "Pācittiya 124. Sabhojanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc179
+msgctxt "pli-tv-bi-pm:416.1"
+msgid "Yā pana bhikkhunī sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc125">
+msgctxt "pli-tv-bi-pm:417.1"
+msgid "Pācittiya 125. Rahopaṭicchannasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc180
+msgctxt "pli-tv-bi-pm:418.1"
+msgid "Yā pana bhikkhunī purisena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc126">
+msgctxt "pli-tv-bi-pm:419.1"
+msgid "Pācittiya 126. Rahonisajjasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc181
+msgctxt "pli-tv-bi-pm:420.1"
+msgid "Yā pana bhikkhunī purisena saddhiṃ ekenekā raho nisajjaṃ kappeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:421.1"
+msgid "Bhojanavaggo dvādasamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:422.1"
+msgid "Cārittavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc127">
+msgctxt "pli-tv-bi-pm:423.1"
+msgid "Pācittiya 127. Cārittasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc182
+msgctxt "pli-tv-bi-pm:424.1"
+msgid "Yā pana bhikkhunī nimantitā sabhattā samānā santiṃ bhikkhuniṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya aññatra samayā, pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:424.2"
+msgid "Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo."
+msgstr ""
+
+#. HTML: </p><h4 id="pc128">
+msgctxt "pli-tv-bi-pm:425.1"
+msgid "Pācittiya 128. Mahānāmasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc183
+msgctxt "pli-tv-bi-pm:426.1"
+msgid "Agilānāya bhikkhuniyā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:426.2"
+msgid "Tato ce uttari sādiyeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc129">
+msgctxt "pli-tv-bi-pm:427.1"
+msgid "Pācittiya 129. Uyyuttasenāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc184
+msgctxt "pli-tv-bi-pm:428.1"
+msgid "Yā pana bhikkhunī uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc130">
+msgctxt "pli-tv-bi-pm:429.1"
+msgid "Pācittiya 130. Senāvāsasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc185
+msgctxt "pli-tv-bi-pm:430.1"
+msgid "Siyā ca tassā bhikkhuniyā kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tāya bhikkhuniyā senāya vasitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:430.2"
+msgid "Tato ce uttari vaseyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc131">
+msgctxt "pli-tv-bi-pm:431.1"
+msgid "Pācittiya 131. Uyyodhikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc186
+msgctxt "pli-tv-bi-pm:432.1"
+msgid "Dirattatirattaṃ ce bhikkhunī senāya vasamānā uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc132">
+msgctxt "pli-tv-bi-pm:433.1"
+msgid "Pācittiya 132. Surāpānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:434.1"
+msgid "Surāmerayapāne pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc133">
+msgctxt "pli-tv-bi-pm:435.1"
+msgid "Pācittiya 133. Aṅgulipatodakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:436.1"
+msgid "Aṅgulipatodake pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc134">
+msgctxt "pli-tv-bi-pm:437.1"
+msgid "Pācittiya 134. Hasadhammasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:438.1"
+msgid "Udake hasadhamme pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc135">
+msgctxt "pli-tv-bi-pm:439.1"
+msgid "Pācittiya 135. Anādariyasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:440.1"
+msgid "Anādariye pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc136">
+msgctxt "pli-tv-bi-pm:441.1"
+msgid "Pācittiya 136. Bhiṃsāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc187
+msgctxt "pli-tv-bi-pm:442.1"
+msgid "Yā pana bhikkhunī bhikkhuniṃ bhiṃsāpeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:443.1"
+msgid "Cārittavaggo terasamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:444.1"
+msgid "Jotivaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc137">
+msgctxt "pli-tv-bi-pm:445.1"
+msgid "Pācittiya 137. Jotisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc188
+msgctxt "pli-tv-bi-pm:446.1"
+msgid "Yā pana bhikkhunī agilānā visibbanāpekkhā jotiṃ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc138">
+msgctxt "pli-tv-bi-pm:447.1"
+msgid "Pācittiya 138. Nahānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc189
+msgctxt "pli-tv-bi-pm:448.1"
+msgid "Yā pana bhikkhunī orenaddhamāsaṃ nahāyeyya aññatra samayā, pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:448.2"
+msgid "Tatthāyaṃ samayo “diyaḍḍho māso seso gimhāna”nti “vassānassa paṭhamo māso” iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo."
+msgstr ""
+
+#. HTML: </p><h4 id="pc139">
+msgctxt "pli-tv-bi-pm:449.1"
+msgid "Pācittiya 139. Dubbaṇṇakaraṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc190
+msgctxt "pli-tv-bi-pm:450.1"
+msgid "Navaṃ pana bhikkhuniyā cīvaralābhāya tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:450.2"
+msgid "Anādā ce bhikkhunī tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc140">
+msgctxt "pli-tv-bi-pm:451.1"
+msgid "Pācittiya 140. Vikappanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc191
+msgctxt "pli-tv-bi-pm:452.1"
+msgid "Yā pana bhikkhunī bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā apaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc141">
+msgctxt "pli-tv-bi-pm:453.1"
+msgid "Pācittiya 141. Apanidhāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc192
+msgctxt "pli-tv-bi-pm:454.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā antamaso hasāpekkhāpi, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc142">
+msgctxt "pli-tv-bi-pm:455.1"
+msgid "Pācittiya 142. Sañciccasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc193
+msgctxt "pli-tv-bi-pm:456.1"
+msgid "Yā pana bhikkhunī sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc143">
+msgctxt "pli-tv-bi-pm:457.1"
+msgid "Pācittiya 143. Sappāṇakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc194
+msgctxt "pli-tv-bi-pm:458.1"
+msgid "Yā pana bhikkhunī jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc144">
+msgctxt "pli-tv-bi-pm:459.1"
+msgid "Pācittiya 144. Ukkoṭanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc195
+msgctxt "pli-tv-bi-pm:460.1"
+msgid "Yā pana bhikkhunī jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc145">
+msgctxt "pli-tv-bi-pm:461.1"
+msgid "Pācittiya 145. Theyyasatthasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc196
+msgctxt "pli-tv-bi-pm:462.1"
+msgid "Yā pana bhikkhunī jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc146">
+msgctxt "pli-tv-bi-pm:463.1"
+msgid "Pācittiya 146. Ariṭṭhasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc197
+msgctxt "pli-tv-bi-pm:464.1"
+msgid "Yā pana bhikkhunī evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:464.2"
+msgid "“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:464.3"
+msgid "Sā bhikkhunī bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:464.4"
+msgid "“māyye evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāyye antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:464.5"
+msgid "Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:464.6"
+msgid "Yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:464.7"
+msgid "No ce paṭinissajjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:465.1"
+msgid "Jotivaggo cuddasamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:466.1"
+msgid "Diṭṭhivaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc147">
+msgctxt "pli-tv-bi-pm:467.1"
+msgid "Pācittiya 147. Ukkhittasambhogasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc198
+msgctxt "pli-tv-bi-pm:468.1"
+msgid "Yā pana bhikkhunī jānaṃ tathāvādiniyā bhikkhuniyā akaṭānudhammāya taṃ diṭṭhiṃ appaṭinissaṭṭhāya saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc148">
+msgctxt "pli-tv-bi-pm:469.1"
+msgid "Pācittiya 148. Kaṇṭakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc199
+msgctxt "pli-tv-bi-pm:470.1"
+msgid "Samaṇuddesāpi ce evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:470.2"
+msgid "“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:470.3"
+msgid "Sā samaṇuddesā bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:470.4"
+msgid "“māyye, samaṇuddese evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāyye, samaṇuddese antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:470.5"
+msgid "Evañca sā samaṇuddesā bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā samaṇuddesā bhikkhunīhi evamassa vacanīyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:470.6"
+msgid "“ajjatagge te, ayye, samaṇuddese na ceva so bhagavā satthā apadisitabbo, yampi caññā samaṇuddesā labhanti bhikkhunīhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā”ti."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:470.7"
+msgid "Yā pana bhikkhunī jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc149">
+msgctxt "pli-tv-bi-pm:471.1"
+msgid "Pācittiya 149. Sahadhammikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc200
+msgctxt "pli-tv-bi-pm:472.1"
+msgid "Yā pana bhikkhunī bhikkhunīhi sahadhammikaṃ vuccamānā evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:472.2"
+msgid "“na tāvāhaṃ, ayye, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuniṃ byattaṃ vinayadharaṃ paripucchāmī”ti, pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:472.3"
+msgid "Sikkhamānāya, bhikkhave, bhikkhuniyā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci."
+msgstr ""
+
+#. HTML: </p><h4 id="pc150">
+msgctxt "pli-tv-bi-pm:473.1"
+msgid "Pācittiya 150. Vilekhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc201
+msgctxt "pli-tv-bi-pm:474.1"
+msgid "Yā pana bhikkhunī pātimokkhe uddissamāne evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:474.2"
+msgid "“kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī”ti, sikkhāpadavivaṇṇake pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc151">
+msgctxt "pli-tv-bi-pm:475.1"
+msgid "Pācittiya 151. Mohanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc202
+msgctxt "pli-tv-bi-pm:476.1"
+msgid "Yā pana bhikkhunī anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:476.2"
+msgid "“idāneva kho ahaṃ, ayye, jānāmi ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī”ti, tañce bhikkhuniṃ aññā bhikkhuniyo jāneyyuṃ nisinnapubbaṃ imāya bhikkhuniyā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassā bhikkhuniyā aññāṇakena mutti atthi, yañca tattha āpattiṃ āpannā, tañca yathādhammo kāretabbo, uttari cassā moho āropetabbo:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:476.3"
+msgid "“tassā te, ayye, alābhā, tassā te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī”ti, idaṃ tasmiṃ mohanake pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc152">
+msgctxt "pli-tv-bi-pm:477.1"
+msgid "Pācittiya 152. Pahārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc203
+msgctxt "pli-tv-bi-pm:478.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā pahāraṃ dadeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc153">
+msgctxt "pli-tv-bi-pm:479.1"
+msgid "Pācittiya 153. Talasattikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc204
+msgctxt "pli-tv-bi-pm:480.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā talasattikaṃ uggireyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc154">
+msgctxt "pli-tv-bi-pm:481.1"
+msgid "Pācittiya 154. Amūlakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc205
+msgctxt "pli-tv-bi-pm:482.1"
+msgid "Yā pana bhikkhunī bhikkhuniṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc155">
+msgctxt "pli-tv-bi-pm:483.1"
+msgid "Pācittiya 155. Sañciccasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc206
+msgctxt "pli-tv-bi-pm:484.1"
+msgid "Yā pana bhikkhunī bhikkhuniyā sañcicca kukkuccaṃ upadaheyya, “itissā muhuttampi aphāsu bhavissatī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc156">
+msgctxt "pli-tv-bi-pm:485.1"
+msgid "Pācittiya 156. Upassuti sikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc207
+msgctxt "pli-tv-bi-pm:486.1"
+msgid "Yā pana bhikkhunī bhikkhunīnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya, “yaṃ imā bhaṇissanti, taṃ sossāmī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:487.1"
+msgid "Diṭṭhivaggo pannarasamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:488.1"
+msgid "Dhammikavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="pc157">
+msgctxt "pli-tv-bi-pm:489.1"
+msgid "Pācittiya 157. Kammappaṭibāhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc208
+msgctxt "pli-tv-bi-pm:490.1"
+msgid "Yā pana bhikkhunī dhammikānaṃ kammānaṃ chandaṃ datvā pacchā khīyanadhammaṃ āpajjeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc158">
+msgctxt "pli-tv-bi-pm:491.1"
+msgid "Pācittiya 158. Chandaṃadatvāgamanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc209
+msgctxt "pli-tv-bi-pm:492.1"
+msgid "Yā pana bhikkhunī saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc159">
+msgctxt "pli-tv-bi-pm:493.1"
+msgid "Pācittiya 159. Dubbalasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc210
+msgctxt "pli-tv-bi-pm:494.1"
+msgid "Yā pana bhikkhunī samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya, “yathāsanthutaṃ bhikkhuniyo saṅghikaṃ lābhaṃ pariṇāmentī”ti, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc160">
+msgctxt "pli-tv-bi-pm:495.1"
+msgid "Pācittiya 160. Pariṇāmanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc211
+msgctxt "pli-tv-bi-pm:496.1"
+msgid "Yā pana bhikkhunī jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc161">
+msgctxt "pli-tv-bi-pm:497.1"
+msgid "Pācittiya 161. Ratanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc212
+msgctxt "pli-tv-bi-pm:498.1"
+msgid "Yā pana bhikkhunī ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:498.2"
+msgid "Ratanaṃ vā pana bhikkhuniyā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ, “yassa bhavissati, so harissatī”ti, ayaṃ tattha sāmīci."
+msgstr ""
+
+#. HTML: </p><h4 id="pc162">
+msgctxt "pli-tv-bi-pm:499.1"
+msgid "Pācittiya 162. Sūcigharasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc213
+msgctxt "pli-tv-bi-pm:500.1"
+msgid "Yā pana bhikkhunī aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā sūcigharaṃ kārāpeyya, bhedanakaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc163">
+msgctxt "pli-tv-bi-pm:501.1"
+msgid "Pācittiya 163. Mañcapīṭhasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc214
+msgctxt "pli-tv-bi-pm:502.1"
+msgid "Navaṃ pana bhikkhuniyā mañcaṃ vā pīṭhaṃ vā kārayamānāya aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena aññatra heṭṭhimāya aṭaniyā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:502.2"
+msgid "Taṃ atikkāmentiyā chedanakaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc164">
+msgctxt "pli-tv-bi-pm:503.1"
+msgid "Pācittiya 164. Tūlonaddhasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc215
+msgctxt "pli-tv-bi-pm:504.1"
+msgid "Yā pana bhikkhunī mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, uddālanakaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc165">
+msgctxt "pli-tv-bi-pm:505.1"
+msgid "Pācittiya 165. Kaṇḍuppaṭicchādisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc216
+msgctxt "pli-tv-bi-pm:506.1"
+msgid "Kaṇḍuppaṭicchādiṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:506.2"
+msgid "Taṃ atikkāmentiyā chedanakaṃ pācittiyaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="pc166">
+msgctxt "pli-tv-bi-pm:507.1"
+msgid "Pācittiya 166. Nandasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc217
+msgctxt "pli-tv-bi-pm:508.1"
+msgid "Yā pana bhikkhunī sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:508.2"
+msgid "Tatridaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo, idaṃ sugatassa sugatacīvarappamāṇanti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:509.1"
+msgid "Dhammikavaggo soḷasamo."
+msgstr ""
+
+#. HTML: </p><hr><p>
+#. REF: sc218
+msgctxt "pli-tv-bi-pm:510.1"
+msgid "Uddiṭṭhā kho, ayyāyo, chasaṭṭhisatā pācittiyā dhammā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:510.2"
+msgid "Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:511.1"
+msgid "Pācittiyā niṭṭhitā."
+msgstr ""
+
+#. HTML: </p><h2 id="pd">
+msgctxt "pli-tv-bi-pm:512.1"
+msgid "Pāṭidesanīyā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc219
+msgctxt "pli-tv-bi-pm:513.1"
+msgid "Ime kho panāyyāyo aṭṭha pāṭidesanīyā dhammā uddesaṃ āgacchanti."
+msgstr ""
+
+#. HTML: </p><h4 id="pd1">
+msgctxt "pli-tv-bi-pm:514.1"
+msgid "Pāṭidesanīya 1. Sappiviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc220
+msgctxt "pli-tv-bi-pm:515.1"
+msgid "Yā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:515.2"
+msgid "“gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti."
+msgstr ""
+
+#. HTML: </p><h4 id="pd2">
+msgctxt "pli-tv-bi-pm:516.1"
+msgid "Pāṭidesanīya 2. Telaviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc221
+msgctxt "pli-tv-bi-pm:517.1"
+msgid "Yā pana bhikkhunī agilānā telaṃ viññāpetvā bhuñjeyya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:517.2"
+msgid "taṃ paṭidesemīti."
+msgstr ""
+
+#. HTML: </p><h4 id="pd3">
+msgctxt "pli-tv-bi-pm:518.1"
+msgid "Pāṭidesanīya 3. Madhuviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc222
+msgctxt "pli-tv-bi-pm:519.1"
+msgid "Yā pana bhikkhunī agilānā madhuṃ viññāpetvā bhuñjeyya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:519.2"
+msgid "taṃ paṭidesemīti."
+msgstr ""
+
+#. HTML: </p><h4 id="pd4">
+msgctxt "pli-tv-bi-pm:520.1"
+msgid "Pāṭidesanīya 4. Phāṇitaviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc223
+msgctxt "pli-tv-bi-pm:521.1"
+msgid "Yā pana bhikkhunī agilānā phāṇitaṃ viññāpetvā bhuñjeyya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:521.2"
+msgid "taṃ paṭidesemīti."
+msgstr ""
+
+#. HTML: </p><h4 id="pd5">
+msgctxt "pli-tv-bi-pm:522.1"
+msgid "Pāṭidesanīya 5. Macchaviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc224
+msgctxt "pli-tv-bi-pm:523.1"
+msgid "Yā pana bhikkhunī agilānā macchaṃ viññāpetvā bhuñjeyya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:523.2"
+msgid "taṃ paṭidesemīti."
+msgstr ""
+
+#. HTML: </p><h4 id="pd6">
+msgctxt "pli-tv-bi-pm:524.1"
+msgid "Pāṭidesanīya 6. Maṃsaviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc225
+msgctxt "pli-tv-bi-pm:525.1"
+msgid "Yā pana bhikkhunī agilānā maṃsaṃ viññāpetvā bhuñjeyya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:525.2"
+msgid "taṃ paṭidesemīti."
+msgstr ""
+
+#. HTML: </p><h4 id="pd7">
+msgctxt "pli-tv-bi-pm:526.1"
+msgid "Pāṭidesanīya 7. Khīraviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc226
+msgctxt "pli-tv-bi-pm:527.1"
+msgid "Yā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:527.2"
+msgid "taṃ paṭidesemīti."
+msgstr ""
+
+#. HTML: </p><h4 id="pd8">
+msgctxt "pli-tv-bi-pm:528.1"
+msgid "Pāṭidesanīya 8. Dadhiviññāpanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc227
+msgctxt "pli-tv-bi-pm:529.1"
+msgid "Yā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā:"
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:529.2"
+msgid "“gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti."
+msgstr ""
+
+#. HTML: </p><hr><p>
+#. REF: sc228
+msgctxt "pli-tv-bi-pm:530.1"
+msgid "Uddiṭṭhā kho, ayyāyo, aṭṭha pāṭidesanīyā dhammā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:530.2"
+msgid "Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:531.1"
+msgid "Pāṭidesanīyā niṭṭhitā."
+msgstr ""
+
+#. HTML: </p><h2 id="sk">
+msgctxt "pli-tv-bi-pm:532.1"
+msgid "Sekhiyā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc229
+msgctxt "pli-tv-bi-pm:533.1"
+msgid "Ime kho panāyyāyo, sekhiyā dhammā uddesaṃ āgacchanti."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:534.1"
+msgid "Parimaṇḍalavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="sk1">
+msgctxt "pli-tv-bi-pm:535.1"
+msgid "Sekhiya 1. Parimaṇḍalasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:536.1"
+msgid "Parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk2">
+msgctxt "pli-tv-bi-pm:537.1"
+msgid "Sekhiya 2. Dutiyaparimaṇḍalasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:538.1"
+msgid "Parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk3">
+msgctxt "pli-tv-bi-pm:539.1"
+msgid "Sekhiya 3. Suppaṭicchannasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc230
+msgctxt "pli-tv-bi-pm:540.1"
+msgid "Suppaṭicchannā antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk4">
+msgctxt "pli-tv-bi-pm:541.1"
+msgid "Sekhiya 4. Dutiyasuppaṭicchannasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc231
+msgctxt "pli-tv-bi-pm:542.1"
+msgid "Suppaṭicchannā antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk5">
+msgctxt "pli-tv-bi-pm:543.1"
+msgid "Sekhiya 5. Susaṃvutasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:544.1"
+msgid "Susaṃvutā antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk6">
+msgctxt "pli-tv-bi-pm:545.1"
+msgid "Sekhiya 6. Dutiyasusaṃvutasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc232
+msgctxt "pli-tv-bi-pm:546.1"
+msgid "Susaṃvutā antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk7">
+msgctxt "pli-tv-bi-pm:547.1"
+msgid "Sekhiya 7. Okkhittacakkhusikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc233
+msgctxt "pli-tv-bi-pm:548.1"
+msgid "Okkhittacakkhunī antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk8">
+msgctxt "pli-tv-bi-pm:549.1"
+msgid "Sekhiya 8. Dutiya-okkhittacakkhusikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc234
+msgctxt "pli-tv-bi-pm:550.1"
+msgid "Okkhittacakkhunī antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk9">
+msgctxt "pli-tv-bi-pm:551.1"
+msgid "Sekhiya 9. Ukkhittakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc235
+msgctxt "pli-tv-bi-pm:552.1"
+msgid "Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk10">
+msgctxt "pli-tv-bi-pm:553.1"
+msgid "Sekhiya 10. Dutiya-ukkhittakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc236
+msgctxt "pli-tv-bi-pm:554.1"
+msgid "Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:555.1"
+msgid "Parimaṇḍalavaggo paṭhamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:556.1"
+msgid "Ujjagghikavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="sk11">
+msgctxt "pli-tv-bi-pm:557.1"
+msgid "Sekhiya 11. Ujjagghikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc237
+msgctxt "pli-tv-bi-pm:558.1"
+msgid "Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk12">
+msgctxt "pli-tv-bi-pm:559.1"
+msgid "Sekhiya 12. Dutiya-ujjagghikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc238
+msgctxt "pli-tv-bi-pm:560.1"
+msgid "Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk13">
+msgctxt "pli-tv-bi-pm:561.1"
+msgid "Sekhiya 13. Uccasaddasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:562.1"
+msgid "Appasaddā antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk14">
+msgctxt "pli-tv-bi-pm:563.1"
+msgid "Sekhiya 14. Dutiya-uccasaddasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc239
+msgctxt "pli-tv-bi-pm:564.1"
+msgid "Appasaddā antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk15">
+msgctxt "pli-tv-bi-pm:565.1"
+msgid "Sekhiya 15. Kāyappacālakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc240
+msgctxt "pli-tv-bi-pm:566.1"
+msgid "Na kāyappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk16">
+msgctxt "pli-tv-bi-pm:567.1"
+msgid "Sekhiya 16. Dutiyakāyappacālakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc241
+msgctxt "pli-tv-bi-pm:568.1"
+msgid "Na kāyappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk17">
+msgctxt "pli-tv-bi-pm:569.1"
+msgid "Sekhiya 17. Bāhuppacālakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc242
+msgctxt "pli-tv-bi-pm:570.1"
+msgid "Na bāhuppacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk18">
+msgctxt "pli-tv-bi-pm:571.1"
+msgid "Sekhiya 18. Dutiyabāhuppacālakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc243
+msgctxt "pli-tv-bi-pm:572.1"
+msgid "Na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk19">
+msgctxt "pli-tv-bi-pm:573.1"
+msgid "Sekhiya 19. Sīsappacālakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc244
+msgctxt "pli-tv-bi-pm:574.1"
+msgid "Na sīsappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk20">
+msgctxt "pli-tv-bi-pm:575.1"
+msgid "Sekhiya 20. Dutiyasīsappacālakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc245
+msgctxt "pli-tv-bi-pm:576.1"
+msgid "Na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:577.1"
+msgid "Ujjagghikavaggo dutiyo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:578.1"
+msgid "Khambhakatavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="sk21">
+msgctxt "pli-tv-bi-pm:579.1"
+msgid "Sekhiya 21. Khambhakatasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc246
+msgctxt "pli-tv-bi-pm:580.1"
+msgid "Na khambhakatā antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk22">
+msgctxt "pli-tv-bi-pm:581.1"
+msgid "Sekhiya 22. Dutiyakhambhakatasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc247
+msgctxt "pli-tv-bi-pm:582.1"
+msgid "Na khambhakatā antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk23">
+msgctxt "pli-tv-bi-pm:583.1"
+msgid "Sekhiya 23. Oguṇṭhitasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc248
+msgctxt "pli-tv-bi-pm:584.1"
+msgid "Na oguṇṭhitā antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk24">
+msgctxt "pli-tv-bi-pm:585.1"
+msgid "Sekhiya 24. Dutiya-oguṇṭhitasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc249
+msgctxt "pli-tv-bi-pm:586.1"
+msgid "Na oguṇṭhitā antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk25">
+msgctxt "pli-tv-bi-pm:587.1"
+msgid "Sekhiya 25. Ukkuṭikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc250
+msgctxt "pli-tv-bi-pm:588.1"
+msgid "Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk26">
+msgctxt "pli-tv-bi-pm:589.1"
+msgid "Sekhiya 26. Pallatthikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc251
+msgctxt "pli-tv-bi-pm:590.1"
+msgid "Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk27">
+msgctxt "pli-tv-bi-pm:591.1"
+msgid "Sekhiya 27. Sakkaccapaṭiggahaṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc252
+msgctxt "pli-tv-bi-pm:592.1"
+msgid "Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk28">
+msgctxt "pli-tv-bi-pm:593.1"
+msgid "Sekhiya 28. Pattasaññinīpaṭiggahaṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc253
+msgctxt "pli-tv-bi-pm:594.1"
+msgid "Pattasaññinī piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk29">
+msgctxt "pli-tv-bi-pm:595.1"
+msgid "Sekhiya 29. Samasūpakapaṭiggahaṇasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc254
+msgctxt "pli-tv-bi-pm:596.1"
+msgid "Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk30">
+msgctxt "pli-tv-bi-pm:597.1"
+msgid "Sekhiya 30. Samatittikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc255
+msgctxt "pli-tv-bi-pm:598.1"
+msgid "Samatittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:599.1"
+msgid "Khambhakatavaggo tatiyo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:600.1"
+msgid "Sakkaccavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="sk31">
+msgctxt "pli-tv-bi-pm:601.1"
+msgid "Sekhiya 31. Sakkaccabhuñjanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc256
+msgctxt "pli-tv-bi-pm:602.1"
+msgid "Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk32">
+msgctxt "pli-tv-bi-pm:603.1"
+msgid "Sekhiya 32. Pattasaññinībhuñjanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc257
+msgctxt "pli-tv-bi-pm:604.1"
+msgid "Pattasaññinī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk33">
+msgctxt "pli-tv-bi-pm:605.1"
+msgid "Sekhiya 33. Sapadānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc258
+msgctxt "pli-tv-bi-pm:606.1"
+msgid "Sapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk34">
+msgctxt "pli-tv-bi-pm:607.1"
+msgid "Sekhiya 34. Samasūpakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc259
+msgctxt "pli-tv-bi-pm:608.1"
+msgid "Samasūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk35">
+msgctxt "pli-tv-bi-pm:609.1"
+msgid "Sekhiya 35. Na thūpakatasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc260
+msgctxt "pli-tv-bi-pm:610.1"
+msgid "Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk36">
+msgctxt "pli-tv-bi-pm:611.1"
+msgid "Sekhiya 36. Odanappaṭicchādanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc261
+msgctxt "pli-tv-bi-pm:612.1"
+msgid "Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyāti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk37">
+msgctxt "pli-tv-bi-pm:613.1"
+msgid "Sekhiya 37. Sūpodanaviññattisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc262
+msgctxt "pli-tv-bi-pm:614.1"
+msgid "Na sūpaṃ vā odanaṃ vā agilānā attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk38">
+msgctxt "pli-tv-bi-pm:615.1"
+msgid "Sekhiya 38. Ujjhānasaññinīsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc263
+msgctxt "pli-tv-bi-pm:616.1"
+msgid "Na ujjhānasaññinī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk39">
+msgctxt "pli-tv-bi-pm:617.1"
+msgid "Sekhiya 39. Kabaḷasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:618.1"
+msgid "Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk40">
+msgctxt "pli-tv-bi-pm:619.1"
+msgid "Sekhiya 40. Ālopasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:620.1"
+msgid "Parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:621.1"
+msgid "Sakkaccavaggo catuttho."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:622.1"
+msgid "Kabaḷavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="sk41">
+msgctxt "pli-tv-bi-pm:623.1"
+msgid "Sekhiya 41. Anāhaṭasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc264
+msgctxt "pli-tv-bi-pm:624.1"
+msgid "Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk42">
+msgctxt "pli-tv-bi-pm:625.1"
+msgid "Sekhiya 42. Bhuñjamānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc265
+msgctxt "pli-tv-bi-pm:626.1"
+msgid "Na bhuñjamānā sabbahatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk43">
+msgctxt "pli-tv-bi-pm:627.1"
+msgid "Sekhiya 43. Sakabaḷasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc266
+msgctxt "pli-tv-bi-pm:628.1"
+msgid "Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk44">
+msgctxt "pli-tv-bi-pm:629.1"
+msgid "Sekhiya 44. Piṇḍukkhepakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:630.1"
+msgid "Na piṇḍukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk45">
+msgctxt "pli-tv-bi-pm:631.1"
+msgid "Sekhiya 45. Kabaḷāvacchedakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc267
+msgctxt "pli-tv-bi-pm:632.1"
+msgid "Na kabaḷāvacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk46">
+msgctxt "pli-tv-bi-pm:633.1"
+msgid "Sekhiya 46. Avagaṇḍakārakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:634.1"
+msgid "Na avagaṇḍakārakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk47">
+msgctxt "pli-tv-bi-pm:635.1"
+msgid "Sekhiya 47. Hatthaniddhunakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc268
+msgctxt "pli-tv-bi-pm:636.1"
+msgid "Na hatthaniddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk48">
+msgctxt "pli-tv-bi-pm:637.1"
+msgid "Sekhiya 48. Sitthāvakārakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:638.1"
+msgid "Na sitthāvakārakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk49">
+msgctxt "pli-tv-bi-pm:639.1"
+msgid "Sekhiya 49. Jivhānicchārakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:640.1"
+msgid "Na jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk50">
+msgctxt "pli-tv-bi-pm:641.1"
+msgid "Sekhiya 50. Capucapukārakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:642.1"
+msgid "Na capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:643.1"
+msgid "Kabaḷavaggo pañcamo."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:644.1"
+msgid "Surusuruvaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="sk51">
+msgctxt "pli-tv-bi-pm:645.1"
+msgid "Sekhiya 51. Surusurukārakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:646.1"
+msgid "Na surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk52">
+msgctxt "pli-tv-bi-pm:647.1"
+msgid "Sekhiya 52. Hatthanillehakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:648.1"
+msgid "Na hatthanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk53">
+msgctxt "pli-tv-bi-pm:649.1"
+msgid "Sekhiya 53. Pattanillehakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:650.1"
+msgid "Na pattanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk54">
+msgctxt "pli-tv-bi-pm:651.1"
+msgid "Sekhiya 54. Oṭṭhanillehakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:652.1"
+msgid "Na oṭṭhanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk55">
+msgctxt "pli-tv-bi-pm:653.1"
+msgid "Sekhiya 55. Sāmisasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc269
+msgctxt "pli-tv-bi-pm:654.1"
+msgid "Na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk56">
+msgctxt "pli-tv-bi-pm:655.1"
+msgid "Sekhiya 56. Sasitthakasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc270
+msgctxt "pli-tv-bi-pm:656.1"
+msgid "Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk57">
+msgctxt "pli-tv-bi-pm:657.1"
+msgid "Sekhiya 57. Chattapāṇisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc271
+msgctxt "pli-tv-bi-pm:658.1"
+msgid "Na chattapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk58">
+msgctxt "pli-tv-bi-pm:659.1"
+msgid "Sekhiya 58. Daṇḍapāṇisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc272
+msgctxt "pli-tv-bi-pm:660.1"
+msgid "Na daṇḍapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk59">
+msgctxt "pli-tv-bi-pm:661.1"
+msgid "Sekhiya 59. Satthapāṇisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc273
+msgctxt "pli-tv-bi-pm:662.1"
+msgid "Na satthapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk60">
+msgctxt "pli-tv-bi-pm:663.1"
+msgid "Sekhiya 60. Āvudhapāṇisikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc274
+msgctxt "pli-tv-bi-pm:664.1"
+msgid "Na āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:665.1"
+msgid "Surusuruvaggo chaṭṭho."
+msgstr ""
+
+#. HTML: </p><h3>
+msgctxt "pli-tv-bi-pm:666.1"
+msgid "Pādukavaggo"
+msgstr ""
+
+#. HTML: </h3><h4 id="sk61">
+msgctxt "pli-tv-bi-pm:667.1"
+msgid "Sekhiya 61. Pādukasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc275
+msgctxt "pli-tv-bi-pm:668.1"
+msgid "Na pādukāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk62">
+msgctxt "pli-tv-bi-pm:669.1"
+msgid "Sekhiya 62. Upāhanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc276
+msgctxt "pli-tv-bi-pm:670.1"
+msgid "Na upāhanāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk63">
+msgctxt "pli-tv-bi-pm:671.1"
+msgid "Sekhiya 63. Yānasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc277
+msgctxt "pli-tv-bi-pm:672.1"
+msgid "Na yānagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk64">
+msgctxt "pli-tv-bi-pm:673.1"
+msgid "Sekhiya 64. Sayanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc278
+msgctxt "pli-tv-bi-pm:674.1"
+msgid "Na sayanagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk65">
+msgctxt "pli-tv-bi-pm:675.1"
+msgid "Sekhiya 65. Pallatthikasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc279
+msgctxt "pli-tv-bi-pm:676.1"
+msgid "Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk66">
+msgctxt "pli-tv-bi-pm:677.1"
+msgid "Sekhiya 66. Veṭhitasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc280
+msgctxt "pli-tv-bi-pm:678.1"
+msgid "Na veṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk67">
+msgctxt "pli-tv-bi-pm:679.1"
+msgid "Sekhiya 67. Oguṇṭhitasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc281
+msgctxt "pli-tv-bi-pm:680.1"
+msgid "Na oguṇṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk68">
+msgctxt "pli-tv-bi-pm:681.1"
+msgid "Sekhiya 68. Chamāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc282
+msgctxt "pli-tv-bi-pm:682.1"
+msgid "Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk69">
+msgctxt "pli-tv-bi-pm:683.1"
+msgid "Sekhiya 69. Nīcāsanasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc283
+msgctxt "pli-tv-bi-pm:684.1"
+msgid "Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk70">
+msgctxt "pli-tv-bi-pm:685.1"
+msgid "Sekhiya 70. Ṭhitāsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc284
+msgctxt "pli-tv-bi-pm:686.1"
+msgid "Na ṭhitā nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk71">
+msgctxt "pli-tv-bi-pm:687.1"
+msgid "Sekhiya 71. Pacchatogacchantīsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc285
+msgctxt "pli-tv-bi-pm:688.1"
+msgid "Na pacchato gacchantī purato gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk72">
+msgctxt "pli-tv-bi-pm:689.1"
+msgid "Sekhiya 72. Uppathenagacchantīsikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc286
+msgctxt "pli-tv-bi-pm:690.1"
+msgid "Na uppathena gacchantī pathena gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk73">
+msgctxt "pli-tv-bi-pm:691.1"
+msgid "Sekhiya 73. Ṭhitāuccārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc287
+msgctxt "pli-tv-bi-pm:692.1"
+msgid "Na ṭhitā agilānā uccāraṃ vā passāvaṃ vā karissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk74">
+msgctxt "pli-tv-bi-pm:693.1"
+msgid "Sekhiya 74. Hariteuccārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc288
+msgctxt "pli-tv-bi-pm:694.1"
+msgid "Na harite agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><h4 id="sk75">
+msgctxt "pli-tv-bi-pm:695.1"
+msgid "Sekhiya 75. Udakeuccārasikkhāpadaṃ"
+msgstr ""
+
+#. HTML: </h4><p>
+#. REF: sc289
+msgctxt "pli-tv-bi-pm:696.1"
+msgid "Na udake agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:697.1"
+msgid "Pādukavaggo sattamo."
+msgstr ""
+
+#. HTML: </p><hr><p>
+#. REF: sc290
+msgctxt "pli-tv-bi-pm:698.1"
+msgid "Uddiṭṭhā kho, ayyāyo, sekhiyā dhammā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:698.2"
+msgid "Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:699.1"
+msgid "Sekhiyā niṭṭhitā."
+msgstr ""
+
+#. HTML: </p><h2 id="as">
+msgctxt "pli-tv-bi-pm:700.1"
+msgid "Adhikaraṇasamathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc291
+msgctxt "pli-tv-bi-pm:701.1"
+msgid "Ime kho panāyyāyo, satta adhikaraṇasamathā dhammā uddesaṃ āgacchanti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc292
+msgctxt "pli-tv-bi-pm:702.1"
+msgid "Uppannuppannānaṃ adhikaraṇānaṃ samathāya vūpasamāya."
+msgstr ""
+
+#. HTML: </p><h4 id="as1">
+msgctxt "pli-tv-bi-pm:703.1"
+msgid "Adhikaraṇasamatha 1"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:704.1"
+msgid "Sammukhāvinayo dātabbo."
+msgstr ""
+
+#. HTML: </p><h4 id="as2">
+msgctxt "pli-tv-bi-pm:705.1"
+msgid "Adhikaraṇasamatha 2"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:706.1"
+msgid "Sativinayo dātabbo."
+msgstr ""
+
+#. HTML: </p><h4 id="as3">
+msgctxt "pli-tv-bi-pm:707.1"
+msgid "Adhikaraṇasamatha 3"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:708.1"
+msgid "Amūḷhavinayo dātabbo."
+msgstr ""
+
+#. HTML: </p><h4 id="as4">
+msgctxt "pli-tv-bi-pm:709.1"
+msgid "Adhikaraṇasamatha 4"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:710.1"
+msgid "Paṭiññāya kāretabbaṃ."
+msgstr ""
+
+#. HTML: </p><h4 id="as5">
+msgctxt "pli-tv-bi-pm:711.1"
+msgid "Adhikaraṇasamatha 5"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:712.1"
+msgid "Yebhuyyasikā."
+msgstr ""
+
+#. HTML: </p><h4 id="as6">
+msgctxt "pli-tv-bi-pm:713.1"
+msgid "Adhikaraṇasamatha 6"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:714.1"
+msgid "Tassapāpiyasikā."
+msgstr ""
+
+#. HTML: </p><h4 id="as7">
+msgctxt "pli-tv-bi-pm:715.1"
+msgid "Adhikaraṇasamatha 7"
+msgstr ""
+
+#. HTML: </h4><p>
+msgctxt "pli-tv-bi-pm:716.1"
+msgid "Tiṇavatthārakoti."
+msgstr ""
+
+#. HTML: </p><hr><p>
+#. REF: sc293
+msgctxt "pli-tv-bi-pm:717.1"
+msgid "Uddiṭṭhā kho ayyāyo satta adhikaraṇasamathā dhammā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:717.2"
+msgid "Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā , tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:718.1"
+msgid "Adhikaraṇasamathā niṭṭhitā."
+msgstr ""
+
+#. HTML: </p><h2 id="conc">
+msgctxt "pli-tv-bi-pm:719.1"
+msgid "Conclusion"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc294
+msgctxt "pli-tv-bi-pm:720.1"
+msgid "Uddiṭṭhaṃ kho ayyāyo nidānaṃ, uddiṭṭhā aṭṭha pārājikā dhammā, uddiṭṭhā sattarasa saṅghādisesā dhammā, uddiṭṭhā tiṃsa nissaggiyā pācittiyā dhammā, uddiṭṭhā chasaṭṭhi satā pācittiyā dhammā, uddiṭṭhā aṭṭha pāṭidesanīyā dhammā, uddiṭṭhā sekhiyā dhammā, uddiṭṭhā satta adhikaraṇasamathā dhammā."
+msgstr ""
+
+msgctxt "pli-tv-bi-pm:720.2"
+msgid "Ettakaṃ tassa bhagavato suttāgataṃ suttapariyāpannaṃ anvaddhamāsaṃ uddesaṃ āgacchati, tattha sabbāheva samaggāhi sammodamānāhi avivadamānāhi sikkhitabbanti."
+msgstr ""
+
+#. HTML: </p><p class="endsection">
+msgctxt "pli-tv-bi-pm:721.1"
+msgid "Vitthāruddeso catuttho."
+msgstr ""
+
+#. HTML: </p><p class="endsutta">
+msgctxt "pli-tv-bi-pm:722.1"
+msgid "Bhikkhunipātimokkhaṃ niṭṭhitaṃ."
+msgstr ""

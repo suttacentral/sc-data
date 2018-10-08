@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-14 05:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pi-vi/ss/pli-tv-bu-vb-ss12.po\n"
+"X-Pootle-Revision: 57050\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bu-vb-ss12"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-ss12:0.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. HTML: </p><p class="division"> 
+msgctxt "pli-tv-bu-vb-ss12:0.2"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss12:0.3"
+msgid "Saṃ­ghā­di­sesa­kaṇḍa"
+msgstr "Monks’ Suspension"
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-bu-vb-ss12:0.4"
+msgid "Dubba­ca­sikkhā­pada"
+msgstr "12. The training rule on being difficult to correct"
+
+#. HTML: </h1></div><h2>
+msgctxt "pli-tv-bu-vb-ss12:1.0a"
+msgid ""
+msgstr "Origin story"
+
+#. HTML: </h2><p></p><p>
+#. REF: sc1, pts-vp-en1.309, pts-cs-bu-ss12.1, ms1V_1729 
+msgctxt "pli-tv-bu-vb-ss12:1.1"
+msgid "Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme."
+msgstr "At one time the Buddha was staying at Kosambī in Ghosita’s Monastery."
+
+msgctxt "pli-tv-bu-vb-ss12:1.2"
+msgid "Tena kho pana samayena āyasmā channo anācāraṃ ācarati."
+msgstr "At that time Venerable Channa was behaving improperly."
+
+msgctxt "pli-tv-bu-vb-ss12:1.3"
+msgid "Bhikkhū evamāhaṃsu—"
+msgstr "The monks would tell him,"
+
+msgctxt "pli-tv-bu-vb-ss12:1.4"
+msgid "“māvuso channa, evarūpaṃ akāsi."
+msgstr "“Don’t do that;"
+
+msgctxt "pli-tv-bu-vb-ss12:1.5"
+msgid "Netaṃ kappatī”ti."
+msgstr "it’s not allowable,”"
+
+msgctxt "pli-tv-bu-vb-ss12:1.6"
+msgid "So evaṃ vadeti—"
+msgstr "and he would reply,"
+
+msgctxt "pli-tv-bu-vb-ss12:1.7"
+msgid "“kiṃ nu kho nāma tumhe, āvuso, maṃ vattabbaṃ maññatha?"
+msgstr "“Who are you to correct me?"
+
+msgctxt "pli-tv-bu-vb-ss12:1.8"
+msgid "Ahaṃ kho nāma tumhe vadeyyaṃ."
+msgstr "I should correct you!"
+
+msgctxt "pli-tv-bu-vb-ss12:1.9"
+msgid "Amhākaṃ buddho amhākaṃ dhammo"
+msgstr "The Buddha is mine; the Teaching is mine."
+
+msgctxt "pli-tv-bu-vb-ss12:1.10"
+msgid "amhākaṃ ayyaputtena dhammo abhisamito."
+msgstr "The Master realized the Truth because of me."
+
+#. VAR: ussāreyya → ussādeyya (bj, s1-3)
+#. VAR: tiṇakaṭ­ṭha­paṇṇa­sa­ṭaṃ → tiṇakaṭ­ṭhapaṇṇa­ka­saṭaṃ (mr)
+msgctxt "pli-tv-bu-vb-ss12:1.11"
+msgid "Seyyathāpi nāma mahāvāto vāyanto tiṇakaṭ­ṭha­paṇṇa­sa­ṭaṃ ekato ussāreyya, seyyathā vā pana nadī pabbateyyā saṅ­kha­se­vālapa­ṇa­kaṃ ekato ussāreyya;"
+msgstr "Just as a great wind lifts up grass, sticks, and fallen leaves all at once, just as a mountain stream lifts up the leaves of various water plants all at once,"
+
+msgctxt "pli-tv-bu-vb-ss12:1.12"
+msgid "evameva tumhe nānānāmā nānāgottā nānājaccā nānākulā pabbajitā ekato ussāritā."
+msgstr "so too you–having various names, various families, various castes, various clans–having gone forth, have been lifted up together."
+
+msgctxt "pli-tv-bu-vb-ss12:1.13"
+msgid "Kiṃ nu kho nāma tumhe, āvuso, maṃ vattabbaṃ maññatha?"
+msgstr "So, who are you to correct me?"
+
+msgctxt "pli-tv-bu-vb-ss12:1.14"
+msgid "Ahaṃ kho nāma tumhe vadeyyaṃ."
+msgstr "I should correct you!"
+
+msgctxt "pli-tv-bu-vb-ss12:1.15"
+msgid "Amhākaṃ buddho amhākaṃ dhammo"
+msgstr "The Buddha is mine; the Teaching is mine."
+
+msgctxt "pli-tv-bu-vb-ss12:1.16"
+msgid "amhākaṃ ayyaputtena dhammo abhisamito”ti."
+msgstr "The Master realized the Truth because of me.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss12:1.17"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "The monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-ss12:1.18"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized him,"
+
+#. REF: pts-vp-en1.310
+msgctxt "pli-tv-bu-vb-ss12:1.19"
+msgid "“kathañhi nāma āyasmā channo bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karissatī”ti."
+msgstr "“How can Venerable Channa make himself incorrigible when he’s legitimately corrected by the monks?”"
+
+#. HTML: </p><p>
+#. REF: sc2, pts-vp-pli3.178, ms1V_1730 
+msgctxt "pli-tv-bu-vb-ss12:1.20"
+msgid "Atha kho te bhikkhū āyasmantaṃ channaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "They rebuked Venerable Channa in many ways and then told the Master. …"
+
+msgctxt "pli-tv-bu-vb-ss12:1.21"
+msgid "“saccaṃ kira tvaṃ, channa, bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karosī”ti?"
+msgstr "He said, “Is it true, Channa, that you make yourself incorrigible when you are legitimately corrected by the monks?"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss12:1.22"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss12:1.23"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked him, “…"
+
+msgctxt "pli-tv-bu-vb-ss12:1.24"
+msgid "kathañhi nāma tvaṃ, moghapurisa, bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karissasi."
+msgstr "Foolish man, how can you act like this?"
+
+msgctxt "pli-tv-bu-vb-ss12:1.25"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-ss12:1.26"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-ss12:1.26a"
+msgid ""
+msgstr "Final ruling"
+
+#. HTML: </h2><p><span class="rule"> 
+#. REF: sc3
+msgctxt "pli-tv-bu-vb-ss12:1.27"
+msgid "“Bhikkhu paneva dubbacajātiko hoti uddesa­pariyā­pan­nesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti—"
+msgstr "‘If a monk is difficult to correct, and he makes himself incorrigible when he is legitimately corrected by the monks concerning the training rules that are recited, saying,"
+
+msgctxt "pli-tv-bu-vb-ss12:1.28"
+msgid "‘mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahampāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā,"
+msgstr "“Venerables, don’t say anything to me, either positive or negative, and I won’t say anything to you, either positive or negative;"
+
+msgctxt "pli-tv-bu-vb-ss12:1.29"
+msgid "vira­ma­thā­yasmanto mama vacanāyā’ti,"
+msgstr "please refrain from correcting me,”"
+
+msgctxt "pli-tv-bu-vb-ss12:1.30"
+msgid "so bhikkhu bhikkhūhi evamassa vacanīyo—"
+msgstr "then the monks should correct him in this way:"
+
+#. VAR: vacanīya­mevā­yasmā → vacanīyameva āyasmā (s1-3) | vacanīyaṃ eva āyasmā (pts1)
+msgctxt "pli-tv-bu-vb-ss12:1.31"
+msgid "‘māyasmā attānaṃ avacanīyaṃ akāsi, vacanīya­mevā­yasmā attānaṃ karotu,"
+msgstr "“Venerable, be easy to correct, not incorrigible."
+
+#. REF: pts-vp-en1.311
+msgctxt "pli-tv-bu-vb-ss12:1.32"
+msgid "āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena."
+msgstr "And please give legitimate correction to the monks, and the monks will do the same to you."
+
+#. VAR: saṃvaddhā → saṃvaḍḍhā (s1-3)
+msgctxt "pli-tv-bu-vb-ss12:1.33"
+msgid "Evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ añña­mañña­vaca­nena añña­mañña­vuṭṭhā­panenā’ti."
+msgstr "For it’s in this way that the Master’s community has grown, that is, through mutual correction and mutual rehabilitation.”"
+
+msgctxt "pli-tv-bu-vb-ss12:1.34"
+msgid "Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ sama­nubhā­si­tabbo tassa paṭinissaggāya."
+msgstr "If that monk still continues as before, the monks should admonish him up to three times to make him stop."
+
+#. VAR: sama­nubhā­si­yamāno → sama­nubhā­si­yamāno (bj, s1-3, pts1)
+msgctxt "pli-tv-bu-vb-ss12:1.35"
+msgid "Yāvatatiyañce sama­nubhā­si­yamāno taṃ paṭi­nissaj­jeyya, iccetaṃ kusalaṃ;"
+msgstr "If he then stops, that is good."
+
+msgctxt "pli-tv-bu-vb-ss12:1.36"
+msgid "no ce paṭi­nissaj­jeyya, saṃghādiseso”ti."
+msgstr "If not, he commits an offense entailing suspension.’”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-ss12:2.0a"
+msgid ""
+msgstr "Definitions"
+
+#. HTML: </h2><p><span class="term"> 
+#. REF: sc4, pts-cs-bu-ss12.2, ms1V_1732
+msgctxt "pli-tv-bu-vb-ss12:2.1"
+msgid "Bhikkhū paneva dubbacajātiko hotīti"
+msgstr "If a monk is difficult to correct:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss12:2.2"
+msgid "dubbaco hoti dova­cassaka­raṇehi dhammehi samannāgato akkhamo appa­dak­khi­ṇag­gāhī anusāsaniṃ."
+msgstr "if he is difficult to correct, endowed with qualities that make him hard to correct, resistant, not receiving instructions respectfully."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc5, ms1V_1733
+msgctxt "pli-tv-bu-vb-ss12:2.3"
+msgid "Uddesa­pariyā­pan­nesu sikkhāpadesūti"
+msgstr "Concerning the training rules that are recited:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss12:2.4"
+msgid "pāti­mokkha­pariyā­pan­nesu sikkhāpadesu."
+msgstr "concerning the training rules of the monastic code."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc6, ms1V_1734
+msgctxt "pli-tv-bu-vb-ss12:2.5"
+msgid "Bhikkhūhīti"
+msgstr "The monks:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss12:2.6"
+msgid "aññehi bhikkhūhi."
+msgstr "other monks."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc7, ms1V_1735
+msgctxt "pli-tv-bu-vb-ss12:2.7"
+msgid "Sahadhammikaṃ nāma"
+msgstr "Legitimately:"
+
+#. HTML: </span></p><div class="gloss"><p>
+msgctxt "pli-tv-bu-vb-ss12:2.8"
+msgid "yaṃ bhagavatā paññattaṃ sikkhāpadaṃ,"
+msgstr "about whatever training rule has been laid down by the Master—"
+
+msgctxt "pli-tv-bu-vb-ss12:2.9"
+msgid "etaṃ sahadhammikaṃ nāma."
+msgstr "this is called “legitimately.”"
+
+#. HTML: </p><p>
+#. REF: sc8, ms1V_1736, pts-vp-en1.312
+msgctxt "pli-tv-bu-vb-ss12:2.10"
+msgid "Tena vuccamāno attānaṃ avacanīyaṃ karoti—"
+msgstr "When he is corrected concerning that, he makes himself incorrigible, saying,"
+
+msgctxt "pli-tv-bu-vb-ss12:2.11"
+msgid "“mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahampāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā."
+msgstr "“Venerables, don’t say anything to me, either positive or negative, and I won’t say anything to you, either positive or negative;"
+
+msgctxt "pli-tv-bu-vb-ss12:2.12"
+msgid "Vira­ma­thā­yasmanto mama vacanāyā”ti."
+msgstr "please refrain from correcting me.”"
+
+#. HTML: </p></div><p><span class="term"> 
+#. REF: sc9, ms1V_1737
+msgctxt "pli-tv-bu-vb-ss12:2.13"
+msgid "So bhikkhūti"
+msgstr "Him:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss12:2.14"
+msgid "yo so dubbacajātiko bhikkhu."
+msgstr "the monk who is difficult to correct."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc10, pts-vp-pli3.179, ms1V_1738
+msgctxt "pli-tv-bu-vb-ss12:2.15"
+msgid "Bhikkhūhīti"
+msgstr "The monks:"
+
+#. HTML: </span></p><div class="gloss"><p>
+msgctxt "pli-tv-bu-vb-ss12:2.16"
+msgid "aññehi bhikkhūhi."
+msgstr "Other monks,"
+
+msgctxt "pli-tv-bu-vb-ss12:2.17"
+msgid "Ye passanti ye suṇanti tehi vattabbo—"
+msgstr "those who see it or hear about it. They should say,"
+
+#. HTML: <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-ss12:2.18"
+msgid "“māyasmā attānaṃ avacanīyaṃ akāsi."
+msgstr "“Venerable, be easy to correct,"
+
+msgctxt "pli-tv-bu-vb-ss12:2.19"
+msgid "Vacanīyameva āyasmā attānaṃ karotu."
+msgstr "not incorrigible."
+
+msgctxt "pli-tv-bu-vb-ss12:2.20"
+msgid "Āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena."
+msgstr "And please give legitimate correction to the monks, and the monks will do the same to you."
+
+msgctxt "pli-tv-bu-vb-ss12:2.21"
+msgid "Evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ añña­mañña­vaca­nena añña­mañña­vuṭṭhā­panenā”ti."
+msgstr "For it’s in this way that the Master’s community has grown, that is, through mutual correction and mutual rehabilitation.”"
+
+msgctxt "pli-tv-bu-vb-ss12:2.22"
+msgid "Dutiyampi vattabbo."
+msgstr "And they should say this a second"
+
+msgctxt "pli-tv-bu-vb-ss12:2.23"
+msgid "Tatiyampi vattabbo."
+msgstr "and a third time."
+
+#. HTML: </span> 
+msgctxt "pli-tv-bu-vb-ss12:2.24"
+msgid "Sace paṭinissajjati, iccetaṃ kusalaṃ;"
+msgstr "If he stops, that is good."
+
+msgctxt "pli-tv-bu-vb-ss12:2.25"
+msgid "no ce paṭinissajjati, āpatti dukkaṭassa."
+msgstr "If he does not stop, he commits an offense of wrong conduct."
+
+#. HTML: <span class="subrule"> 
+msgctxt "pli-tv-bu-vb-ss12:2.26"
+msgid "Sutvā na vadanti, āpatti dukkaṭassa."
+msgstr "If those who hear about it do not say anything, they commit an offense of wrong conduct."
+
+#. HTML: </span></p><p>
+msgctxt "pli-tv-bu-vb-ss12:2.27"
+msgid "So bhikkhu saṃgha­majjhampi ākaḍḍhitvā vattabbo—"
+msgstr "That monk, even if he has to be dragged into the middle of the Order, should be spoken to thus:"
+
+#. HTML: <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-ss12:2.28"
+msgid "“māyasmā attānaṃ avacanīyaṃ akāsi … pe …"
+msgstr "“Venerable, be easy to correct, not incorrigible. And please give legitimate correction to the monks, and the monks will do the same to you. For it’s in this way that the Master’s community has grown, that is, through mutual correction"
+
+msgctxt "pli-tv-bu-vb-ss12:2.29"
+msgid "añña­mañña­vuṭṭhā­panenā”ti."
+msgstr "and mutual rehabilitation.”"
+
+msgctxt "pli-tv-bu-vb-ss12:2.30"
+msgid "Dutiyampi vattabbo."
+msgstr "They should say this a second"
+
+msgctxt "pli-tv-bu-vb-ss12:2.31"
+msgid "Tatiyampi vattabbo."
+msgstr "and a third time."
+
+#. HTML: </span> 
+msgctxt "pli-tv-bu-vb-ss12:2.32"
+msgid "Sace paṭinissajjati, iccetaṃ kusalaṃ;"
+msgstr "If he stops, that is good."
+
+msgctxt "pli-tv-bu-vb-ss12:2.33"
+msgid "no ce paṭinissajjati, āpatti dukkaṭassa."
+msgstr "If he does not stop, he commits an offense of wrong conduct."
+
+#. HTML: </p></div><p><span class="term"> 
+msgctxt "pli-tv-bu-vb-ss12:2.34"
+msgid "So bhikkhu sama­nubhā­si­tabbo."
+msgstr "Should admonish him:"
+
+#. HTML: </span></p><div class="gloss"><p>
+msgctxt "pli-tv-bu-vb-ss12:2.35"
+msgid "“Evañca pana, bhikkhave, sama­nubhā­si­tabbo."
+msgstr "“And, monks, he should be admonished in this way."
+
+msgctxt "pli-tv-bu-vb-ss12:2.36"
+msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
+msgstr "A competent and capable monk should inform the Order:"
+
+#. HTML: </p><div class="kamma"><p>
+#. REF: sc11, ms1V_1739 
+msgctxt "pli-tv-bu-vb-ss12:2.37"
+msgid "‘Suṇātu me, bhante, saṃgho."
+msgstr "‘Venerables, let the Order listen to me."
+
+msgctxt "pli-tv-bu-vb-ss12:2.38"
+msgid "Ayaṃ itthannāmo bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti."
+msgstr "This monk so-and-so makes himself incorrigible when he’s legitimately corrected by the monks."
+
+msgctxt "pli-tv-bu-vb-ss12:2.39"
+msgid "So taṃ vatthuṃ na paṭinissajjati."
+msgstr "He keeps on doing it."
+
+msgctxt "pli-tv-bu-vb-ss12:2.40"
+msgid "Yadi saṃghassa pattakallaṃ, saṃgho itthannāmaṃ bhikkhuṃ samanubhāseyya tassa vatthussa paṭinissaggāya."
+msgstr "If it seems appropriate to the Order, the Order should admonish him to make him stop."
+
+msgctxt "pli-tv-bu-vb-ss12:2.41"
+msgid "Esā ñatti."
+msgstr "This is the motion."
+
+#. HTML: </p><p>
+#. REF: sc12, ms1V_1740 
+msgctxt "pli-tv-bu-vb-ss12:2.42"
+msgid "Suṇātu me, bhante, saṃgho."
+msgstr "Venerables, let the Order listen to me."
+
+msgctxt "pli-tv-bu-vb-ss12:2.43"
+msgid "Ayaṃ itthannāmo bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti."
+msgstr "This monk so-and-so makes himself incorrigible when he’s legitimately corrected by the monks."
+
+msgctxt "pli-tv-bu-vb-ss12:2.44"
+msgid "So taṃ vatthuṃ na paṭinissajjati."
+msgstr "He keeps on doing it."
+
+msgctxt "pli-tv-bu-vb-ss12:2.45"
+msgid "Saṃgho itthannāmaṃ bhikkhuṃ samanubhāsati tassa vatthussa paṭinissaggāya."
+msgstr "The Order admonishes him to make him stop."
+
+msgctxt "pli-tv-bu-vb-ss12:2.46"
+msgid "Yassāyasmato khamati itthannāmassa bhikkhuno samanubhāsanā tassa vatthussa paṭinissaggāya, so tuṇhassa;"
+msgstr "Any monk who approves of admonishing him to make him stop should remain silent."
+
+msgctxt "pli-tv-bu-vb-ss12:2.47"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr "Any monk who does not approve should speak up."
+
+#. HTML: </p><p>
+#. REF: sc13, ms1V_1741 
+msgctxt "pli-tv-bu-vb-ss12:2.48"
+msgid "Dutiyampi etamatthaṃ vadāmi … pe …"
+msgstr "A second time …"
+
+msgctxt "pli-tv-bu-vb-ss12:2.49"
+msgid "tatiyampi etamatthaṃ vadāmi—"
+msgstr "A third time I speak on this matter:"
+
+msgctxt "pli-tv-bu-vb-ss12:2.50"
+msgid "suṇātu me, bhante, saṃgho."
+msgstr "Venerables, let the Order listen to me."
+
+msgctxt "pli-tv-bu-vb-ss12:2.51"
+msgid "Ayaṃ itthannāmo bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti."
+msgstr "This monk so-and-so makes himself incorrigible when he’s legitimately corrected by the monks."
+
+msgctxt "pli-tv-bu-vb-ss12:2.52"
+msgid "So taṃ vatthuṃ na paṭinissajjati."
+msgstr "He keeps on doing it."
+
+msgctxt "pli-tv-bu-vb-ss12:2.53"
+msgid "Saṃgho itthannāmaṃ bhikkhuṃ samanubhāsati tassa vatthussa paṭinissaggāya."
+msgstr "The Order admonishes him to make him stop."
+
+msgctxt "pli-tv-bu-vb-ss12:2.54"
+msgid "Yassāyasmato khamati itthannāmassa bhikkhuno samanubhāsanā tassa vatthussa paṭinissaggāya, so tuṇhassa;"
+msgstr "Any monk who approves of admonishing him to make him stop should remain silent."
+
+msgctxt "pli-tv-bu-vb-ss12:2.55"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr "Any monk who does not approve should speak up."
+
+#. HTML: </p><p>
+#. REF: sc14, ms1V_1742 
+msgctxt "pli-tv-bu-vb-ss12:2.56"
+msgid "Samanubhaṭṭho saṃghena itthannāmo bhikkhu tassa vatthussa paṭinissaggāya."
+msgstr "This monk so-and-so has been admonished by the Order to make him stop."
+
+msgctxt "pli-tv-bu-vb-ss12:2.57"
+msgid "Khamati saṃghassa, tasmā tuṇhī,"
+msgstr "The Order approves and is therefore silent."
+
+msgctxt "pli-tv-bu-vb-ss12:2.58"
+msgid "evametaṃ dhārayāmī’”ti."
+msgstr "I will remember it thus.’”"
+
+#. HTML: </p></div></div><hr><p>
+#. REF: sc15, ms1V_1743 
+msgctxt "pli-tv-bu-vb-ss12:2.59"
+msgid "Ñattiyā dukkaṭaṃ,"
+msgstr "After the motion, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-ss12:2.60"
+msgid "dvīhi kammavācāhi thullaccayā,"
+msgstr "After each of the first two announcements, he commits a serious offense."
+
+msgctxt "pli-tv-bu-vb-ss12:2.61"
+msgid "kamma­vācā­pari­yosāne āpatti saṃ­ghā­di­sesassa."
+msgstr "When the last announcement is finished, he commits an offense entailing suspension."
+
+#. REF: pts-vp-en1.313
+msgctxt "pli-tv-bu-vb-ss12:2.62"
+msgid "Saṃghādisesaṃ ajjhā­pajjan­tassa ñattiyā dukkaṭaṃ, dvīhi kammavācāhi thullaccayā paṭippas­sam­bhanti."
+msgstr "For one who commits the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled."
+
+#. HTML: </p><hr><p><span class="term"> 
+#. REF: sc16, ms1V_1744
+msgctxt "pli-tv-bu-vb-ss12:2.63"
+msgid "Saṃghādisesoti"
+msgstr "He commits an offense entailing suspension:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss12:2.64"
+msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
+msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-ss12:3.1.0a"
+msgid ""
+msgstr "Permutations"
+
+#. HTML: </h2><p>
+#. REF: sc17, pts-cs-bu-ss12.3.1, ms1V_1745 
+msgctxt "pli-tv-bu-vb-ss12:3.1.1"
+msgid "Dhammakamme dhamma­kamma­saññī na paṭinissajjati, āpatti saṃ­ghā­di­sesassa."
+msgstr "If it is a legitimate procedure, and he perceives it as legitimate, but he does not stop, he commits an offense entailing suspension."
+
+#. HTML: </p><p>
+#. REF: sc18, ms1V_1746 
+msgctxt "pli-tv-bu-vb-ss12:3.1.2"
+msgid "Dhammakamme vematiko na paṭinissajjati, āpatti saṃ­ghā­di­sesassa."
+msgstr "If it is a legitimate procedure, but he is unsure if it is, and he does not stop, he commits an offense entailing suspension."
+
+#. HTML: </p><p>
+#. REF: sc19, ms1V_1747 
+msgctxt "pli-tv-bu-vb-ss12:3.1.3"
+msgid "Dhammakamme adhamma­kamma­saññī na paṭinissajjati, āpatti saṃ­ghā­di­sesassa."
+msgstr "If it is a legitimate procedure, but he perceives it as illegitimate, and he does not stop, he commits an offense entailing suspension."
+
+#. HTML: </p><p>
+#. REF: sc20, ms1V_1748 
+msgctxt "pli-tv-bu-vb-ss12:3.1.4"
+msgid "Adhammakamme dhamma­kamma­saññī, āpatti dukkaṭassa."
+msgstr "If it is an illegitimate procedure, but he perceives it as legitimate, he commits an offense of wrong conduct."
+
+#. HTML: </p><p>
+#. REF: sc21, ms1V_1749 
+msgctxt "pli-tv-bu-vb-ss12:3.1.5"
+msgid "Adhammakamme vematiko, āpatti dukkaṭassa."
+msgstr "If it is an illegitimate procedure, but he is unsure if it is, he commits an offense of wrong conduct."
+
+#. HTML: </p><p>
+#. REF: sc22, ms1V_1750 
+msgctxt "pli-tv-bu-vb-ss12:3.1.6"
+msgid "Adhammakamme adhamma­kamma­saññī, āpatti dukkaṭassa."
+msgstr "If it is an illegitimate procedure, and he perceives it as illegitimate, he commits an offense of wrong conduct."
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-ss12:3.2.0a"
+msgid ""
+msgstr "Non-offenses"
+
+#. HTML: </h2><p>
+#. REF: sc23, pts-cs-bu-ss12.3.2, ms1V_1751 
+msgctxt "pli-tv-bu-vb-ss12:3.2.1"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-ss12:3.2.2"
+msgid "asama­nu­bhāsan­tassa,"
+msgstr "if he has not been admonished;"
+
+msgctxt "pli-tv-bu-vb-ss12:3.2.3"
+msgid "paṭi­nissaj­jan­tassa,"
+msgstr "if he stops;"
+
+msgctxt "pli-tv-bu-vb-ss12:3.2.4"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-ss12:3.2.5"
+msgid "ādi­kammi­kas­sāti."
+msgstr "if he is the first offender."
+
+#. HTML: </p><hr><p class="endsutta">
+#. REF: sc24, ms1V_1752 
+msgctxt "pli-tv-bu-vb-ss12:3.2.6"
+msgid "Dubba­ca­sikkhā­padaṃ niṭṭhitaṃ dvādasamaṃ."
+msgstr "The twelfth rule, training rule on being difficult to correct, is finished."

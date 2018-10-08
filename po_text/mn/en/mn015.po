@@ -72,8 +72,8 @@ msgid ""
 "anusāsaniṃ, atha kho naṃ sabrahmacārī na ceva vattabbaṃ maññanti, na ca "
 "anusāsitabbaṃ maññanti, na ca tasmiṃ puggale vissāsaṃ āpajjitabbaṃ maññanti."
 msgstr ""
-"other mendicants to admonish them. But they're hard to correct, having "
-"qualities that make them hard to correct. They're impatient, and don't take "
+"other mendicants to admonish them. But they’re hard to admonish, having "
+"qualities that make them hard to admonish. They're impatient, and don't take "
 "instruction respectfully. So their spiritual companions don’t think it’s "
 "worth advising and instructing them, and that person doesn’t gain their "
 "trust."
@@ -344,8 +344,8 @@ msgid ""
 "atha kho naṃ sabrahmacārī vattabbañceva maññanti, anusāsitabbañca maññanti, "
 "tasmiñca puggale vissāsaṃ āpajjitabbaṃ maññanti."
 msgstr ""
-"other mendicants to correct them. But they're easy to correct, having "
-"qualities that make them easy to correct. They're accepting, and take "
+"other mendicants to admonish them. But they’re easy to admonish, having "
+"qualities that make them easy to admonish. They're accepting, and take "
 "instruction respectfully. So their spiritual companions think it’s worth "
 "advising and instructing them, and that person gains their trust."
 
@@ -354,7 +354,7 @@ msgstr ""
 #. <a class="sc" id="sc21"></a>
 msgctxt "mn15:5.1"
 msgid "Katame cāvuso, sovacassakaraṇā dhammā?"
-msgstr "And what are the qualities that make them easy to correct?"
+msgstr "And what are the qualities that make them easy to admonish?"
 
 msgctxt "mn15:5.2"
 msgid "Idhāvuso, bhikkhu na pāpiccho hoti, na pāpikānaṃ icchānaṃ vasaṃ gato."
@@ -594,7 +594,7 @@ msgstr ""
 #. <a class="sc" id="sc37"></a>
 msgctxt "mn15:5.50"
 msgid "Ime vuccantāvuso, sovacassakaraṇā dhammā."
-msgstr "These are the qualities that make them easy to correct."
+msgstr "These are the qualities that make them easy to admonish."
 
 # Anumana seems to only occur twice in the EBTs, here and SN 22.36. There, BB accepts the sense “measure against”. It seems to me this meaning applies here. the passage specifically discusses, not an inference in general, but how one is to measure oneself against another. This, of course, reads straight from the etymology of the term. Moreover, this sense makes the whole sutta hang together better. The next section refers to paccavekkhana, i.e. “reflection”. So this section is about an external standard, the next section is about an inner standard. In later texts, especially Mil 6.4.1, anumana did indeed come to mean “inference”.
 #. </p><p>
@@ -1491,7 +1491,8 @@ msgstr "This is what Venerable Mahāmoggallāna said."
 
 msgctxt "mn15:8.9"
 msgid "Attamanā te bhikkhū āyasmato mahāmoggallānassa bhāsitaṃ abhinandunti."
-msgstr "Satisfied, the mendicants were happy with what Mahāmoggallāna said."
+msgstr ""
+"Satisfied, the mendicants were happy with what Venerable Mahāmoggallāna said."
 
 #. </p><p class="endsection">
 msgctxt "mn15:8.10"

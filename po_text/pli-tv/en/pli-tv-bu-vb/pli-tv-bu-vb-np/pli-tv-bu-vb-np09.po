@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-14 05:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pi-vi/np/pli-tv-bu-vb-np9.po\n"
+"X-Pootle-Revision: 7500\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bu-vb-np9"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-np9:0.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. HTML: </p><p class="division"> 
+msgctxt "pli-tv-bu-vb-np9:0.2"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:0.3"
+msgid "Nissaggiyakaṇḍa"
+msgstr "The chapter on relinquishment"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:0.4"
+msgid "Cīvaravagga"
+msgstr "Monks’ Relinquishment"
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-bu-vb-np9:0.5"
+msgid "9. Dutiyaupakkhaṭasikkhāpada"
+msgstr "9. The second training rule on what is set aside"
+
+#. HTML: </h1></div><h2>
+msgctxt "pli-tv-bu-vb-np9:1.0a"
+msgid ""
+msgstr "Origin story"
+
+#. HTML: </h2><p>
+#. REF: sc1, pts-vp-pli3.218, pts-cs-bu-np9.1, pts-vp-en2.58, ms1V_2041
+msgctxt "pli-tv-bu-vb-np9:1.1"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pli-tv-bu-vb-np9:1.2"
+msgid "Tena kho pana samayena aññataro puriso aññataraṃ purisaṃ etadavoca—"
+msgstr "At that time a certain man said to another man,"
+
+#. VAR: ayyaṃ → ahaṃ ayyaṃ (bj, pts1)
+msgctxt "pli-tv-bu-vb-np9:1.3"
+msgid "“ayyaṃ upanandaṃ cīvarena acchādessāmī”ti."
+msgstr "“I“ll give a robe to Venerable Upananda.”"
+
+msgctxt "pli-tv-bu-vb-np9:1.4"
+msgid "Sopi evamāha—"
+msgstr "And he replied,"
+
+msgctxt "pli-tv-bu-vb-np9:1.5"
+msgid "“ahampi ayyaṃ upanandaṃ cīvarena acchādessāmī”ti."
+msgstr "“I, too, will give a robe to Venerable Upananda.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.6"
+msgid "Assosi kho aññataro piṇḍacāriko bhikkhu tesaṃ purisānaṃ imaṃ kathāsallāpaṃ."
+msgstr "A monk who was an alms-collector heard that conversation."
+
+msgctxt "pli-tv-bu-vb-np9:1.7"
+msgid "Atha kho so bhikkhu yenāyasmā upanando sakyaputto tenupasaṅkami;"
+msgstr "He then went to Upananda"
+
+msgctxt "pli-tv-bu-vb-np9:1.8"
+msgid "upasaṅkamitvā āyasmantaṃ upanandaṃ sakyaputtaṃ etadavoca—"
+msgstr "and said,"
+
+msgctxt "pli-tv-bu-vb-np9:1.9"
+msgid "“mahāpuññosi tvaṃ, āvuso upananda."
+msgstr "“Upananda, you have much merit."
+
+msgctxt "pli-tv-bu-vb-np9:1.10"
+msgid "Amukasmiṃ okāse aññataro puriso aññataraṃ purisaṃ etadavoca—"
+msgstr "I’ve just heard two men telling each other"
+
+msgctxt "pli-tv-bu-vb-np9:1.11"
+msgid "‘ayyaṃ upanandaṃ cīvarena acchādessāmī’ti."
+msgstr "that they will each give you a robe.”"
+
+msgctxt "pli-tv-bu-vb-np9:1.12"
+msgid "Sopi evamāha—"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np9:1.13"
+msgid "‘ahampi ayyaṃ upanandaṃ cīvarena acchādessāmī’”ti."
+msgstr ""
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.14"
+msgid "“Atthāvuso, maṃ te upaṭṭhākā”ti."
+msgstr "“They are my supporters.”"
+
+#. HTML: </p><p>
+#. REF: sc2, ms1V_2042
+msgctxt "pli-tv-bu-vb-np9:1.15"
+msgid "Atha kho āyasmā upanando sakyaputto yena te purisā tenupasaṅkami;"
+msgstr "Upananda then went to those men"
+
+msgctxt "pli-tv-bu-vb-np9:1.16"
+msgid "upasaṅkamitvā te purise etadavoca—"
+msgstr "and said,"
+
+msgctxt "pli-tv-bu-vb-np9:1.17"
+msgid "“saccaṃ kira maṃ tumhe, āvuso, cīvarehi acchādetukāmātthā”ti?"
+msgstr "“Is it true that you both desire to give me a robe?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.18"
+msgid "“Api nayya, evaṃ hoti—"
+msgstr "“Indeed,"
+
+msgctxt "pli-tv-bu-vb-np9:1.19"
+msgid "‘ayyaṃ upanandaṃ cīvarehi acchādessāmā’”ti."
+msgstr "that’s just what we were thinking.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.20"
+msgid "“Sace kho maṃ tumhe, āvuso, cīvarehi acchādetukāmāttha, evarūpena cīvarena acchādetha,"
+msgstr "“If that’s the case, then give me such-and-such a robe."
+
+msgctxt "pli-tv-bu-vb-np9:1.21"
+msgid "kyāhaṃ tehi acchannopi karissāmi, yānāhaṃ na paribhuñjissāmī”ti."
+msgstr "For what’s the point of giving robes that I won’t use?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.22"
+msgid "Atha kho te purisā ujjhāyanti khiyyanti vipācenti—"
+msgstr "Those men grumbled and complained,"
+
+msgctxt "pli-tv-bu-vb-np9:1.23"
+msgid "“mahicchā ime samaṇā sakyaputtiyā asantuṭṭhā."
+msgstr "“These Sakyan ascetics have great desires; they are not content."
+
+msgctxt "pli-tv-bu-vb-np9:1.24"
+msgid "Nayime sukarā cīvarehi acchādetuṃ."
+msgstr "It’s no easy matter to give them robes."
+
+msgctxt "pli-tv-bu-vb-np9:1.25"
+msgid "Kathañhi nāma ayyo upanando amhehi pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjissatī”ti."
+msgstr "How can Venerable Upananda approach us and specify the kind of robe he wants without first being invited?”"
+
+#. HTML: </p><p>
+#. REF: sc3, pts-vp-en2.59, ms1V_2043
+msgctxt "pli-tv-bu-vb-np9:1.26"
+msgid "Assosuṃ kho bhikkhū tesaṃ purisānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "The monks heard the complaints of those men,"
+
+msgctxt "pli-tv-bu-vb-np9:1.27"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "and the monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-np9:1.28"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized him,"
+
+msgctxt "pli-tv-bu-vb-np9:1.29"
+msgid "“kathañhi nāma āyasmā upanando sakyaputto pubbe appavārito gahapatike upasaṅkamitvā cīvare vikappaṃ āpajjissatī”ti."
+msgstr "“How can Venerable Upananda approach lay people and make a suggestion about a robe without first being invited?”"
+
+#. HTML: </p><p>
+#. REF: sc4, ms1V_2044
+msgctxt "pli-tv-bu-vb-np9:1.30"
+msgid "Atha kho te bhikkhū āyasmantaṃ upanandaṃ sakyaputtaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "After criticizing him in many ways, they told the Master …"
+
+msgctxt "pli-tv-bu-vb-np9:1.31"
+msgid "“saccaṃ kira tvaṃ, upananda, pubbe appavārito gahapatike upasaṅkamitvā cīvare vikappaṃ āpajjasī”ti?"
+msgstr "“Is it true, Upananda, that you acted like this?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.32"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.33"
+msgid "“Ñātakā te, upananda, aññātakā”ti?"
+msgstr "“Are they relatives of yours?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.34"
+msgid "“Aññātakā, bhagavā”ti."
+msgstr "“No, Master.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.35"
+msgid "“Aññātako, moghapurisa, aññātakānaṃ na jānāti patirūpaṃ vā appatirūpaṃ vā santaṃ vā asantaṃ vā."
+msgstr "“Foolish man, people who are not related don’t know what’s appropriate and what’s inappropriate in dealing with each other, what’s right and what’s wrong."
+
+msgctxt "pli-tv-bu-vb-np9:1.36"
+msgid "Tattha nāma tvaṃ, moghapurisa, pubbe appavārito aññātake gahapatike upasaṅkamitvā cīvare vikappaṃ āpajjissasi."
+msgstr "And still you approached unrelated lay people and specified the kind of robe you wanted without first being invited."
+
+msgctxt "pli-tv-bu-vb-np9:1.37"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-np9:1.38"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-np9:1.38a"
+msgid ""
+msgstr "Final ruling"
+
+#. HTML: </h2><p><span class="rule"> 
+#. VAR: paccekacīvaracetāpannāni upakkhaṭāni → … cetāpannā upakkhaṭā (bj) | … cetāpanā upakkhaṭā (s1-3, pts1)
+#. REF: sc5, ms1V_2045
+msgctxt "pli-tv-bu-vb-np9:1.39"
+msgid "“Bhikkhuṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti—"
+msgstr "‘If two male or female lay people have set aside separate robe funds for an unrelated monk, thinking,"
+
+msgctxt "pli-tv-bu-vb-np9:1.40"
+msgid "‘imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā’ti;"
+msgstr "‘With these separate robe funds we will buy separate robes and give them to monk so-and-so;’"
+
+msgctxt "pli-tv-bu-vb-np9:1.41"
+msgid "tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya—"
+msgstr "and if that monk, without first being invited, approaches them and specifies the kind of robe he wants, saying,"
+
+# NOTE: The only phrase in this rule that may be somewhat unclear is _ubhova santā ekena_, here translated as “put together.” It seems to me that this phrase needs to be related to the main sentence verb _acchādetha_, “present” or “give,” which takes the instrumental of the thing given: “present (him) with one (robe).” _Ubhova santā_ is explained below in the word commentary as _dvepi janā_, “both people,” and the overall phrase then becomes, “two people present (him) with one (robe).“ This means that the funds are put together, and I translate accordingly.
+msgctxt "pli-tv-bu-vb-np9:1.42"
+msgid "‘sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha, ubhova santā ekenā’ti, kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyan”ti."
+msgstr "‘It would be good if you would put these separate robe funds together to buy such-and-such a robe and then give it to me,’ and he does so because he wants something nice, he commits and offense entailing relinquishment and confession.’”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-np9:1.42a"
+msgid ""
+msgstr "Definitions"
+
+#. HTML: </h2><p><span class="term"> 
+#. REF: sc6, ms1V_2046, pts-vp-pli3.219
+msgctxt "pli-tv-bu-vb-np9:1.43"
+msgid "Bhikkhuṃ paneva uddissāti"
+msgstr "For a […] monk:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.44"
+msgid "bhikkhussatthāya, bhikkhuṃ ārammaṇaṃ karitvā, bhikkhuṃ acchādetukāmā."
+msgstr "for the benefit of a monk; making a monk the object of consideration, they desire to give to him."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc7, ms1V_2047
+msgctxt "pli-tv-bu-vb-np9:1.45"
+msgid "Ubhinnanti"
+msgstr "Two:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.46"
+msgid "dvinnaṃ."
+msgstr "a pair."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc8, ms1V_2048
+msgctxt "pli-tv-bu-vb-np9:1.47"
+msgid "Aññātakā nāma"
+msgstr "Unrelated:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.48"
+msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
+msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc9, ms1V_2049
+msgctxt "pli-tv-bu-vb-np9:1.49"
+msgid "Gahapatī nāma"
+msgstr "Male lay people:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.50"
+msgid "ye keci agāraṃ ajjhāvasanti."
+msgstr "any men who live in a house."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc10, ms1V_2050
+msgctxt "pli-tv-bu-vb-np9:1.51"
+msgid "Gahapatāniyo nāma"
+msgstr "Female lay people:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.52"
+msgid "yā kāci agāraṃ ajjhāvasanti."
+msgstr "any women who live in a house."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc11, ms1V_2051
+msgctxt "pli-tv-bu-vb-np9:1.53"
+msgid "Cīvaracetāpannāni nāma"
+msgstr "Robe funds:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.54"
+msgid "hiraññā vā suvaṇṇā vā muttā vā maṇī vā pavāḷā vā phalikā vā paṭakā vā suttā vā kappāsā vā."
+msgstr "money, gold, pearls, gems, corals, crystals, cloth, thread, or cotton wool."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc12, ms1V_2052
+msgctxt "pli-tv-bu-vb-np9:1.55"
+msgid "Imehi paccekacīvaracetāpannehīti"
+msgstr "With these separate robe funds:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.56"
+msgid "paccupaṭṭhitehi."
+msgstr "with that which is at their disposal."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc13, ms1V_2053
+msgctxt "pli-tv-bu-vb-np9:1.57"
+msgid "Cetāpetvāti"
+msgstr "We will buy:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.58"
+msgid "parivattetvā."
+msgstr "having exchanged."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc14, ms1V_2054
+msgctxt "pli-tv-bu-vb-np9:1.59"
+msgid "Acchādessāmāti"
+msgstr "We will […] give:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.60"
+msgid "dassāma."
+msgstr "we will donate."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc15, ms1V_2055
+msgctxt "pli-tv-bu-vb-np9:1.61"
+msgid "Tatra ce so bhikkhūti"
+msgstr "If that monk:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.62"
+msgid "yaṃ bhikkhuṃ uddissa cīvaracetāpannāni upakkhaṭāni honti so bhikkhu."
+msgstr "the monk for whom the robe funds have been set aside."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc16, ms1V_2056
+msgctxt "pli-tv-bu-vb-np9:1.63"
+msgid "Pubbe appavāritoti"
+msgstr "Without first being invited:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.64"
+msgid "pubbe avutto hoti—"
+msgstr "they have not said beforehand:"
+
+msgctxt "pli-tv-bu-vb-np9:1.65"
+msgid "“kīdisena te, bhante, cīvarena attho,"
+msgstr "“Venerable, what kind of robe do you need?"
+
+msgctxt "pli-tv-bu-vb-np9:1.66"
+msgid "kīdisaṃ te cīvaraṃ cetāpemā”ti."
+msgstr "What kind of robe can we buy for you?”"
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc17, ms1V_2057
+msgctxt "pli-tv-bu-vb-np9:1.67"
+msgid "Upasaṅkamitvāti"
+msgstr "Approaches them:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.68"
+msgid "gharaṃ gantvā yattha katthaci upasaṅkamitvā."
+msgstr "having gone to their house or having gone wherever."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc18, ms1V_2058
+msgctxt "pli-tv-bu-vb-np9:1.69"
+msgid "Cīvare vikappaṃ āpajjeyyāti"
+msgstr "Specifies the kind of robe he wants:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.70"
+msgid "āyataṃ vā hotu vitthataṃ vā appitaṃ vā saṇhaṃ vā."
+msgstr "please make it long or wide or closely woven or soft."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc19, ms1V_2059
+msgctxt "pli-tv-bu-vb-np9:1.71"
+msgid "Imehi paccekacīvaracetāpannehīti"
+msgstr "These separate robe funds:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.72"
+msgid "paccupaṭṭhitehi."
+msgstr "that which is at their disposal."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc20, ms1V_2060
+msgctxt "pli-tv-bu-vb-np9:1.73"
+msgid "Evarūpaṃ vā evarūpaṃ vāti"
+msgstr "Such-and-such:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.74"
+msgid "āyataṃ vā vitthataṃ vā appitaṃ vā saṇhaṃ vā."
+msgstr "long or wide or closely woven or soft."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc21, ms1V_2061
+msgctxt "pli-tv-bu-vb-np9:1.75"
+msgid "Cetāpetvāti"
+msgstr "To buy:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.76"
+msgid "parivattetvā."
+msgstr "having exchanged."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc22, ms1V_2062
+msgctxt "pli-tv-bu-vb-np9:1.77"
+msgid "Acchādethāti"
+msgstr "Give:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.78"
+msgid "dajjetha."
+msgstr "donate."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc23, ms1V_2063
+msgctxt "pli-tv-bu-vb-np9:1.79"
+msgid "Ubhova santā ekenāti"
+msgstr "Put […] together:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.80"
+msgid "dvepi janā ekena."
+msgstr "two people supplying him with one robe."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc24, ms1V_2064
+msgctxt "pli-tv-bu-vb-np9:1.81"
+msgid "Kalyāṇakamyataṃ upādāyāti"
+msgstr "Because he wants something nice:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np9:1.82"
+msgid "sādhatthiko mahagghatthiko."
+msgstr "wanting something nice, wanting something expensive."
+
+#. HTML: </span></p><hr><p>
+#. REF: sc25, ms1V_2065
+msgctxt "pli-tv-bu-vb-np9:1.83"
+msgid "Tassa vacanena āyataṃ vā vitthataṃ vā appitaṃ vā saṇhaṃ vā cetāpenti, payoge dukkaṭaṃ."
+msgstr "If those lay people buy a robe that is long, wide, closely woven, or soft because of his statement, then for the act of making the statement, he commits an offense of wrong conduct."
+
+#. REF: pts-vp-en2.61
+msgctxt "pli-tv-bu-vb-np9:1.84"
+msgid "Paṭilābhena nissaggiyaṃ hoti."
+msgstr "When he gets the robe, it becomes subject to relinquishment."
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np9:1.85"
+msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
+msgstr "The robe should be relinquished to an Order, a group, or an individual."
+
+#. HTML: <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-np9:1.86"
+msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
+msgstr "“And, monks, it should be relinquished in this way. …"
+
+#. HTML: <span class="pe"> 
+msgctxt "pli-tv-bu-vb-np9:1.87"
+msgid "pe …"
+msgstr "To be expanded as in [Relinquishment 1, paragraphs 13–17](pli-tv-bu-vb-np1#13), with appropriate substitutions. "
+
+#. HTML: </span> 
+msgctxt "pli-tv-bu-vb-np9:1.88"
+msgid "“idaṃ me, bhante, cīvaraṃ pubbe appavārito aññātake gahapatike upasaṅkamitvā cīvare vikappaṃ āpannaṃ nissaggiyaṃ."
+msgstr "‘Venerables, this robe which I received after approaching unrelated lay people and specifying the kind of robe I wanted without first being invited is to be relinquished."
+
+msgctxt "pli-tv-bu-vb-np9:1.89"
+msgid "Imāhaṃ saṃghassa nissajjāmī”ti … pe …"
+msgstr "I relinquish it to the Order.’ …"
+
+msgctxt "pli-tv-bu-vb-np9:1.90"
+msgid "dadeyyāti … pe …"
+msgstr "the Order should give …"
+
+msgctxt "pli-tv-bu-vb-np9:1.91"
+msgid "dadeyyunti … pe …"
+msgstr "you should give …"
+
+msgctxt "pli-tv-bu-vb-np9:1.92"
+msgid "āyasmato dammīti."
+msgstr "‘I give this robe back to you.’”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-np9:1.92a"
+msgid ""
+msgstr "Permutations"
+
+#. HTML: </h2><p>
+#. REF: sc26, ms1V_2066
+msgctxt "pli-tv-bu-vb-np9:1.93"
+msgid "Aññātake aññātakasaññī pubbe appavārito gahapatike upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
+msgstr "If the lay people are unrelated and he perceives them as unrelated, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np9:1.94"
+msgid "Aññātake vematiko pubbe appavārito gahapatike upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
+msgstr "If the lay people are unrelated, but he is unsure if they are, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np9:1.95"
+msgid "Aññātake ñātakasaññī pubbe appavārito gahapatike upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
+msgstr "If the lay people are unrelated, but he perceives them as related, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
+
+#. HTML: </p><p>
+#. REF: sc27, ms1V_2067
+msgctxt "pli-tv-bu-vb-np9:1.96"
+msgid "Ñātake aññātakasaññī, āpatti dukkaṭassa."
+msgstr "If the lay people are related, but he perceives them as unrelated, he commit an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np9:1.97"
+msgid "Ñātake vematiko, āpatti dukkaṭassa."
+msgstr "If the lay people are related, but he is unsure if they are, he commit an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np9:1.98"
+msgid "Ñātake ñātakasaññī, anāpatti."
+msgstr "If the lay people are related and he perceives them as related, there is no offense."
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-np9:1.98a"
+msgid ""
+msgstr "Non-offenses"
+
+#. HTML: </h2><p>
+#. REF: sc28, ms1V_2068
+msgctxt "pli-tv-bu-vb-np9:1.99"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-np9:1.100"
+msgid "ñātakānaṃ,"
+msgstr "if it is from relatives;"
+
+msgctxt "pli-tv-bu-vb-np9:1.101"
+msgid "pavāritānaṃ,"
+msgstr "if it is from those who have given an invitation;"
+
+msgctxt "pli-tv-bu-vb-np9:1.102"
+msgid "aññassatthāya,"
+msgstr "if it is for the benefit of another;"
+
+msgctxt "pli-tv-bu-vb-np9:1.103"
+msgid "attano dhanena,"
+msgstr "if it is by means of his own property;"
+
+msgctxt "pli-tv-bu-vb-np9:1.104"
+msgid "mahagghaṃ cetāpetukāmānaṃ appagghaṃ cetāpeti,"
+msgstr "if the lay people wish to buy something expensive, but he gets them to buy something inexpensive;"
+
+msgctxt "pli-tv-bu-vb-np9:1.105"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-np9:1.106"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. HTML: </p><hr><p class="endsutta">
+#. REF: sc29, ms1V_2069
+msgctxt "pli-tv-bu-vb-np9:1.107"
+msgid "Dutiyaupakkhaṭasikkhāpadaṃ niṭṭhitaṃ navamaṃ."
+msgstr "The ninth rule, the second training rule on what is set aside, is finished."

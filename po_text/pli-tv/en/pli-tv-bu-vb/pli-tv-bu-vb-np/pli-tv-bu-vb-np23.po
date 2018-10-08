@@ -1,0 +1,750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-14 05:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pi-vi/np/pli-tv-bu-vb-np23.po\n"
+"X-Pootle-Revision: 58216\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bu-vb-np23"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-np23:0.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. HTML: </p><p class="division"> 
+msgctxt "pli-tv-bu-vb-np23:0.2"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:0.3"
+msgid "Nissaggiyakaṇḍa"
+msgstr "The chapter on relinquishment"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:0.4"
+msgid "Pattavagga"
+msgstr "Monks’ Relinquishment"
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-bu-vb-np23:0.5"
+msgid "23. Bhesajjasikkhāpada"
+msgstr "23. The training rule on tonics"
+
+#. HTML: </h1></div><h2>
+msgctxt "pli-tv-bu-vb-np23:1.1.0a"
+msgid ""
+msgstr "Origin story"
+
+#. HTML: </h2><p>
+#. REF: sc1, pts-cs-bu-np23.1.1, pts-vp-en2.126, ms1V_2307
+msgctxt "pli-tv-bu-vb-np23:1.1.1"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pli-tv-bu-vb-np23:1.1.2"
+msgid "Tena kho pana samayena āyasmā pilindavaccho rājagahe pabbhāraṃ sodhāpeti leṇaṃ kattukāmo."
+msgstr "At that time Venerable Pilindavaccha wanted to build a shelter, and he was having a hillside cleared near Rājagaha."
+
+msgctxt "pli-tv-bu-vb-np23:1.1.3"
+msgid "Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami;"
+msgstr "On that occasion King Seniya Bimbisāra of Magadha went to Pilindavaccha,"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.4"
+msgid "upasaṅkamitvā āyasmantaṃ pilindavacchaṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed down to him, sat down to one side,"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.5"
+msgid "Ekamantaṃ nisinno kho rājā māgadho seniyo bimbisāro āyasmantaṃ pilindavacchaṃ etadavoca—"
+msgstr "and said,"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.6"
+msgid "“kiṃ, bhante, thero kārāpetī”ti?"
+msgstr "“Venerable, what are you having made?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.7"
+msgid "“Pabbhāraṃ, mahārāja, sodhāpemi leṇaṃ kattukāmo”ti."
+msgstr "“I’m clearing the hillside, great king, because I want to build a shelter.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.8"
+msgid "“Attho, bhante, ayyassa ārāmikenā”ti?"
+msgstr "“Do you need a monastery worker?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.9"
+msgid "“Na kho, mahārāja, bhagavatā ārāmiko anuññāto”ti."
+msgstr "“The Master hasn’t allowed monastery workers.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.10"
+msgid "“Tena hi, bhante, bhagavantaṃ paṭipucchitvā mama āroceyyāthā”ti."
+msgstr "“Well then, Venerable, please ask the Master and tell me the outcome.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.11"
+msgid "“Evaṃ, mahārājā”ti kho āyasmā pilindavaccho rañño māgadhassa seniyassa bimbisārassa paccassosi."
+msgstr "“Yes, great king.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.12"
+msgid "Atha kho āyasmā pilindavaccho rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi."
+msgstr "And Pilindavaccha instructed, inspired, and gladdened King Bimbisāra with a teaching."
+
+msgctxt "pli-tv-bu-vb-np23:1.1.13"
+msgid "Atha kho rājā māgadho seniyo bimbisāro āyasmatā pilindavacchena dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito uṭṭhāyāsanā āyasmantaṃ pilindavacchaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
+msgstr "The king rose from his seat, bowed down to Pilindavaccha, circumambulated him with his right side towards him, and departed."
+
+#. HTML: </p><p>
+#. REF: sc2, pts-vp-pli3.249, ms1V_2308
+msgctxt "pli-tv-bu-vb-np23:1.1.14"
+msgid "Atha kho āyasmā pilindavaccho bhagavato santike dūtaṃ pāhesi—"
+msgstr "Soon afterwards Pilindavaccha sent a message to the Master:"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.15"
+msgid "“rājā, bhante, māgadho seniyo bimbisāro ārāmikaṃ dātukāmo."
+msgstr "“Venerable Sir, King Seniya Bimbisāra of Magadha wishes to provide a monastery worker."
+
+#. REF: pts-vp-en2.127
+msgctxt "pli-tv-bu-vb-np23:1.1.16"
+msgid "Kathaṃ nu kho, bhante, mayā paṭipajjitabban”ti?"
+msgstr "What should I do?”"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.17"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr "The Master then gave a teaching and addressed the monks,"
+
+#. HTML: <span class="rule"> 
+msgctxt "pli-tv-bu-vb-np23:1.1.18"
+msgid "“anujānāmi, bhikkhave, ārāmikan”ti."
+msgstr "“Monks, I allow monastery workers.”"
+
+#. HTML: </span></p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.19"
+msgid "Dutiyampi kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami;"
+msgstr "Once again King Bimbisāra went to Pilindavaccha,"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.20"
+msgid "upasaṅkamitvā āyasmantaṃ pilindavacchaṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed down to him, and sat down to one side."
+
+msgctxt "pli-tv-bu-vb-np23:1.1.21"
+msgid "Ekamantaṃ nisinno kho rājā māgadho seniyo bimbisāro āyasmantaṃ pilindavacchaṃ etadavoca—"
+msgstr "And said,"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.22"
+msgid "“anuññāto, bhante, bhagavatā ārāmiko”ti?"
+msgstr "“Venerable, has the Master allowed monastery workers?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.23"
+msgid "“Evaṃ, mahārājā”ti."
+msgstr "“Yes, great king.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.24"
+msgid "“Tena hi, bhante, ayyassa ārāmikaṃ dammī”ti."
+msgstr "“Well then, I’ll provide you with a monastery worker.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.25"
+msgid "Atha kho rājā māgadho seniyo bimbisāro āyasmato pilindavacchassa ārāmikaṃ paṭissuṇitvā vissaritvā cirena satiṃ paṭilabhitvā aññataraṃ sabbatthakaṃ mahāmattaṃ āmantesi—"
+msgstr "But after promising a monastery worker to Pilindavaccha, he forgot about it. He only remembered after a long time. He then addressed the official in charge of all practical affairs,"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.26"
+msgid "“yo mayā, bhaṇe, ayyassa ārāmiko paṭissuto, dinno so ārāmiko”ti?"
+msgstr "“Listen, has the monastery worker I promised been provided?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.27"
+msgid "“Na kho, deva, ayyassa ārāmiko dinno”ti."
+msgstr "“No, sir, he hasn’t.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.28"
+msgid "“Kīvaciraṃ nu kho, bhaṇe, ito hi taṃ hotī”ti?"
+msgstr "“How long is it since we made that promise?”"
+
+#. HTML: </p><p>
+#. VAR: gaṇetvā → vigaṇetvā (bj, pts1, mr)
+msgctxt "pli-tv-bu-vb-np23:1.1.29"
+msgid "Atha kho so mahāmatto rattiyo gaṇetvā rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ etadavoca—"
+msgstr "The official counted the days and said,"
+
+msgctxt "pli-tv-bu-vb-np23:1.1.30"
+msgid "“pañca, deva, rattisatānī”ti."
+msgstr "“It’s five hundred days, sir.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.31"
+msgid "“Tena hi, bhaṇe, ayyassa pañca ārāmikasatāni dehī”ti."
+msgstr "“Well then, provide him with five hundred monastery workers.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.1.32"
+msgid "“Evaṃ, devā”ti"
+msgstr "“Yes, sir.”"
+
+#. HTML: </p><p>
+#. VAR: pādāsi → adāsi (s1-3)
+#. REF: pts-vp-en2.128,  
+msgctxt "pli-tv-bu-vb-np23:1.1.33"
+msgid "kho so mahāmatto rañño māgadhassa seniyassa bimbisārassa paṭissuṇitvā āyasmato pilindavacchassa pañca ārāmikasatāni pādāsi, pāṭiyekko gāmo nivisi."
+msgstr "The official provided Pilindavaccha with five hundred monastery workers, and a separate village was established."
+
+msgctxt "pli-tv-bu-vb-np23:1.1.34"
+msgid "Ārāmikagāmakotipi naṃ āhaṃsu, pilindagāmakotipi naṃ āhaṃsu."
+msgstr "They called it “The Monastery Workers’ Village” and “Pilinda Village.”"
+
+#. HTML: </p><p>
+#. REF: sc3, pts-vp-pli3.250, pts-cs-bu-np23.1.2, ms1V_2309
+msgctxt "pli-tv-bu-vb-np23:1.2.1"
+msgid "Tena kho pana samayena āyasmā pilindavaccho tasmiṃ gāmake kulūpako hoti."
+msgstr "And Pilindavaccha began associating with the families in that village."
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.2.2"
+msgid "Atha kho āyasmā pilindavaccho pubbaṇhasamayaṃ nivāsetvā pattacīvaraṃ ādāya pilindagāmakaṃ piṇḍāya pāvisi."
+msgstr "After robing up one morning, he took his bowl and robe and entered Pilinda Village for almsfood."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.3"
+msgid "Tena kho pana samayena tasmiṃ gāmake ussavo hoti."
+msgstr "At that time they were holding a festival in that village,"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.4"
+msgid "Dārakā alaṅkatā mālākitā kīḷanti."
+msgstr "and the children were dressed up with ornaments and garlands."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.5"
+msgid "Atha kho āyasmā pilindavaccho pilindagāmake sapadānaṃ piṇḍāya caramāno yena aññatarassa ārāmikassa nivesanaṃ tenupasaṅkami;"
+msgstr "As Pilindavaccha was walking on continuous almsround, he came to the house of a certain monastery worker,"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.6"
+msgid "upasaṅkamitvā paññatte āsane nisīdi."
+msgstr "where he sat down on a prepared seat."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.7"
+msgid "Tena kho pana samayena tassā ārāmikiniyā dhītā aññe dārake alaṅkate mālākite passitvā rodati—"
+msgstr "Just then the daughter of the house had seen other children dressed up in ornaments and garlands. She was crying,"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.8"
+msgid "“mālaṃ me detha,"
+msgstr "“Give me a garland!"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.9"
+msgid "alaṅkāraṃ me dethā”ti."
+msgstr "Give me ornaments!”"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.10"
+msgid "Atha kho āyasmā pilindavaccho taṃ ārāmikiniṃ etadavoca—"
+msgstr "Pilindavaccha asked her mother"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.11"
+msgid "“kissāyaṃ dārikā rodatī”ti?"
+msgstr "why the girl was crying."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.12"
+msgid "“Ayaṃ, bhante, dārikā aññe dārake alaṅkate mālākite passitvā rodati—"
+msgstr "She told him, adding,"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.13"
+msgid "‘mālaṃ me detha, alaṅkāraṃ me dethā’ti."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np23:1.2.14"
+msgid "Kuto amhākaṃ duggatānaṃ mālā kuto, alaṅkāro”ti?"
+msgstr "“How can poor people like us afford garlands and ornaments?”"
+
+#. REF: pts-vp-en2.129
+msgctxt "pli-tv-bu-vb-np23:1.2.15"
+msgid "Atha kho āyasmā pilindavaccho aññataraṃ tiṇaṇḍupakaṃ gahetvā taṃ ārāmikiniṃ etadavoca—"
+msgstr "Pilindavaccha took a roll of grass and said to the mother,"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.16"
+msgid "“handimaṃ tiṇaṇḍupakaṃ tassā dārikāya sīse paṭimuñcā”ti."
+msgstr "“Here, place this roll of grass on the girl’s head.”"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.17"
+msgid "Atha kho sā ārāmikinī taṃ tiṇaṇḍupakaṃ gahetvā tassā dārikāya sīse paṭimuñci."
+msgstr "She did,"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.18"
+msgid "Sā ahosi suvaṇṇamālā abhirūpā dassanīyā pāsādikā."
+msgstr "and it turned into a beautiful golden garland."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.19"
+msgid "Natthi tādisā raññopi antepure suvaṇṇamālā."
+msgstr "Even the royal compound had nothing like it."
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.2.20"
+msgid "Manussā rañño māgadhassa seniyassa bimbisārassa ārocesuṃ—"
+msgstr "People told King Bimbisāra,"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.21"
+msgid "“amukassa, deva, ārāmikassa ghare suvaṇṇamālā abhirūpā dassanīyā pāsādikā."
+msgstr "“Sir, in the house of a particular monastery worker there’s a beautiful golden garland."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.22"
+msgid "Natthi tādisā devassāpi antepure suvaṇṇamālā."
+msgstr "Even your household, sir, has nothing like it."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.23"
+msgid "Kuto tassa duggatassa."
+msgstr "So how did those poor people get it?"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.24"
+msgid "Nissaṃsayaṃ corikāya ābhatā”ti."
+msgstr "No doubt it was taken by theft.”"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.25"
+msgid "Atha kho rājā māgadho seniyo bimbisāro taṃ ārāmikakulaṃ bandhāpesi."
+msgstr "And King Bimbisāra had that family imprisoned."
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.2.26"
+msgid "Dutiyampi kho āyasmā pilindavaccho pubbaṇhasamayaṃ nivāsetvā pattacīvaraṃ ādāya pilindagāmakaṃ piṇḍāya pāvisi."
+msgstr "Once again Pilindavaccha robed up in the morning, took his bowl and robe, and entered Pilinda Village for almsfood."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.27"
+msgid "Pilindagāmake sapadānaṃ piṇḍāya caramāno yena tassa ārāmikassa nivesanaṃ tenupasaṅkami;"
+msgstr "As he was walking on continuous almsround, he came to the house of that monastery worker."
+
+msgctxt "pli-tv-bu-vb-np23:1.2.28"
+msgid "upasaṅkamitvā paṭivissake pucchi—"
+msgstr "And he asked the neighbors,"
+
+msgctxt "pli-tv-bu-vb-np23:1.2.29"
+msgid "“kahaṃ imaṃ ārāmikakulaṃ gatan”ti?"
+msgstr "“Where has the family of this monastery worker gone?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.2.30"
+msgid "“Etissā, bhante, suvaṇṇamālāya kāraṇā raññā bandhāpitan”ti."
+msgstr "“Venerable, the king had them imprisoned because of that golden garland.”"
+
+#. HTML: </p><p>
+#. REF: sc4, pts-cs-bu-np23.1.3, ms1V_2310
+msgctxt "pli-tv-bu-vb-np23:1.3.1"
+msgid "Atha kho āyasmā pilindavaccho yena rañño māgadhassa seniyassa bimbisārassa nivesanaṃ tenupasaṅkami;"
+msgstr "Pilindavaccha then went to King Bimbisāra’s house"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.2"
+msgid "upasaṅkamitvā paññatte āsane nisīdi."
+msgstr "and sat down on a prepared seat."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.3"
+msgid "Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami;"
+msgstr "King Bimbisāra approached Pilindavaccha,"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.4"
+msgid "upasaṅkamitvā āyasmantaṃ pilindavacchaṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed down to him, and sat down to one side."
+
+#. REF: pts-vp-en2.130
+msgctxt "pli-tv-bu-vb-np23:1.3.5"
+msgid "Ekamantaṃ nisinnaṃ kho rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ āyasmā pilindavaccho etadavoca—"
+msgstr "And Pilindavaccha said,"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.6"
+msgid "“kissa, mahārāja, ārāmikakulaṃ bandhāpitan”ti?"
+msgstr "“Great king, why have you had the family of that monastery worker imprisoned?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.3.7"
+msgid "“Tassa, bhante, ārāmikassa ghare suvaṇṇamālā abhirūpā dassanīyā pāsādikā."
+msgstr "“Venerable, in the house of that monastery worker there was a beautiful golden garland."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.8"
+msgid "Natthi tādisā amhākampi antepure suvaṇṇamālā."
+msgstr "Even the royal compound has nothing like it."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.9"
+msgid "Kuto tassa duggatassa."
+msgstr "So how did those poor people get it?"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.10"
+msgid "Nissaṃsayaṃ corikāya ābhatā”ti."
+msgstr "No doubt it was taken by theft.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.3.11"
+msgid "Atha kho āyasmā pilindavaccho rañño māgadhassa seniyassa bimbisārassa pāsādaṃ suvaṇṇanti adhimucci."
+msgstr "Pilindavaccha then focused his mind on turning King Bimbisāra’s stilt house into gold."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.12"
+msgid "So ahosi sabbasovaṇṇamayo."
+msgstr "The whole house became gold."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.13"
+msgid "“Idaṃ pana te, mahārāja, tāva bahuṃ suvaṇṇaṃ kuto”ti?"
+msgstr "And he said, “Great king, how did you get so much gold?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.3.14"
+msgid "“Aññātaṃ, bhante, ayyasseveso iddhānubhāvo”ti."
+msgstr "“Understood, Venerable, this is your supernormal power.”"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.15"
+msgid "Taṃ ārāmikakulaṃ muñcāpesi."
+msgstr "And he released that family."
+
+#. HTML: </p><p>
+#. REF: sc5, pts-vp-pli3.251, ms1V_2311
+msgctxt "pli-tv-bu-vb-np23:1.3.16"
+msgid "Manussā—"
+msgstr "People were saying,"
+
+#. VAR: uttarimanussadhammaṃ → uttari­manus­sa­dhammā (bj)
+msgctxt "pli-tv-bu-vb-np23:1.3.17"
+msgid "“ayyena kira pilindavacchena sarājikāya parisāya uttarimanussadhammaṃ iddhipāṭihāriyaṃ dassitan”ti,"
+msgstr "“It seems Venerable Pilindavaccha has shown a superhuman ability, a wonder of supernormal power, to the king and his court!”"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.18"
+msgid "attamanā abhippasannā āyasmato pilindavacchassa pañca bhesajjāni abhihariṃsu, seyyathidaṃ—"
+msgstr "They were delighted and gained confidence in Pilindavaccha, and they brought him the five kinds of tonic:"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.19"
+msgid "sappi navanītaṃ telaṃ madhu phāṇitaṃ."
+msgstr "ghee, butter, oil, honey, and sugar."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.20"
+msgid "Pakatiyāpi ca āyasmā pilindavaccho lābhī hoti pañcannaṃ bhesajjānaṃ."
+msgstr "Ordinarily, too, Pilindavaccha was getting these five tonics."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.21"
+msgid "Laddhaṃ laddhaṃ parisāya vissajjeti."
+msgstr "Since he was getting so much, he gave it away to his followers."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.22"
+msgid "Parisā cassa hoti bāhullikā."
+msgstr "And his followers acquired an abundance of tonics."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.23"
+msgid "Laddhaṃ laddhaṃ kolambepi ghaṭepi pūretvā paṭisāmeti, parissāvanānipi thavikāyopi pūretvā vātapānesu laggeti."
+msgstr "After filling up jars and pitchers and setting these aside, they filled their water filters and bags and hung these in the windows."
+
+#. REF: pts-vp-en2.131
+msgctxt "pli-tv-bu-vb-np23:1.3.24"
+msgid "Tāni olīnavilīnāni tiṭṭhanti."
+msgstr "The tonics were dripping all over,"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.25"
+msgid "Undūrehipi vihārā okiṇṇavikiṇṇā honti."
+msgstr "and the dwellings became infested with rats."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.26"
+msgid "Manussā vihāracārikaṃ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti—"
+msgstr "People who were walking about the dwellings saw this, and they grumbled and complained,"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.27"
+msgid "“antokoṭṭhāgārikā ime samaṇā sakyaputtiyā, seyyathāpi rājā māgadho seniyo bimbisāro”ti."
+msgstr "“These Sakyan ascetics are hoarding goods indoors, just like King Seniya Bimbisāra of Magadha.”"
+
+#. HTML: </p><p>
+#. REF: sc6, ms1V_2312
+msgctxt "pli-tv-bu-vb-np23:1.3.28"
+msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "The monks heard the complaints of those people,"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.29"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "and the monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.30"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized those monks,"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.31"
+msgid "“kathañhi nāma bhikkhū evarūpāya bāhullāya cetessantī”ti."
+msgstr "“How can these monks choose to live in such abundance?”"
+
+#. HTML: </p><p>
+#. REF: sc7, ms1V_2313
+msgctxt "pli-tv-bu-vb-np23:1.3.32"
+msgid "Atha kho te bhikkhū te anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.33"
+msgid "“saccaṃ kira, bhikkhave, bhikkhū evarūpāya bāhullāya cetentī”ti?"
+msgstr "“Is it true, monks, that some monks are living like this?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.3.34"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:1.3.35"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha criticized them, “…"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.36"
+msgid "kathañhi nāma te, bhikkhave, moghapurisā evarūpāya bāhullāya cetessanti."
+msgstr "How can those foolish men choose to live in such abundance?"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.37"
+msgid "Netaṃ, bhikkhave, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.38"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-np23:1.3.38a"
+msgid ""
+msgstr "Final ruling"
+
+#. HTML: </h2><p><span class="rule"> 
+#. REF: sc8, ms1V_2314
+msgctxt "pli-tv-bu-vb-np23:1.3.39"
+msgid "“Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ—"
+msgstr "‘After being received, the tonics allowable for sick monks—"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.40"
+msgid "sappi navanītaṃ telaṃ madhu phāṇitaṃ,"
+msgstr "that is, ghee, butter, oil, honey, and sugar—"
+
+msgctxt "pli-tv-bu-vb-np23:1.3.41"
+msgid "tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni."
+msgstr "should be used from storage for at most seven days."
+
+msgctxt "pli-tv-bu-vb-np23:1.3.42"
+msgid "Taṃ atikkāmayato nissaggiyaṃ pācittiyan”ti."
+msgstr "If one uses them beyond that, one commits an offense entailing relinquishment and confession.’”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-np23:2.0a"
+msgid ""
+msgstr "Definitions"
+
+#. HTML: </h2><p><span class="term"> 
+#. REF: sc9, pts-cs-bu-np23.2, ms1V_2315
+msgctxt "pli-tv-bu-vb-np23:2.1"
+msgid "Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjānīti"
+msgstr "The tonics allowable for sick monks:"
+
+msgctxt "pli-tv-bu-vb-np23:2.2"
+msgid "sappi nāma"
+msgstr "Ghee:"
+
+#. HTML: </span><span class="gloss">
+#. VAR: mahiṃsasappi → mahisasappi (bj, s1-3) | mahisaṃ vā sappi (pts1)
+#. REF: pts-vp-en2.132,  
+msgctxt "pli-tv-bu-vb-np23:2.3"
+msgid "gosappi vā ajikāsappi vā mahiṃsasappi vā yesaṃ maṃsaṃ kappati tesaṃ sappi."
+msgstr "ghee from cows, ghee from goats, ghee from buffaloes, or ghee from whatever animal whose meat is allowable."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-np23:2.4"
+msgid "Navanītaṃ nāma"
+msgstr "Butter:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np23:2.5"
+msgid "tesaṃyeva navanītaṃ."
+msgstr "butter from the same animals."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-np23:2.6"
+msgid "Telaṃ nāma"
+msgstr "Oil:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np23:2.7"
+msgid "tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍatelaṃ vasātelaṃ."
+msgstr "sesame oil, mustard seed oil, honey tree oil, castor oil, oil from tallow."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-np23:2.8"
+msgid "Madhu nāma"
+msgstr "Honey:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np23:2.9"
+msgid "makkhikāmadhu."
+msgstr "honey from bees."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-np23:2.10"
+msgid "Phāṇitaṃ nāma"
+msgstr "Sugar:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np23:2.11"
+msgid "ucchumhā nibbattaṃ."
+msgstr "from sugar cane."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc10, ms1V_2316
+msgctxt "pli-tv-bu-vb-np23:2.12"
+msgid "Tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbānīti"
+msgstr "After being received […] should be used from storage for at most seven days:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np23:2.13"
+msgid "sattāhaparamatā paribhuñjitabbāni."
+msgstr "they are to be used for seven days at the maximum."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc11, ms1V_2317
+msgctxt "pli-tv-bu-vb-np23:2.14"
+msgid "Taṃ atikkāmayato nissaggiyaṃ hotīti"
+msgstr "If one uses them beyond that, one commits an offense entailing relinquishment:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np23:2.15"
+msgid "aṭṭhame aruṇuggamane nissaggiyaṃ hoti."
+msgstr "it becomes subject to relinquishment at dawn on the eighth day."
+
+#. HTML: </span></p><hr><p>
+msgctxt "pli-tv-bu-vb-np23:2.16"
+msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
+msgstr "The tonics should be relinquished to an Order, a group, or an individual."
+
+#. HTML: <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-np23:2.17"
+msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
+msgstr "“And, monks, they should be relinquished in this way: …"
+
+#. HTML: <span class="pe"> 
+msgctxt "pli-tv-bu-vb-np23:2.18"
+msgid "pe …"
+msgstr "To be expanded as in [Relinquishment 1, paragraphs 13–17](pli-tv-bu-vb-np1#13), with appropriate substitutions. "
+
+#. HTML: </span> 
+msgctxt "pli-tv-bu-vb-np23:2.19"
+msgid "idaṃ me, bhante, bhesajjaṃ sattāhātikkantaṃ nissaggiyaṃ,"
+msgstr "‘Venerables, these tonics that I have kept over seven days are to be relinquished."
+
+msgctxt "pli-tv-bu-vb-np23:2.20"
+msgid "imāhaṃ saṃghassa nissajjāmīti … pe …"
+msgstr "I relinquish them to the Order.’ …"
+
+msgctxt "pli-tv-bu-vb-np23:2.21"
+msgid "dadeyyāti … pe …"
+msgstr "the Order should give …"
+
+msgctxt "pli-tv-bu-vb-np23:2.22"
+msgid "dadeyyunti … pe …"
+msgstr "you should give …"
+
+msgctxt "pli-tv-bu-vb-np23:2.23"
+msgid "āyasmato dammīti."
+msgstr "‘I give these tonics back to you.’”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-np23:2.23a"
+msgid ""
+msgstr "Permutations"
+
+#. HTML: </h2><p>
+#. REF: sc12, pts-vp-pli3.252, ms1V_2318
+msgctxt "pli-tv-bu-vb-np23:2.24"
+msgid "Sattāhātikkante atikkantasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is more than seven days and he perceives it as more than seven days, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np23:2.25"
+msgid "Sattāhātikkante vematiko, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is more than seven days, but he is unsure if it is, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np23:2.26"
+msgid "Sattāhātikkante anatikkantasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is more than seven days, but he perceives it as less than seven days, he commits an offense entailing relinquishment and confession."
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-np23:2.27"
+msgid "Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr "If they have not been determined, but he perceives them as determined, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np23:2.28"
+msgid "Avissajjite vissajjitasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr "If they have not been given away, but he perceives them as given away, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np23:2.29"
+msgid "Anaṭṭhe naṭṭhasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr "If they have not been lost, but he perceives them as lost, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np23:2.30"
+msgid "Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr "If they have not been destroyed, but he perceives them as destroyed, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np23:2.31"
+msgid "Adaḍḍhe daḍḍhasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr "If they have not been burnt, but he perceives them as burnt, he commits an offense entailing relinquishment and confession."
+
+#. REF: pts-vp-en2.133
+msgctxt "pli-tv-bu-vb-np23:2.32"
+msgid "Avilutte viluttasaññī, nissaggiyaṃ pācittiyaṃ."
+msgstr "If they have not been stolen, but he perceives them as stolen, he commits an offense entailing relinquishment and confession."
+
+#. HTML: </p><p>
+#. REF: sc13, ms1V_2319
+msgctxt "pli-tv-bu-vb-np23:2.33"
+msgid "Nissaṭṭhaṃ paṭilabhitvā na kāyikena paribhogena paribhuñjitabbaṃ, na ajjhoharitabbaṃ,"
+msgstr "After the relinquished tonics have been returned, they are not to be used on the body, nor are they to be eaten."
+
+msgctxt "pli-tv-bu-vb-np23:2.34"
+msgid "padīpe vā kāḷavaṇṇe vā upanetabbaṃ,"
+msgstr "They can used in lamps or as a black coloring agent."
+
+msgctxt "pli-tv-bu-vb-np23:2.35"
+msgid "aññena bhikkhunā kāyikena paribhogena paribhuñjitabbaṃ, na ajjhoharitabbaṃ."
+msgstr "Other monks may use them on the body, but they may not eat them."
+
+#. HTML: </p><p>
+#. REF: sc14, ms1V_2320
+msgctxt "pli-tv-bu-vb-np23:2.36"
+msgid "Sattāhānatikkante atikkantasaññī, āpatti dukkaṭassa."
+msgstr "If it is less than seven days, but he perceives it as more than seven days, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np23:2.37"
+msgid "Sattāhānatikkante vematiko, āpatti dukkaṭassa."
+msgstr "If it is less than seven days, but he is unsure if it is, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np23:2.38"
+msgid "Sattāhānatikkante anatikkantasaññī, anāpatti."
+msgstr "If it is less than seven days and he perceives it as less than seven days, there is no offense."
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-np23:2.38a"
+msgid ""
+msgstr "Non-offenses"
+
+#. HTML: </h2><p>
+#. REF: sc15, ms1V_2321
+msgctxt "pli-tv-bu-vb-np23:2.39"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-np23:2.40"
+msgid "antosattāhaṃ adhiṭṭheti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṃ gaṇhanti,"
+msgstr "if within seven days they have been determined, given away, lost, destroyed, burnt, stolen, or taken on trust;"
+
+msgctxt "pli-tv-bu-vb-np23:2.41"
+msgid "anupasampannassa cattena vantena muttena anapekkho datvā paṭilabhitvā paribhuñjati,"
+msgstr "if, without any desire for them, he gives them up to a person who is not fully ordained, and he then obtains them again and then uses them;"
+
+msgctxt "pli-tv-bu-vb-np23:2.42"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-np23:2.43"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. HTML: </p><hr><p class="endsutta">
+#. REF: sc16, ms1V_2322
+msgctxt "pli-tv-bu-vb-np23:2.44"
+msgid "Bhesajjasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ."
+msgstr "The third rule, the training rule on tonics, is finished."

@@ -1,0 +1,830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-14 05:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pi-vi/ss/pli-tv-bu-vb-ss10.po\n"
+"X-Pootle-Revision: 59586\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bu-vb-ss10"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-ss10:0.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. HTML: </p><p class="division"> 
+msgctxt "pli-tv-bu-vb-ss10:0.2"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss10:0.3"
+msgid "Saṃ­ghā­di­sesa­kaṇḍa"
+msgstr "Monks’ Suspension"
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-bu-vb-ss10:0.4"
+msgid "Saṃ­gha­bhe­da­sikkhā­pada"
+msgstr "10. The training rule on schism in the Order"
+
+#. HTML: </h1></div><h2>
+msgctxt "pli-tv-bu-vb-ss10:1.1.0a"
+msgid ""
+msgstr "Origin story"
+
+#. HTML: </h2><p>
+#. REF: sc1, pts-vp-pli3.171, pts-vp-en1.296, pts-cs-bu-ss10.1.1, ms1V_1673 
+msgctxt "pli-tv-bu-vb-ss10:1.1.1"
+msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
+msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
+
+#. VAR: kaṭa­modaka­tissako → kaṭa­moraka­tissako (bj, s1-3, pts1)
+msgctxt "pli-tv-bu-vb-ss10:1.1.2"
+msgid "Atha kho devadatto yena kokāliko kaṭa­modaka­tissako khaṇḍadeviyā putto samuddadatto tenupasaṅkami;"
+msgstr "At that time Devadatta went to see Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyā-putta, and Samuddadatta,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.3"
+msgid "upasaṅkamitvā kokālikaṃ kaṭa­modaka­tis­sakaṃ khaṇḍadeviyā puttaṃ samuddadattaṃ etadavoca—"
+msgstr "and he said to them,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.4"
+msgid "“etha mayaṃ, āvuso, samaṇassa gotamassa saṃghabhedaṃ karissāma cakkabhedan”ti."
+msgstr "“Come, let’s create a schism in the Order of the ascetic Gotama, a break in transmission.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss10:1.1.5"
+msgid "Evaṃ vutte, kokāliko devadattaṃ etadavoca—"
+msgstr "Kokālika said to Devadatta,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.6"
+msgid "“samaṇo kho, āvuso, gotamo mahiddhiko mahānubhāvo."
+msgstr "“The ascetic Gotama has great supernormal powers."
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.7"
+msgid "Kathaṃ mayaṃ samaṇassa gotamassa saṃghabhedaṃ karissāma cakkabhedan”ti?"
+msgstr "How can we do this?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss10:1.1.8"
+msgid "“Etha mayaṃ, āvuso, samaṇaṃ gotamaṃ upasaṅkamitvā pañca vatthūni yācissāma—"
+msgstr "“Well, let’s go to the ascetic Gotama and request five things:"
+
+#. VAR: vīriyā­rambhassa → viriyā­rambhassa (s1-3, pts1) | vīri­yārab­bhassa (c1)
+#. REF: pts-vp-en1.297,  
+msgctxt "pli-tv-bu-vb-ss10:1.1.9"
+msgid "‘bhagavā, bhante, aneka­pariyā­yena appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyā­rambhassa vaṇṇavādī."
+msgstr "‘Venerable Sir, in many ways the Master praises fewness of wishes, contentment, erasing of defilements, ascetic practices, being inspiring, reduction in things, and being energetic."
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.10"
+msgid "Imāni, bhante, pañca vatthūni aneka­pariyā­yena appicchatāya santuṭṭhiyā sallekhāya dhutatāya pāsādikatāya apacayāya vīriyārambhāya saṃvattanti."
+msgstr "And there are five things that lead to just that."
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.11"
+msgid "Sādhu, bhante, bhikkhū"
+msgstr "It would be good, Venerable Sir:"
+
+#. HTML: </p><ul><li> 
+msgctxt "pli-tv-bu-vb-ss10:1.1.12"
+msgid "yāvajīvaṃ āraññikā assu;"
+msgstr "If the monks were stayed in the wilderness for life,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.13"
+msgid "yo gāmantaṃ osareyya, vajjaṃ naṃ phuseyya."
+msgstr "and whoever stays near a village would commit an offense"
+
+#. HTML: </li><li> 
+msgctxt "pli-tv-bu-vb-ss10:1.1.14"
+msgid "Yāvajīvaṃ piṇḍapātikā assu;"
+msgstr "If they were alms-collectors for life,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.15"
+msgid "yo nimantanaṃ sādiyeyya, vajjaṃ naṃ phuseyya."
+msgstr "and whoever accepts an invitation would commit an offense"
+
+#. HTML: </li><li> 
+msgctxt "pli-tv-bu-vb-ss10:1.1.16"
+msgid "Yāvajīvaṃ paṃsukūlikā assu;"
+msgstr "If they were rag-robe wearers for life,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.17"
+msgid "yo gahapa­ti­cīva­raṃ sādiyeyya, vajjaṃ naṃ phuseyya."
+msgstr "and whoever accepts a robe from a lay person would commit an offense"
+
+#. HTML: </li><li> 
+msgctxt "pli-tv-bu-vb-ss10:1.1.18"
+msgid "Yāvajīvaṃ rukkhamūlikā assu;"
+msgstr "If they dwelt at the foot of a tree for life,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.19"
+msgid "yo channaṃ upagaccheyya, vajjaṃ naṃ phuseyya."
+msgstr "and whoever takes shelter would commit an offense"
+
+#. HTML: </li><li> 
+msgctxt "pli-tv-bu-vb-ss10:1.1.20"
+msgid "Yāvajīvaṃ macchamaṃsaṃ na khādeyyuṃ;"
+msgstr "If they did not eat fish or meat for life,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.21"
+msgid "yo macchamaṃsaṃ khādeyya, vajjaṃ naṃ phuseyyā’ti."
+msgstr "and whoever does would commit an offense.’"
+
+#. HTML: </li></ul><p>
+msgctxt "pli-tv-bu-vb-ss10:1.1.22"
+msgid "Imāni samaṇo gotamo nānujānissati."
+msgstr "The ascetic Gotama won’t allow this."
+
+msgctxt "pli-tv-bu-vb-ss10:1.1.23"
+msgid "Te mayaṃ imehi pañcahi vatthūhi janaṃ saññāpessāmāti."
+msgstr "We’ll then be able to win people over with these five points.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss10:1.1.24"
+msgid "Sakkā kho, āvuso, imehi pañcahi vatthūhi samaṇassa gotamassa saṃghabhedo kātuṃ cakkabhedo."
+msgstr "Kokālika said, “It might be possible to create a schism in the Order with these five points,"
+
+#. VAR: Lūkhapasannā → lūkhappasannā (bj, s1-3, pts1 4V.343/1)
+msgctxt "pli-tv-bu-vb-ss10:1.1.25"
+msgid "Lūkhapasannā hi, āvuso, manussā”ti."
+msgstr "for people have confidence in austerity.”"
+
+#. HTML: </p><p>
+#. REF: sc2, pts-vp-pli3.172, pts-cs-bu-ss10.1.2, ms1V_1674 
+msgctxt "pli-tv-bu-vb-ss10:1.2.1"
+msgid "Atha kho devadatto sapariso yena bhagavā tenupasaṅkami;"
+msgstr "Devadatta and his followers then went to the Master,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.2"
+msgid "upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed down to him, and sat down to one side."
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.3"
+msgid "Ekamantaṃ nisinno kho devadatto bhagavantaṃ etadavoca—"
+msgstr "And Devadatta made his request."
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.4"
+msgid "“bhagavā, bhante, aneka­pariyā­yena appicchassa … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.5"
+msgid "vīriyā­rambhassa vaṇṇavādī."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.6"
+msgid "Imāni, bhante, pañca vatthūni aneka­pariyā­yena appicchatāya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.7"
+msgid "vīriyārambhāya saṃvattanti."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.8"
+msgid "Sādhu, bhante, bhikkhū yāvajīvaṃ āraññikā assu;"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.9"
+msgid "yo gāmantaṃ osareyya vajjaṃ naṃ phuseyya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.10"
+msgid "yāvajīvaṃ macchamaṃsaṃ na khādeyyuṃ, yo macchamaṃsaṃ khādeyya vajjaṃ naṃ phuseyyā”ti."
+msgstr ""
+
+#. REF: pts-vp-en1.298
+msgctxt "pli-tv-bu-vb-ss10:1.2.11"
+msgid "“Alaṃ, devadatta,"
+msgstr "The Master replied, “No, Devadatta."
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.12"
+msgid "yo icchati āraññiko hotu, yo icchati gāmante viharatu;"
+msgstr "Those who wish may stay in the wilderness, and those who wish may live near a village."
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.13"
+msgid "yo icchati piṇḍapātiko hotu, yo icchati nimantanaṃ sādiyatu;"
+msgstr "Those who wish may be alms-collectors, and those who wish may accept invitations."
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.14"
+msgid "yo icchati paṃsukūliko hotu, yo icchati gahapa­ti­cīva­raṃ sādiyatu."
+msgstr "Those who wish may be rag-robe wearers, and those who wish may accept robes from lay people."
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.15"
+msgid "Aṭṭhamāse kho mayā, devadatta, rukkha­mūla­se­nāsa­naṃ anuññātaṃ, tikoṭi­pari­suddhaṃ macchamaṃsaṃ—"
+msgstr "I have allowed a resting place at the foot of a tree for eight months of the year, as well as fish and meat which are pure in three respects:"
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.16"
+msgid "adiṭṭhaṃ asutaṃ aparisaṅkitan”ti."
+msgstr "one has not seen, heard, or suspected that the animal was specifically killed to feed a monastic.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss10:1.2.17"
+msgid "Atha kho devadatto—"
+msgstr "Devadatta thought,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.18"
+msgid "“na bhagavā imāni pañca vatthūni anujānātī”ti haṭṭho udaggo sapariso uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
+msgstr "“The Master doesn’t allow the five points,” and he was glad and elated. He rose from his seat, bowed down to the Master, circumambulated him with his right side towards him, and departed with his followers."
+
+#. HTML: </p><p>
+#. REF: sc3, ms1V_1675, pts-vp-en1.299
+msgctxt "pli-tv-bu-vb-ss10:1.2.19"
+msgid "Atha kho devadatto sapariso rājagahaṃ pavisitvā pañcahi vatthūhi janaṃ saññāpesi—"
+msgstr "Devadatta then entered Rājagaha and won people over with the five points, saying,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.20"
+msgid "“mayaṃ, āvuso, samaṇaṃ gotamaṃ upasaṅkamitvā pañca vatthūni yācimhā—"
+msgstr "”"
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.21"
+msgid "‘bhagavā, bhante, aneka­pariyā­yena appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyā­rambhassa vaṇṇavādī."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.22"
+msgid "Imāni, bhante, pañca vatthūni aneka­pariyā­yena appicchatāya santuṭṭhiyā sallekhāya dhutatāya pāsādikatāya apacayāya vīriyārambhāya saṃvattanti."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.23"
+msgid "Sādhu, bhante, bhikkhū yāvajīvaṃ āraññikā assu;"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.24"
+msgid "yo gāmantaṃ osareyya, vajjaṃ naṃ phuseyya."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.25"
+msgid "Yāvajīvaṃ piṇḍapātikā assu;"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.26"
+msgid "yo nimantanaṃ sādiyeyya, vajjaṃ naṃ phuseyya."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.27"
+msgid "Yāvajīvaṃ paṃsukūlikā assu;"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.28"
+msgid "yo gahapa­ti­cīva­raṃ sādiyeyya, vajjaṃ naṃ phuseyya."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.29"
+msgid "Yāvajīvaṃ rukkhamūlikā assu;"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.30"
+msgid "yo channaṃ upagaccheyya, vajjaṃ naṃ phuseyya."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.31"
+msgid "Yāvajīvaṃ macchamaṃsaṃ na khādeyyuṃ;"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.32"
+msgid "yo macchamaṃsaṃ khādeyya, vajjaṃ naṃ phuseyyā’ti."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.33"
+msgid "Imāni samaṇo gotamo nānujānāti."
+msgstr "“The ascetic Gotama doesn’t agree to them,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.2.34"
+msgid "Te mayaṃ imehi pañcahi vatthūhi samādāya vattāmā”ti."
+msgstr "but we practice in accordance with them."
+
+#. HTML: </p><p>
+#. REF: sc4, ms1V_1676, pts-cs-bu-ss10.1.3
+msgctxt "pli-tv-bu-vb-ss10:1.3.1"
+msgid "Tattha ye te manussā assaddhā appasannā dubbuddhino te evamāhaṃsu—"
+msgstr "The foolish people with little faith and confidence said,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.2"
+msgid "“ime kho samaṇā sakyaputtiyā dhutā sal­lekha­vuttino,"
+msgstr "“These Sakyan ascetics are practicing asceticism and they live for the sake of erasing defilements."
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.3"
+msgid "samaṇo pana gotamo bāhulliko bāhullāya cetetī”ti."
+msgstr "But the acetic Gotama lives in luxury and has chosen to live in abundance.”"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.4"
+msgid "Ye pana te manussā saddhā pasannā paṇḍitā byattā buddhimanto te ujjhāyanti khiyyanti vipācenti—"
+msgstr "But the wise people who had faith and confidence complained and criticized Devadatta,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.5"
+msgid "“kathañhi nāma devadatto bhagavato saṃghabhedāya parakkamissati cakkabhedāyā”ti."
+msgstr "“How can Devadatta act to create a schism in the Order of the Master?”"
+
+#. HTML: </p><p>
+#. REF: sc5, ms1V_1677 
+msgctxt "pli-tv-bu-vb-ss10:1.3.6"
+msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "The monks heard the criticism of those people,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.7"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "and the monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.8"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized him"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.9"
+msgid "“kathañhi nāma devadatto saṃghabhedāya parakkamissati cakkabhedāyā”ti."
+msgstr "in the same way."
+
+#. HTML: </p><p>
+#. REF: sc6, ms1V_1678 
+msgctxt "pli-tv-bu-vb-ss10:1.3.10"
+msgid "Atha kho te bhikkhū devadattaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "After rebuking Devadatta in many ways, they told the Master. …"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.11"
+msgid "“saccaṃ kira tvaṃ, devadatta, saṃghabhedāya parakkamasi cakkabhedāyā”ti?"
+msgstr "He said, “Is it true, Devadatta, that you are acting to create a schism in the Order, a break in transmission?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss10:1.3.12"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-ss10:1.3.13"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked him, “…"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.14"
+msgid "kathañhi nāma tvaṃ, moghapurisa, saṃghabhedāya parakkamissasi cakkabhedāya."
+msgstr "Foolish man, how can you act to create a schism in the Order?"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.15"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.16"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-ss10:1.3.16a"
+msgid ""
+msgstr "Final ruling"
+
+#. HTML: </h2><p><span class="rule"> 
+#. REF: sc7, pts-vp-pli3.173, ms1V_1679
+msgctxt "pli-tv-bu-vb-ss10:1.3.17"
+msgid "“Yo pana bhikkhu samaggassa saṃghassa bhedāya parakkameyya, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo—"
+msgstr "‘If a monk pursues schism in a united Order or persists in taking up a legal issue conducive to schism, the monks should say to him,"
+
+#. VAR: māyasmā → mā āyasmā (bj, s1-3)
+msgctxt "pli-tv-bu-vb-ss10:1.3.18"
+msgid "‘māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
+msgstr "“Venerable, don’t pursue schism in the united Order or persist in taking up a legal issue conducive to schism."
+
+#. REF: pts-vp-en1.300
+msgctxt "pli-tv-bu-vb-ss10:1.3.19"
+msgid "Sametāyasmā saṃghena."
+msgstr "Stay with the Order,"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.20"
+msgid "Samaggo hi saṃgho sammodamāno avivadamāno ekuddeso phāsu viharatī’ti."
+msgstr "for a united Order—in concord, in harmony, having a joint recitation—lives in comfort.”"
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.21"
+msgid "Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ sama­nubhā­si­tabbo tassa paṭinissaggāya."
+msgstr "If that monk still continues as before, the monks should admonish him up to three times to make him stop."
+
+#. VAR: paṭi­nissaj­jeyya → paṭinissajeyya (bj)
+msgctxt "pli-tv-bu-vb-ss10:1.3.22"
+msgid "Yāvatatiyañce sama­nubhā­si­yamāno taṃ paṭi­nissaj­jeyya, iccetaṃ kusalaṃ;"
+msgstr "If he then stops, that is good."
+
+msgctxt "pli-tv-bu-vb-ss10:1.3.23"
+msgid "no ce paṭi­nissaj­jeyya, saṃghādiseso”ti."
+msgstr "If not, he commits an offense entailing suspension.’”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-ss10:2.0a"
+msgid ""
+msgstr "Definitions"
+
+#. HTML: </h2><p><span class="term"> 
+#. REF: sc8, pts-cs-bu-ss10.2, ms1V_1680
+msgctxt "pli-tv-bu-vb-ss10:2.1"
+msgid "Yo panāti"
+msgstr "A:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.2"
+msgid "yo yādiso … pe …"
+msgstr "whoever …"
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-ss10:2.3"
+msgid "bhikkhūti"
+msgstr "Monk:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.4"
+msgid "… pe …"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgctxt "pli-tv-bu-vb-ss10:2.5"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "this sort of monk is meant in this case."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc9, ms1V_1681
+msgctxt "pli-tv-bu-vb-ss10:2.6"
+msgid "Samaggo nāma saṃgho"
+msgstr "A united Order:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.7"
+msgid "samā­nasaṃ­vāsako samānasīmāyaṃ ṭhito."
+msgstr "belonging to the same community, staying within the same boundary."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc10, ms1V_1682
+msgctxt "pli-tv-bu-vb-ss10:2.8"
+msgid "Bhedāya parakkameyyāti—"
+msgstr "Pursues schism:"
+
+#. HTML: </span><span class="gloss">
+msgctxt "pli-tv-bu-vb-ss10:2.9"
+msgid "“kathaṃ ime nānā assu, vinā assu, vaggā assū”ti pakkhaṃ pariyesati, gaṇaṃ bandhati."
+msgstr "thinking, “What can be done so that these become various, separated, divided,” he searches for a faction and puts together a group."
+
+#. HTML: </span></p><p><span class="term"> 
+# NOTE: For these eighteen grounds, see [](MS.4.1595-4.1614).
+#. REF: sc11, ms1V_1683
+msgctxt "pli-tv-bu-vb-ss10:2.10"
+msgid "Bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇanti"
+msgstr "A legal issue conducive to schism:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.11"
+msgid "aṭṭhā­ra­sa­bheda­ka­ra­vatthūni."
+msgstr "the eighteen grounds for creating a schism."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc12, ms1V_1684
+msgctxt "pli-tv-bu-vb-ss10:2.12"
+msgid "Samādāyāti"
+msgstr "Taking up:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.13"
+msgid "ādāya."
+msgstr "having adopted it, he proclaims it."
+
+#. HTML: </span></p><p><span class="term">
+# NOTE: “Taking up” here renders both _samādāya_ and _paggayha_, and as a consequence it appears as if one of the definitions found in the Pali is missing in the translation. In the Pali _samādāya_ is defined as _ādāya_, “having adopted,” and _paggayha_ as _dīpeyya_, “he proclaims.”
+#. REF: sc13, ms1V_1685
+msgctxt "pli-tv-bu-vb-ss10:2.14"
+msgid "Paggayhāti"
+msgstr ""
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.15"
+msgid "dīpeyya."
+msgstr ""
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc14, pts-vp-en1.301, ms1V_1686
+msgctxt "pli-tv-bu-vb-ss10:2.16"
+msgid "Tiṭṭheyyāti"
+msgstr "If […] persists in:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.17"
+msgid "na paṭi­nissaj­jeyya."
+msgstr "if he does not stop."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc15, ms1V_1687
+msgctxt "pli-tv-bu-vb-ss10:2.18"
+msgid "So bhikkhūti"
+msgstr "Him:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.19"
+msgid "yo so saṃghabhedako bhikkhu."
+msgstr "the monk who is pursuing schism in the Order."
+
+#. HTML: </span></p><p><span class="term"> 
+#. REF: sc16, ms1V_1688
+msgctxt "pli-tv-bu-vb-ss10:2.20"
+msgid "Bhikkhūhīti"
+msgstr "The monks:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.21"
+msgid "aññehi bhikkhūhi."
+msgstr ""
+
+#. HTML: </span></p><div class="gloss"><p>
+#. REF: sc17, ms1V_1689 
+msgctxt "pli-tv-bu-vb-ss10:2.22"
+msgid "Ye passanti, ye suṇanti,"
+msgstr "Other monks, those who see it or hear about it."
+
+msgctxt "pli-tv-bu-vb-ss10:2.23"
+msgid "tehi vattabbo—"
+msgstr "They should say,"
+
+#. HTML: <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-ss10:2.24"
+msgid "“māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
+msgstr "“Venerable, don’t pursue schism in the united Order or persist in taking up a legal issue conducive to schism."
+
+msgctxt "pli-tv-bu-vb-ss10:2.25"
+msgid "Sametāyasmā saṃghena."
+msgstr "Stay with the Order,"
+
+msgctxt "pli-tv-bu-vb-ss10:2.26"
+msgid "Samaggo hi saṃgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti."
+msgstr "for a united Order—in concord, in harmony, having a joint recitation—lives in comfort.”"
+
+msgctxt "pli-tv-bu-vb-ss10:2.27"
+msgid "Dutiyampi vattabbo."
+msgstr "And they should say this a second"
+
+msgctxt "pli-tv-bu-vb-ss10:2.28"
+msgid "Tatiyampi vattabbo."
+msgstr "and a third time."
+
+#. HTML: </span> 
+msgctxt "pli-tv-bu-vb-ss10:2.29"
+msgid "Sace paṭinissajjati, iccetaṃ kusalaṃ;"
+msgstr "If he stops, that is good."
+
+msgctxt "pli-tv-bu-vb-ss10:2.30"
+msgid "no ce paṭinissajjati, āpatti dukkaṭassa."
+msgstr "If he does not stop, he commits an offense of wrong conduct."
+
+#. HTML: <span class="subrule"> 
+msgctxt "pli-tv-bu-vb-ss10:2.31"
+msgid "Sutvā na vadanti, āpatti dukkaṭassa."
+msgstr "If those who heard about it do not say anything, they commit an offense of wrong conduct."
+
+#. HTML: </span></p><p>
+#. VAR: bhikkhu → bhikkhu bhikkhūti (bj)
+msgctxt "pli-tv-bu-vb-ss10:2.32"
+msgid "So bhikkhu saṃgha­majjhampi ākaḍḍhitvā vattabbo—"
+msgstr "That monk, even if he has to be dragged into the middle of the Order, should be spoken to thus,"
+
+#. HTML: <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-ss10:2.33"
+msgid "“māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
+msgstr "“Venerable, don’t pursue schism in the united Order or persist in taking up a legal issue conducive to schism."
+
+msgctxt "pli-tv-bu-vb-ss10:2.34"
+msgid "Sametāyasmā saṃghena."
+msgstr "Stay with the Order,"
+
+msgctxt "pli-tv-bu-vb-ss10:2.35"
+msgid "Samaggo hi saṃgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti."
+msgstr "for a united Order—in concord, in harmony, having a joint recitation—lives in comfort.”"
+
+msgctxt "pli-tv-bu-vb-ss10:2.36"
+msgid "Dutiyampi vattabbo."
+msgstr "They should say this a second"
+
+msgctxt "pli-tv-bu-vb-ss10:2.37"
+msgid "Tatiyampi vattabbo."
+msgstr "and a third time."
+
+#. HTML: </span> 
+msgctxt "pli-tv-bu-vb-ss10:2.38"
+msgid "Sace paṭinissajjati, iccetaṃ kusalaṃ;"
+msgstr "If he stops, that is good."
+
+msgctxt "pli-tv-bu-vb-ss10:2.39"
+msgid "no ce paṭinissajjati, āpatti dukkaṭassa."
+msgstr "If he does not stop, he commits an offense of wrong conduct."
+
+#. HTML: </p></div><p><span class="term"> 
+msgctxt "pli-tv-bu-vb-ss10:2.40"
+msgid "So bhikkhu sama­nubhā­si­tabbo—"
+msgstr "Should admonish him:"
+
+#. HTML: </span></p><div class="gloss"><p>
+msgctxt "pli-tv-bu-vb-ss10:2.41"
+msgid "“evañca pana, bhikkhave, sama­nubhā­si­tabbo."
+msgstr "“And, monks, he should be admonished in this way."
+
+msgctxt "pli-tv-bu-vb-ss10:2.42"
+msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
+msgstr "A competent and capable monk should inform the Order:"
+
+#. HTML: </p><div class="kamma"><p>
+#. REF: sc18, ms1V_1690 
+msgctxt "pli-tv-bu-vb-ss10:2.43"
+msgid "‘Suṇātu me, bhante, saṃgho."
+msgstr "‘Venerables, let the Order listen to me."
+
+msgctxt "pli-tv-bu-vb-ss10:2.44"
+msgid "Ayaṃ itthannāmo bhikkhu samaggassa saṃghassa bhedāya parakkamati."
+msgstr "This monk so-and-so is pursuing schism in the united Order."
+
+msgctxt "pli-tv-bu-vb-ss10:2.45"
+msgid "So taṃ vatthuṃ na paṭinissajjati."
+msgstr "He is not stopping that activity."
+
+msgctxt "pli-tv-bu-vb-ss10:2.46"
+msgid "Yadi saṃghassa pattakallaṃ, saṃgho itthannāmaṃ bhikkhuṃ samanubhāseyya tassa vatthussa paṭinissaggāya."
+msgstr "If it seems appropriate to the Order, the Order should admonish him to make him stop."
+
+msgctxt "pli-tv-bu-vb-ss10:2.47"
+msgid "Esā ñatti."
+msgstr "This is the motion."
+
+#. HTML: </p><p>
+#. REF: sc19, pts-vp-pli3.174, ms1V_1691 
+msgctxt "pli-tv-bu-vb-ss10:2.48"
+msgid "Suṇātu me, bhante, saṃgho."
+msgstr "Venerables, let the Order listen to me."
+
+msgctxt "pli-tv-bu-vb-ss10:2.49"
+msgid "Ayaṃ itthannāmo bhikkhu samaggassa saṃghassa bhedāya parakkamati."
+msgstr "This monk so-and-so is pursuing schism in the united Order."
+
+msgctxt "pli-tv-bu-vb-ss10:2.50"
+msgid "So taṃ vatthuṃ na paṭinissajjati."
+msgstr "He is not stopping that activity."
+
+msgctxt "pli-tv-bu-vb-ss10:2.51"
+msgid "Saṃgho itthannāmaṃ bhikkhuṃ samanubhāsati tassa vatthussa paṭinissaggāya."
+msgstr "The Order admonishes him to make him stop."
+
+msgctxt "pli-tv-bu-vb-ss10:2.52"
+msgid "Yassāyasmato khamati itthannāmassa bhikkhuno samanubhāsanā tassa vatthussa paṭinissaggāya, so tuṇhassa;"
+msgstr "Any monk who approves of admonishing him to make him stop should remain silent."
+
+msgctxt "pli-tv-bu-vb-ss10:2.53"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr "Any monk who does not approve should speak up."
+
+#. HTML: </p><p>
+#. REF: sc20, ms1V_1692 
+msgctxt "pli-tv-bu-vb-ss10:2.54"
+msgid "Dutiyampi etamatthaṃ vadāmi … pe …"
+msgstr "A second time …"
+
+#. REF: pts-vp-en1.302
+msgctxt "pli-tv-bu-vb-ss10:2.55"
+msgid "tatiyampi etamatthaṃ vadāmi—"
+msgstr "A third time I speak on this matter:"
+
+msgctxt "pli-tv-bu-vb-ss10:2.56"
+msgid "suṇātu me, bhante, saṃgho."
+msgstr "Venerables, let the Order listen to me."
+
+msgctxt "pli-tv-bu-vb-ss10:2.57"
+msgid "Ayaṃ itthannāmo bhikkhu samaggassa saṃghassa bhedāya parakkamati."
+msgstr "This monk so-and-so is pursuing schism in the united Order."
+
+msgctxt "pli-tv-bu-vb-ss10:2.58"
+msgid "So taṃ vatthuṃ na paṭinissajjati."
+msgstr "He is not stopping that activity."
+
+msgctxt "pli-tv-bu-vb-ss10:2.59"
+msgid "Saṃgho itthannāmaṃ bhikkhuṃ samanubhāsati tassa vatthussa paṭinissaggāya."
+msgstr "The Order admonishes him to make him stop."
+
+msgctxt "pli-tv-bu-vb-ss10:2.60"
+msgid "Yassāyasmato khamati itthannāmassa bhikkhuno samanubhāsanā tassa vatthussa paṭinissaggāya, so tuṇhassa;"
+msgstr "Any monk who approves of admonishing him to make him stop should remain silent."
+
+msgctxt "pli-tv-bu-vb-ss10:2.61"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr "Any monk who does not approve should speak up."
+
+#. HTML: </p><p>
+#. REF: sc21, ms1V_1693 
+msgctxt "pli-tv-bu-vb-ss10:2.62"
+msgid "Samanubhaṭṭho saṃghena itthannāmo bhikkhu tassa vatthussa paṭinissaggāya."
+msgstr "This monk so-and-so has been admonished by the Order to make him stop that activity."
+
+msgctxt "pli-tv-bu-vb-ss10:2.63"
+msgid "Khamati saṃghassa, tasmā tuṇhī,"
+msgstr "The Order approves and is therefore silent."
+
+msgctxt "pli-tv-bu-vb-ss10:2.64"
+msgid "evametaṃ dhārayāmī’”ti."
+msgstr "I will remember it thus.’”"
+
+#. HTML: </p></div></div><hr><p>
+#. REF: sc22, ms1V_1694 
+msgctxt "pli-tv-bu-vb-ss10:2.65"
+msgid "Ñattiyā dukkaṭaṃ,"
+msgstr "After the motion, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-ss10:2.66"
+msgid "dvīhi kammavācāhi thullaccayā,"
+msgstr "After each of the first two announcements, he commits a serious offense."
+
+msgctxt "pli-tv-bu-vb-ss10:2.67"
+msgid "kamma­vācā­pari­yosāne āpatti saṃ­ghā­di­sesassa."
+msgstr "When the last announcement is finished, he commits an offense entailing suspension."
+
+msgctxt "pli-tv-bu-vb-ss10:2.68"
+msgid "Saṃghādisesaṃ ajjhā­pajjan­tassa ñattiyā dukkaṭaṃ, dvīhi kammavācāhi thullaccayā paṭippas­sam­bhanti."
+msgstr "For one who commits the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled."
+
+#. HTML: </p><hr><p><span class="term"> 
+#. REF: sc23, ms1V_1695
+msgctxt "pli-tv-bu-vb-ss10:2.69"
+msgid "Saṃghādisesoti"
+msgstr "He commits an offense entailing suspension:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-ss10:2.70"
+msgid "… pe … tenapi vuccati saṃghādisesoti."
+msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-ss10:3.1.0a"
+msgid ""
+msgstr "Permutations"
+
+#. HTML: </h2><p>
+#. REF: sc24, pts-cs-bu-ss10.3.1, ms1V_1696 
+msgctxt "pli-tv-bu-vb-ss10:3.1.1"
+msgid "Dhammakamme dhamma­kamma­saññī na paṭinissajjati, āpatti saṃ­ghā­di­sesassa."
+msgstr "If it is a legitimate procedure, and he perceives it as legitimate, but he does not stop, he commits an offense entailing suspension."
+
+#. HTML: </p><p>
+#. REF: sc25, ms1V_1697 
+msgctxt "pli-tv-bu-vb-ss10:3.1.2"
+msgid "Dhammakamme vematiko na paṭinissajjati, āpatti saṃ­ghā­di­sesassa."
+msgstr "If it is a legitimate procedure, but he is unsure if it is, and he does not stop, he commits an offense entailing suspension."
+
+#. HTML: </p><p>
+#. REF: sc26, ms1V_1698 
+msgctxt "pli-tv-bu-vb-ss10:3.1.3"
+msgid "Dhammakamme adhamma­kamma­saññī na paṭinissajjati, āpatti saṃ­ghā­di­sesassa."
+msgstr "If it is a legitimate procedure, but he perceives it as illegitimate, and he does not stop, he commits an offense entailing suspension."
+
+#. HTML: </p><p>
+#. REF: sc27, ms1V_1699 
+msgctxt "pli-tv-bu-vb-ss10:3.1.4"
+msgid "Adhammakamme dhamma­kamma­saññī, āpatti dukkaṭassa."
+msgstr "If it is an illegitimate procedure, but he perceives it as legitimate, he commits an offense of wrong conduct."
+
+#. HTML: </p><p>
+#. REF: sc28, ms1V_1700 
+msgctxt "pli-tv-bu-vb-ss10:3.1.5"
+msgid "Adhammakamme vematiko, āpatti dukkaṭassa."
+msgstr "If it is an illegitimate procedure, but he is unsure if it is, he commits an offense of wrong conduct."
+
+#. HTML: </p><p>
+#. REF: sc29, ms1V_1701 
+msgctxt "pli-tv-bu-vb-ss10:3.1.6"
+msgid "Adhammakamme adhamma­kamma­saññī, āpatti dukkaṭassa."
+msgstr "If it is an illegitimate procedure, and he perceives it as illegitimate, he commits an offense of wrong conduct."
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-ss10:3.2.0a"
+msgid ""
+msgstr "Non-offenses"
+
+#. HTML: </h2><p>
+#. REF: sc30, pts-cs-bu-ss10.3.2, pts-vp-en1.303, ms1V_1702 
+msgctxt "pli-tv-bu-vb-ss10:3.2.1"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-ss10:3.2.2"
+msgid "asama­nu­bhāsan­tassa,"
+msgstr "if he has not been admonished;"
+
+msgctxt "pli-tv-bu-vb-ss10:3.2.3"
+msgid "paṭi­nissaj­jan­tassa,"
+msgstr "if he stops;"
+
+msgctxt "pli-tv-bu-vb-ss10:3.2.4"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-ss10:3.2.5"
+msgid "khittacittassa,"
+msgstr "if he is deranged;"
+
+msgctxt "pli-tv-bu-vb-ss10:3.2.6"
+msgid "vedanāṭṭassa,"
+msgstr "if he is overwhelmed by pain;"
+
+msgctxt "pli-tv-bu-vb-ss10:3.2.7"
+msgid "ādi­kammi­kas­sāti."
+msgstr "if he is the first offender."
+
+#. HTML: </p><hr><p class="endsutta">
+#. REF: sc31, ms1V_1703 
+msgctxt "pli-tv-bu-vb-ss10:3.2.8"
+msgid "Saṃ­gha­bhe­da­sikkhā­padaṃ niṭṭhitaṃ dasamaṃ."
+msgstr "The tenth rule, the training rule on schism in the Order, is finished."

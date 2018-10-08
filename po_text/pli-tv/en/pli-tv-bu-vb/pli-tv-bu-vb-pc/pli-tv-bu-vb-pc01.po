@@ -1,0 +1,727 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-14 05:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pi-vi/pc/pli-tv-bu-vb-pc1.po\n"
+"X-Pootle-Revision: 7502\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bu-vb-pc1"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-pc1:0.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc1:0.2"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc1:0.3"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession (_pācittiya_)"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc1:0.4"
+msgid "Musāvādavagga"
+msgstr "Monks’ Confession 1"
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-bu-vb-pc1:0.5"
+msgid "1. Musāvādasikkhāpada"
+msgstr "The training rule on lying"
+
+#. HTML: </h1></div><p>
+#. REF: pts-vp-en.2.164, ms2V_1, sc1, pts-vp-pli4.1, ms2V_2
+msgctxt "pli-tv-bu-vb-pc1:0.6"
+msgid "Ime kho panāyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti."
+msgstr "Venerables, these ninety-two rules entailing confession come up for recitation."
+
+#. HTML: </p><p>
+#. REF: sc2
+msgctxt "pli-tv-bu-vb-pc1:0.7"
+msgid "Namo tassa Bhagavato Arahato Sammāsambuddhassa."
+msgstr "Homage to the Master, the Perfected One, the fully Awakened One"
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-pc1:1.0a"
+msgid ""
+msgstr "Origin story"
+
+#. HTML: </h2><p>
+#. REF: sc3, pts-cs-bu-pc1.1, ms2V_3
+msgctxt "pli-tv-bu-vb-pc1:1.1"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pli-tv-bu-vb-pc1:1.2"
+msgid "Tena kho pana samayena hatthako sakyaputto vādakkhitto hoti."
+msgstr "At that time Hatthaka the Sakyan had been beaten in debate."
+
+# NOTE: According to [](Sp.4.736.6) this means: “Before the meal, etc., he would make an appointment, saying, ‘Let there be a debate at such-and-such a time and at such-and-such a place,’ and he would then go there before or after the time of the appointment, saying, ‘Look, sirs, the ascetics of other sects have not come; they are defeated,’ and he would then depart,” _purebhattādīsu, “asukasmiṃ nāma kāle asukasmiṃ nāma padese vādo hotū”ti saṅketaṃ katvā saṅketato pure vā pacchā vā gantvā, “passatha bho, titthiyā na āgatā parājitā”ti pakkamati_.
+msgctxt "pli-tv-bu-vb-pc1:1.3"
+msgid "So titthiyehi saddhiṃ sallapanto avajānitvā paṭijānāti, paṭijānitvā avajānāti, aññenaññaṃ paṭicarati, sampajānamusā bhāsati, saṅketaṃ katvā visaṃvādeti."
+msgstr "While talking with ascetics of other sects, he would assert things after denying them, and he would deny things after asserting them. He evaded the issues, lied, and made sham appointments."
+
+#. REF: pts-vp-en.2.165
+msgctxt "pli-tv-bu-vb-pc1:1.4"
+msgid "Titthiyā ujjhāyanti khiyyanti vipācenti—“kathañhi nāma hatthako sakyaputto amhehi saddhiṃ sallapanto avajānitvā paṭijānissati, paṭijānitvā avajānissati, aññenaññaṃ paṭicarissati, sampajānamusā bhāsissati, saṅketaṃ katvā visaṃvādessatī”ti."
+msgstr "The ascetics of other sects complained and criticized him, “When Hatthaka talks with us, how can he assert things after denying them, deny things after asserting them, evade the issues, lie, and make sham appointments?”"
+
+#. HTML: </p><p>
+#. REF: sc4, pts-vp-pli4.2, ms2V_4
+msgctxt "pli-tv-bu-vb-pc1:1.5"
+msgid "Assosuṃ kho bhikkhū tesaṃ titthiyānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "The monks heard the complaints of those ascetics of other sects,"
+
+msgctxt "pli-tv-bu-vb-pc1:1.6"
+msgid "Atha kho te bhikkhū yena hatthako sakyaputto tenupasaṅkamiṃsu; upasaṅkamitvā hatthakaṃ sakyaputtaṃ etadavocuṃ—"
+msgstr "and they went to Hatthaka and said, "
+
+msgctxt "pli-tv-bu-vb-pc1:1.7"
+msgid "“saccaṃ kira tvaṃ, āvuso hatthaka, titthiyehi saddhiṃ sallapanto avajānitvā paṭijānāsi, paṭijānitvā avajānāsi, aññenaññaṃ paṭicarasi, sampajānamusā bhāsasi, saṅketaṃ katvā visaṃvādesī”ti?"
+msgstr "“Is it true, Hatthaka, that you are acting like this?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc1:1.8"
+msgid "“Ete kho, āvuso, titthiyā nāma yena kenaci jetabbā;"
+msgstr "“These ascetics of other sects should be beaten, whatever it takes."
+
+msgctxt "pli-tv-bu-vb-pc1:1.9"
+msgid "neva tesaṃ jayo dātabbo”ti."
+msgstr "They should not be allowed to win.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc1:1.10"
+msgid "Ye te bhikkhū appicchā … pe … te ujjhāyanti khiyyanti vipācenti—"
+msgstr "The monks of few desires … complained and criticized him,"
+
+msgctxt "pli-tv-bu-vb-pc1:1.11"
+msgid "“kathañhi nāma hatthako sakyaputto titthiyehi saddhiṃ sallapanto avajānitvā paṭijānissati, paṭijānitvā avajānissati, aññenaññaṃ paṭicarissati, sampajānamusā bhāsissati, saṅketaṃ katvā visaṃvādessatī”ti."
+msgstr "“When Hatthaka talks with ascetics of other sects, how can he assert things after denying them, deny things after asserting them, evade the issues, lie, and make sham appointments?”"
+
+#. HTML: </p><p>
+#. REF: sc5, ms2V_5
+msgctxt "pli-tv-bu-vb-pc1:1.12"
+msgid "Atha kho te bhikkhū hatthakaṃ sakyaputtaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
+msgstr "After criticizing Hatthaka in many ways, they told the Master."
+
+msgctxt "pli-tv-bu-vb-pc1:1.13"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā hatthakaṃ sakyaputtaṃ paṭipucchi—"
+msgstr "The Master then had the Order of monks assembled and questioned Hatthaka,"
+
+msgctxt "pli-tv-bu-vb-pc1:1.14"
+msgid "“saccaṃ kira tvaṃ, hatthaka, titthiyehi saddhiṃ sallapanto avajānitvā paṭijānāsi, paṭijānitvā avajānāsi, aññenaññaṃ paṭicarasi, sampajānamusā bhāsasi, saṅketaṃ katvā visaṃvādesī”ti?"
+msgstr "“Is it true, Hatthaka, that you are acting like this?”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc1:1.15"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc1:1.16"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked him, "
+
+msgctxt "pli-tv-bu-vb-pc1:1.17"
+msgid "kathañhi nāma tvaṃ, moghapurisa, titthiyehi saddhiṃ sallapanto avajānitvā paṭijānissasi, paṭijānitvā avajānissasi, aññenaññaṃ paṭicarissasi, sampajānamusā bhāsissasi, saṅketaṃ katvā visaṃvādessasi."
+msgstr "“… Foolish man, when you talk with ascetics of other sects, how can you assert things after denying them, deny things after asserting them, evade the issues, lie, and make sham appointments?"
+
+msgctxt "pli-tv-bu-vb-pc1:1.18"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-pc1:1.19"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-pc1:1.19a"
+msgid ""
+msgstr "Final ruling"
+
+#. HTML: </h2><p><span class="rule"> 
+#. REF: pts-vp-en.2.166, ms2V_6, sc6
+msgctxt "pli-tv-bu-vb-pc1:1.20"
+msgid "“Sampajānamusāvāde pācittiyan”ti."
+msgstr "‘If a monk lies in full awareness, he commits an offense entailing confession.’”"
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-pc1:2.1.0a"
+msgid ""
+msgstr "Definitions"
+
+#. HTML: </h2><p><span class="term"> 
+#. REF: sc7, pts-cs-bu-pc1.2.1, ms2V_7
+msgctxt "pli-tv-bu-vb-pc1:2.1.1"
+msgid "Sampajānamusāvādo nāma"
+msgstr "Lies in full awareness:"
+
+#. HTML: </span><span class="gloss">
+# NOTE: Although _muta_ normally means “thought,” translating as “sensed” is necessary in light of the next paragraph.
+#. REF: pts-vp-en.2.167
+msgctxt "pli-tv-bu-vb-pc1:2.1.2"
+msgid "visaṃvādanapurekkhārassa vācā, girā, byappatho, vacībhedo, vācasikā viññatti, aṭṭha anariyavohārā—adiṭṭhaṃ diṭṭhaṃ meti, assutaṃ sutaṃ meti, amutaṃ mutaṃ meti, aviññātaṃ viññātaṃ meti, diṭṭhaṃ adiṭṭhaṃ meti, sutaṃ assutaṃ meti, mutaṃ amutaṃ meti, viññātaṃ aviññātaṃ meti."
+msgstr "the speech of one who is intent on deceiving—his words, his way of speaking, his breaking into speech, his verbal expression, his eight kinds of ignoble speech: he says that he has seen what he has not seen; he says that he has heard what he has not heard; he says that he has sensed what he has not sensed; he says that he has known what he has not known; he says that he has not seen what he has seen; he says that he has not heard what he has heard; he says that he has not sensed what he has sensed; he says that he has not known what he has known."
+
+#. HTML: </span></p><h2>
+msgctxt "pli-tv-bu-vb-pc1:2.1.2a"
+msgid ""
+msgstr "Permutations"
+
+#. HTML: </h2><h4>
+msgctxt "pli-tv-bu-vb-pc1:2.1.2b"
+msgid ""
+msgstr "Definitions"
+
+#. HTML: </h4><p><span class="term"> 
+#. REF: sc8, ms2V_8
+msgctxt "pli-tv-bu-vb-pc1:2.1.3"
+msgid "Adiṭṭhaṃ nāma"
+msgstr "Not seen:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.4"
+msgid "na cakkhunā diṭṭhaṃ."
+msgstr "not seen with the eye."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.5"
+msgid "Assutaṃ nāma"
+msgstr "Not heard:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.6"
+msgid "na sotena sutaṃ."
+msgstr "not heard with the ear."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.7"
+msgid "Amutaṃ nāma"
+msgstr "Not sensed:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.8"
+msgid "na ghānena ghāyitaṃ, na jivhāya sāyitaṃ, na kāyena phuṭṭhaṃ."
+msgstr "not smelled with the nose, not tasted with the tongue, not touched with the body."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.9"
+msgid "Aviññātaṃ nāma"
+msgstr "Not known:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.10"
+msgid "na manasā viññātaṃ."
+msgstr "not known with the mind."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.11"
+msgid "Diṭṭhaṃ nāma"
+msgstr "Seen:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.12"
+msgid "cakkhunā diṭṭhaṃ."
+msgstr "seen with the eye."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.13"
+msgid "Sutaṃ nāma"
+msgstr "Heard:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.14"
+msgid "sotena sutaṃ."
+msgstr "heard with the ear."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.15"
+msgid "Mutaṃ nāma"
+msgstr "Sensed:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.16"
+msgid "ghānena ghāyitaṃ, jivhāya sāyitaṃ, kāyena phuṭṭhaṃ."
+msgstr "smelled with the nose, tasted with the tongue, touched with the body."
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.17"
+msgid "Viññātaṃ nāma"
+msgstr "Known:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.1.18"
+msgid "manasā viññātaṃ."
+msgstr "known with the mind."
+
+#. HTML: </span></p><h4>
+msgctxt "pli-tv-bu-vb-pc1:2.2.0a"
+msgid ""
+msgstr "Exposition"
+
+#. HTML: </h4><h5>
+msgctxt "pli-tv-bu-vb-pc1:2.2.0b"
+msgid ""
+msgstr "Falsely claiming to have experienced what he has not experienced: a single sense door"
+
+#. HTML: </h5><p>
+#. REF: sc9, pts-cs-bu-pc1.2.2, ms2V_9
+msgctxt "pli-tv-bu-vb-pc1:2.2.1"
+msgid "Tīhākārehi “adiṭṭhaṃ diṭṭhaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
+msgstr "If he lies in full awareness, saying that he has seen what he has not seen, he commits an offense entailing confession when three conditions are fulfilled:"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.2"
+msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bhaṇāmī”ti, bhaṇitassa hoti “musā mayā bhaṇitan”ti."
+msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied."
+
+#. HTML: </p><p>
+#. REF: sc10, ms2V_10
+msgctxt "pli-tv-bu-vb-pc1:2.2.3"
+msgid "Catūhākārehi “adiṭṭhaṃ diṭṭhaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
+msgstr "If he lies in full awareness, saying that he has seen what he has not seen, he commits an offense entailing confession when four conditions are fulfilled:"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.4"
+msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bhaṇāmī”ti, bhaṇitassa hoti “musā mayā bhaṇitan”ti, vinidhāya diṭṭhiṃ."
+msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied; in misrepresenting his view of what is true."
+
+#. HTML: </p><p>
+#. REF: sc11, ms2V_11
+msgctxt "pli-tv-bu-vb-pc1:2.2.5"
+msgid "Pañcahākārehi “adiṭṭhaṃ diṭṭhaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
+msgstr "If he lies in full awareness, saying that he has seen what he has not seen, he commits an offense entailing confession when five conditions are fulfilled:"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.6"
+msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bhaṇāmī”ti, bhaṇitassa hoti “musā mayā bhaṇitan”ti, vinidhāya diṭṭhiṃ, vinidhāya khantiṃ."
+msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied; in misrepresenting his view of what is true; in misrepresenting his belief of what is true."
+
+#. HTML: </p><p>
+#. REF: sc12, pts-vp-pli4.3, ms2V_12
+msgctxt "pli-tv-bu-vb-pc1:2.2.7"
+msgid "Chahākārehi “adiṭṭhaṃ diṭṭhaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
+msgstr "If he lies in full awareness, saying that he has seen what he has not seen, he commits an offense entailing confession when six conditions are fulfilled:"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.8"
+msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bhaṇāmī”ti, bhaṇitassa hoti “musā mayā bhaṇitan”ti, vinidhāya diṭṭhiṃ, vinidhāya khantiṃ, vinidhāya ruciṃ."
+msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied; in misrepresenting his view of what is true; in misrepresenting his belief of what is true; in misrepresenting his acceptance of what is true."
+
+#. HTML: </p><p>
+#. REF: sc13, ms2V_13
+msgctxt "pli-tv-bu-vb-pc1:2.2.9"
+msgid "Sattahākārehi “adiṭṭhaṃ diṭṭhaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
+msgstr "If he lies in full awareness, saying that he has seen what he has not seen, he commits an offense entailing confession when seven conditions are fulfilled:"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.10"
+msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bhaṇāmī”ti, bhaṇitassa hoti “musā mayā bhaṇitan”ti, vinidhāya diṭṭhiṃ, vinidhāya khantiṃ, vinidhāya ruciṃ, vinidhāya bhāvaṃ."
+msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied; in misrepresenting his view of what is true; in misrepresenting his belief of what is true; in misrepresenting his acceptance of what is true; in misrepresenting his sentiment of what is true."
+
+#. HTML: </p><p>
+#. REF: sc14, ms2V_14
+msgctxt "pli-tv-bu-vb-pc1:2.2.11"
+msgid "Tīhākārehi “assutaṃ sutaṃ me”ti … pe …"
+msgstr "If he lies in full awareness, saying that he says that he has heard what he has not heard …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.12"
+msgid "amutaṃ mutaṃ meti … pe …"
+msgstr "saying that he has sensed what he has not sensed …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.13"
+msgid "aviññātaṃ viññātaṃ meti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
+msgstr "saying that he has known what he has not known, he commits an offense entailing confession when three conditions are fulfilled:"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.14"
+msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bhaṇāmī”ti, bhaṇitassa hoti “musā mayā bhaṇitan”ti."
+msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied."
+
+#. HTML: </p><p>
+#. REF: sc15, pts-vp-en.2.168, ms2V_15
+msgctxt "pli-tv-bu-vb-pc1:2.2.15"
+msgid "Catūhākārehi … pe …"
+msgstr "… when four conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.16"
+msgid "pañcahākārehi … pe …"
+msgstr "when five conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.17"
+msgid "chahākārehi … pe …"
+msgstr "when six conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.18"
+msgid "sattahākārehi “aviññātaṃ viññātaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
+msgstr "If he lies in full awareness, saying that he has known what he has not known, he commits an offense entailing confession when seven conditions are fulfilled:"
+
+msgctxt "pli-tv-bu-vb-pc1:2.2.19"
+msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bhaṇāmī”ti, bhaṇitassa hoti “musā mayā bhaṇitan”ti, vinidhāya diṭṭhiṃ, vinidhāya khantiṃ, vinidhāya ruciṃ, vinidhāya bhāvaṃ."
+msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied; in misrepresenting his view of what is true; in misrepresenting his belief of what is true; in misrepresenting his acceptance of what is true; in misrepresenting his sentiment of what is true."
+
+#. HTML: </p><h5>
+msgctxt "pli-tv-bu-vb-pc1:2.3.0a"
+msgid ""
+msgstr "Falsely claiming to have experienced what he has not experienced: multiple sense doors"
+
+#. HTML: </h5><p>
+#. REF: sc16, pts-cs-bu-pc1.2.3, ms2V_16
+msgctxt "pli-tv-bu-vb-pc1:2.3.1"
+msgid "Tīhākārehi “adiṭṭhaṃ diṭṭhañca me sutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has seen and heard what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.2"
+msgid "tīhākārehi “adiṭṭhaṃ diṭṭhañca me mutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has seen and sensed what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.3"
+msgid "tīhākārehi “adiṭṭhaṃ diṭṭhañca me viññātañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has seen and known what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.4"
+msgid "tīhākārehi adiṭṭhaṃ “diṭṭhañca me sutañca mutañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has seen and heard and sensed what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.5"
+msgid "tīhākārehi adiṭṭhaṃ “diṭṭhañca me sutañca viññātañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has seen and heard and known what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+# NOTE: This series seems to be missing one combination: “… saying that he has seen and sensed and known what he has not seen …” Similarly, one combination seems to be missing from [](MS. 2.17-2.19).
+msgctxt "pli-tv-bu-vb-pc1:2.3.6"
+msgid "tīhākārehi adiṭṭhaṃ “diṭṭhañca me sutañca mutañca viññātañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …."
+msgstr "If he lies in full awareness, saying that he has seen and heard and sensed and known what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><p>
+#. REF: sc17, ms2V_17
+msgctxt "pli-tv-bu-vb-pc1:2.3.7"
+msgid "Tīhākārehi assutaṃ “sutañca me mutañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has heard and sensed what he has not heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.8"
+msgid "tīhākārehi assutaṃ “sutañca me viññātañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has heard and known what he has not heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.9"
+msgid "tīhākārehi assutaṃ “sutañca me diṭṭhañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has heard and seen what he has not heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.10"
+msgid "tīhākārehi assutaṃ “sutañca me mutañca viññātañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has heard and sensed and known what he has not heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.11"
+msgid "tīhākārehi assutaṃ “sutañca me mutañca diṭṭhañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has heard and sensed and seen what he has not heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.12"
+msgid "tīhākārehi assutaṃ “sutañca me mutañca viññātañca diṭṭhañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has heard and sensed and known and seen what he has not heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><p>
+#. REF: sc18, ms2V_18
+msgctxt "pli-tv-bu-vb-pc1:2.3.13"
+msgid "Tīhākārehi amutaṃ “mutañca me viññātañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has sensed and known what he has not sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.14"
+msgid "tīhākārehi amutaṃ “mutañca me diṭṭhañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has sensed and seen what he has not sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.15"
+msgid "tīhākārehi amutaṃ “mutañca me sutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has sensed and heard what he has not sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.16"
+msgid "tīhākārehi amutaṃ “mutañca me viññātañca diṭṭhañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has sensed and known and seen what he has not sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.17"
+msgid "tīhākārehi amutaṃ “mutañca me viññātañca sutañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has sensed and known and heard what he has not sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.18"
+msgid "tīhākārehi amutaṃ “mutañca me viññātañca diṭṭhañca sutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has sensed and known and seen and heard what he has not sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><p>
+#. REF: sc19, ms2V_19
+msgctxt "pli-tv-bu-vb-pc1:2.3.19"
+msgid "Tīhākārehi aviññātaṃ “viññātañca me diṭṭhañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has known and seen what he has not known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.20"
+msgid "tīhākārehi aviññātaṃ “viññātañca me sutañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has known and heard what he has not known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.21"
+msgid "tīhākārehi aviññātaṃ “viññātañca me mutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has known and sensed what he has not known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.22"
+msgid "tīhākārehi aviññātaṃ “viññātañca me diṭṭhañca sutañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has known and seen and heard what he has not known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.23"
+msgid "tīhākārehi aviññātaṃ “viññātañca me diṭṭhañca mutañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has known and seen and sensed what he has not known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.3.24"
+msgid "tīhākārehi aviññātaṃ “viññātañca me diṭṭhañca sutañca mutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "If he lies in full awareness, saying that he has known and seen and heard and sensed what he has not known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><h5>
+msgctxt "pli-tv-bu-vb-pc1:2.4.0a"
+msgid ""
+msgstr "Falsely claiming not to have experienced what he has experienced"
+
+#. HTML: </h5><p>
+#. REF: sc20, pts-cs-bu-pc1.2.4, ms2V_20
+msgctxt "pli-tv-bu-vb-pc1:2.4.1"
+msgid "Tīhākārehi diṭṭhaṃ “adiṭṭhaṃ me”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has not seen what he has seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.4.2"
+msgid "sutaṃ “assutaṃ me”ti … pe …"
+msgstr "saying that he has not heard what he has heard …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.4.3"
+msgid "mutaṃ “amutaṃ me”ti … pe …"
+msgstr "saying that he has not sensed what he has sensed …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.4.4"
+msgid "viññātaṃ “aviññātaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "saying that he has not known what he has known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><h5>
+msgctxt "pli-tv-bu-vb-pc1:2.5.0a"
+msgid ""
+msgstr "Falsely claiming to have experienced with one sense what he has experienced with another"
+
+#. HTML: </h5><p>
+#. REF: sc21, pts-vp-pli4.4, pts-cs-bu-pc1.2.5, ms2V_21, pts-vp-en.2.169
+msgctxt "pli-tv-bu-vb-pc1:2.5.1"
+msgid "Tīhākārehi diṭṭhaṃ “sutaṃ me”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has heard what he has seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.2"
+msgid "tīhākārehi diṭṭhaṃ “mutaṃ me”ti … pe …"
+msgstr "saying that he has sensed what he has seen …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.3"
+msgid "tīhākārehi diṭṭhaṃ “viññātaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "saying that he has known what he has seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.4"
+msgid "tīhākārehi diṭṭhaṃ “sutañca me mutañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has heard and sensed what he has seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.5"
+msgid "tīhākārehi diṭṭhaṃ “sutañca me viññātañcā”ti … pe …"
+msgstr "saying that he has heard and known what he has seen …"
+
+# NOTE: This series, too, seems to be missing one combination: “… saying that he has sensed and known what he has seen …” Similarly, one combination seems to be missing from [](MS. 2.22-2.24).
+msgctxt "pli-tv-bu-vb-pc1:2.5.6"
+msgid "tīhākārehi diṭṭhaṃ “sutañca me mutañca viññātañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "saying that he has heard and sensed and known what he seen, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><p>
+#. REF: sc22, ms2V_22
+msgctxt "pli-tv-bu-vb-pc1:2.5.7"
+msgid "Tīhākārehi sutaṃ “mutaṃ me”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has sensed what he has heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.8"
+msgid "tīhākārehi sutaṃ “viññātaṃ me”ti … pe …"
+msgstr "saying that he has known what he has heard …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.9"
+msgid "tīhākārehi sutaṃ “diṭṭhaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "saying that he has seen what he has heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.10"
+msgid "tīhākārehi sutaṃ “mutañca me viññātañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has sensed and known what he has heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.11"
+msgid "tīhākārehi sutaṃ “mutañca me diṭṭhañcā”ti … pe …"
+msgstr "saying that he has sensed and seen what he has heard …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.12"
+msgid "tīhākārehi sutaṃ “mutañca me viññātañca diṭṭhañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …."
+msgstr "saying that he has sensed and known and seen what he heard, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><p>
+#. REF: sc23, ms2V_23
+msgctxt "pli-tv-bu-vb-pc1:2.5.13"
+msgid "Tīhākārehi mutaṃ “viññātaṃ me”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has known what he has sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.14"
+msgid "tīhākārehi mutaṃ “diṭṭhaṃ me”ti … pe …"
+msgstr "saying that he has seen what he has sensed …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.15"
+msgid "tīhākārehi mutaṃ “sutaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "saying that he has heard what he has sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.16"
+msgid "tīhākārehi mutaṃ “viññātañca me diṭṭhañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has known and seen what he has sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.17"
+msgid "tīhākārehi mutaṃ “viññātañca me sutañcā”ti … pe …"
+msgstr "saying that he has known and heard what he has sensed …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.18"
+msgid "tīhākārehi mutaṃ “viññātañca me diṭṭhañca sutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …."
+msgstr "saying that he has known and seen and heard what he sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><p>
+#. REF: sc24, ms2V_24
+msgctxt "pli-tv-bu-vb-pc1:2.5.19"
+msgid "Tīhākārehi viññātaṃ “diṭṭhaṃ me”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has seen what he has known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.20"
+msgid "tīhākārehi viññātaṃ “sutaṃ me”ti … pe …"
+msgstr "saying that he has heard what he has known …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.21"
+msgid "tīhākārehi viññātaṃ “mutaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
+msgstr "saying that he has sensed what he has known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.22"
+msgid "tīhākārehi viññātaṃ “diṭṭhañca me sutañcā”ti … pe …"
+msgstr "If he lies in full awareness, saying that he has seen and heard what he has known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.23"
+msgid "tīhākārehi viññātaṃ “diṭṭhañca me mutañcā”ti … pe …"
+msgstr "saying that he has seen and sensed what he has known …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.5.24"
+msgid "tīhākārehi viññātaṃ “diṭṭhañca me sutañca mutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …."
+msgstr "saying that he has seen and heard and sensed what he known, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><h5>
+msgctxt "pli-tv-bu-vb-pc1:2.6.0a"
+msgid ""
+msgstr "Making claims while having doubts"
+
+#. HTML: </h5><p>
+#. REF: sc25, pts-cs-bu-pc1.2.6, ms2V_25
+msgctxt "pli-tv-bu-vb-pc1:2.6.1"
+msgid "Tīhākārehi diṭṭhe vematiko diṭṭhaṃ nokappeti, diṭṭhaṃ nassarati, diṭṭhaṃ pamuṭṭho hoti … pe …"
+msgstr "If he has doubts about what he has seen, is not sure about what he has seen, does not remember what he has seen, is confused about what he has seen …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.2"
+msgid "sute vematiko sutaṃ nokappeti, sutaṃ nassarati, sutaṃ pamuṭṭho hoti … pe …"
+msgstr "If he has doubts about what he has heard, is not sure about what he has heard, does not remember what he has heard, is confused about what he has heard …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.3"
+msgid "mute vematiko mutaṃ nokappeti, mutaṃ nassarati, mutaṃ pamuṭṭho hoti … pe …"
+msgstr "If he has doubts about what he has sensed, is not sure about what he has sensed, does not remember what he has sensed, is confused about what he has sensed …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.4"
+msgid "viññāte vematiko viññātaṃ nokappeti, viññātaṃ nassarati, viññātaṃ pamuṭṭho hoti … viññātañca me diṭṭhañcāti … pe …"
+msgstr "If he has doubts about what he has known, is not sure about what he has known, does not remember what he has known, is confused about what he has known, but he lies in full awareness, saying that he has known and seen …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.5"
+msgid "viññātaṃ pamuṭṭho hoti … viññātañca me sutañcāti … pe …"
+msgstr "is confused about what he has known, but he lies in full awareness, saying that he has known and heard …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.6"
+msgid "viññātaṃ pamuṭṭho hoti; viññātañca me mutañcāti … pe …"
+msgstr "is confused about what he has known, but he lies in full awareness, saying that he has known and sensed …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.7"
+msgid "viññātaṃ pamuṭṭho hoti; viññātañca me diṭṭhañca sutañcāti … pe …"
+msgstr "is confused about what he has known, but he lies in full awareness, saying that he has known and seen and heard …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.8"
+msgid "viññātaṃ pamuṭṭho hoti; viññātañca me diṭṭhañca mutañcāti … pe …"
+msgstr "is confused about what he has known, but he lies in full awareness, saying that he has known and seen and sensed …"
+
+# NOTE: This series, too, seems to be missing one combination: “… saying that he has known and heard and sensed what he has seen …”.
+msgctxt "pli-tv-bu-vb-pc1:2.6.9"
+msgid "viññātaṃ pamuṭṭho hoti; viññātañca me diṭṭhañca sutañca mutañcāti sampajānamusā bhaṇantassa āpatti pācittiyassa."
+msgstr "is confused about what he has known, but he lies in full awareness, saying that he has known and seen and heard and sensed, he commits an offense entailing confession when three conditions are fulfilled …"
+
+#. HTML: </p><p>
+#. REF: sc26, ms2V_26
+msgctxt "pli-tv-bu-vb-pc1:2.6.10"
+msgid "Catūhākārehi … pe …"
+msgstr "… when four conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.11"
+msgid "pañcahākārehi … pe …"
+msgstr "when five conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.12"
+msgid "chahākārehi … pe …"
+msgstr "when six conditions are fulfilled …"
+
+msgctxt "pli-tv-bu-vb-pc1:2.6.13"
+msgid "sattahākārehi … pe … viññātaṃ pamuṭṭho hoti, viññātañca me diṭṭhañca sutañca mutañcāti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
+msgstr "is confused about what he has known, but he lies in full awareness, saying that he has known and seen and heard and sensed, he commits an offense entailing confession when seven conditions are fulfilled:"
+
+#. REF: pts-vp-en.2.170
+msgctxt "pli-tv-bu-vb-pc1:2.6.14"
+msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bhaṇāmī”ti, bhaṇitassa hoti “musā mayā bhaṇitan”ti, vinidhāya diṭṭhiṃ, vinidhāya khantiṃ, vinidhāya ruciṃ, vinidhāya bhāvaṃ."
+msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied; in misrepresenting his view of what is true; in misrepresenting his belief of what is true; in misrepresenting his acceptance of what is true; in misrepresenting his sentiment of what is true."
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-bu-vb-pc1:2.7.0a"
+msgid ""
+msgstr "Non-offenses"
+
+#. HTML: </h2><p>
+#. REF: sc27, pts-cs-bu-pc1.2.7, ms2V_27
+msgctxt "pli-tv-bu-vb-pc1:2.7.1"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+#. VAR: ravā bhaṇati → ravāya bhaṇati (s1-3)
+msgctxt "pli-tv-bu-vb-pc1:2.7.2"
+msgid "davā bhaṇati, ravā bhaṇati."
+msgstr "if he speaks playfully; if he is speaks too fast;"
+
+#. HTML: <span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.7.3"
+msgid "“Davā bhaṇati nāma"
+msgstr "(speaks playfully means:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.7.4"
+msgid "sahasā bhaṇati."
+msgstr "speaking quickly; "
+
+#. HTML: </span><span class="term"> 
+msgctxt "pli-tv-bu-vb-pc1:2.7.5"
+msgid "Ravā bhaṇati nāma"
+msgstr "speaks too fast means:"
+
+#. HTML: </span><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc1:2.7.6"
+msgid "‘aññaṃ bhaṇissāmī’ti aññaṃ bhaṇati”."
+msgstr "thinking to say one thing, he says something else);"
+
+#. HTML: </span> 
+msgctxt "pli-tv-bu-vb-pc1:2.7.7"
+msgid "Ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-pc1:2.7.8"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. HTML: </p><hr><p class="endsutta">
+#. VAR: Musāvādasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ → paṭha­ma­sikkhā­padaṃ niṭṭhitaṃ (s1-3)
+#. REF: sc28, ms2V_28,  
+msgctxt "pli-tv-bu-vb-pc1:2.7.9"
+msgid "Musāvādasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
+msgstr "The first rule, the training rule on lying, is finished."

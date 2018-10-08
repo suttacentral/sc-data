@@ -82,7 +82,7 @@ msgstr "Then the Buddha went up to those mendicants and said:"
 
 msgctxt "mn128:4.2"
 msgid "“alaṃ, bhikkhave, mā bhaṇḍanaṃ, mā kalahaṃ, mā viggahaṃ, mā vivādan”ti."
-msgstr "“Enough, monks! Stop arguing, quarreling, and fighting.”"
+msgstr "“Enough, mendicants! Stop arguing, quarreling, and fighting.”"
 
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
@@ -140,7 +140,7 @@ msgstr "and a third time the Buddha said to those mendicants:"
 
 msgctxt "mn128:4.16"
 msgid "“alaṃ, bhikkhave, mā bhaṇḍanaṃ, mā kalahaṃ, mā viggahaṃ, mā vivādan”ti."
-msgstr "“Enough, monks! Stop arguing, quarreling, and fighting.”"
+msgstr "“Enough, mendicants! Stop arguing, quarreling, and fighting.”"
 
 msgctxt "mn128:4.17"
 msgid "Tatiyampi kho so bhikkhu bhagavantaṃ etadavoca:"
@@ -295,10 +295,11 @@ msgctxt "mn128:6.21"
 msgid "Pare ca na vijānanti,"
 msgstr "Others don’t understand"
 
+# Yamamase is an imperative, "we must control ourselves". Both in Thag 4.3 and Thag 8.1, however, the context clearly indicates that a pun on Yama, the god of death, is intended. This is confirmed by the commentary, see Norman's note on Thag 4.3. I try to translate in a way that captures both "must restrain ourselves" and "we will go to presence of Death".
 #. <br>
 msgctxt "mn128:6.22"
 msgid "mayamettha yamāmase;"
-msgstr "that here we should control ourselves."
+msgstr "that our lives must have limits."
 
 #. <br>
 msgctxt "mn128:6.23"
@@ -346,7 +347,7 @@ msgstr "If you find a discreet companion,"
 #. <br>
 msgctxt "mn128:6.31"
 msgid "Saddhiṃ caraṃ sādhuvihāri dhīraṃ;"
-msgstr "a firm and virtuous friend,"
+msgstr "a wise and virtuous friend,"
 
 #. <br>
 msgctxt "mn128:6.32"
@@ -367,7 +368,7 @@ msgstr "If you find no discreet companion,"
 #. <br>
 msgctxt "mn128:6.35"
 msgid "Saddhiṃ caraṃ sādhuvihāri dhīraṃ;"
-msgstr "no firm and virtuous friend,"
+msgstr "no wise and virtuous friend,"
 
 #. <br>
 msgctxt "mn128:6.36"
@@ -475,8 +476,8 @@ msgid ""
 "Tena kho pana samayena āyasmā ca anuruddho āyasmā ca nandiyo āyasmā ca "
 "kimilo pācīnavaṃsadāye viharanti."
 msgstr ""
-"Now at that time Venerables Anuruddha, Nandiya, and Kimbila were staying in "
-"the Eastern Bamboo Park."
+"Now at that time the venerables Anuruddha, Nandiya, and Kimbila were staying "
+"in the Eastern Bamboo Park."
 
 msgctxt "mn128:8.2"
 msgid "Addasā kho dāyapālo bhagavantaṃ dūratova āgacchantaṃ."
@@ -658,7 +659,7 @@ msgstr ""
 #. <a class="sc" id="sc17"></a>
 msgctxt "mn128:12.11"
 msgid "Āyasmāpi kho nandiyo … pe …"
-msgstr "And Venerables Nandiya and Kimbila spoke likewise, and they added:"
+msgstr "And the venerables Nandiya and Kimbila spoke likewise, and they added:"
 
 msgctxt "mn128:12.12"
 msgid "āyasmāpi kho kimilo bhagavantaṃ etadavoca:"
@@ -982,7 +983,7 @@ msgid ""
 "Seyyathāpi, anuruddhā, puriso addhānamaggappaṭipanno, tassa ubhatopasse "
 "vaṭṭakā uppateyyuṃ, tassa tatonidānaṃ chambhitattaṃ uppajjeyya;"
 msgstr ""
-"Suppose a person was travelling along a road, and killers were to spring out "
+"Suppose a person was traveling along a road, and killers were to spring out "
 "at them from both sides. They’d feel terrified because of that."
 
 msgctxt "mn128:19.6"
@@ -1214,7 +1215,7 @@ msgstr ""
 #. <a class="sc" id="sc29"></a>
 msgctxt "mn128:25.1"
 msgid "So kho ahaṃ, anuruddhā … pe …"
-msgstr ""
+msgstr "While meditating …"
 
 msgctxt "mn128:25.2"
 msgid "tassa mayhaṃ, anuruddhā, etadahosi:"
@@ -1363,7 +1364,7 @@ msgid ""
 "iti viditvā nānattasaññaṃ cittassa upakkilesaṃ pajahiṃ, ‘atinijjhāyitattaṃ "
 "rūpānaṃ cittassa upakkileso’ti—"
 msgstr ""
-"and excessive concentration on forms were corruptions of the mind, I gave "
+"and excessive concentration on forms are corruptions of the mind, I gave "
 "them up."
 
 msgctxt "mn128:27.12"
@@ -1433,7 +1434,7 @@ msgstr ""
 msgctxt "mn128:28.11"
 msgid "kevalampi rattiṃ, kevalampi divaṃ, kevalampi rattindivan’ti."
 msgstr ""
-"And this goes on for a whole night, a whole day, even a whole night and day."
+"And this goes on for a whole night, a whole day, even a whole night and day.’"
 
 #. </p><p>
 #. <a class="nya" id="nya29"></a>
@@ -1448,7 +1449,7 @@ msgstr ""
 
 msgctxt "mn128:29.2"
 msgid "appamāṇañceva obhāsaṃ sañjānāmi, appamāṇāni ca rūpāni passāmi:"
-msgstr "I perceived limitless light and saw limitless forms."
+msgstr "or I perceived limitless light and saw limitless forms."
 
 msgctxt "mn128:29.3"
 msgid "‘kevalampi rattiṃ, kevalampi divaṃ, kevalampi rattindivaṃ’."
@@ -1479,8 +1480,8 @@ msgstr "It occurred to me:"
 
 msgctxt "mn128:29.9"
 msgid ""
-"‘yasmiṃ kho me samaye paritto samādhi hoti, parittaṃ me tasmiṃ samaye "
-"cakkhu hoti."
+"‘yasmiṃ kho me samaye paritto samādhi hoti, parittaṃ me tasmiṃ samaye cakkhu "
+"hoti."
 msgstr "‘When my immersion is limited, then my vision is limited,"
 
 msgctxt "mn128:29.10"
@@ -1574,7 +1575,7 @@ msgid ""
 "iti viditvā nānattasaññā cittassa upakkileso pahīno ahosi, ‘"
 "atinijjhāyitattaṃ rūpānaṃ cittassa upakkileso’ti—"
 msgstr ""
-"and excessive concentration on forms were corruptions of the mind, I gave "
+"and excessive concentration on forms are corruptions of the mind, I gave "
 "them up."
 
 msgctxt "mn128:30.12"
