@@ -163,6 +163,12 @@
   },
   {
     "type": "author",
+    "uid": "barua",
+    "short_name": "বড়ুয়া",
+    "long_name": "ড. বেণীমাধব বড়ুয়া"
+  },
+  {
+    "type": "author",
     "uid": "beal",
     "short_name": "Beal",
     "long_name": "Samuel Beal"
@@ -268,6 +274,12 @@
     "uid": "cheng",
     "short_name": "Cheng",
     "long_name": "Cheng Jianhua"
+  },
+  {
+    "type": "author",
+    "uid": "chowdhury",
+    "short_name": "চৌধুরী",
+    "long_name": "বিনয়েন্দ্রনাথ চৌধুরী"
   },
   {
     "type": "author",
@@ -877,6 +889,12 @@
   },
   {
     "type": "author",
+    "uid": "mahasthavya",
+    "short_name": "ধর্মাধার",
+    "long_name": "ধর্মাধার মহাস্থবির"
+  },
+  {
+    "type": "author",
     "uid": "maitrimurti-traetow",
     "short_name": "Maitrimurti …",
     "long_name": "Maitrimurti, Trätow"
@@ -1192,6 +1210,12 @@
     "uid": "shakyavamsa",
     "short_name": "Shakyavamsa",
     "long_name": "Shakyavamsa"
+  },
+  {
+    "type": "author",
+    "uid": "shilabhadra",
+    "short_name": "Shilabhadra",
+    "long_name": "Bhikkhu Shilabhadra"
   },
   {
     "type": "author",
