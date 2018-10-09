@@ -163,6 +163,12 @@
   },
   {
     "type": "author",
+    "uid": "barua",
+    "short_name": "বড়ুয়া",
+    "long_name": "ড. বেণীমাধব বড়ুয়া"
+  },
+  {
+    "type": "author",
     "uid": "beal",
     "short_name": "Beal",
     "long_name": "Samuel Beal"
@@ -268,6 +274,12 @@
     "uid": "cheng",
     "short_name": "Cheng",
     "long_name": "Cheng Jianhua"
+  },
+  {
+    "type": "author",
+    "uid": "chowdhury",
+    "short_name": "চৌধুরী",
+    "long_name": "বিনয়েন্দ্রনাথ চৌধুরী"
   },
   {
     "type": "author",
@@ -757,6 +769,12 @@
   },
   {
     "type": "author",
+    "uid": "kusalagnana-maitrimurti-traetow",
+    "short_name": "Kusalagnana…",
+    "long_name": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow"
+  },
+  {
+    "type": "author",
     "uid": "laera",
     "short_name": "Laera",
     "long_name": "Gabriel N. Laera"
@@ -868,6 +886,12 @@
     "uid": "mahapannya",
     "short_name": "Mahapannya",
     "long_name": "Ashin Mahapannya"
+  },
+  {
+    "type": "author",
+    "uid": "mahasthavya",
+    "short_name": "ধর্মাধার",
+    "long_name": "ধর্মাধার মহাস্থবির"
   },
   {
     "type": "author",
@@ -1186,6 +1210,12 @@
     "uid": "shakyavamsa",
     "short_name": "Shakyavamsa",
     "long_name": "Shakyavamsa"
+  },
+  {
+    "type": "author",
+    "uid": "shilabhadra",
+    "short_name": "Shilabhadra",
+    "long_name": "Bhikkhu Shilabhadra"
   },
   {
     "type": "author",
