@@ -393,7 +393,8 @@ msgctxt "pli-tv-bu-vb-ss1:2.2.10"
 msgid "**Saṃghādiseso**ti"
 msgstr "An offense entailing suspension:"
 
-#. HTML: </span><span class="gloss">_Mānattaṃ deti_.For the meaning of _mānatta_ see TAP 123.
+# NOTE: _Mānattaṃ deti_.For the meaning of _mānatta_ see TAP 123.
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-ss1:2.2.11"
 msgid "saṃghova tassā āpattiyā parivāsaṃ deti, mūlāya paṭikassati, mānattaṃ deti, abbheti;"
 msgstr "only the Order gives probation for that offense, sends back to the beginning, gives a trial period, and rehabilitates—"
@@ -2798,7 +2799,8 @@ msgctxt "pli-tv-bu-vb-ss1:4.26"
 msgid "pupphāvaliyaṃ pokkharaṃ;"
 msgstr "Mud play, lotus;"
 
-#. HTML: <br>_Usseko_, which I take to be related to _seka_, perhaps via the prefix _ud_.
+# NOTE: _Usseko_, which I take to be related to _seka_, perhaps via the prefix _ud_.
+#. HTML: <br>
 #. VAR: kaddamusseko → kaddamudako (pts1) | kaddamoseko (?)
 msgctxt "pli-tv-bu-vb-ss1:4.27"
 msgid "Vālikā kaddamusseko,"
