@@ -1,6 +1,30 @@
 [
   {
     "type": "author",
+    "uid": "soni",
+    "short_name": "Soni",
+    "long_name": "Dr. R.L. Soni"
+  },
+  {
+    "type": "author",
+    "uid": "piyadassi",
+    "short_name": "Piyadassi",
+    "long_name": "Piyadassi Thera"
+  },
+  {
+    "type": "author",
+    "uid": "nanamoli",
+    "short_name": "Ñanamoli",
+    "long_name": "Ñanamoli Thera"
+  },
+  {
+    "type": "author",
+    "uid": "narada",
+    "short_name": "Nārada",
+    "long_name": "Nārada Thera"
+  },  
+  {
+    "type": "author",
     "uid": "a_kertesz",
     "short_name": "Kertész",
     "long_name": "Kertész Ágnes"
