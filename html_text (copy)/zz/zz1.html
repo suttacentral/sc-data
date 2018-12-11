@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta author="Testing Page">
+<title></title>
+</head>
+<body>
+<div id="text" lang="zz">
+<section class="sutta" id="zz1">
+<article>
+<div class="hgroup">
+<h1>Textual Information tags</h1>
+</div>
+<table class="text-table">
+<tr>
+<th>Class</th>
+<th>Definition</th>
+<th>Normal style</th>
+<th>TI style</th>
+<th>Example</th>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-term.html" target="_blank">.term</a></td>
+<td>contains a single-word, multi-word, or symbolic designation which is regarded as a technical term</td>
+<td>Bold</td>
+<td>Bold primary-accent-color</td>
+<td><span class="term">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-gloss.html" target="_blank">.gloss</a></td>
+<td>identifies a phrase or word used to provide a gloss or definition for some other word or phrase</td>
+<td>none</td>
+<td>primary-accent-color</td>
+<td><span class="gloss">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-supplied.html" target="_blank">.supplied</a></td>
+<td>signifies text supplied by the transcriber or editor for any reason; for example because the original cannot be read due to physical damage, or because of an obvious omission by the author or scribe.<br></td>
+<td>none</td>
+<td>primary-color</td>
+<td><span class="supplied">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-supplied.html" target="_blank">.supplied2</a></td>
+<td>signifies text supplied by the transcriber or editor for any reason; for example because the original cannot be read due to physical damage, or because of an obvious omission by the author or scribe.<br></td>
+<td>none</td>
+<td>primary-color-dark</td>
+<td><span class="supplied2">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-xr.html" target="_blank">.cr</a></td>
+<td> (cross-reference phrase) contains a phrase, sentence, or icon referring the reader to some other location in this or another text</td>
+<td>normal a-style</td>
+<td></td>
+<td><a class="cr" href="#pts-cs1.1">PTS CS 1.1</a></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-add.html" target="_blank">.add</a></td>
+<td>contains letters, words, or phrases inserted in the source text by an author, scribe, or a previous annotator or corrector.</td>
+<td>none but TI style on root texts + english</td>
+<td>Sans secondary-text-color</td>
+<td><span class="add">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surplus.html" target="_blank">.surplus</a></td>
+<td>Text present in the source which the editor believes to be superfluous or redundant</td>
+<td>display: none</td>
+<td>secondary-text-color</td>
+<td><span class="surplus">Example</span></td>
+</tr>
+<tr>
+<td>.pe</td>
+<td>Used frequently in the Pali Abhidhamma to indicate a span of text describing how an abbreviation is meant to be filled in. Note that it shouldn't be used to indicate a mere abbreviation with ellipsis. </td>
+<td>italic</td>
+<td>secondary-text-color</td>
+<td><span class="pe">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.metrical.html" target="_blank">.metre</a></td>
+<td>Represents the metrical form of a line of verse.<br><i>We don't follow TEI usage</i></td>
+<td>display: none</td>
+<td>Skolar-font-size xxs, primary-accent-color</td>
+<td></td>
+</tr>
+</table>
+
+<blockquote class="gatha"><p><span class="metre">⏑ − − − । ⏑ − − − ।। ⏑ − − − । ⏑ − ⏑ − pathyā Śloka<br/></span>manopūrvvaṁgamā dhammā manośreṣṭhā manojavā ।<br/><span class="metre">⏑ ⏑ − ⏑ । ⏑ − − − ।। − ⏑ − − । ⏑ − ⏑ − <br/></span>manasā ca praduṣṭena bhāṣate vā karoti vā ।<br/><span class="metre">⏑ − − ⏑ । ⏑ − − − ।। − − − ⏑ । ⏑ − ⏑ − <br/></span>tato naṁ dukham anneti cakram vā vahato padaṁ ।।</p></blockquote>
+
+<table class="text-table">
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.metrical.html" target="_blank">.suppliedmetre</a></td>
+<td>Same as metre but does not disappear when Textual Information is off.</td>
+<td>secondary-text-color</td>
+<td>secondary-text-color</td>
+<td></td>
+</tr>
+</table>
+
+<blockquote class="gatha">
+<p><span class="suppliedmetre">⏒</span> kaś ca kalpo <span class="suppliedmetre">⏑ ⏑ − ⏑ − ⏒</span><br>
+yadā Vipaśyī udapādi <span class="suppliedmetre">− ⏒</span> |<br>
+<span class="suppliedmetre">⏒ − ⏑ − − ⏑ ⏑ − ⏑ − ⏒</span><br>
+<span class="suppliedmetre">⏒ − ⏑ − − ⏑ ⏑ − ⏑ − ⏒</span></p>
+</blockquote>
+
+<table class="text-table">
+<tr>
+<td>.expanded</td>
+<td>Text that is abbreviated in original but expanded in translation. Used solely for old DN translations that have been filed in. <i>Not TEI.</i></td>
+<td>none</td>
+<td>secondary-text-color</td>
+<td><span class="expanded">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-del.html" target="_blank">.del</a></td>
+<td>contains a letter, word, or passage deleted, marked as deleted, or otherwise indicated as superfluous or spurious in the copy text by an author, scribe, or a previous annotator or corrector</td>
+<td>display: none</td>
+<td>line-through</td>
+<td><span class="del">Example</span></td>
+</tr>
+<tr>
+<td>.t-gaiji</td>
+<td>Indicates Chinese characters not in the Unicode set as used in our CBETA texts.</td>
+<td>primary-accent-color</td>
+<td>primary-accent-color</td>
+<td><span class="t-gaiji">Example</span></td>
+</tr>
+<tr>
+<td>.scribe</td>
+<td>a remark by or about a translator or scribe that is found in the original text, usually recording their work or commenting on it in some way. (see discussion below)</td>
+<td>italic</td>
+<td>italic</td>
+<td><span class="scribe">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-gap.html" target="_blank">.gap</a></td>
+<td>indicates a point where material has been omitted in a transcription, whether for editorial reasons described in the TEI header, as part of sampling practice, or because the material is illegible, invisible, or inaudible</td>
+<td>secondary-text-color</td>
+<td>secondary-text-color</td>
+<td><span class="gap">++++++++</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-unclear.html" target="_blank">.unclear</a></td>
+<td>contains a word, phrase, or passage which cannot be transcribed with certainty because it is illegible or inaudible in the source.</td>
+<td>secondary-text-color</td>
+<td>secondary-text-color</td>
+<td><span class="unclear">Example</span></td>
+</tr>
+<tr>
+<td>.del-scribe</td>
+<td>the same as del, except deleted by scribe. <i>However, this is included under the TEI definition for del.</i></td>
+<td>display: none</td>
+<td>line-through</td>
+<td><span class="del-scribe">Example</span></td>
+</tr>
+<tr>
+<td><a class="cr" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-rdg.html" target="_blank">.var</a></td>
+<td>indicates a variant reading. <i>Similar to TEI rdg, except that refers only to a single reading, whereas for us var is used a little more loosely.</i></td>
+<td>none</td>
+<td>secondary-accent-color, paper-tooltip</td>
+<td><span class="var" id="note1407" title="vibhīṭakamiñjiyo (bj, pts1) | vibhedakabījiyo (s2, s3, mr)">vibhītakamiñjiyo</span></td>
+</tr>
+<tr>
+<td>.corr</td>
+<td>indicates a corrected reading. They show the correction from→to in the title, which is transformed to a paper-tooltip.</td>
+<td>none</td>
+<td>primary-accent-color, paper-tooltip</td>
+<td><span class="corr" title="[蛇螭→螭、蛇] cf.【麗】">Example</span></td>
+</tr>
+<tr>
+<td>.corrected</td>
+<td>indicates a corrected reading.</td>
+<td>none</td>
+<td>primary-accent-color</td>
+<td><span class="corrected">Example</span></td>
+</tr>
+</table>
+<h2>Only used on div</h2>
+<p>Some classes are only used on divs and appear in between normal text. Examples are given below:</p>
+<h3>suttainfo</h3>
+<div class="suttainfo">
+<p>“Ananda, heb jij gehoord, dat zij de ouderen onder hen eren, respecteren,
+eerbiedigen en begroeten, en dat zij hen waardig achten door naar hen te
+luisteren?”—“Heer, ik heb gehoord dat zij dat zo doen.”—“Ananda, zolang de
+Vajji's (...) dan mag van hen worden verwacht dat zij welvarend zullen zijn en
+niet ten gronde zullen gaan.”</p>
+<p>
+“Ananda, heb jij gehoord, dat zij de ouderen onder hen eren, respecteren,
+eerbiedigen en begroeten, en dat zij hen waardig achten door naar hen te
+luisteren?”—“Heer, ik heb gehoord dat zij dat zo doen.”—“Ananda, zolang de
+Vajji's (...) dan mag van hen worden verwacht dat zij welvarend zullen zijn en
+niet ten gronde zullen gaan.”</p>
+</div>
+<h3>colophon</h3>
+<div class="colophon">
+<p>“Ananda, heb jij gehoord, dat zij de ouderen onder hen eren, respecteren,
+eerbiedigen en begroeten, en dat zij hen waardig achten door naar hen te
+luisteren?”—“Heer, ik heb gehoord dat zij dat zo doen.”—“Ananda, zolang de
+Vajji's (...) dan mag van hen worden verwacht dat zij welvarend zullen zijn en
+niet ten gronde zullen gaan.”</p>
+<p>
+“Ananda, heb jij gehoord, dat zij de ouderen onder hen eren, respecteren,
+eerbiedigen en begroeten, en dat zij hen waardig achten door naar hen te
+luisteren?”—“Heer, ik heb gehoord dat zij dat zo doen.”—“Ananda, zolang de
+Vajji's (...) dan mag van hen worden verwacht dat zij welvarend zullen zijn en
+niet ten gronde zullen gaan.”</p>
+</div>
+<h3>xu</h3>
+<div class="xu"><p>
+“Ananda, heb jij gehoord dat de Vajji's niet bekrachtigen wat nog niet
+bekrachtigd is, en niet afschaffen wat reeds bekrachtigd is, maar verder gaan
+overeenkomstig hetgeen dat door hun oude traditie wordt bekrachtigd?”—“Heer, ik
+heb gehoord dat zij dat doen.”—“Ananda, zolang de Vajji's (...) dan mag van hen
+worden verwacht dat zij welvarend zullen zijn en niet ten gronde zullen gaan.”</p>
+<p>
+“Ananda, heb jij gehoord, dat zij de ouderen onder hen eren, respecteren,
+eerbiedigen en begroeten, en dat zij hen waardig achten door naar hen te
+luisteren?”—“Heer, ik heb gehoord dat zij dat zo doen.”—“Ananda, zolang de
+Vajji's (...) dan mag van hen worden verwacht dat zij welvarend zullen zijn en
+niet ten gronde zullen gaan.”</p></div>
+<h3>w</h3>
+<div class="w"><p>
+“Ananda, heb jij gehoord dat de Vajji's niet bekrachtigen wat nog niet
+bekrachtigd is, en niet afschaffen wat reeds bekrachtigd is, maar verder gaan
+overeenkomstig hetgeen dat door hun oude traditie wordt bekrachtigd?”—“Heer, ik
+heb gehoord dat zij dat doen.”—“Ananda, zolang de Vajji's (...) dan mag van hen
+worden verwacht dat zij welvarend zullen zijn en niet ten gronde zullen gaan.”</p>
+<p>
+“Ananda, heb jij gehoord, dat zij de ouderen onder hen eren, respecteren,
+eerbiedigen en begroeten, en dat zij hen waardig achten door naar hen te
+luisteren?”—“Heer, ik heb gehoord dat zij dat zo doen.”—“Ananda, zolang de
+Vajji's (...) dan mag van hen worden verwacht dat zij welvarend zullen zijn en
+niet ten gronde zullen gaan.”</p></div>
+</article>
+<aside id="metaarea">
+<p>Auteur: <span class="author">Vimala</span></p>
+<p>Prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p></aside>
+</section>
+</div>
+</body>
+</html>

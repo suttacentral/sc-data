@@ -148195,6 +148195,17 @@
     "biblio_uid": ""
   },
   {
+    "name": "Tŗṣņāvarga",
+    "uid": "uvs9",
+    "subdivision_uid": "uvs",
+    "vagga_number": 3,
+    "number_in_vagga": 9,
+    "language": "san",
+    "acronym": "UVS 9",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
     "name": "Anityavarga",
     "uid": "uvs1",
     "subdivision_uid": "uvs",
@@ -148202,8 +148213,8 @@
     "number_in_vagga": "",
     "language": "san",
     "acronym": "UVS 1",
-    "volpage": "",
-    "biblio_uid": ""
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
   },
   {
     "name": "Kāmavarga",
@@ -148213,8 +148224,8 @@
     "number_in_vagga": "",
     "language": "san",
     "acronym": "UVS 2",
-    "volpage": "",
-    "biblio_uid": ""
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
   },
   {
     "name": "Tŗṣņāvarga",
@@ -148224,8 +148235,338 @@
     "number_in_vagga": "",
     "language": "san",
     "acronym": "UVS 3",
-    "volpage": "",
-    "biblio_uid": ""
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Apramādavarga",
+    "uid": "uvs4",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 4",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Priyavarga",
+    "uid": "uvs5",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 5",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Śīlavarga",
+    "uid": "uvs6",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 6",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Sucaritavarga",
+    "uid": "uvs7",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 7",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Vācavarga",
+    "uid": "uvs8",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 8",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Karmavarga",
+    "uid": "uvs9",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 9",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Śraddhāvarga",
+    "uid": "uvs10",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 10",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Śramaṇavarga",
+    "uid": "uvs11",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 11",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Mārgavarga",
+    "uid": "uvs12",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 12",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Satkāravarga",
+    "uid": "uvs13",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 13",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Bhedavarga",
+    "uid": "uvs14",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 14",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Smṛtivarga",
+    "uid": "uvs15",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 15",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Prakīrṇakavarga",
+    "uid": "uvs16",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 16",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Udakavarga",
+    "uid": "uvs17",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 17",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Puṣpavarga",
+    "uid": "uvs18",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 18",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Aśvavarga",
+    "uid": "uvs19",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 19",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Krodhavarga",
+    "uid": "uvs20",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 20",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Tathāgatavarga",
+    "uid": "uvs21",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 21",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Śrutavarga",
+    "uid": "uvs22",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 22",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Ātmavarga",
+    "uid": "uvs23",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 23",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Peyālavarga",
+    "uid": "uvs24",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 24",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Mitravarga",
+    "uid": "uvs25",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 25",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Nirvāṇavarga",
+    "uid": "uvs26",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 26",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Paśyavarga",
+    "uid": "uvs27",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 27",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Pāpavarga",
+    "uid": "uvs28",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 28",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Yugavarga",
+    "uid": "uvs29",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 29",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Sukhavarga",
+    "uid": "uvs30",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 30",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Cittavarga",
+    "uid": "uvs31",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 31",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Bhikṣuvarga",
+    "uid": "uvs32",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 32",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
+  },
+  {
+    "name": "Brāhmaṇavarga",
+    "uid": "uvs33",
+    "subdivision_uid": "uvs",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "san",
+    "acronym": "UVS 33",
+    "volpage": "Nakatani 1987",
+    "biblio_uid": "nak1987"
   },
   {
     "name": "Śarīrārthagāthā",
