@@ -14196,7 +14196,7 @@
         "parallels": ["sf259#4.1-#4.7","san-mu-kd17#sbvi125"]
     },
     {
-        "parallels": ["sf259#2.1-#3.14","san-mu-kd17#sbvi123-sbvi124"]
+        "parallels": ["sf259#2.1-#3.14","san-mu-kd17#sbvi123-#sbvi124"]
     },
     {
         "parallels": ["sf259#1.1-#1.9","san-mu-kd17#sbvi122"]
@@ -14418,10 +14418,10 @@
         "parallels": ["uv7#7.9","uv-kg7#175","uvs7#7.11"]
     },
     {
-        "parallels": ["uv8#8.12","t210.8#vgns8.9","t212.9#vgns9.14","t213.8#vgns8.14","uv-kg8#190","uvs8#8.12","snp3.3vns454","sn8.5#5"]
+        "parallels": ["uv8#8.12","t210.8#vgns8.9","t212.9#vgns9.14","t213.8#vgns8.14","uv-kg8#190","uvs8#8.12","snp3.3#vns454","sn8.5#5"]
     },
     {
-        "parallels": ["uv8#8.13","t210.8#vgns8.10","t212.9#vgns9.15","t213.8#vgns8.15","uv-kg8#191","uvs8#8.13","snp3.3vns455","sn8.5#6"]
+        "parallels": ["uv8#8.13","t210.8#vgns8.10","t212.9#vgns9.15","t213.8#vgns8.15","uv-kg8#191","uvs8#8.13","snp3.3#vns455","sn8.5#6"]
     },
     {
         "parallels": ["uv8#8.14","t210.8#vgns8.11","t212.9#vgns9.16","t213.8#vgns8.16","uv-kg8#192","uvs8#8.14"]
@@ -18621,34 +18621,34 @@
         "mentions": ["snp5.1","cnd1"]
     },
     {
-        "parallels": ["snp5.14#vns1117","sag39.7"]
+        "parallels": ["snp5.14#vns1117","sag#39.7"]
     },
     {
-        "parallels": ["snp5.14#vns1118","sag39.8"]
+        "parallels": ["snp5.14#vns1118","sag#39.8"]
     },
     {
-        "parallels": ["snp5.2#vns1039","sag39.1"]
+        "parallels": ["snp5.2#vns1039","sag#39.1"]
     },
     {
-        "parallels": ["snp5.2#vns1040","sag39.2"]
+        "parallels": ["snp5.2#vns1040","sag#39.2"]
     },
     {
-        "parallels": ["snp5.2#vns1041","sag39.3"]
+        "parallels": ["snp5.2#vns1041","sag#39.3"]
     },
     {
-        "parallels": ["snp5.2#vns1042","sag39.4"]
+        "parallels": ["snp5.2#vns1042","sag#39.4"]
     },
     {
-        "parallels": ["snp5.2#vns1043","sag39.5"]
+        "parallels": ["snp5.2#vns1043","sag#39.5"]
     },
     {
-        "parallels": ["snp5.2#vns1044","sag39.6"]
+        "parallels": ["snp5.2#vns1044","sag#39.6"]
     },
     {
-        "parallels": ["snp5.2#vns1045","sag39.9"]
+        "parallels": ["snp5.2#vns1045","sag#39.9"]
     },
     {
-        "parallels": ["snp5.2#vns1046","sag39.10"]
+        "parallels": ["snp5.2#vns1046","sag#39.10"]
     },
     {
         "mentions": ["snp5.10#vns1095","cnd13#1","cnd2#57"]
