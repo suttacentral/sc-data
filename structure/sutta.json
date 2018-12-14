@@ -130804,6 +130804,17 @@
     "biblio_uid": "bol2002"
   },
   {
+    "name": "Rhinoceros Sūtra",
+    "uid": "gf5b",
+    "subdivision_uid": "gf",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "pgd",
+    "acronym": "GF 5B",
+    "volpage": "",
+    "biblio_uid": "sal2000"
+  },
+  {
     "name": "",
     "uid": "gf10",
     "subdivision_uid": "gf",
@@ -145951,6 +145962,17 @@
     "biblio_uid": ""
   },
   {
+    "name": "佛本行集",
+    "uid": "t190.39",
+    "subdivision_uid": "lzh-ja",
+    "vagga_number": "",
+    "number_in_vagga": "",
+    "language": "lzh",
+    "acronym": "T 190.39",
+    "volpage": "T iii 833b08",
+    "biblio_uid": ""
+  },
+  {
     "name": "佛說苦行宿緣",
     "uid": "t197.10",
     "subdivision_uid": "lzh-ja",
@@ -145962,14 +145984,14 @@
     "biblio_uid": ""
   },
   {
-    "name": "兜勒梵志",
-    "uid": "t198.13",
+    "name": "佛說義足經",
+    "uid": "t198",
     "subdivision_uid": "lzh-ja",
     "vagga_number": "",
     "number_in_vagga": "",
     "language": "lzh",
-    "acronym": "T 198.13",
-    "volpage": "T iv 183b17",
+    "acronym": "T 198",
+    "volpage": "T iv 174b12",
     "biblio_uid": ""
   },
   {
