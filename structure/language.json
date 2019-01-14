@@ -191,7 +191,7 @@
   {
     "uid": "uig",
     "name": "Uighur",
-    "is_root": false,
+    "is_root": true,
     "iso_code": "uig",
     "contains": [
       "uf"
@@ -200,7 +200,7 @@
   {
     "uid": "kho",
     "name": "Khotanese",
-    "is_root": false,
+    "is_root": true,
     "iso_code": "kho",
     "contains": [
       "kf"
@@ -209,7 +209,7 @@
   {
     "uid": "xto",
     "name": "Tocharian A",
-    "is_root": false,
+    "is_root": true,
     "iso_code": "xto",
     "contains": [
       "tf"
