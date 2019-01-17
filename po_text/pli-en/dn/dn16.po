@@ -953,7 +953,7 @@ msgid ""
 msgstr ""
 "As long as the mendicants live according to the precepts shared with their "
 "spiritual companions, both in public and in private—such precepts as are "
-"uncorrupted, unflawed, unblemished, untainted, liberating, praised by "
+"unbroken, impeccable, spotless, and unmarred, liberating, praised by "
 "sensible people, not mistaken, and leading to immersion—they can expect "
 "growth, not decline."
 
@@ -1003,6 +1003,10 @@ msgstr ""
 msgctxt "dn16:1.12.2"
 msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
+
+msgctxt "dn16:1.12.3"
+msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:1.12.4"
 msgid "Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā."
@@ -1060,6 +1064,10 @@ msgstr ""
 msgctxt "dn16:1.14.3"
 msgid "“iti sīlaṃ iti samādhi iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
+
+msgctxt "dn16:1.14.4"
+msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:1.14.5"
 msgid "Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā."
@@ -1353,6 +1361,10 @@ msgctxt "dn16:1.18.2"
 msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
+msgctxt "dn16:1.18.3"
+msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
+
 msgctxt "dn16:1.18.4"
 msgid "Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā."
 msgstr "When wisdom is imbued with immersion it’s very fruitful and beneficial."
@@ -1416,6 +1428,7 @@ msgctxt "dn16:1.20.3"
 msgid "“adhivāsetu no, bhante, bhagavā āvasathāgāran”ti."
 msgstr "“Sir, please consent to come to our guest house.”"
 
+# Brahmali: tuṇhībhāvena is instrumental, suggesting that the silence itself constituted the consent.
 msgctxt "dn16:1.20.4"
 msgid "Adhivāsesi bhagavā tuṇhībhāvena."
 msgstr "The Buddha consented in silence."
@@ -1431,7 +1444,7 @@ msgid ""
 "bhagavā tenupasaṅkamiṃsu, upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ "
 "aṭṭhaṃsu. Ekamantaṃ ṭhitā kho pāṭaligāmikā upāsakā bhagavantaṃ etadavocuṃ:"
 msgstr ""
-"Then, knowing that the Buddha had accepted, the lay followers of Pāṭaligāma "
+"Then, knowing that the Buddha had consented, the lay followers of Pāṭaligāma "
 "got up from their seat, bowed, and respectfully circled the Buddha, keeping "
 "him on their right. Then they went to the guest house, where they spread "
 "carpets all over, prepared seats, set up a water jar, and placed a lamp. "
@@ -1457,8 +1470,8 @@ msgid ""
 "pakkhāletvā āvasathāgāraṃ pavisitvā majjhimaṃ thambhaṃ nissāya "
 "puratthābhimukho nisīdi."
 msgstr ""
-"Then the Buddha robed up in the morning and, taking his bowl and robe, went "
-"to the guest house together with the Saṅgha of mendicants. Having washed his "
+"In the morning, the Buddha robed up and, taking his bowl and robe, went to "
+"the guest house together with the Saṅgha of mendicants. Having washed his "
 "feet he entered the guest house and sat against the central column facing "
 "east."
 
@@ -1689,10 +1702,11 @@ msgstr ""
 "seat, bowed, and respectfully circled the Buddha, keeping him on their "
 "right, before leaving."
 
+# Brahmali: Suññāgāra normally means an empty dwelling, but here the context suggests another meaning is intended. DA.1.151 says: Suññāgāranti pāṭiyekkaṃ suññāgāraṃ nāma natthi, tattheva pana ekapasse sāṇipākārena parikkhipitvā – ‘idha satthā vissamissatī’ti mañcakaṃ paññapesuṃ, “Suññāgāra: it is not a distinct (dwelling) that is called a suññāgāra. But they prepared a bed to one side right there, having surrounded it with a curtain, thinking, ‘The Teacher will rest here’.”
 msgctxt "dn16:1.25.4"
 msgid ""
 "Atha kho bhagavā acirapakkantesu pāṭaligāmikesu upāsakesu suññāgāraṃ pāvisi."
-msgstr "Soon after they left the Buddha entered an empty hut."
+msgstr "Soon after they left the Buddha entered a private cubicle."
 
 #. </p><h2>
 msgctxt "dn16:1.25.5"
@@ -1876,7 +1890,7 @@ msgid ""
 "yena sako āvasatho tenupasaṅkamiṃsu; upasaṅkamitvā sake āvasathe paṇītaṃ "
 "khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā bhagavato kālaṃ ārocāpesuṃ:"
 msgstr ""
-"Then, knowing that the Buddha had accepted, they went to their own guest "
+"Then, knowing that the Buddha had consented, they went to their own guest "
 "house, where they had a variety of delicious foods prepared. Then they had "
 "the Buddha informed of the time, saying:"
 
@@ -2047,7 +2061,7 @@ msgstr ""
 "Wanting to cross from the near to the far shore, some people were seeking a "
 "boat, some a dinghy, while some were tying up a raft."
 
-# Note the use of paccuṭṭhāsi rather than pāturahosi here.
+# Brahmali: Yes, it's a different verb, but from what I have seen they are used synonymously.
 msgctxt "dn16:1.33.3"
 msgid ""
 "Atha kho bhagavā—seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ "
@@ -2072,32 +2086,32 @@ msgstr "He saw all those people wanting to cross over."
 msgctxt "dn16:1.34.2"
 msgid "Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:"
 msgstr ""
-"Then, knowing the meaning of this, on that occasion the Buddha spoke these "
-"words of inspiration:"
+"Then, knowing the meaning of this, on that occasion the Buddha was inspired "
+"to exclaim:"
 
-# annava can hardly mean “sea” here, if it is to be crossed with a bridge.
+# annava can hardly mean “sea” here, if it is to be crossed with a bridge. Note the Sanskrit parallels at https://staging.suttacentral.net/sf245/san/waldschmidt#7.9 and https://staging.suttacentral.net/divy3/san/vaidya#034.012
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc80"></a>
 msgctxt "dn16:1.34.3"
 msgid "“Ye taranti aṇṇavaṃ saraṃ,"
-msgstr "“Some cross a river or stream"
+msgstr "“Those who cross a river or stream"
 
 #. <br>
 msgctxt "dn16:1.34.4"
 msgid "Setuṃ katvāna visajja pallalāni;"
-msgstr "having built a bridge or drained the swamps."
+msgstr "have built a bridge and left the marshes behind."
 
 #. <br>
 #. VAR: Kullañhi jano bandhati → kullaṃ hi jano pabandhati (bj, pts1, mr) | kullaṃ jano ca bandhati (s1-3, km)
 msgctxt "dn16:1.34.5"
 msgid "Kullañhi jano bandhati,"
-msgstr "While one man is still tying a raft,"
+msgstr "While some people are still tying a raft,"
 
 #. <br>
 #. VAR: Tiṇṇā → na tiṇṇā (mr)
 msgctxt "dn16:1.34.6"
 msgid "Tiṇṇā medhāvino janā”ti."
-msgstr "intelligent people have already crossed over.”"
+msgstr "intelligent people have crossed over.”"
 
 #. </p></blockquote><p class="endsection">
 msgctxt "dn16:1.34.7"
@@ -2148,7 +2162,7 @@ msgid ""
 "“Catunnaṃ, bhikkhave, ariyasaccānaṃ ananubodhā appaṭivedhā evamidaṃ "
 "dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañceva tumhākañca."
 msgstr ""
-"“Mendicants, not understanding and not comprehending four noble truths, both "
+"“Mendicants, not understanding and not penetrating four noble truths, both "
 "you and I have wandered and transmigrated for such a very long time."
 
 msgctxt "dn16:2.2.3"
@@ -2260,6 +2274,10 @@ msgstr ""
 msgctxt "dn16:2.4.2"
 msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
+
+msgctxt "dn16:2.4.3"
+msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:2.4.4"
 msgid "Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā."
@@ -2607,7 +2625,7 @@ msgstr ""
 "straightforward, methodical, and proper. It consists of the four pairs, the "
 "eight individuals. This is the Saṅgha of the Buddha’s disciples that is "
 "worthy of offerings dedicated to the gods, worthy of hospitality, worthy of "
-"a teacher’s offering, worthy of greeting with joined palms, and is the "
+"a religious donation, worthy of greeting with joined palms, and is the "
 "supreme field of merit for the world.’"
 
 #. </p><p>
@@ -2617,9 +2635,9 @@ msgid ""
 "Ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi "
 "akammāsehi bhujissehi viññūpasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi."
 msgstr ""
-"And a noble disciple’s ethical conduct is loved by the noble ones, "
-"uncorrupted, unflawed, unblemished, untainted, liberating, praised by "
-"sensible people, not mistaken, and leading to immersion."
+"And a noble disciple’s ethical conduct is loved by the noble ones, unbroken, "
+"impeccable, spotless, and unmarred, liberating, praised by sensible people, "
+"not mistaken, and leading to immersion."
 
 #. </p><p>
 #. <a class="sc" id="sc94"></a>
@@ -2650,6 +2668,10 @@ msgstr ""
 msgctxt "dn16:2.10.2"
 msgid "“Iti sīlaṃ iti samādhi iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
+
+msgctxt "dn16:2.10.3"
+msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:2.10.4"
 msgid "Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā."
@@ -2842,7 +2864,7 @@ msgid ""
 "Atha kho ambapālī gaṇikā bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā "
 "bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
 msgstr ""
-"Then, knowing that the Buddha had accepted, Ambapālī got up from her seat, "
+"Then, knowing that the Buddha had consented, Ambapālī got up from her seat, "
 "bowed, and respectfully circled the Buddha, keeping him on her right, before "
 "leaving."
 
@@ -3040,7 +3062,7 @@ msgid ""
 "khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā bhagavato kālaṃ ārocāpesi:"
 msgstr ""
 "And when the night had passed Ambapālī had a variety of delicious foods "
-"prepared in her own home. Then she had the Buddha informed of the time, "
+"prepared in her own park. Then she had the Buddha informed of the time, "
 "saying:"
 
 msgctxt "dn16:2.19.2"
@@ -3108,6 +3130,10 @@ msgstr ""
 msgctxt "dn16:2.20.2"
 msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
+
+msgctxt "dn16:2.20.3"
+msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:2.20.4"
 msgid "Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā."
@@ -3459,7 +3485,7 @@ msgstr "“Ānanda, get your sitting cloth. "
 #. VAR: cāpālaṃ cetiyaṃ → pāvālaṃ cetiyaṃ (s1-3, km)
 msgctxt "dn16:3.1.4"
 msgid "yena cāpālaṃ cetiyaṃ tenupasaṅkamissāma divā vihārāyā”ti."
-msgstr "Let’s go to the Cāpāla tree shrine for the day’s meditation.”"
+msgstr "Let’s go to the Cāpāla shrine for the day’s meditation.”"
 
 msgctxt "dn16:3.1.5"
 msgid ""
@@ -3497,7 +3523,7 @@ msgid ""
 "ramaṇīyaṃ sārandadaṃ cetiyaṃ, ramaṇīyaṃ cāpālaṃ cetiyaṃ."
 msgstr ""
 "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, "
-"Sārandada, and Cāpāla tree shrines are all lovely."
+"Sārandada, and Cāpāla shrines are all lovely."
 
 #. <a class="pts-cs" id="pts-cs3.3"></a>
 msgctxt "dn16:3.3.1"
@@ -3565,7 +3591,7 @@ msgid ""
 "ramaṇīyaṃ sārandadaṃ cetiyaṃ, ramaṇīyaṃ cāpālaṃ cetiyaṃ."
 msgstr ""
 "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, "
-"Sārandada, and Cāpāla tree shrines are all lovely."
+"Sārandada, and Cāpāla shrines are all lovely."
 
 msgctxt "dn16:3.5.4"
 msgid ""
@@ -3891,14 +3917,14 @@ msgstr ""
 msgctxt "dn16:3.10.3"
 msgid "Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:"
 msgstr ""
-"Then, knowing the meaning of this, on that occasion the Buddha spoke these "
-"words of inspiration:"
+"Then, knowing the meaning of this, on that occasion the Buddha was inspired "
+"to exclaim:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc117"></a>
 msgctxt "dn16:3.10.4"
 msgid "“Tulamatulañca sambhavaṃ,"
-msgstr "“Comparing the incomparable with an extension of life,"
+msgstr "“Weighing up the incomparable against an extension of life,"
 
 #. <br>
 msgctxt "dn16:3.10.5"
@@ -3908,12 +3934,12 @@ msgstr "the sage surrendered the life force."
 #. <br>
 msgctxt "dn16:3.10.6"
 msgid "Ajjhattarato samāhito,"
-msgstr "Happy inside, immersed,"
+msgstr "Happy inside, serene,"
 
 #. <br>
 msgctxt "dn16:3.10.7"
 msgid "Abhindi kavacamivattasambhavan”ti."
-msgstr "he broke his extended existence like a suit of armor.”"
+msgstr "he burst out of this self-made chain like a suit of armor.”"
 
 #. </p></blockquote><h2>
 msgctxt "dn16:3.10.8"
@@ -4033,9 +4059,9 @@ msgid ""
 "mātukucchiṃ okkamati, tadāyaṃ pathavī kampati saṅkampati sampakampati "
 "sampavedhati."
 msgstr ""
-"Furthermore, when the being intent on awakening passes away from the group "
-"of Joyful Gods, he’s conceived in his mother’s belly, mindful and aware. "
-"Then the earth shakes and rocks and trembles."
+"Furthermore, when the being intent on awakening passes away from the host of "
+"Joyful Gods, he’s conceived in his mother’s belly, mindful and aware. Then "
+"the earth shakes and rocks and trembles."
 
 msgctxt "dn16:3.15.2"
 msgid "Ayaṃ tatiyo hetu tatiyo paccayo mahato bhūmicālassa pātubhāvāya."
@@ -5175,7 +5201,7 @@ msgid ""
 "ramaṇīyaṃ sārandadaṃ cetiyaṃ, ramaṇīyaṃ cāpālaṃ cetiyaṃ."
 msgstr ""
 "‘Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, "
-"Sārandada, and Cāpāla tree shrines are all lovely."
+"Sārandada, and Cāpāla shrines are all lovely."
 
 msgctxt "dn16:3.47.3"
 msgid ""
@@ -5552,8 +5578,8 @@ msgid ""
 "“catunnaṃ, bhikkhave, dhammānaṃ ananubodhā appaṭivedhā evamidaṃ "
 "dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañceva tumhākañca."
 msgstr ""
-"“Mendicants, not understanding and not comprehending four things, both you "
-"and I have wandered and transmigrated for such a very long time."
+"“Mendicants, not understanding and not penetrating four things, both you and "
+"I have wandered and transmigrated for such a very long time."
 
 msgctxt "dn16:4.2.5"
 msgid "Katamesaṃ catunnaṃ?"
@@ -5660,6 +5686,10 @@ msgstr ""
 msgctxt "dn16:4.4.2"
 msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
+
+msgctxt "dn16:4.4.3"
+msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
 
 msgctxt "dn16:4.4.4"
 msgid "Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā."
@@ -6067,6 +6097,10 @@ msgctxt "dn16:4.12.2"
 msgid "“iti sīlaṃ, iti samādhi, iti paññā."
 msgstr "“Such is ethics, such is immersion, such is wisdom."
 
+msgctxt "dn16:4.12.3"
+msgid "Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso."
+msgstr "When immersion is imbued with ethics it’s very fruitful and beneficial."
+
 msgctxt "dn16:4.12.4"
 msgid "Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā."
 msgstr "When wisdom is imbued with immersion it’s very fruitful and beneficial."
@@ -6161,7 +6195,7 @@ msgid ""
 "Atha kho cundo kammāraputto bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā "
 "bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
 msgstr ""
-"Then, knowing that the Buddha had accepted, Cunda got up from his seat, "
+"Then, knowing that the Buddha had consented, Cunda got up from his seat, "
 "bowed, and respectfully circled the Buddha, keeping him on his right, before "
 "leaving."
 
@@ -6259,7 +6293,7 @@ msgstr ""
 #. </p><p class="endsection">
 msgctxt "dn16:4.19.6"
 msgid "()"
-msgstr "("
+msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs4.20"></a>
@@ -7164,7 +7198,7 @@ msgstr "the Teacher who rolled forth the present dispensation,"
 #. <br>
 msgctxt "dn16:4.41.8"
 msgid "Upāgami ambavanaṃ mahesi."
-msgstr "the great sage went to the mango grove."
+msgstr "the great hermit went to the mango grove."
 
 #. </p><p>
 #. <a class="sc" id="sc191"></a>
@@ -7294,8 +7328,8 @@ msgstr "That’s how you should get rid of remorse in Cunda the smith.”"
 msgctxt "dn16:4.43.1"
 msgid "Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:"
 msgstr ""
-"Then, knowing the meaning of this, on that occasion the Buddha spoke these "
-"words of inspiration:"
+"Then, knowing the meaning of this, on that occasion the Buddha was inspired "
+"to exclaim:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc193"></a>
@@ -7401,7 +7435,7 @@ msgid ""
 "Dibbānipi mandāravapupphāni antalikkhā papatanti, tāni tathāgatassa sarīraṃ "
 "okiranti ajjhokiranti abhippakiranti tathāgatassa pūjāya."
 msgstr ""
-"And the flowers of the celestial Flame Tree fell from the sky, and they too "
+"And the flowers of the heavenly Flame Tree fell from the sky, and they too "
 "sprinkled and bestrewed the Realized One’s body in honor of the Realized One."
 
 msgctxt "dn16:5.2.4"
@@ -7409,16 +7443,16 @@ msgid ""
 "Dibbānipi candanacuṇṇāni antalikkhā papatanti, tāni tathāgatassa sarīraṃ "
 "okiranti ajjhokiranti abhippakiranti tathāgatassa pūjāya."
 msgstr ""
-"And celestial sandalwood powder fell from the sky, and it too sprinkled and "
+"And heavenly sandalwood powder fell from the sky, and it too sprinkled and "
 "bestrewed the Realized One’s body in honor of the Realized One."
 
 msgctxt "dn16:5.2.5"
 msgid "Dibbānipi tūriyāni antalikkhe vajjanti tathāgatassa pūjāya."
-msgstr "And celestial music played in the sky in honor of the Realized One."
+msgstr "And heavenly music played in the sky in honor of the Realized One."
 
 msgctxt "dn16:5.2.6"
 msgid "Dibbānipi saṅgītāni antalikkhe vattanti tathāgatassa pūjāya."
-msgstr "And celestial choirs sang in the sky in honor of the Realized One."
+msgstr "And heavenly choirs sang in the sky in honor of the Realized One."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.3"></a>
@@ -9532,7 +9566,7 @@ msgstr "“All creatures in this world"
 #. <br>
 msgctxt "dn16:6.10.4"
 msgid "bhūtā loke samussayaṃ;"
-msgstr "must lay their body down."
+msgstr "must lay down this bag of bones."
 
 #. <br>
 msgctxt "dn16:6.10.5"
@@ -9994,7 +10028,7 @@ msgid ""
 "mallānaṃ cetiyaṃ ettha bhagavato sarīraṃ jhāpessāmā’”ti."
 msgstr ""
 "carry the Buddha’s corpse to the north of the town while venerating it with "
-"celestial dance and song and music and garlands and fragrances. Then they "
+"heavenly dance and song and music and garlands and fragrances. Then they "
 "plan to enter the town by the northern gate, carry it through the center of "
 "the town, leave by the eastern gate, and cremate it there at the Mallian "
 "shrine named Makuṭabandhana.”"
@@ -10027,7 +10061,7 @@ msgid ""
 "ettha ca bhagavato sarīraṃ nikkhipiṃsu."
 msgstr ""
 "Then the deities and the Mallas of Kusinārā carried the Buddha’s corpse to "
-"the north of the town while venerating it with celestial and human dance and "
+"the north of the town while venerating it with heavenly and human dance and "
 "song and music and garlands and fragrances. Then they entered the town by "
 "the northern gate, carried it through the center of the town, left by the "
 "eastern gate, and deposited the corpse there at the Mallian shrine named "
