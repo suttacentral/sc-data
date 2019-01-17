@@ -320,7 +320,7 @@ msgid ""
 "pāṭikaṅkhaṃ:"
 msgstr ""
 "“Mendicants, in a disciplinary issue, if neither the offending mendicant nor "
-"the accusing mendicant carefully self-reflects, you can expect that issue"
+"the accusing mendicant carefully checks themselves, you can expect that issue"
 
 #. VAR: na phāsuṃ → na phāsukaṃ (bj) | na phāsu (mr)
 #. VAR: viharissantī’ti → viharissanti (bj, s1-3, km, mr)
@@ -339,7 +339,7 @@ msgid ""
 "pāṭikaṅkhaṃ:"
 msgstr ""
 "But in a disciplinary issue, if both the offending mendicant and the "
-"accusing mendicant carefully self-reflect, you can expect that issue"
+"accusing mendicant carefully check themselves, you can expect that issue"
 
 #. VAR: phāsuṃ → phāsukaṃ (bj) | phāsu (mr)
 msgctxt "an2.11-20:15.1.4"
@@ -356,7 +356,7 @@ msgctxt "an2.11-20:15.2.1"
 msgid ""
 "Kathañca, bhikkhave, āpanno bhikkhu sādhukaṃ attanāva attānaṃ paccavekkhati?"
 msgstr ""
-"And how, mendicants, does an offending mendicant carefully self-reflect?"
+"And how, mendicants, does an offending mendicant carefully check themselves?"
 
 msgctxt "an2.11-20:15.2.2"
 msgid "Idha, bhikkhave, āpanno bhikkhu iti paṭisañcikkhati:"
@@ -408,13 +408,14 @@ msgstr "so I told others."
 msgctxt "an2.11-20:15.2.11"
 msgid "Iti mameva tattha accayo accagamā suṅkadāyakaṃva bhaṇḍasmin’ti."
 msgstr ""
-"So the transgression is mine alone, like someone who owes customs duty on "
-"their goods.’"
+"So the mistake is mine alone, like someone who owes customs duty on their "
+"goods.’"
 
 msgctxt "an2.11-20:15.2.12"
 msgid ""
 "Evaṃ kho, bhikkhave, āpanno bhikkhu sādhukaṃ attanāva attānaṃ paccavekkhati."
-msgstr "That’s how, mendicants, an offending mendicant carefully self-reflects."
+msgstr ""
+"That’s how, mendicants, an offending mendicant carefully checks themselves."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli1.55"></a>
@@ -422,7 +423,8 @@ msgstr "That’s how, mendicants, an offending mendicant carefully self-reflects
 msgctxt "an2.11-20:15.3.1"
 msgid ""
 "Kathañca, bhikkhave, codako bhikkhu sādhukaṃ attanāva attānaṃ paccavekkhati?"
-msgstr "And how, mendicants, does an accusing mendicant carefully self-reflect?"
+msgstr ""
+"And how, mendicants, does an accusing mendicant carefully check themselves?"
 
 msgctxt "an2.11-20:15.3.2"
 msgid "Idha, bhikkhave, codako bhikkhu iti paṭisañcikkhati:"
@@ -470,13 +472,14 @@ msgstr "so they told others."
 msgctxt "an2.11-20:15.3.11"
 msgid "Iti mameva tattha accayo accagamā suṅkadāyakaṃva bhaṇḍasmin’ti."
 msgstr ""
-"So the transgression is mine alone, like someone who owes customs duty on "
-"their goods.’"
+"So the mistake is mine alone, like someone who owes customs duty on their "
+"goods.’"
 
 msgctxt "an2.11-20:15.3.12"
 msgid ""
 "Evaṃ kho, bhikkhave, codako bhikkhu sādhukaṃ attanāva attānaṃ paccavekkhati."
-msgstr "That’s how, mendicants, an accusing mendicant carefully self-reflects."
+msgstr ""
+"That’s how, mendicants, an accusing mendicant carefully checks themselves."
 
 #. </p><p>
 #. <a class="sc" id="sc15.4"></a>
@@ -488,8 +491,8 @@ msgid ""
 "phāsuṃ viharissantīti."
 msgstr ""
 "In a disciplinary issue, if neither the offending mendicant nor the accusing "
-"mendicant carefully self-reflects, you can expect that issue will lead to "
-"lasting acrimony and enmity, and the mendicants won’t live comfortably."
+"mendicant carefully checks themselves, you can expect that issue will lead "
+"to lasting acrimony and enmity, and the mendicants won’t live comfortably."
 
 msgctxt "an2.11-20:15.4.2"
 msgid ""
@@ -499,8 +502,8 @@ msgid ""
 "phāsuṃ viharissantī”ti."
 msgstr ""
 "But in a disciplinary issue, if both the offending mendicant and the "
-"accusing mendicant carefully self-reflect, you can expect that issue won’t "
-"lead to lasting acrimony and enmity, and the mendicants will live "
+"accusing mendicant carefully checks themselves, you can expect that issue "
+"won’t lead to lasting acrimony and enmity, and the mendicants will live "
 "comfortably.”"
 
 #. </p></article></section><section class="sutta" data-uid="an2.16" id="16"><article><div class="hgroup"><h1>
@@ -859,7 +862,7 @@ msgstr "They don’t blame themselves. "
 
 msgctxt "an2.11-20:18.2.5"
 msgid "anuvicca viññū pasaṃsanti, "
-msgstr "After examination, sensible people praise them. "
+msgstr "After examination, sensible people praise them."
 
 msgctxt "an2.11-20:18.2.6"
 msgid "kalyāṇo kittisaddo abbhuggacchati, "
