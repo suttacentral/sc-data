@@ -21,25 +21,27 @@ msgstr "170. In Conjunction"
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
 #. <span class="evam">
+#. <span class="evam">
 msgctxt "an4.170:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
 #. </span>
+#. </span>
 msgctxt "an4.170:1.2"
 msgid "ekaṃ samayaṃ āyasmā ānando kosambiyaṃ viharati ghositārāme."
-msgstr ""
-"At one time Venerable Ānanda was staying near Kosambi, in Ghosita’s "
-"Monastery."
+msgstr "At one time Venerable Ānanda was staying near Kosambi, in Ghosita’s Monastery."
 
 msgctxt "an4.170:1.3"
 msgid "Tatra kho āyasmā ānando bhikkhū āmantesi:"
 msgstr "There Ānanda addressed the mendicants:"
 
+#. </p><p class="added">
 msgctxt "an4.170:1.4"
 msgid "“āvuso bhikkhave”ti."
 msgstr "“Reverends, mendicants!”"
 
+#. </p><p class="added">
 msgctxt "an4.170:1.5"
 msgid "“Āvuso”ti kho te bhikkhū āyasmato ānandassa paccassosuṃ."
 msgstr "“Reverend,” they replied."
@@ -48,18 +50,15 @@ msgctxt "an4.170:1.6"
 msgid "Āyasmā ānando etadavoca:"
 msgstr "Ānanda said this:"
 
+#. </p><p class="added">
 # Note that in BB’s transl. he puts byakaroti in past tense, which creates confusion: did they declare in four ways or attain in four ways? Also, I have rationalized the final phrase. The four paths are mutually exclusive, so it doesn’t make sense to say “by four paths or one of them”. It must be an idiomatic phrase.
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.157"></a>
 #. <a class="sc" id="sc2"></a>
 #. VAR: arahattappattiṃ → arahattapattiṃ (pts1) | arahattappattaṃ (mr)
 msgctxt "an4.170:2.1"
-msgid ""
-"“Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ "
-"byākaroti, sabbo so catūhi maggehi, etesaṃ vā aññatarena."
-msgstr ""
-"“Reverends, all of the monks and nuns who declare in my presence that they "
-"have attained perfection, did so by one or other of four paths."
+msgid "“Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ byākaroti, sabbo so catūhi maggehi, etesaṃ vā aññatarena."
+msgstr "“Reverends, all of the monks and nuns who declare in my presence that they have attained perfection, did so by one or other of four paths."
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
@@ -80,12 +79,8 @@ msgid "So taṃ maggaṃ āsevati bhāveti bahulīkaroti."
 msgstr "They cultivate, develop, and make much of it."
 
 msgctxt "an4.170:3.5"
-msgid ""
-"Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, "
-"anusayā byantīhonti."
-msgstr ""
-"By doing so, they give up the fetters and eliminate the underlying "
-"tendencies."
+msgid "Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti."
+msgstr "By doing so, they give up the fetters and eliminate the underlying tendencies."
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
@@ -102,12 +97,8 @@ msgid "So taṃ maggaṃ āsevati bhāveti bahulīkaroti."
 msgstr "They cultivate, develop, and make much of it."
 
 msgctxt "an4.170:4.4"
-msgid ""
-"Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, "
-"anusayā byantīhonti."
-msgstr ""
-"By doing so, they give up the fetters and eliminate the underlying "
-"tendencies."
+msgid "Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti."
+msgstr "By doing so, they give up the fetters and eliminate the underlying tendencies."
 
 #. </p><p>
 #. <a class="sc" id="sc5"></a>
@@ -124,28 +115,19 @@ msgid "So taṃ maggaṃ āsevati bhāveti bahulīkaroti."
 msgstr "They cultivate, develop, and make much of it."
 
 msgctxt "an4.170:5.4"
-msgid ""
-"Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, "
-"anusayā byantīhonti."
-msgstr ""
-"By doing so, they give up the fetters and eliminate the underlying "
-"tendencies."
+msgid "Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti."
+msgstr "By doing so, they give up the fetters and eliminate the underlying tendencies."
 
 # Both the Tika and Pts support BB’s acceptance of mānasam as the reading here. The Chinese however doesn’t, having just 掉亂所持 (=uddhaccaviggahita).
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an4.170:6.1"
 msgid "Puna caparaṃ, āvuso, bhikkhuno dhammuddhaccaviggahitaṃ mānasaṃ hoti."
-msgstr ""
-"Another mendicant’s mind is seized by restlessness to realize the teaching."
+msgstr "Another mendicant’s mind is seized by restlessness to realize the teaching."
 
 msgctxt "an4.170:6.2"
-msgid ""
-"Hoti so, āvuso, samayo yaṃ taṃ cittaṃ ajjhattameva santiṭṭhati sannisīdati "
-"ekodi hoti samādhiyati."
-msgstr ""
-"But there comes a time when their mind is stilled internally; it settles, "
-"unifies, and becomes immersed in samādhi."
+msgid "Hoti so, āvuso, samayo yaṃ taṃ cittaṃ ajjhattameva santiṭṭhati sannisīdati ekodi hoti samādhiyati."
+msgstr "But there comes a time when their mind is stilled internally; it settles, unifies, and becomes immersed in samādhi."
 
 msgctxt "an4.170:6.3"
 msgid "Tassa maggo sañjāyati."
@@ -156,22 +138,14 @@ msgid "So taṃ maggaṃ āsevati bhāveti bahulīkaroti."
 msgstr "They cultivate, develop, and make much of it."
 
 msgctxt "an4.170:6.5"
-msgid ""
-"Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, "
-"anusayā byantīhonti."
-msgstr ""
-"By doing so, they give up the fetters and eliminate the underlying "
-"tendencies."
+msgid "Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti."
+msgstr "By doing so, they give up the fetters and eliminate the underlying tendencies."
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
 msgctxt "an4.170:7.1"
-msgid ""
-"Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ "
-"byākaroti, sabbo so imehi catūhi maggehi, etesaṃ vā aññatarenā”ti."
-msgstr ""
-"All of the monks and nuns who declare in my presence that they have attained "
-"perfection, did so by one or other of these four paths.”"
+msgid "Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ byākaroti, sabbo so imehi catūhi maggehi, etesaṃ vā aññatarenā”ti."
+msgstr "All of the monks and nuns who declare in my presence that they have attained perfection, did so by one or other of these four paths.”"
 
 #. </p><p class="endsection">
 msgctxt "an4.170:7.2"

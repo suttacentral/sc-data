@@ -23,6 +23,7 @@ msgctxt "sn35.23:1.1"
 msgid "Sāvatthinidānaṃ."
 msgstr "At Sāvatthī."
 
+#. </p><p class="added">
 #. VAR: desessāmi → desissāmi (bj, s1-3, pts1)
 msgctxt "sn35.23:1.2"
 msgid "“Sabbaṃ vo, bhikkhave, desessāmi."
@@ -38,12 +39,8 @@ msgstr "And what is the all?"
 
 #. VAR: sotañca → sotañceva (?)
 msgctxt "sn35.23:1.5"
-msgid ""
-"Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, "
-"kāyo ca phoṭṭhabbā ca, mano ca dhammā ca—"
-msgstr ""
-"It’s just the eye and sights, the ear and sounds, the nose and smells, the "
-"tongue and tastes, the body and touches, and the mind and thoughts."
+msgid "Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca—"
+msgstr "It’s just the eye and sights, the ear and sounds, the nose and smells, the tongue and tastes, the body and touches, and the mind and thoughts."
 
 msgctxt "sn35.23:1.6"
 msgid "idaṃ vuccati, bhikkhave, sabbaṃ."
@@ -55,17 +52,12 @@ msgstr "Mendicants, suppose someone was to say:"
 
 #. VAR: vācāvatthukamevassa → vācāvatthurevassa (bj, pts1) | vācā vatthudevassa (s1-3, km)
 msgctxt "sn35.23:1.8"
-msgid ""
-"‘ahametaṃ sabbaṃ paccakkhāya aññaṃ sabbaṃ paññāpessāmī’ti, tassa "
-"vācāvatthukamevassa;"
-msgstr ""
-"‘I’ll reject this all and describe another all.’ They’d have no grounds for "
-"that,"
+msgid "‘ahametaṃ sabbaṃ paccakkhāya aññaṃ sabbaṃ paññāpessāmī’ti, tassa vācāvatthukamevassa;"
+msgstr "‘I’ll reject this all and describe another all.’ They’d have no grounds for that,"
 
 msgctxt "sn35.23:1.9"
 msgid "puṭṭho ca na sampāyeyya, uttariñca vighātaṃ āpajjeyya."
-msgstr ""
-"they’d be stumped by questions, and, in addition, they’d get frustrated."
+msgstr "they’d be stumped by questions, and, in addition, they’d get frustrated."
 
 msgctxt "sn35.23:1.10"
 msgid "Taṃ kissa hetu?"

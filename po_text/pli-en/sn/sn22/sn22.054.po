@@ -23,6 +23,7 @@ msgctxt "sn22.54:1.1"
 msgid "Sāvatthinidānaṃ."
 msgstr "At Sāvatthī."
 
+#. </p><p class="added">
 # Bijajata are not “kinds of seeds “but” plants grown from seeds”. https://suttacentral.net/pi/pi-tv-bu-vb-pc11 Bhūtagāmo nāma pañca bījajātāni. Similarly, mulabija is not “root-seeds “but” plants grown from roots”, eg ginger, turmeric, etc. BB refers to the Vinaya passage that makes this clear. However he follows the comm for SN, which says bījajātānīti bījāni. This contradicts the Vinaya comm, which says: bījehi jātāni bījajātāni; rukkhādīnametaṃ adhivacanaṃ
 msgctxt "sn22.54:1.2"
 msgid "“Pañcimāni, bhikkhave, bījajātāni."
@@ -34,84 +35,58 @@ msgstr "What five?"
 
 msgctxt "sn22.54:1.4"
 msgid "Mūlabījaṃ, khandhabījaṃ, aggabījaṃ, phalubījaṃ, bījabījaññeva pañcamaṃ."
-msgstr ""
-"Plants propagated from roots, stems, cuttings, or joints; and those from "
-"regular seeds are the fifth."
+msgstr "Plants propagated from roots, stems, cuttings, or joints; and those from regular seeds are the fifth."
 
 # sukhasayita doesn’t means “well-planted” as per BB; for how could it be planted if there is no soil? It means “well-laid by”, i.e. well kept or well preserved, as BB has in AN 3.34
 #. VAR: sārādāni → sārādāyīni (bj)
 #. VAR: pathavī → paṭhavī (bj, s1-3, km)
 msgctxt "sn22.54:1.5"
-msgid ""
-"Imāni cassu, bhikkhave, pañca bījajātāni akhaṇḍāni apūtikāni avātātapahatāni "
-"sārādāni sukhasayitāni, pathavī ca nāssa, āpo ca nāssa;"
-msgstr ""
-"Suppose these five kinds of plants propagated from seeds were intact, "
-"unspoiled, not weather-damaged, fertile, and well-kept. But there’s no soil "
-"or water."
+msgid "Imāni cassu, bhikkhave, pañca bījajātāni akhaṇḍāni apūtikāni avātātapahatāni sārādāni sukhasayitāni, pathavī ca nāssa, āpo ca nāssa;"
+msgstr "Suppose these five kinds of plants propagated from seeds were intact, unspoiled, not weather-damaged, fertile, and well-kept. But there’s no soil or water."
 
 #. VAR: api numāni → api nu imāni (bj, pts1)
 msgctxt "sn22.54:1.6"
-msgid ""
-"api numāni, bhikkhave, pañca bījajātāni vuddhiṃ virūḷhiṃ vepullaṃ "
-"āpajjeyyun”ti?"
-msgstr ""
-"Then would these five kinds of plants propagated from seeds reach growth, "
-"increase, and maturity?”"
+msgid "api numāni, bhikkhave, pañca bījajātāni vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyyun”ti?"
+msgstr "Then would these five kinds of plants propagated from seeds reach growth, increase, and maturity?”"
 
+#. </p><p class="added">
 msgctxt "sn22.54:1.7"
 msgid "“No hetaṃ, bhante”."
 msgstr "“No, sir.”"
 
+#. </p><p class="added">
 msgctxt "sn22.54:1.8"
-msgid ""
-"“Imāni cassu, bhikkhave, pañca bījajātāni akhaṇḍāni … pe … sukhasayitāni, "
-"pathavī ca assa, āpo ca assa;"
-msgstr ""
-"“Suppose these five kinds of plants propagated from seeds were intact, "
-"unspoiled, not weather-damaged, fertile, and well-kept. And there is soil "
-"and water."
+msgid "“Imāni cassu, bhikkhave, pañca bījajātāni akhaṇḍāni … pe … sukhasayitāni, pathavī ca assa, āpo ca assa;"
+msgstr "“Suppose these five kinds of plants propagated from seeds were intact, unspoiled, not weather-damaged, fertile, and well-kept. And there is soil and water."
 
 msgctxt "sn22.54:1.9"
-msgid ""
-"api numāni, bhikkhave, pañca bījajātāni vuddhiṃ virūḷhiṃ vepullaṃ "
-"āpajjeyyun”ti?"
-msgstr ""
-"Then would these five kinds of plants propagated from seeds reach growth, "
-"increase, and maturity?”"
+msgid "api numāni, bhikkhave, pañca bījajātāni vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyyun”ti?"
+msgstr "Then would these five kinds of plants propagated from seeds reach growth, increase, and maturity?”"
 
+#. </p><p class="added">
 msgctxt "sn22.54:1.10"
 msgid "“Evaṃ, bhante”."
 msgstr "“Yes, sir.”"
 
+#. </p><p class="added">
 msgctxt "sn22.54:1.11"
-msgid ""
-"“Seyyathāpi, bhikkhave, pathavīdhātu, evaṃ catasso viññāṇaṭṭhitiyo daṭṭhabbā."
-msgstr ""
-"“The four grounds of consciousness should be seen as like the earth element."
+msgid "“Seyyathāpi, bhikkhave, pathavīdhātu, evaṃ catasso viññāṇaṭṭhitiyo daṭṭhabbā."
+msgstr "“The four grounds of consciousness should be seen as like the earth element."
 
 msgctxt "sn22.54:1.12"
 msgid "Seyyathāpi, bhikkhave, āpodhātu, evaṃ nandirāgo daṭṭhabbo."
 msgstr "Relishing and greed should be seen as like the water element."
 
 msgctxt "sn22.54:1.13"
-msgid ""
-"Seyyathāpi, bhikkhave, pañca bījajātāni, evaṃ viññāṇaṃ sāhāraṃ daṭṭhabbaṃ."
-msgstr ""
-"Consciousness with its fuel should be seen as like the five kinds of plants "
-"propagated from seeds."
+msgid "Seyyathāpi, bhikkhave, pañca bījajātāni, evaṃ viññāṇaṃ sāhāraṃ daṭṭhabbaṃ."
+msgstr "Consciousness with its fuel should be seen as like the five kinds of plants propagated from seeds."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.55"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn22.54:2.1"
-msgid ""
-"Rūpupayaṃ, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, rūpārammaṇaṃ "
-"rūpappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyya."
-msgstr ""
-"As long as consciousness remains, it would remain involved with form, "
-"supported by form, grounded on form. And with a sprinkle of relishing, it "
-"would grow, increase, and mature."
+msgid "Rūpupayaṃ, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, rūpārammaṇaṃ rūpappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyya."
+msgstr "As long as consciousness remains, it would remain involved with form, supported by form, grounded on form. And with a sprinkle of relishing, it would grow, increase, and mature."
 
 msgctxt "sn22.54:2.2"
 msgid "Vedanupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya … pe …"
@@ -122,14 +97,8 @@ msgid "saññupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭ�
 msgstr "Or consciousness would remain involved with perception …"
 
 msgctxt "sn22.54:2.4"
-msgid ""
-"saṅkhārupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, "
-"saṅkhārārammaṇaṃ saṅkhārappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ "
-"āpajjeyya."
-msgstr ""
-"Or as long as consciousness remains, it would remain involved with choices, "
-"supported by choices, grounded on choices. And with a sprinkle of relishing, "
-"it would grow, increase, and mature."
+msgid "saṅkhārupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, saṅkhārārammaṇaṃ saṅkhārappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyya."
+msgstr "Or as long as consciousness remains, it would remain involved with choices, supported by choices, grounded on choices. And with a sprinkle of relishing, it would grow, increase, and mature."
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
@@ -138,14 +107,8 @@ msgid "Yo, bhikkhave, evaṃ vadeyya:"
 msgstr "Mendicants, suppose you say:"
 
 msgctxt "sn22.54:3.2"
-msgid ""
-"‘ahamaññatra rūpā aññatra vedanāya aññatra saññāya aññatra saṅkhārehi "
-"viññāṇassa āgatiṃ vā gatiṃ vā cutiṃ vā upapattiṃ vā vuddhiṃ vā virūḷhiṃ vā "
-"vepullaṃ vā paññāpessāmī’ti, netaṃ ṭhānaṃ vijjati."
-msgstr ""
-"‘Apart from form, feeling, perception, and choices, I will describe the "
-"coming and going of consciousness, its passing away and reappearing, its "
-"growth, increase, and maturity.’ That is not possible."
+msgid "‘ahamaññatra rūpā aññatra vedanāya aññatra saññāya aññatra saṅkhārehi viññāṇassa āgatiṃ vā gatiṃ vā cutiṃ vā upapattiṃ vā vuddhiṃ vā virūḷhiṃ vā vepullaṃ vā paññāpessāmī’ti, netaṃ ṭhānaṃ vijjati."
+msgstr "‘Apart from form, feeling, perception, and choices, I will describe the coming and going of consciousness, its passing away and reappearing, its growth, increase, and maturity.’ That is not possible."
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
@@ -179,23 +142,15 @@ msgstr "the support is cut off, and there is no foundation for consciousness."
 
 msgctxt "sn22.54:4.8"
 msgid "Tadappatiṭṭhitaṃ viññāṇaṃ avirūḷhaṃ anabhisaṅkhacca vimuttaṃ."
-msgstr ""
-"Since that consciousness does not become established and does not grow, with "
-"no power to regenerate, it is freed."
+msgstr "Since that consciousness does not become established and does not grow, with no power to regenerate, it is freed."
 
 msgctxt "sn22.54:4.9"
-msgid ""
-"Vimuttattā ṭhitaṃ. Ṭhitattā santusitaṃ. Santusitattā na paritassati. "
-"Aparitassaṃ paccattaññeva parinibbāyati."
-msgstr ""
-"Being free, it’s stable. Being stable, it’s content. Being content, they’re "
-"not anxious. Not being anxious, they personally become extinguished."
+msgid "Vimuttattā ṭhitaṃ. Ṭhitattā santusitaṃ. Santusitattā na paritassati. Aparitassaṃ paccattaññeva parinibbāyati."
+msgstr "Being free, it’s stable. Being stable, it’s content. Being content, they’re not anxious. Not being anxious, they personally become extinguished."
 
 msgctxt "sn22.54:4.10"
 msgid "‘Khīṇā jāti … pe … nāparaṃ itthattāyā’ti pajānātī”ti."
-msgstr ""
-"They understand: ‘Rebirth is ended … there is no return to any state of "
-"existence.’”"
+msgstr "They understand: ‘Rebirth is ended … there is no return to any state of existence.’”"
 
 #. </p><p class="endsection">
 msgctxt "sn22.54:4.11"

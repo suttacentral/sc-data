@@ -21,26 +21,20 @@ msgstr "1. What’s the Purpose?"
 #. <a class="pts-vp-pli" id="pts-vp-pli5.1"></a>
 #. <a class="sc" id="sc1"></a>
 #. <span class="evam">
+#. <span class="evam">
 msgctxt "an10.1:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
 #. </span>
+#. </span>
 msgctxt "an10.1:1.2"
-msgid ""
-"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr ""
-"At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, "
-"Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
 
 msgctxt "an10.1:1.3"
-msgid ""
-"Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ "
-"abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando "
-"bhagavantaṃ etadavoca:"
-msgstr ""
-"Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, "
-"and said to him:"
+msgid "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:"
+msgstr "Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to him:"
 
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
@@ -49,10 +43,8 @@ msgid "“Kimatthiyāni, bhante, kusalāni sīlāni kimānisaṃsānī”ti?"
 msgstr "“Sir, what is the purpose and benefit of skillful ethics?”"
 
 msgctxt "an10.1:2.2"
-msgid ""
-"“Avippaṭisāratthāni kho, ānanda, kusalāni sīlāni avippaṭisārānisaṃsānī”ti."
-msgstr ""
-"“Ānanda, having no regrets is the purpose and benefit of skillful ethics.”"
+msgid "“Avippaṭisāratthāni kho, ānanda, kusalāni sīlāni avippaṭisārānisaṃsānī”ti."
+msgstr "“Ānanda, having no regrets is the purpose and benefit of skillful ethics.”"
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
@@ -60,6 +52,7 @@ msgctxt "an10.1:3.1"
 msgid "“Avippaṭisāro pana, bhante, kimatthiyo kimānisaṃso”ti?"
 msgstr "“But what’s the purpose and benefit of having no regrets?”"
 
+#. </p><p class="added">
 #. VAR: pāmojjattho pāmojjānisaṃso”ti → pāmujjattho pāmujjānisaṃsoti (si, pts1) | pāmujjattho pāmujjānisaṃso (s1-3)
 msgctxt "an10.1:3.2"
 msgid "“Avippaṭisāro kho, ānanda, pāmojjattho pāmojjānisaṃso”ti."
@@ -71,6 +64,7 @@ msgctxt "an10.1:4.1"
 msgid "“Pāmojjaṃ pana, bhante, kimatthiyaṃ kimānisaṃsan”ti?"
 msgstr "“But what’s the purpose and benefit of joy?”"
 
+#. </p><p class="added">
 msgctxt "an10.1:4.2"
 msgid "“Pāmojjaṃ kho, ānanda, pītatthaṃ pītānisaṃsan”ti."
 msgstr "“Rapture …”"
@@ -81,6 +75,7 @@ msgctxt "an10.1:5.1"
 msgid "“Pīti pana, bhante, kimatthiyā kimānisaṃsā”ti?"
 msgstr "“But what’s the purpose and benefit of rapture?”"
 
+#. </p><p class="added">
 msgctxt "an10.1:5.2"
 msgid "“Pīti kho, ānanda, passaddhatthā passaddhānisaṃsā”ti."
 msgstr "“Tranquility …”"
@@ -91,6 +86,7 @@ msgctxt "an10.1:6.1"
 msgid "“Passaddhi pana, bhante, kimatthiyā kimānisaṃsā”ti?"
 msgstr "“But what’s the purpose and benefit of tranquility?”"
 
+#. </p><p class="added">
 msgctxt "an10.1:6.2"
 msgid "“Passaddhi kho, ānanda, sukhatthā sukhānisaṃsā”ti."
 msgstr "“Bliss …”"
@@ -102,6 +98,7 @@ msgctxt "an10.1:7.1"
 msgid "“Sukhaṃ pana, bhante, kimatthiyaṃ kimānisaṃsan”ti?"
 msgstr "“But what’s the purpose and benefit of bliss?”"
 
+#. </p><p class="added">
 msgctxt "an10.1:7.2"
 msgid "“Sukhaṃ kho, ānanda, samādhatthaṃ samādhānisaṃsan”ti."
 msgstr "“Immersion …”"
@@ -112,10 +109,9 @@ msgctxt "an10.1:8.1"
 msgid "“Samādhi pana, bhante, kimatthiyo kimānisaṃso”ti?"
 msgstr "“But what’s the purpose and benefit of immersion?”"
 
+#. </p><p class="added">
 msgctxt "an10.1:8.2"
-msgid ""
-"“Samādhi kho, ānanda, yathābhūtañāṇadassanattho "
-"yathābhūtañāṇadassanānisaṃso”ti."
+msgid "“Samādhi kho, ānanda, yathābhūtañāṇadassanattho yathābhūtañāṇadassanānisaṃso”ti."
 msgstr "“Truly knowing and seeing …”"
 
 #. </p><p>
@@ -124,10 +120,9 @@ msgctxt "an10.1:9.1"
 msgid "“Yathābhūtañāṇadassanaṃ pana, bhante, kimatthiyaṃ kimānisaṃsan”ti?"
 msgstr "“But what’s the purpose and benefit of truly knowing and seeing?”"
 
+#. </p><p class="added">
 msgctxt "an10.1:9.2"
-msgid ""
-"“Yathābhūtañāṇadassanaṃ kho, ānanda, nibbidāvirāgatthaṃ "
-"nibbidāvirāgānisaṃsan”ti."
+msgid "“Yathābhūtañāṇadassanaṃ kho, ānanda, nibbidāvirāgatthaṃ nibbidāvirāgānisaṃsan”ti."
 msgstr "“Disillusionment and dispassion …”"
 
 #. </p><p>
@@ -136,21 +131,17 @@ msgctxt "an10.1:10.1"
 msgid "“Nibbidāvirāgo pana, bhante, kimatthiyo kimānisaṃso”ti?"
 msgstr "“But what’s the purpose and benefit of disillusionment and dispassion?”"
 
+#. </p><p class="added">
 #. VAR: vimuttiñāṇadassanānisaṃso → … nisaṃsoti (bj, pts1, mr)
 msgctxt "an10.1:10.2"
-msgid ""
-"“Nibbidāvirāgo kho, ānanda, vimuttiñāṇadassanattho vimuttiñāṇadassanānisaṃso."
-msgstr ""
-"“Knowledge and vision of freedom is the purpose and benefit of "
-"disillusionment and dispassion."
+msgid "“Nibbidāvirāgo kho, ānanda, vimuttiñāṇadassanattho vimuttiñāṇadassanānisaṃso."
+msgstr "“Knowledge and vision of freedom is the purpose and benefit of disillusionment and dispassion."
 
 #. </p><p>
 #. <a class="sc" id="sc11"></a>
 msgctxt "an10.1:11.1"
-msgid ""
-"Iti kho, ānanda, kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṃsāni;"
-msgstr ""
-"So, Ānanda, the purpose and benefit of skillful ethics is not having regrets."
+msgid "Iti kho, ānanda, kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṃsāni;"
+msgstr "So, Ānanda, the purpose and benefit of skillful ethics is not having regrets."
 
 msgctxt "an10.1:11.2"
 msgid "avippaṭisāro pāmojjattho pāmojjānisaṃso;"
@@ -178,15 +169,11 @@ msgstr "Truly knowing and seeing is the purpose and benefit of immersion."
 
 msgctxt "an10.1:11.8"
 msgid "yathābhūtañāṇadassanaṃ nibbidāvirāgatthaṃ nibbidāvirāgānisaṃsaṃ;"
-msgstr ""
-"Disillusionment and dispassion is the purpose and benefit of truly knowing "
-"and seeing."
+msgstr "Disillusionment and dispassion is the purpose and benefit of truly knowing and seeing."
 
 msgctxt "an10.1:11.9"
 msgid "nibbidāvirāgo vimuttiñāṇadassanattho vimuttiñāṇadassanānisaṃso."
-msgstr ""
-"Knowledge and vision of freedom is the purpose and benefit of "
-"disillusionment and dispassion."
+msgstr "Knowledge and vision of freedom is the purpose and benefit of disillusionment and dispassion."
 
 #. VAR: aggāya parentī”ti → arahattāya pūrentīti (s1-3)
 msgctxt "an10.1:11.10"

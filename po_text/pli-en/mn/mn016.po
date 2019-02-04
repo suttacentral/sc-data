@@ -24,20 +24,19 @@ msgstr "So I have heard."
 
 #. </span>
 msgctxt "mn16:1.2"
-msgid ""
-"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr ""
-"At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, "
-"Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
 
 msgctxt "mn16:1.3"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
+#. </p><p class="added">
 msgctxt "mn16:1.4"
 msgid "“bhikkhavo”ti."
 msgstr "“Mendicants!”"
 
+#. </p><p class="added">
 msgctxt "mn16:1.5"
 msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Venerable sir,” they replied."
@@ -51,14 +50,8 @@ msgstr "The Buddha said this:"
 #. <a class="sc" id="sc2"></a>
 #. VAR: cetokhilā → cetokhīlā (s2, s3)
 msgctxt "mn16:2.1"
-msgid ""
-"“Yassa kassaci, bhikkhave, bhikkhuno pañca cetokhilā appahīnā, pañca "
-"cetasovinibandhā asamucchinnā, so vatimasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ "
-"vepullaṃ āpajjissatīti—netaṃ ṭhānaṃ vijjati."
-msgstr ""
-"“Mendicants, when a mendicant has not given up five kinds of emotional "
-"barrenness and cut off five emotional shackles, it’s not possible for them "
-"to achieve growth, improvement, or maturity in this teaching and training."
+msgid "“Yassa kassaci, bhikkhave, bhikkhuno pañca cetokhilā appahīnā, pañca cetasovinibandhā asamucchinnā, so vatimasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjissatīti—netaṃ ṭhānaṃ vijjati."
+msgstr "“Mendicants, when a mendicant has not given up five kinds of emotional barrenness and cut off five emotional shackles, it’s not possible for them to achieve growth, improvement, or maturity in this teaching and training."
 
 #. </p><p>
 #. <a class="nya" id="nya3"></a>
@@ -68,34 +61,22 @@ msgid "Katamāssa pañca cetokhilā appahīnā honti?"
 msgstr "What are the five kinds of emotional barrenness they haven’t given up?"
 
 msgctxt "mn16:3.2"
-msgid ""
-"Idha, bhikkhave, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na "
-"sampasīdati."
-msgstr ""
-"Firstly, a mendicant has doubts about the Teacher. They’re uncertain, "
-"undecided, and lacking confidence."
+msgid "Idha, bhikkhave, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati."
+msgstr "Firstly, a mendicant has doubts about the Teacher. They’re uncertain, undecided, and lacking confidence."
 
 msgctxt "mn16:3.3"
-msgid ""
-"Yo so, bhikkhave, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na "
-"sampasīdati tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
-msgstr ""
-"This being so, their mind doesn’t incline toward keenness, commitment, "
-"persistence, and striving."
+msgid "Yo so, bhikkhave, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
+msgstr "This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving."
 
 msgctxt "mn16:3.4"
-msgid ""
-"Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"paṭhamo cetokhilo appahīno hoti."
+msgid "Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ paṭhamo cetokhilo appahīno hoti."
 msgstr "This is the first kind of emotional barrenness they haven’t given up."
 
 #. </p><p>
 #. <a class="nya" id="nya4"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "mn16:4.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu dhamme kaṅkhati vicikicchati nādhimuccati "
-"na sampasīdati … pe …"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu dhamme kaṅkhati vicikicchati nādhimuccati na sampasīdati … pe …"
 msgstr "Furthermore, a mendicant has doubts about the teaching …"
 
 msgctxt "mn16:4.2"
@@ -106,9 +87,7 @@ msgstr "This is the second kind of emotional barrenness."
 #. <a class="nya" id="nya5"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "mn16:5.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu saṅghe kaṅkhati vicikicchati nādhimuccati "
-"na sampasīdati … pe …"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu saṅghe kaṅkhati vicikicchati nādhimuccati na sampasīdati … pe …"
 msgstr "They have doubts about the Saṅgha …"
 
 msgctxt "mn16:5.2"
@@ -119,46 +98,30 @@ msgstr "This is the third kind of emotional barrenness."
 #. <a class="nya" id="nya6"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "mn16:6.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu sikkhāya kaṅkhati vicikicchati nādhimuccati "
-"na sampasīdati."
+msgid "Puna caparaṃ, bhikkhave, bhikkhu sikkhāya kaṅkhati vicikicchati nādhimuccati na sampasīdati."
 msgstr "They have doubts about the training …"
 
 msgctxt "mn16:6.2"
-msgid ""
-"Yo so, bhikkhave, bhikkhu sikkhāya kaṅkhati vicikicchati nādhimuccati na "
-"sampasīdati, tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
+msgid "Yo so, bhikkhave, bhikkhu sikkhāya kaṅkhati vicikicchati nādhimuccati na sampasīdati, tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
 msgstr ""
 
 msgctxt "mn16:6.3"
-msgid ""
-"Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"catuttho cetokhilo appahīno hoti."
+msgid "Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ catuttho cetokhilo appahīno hoti."
 msgstr "This is the fourth kind of emotional barrenness."
 
 #. </p><p>
 #. <a class="nya" id="nya7"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "mn16:7.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu sabrahmacārīsu kupito hoti anattamano "
-"āhatacitto khilajāto."
-msgstr ""
-"Furthermore, a mendicant is angry and upset with their spiritual companions, "
-"resentful and closed off."
+msgid "Puna caparaṃ, bhikkhave, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto."
+msgstr "Furthermore, a mendicant is angry and upset with their spiritual companions, resentful and closed off."
 
 msgctxt "mn16:7.2"
-msgid ""
-"Yo so, bhikkhave, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto "
-"khilajāto, tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
-msgstr ""
-"This being so, their mind doesn’t incline toward keenness, commitment, "
-"persistence, and striving."
+msgid "Yo so, bhikkhave, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto, tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
+msgstr "This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving."
 
 msgctxt "mn16:7.3"
-msgid ""
-"Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"pañcamo cetokhilo appahīno hoti."
+msgid "Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ pañcamo cetokhilo appahīno hoti."
 msgstr "This is the fifth kind of emotional barrenness they haven’t given up."
 
 msgctxt "mn16:7.4"
@@ -174,26 +137,15 @@ msgstr "What are the five emotional shackles they haven’t cut off?"
 
 #. VAR: avītarāgo → avigatarāgo (katthaci)
 msgctxt "mn16:8.2"
-msgid ""
-"Idha, bhikkhave, bhikkhu kāme avītarāgo hoti avigatacchando avigatapemo "
-"avigatapipāso avigatapariḷāho avigatataṇho."
-msgstr ""
-"Firstly, a mendicant isn’t free of greed, desire, fondness, thirst, passion, "
-"and craving for sensual pleasures."
+msgid "Idha, bhikkhave, bhikkhu kāme avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho."
+msgstr "Firstly, a mendicant isn’t free of greed, desire, fondness, thirst, passion, and craving for sensual pleasures."
 
 msgctxt "mn16:8.3"
-msgid ""
-"Yo so, bhikkhave, bhikkhu kāme avītarāgo hoti avigatacchando avigatapemo "
-"avigatapipāso avigatapariḷāho avigatataṇho, tassa cittaṃ na namati ātappāya "
-"anuyogāya sātaccāya padhānāya."
-msgstr ""
-"This being so, their mind doesn’t incline toward keenness, commitment, "
-"persistence, and striving."
+msgid "Yo so, bhikkhave, bhikkhu kāme avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho, tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
+msgstr "This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving."
 
 msgctxt "mn16:8.4"
-msgid ""
-"Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"paṭhamo cetasovinibandho asamucchinno hoti."
+msgid "Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ paṭhamo cetasovinibandho asamucchinno hoti."
 msgstr "This is the first emotional shackle they haven’t cut off."
 
 #. </p><p>
@@ -223,53 +175,30 @@ msgstr "This is the third emotional shackle."
 #. <a class="nya" id="nya11"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "mn16:11.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu yāvadatthaṃ udarāvadehakaṃ bhuñjitvā "
-"seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutto viharati."
-msgstr ""
-"They eat as much as they like until their belly is full, then indulge in the "
-"pleasures of sleeping, lying down, and drowsing …"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu yāvadatthaṃ udarāvadehakaṃ bhuñjitvā seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutto viharati."
+msgstr "They eat as much as they like until their belly is full, then indulge in the pleasures of sleeping, lying down, and drowsing …"
 
 msgctxt "mn16:11.2"
-msgid ""
-"Yo so, bhikkhave, bhikkhu yāvadatthaṃ udarāvadehakaṃ bhuñjitvā seyyasukhaṃ "
-"passasukhaṃ middhasukhaṃ anuyutto viharati, tassa cittaṃ na namati ātappāya "
-"anuyogāya sātaccāya padhānāya."
+msgid "Yo so, bhikkhave, bhikkhu yāvadatthaṃ udarāvadehakaṃ bhuñjitvā seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutto viharati, tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
 msgstr ""
 
 msgctxt "mn16:11.3"
-msgid ""
-"Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"catuttho cetasovinibandho asamucchinno hoti."
+msgid "Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ catuttho cetasovinibandho asamucchinno hoti."
 msgstr "This is the fourth emotional shackle."
 
 #. </p><p>
 #. <a class="nya" id="nya12"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "mn16:12.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu aññataraṃ devanikāyaṃ paṇidhāya "
-"brahmacariyaṃ carati: ‘imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena "
-"vā devo vā bhavissāmi devaññataro vā’ti."
-msgstr ""
-"They live the spiritual life hoping to be reborn in one of the orders of "
-"gods, thinking: ‘By this precept or observance or mortification or spiritual "
-"life, may I become one of the gods!’"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu aññataraṃ devanikāyaṃ paṇidhāya brahmacariyaṃ carati: ‘imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti."
+msgstr "They live the spiritual life hoping to be reborn in one of the orders of gods, thinking: ‘By this precept or observance or mortification or spiritual life, may I become one of the gods!’"
 
 msgctxt "mn16:12.2"
-msgid ""
-"Yo so, bhikkhave, bhikkhu aññataraṃ devanikāyaṃ paṇidhāya brahmacariyaṃ "
-"carati: ‘imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā "
-"bhavissāmi devaññataro vā’ti, tassa cittaṃ na namati ātappāya anuyogāya "
-"sātaccāya padhānāya."
-msgstr ""
-"This being so, their mind doesn’t incline toward keenness, commitment, "
-"persistence, and striving."
+msgid "Yo so, bhikkhave, bhikkhu aññataraṃ devanikāyaṃ paṇidhāya brahmacariyaṃ carati: ‘imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti, tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya."
+msgstr "This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving."
 
 msgctxt "mn16:12.3"
-msgid ""
-"Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"pañcamo cetasovinibandho asamucchinno hoti."
+msgid "Yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ pañcamo cetasovinibandho asamucchinno hoti."
 msgstr "This is the fifth emotional shackle they haven’t cut off."
 
 msgctxt "mn16:12.4"
@@ -280,27 +209,15 @@ msgstr "These are the five emotional shackles they haven’t cut off."
 #. <a class="nya" id="nya13"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "mn16:13.1"
-msgid ""
-"Yassa kassaci, bhikkhave, bhikkhuno ime pañca cetokhilā appahīnā, ime pañca "
-"cetasovinibandhā asamucchinnā, so vatimasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ "
-"vepullaṃ āpajjissatīti—netaṃ ṭhānaṃ vijjati."
-msgstr ""
-"When a mendicant has not given up these five kinds of emotional barrenness "
-"and cut off these five emotional shackles, it’s not possible for them to "
-"achieve growth, improvement, or maturity in this teaching and training."
+msgid "Yassa kassaci, bhikkhave, bhikkhuno ime pañca cetokhilā appahīnā, ime pañca cetasovinibandhā asamucchinnā, so vatimasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjissatīti—netaṃ ṭhānaṃ vijjati."
+msgstr "When a mendicant has not given up these five kinds of emotional barrenness and cut off these five emotional shackles, it’s not possible for them to achieve growth, improvement, or maturity in this teaching and training."
 
 #. </p><p>
 #. <a class="nya" id="nya14"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "mn16:14.1"
-msgid ""
-"Yassa kassaci, bhikkhave, bhikkhuno pañca cetokhilā pahīnā, pañca "
-"cetasovinibandhā susamucchinnā, so vatimasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ "
-"vepullaṃ āpajjissatīti—ṭhānametaṃ vijjati."
-msgstr ""
-"When a mendicant has given up these five kinds of emotional barrenness and "
-"cut off these five emotional shackles, it is possible for them to achieve "
-"growth, improvement, and maturity in this teaching and training."
+msgid "Yassa kassaci, bhikkhave, bhikkhuno pañca cetokhilā pahīnā, pañca cetasovinibandhā susamucchinnā, so vatimasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjissatīti—ṭhānametaṃ vijjati."
+msgstr "When a mendicant has given up these five kinds of emotional barrenness and cut off these five emotional shackles, it is possible for them to achieve growth, improvement, and maturity in this teaching and training."
 
 #. </p><p>
 #. <a class="nya" id="nya15"></a>
@@ -310,34 +227,22 @@ msgid "Katamāssa pañca cetokhilā pahīnā honti?"
 msgstr "What are the five kinds of emotional barrenness they’ve given up?"
 
 msgctxt "mn16:15.2"
-msgid ""
-"Idha, bhikkhave, bhikkhu satthari na kaṅkhati na vicikicchati adhimuccati "
-"sampasīdati."
-msgstr ""
-"Firstly, a mendicant has no doubts about the Teacher. They’re not uncertain, "
-"undecided, or lacking confidence."
+msgid "Idha, bhikkhave, bhikkhu satthari na kaṅkhati na vicikicchati adhimuccati sampasīdati."
+msgstr "Firstly, a mendicant has no doubts about the Teacher. They’re not uncertain, undecided, or lacking confidence."
 
 msgctxt "mn16:15.3"
-msgid ""
-"Yo so, bhikkhave, bhikkhu satthari na kaṅkhati na vicikicchati adhimuccati "
-"sampasīdati, tassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya."
-msgstr ""
-"This being so, their mind inclines toward keenness, commitment, persistence, "
-"and striving."
+msgid "Yo so, bhikkhave, bhikkhu satthari na kaṅkhati na vicikicchati adhimuccati sampasīdati, tassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya."
+msgstr "This being so, their mind inclines toward keenness, commitment, persistence, and striving."
 
 msgctxt "mn16:15.4"
-msgid ""
-"Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"paṭhamo cetokhilo pahīno hoti."
+msgid "Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ paṭhamo cetokhilo pahīno hoti."
 msgstr "This is the first kind of emotional barrenness they’ve given up."
 
 #. </p><p>
 #. <a class="nya" id="nya16"></a>
 #. <a class="sc" id="sc16"></a>
 msgctxt "mn16:16.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu dhamme na kaṅkhati na vicikicchati "
-"adhimuccati sampasīdati … pe …"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu dhamme na kaṅkhati na vicikicchati adhimuccati sampasīdati … pe …"
 msgstr "Furthermore, a mendicant has no doubts about the teaching …"
 
 msgctxt "mn16:16.2"
@@ -348,9 +253,7 @@ msgstr ""
 #. <a class="nya" id="nya17"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "mn16:17.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu saṅghe na kaṅkhati na vicikicchati "
-"adhimuccati sampasīdati … pe …"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu saṅghe na kaṅkhati na vicikicchati adhimuccati sampasīdati … pe …"
 msgstr "the Saṅgha …"
 
 msgctxt "mn16:17.2"
@@ -361,9 +264,7 @@ msgstr ""
 #. <a class="nya" id="nya18"></a>
 #. <a class="sc" id="sc18"></a>
 msgctxt "mn16:18.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu sikkhāya na kaṅkhati na vicikicchati "
-"adhimuccati sampasīdati … pe …"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu sikkhāya na kaṅkhati na vicikicchati adhimuccati sampasīdati … pe …"
 msgstr "the training …"
 
 msgctxt "mn16:18.2"
@@ -376,26 +277,15 @@ msgstr ""
 #. <a class="sc" id="sc19"></a>
 #. VAR: hoti na anattamano → hoti attamano (bj, pts1)
 msgctxt "mn16:19.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu sabrahmacārīsu na kupito hoti na anattamano "
-"anāhatacitto akhilajāto."
-msgstr ""
-"They’re not angry and upset with their spiritual companions, not resentful "
-"or closed off."
+msgid "Puna caparaṃ, bhikkhave, bhikkhu sabrahmacārīsu na kupito hoti na anattamano anāhatacitto akhilajāto."
+msgstr "They’re not angry and upset with their spiritual companions, not resentful or closed off."
 
 msgctxt "mn16:19.2"
-msgid ""
-"Yo so, bhikkhave, bhikkhu sabrahmacārīsu na kupito hoti na anattamano "
-"anāhatacitto akhilajāto, tassa cittaṃ namati ātappāya anuyogāya sātaccāya "
-"padhānāya."
-msgstr ""
-"This being so, their mind inclines toward keenness, commitment, persistence, "
-"and striving."
+msgid "Yo so, bhikkhave, bhikkhu sabrahmacārīsu na kupito hoti na anattamano anāhatacitto akhilajāto, tassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya."
+msgstr "This being so, their mind inclines toward keenness, commitment, persistence, and striving."
 
 msgctxt "mn16:19.3"
-msgid ""
-"Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"pañcamo cetokhilo pahīno hoti."
+msgid "Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ pañcamo cetokhilo pahīno hoti."
 msgstr "This is the fifth kind of emotional barrenness they’ve given up."
 
 msgctxt "mn16:19.4"
@@ -410,26 +300,15 @@ msgid "Katamāssa pañca cetasovinibandhā susamucchinnā honti?"
 msgstr "What are the five emotional shackles they’ve cut off?"
 
 msgctxt "mn16:20.2"
-msgid ""
-"Idha, bhikkhave, bhikkhu kāme vītarāgo hoti vigatacchando vigatapemo "
-"vigatapipāso vigatapariḷāho vigatataṇho."
-msgstr ""
-"Firstly, a mendicant is rid of greed, desire, fondness, thirst, passion, and "
-"craving for sensual pleasures."
+msgid "Idha, bhikkhave, bhikkhu kāme vītarāgo hoti vigatacchando vigatapemo vigatapipāso vigatapariḷāho vigatataṇho."
+msgstr "Firstly, a mendicant is rid of greed, desire, fondness, thirst, passion, and craving for sensual pleasures."
 
 msgctxt "mn16:20.3"
-msgid ""
-"Yo so, bhikkhave, bhikkhu kāme vītarāgo hoti vigatacchando vigatapemo "
-"vigatapipāso vigatapariḷāho vigatataṇho, tassa cittaṃ namati ātappāya "
-"anuyogāya sātaccāya padhānāya."
-msgstr ""
-"This being so, their mind inclines toward keenness, commitment, persistence, "
-"and striving."
+msgid "Yo so, bhikkhave, bhikkhu kāme vītarāgo hoti vigatacchando vigatapemo vigatapipāso vigatapariḷāho vigatataṇho, tassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya."
+msgstr "This being so, their mind inclines toward keenness, commitment, persistence, and striving."
 
 msgctxt "mn16:20.4"
-msgid ""
-"Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"paṭhamo cetasovinibandho susamucchinno hoti."
+msgid "Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ paṭhamo cetasovinibandho susamucchinno hoti."
 msgstr "This is the first emotional shackle they’ve cut off."
 
 #. </p><p>
@@ -446,53 +325,30 @@ msgstr "They’re rid of greed for form …"
 
 #. <a class="nya" id="nya23"></a>
 msgctxt "mn16:23.1"
-msgid ""
-"na yāvadatthaṃ udarāvadehakaṃ bhuñjitvā seyyasukhaṃ passasukhaṃ middhasukhaṃ "
-"anuyutto viharati."
-msgstr ""
-"They don’t eat as much as they like until their belly is full, then indulge "
-"in the pleasures of sleeping, lying down, and drowsing …"
+msgid "na yāvadatthaṃ udarāvadehakaṃ bhuñjitvā seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutto viharati."
+msgstr "They don’t eat as much as they like until their belly is full, then indulge in the pleasures of sleeping, lying down, and drowsing …"
 
 msgctxt "mn16:23.2"
-msgid ""
-"Yo so, bhikkhave, bhikkhu na yāvadatthaṃ udarāvadehakaṃ bhuñjitvā "
-"seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutto viharati, tassa cittaṃ namati "
-"ātappāya anuyogāya sātaccāya padhānāya."
+msgid "Yo so, bhikkhave, bhikkhu na yāvadatthaṃ udarāvadehakaṃ bhuñjitvā seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutto viharati, tassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya."
 msgstr ""
 
 msgctxt "mn16:23.3"
-msgid ""
-"Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"catuttho cetasovinibandho susamucchinno hoti."
+msgid "Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ catuttho cetasovinibandho susamucchinno hoti."
 msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya24"></a>
 #. <a class="sc" id="sc22"></a>
 msgctxt "mn16:24.1"
-msgid ""
-"Puna caparaṃ, bhikkhave, bhikkhu na aññataraṃ devanikāyaṃ paṇidhāya "
-"brahmacariyaṃ carati: ‘imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena "
-"vā devo vā bhavissāmi devaññataro vā’ti."
-msgstr ""
-"They don’t live the spiritual life hoping to be reborn in one of the orders "
-"of gods, thinking: ‘By this precept or observance or mortification or "
-"spiritual life, may I become one of the gods!’"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu na aññataraṃ devanikāyaṃ paṇidhāya brahmacariyaṃ carati: ‘imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti."
+msgstr "They don’t live the spiritual life hoping to be reborn in one of the orders of gods, thinking: ‘By this precept or observance or mortification or spiritual life, may I become one of the gods!’"
 
 msgctxt "mn16:24.2"
-msgid ""
-"Yo so, bhikkhave, bhikkhu na aññataraṃ devanikāyaṃ paṇidhāya brahmacariyaṃ "
-"carati: ‘imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā "
-"bhavissāmi devaññataro vā’ti, tassa cittaṃ namati ātappāya anuyogāya "
-"sātaccāya padhānāya."
-msgstr ""
-"This being so, their mind inclines toward keenness, commitment, persistence, "
-"and striving."
+msgid "Yo so, bhikkhave, bhikkhu na aññataraṃ devanikāyaṃ paṇidhāya brahmacariyaṃ carati: ‘imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti, tassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya."
+msgstr "This being so, their mind inclines toward keenness, commitment, persistence, and striving."
 
 msgctxt "mn16:24.3"
-msgid ""
-"Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ "
-"pañcamo cetasovinibandho susamucchinno hoti."
+msgid "Yassa cittaṃ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṃ pañcamo cetasovinibandho susamucchinno hoti."
 msgstr "This is the fifth emotional shackle they’ve cut off."
 
 msgctxt "mn16:24.4"
@@ -503,14 +359,8 @@ msgstr "These are the five emotional shackles they’ve cut off."
 #. <a class="nya" id="nya25"></a>
 #. <a class="sc" id="sc23"></a>
 msgctxt "mn16:25.1"
-msgid ""
-"Yassa kassaci, bhikkhave, bhikkhuno ime pañca cetokhilā pahīnā, ime pañca "
-"cetasovinibandhā susamucchinnā, so vatimasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ "
-"vepullaṃ āpajjissatīti—ṭhānametaṃ vijjati."
-msgstr ""
-"When a mendicant has given up these five kinds of emotional barrenness and "
-"cut off these five emotional shackles, it is possible for them to achieve "
-"growth, improvement, or maturity in this teaching and training."
+msgid "Yassa kassaci, bhikkhave, bhikkhuno ime pañca cetokhilā pahīnā, ime pañca cetasovinibandhā susamucchinnā, so vatimasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjissatīti—ṭhānametaṃ vijjati."
+msgstr "When a mendicant has given up these five kinds of emotional barrenness and cut off these five emotional shackles, it is possible for them to achieve growth, improvement, or maturity in this teaching and training."
 
 #. </p><p>
 #. <a class="nya" id="nya26"></a>
@@ -518,48 +368,32 @@ msgstr ""
 #. <a class="sc" id="sc24"></a>
 msgctxt "mn16:26.1"
 msgid "So chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, "
-msgstr ""
-"They develop the basis of psychic power that has immersion due to "
-"enthusiasm, and active effort … "
+msgstr "They develop the basis of psychic power that has immersion due to enthusiasm, and active effort … "
 
 msgctxt "mn16:26.2"
 msgid "vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, "
-msgstr ""
-"the basis of psychic power that has immersion due to energy, and active "
-"effort … "
+msgstr "the basis of psychic power that has immersion due to energy, and active effort … "
 
 msgctxt "mn16:26.3"
 msgid "cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, "
-msgstr ""
-"the basis of psychic power that has immersion due to mental development, and "
-"active effort … "
+msgstr "the basis of psychic power that has immersion due to mental development, and active effort … "
 
 msgctxt "mn16:26.4"
-msgid ""
-"vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ussoḷhīyeva "
-"pañcamī."
-msgstr ""
-"the basis of psychic power that has immersion due to inquiry, and active "
-"effort. And the fifth is sheer vigor."
+msgid "vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ussoḷhīyeva pañcamī."
+msgstr "the basis of psychic power that has immersion due to inquiry, and active effort. And the fifth is sheer vigor."
 
 # Reading abhinibbh-
 #. <a class="nya" id="nya27"></a>
 msgctxt "mn16:27.1"
-msgid ""
-"Sa kho so, bhikkhave, evaṃ ussoḷhipannarasaṅgasamannāgato bhikkhu bhabbo "
-"abhinibbidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa "
-"adhigamāya."
-msgstr ""
-"A mendicant who possesses these fifteen factors, including vigor, is capable "
-"of breaking out, becoming awakened, and reaching the supreme sanctuary."
+msgid "Sa kho so, bhikkhave, evaṃ ussoḷhipannarasaṅgasamannāgato bhikkhu bhabbo abhinibbidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa adhigamāya."
+msgstr "A mendicant who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary."
 
 msgctxt "mn16:27.2"
 msgid "Seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā."
 msgstr "Suppose there was a chicken with eight or ten or twelve eggs."
 
 msgctxt "mn16:27.3"
-msgid ""
-"Tānassu kukkuṭiyā sammā adhisayitāni sammā pariseditāni sammā paribhāvitāni."
+msgid "Tānassu kukkuṭiyā sammā adhisayitāni sammā pariseditāni sammā paribhāvitāni."
 msgstr "And she properly sat on them to keep them warm and incubated."
 
 msgctxt "mn16:27.4"
@@ -567,28 +401,16 @@ msgid "Kiñcāpi tassā kukkuṭiyā na evaṃ icchā uppajjeyya:"
 msgstr "Even if that chicken doesn’t wish:"
 
 msgctxt "mn16:27.5"
-msgid ""
-"‘aho vatime kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṃ "
-"padāletvā sotthinā abhinibbhijjeyyun’ti."
-msgstr ""
-"‘If only my chicks could break out of the eggshell with their claws and beak "
-"and hatch safely!’"
+msgid "‘aho vatime kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṃ padāletvā sotthinā abhinibbhijjeyyun’ti."
+msgstr "‘If only my chicks could break out of the eggshell with their claws and beak and hatch safely!’"
 
 msgctxt "mn16:27.6"
-msgid ""
-"Atha kho bhabbāva te kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā "
-"aṇḍakosaṃ padāletvā sotthinā abhinibbhijjituṃ."
+msgid "Atha kho bhabbāva te kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṃ padāletvā sotthinā abhinibbhijjituṃ."
 msgstr "Still they can break out and hatch safely."
 
 msgctxt "mn16:27.7"
-msgid ""
-"Evameva kho, bhikkhave, evaṃ ussoḷhipannarasaṅgasamannāgato bhikkhu bhabbo "
-"abhinibbidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa "
-"adhigamāyā”ti."
-msgstr ""
-"In the same way, a mendicant who possesses these fifteen factors, including "
-"vigor, is capable of breaking out, becoming awakened, and reaching the "
-"supreme sanctuary.”"
+msgid "Evameva kho, bhikkhave, evaṃ ussoḷhipannarasaṅgasamannāgato bhikkhu bhabbo abhinibbidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa adhigamāyā”ti."
+msgstr "In the same way, a mendicant who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary.”"
 
 #. </p><p>
 #. <a class="sc" id="sc25"></a>

@@ -26,13 +26,8 @@ msgid "Sāvatthinidānaṃ."
 msgstr "At Sāvatthī."
 
 msgctxt "sn23.1:1.2"
-msgid ""
-"Atha kho āyasmā rādho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ "
-"abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ "
-"etadavoca:"
-msgstr ""
-"Then Venerable Rādha went up to the Buddha, bowed, sat down to one side, and "
-"said to him:"
+msgid "Atha kho āyasmā rādho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca:"
+msgstr "Then Venerable Rādha went up to the Buddha, bowed, sat down to one side, and said to him:"
 
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
@@ -44,21 +39,15 @@ msgctxt "sn23.1:2.2"
 msgid "Kittāvatā nu kho, bhante, māro”ti?"
 msgstr "How is Māra defined?”"
 
+#. </p><p class="added">
 # Using “murder” here I try to maintain the pun.
 msgctxt "sn23.1:2.3"
 msgid "“Rūpe kho, rādha, sati māro vā assa māretā vā yo vā pana mīyati."
-msgstr ""
-"“When there is form, Rādha, there may be Māra, or the murderer, or the "
-"murdered."
+msgstr "“When there is form, Rādha, there may be Māra, or the murderer, or the murdered."
 
 msgctxt "sn23.1:2.4"
-msgid ""
-"Tasmātiha tvaṃ, rādha, rūpaṃ māroti passa, māretāti passa, mīyatīti passa, "
-"rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, aghabhūtanti "
-"passa."
-msgstr ""
-"So you should see form as Māra, the murderer, the murdered, the diseased, "
-"the abscess, the dart, the misery, the miserable."
+msgid "Tasmātiha tvaṃ, rādha, rūpaṃ māroti passa, māretāti passa, mīyatīti passa, rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, aghabhūtanti passa."
+msgstr "So you should see form as Māra, the murderer, the murdered, the diseased, the abscess, the dart, the misery, the miserable."
 
 msgctxt "sn23.1:2.5"
 msgid "Ye naṃ evaṃ passanti te sammā passanti."
@@ -81,13 +70,8 @@ msgid "viññāṇe sati māro vā assa māretā vā yo vā pana mīyati."
 msgstr "consciousness, there may be Māra, or the murderer, or the murdered."
 
 msgctxt "sn23.1:2.10"
-msgid ""
-"Tasmātiha tvaṃ, rādha, viññāṇaṃ māroti passa, māretāti passa, mīyatīti "
-"passa, rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, "
-"aghabhūtanti passa."
-msgstr ""
-"So you should see consciousness as Māra, the murderer, the murdered, the "
-"diseased, the abscess, the dart, the misery, the miserable."
+msgid "Tasmātiha tvaṃ, rādha, viññāṇaṃ māroti passa, māretāti passa, mīyatīti passa, rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, aghabhūtanti passa."
+msgstr "So you should see consciousness as Māra, the murderer, the murdered, the diseased, the abscess, the dart, the misery, the miserable."
 
 msgctxt "sn23.1:2.11"
 msgid "Ye naṃ evaṃ passanti, te sammā passantī”ti."
@@ -99,53 +83,56 @@ msgctxt "sn23.1:3.1"
 msgid "“Sammādassanaṃ pana, bhante, kimatthiyan”ti?"
 msgstr "“But sir, what’s the purpose of seeing rightly?”"
 
+#. </p><p class="added">
 msgctxt "sn23.1:3.2"
 msgid "“Sammādassanaṃ kho, rādha, nibbidatthaṃ”."
 msgstr "“Disillusionment is the purpose of seeing rightly.”"
 
+#. </p><p class="added">
 msgctxt "sn23.1:3.3"
 msgid "“Nibbidā pana, bhante, kimatthiyā”ti?"
 msgstr "“But what’s the purpose of disillusionment?”"
 
+#. </p><p class="added">
 msgctxt "sn23.1:3.4"
 msgid "“Nibbidā kho, rādha, virāgatthā”."
 msgstr "“Dispassion is the purpose of disillusionment.”"
 
+#. </p><p class="added">
 msgctxt "sn23.1:3.5"
 msgid "“Virāgo pana, bhante, kimatthiyo”ti?"
 msgstr "“But what’s the purpose of dispassion?”"
 
+#. </p><p class="added">
 msgctxt "sn23.1:3.6"
 msgid "“Virāgo kho, rādha, vimuttattho”."
 msgstr "“Freedom is the purpose of dispassion.”"
 
+#. </p><p class="added">
 msgctxt "sn23.1:3.7"
 msgid "“Vimutti pana, bhante, kimatthiyā”ti?"
 msgstr "“But what’s the purpose of freedom?”"
 
+#. </p><p class="added">
 msgctxt "sn23.1:3.8"
 msgid "“Vimutti kho, rādha, nibbānatthā”."
 msgstr "“Extinguishment is the purpose of freedom.”"
 
+#. </p><p class="added">
 msgctxt "sn23.1:3.9"
 msgid "“Nibbānaṃ pana, bhante, kimatthiyan”ti?"
 msgstr "“But sir, what is the purpose of extinguishment?”"
 
+#. </p><p class="added">
 #. VAR: Accayāsi → accasarā (bj, s1-3, km) | assa (pts1) | accayā (mr)
 msgctxt "sn23.1:3.10"
 msgid "“Accayāsi, rādha, pañhaṃ, nāsakkhi pañhassa pariyantaṃ gahetuṃ."
-msgstr ""
-"“Your question goes too far, Rādha. You couldn’t figure out the limit of "
-"questions."
+msgstr "“Your question goes too far, Rādha. You couldn’t figure out the limit of questions."
 
 # For ogadha, BB changed his mind, see his note at AN 3.60.
 msgctxt "sn23.1:3.11"
-msgid ""
-"Nibbānogadhañhi, rādha, brahmacariyaṃ vussati, nibbānaparāyanaṃ "
-"nibbānapariyosānan”ti."
-msgstr ""
-"For extinguishment is the culmination, destination, and end of the spiritual "
-"life.”"
+msgid "Nibbānogadhañhi, rādha, brahmacariyaṃ vussati, nibbānaparāyanaṃ nibbānapariyosānan”ti."
+msgstr "For extinguishment is the culmination, destination, and end of the spiritual life.”"
 
 #. </p><p class="endsection">
 msgctxt "sn23.1:3.12"

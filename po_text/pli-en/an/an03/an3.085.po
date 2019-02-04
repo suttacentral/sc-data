@@ -20,13 +20,8 @@ msgstr "85. A Trainee"
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an3.85:1.1"
-msgid ""
-"Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā "
-"bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu "
-"bhagavantaṃ etadavoca:"
-msgstr ""
-"Then a mendicant went up to the Buddha, bowed, sat down to one side, and "
-"said to him:"
+msgid "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:"
+msgstr "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:"
 
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
@@ -38,6 +33,7 @@ msgctxt "an3.85:2.2"
 msgid "Kittāvatā nu kho, bhante, sekho hotī”ti?"
 msgstr "How is a trainee defined?”"
 
+#. </p><p class="added">
 msgctxt "an3.85:2.3"
 msgid "“Sikkhatīti kho, bhikkhu, tasmā sekhoti vuccati."
 msgstr "“They train, mendicant, that’s why they’re called ‘a trainee’."
@@ -48,8 +44,7 @@ msgstr "What is their training?"
 
 msgctxt "an3.85:2.5"
 msgid "Adhisīlampi sikkhati, adhicittampi sikkhati, adhipaññampi sikkhati."
-msgstr ""
-"They train in the higher ethics, the higher mind, and the higher wisdom."
+msgstr "They train in the higher ethics, the higher mind, and the higher wisdom."
 
 msgctxt "an3.85:2.6"
 msgid "Sikkhatīti kho, bhikkhu, tasmā sekhoti vuccatīti."

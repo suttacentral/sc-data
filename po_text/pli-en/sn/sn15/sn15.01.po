@@ -28,20 +28,19 @@ msgstr "So I have heard."
 
 #. </span>
 msgctxt "sn15.1:1.2"
-msgid ""
-"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr ""
-"At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, "
-"Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
 
 msgctxt "sn15.1:1.3"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
+#. </p><p class="added">
 msgctxt "sn15.1:1.4"
 msgid "“bhikkhavo”ti."
 msgstr "“Mendicants!”"
 
+#. </p><p class="added">
 msgctxt "sn15.1:1.5"
 msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Venerable sir,” they replied."
@@ -50,6 +49,7 @@ msgctxt "sn15.1:1.6"
 msgid "Bhagavā etadavoca:"
 msgstr "The Buddha said this:"
 
+#. </p><p class="added">
 # See BB’s note on anamatagga, and my note at https://discourse.suttacentral.net/t/on-the-unknowability-of-sa-sara/2859<a class="sc" id="sc2"></a>
 #. </p><p>
 #. VAR: Anamataggoyaṃ → anamataggāyaṃ (pts1-2, mr)
@@ -58,35 +58,19 @@ msgid "“Anamataggoyaṃ, bhikkhave, saṃsāro."
 msgstr "“Mendicants, transmigration has no known beginning."
 
 msgctxt "sn15.1:1.8"
-msgid ""
-"Pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ "
-"sandhāvataṃ saṃsarataṃ."
-msgstr ""
-"No first point is found of sentient beings roaming and transmigrating, "
-"hindered by ignorance and fettered by craving."
+msgid "Pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ."
+msgstr "No first point is found of sentient beings roaming and transmigrating, hindered by ignorance and fettered by craving."
 
 # PTS has “a stack of squares” for caturangala, while BB curiously enough omits it entirely. But surely the meaning is as I have here. “small stick, tig” is a recognized meaning of ghatika.
 #. VAR: taṃ chetvā → tacchetvā (si, s1-3, pts1-2)
 msgctxt "sn15.1:1.9"
-msgid ""
-"Seyyathāpi, bhikkhave, puriso yaṃ imasmiṃ jambudīpe tiṇakaṭṭhasākhāpalāsaṃ "
-"taṃ chetvā ekajjhaṃ saṃharitvā caturaṅgulaṃ caturaṅgulaṃ ghaṭikaṃ katvā "
-"nikkhipeyya:"
-msgstr ""
-"Suppose a person was to strip all the grass, sticks, branches, and leaves in "
-"India, gather them together into one pile, and chop them each into four inch "
-"pieces. They’d lay them down, saying:"
+msgid "Seyyathāpi, bhikkhave, puriso yaṃ imasmiṃ jambudīpe tiṇakaṭṭhasākhāpalāsaṃ taṃ chetvā ekajjhaṃ saṃharitvā caturaṅgulaṃ caturaṅgulaṃ ghaṭikaṃ katvā nikkhipeyya:"
+msgstr "Suppose a person was to strip all the grass, sticks, branches, and leaves in India, gather them together into one pile, and chop them each into four inch pieces. They’d lay them down, saying:"
 
 #. VAR: apariyādinnāva → apariyādinnā ca (s1-3, pts1-2)
 msgctxt "sn15.1:1.10"
-msgid ""
-"‘ayaṃ me mātā, tassā me mātu ayaṃ mātā’ti, apariyādinnāva, bhikkhave, tassa "
-"purisassa mātumātaro assu, atha imasmiṃ jambudīpe tiṇakaṭṭhasākhāpalāsaṃ "
-"parikkhayaṃ pariyādānaṃ gaccheyya."
-msgstr ""
-"‘This is my mother, this is my grandmother.’ The grass, sticks, branches, "
-"and leaves of India would run out before that person’s mothers and "
-"grandmothers."
+msgid "‘ayaṃ me mātā, tassā me mātu ayaṃ mātā’ti, apariyādinnāva, bhikkhave, tassa purisassa mātumātaro assu, atha imasmiṃ jambudīpe tiṇakaṭṭhasākhāpalāsaṃ parikkhayaṃ pariyādānaṃ gaccheyya."
+msgstr "‘This is my mother, this is my grandmother.’ The grass, sticks, branches, and leaves of India would run out before that person’s mothers and grandmothers."
 
 msgctxt "sn15.1:1.11"
 msgid "Taṃ kissa hetu?"
@@ -97,29 +81,17 @@ msgid "Anamataggoyaṃ, bhikkhave, saṃsāro."
 msgstr "Transmigration has no known beginning."
 
 msgctxt "sn15.1:1.13"
-msgid ""
-"Pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ "
-"sandhāvataṃ saṃsarataṃ."
-msgstr ""
-"No first point is found of sentient beings roaming and transmigrating, "
-"hindered by ignorance and fettered by craving."
+msgid "Pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ."
+msgstr "No first point is found of sentient beings roaming and transmigrating, hindered by ignorance and fettered by craving."
 
 #. VAR: kaṭasī → kaṭasi (bj, pts1-2, mr)
 msgctxt "sn15.1:1.14"
-msgid ""
-"Evaṃ dīgharattaṃ vo, bhikkhave, dukkhaṃ paccanubhūtaṃ tibbaṃ paccanubhūtaṃ "
-"byasanaṃ paccanubhūtaṃ, kaṭasī vaḍḍhitā."
-msgstr ""
-"For such a long time you have undergone suffering, agony, and disaster, "
-"swelling the cemeteries."
+msgid "Evaṃ dīgharattaṃ vo, bhikkhave, dukkhaṃ paccanubhūtaṃ tibbaṃ paccanubhūtaṃ byasanaṃ paccanubhūtaṃ, kaṭasī vaḍḍhitā."
+msgstr "For such a long time you have undergone suffering, agony, and disaster, swelling the cemeteries."
 
 msgctxt "sn15.1:1.15"
-msgid ""
-"Yāvañcidaṃ, bhikkhave, alameva sabbasaṅkhāresu nibbindituṃ alaṃ virajjituṃ "
-"alaṃ vimuccitun”ti."
-msgstr ""
-"This is quite enough for you to become disillusioned, dispassionate, and "
-"freed regarding all conditions.”"
+msgid "Yāvañcidaṃ, bhikkhave, alameva sabbasaṅkhāresu nibbindituṃ alaṃ virajjituṃ alaṃ vimuccitun”ti."
+msgstr "This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”"
 
 #. </p><p class="endsection">
 msgctxt "sn15.1:1.16"

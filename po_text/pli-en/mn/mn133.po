@@ -24,44 +24,29 @@ msgstr "So I have heard."
 #. </span>
 msgctxt "mn133:1.2"
 msgid "ekaṃ samayaṃ bhagavā rājagahe viharati tapodārāme."
-msgstr ""
-"At one time the Buddha was staying near Rājagaha in the Hot Springs "
-"Monastery."
+msgstr "At one time the Buddha was staying near Rājagaha in the Hot Springs Monastery."
 
 #. VAR: tapodo → tapodā (si)
 msgctxt "mn133:1.3"
-msgid ""
-"Atha kho āyasmā samiddhi rattiyā paccūsasamayaṃ paccuṭṭhāya yena tapodo "
-"tenupasaṅkami gattāni parisiñcituṃ."
-msgstr ""
-"Then Venerable Samiddhi rose at the crack of dawn and went to the hot "
-"springs to bathe."
+msgid "Atha kho āyasmā samiddhi rattiyā paccūsasamayaṃ paccuṭṭhāya yena tapodo tenupasaṅkami gattāni parisiñcituṃ."
+msgstr "Then Venerable Samiddhi rose at the crack of dawn and went to the hot springs to bathe."
 
 #. VAR: pubbāpayamāno → sukkhāpayamāno (mr)
 msgctxt "mn133:1.4"
-msgid ""
-"Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsi gattāni "
-"pubbāpayamāno."
-msgstr ""
-"When he had bathed and emerged from the water he stood in one robe drying "
-"himself."
+msgid "Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsi gattāni pubbāpayamāno."
+msgstr "When he had bathed and emerged from the water he stood in one robe drying himself."
 
 msgctxt "mn133:1.5"
-msgid ""
-"Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ "
-"tapodaṃ obhāsetvā yenāyasmā samiddhi tenupasaṅkami; upasaṅkamitvā ekamantaṃ "
-"aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā āyasmantaṃ samiddhiṃ etadavoca:"
-msgstr ""
-"Then, late at night, a glorious deity, lighting up the entire hot springs, "
-"went up to Samiddhi, stood to one side, and said to Samiddhi:"
+msgid "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ tapodaṃ obhāsetvā yenāyasmā samiddhi tenupasaṅkami; upasaṅkamitvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā āyasmantaṃ samiddhiṃ etadavoca:"
+msgstr "Then, late at night, a glorious deity, lighting up the entire hot springs, went up to Samiddhi, stood to one side, and said to Samiddhi:"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya2"></a>
 msgctxt "mn133:2.1"
 msgid "“dhāresi tvaṃ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañcā”ti?"
-msgstr ""
-"“Mendicant, do you remember the recitation passage and analysis of One Fine "
-"Night?”"
+msgstr "“Mendicant, do you remember the recitation passage and analysis of One Fine Night?”"
 
+#. </p><p class="added">
 msgctxt "mn133:2.2"
 msgid "“Na kho ahaṃ, āvuso, dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
 msgstr "“No, reverend, I do not."
@@ -70,9 +55,9 @@ msgctxt "mn133:2.3"
 msgid "Tvaṃ panāvuso, dhāresi bhaddekarattassa uddesañca vibhaṅgañcā”ti?"
 msgstr "Do you?”"
 
+#. </p><p class="added">
 msgctxt "mn133:2.4"
-msgid ""
-"“Ahampi kho, bhikkhu, na dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
+msgid "“Ahampi kho, bhikkhu, na dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
 msgstr "“I also do not."
 
 # The incongruity in these questions is evidently a flaw in the Pali tradition, see Analayo’s The Verses on an Auspicious Night, Explained by Mahākaccāna—A Study and Translation of the Chinese Version, Canadian Journal of Buddhist Studies, Number Four, 2007
@@ -80,6 +65,7 @@ msgctxt "mn133:2.5"
 msgid "Dhāresi pana tvaṃ, bhikkhu, bhaddekarattiyo gāthā”ti?"
 msgstr "But do you remember just the verses on One Fine Night?”"
 
+#. </p><p class="added">
 msgctxt "mn133:2.6"
 msgid "“Na kho ahaṃ, āvuso, dhāremi bhaddekarattiyo gāthāti."
 msgstr "“I do not."
@@ -88,6 +74,7 @@ msgctxt "mn133:2.7"
 msgid "Tvaṃ panāvuso, dhāresi bhaddekarattiyo gāthā”ti?"
 msgstr "Do you?”"
 
+#. </p><p class="added">
 msgctxt "mn133:2.8"
 msgid "“Ahampi kho, bhikkhu na dhāremi bhaddekarattiyo gāthāti."
 msgstr "“I also do not."
@@ -105,11 +92,8 @@ msgid "dhārehi tvaṃ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca."
 msgstr "and remember it."
 
 msgctxt "mn133:2.12"
-msgid ""
-"Atthasaṃhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca "
-"ādibrahmacariyako”ti."
-msgstr ""
-"It is beneficial and relates to the fundamentals of the spiritual life.”"
+msgid "Atthasaṃhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako”ti."
+msgstr "It is beneficial and relates to the fundamentals of the spiritual life.”"
 
 msgctxt "mn133:2.13"
 msgid "Idamavoca sā devatā."
@@ -123,34 +107,22 @@ msgstr "before vanishing right there."
 #. <a class="nya" id="nya3"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn133:3.1"
-msgid ""
-"Atha kho āyasmā samiddhi tassā rattiyā accayena yena bhagavā tenupasaṅkami; "
-"upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno "
-"kho āyasmā samiddhi bhagavantaṃ etadavoca:"
-msgstr ""
-"Then, when the night had passed, Samiddhi went to the Buddha, bowed, sat "
-"down to one side, and told him what had happened. Then he added:"
+msgid "Atha kho āyasmā samiddhi tassā rattiyā accayena yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā samiddhi bhagavantaṃ etadavoca:"
+msgstr "Then, when the night had passed, Samiddhi went to the Buddha, bowed, sat down to one side, and told him what had happened. Then he added:"
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.193"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn133:3.2"
-msgid ""
-"“Idhāhaṃ, bhante, rattiyā paccūsasamayaṃ paccuṭṭhāya yena tapodo "
-"tenupasaṅkamiṃ gattāni parisiñcituṃ."
+msgid "“Idhāhaṃ, bhante, rattiyā paccūsasamayaṃ paccuṭṭhāya yena tapodo tenupasaṅkamiṃ gattāni parisiñcituṃ."
 msgstr ""
 
 msgctxt "mn133:3.3"
-msgid ""
-"Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsiṃ gattāni "
-"pubbāpayamāno."
+msgid "Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsiṃ gattāni pubbāpayamāno."
 msgstr ""
 
 msgctxt "mn133:3.4"
-msgid ""
-"Atha kho bhante, aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā "
-"kevalakappaṃ tapodaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā "
-"ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā maṃ etadavoca:"
+msgid "Atha kho bhante, aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ tapodaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā maṃ etadavoca:"
 msgstr ""
 
 msgctxt "mn133:3.5"
@@ -173,8 +145,7 @@ msgid "Tvaṃ panāvuso, dhāresi bhaddekarattassa uddesañca vibhaṅgañcā’
 msgstr ""
 
 msgctxt "mn133:4.4"
-msgid ""
-"‘Ahampi kho, bhikkhu, na dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
+msgid "‘Ahampi kho, bhikkhu, na dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
 msgstr ""
 
 msgctxt "mn133:4.5"
@@ -206,9 +177,7 @@ msgid "dhārehi tvaṃ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca."
 msgstr ""
 
 msgctxt "mn133:4.12"
-msgid ""
-"Atthasaṃhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca "
-"ādibrahmacariyako’ti."
+msgid "Atthasaṃhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako’ti."
 msgstr ""
 
 msgctxt "mn133:4.13"
@@ -220,15 +189,15 @@ msgid "Idaṃ vatvā tatthevantaradhāyi."
 msgstr ""
 
 msgctxt "mn133:4.15"
-msgid ""
-"Sādhu me, bhante, bhagavā bhaddekarattassa uddesañca vibhaṅgañca desetū”ti."
-msgstr ""
-"“Sir, please teach me the recitation passage and analysis of One Fine night.”"
+msgid "Sādhu me, bhante, bhagavā bhaddekarattassa uddesañca vibhaṅgañca desetū”ti."
+msgstr "“Sir, please teach me the recitation passage and analysis of One Fine night.”"
 
+#. </p><p class="added">
 msgctxt "mn133:4.16"
 msgid "“Tena hi, bhikkhu, suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti."
 msgstr "“Well then, mendicant, listen and pay close attention, I will speak.”"
 
+#. </p><p class="added">
 msgctxt "mn133:4.17"
 msgid "“Evaṃ, bhante”ti kho āyasmā samiddhi bhagavato paccassosi."
 msgstr "“Yes, sir,” Samiddhi replied."
@@ -331,22 +300,17 @@ msgstr "That is what the Buddha said."
 
 msgctxt "mn133:6.2"
 msgid "idaṃ vatvāna sugato uṭṭhāyāsanā vihāraṃ pāvisi."
-msgstr ""
-"When he had spoken, the Holy One got up from his seat and entered his "
-"dwelling."
+msgstr "When he had spoken, the Holy One got up from his seat and entered his dwelling."
 
 #. <a class="nya" id="nya7"></a>
 msgctxt "mn133:7.1"
 msgid "Atha kho tesaṃ bhikkhūnaṃ, acirapakkantassa bhagavato, etadahosi:"
 msgstr "Soon after the Buddha left, those mendicants considered:"
 
+#. </p><p class="added">
 msgctxt "mn133:7.2"
-msgid ""
-"“idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ "
-"avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
-msgstr ""
-"“The Buddha gave this brief passage for recitation, then entered his "
-"dwelling without explaining the meaning in detail. …"
+msgid "“idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
+msgstr "“The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail. …"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc10"></a>
@@ -435,12 +399,8 @@ msgstr ""
 #. </p></blockquote><p>
 #. <a class="sc" id="sc14"></a>
 msgctxt "mn133:7.19"
-msgid ""
-"Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena "
-"atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā”ti?"
-msgstr ""
-"Who can explain in detail the meaning of this brief summary given by the "
-"Buddha?”"
+msgid "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā”ti?"
+msgstr "Who can explain in detail the meaning of this brief summary given by the Buddha?”"
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.194"></a>
@@ -449,49 +409,31 @@ msgctxt "mn133:7.20"
 msgid "Atha kho tesaṃ bhikkhūnaṃ etadahosi:"
 msgstr "Then those mendicants thought:"
 
+#. </p><p class="added">
 msgctxt "mn133:7.21"
-msgid ""
-"“ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ "
-"sabrahmacārīnaṃ;"
-msgstr ""
-"“This Venerable Mahākaccāna is praised by the Buddha and esteemed by his "
-"sensible spiritual companions."
+msgid "“ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ;"
+msgstr "“This Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions."
 
 msgctxt "mn133:7.22"
-msgid ""
-"pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa "
-"uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ."
-msgstr ""
-"He is capable of explaining in detail the meaning of this brief passage for "
-"recitation given by the Buddha."
+msgid "pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ."
+msgstr "He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha."
 
 msgctxt "mn133:7.23"
-msgid ""
-"Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā "
-"āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāmā”ti."
+msgid "Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāmā”ti."
 msgstr "Let’s go to him, and ask him about this matter.”"
 
 #. </p><p>
 #. <a class="sc" id="sc16"></a>
 msgctxt "mn133:7.24"
-msgid ""
-"Atha kho te bhikkhū yenāyasmā mahākaccāno tenupasaṅkamiṃsu; upasaṅkamitvā "
-"āyasmatā mahākaccānena saddhiṃ sammodiṃsu."
-msgstr ""
-"Then those mendicants went to Mahākaccāna, and exchanged greetings with him."
+msgid "Atha kho te bhikkhū yenāyasmā mahākaccāno tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā mahākaccānena saddhiṃ sammodiṃsu."
+msgstr "Then those mendicants went to Mahākaccāna, and exchanged greetings with him."
 
 msgctxt "mn133:7.25"
-msgid ""
-"Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ "
-"nisinnā kho te bhikkhū āyasmantaṃ mahākaccānaṃ etadavocuṃ:"
-msgstr ""
-"When the greetings and polite conversation were over, they sat down to one "
-"side. They told him what had happened, and said:"
+msgid "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū āyasmantaṃ mahākaccānaṃ etadavocuṃ:"
+msgstr "When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said:"
 
 msgctxt "mn133:7.26"
-msgid ""
-"“idaṃ kho no, āvuso kaccāna, bhagavā saṅkhittena uddesaṃ uddisitvā "
-"vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
+msgid "“idaṃ kho no, āvuso kaccāna, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
 msgstr ""
 
 #. </p><blockquote class="gatha"><p>
@@ -518,14 +460,11 @@ msgstr ""
 #. </p></blockquote><p>
 #. <a class="sc" id="sc18"></a>
 msgctxt "mn133:7.31"
-msgid ""
-"Tesaṃ no, āvuso kaccāna, amhākaṃ, acirapakkantassa bhagavato, etadahosi—"
+msgid "Tesaṃ no, āvuso kaccāna, amhākaṃ, acirapakkantassa bhagavato, etadahosi—"
 msgstr ""
 
 msgctxt "mn133:7.32"
-msgid ""
-"idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ "
-"avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
+msgid "idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
 msgstr ""
 
 #. </p><blockquote class="gatha"><p>
@@ -553,9 +492,7 @@ msgstr ""
 #. <a class="nya" id="nya8"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "mn133:8.1"
-msgid ""
-"Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena "
-"atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyāti?"
+msgid "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyāti?"
 msgstr ""
 
 msgctxt "mn133:8.2"
@@ -563,21 +500,15 @@ msgid "Tesaṃ no, āvuso kaccāna, amhākaṃ etadahosi:"
 msgstr ""
 
 msgctxt "mn133:8.3"
-msgid ""
-"‘ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ "
-"sabrahmacārīnaṃ."
+msgid "‘ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ."
 msgstr ""
 
 msgctxt "mn133:8.4"
-msgid ""
-"Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa "
-"uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ."
+msgid "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ."
 msgstr ""
 
 msgctxt "mn133:8.5"
-msgid ""
-"Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā "
-"āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāmā’ti."
+msgid "Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāmā’ti."
 msgstr ""
 
 msgctxt "mn133:8.6"
@@ -589,61 +520,30 @@ msgstr "“May Venerable Mahākaccāna please explain this.”"
 #. <a class="pts-vp-pli" id="pts-vp-pli3.195"></a>
 #. <a class="sc" id="sc21"></a>
 msgctxt "mn133:9.1"
-msgid ""
-"“Seyyathāpi, āvuso, puriso sāratthiko sāragavesī sārapariyesanaṃ caramāno "
-"mahato rukkhassa tiṭṭhato sāravato atikkammeva mūlaṃ atikkamma khandhaṃ "
-"sākhāpalāse sāraṃ pariyesitabbaṃ maññeyya;"
-msgstr ""
-"“Reverends, suppose there was a person in need of heartwood. And while "
-"wandering in search of heartwood he’d come across a large tree standing with "
-"heartwood. But he’d pass over the roots and trunk, imagining that the "
-"heartwood should be sought in the branches and leaves."
+msgid "“Seyyathāpi, āvuso, puriso sāratthiko sāragavesī sārapariyesanaṃ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva mūlaṃ atikkamma khandhaṃ sākhāpalāse sāraṃ pariyesitabbaṃ maññeyya;"
+msgstr "“Reverends, suppose there was a person in need of heartwood. And while wandering in search of heartwood he’d come across a large tree standing with heartwood. But he’d pass over the roots and trunk, imagining that the heartwood should be sought in the branches and leaves."
 
 msgctxt "mn133:9.2"
-msgid ""
-"evaṃsampadamidaṃ āyasmantānaṃ satthari sammukhībhūte taṃ bhagavantaṃ "
-"atisitvā amhe etamatthaṃ paṭipucchitabbaṃ maññatha."
-msgstr ""
-"Such is the consequence for the venerables. Though you were face to face "
-"with the Buddha, you passed him by, imagining that you should ask me about "
-"this matter."
+msgid "evaṃsampadamidaṃ āyasmantānaṃ satthari sammukhībhūte taṃ bhagavantaṃ atisitvā amhe etamatthaṃ paṭipucchitabbaṃ maññatha."
+msgstr "Such is the consequence for the venerables. Though you were face to face with the Buddha, you passed him by, imagining that you should ask me about this matter."
 
 msgctxt "mn133:9.3"
-msgid ""
-"So hāvuso, bhagavā jānaṃ jānāti, passaṃ passati, cakkhubhūto ñāṇabhūto "
-"dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā "
-"dhammassāmī tathāgato."
-msgstr ""
-"For he is the Buddha, who knows and sees. He is vision, he is knowledge, he "
-"is the truth, he is supreme. He is the teacher, the proclaimer, the "
-"elucidator of meaning, the bestower of the deathless, the lord of truth, the "
-"Realized One."
+msgid "So hāvuso, bhagavā jānaṃ jānāti, passaṃ passati, cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī tathāgato."
+msgstr "For he is the Buddha, who knows and sees. He is vision, he is knowledge, he is the truth, he is supreme. He is the teacher, the proclaimer, the elucidator of meaning, the bestower of the deathless, the lord of truth, the Realized One."
 
 msgctxt "mn133:9.4"
-msgid ""
-"So ceva panetassa kālo ahosi yaṃ bhagavantaṃyeva etamatthaṃ "
-"paṭipuccheyyātha, yathā vo bhagavā byākareyya tathā naṃ dhāreyyāthā”ti."
-msgstr ""
-"That was the time to approach the Buddha and ask about this matter. You "
-"should have remembered it in line with the Buddha’s answer.”"
+msgid "So ceva panetassa kālo ahosi yaṃ bhagavantaṃyeva etamatthaṃ paṭipuccheyyātha, yathā vo bhagavā byākareyya tathā naṃ dhāreyyāthā”ti."
+msgstr "That was the time to approach the Buddha and ask about this matter. You should have remembered it in line with the Buddha’s answer.”"
 
 #. </p><p>
 #. <a class="nya" id="nya10"></a>
 #. <a class="sc" id="sc22"></a>
 msgctxt "mn133:10.1"
-msgid ""
-"“Addhāvuso kaccāna, bhagavā jānaṃ jānāti, passaṃ passati, cakkhubhūto "
-"ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa "
-"dātā dhammassāmī tathāgato."
-msgstr ""
-"“Certainly he is the Buddha, who knows and sees. He is vision, he is "
-"knowledge, he is the truth, he is supreme. He is the teacher, the "
-"proclaimer, the elucidator of meaning, the bestower of the deathless, the "
-"lord of truth, the Realized One."
+msgid "“Addhāvuso kaccāna, bhagavā jānaṃ jānāti, passaṃ passati, cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī tathāgato."
+msgstr "“Certainly he is the Buddha, who knows and sees. He is vision, he is knowledge, he is the truth, he is supreme. He is the teacher, the proclaimer, the elucidator of meaning, the bestower of the deathless, the lord of truth, the Realized One."
 
 msgctxt "mn133:10.2"
-msgid ""
-"So ceva panetassa kālo ahosi yaṃ bhagavantaṃyeva etamatthaṃ paṭipuccheyyāma;"
+msgid "So ceva panetassa kālo ahosi yaṃ bhagavantaṃyeva etamatthaṃ paṭipuccheyyāma;"
 msgstr "That was the time to approach the Buddha and ask about this matter."
 
 msgctxt "mn133:10.3"
@@ -651,20 +551,12 @@ msgid "yathā no bhagavā byākareyya tathā naṃ dhāreyyāma."
 msgstr "We should have remembered it in line with the Buddha’s answer."
 
 msgctxt "mn133:10.4"
-msgid ""
-"Api cāyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ "
-"sabrahmacārīnaṃ;"
-msgstr ""
-"Still, Venerable Mahākaccāna is praised by the Buddha and esteemed by his "
-"sensible spiritual companions."
+msgid "Api cāyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ;"
+msgstr "Still, Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions."
 
 msgctxt "mn133:10.5"
-msgid ""
-"pahoti cāyasmā mahākaccāno imassa bhagavatā saṃkhittena uddesassa "
-"uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ."
-msgstr ""
-"He is capable of explaining in detail the meaning of this brief passage for "
-"recitation given by the Buddha."
+msgid "pahoti cāyasmā mahākaccāno imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ."
+msgstr "He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha."
 
 #. VAR: agaruṃ karitvā”ti → agarukaritvāti (s1-3, km, pts1)
 msgctxt "mn133:10.6"
@@ -678,6 +570,7 @@ msgctxt "mn133:11.1"
 msgid "“Tena hāvuso, suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti."
 msgstr "“Well then, reverends, listen and pay close attention, I will speak.”"
 
+#. </p><p class="added">
 msgctxt "mn133:11.2"
 msgid "“Evamāvuso”ti kho te bhikkhū āyasmato mahākaccānassa paccassosuṃ."
 msgstr "“Yes, reverend,” they replied."
@@ -690,12 +583,8 @@ msgstr "Venerable Mahākaccāna said this:"
 #. <a class="nya" id="nya12"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "mn133:12.1"
-msgid ""
-"“Yaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ "
-"avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
-msgstr ""
-"“Reverends, the Buddha gave this brief passage for recitation, then entered "
-"his dwelling without explaining the meaning in detail:"
+msgid "“Yaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
+msgstr "“Reverends, the Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc25"></a>
@@ -721,12 +610,8 @@ msgstr "who truly have that one fine night.’"
 #. </p></blockquote><p>
 #. <a class="sc" id="sc26"></a>
 msgctxt "mn133:12.6"
-msgid ""
-"Imassa kho ahaṃ, āvuso, bhagavatā saṅkhittena uddesassa uddiṭṭhassa "
-"vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāmi—"
-msgstr ""
-"And this is how I understand the detailed meaning of this passage for "
-"recitation."
+msgid "Imassa kho ahaṃ, āvuso, bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāmi—"
+msgstr "And this is how I understand the detailed meaning of this passage for recitation."
 
 #. </p><p>
 #. <a class="nya" id="nya13"></a>
@@ -738,21 +623,15 @@ msgstr "And how do you run back to the past?"
 
 msgctxt "mn133:13.2"
 msgid "Iti me cakkhu ahosi atītamaddhānaṃ iti rūpāti—"
-msgstr ""
-"Consciousness gets tied up there with desire and lust, thinking: ‘In the "
-"past I had such eyes and such sights.’"
+msgstr "Consciousness gets tied up there with desire and lust, thinking: ‘In the past I had such eyes and such sights.’"
 
 msgctxt "mn133:13.3"
-msgid ""
-"tattha chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, chandarāgappaṭibaddhattā "
-"viññāṇassa tadabhinandati, tadabhinandanto atītaṃ anvāgameti."
+msgid "tattha chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, chandarāgappaṭibaddhattā viññāṇassa tadabhinandati, tadabhinandanto atītaṃ anvāgameti."
 msgstr "So you take pleasure in that, and that’s when you run back to the past."
 
 msgctxt "mn133:13.4"
 msgid "Iti me sotaṃ ahosi atītamaddhānaṃ iti saddāti … pe …"
-msgstr ""
-"Consciousness gets tied up there with desire and lust, thinking: ‘In the "
-"past I had such ears and such sounds …"
+msgstr "Consciousness gets tied up there with desire and lust, thinking: ‘In the past I had such ears and such sounds …"
 
 msgctxt "mn133:13.5"
 msgid "iti me ghānaṃ ahosi atītamaddhānaṃ iti gandhāti …"
@@ -771,9 +650,7 @@ msgid "iti me mano ahosi atītamaddhānaṃ iti dhammāti—"
 msgstr "such a mind and such thoughts.’"
 
 msgctxt "mn133:13.9"
-msgid ""
-"tattha chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, chandarāgappaṭibaddhattā "
-"viññāṇassa tadabhinandati, tadabhinandanto atītaṃ anvāgameti—"
+msgid "tattha chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, chandarāgappaṭibaddhattā viññāṇassa tadabhinandati, tadabhinandanto atītaṃ anvāgameti—"
 msgstr "So you take pleasure in that, and that’s when you run back to the past."
 
 msgctxt "mn133:13.10"
@@ -789,23 +666,15 @@ msgstr "And how do you not run back to the past?"
 
 msgctxt "mn133:14.2"
 msgid "Iti me cakkhu ahosi atītamaddhānaṃ iti rūpāti—"
-msgstr ""
-"Consciousness doesn’t get tied up there with desire and lust, thinking: ‘In "
-"the past I had such eyes and such sights.’"
+msgstr "Consciousness doesn’t get tied up there with desire and lust, thinking: ‘In the past I had such eyes and such sights.’"
 
 msgctxt "mn133:14.3"
-msgid ""
-"tattha na chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, na chandarāgappaṭibaddhattā "
-"viññāṇassa na tadabhinandati, na tadabhinandanto atītaṃ nānvāgameti."
-msgstr ""
-"So you don’t take pleasure in that, and that’s when you no longer run back "
-"to the past."
+msgid "tattha na chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, na chandarāgappaṭibaddhattā viññāṇassa na tadabhinandati, na tadabhinandanto atītaṃ nānvāgameti."
+msgstr "So you don’t take pleasure in that, and that’s when you no longer run back to the past."
 
 msgctxt "mn133:14.4"
 msgid "Iti me sotaṃ ahosi atītamaddhānaṃ iti saddāti … pe …"
-msgstr ""
-"Consciousness doesn’t get tied up there with desire and lust, thinking: ‘In "
-"the past I had such ears and such sounds …"
+msgstr "Consciousness doesn’t get tied up there with desire and lust, thinking: ‘In the past I had such ears and such sounds …"
 
 msgctxt "mn133:14.5"
 msgid "iti me ghānaṃ ahosi atītamaddhānaṃ iti gandhāti …"
@@ -824,12 +693,8 @@ msgid "iti me mano ahosi atītamaddhānaṃ iti dhammāti—"
 msgstr "such a mind and such thoughts.’"
 
 msgctxt "mn133:14.9"
-msgid ""
-"tattha na chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, na chandarāgappaṭibaddhattā "
-"viññāṇassa, na tadabhinandati, na tadabhinandanto atītaṃ nānvāgameti—"
-msgstr ""
-"So you don’t take pleasure in that, and that’s when you no longer run back "
-"to the past."
+msgid "tattha na chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, na chandarāgappaṭibaddhattā viññāṇassa, na tadabhinandati, na tadabhinandanto atītaṃ nānvāgameti—"
+msgstr "So you don’t take pleasure in that, and that’s when you no longer run back to the past."
 
 msgctxt "mn133:14.10"
 msgid "evaṃ kho, āvuso, atītaṃ nānvāgameti."
@@ -845,21 +710,15 @@ msgstr "And how do you hope for the future?"
 
 msgctxt "mn133:15.2"
 msgid "Iti me cakkhu siyā anāgatamaddhānaṃ iti rūpāti—"
-msgstr ""
-"The heart is set on getting what it does not have, thinking: ‘May I have "
-"such eyes and such sights in the future.’"
+msgstr "The heart is set on getting what it does not have, thinking: ‘May I have such eyes and such sights in the future.’"
 
 msgctxt "mn133:15.3"
-msgid ""
-"appaṭiladdhassa paṭilābhāya cittaṃ paṇidahati, cetaso paṇidhānapaccayā "
-"tadabhinandati, tadabhinandanto anāgataṃ paṭikaṅkhati."
+msgid "appaṭiladdhassa paṭilābhāya cittaṃ paṇidahati, cetaso paṇidhānapaccayā tadabhinandati, tadabhinandanto anāgataṃ paṭikaṅkhati."
 msgstr "So you take pleasure in that, and that’s when you hope for the future."
 
 msgctxt "mn133:15.4"
 msgid "Iti me sotaṃ siyā anāgatamaddhānaṃ iti saddāti … pe …"
-msgstr ""
-"The heart is set on getting what it does not have, thinking: ‘May I have "
-"such ears and such sounds …"
+msgstr "The heart is set on getting what it does not have, thinking: ‘May I have such ears and such sounds …"
 
 msgctxt "mn133:15.5"
 msgid "iti me ghānaṃ siyā anāgatamaddhānaṃ iti gandhāti …"
@@ -878,9 +737,7 @@ msgid "iti me mano siyā anāgatamaddhānaṃ iti dhammāti—"
 msgstr "such a mind and such thoughts in the future.’"
 
 msgctxt "mn133:15.9"
-msgid ""
-"appaṭiladdhassa paṭilābhāya cittaṃ paṇidahati, cetaso paṇidhānapaccayā "
-"tadabhinandati, tadabhinandanto anāgataṃ paṭikaṅkhati—"
+msgid "appaṭiladdhassa paṭilābhāya cittaṃ paṇidahati, cetaso paṇidhānapaccayā tadabhinandati, tadabhinandanto anāgataṃ paṭikaṅkhati—"
 msgstr "So you take pleasure in that, and that’s when you hope for the future."
 
 msgctxt "mn133:15.10"
@@ -896,23 +753,15 @@ msgstr "And how do you not hope for the future?"
 
 msgctxt "mn133:16.2"
 msgid "Iti me cakkhu siyā anāgatamaddhānaṃ iti rūpāti—"
-msgstr ""
-"The heart is not set on getting what it does not have, thinking: ‘May I have "
-"such eyes and such sights in the future.’"
+msgstr "The heart is not set on getting what it does not have, thinking: ‘May I have such eyes and such sights in the future.’"
 
 msgctxt "mn133:16.3"
-msgid ""
-"appaṭiladdhassa paṭilābhāya cittaṃ nappaṇidahati, cetaso appaṇidhānapaccayā "
-"na tadabhinandati, na tadabhinandanto anāgataṃ nappaṭikaṅkhati."
-msgstr ""
-"So you don’t take pleasure in that, and that’s when you no longer hope for "
-"the future."
+msgid "appaṭiladdhassa paṭilābhāya cittaṃ nappaṇidahati, cetaso appaṇidhānapaccayā na tadabhinandati, na tadabhinandanto anāgataṃ nappaṭikaṅkhati."
+msgstr "So you don’t take pleasure in that, and that’s when you no longer hope for the future."
 
 msgctxt "mn133:16.4"
 msgid "Iti me sotaṃ siyā anāgatamaddhānaṃ iti saddāti … pe …"
-msgstr ""
-"The heart is not set on getting what it does not have, thinking: ‘May I have "
-"such ears and such sounds …"
+msgstr "The heart is not set on getting what it does not have, thinking: ‘May I have such ears and such sounds …"
 
 msgctxt "mn133:16.5"
 msgid "iti me ghānaṃ siyā anāgatamaddhānaṃ iti gandhāti …"
@@ -931,12 +780,8 @@ msgid "iti me mano siyā anāgatamaddhānaṃ iti dhammāti—"
 msgstr "such a mind and such thoughts in the future.’"
 
 msgctxt "mn133:16.9"
-msgid ""
-"appaṭiladdhassa paṭilābhāya cittaṃ nappaṇidahati, cetaso appaṇidhānapaccayā "
-"na tadabhinandati, na tadabhinandanto anāgataṃ nappaṭikaṅkhati—"
-msgstr ""
-"So you don’t take pleasure in that, and that’s when you no longer hope for "
-"the future."
+msgid "appaṭiladdhassa paṭilābhāya cittaṃ nappaṇidahati, cetaso appaṇidhānapaccayā na tadabhinandati, na tadabhinandanto anāgataṃ nappaṭikaṅkhati—"
+msgstr "So you don’t take pleasure in that, and that’s when you no longer hope for the future."
 
 msgctxt "mn133:16.10"
 msgid "evaṃ kho, āvuso, anāgataṃ nappaṭikaṅkhati."
@@ -958,14 +803,8 @@ msgid "ubhayametaṃ paccuppannaṃ."
 msgstr "are presently arisen."
 
 msgctxt "mn133:17.4"
-msgid ""
-"Tasmiñce paccuppanne chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, "
-"chandarāgappaṭibaddhattā viññāṇassa tadabhinandati, tadabhinandanto "
-"paccuppannesu dhammesu saṃhīrati."
-msgstr ""
-"If consciousness gets tied up there in the present with desire and lust, you "
-"take pleasure in that, and that’s when you falter amid presently arisen "
-"phenomena."
+msgid "Tasmiñce paccuppanne chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, chandarāgappaṭibaddhattā viññāṇassa tadabhinandati, tadabhinandanto paccuppannesu dhammesu saṃhīrati."
+msgstr "If consciousness gets tied up there in the present with desire and lust, you take pleasure in that, and that’s when you falter amid presently arisen phenomena."
 
 msgctxt "mn133:17.5"
 msgid "Yañcāvuso, sotaṃ ye ca saddā … pe …"
@@ -992,14 +831,8 @@ msgid "ubhayametaṃ paccuppannaṃ."
 msgstr "are presently arisen."
 
 msgctxt "mn133:17.11"
-msgid ""
-"Tasmiñce paccuppanne chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, "
-"chandarāgappaṭibaddhattā viññāṇassa tadabhinandati, tadabhinandanto "
-"paccuppannesu dhammesu saṃhīrati—"
-msgstr ""
-"If consciousness gets tied up there in the present with desire and lust, you "
-"take pleasure in that, and that’s when you falter amid presently arisen "
-"phenomena."
+msgid "Tasmiñce paccuppanne chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, chandarāgappaṭibaddhattā viññāṇassa tadabhinandati, tadabhinandanto paccuppannesu dhammesu saṃhīrati—"
+msgstr "If consciousness gets tied up there in the present with desire and lust, you take pleasure in that, and that’s when you falter amid presently arisen phenomena."
 
 msgctxt "mn133:17.12"
 msgid "evaṃ kho, āvuso, paccuppannesu dhammesu saṃhīrati."
@@ -1022,14 +855,8 @@ msgid "ubhayametaṃ paccuppannaṃ."
 msgstr "are presently arisen."
 
 msgctxt "mn133:18.4"
-msgid ""
-"Tasmiñce paccuppanne na chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, na "
-"chandarāgappaṭibaddhattā viññāṇassa na tadabhinandati, na tadabhinandanto "
-"paccuppannesu dhammesu na saṃhīrati."
-msgstr ""
-"If consciousness doesn’t get tied up there in the present with desire and "
-"lust, you don’t take pleasure in that, and that’s when you no longer falter "
-"amid presently arisen phenomena."
+msgid "Tasmiñce paccuppanne na chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, na chandarāgappaṭibaddhattā viññāṇassa na tadabhinandati, na tadabhinandanto paccuppannesu dhammesu na saṃhīrati."
+msgstr "If consciousness doesn’t get tied up there in the present with desire and lust, you don’t take pleasure in that, and that’s when you no longer falter amid presently arisen phenomena."
 
 msgctxt "mn133:18.5"
 msgid "Yañcāvuso, sotaṃ ye ca saddā … pe …"
@@ -1056,14 +883,8 @@ msgid "ubhayametaṃ paccuppannaṃ."
 msgstr "are presently arisen."
 
 msgctxt "mn133:18.11"
-msgid ""
-"Tasmiñce paccuppanne na chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, na "
-"chandarāgappaṭibaddhattā viññāṇassa na tadabhinandati, na tadabhinandanto "
-"paccuppannesu dhammesu na saṃhīrati—"
-msgstr ""
-"If consciousness doesn’t get tied up there in the present with desire and "
-"lust, you don’t take pleasure in that, and that’s when you no longer falter "
-"amid presently arisen phenomena."
+msgid "Tasmiñce paccuppanne na chandarāgappaṭibaddhaṃ hoti viññāṇaṃ, na chandarāgappaṭibaddhattā viññāṇassa na tadabhinandati, na tadabhinandanto paccuppannesu dhammesu na saṃhīrati—"
+msgstr "If consciousness doesn’t get tied up there in the present with desire and lust, you don’t take pleasure in that, and that’s when you no longer falter amid presently arisen phenomena."
 
 msgctxt "mn133:18.12"
 msgid "evaṃ kho, āvuso, paccuppannesu dhammesu na saṃhīrati."
@@ -1073,12 +894,8 @@ msgstr "That’s how you don’t falter amid presently arisen phenomena."
 #. <a class="nya" id="nya19"></a>
 #. <a class="sc" id="sc33"></a>
 msgctxt "mn133:19.1"
-msgid ""
-"Yaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ "
-"avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
-msgstr ""
-"This is how I understand the detailed meaning of that brief passage for "
-"recitation given by the Buddha."
+msgid "Yaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
+msgstr "This is how I understand the detailed meaning of that brief passage for recitation given by the Buddha."
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc34"></a>
@@ -1104,15 +921,11 @@ msgstr ""
 #. </p></blockquote><p>
 #. <a class="sc" id="sc35"></a>
 msgctxt "mn133:19.6"
-msgid ""
-"Imassa kho ahaṃ, āvuso, bhagavatā saṅkhittena uddesassa uddiṭṭhassa "
-"vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāmi."
+msgid "Imassa kho ahaṃ, āvuso, bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāmi."
 msgstr ""
 
 msgctxt "mn133:19.7"
-msgid ""
-"Ākaṅkhamānā ca pana tumhe āyasmanto bhagavantaṃyeva upasaṅkamitvā etamatthaṃ "
-"paṭipuccheyyātha, "
+msgid "Ākaṅkhamānā ca pana tumhe āyasmanto bhagavantaṃyeva upasaṅkamitvā etamatthaṃ paṭipuccheyyātha, "
 msgstr "If you wish, you may go to the Buddha and ask him about this. "
 
 msgctxt "mn133:19.8"
@@ -1123,20 +936,11 @@ msgstr "You should remember it in line with the Buddha’s answer.”"
 #. <a class="nya" id="nya20"></a>
 #. <a class="sc" id="sc36"></a>
 msgctxt "mn133:20.1"
-msgid ""
-"Atha kho te bhikkhū āyasmato mahākaccānassa bhāsitaṃ abhinanditvā anumoditvā "
-"uṭṭhāyāsanā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ "
-"abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū "
-"bhagavantaṃ etadavocuṃ:"
-msgstr ""
-"“Yes, reverend,” said those mendicants, approving and agreeing with what "
-"Mahākaccāna said. Then they rose from their seats and went to the Buddha, "
-"bowed, sat down to one side, and told him what had happened, adding:"
+msgid "Atha kho te bhikkhū āyasmato mahākaccānassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:"
+msgstr "“Yes, reverend,” said those mendicants, approving and agreeing with what Mahākaccāna said. Then they rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened, adding:"
 
 msgctxt "mn133:20.2"
-msgid ""
-"“yaṃ kho no, bhante, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ "
-"avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
+msgid "“yaṃ kho no, bhante, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
 msgstr ""
 
 #. </p><blockquote class="gatha"><p>
@@ -1167,9 +971,7 @@ msgid "Tesaṃ no, bhante, amhākaṃ, acirapakkantassa bhagavato, etadahosi:"
 msgstr ""
 
 msgctxt "mn133:20.8"
-msgid ""
-"‘idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ "
-"avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
+msgid "‘idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:"
 msgstr ""
 
 #. </p><blockquote class="gatha"><p>
@@ -1260,9 +1062,7 @@ msgstr ""
 #. <a class="pts-vp-pli" id="pts-vp-pli3.199"></a>
 #. <a class="sc" id="sc43"></a>
 msgctxt "mn133:20.25"
-msgid ""
-"Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena "
-"atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā’ti?"
+msgid "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā’ti?"
 msgstr ""
 
 msgctxt "mn133:20.26"
@@ -1270,36 +1070,24 @@ msgid "Tesaṃ no, bhante, amhākaṃ etadahosi:"
 msgstr ""
 
 msgctxt "mn133:20.27"
-msgid ""
-"‘ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ "
-"sabrahmacārīnaṃ."
+msgid "‘ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ."
 msgstr ""
 
 msgctxt "mn133:20.28"
-msgid ""
-"Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa "
-"uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ."
+msgid "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ."
 msgstr ""
 
 msgctxt "mn133:20.29"
-msgid ""
-"Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā "
-"āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāmā’ti."
+msgid "Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāmā’ti."
 msgstr ""
 
 msgctxt "mn133:20.30"
-msgid ""
-"Atha kho mayaṃ, bhante, yenāyasmā mahākaccāno tenupasaṅkamimha; "
-"upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipucchimha."
+msgid "Atha kho mayaṃ, bhante, yenāyasmā mahākaccāno tenupasaṅkamimha; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipucchimha."
 msgstr ""
 
 msgctxt "mn133:20.31"
-msgid ""
-"Tesaṃ no, bhante, āyasmatā mahākaccānena imehi ākārehi imehi padehi imehi "
-"byañjanehi attho vibhatto”ti."
-msgstr ""
-"“Mahākaccāna clearly explained the meaning to us in this manner, with these "
-"words and phrases.”"
+msgid "Tesaṃ no, bhante, āyasmatā mahākaccānena imehi ākārehi imehi padehi imehi byañjanehi attho vibhatto”ti."
+msgstr "“Mahākaccāna clearly explained the meaning to us in this manner, with these words and phrases.”"
 
 #. </p><p>
 #. <a class="nya" id="nya21"></a>
@@ -1309,12 +1097,8 @@ msgid "“Paṇḍito, bhikkhave, mahākaccāno; mahāpañño, bhikkhave mahāka
 msgstr "“Mahākaccāna is astute, mendicants, he has great wisdom."
 
 msgctxt "mn133:21.2"
-msgid ""
-"Mañcepi tumhe, bhikkhave, etamatthaṃ paṭipuccheyyātha, ahampi taṃ evamevaṃ "
-"byākareyyaṃ yathā taṃ mahākaccānena byākataṃ."
-msgstr ""
-"If you came to me and asked this question, I would answer it in exactly the "
-"same way as Mahākaccāna."
+msgid "Mañcepi tumhe, bhikkhave, etamatthaṃ paṭipuccheyyātha, ahampi taṃ evamevaṃ byākareyyaṃ yathā taṃ mahākaccānena byākataṃ."
+msgstr "If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna."
 
 msgctxt "mn133:21.3"
 msgid "Eso cevetassa attho. Evañca naṃ dhārethā”ti."

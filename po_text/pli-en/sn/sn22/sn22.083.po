@@ -28,10 +28,12 @@ msgctxt "sn22.83:1.2"
 msgid "Tatra kho āyasmā ānando bhikkhū āmantesi:"
 msgstr "There Ānanda addressed the mendicants:"
 
+#. </p><p class="added">
 msgctxt "sn22.83:1.3"
 msgid "“āvuso bhikkhave”ti."
 msgstr "“Reverends, mendicants!”"
 
+#. </p><p class="added">
 msgctxt "sn22.83:1.4"
 msgid "“Āvuso”ti kho te bhikkhū āyasmato ānandassa paccassosuṃ."
 msgstr "“Reverend,” they replied."
@@ -44,12 +46,8 @@ msgstr "Ānanda said this:"
 #. <a class="sc" id="sc2"></a>
 #. VAR: mantāṇiputto → mantāniputto (bj, pts1, mr) | mantānīputto (s1-3, km)
 msgctxt "sn22.83:2.1"
-msgid ""
-"“Puṇṇo nāma, āvuso, āyasmā mantāṇiputto amhākaṃ navakānaṃ sataṃ bahūpakāro "
-"hoti."
-msgstr ""
-"“Reverends, the venerable named Puṇṇa Mantāniputta was very helpful to me "
-"when I was just ordained."
+msgid "“Puṇṇo nāma, āvuso, āyasmā mantāṇiputto amhākaṃ navakānaṃ sataṃ bahūpakāro hoti."
+msgstr "“Reverends, the venerable named Puṇṇa Mantāniputta was very helpful to me when I was just ordained."
 
 msgctxt "sn22.83:2.2"
 msgid "So amhe iminā ovādena ovadati:"
@@ -58,9 +56,7 @@ msgstr "He gave me this advice:"
 # Take care of the double nested quotes.
 msgctxt "sn22.83:2.3"
 msgid "‘upādāya, āvuso ānanda, asmīti hoti, no anupādāya."
-msgstr ""
-"‘Reverend Ānanda, the notion “I am” occurs because of grasping, not by not "
-"grasping."
+msgstr "‘Reverend Ānanda, the notion “I am” occurs because of grasping, not by not grasping."
 
 msgctxt "sn22.83:2.4"
 msgid "Kiñca upādāya asmīti hoti, no anupādāya?"
@@ -89,14 +85,8 @@ msgstr "and consciousness, not by not grasping."
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn22.83:3.1"
-msgid ""
-"Seyyathāpi, āvuso ānanda, itthī vā puriso vā daharo yuvā maṇḍanakajātiko "
-"ādāse vā parisuddhe pariyodāte acche vā udakapatte sakaṃ mukhanimittaṃ "
-"paccavekkhamāno upādāya passeyya, no anupādāya;"
-msgstr ""
-"Suppose there was a woman or man who was young, youthful, and fond of "
-"adornments, and they check their own reflection in a clean bright mirror or "
-"a clear bowl of water. They’d look because of grasping, not by not grasping."
+msgid "Seyyathāpi, āvuso ānanda, itthī vā puriso vā daharo yuvā maṇḍanakajātiko ādāse vā parisuddhe pariyodāte acche vā udakapatte sakaṃ mukhanimittaṃ paccavekkhamāno upādāya passeyya, no anupādāya;"
+msgstr "Suppose there was a woman or man who was young, youthful, and fond of adornments, and they check their own reflection in a clean bright mirror or a clear bowl of water. They’d look because of grasping, not by not grasping."
 
 msgctxt "sn22.83:3.2"
 msgid "evameva kho, āvuso ānanda, rūpaṃ upādāya asmīti hoti, no anupādāya."
@@ -167,24 +157,16 @@ msgid "nāparaṃ itthattāyāti pajānātīti."
 msgstr "They understand: “… there is no return to any state of existence.”’"
 
 msgctxt "sn22.83:4.12"
-msgid ""
-"Puṇṇo nāma, āvuso, āyasmā mantāṇiputto amhākaṃ navakānaṃ sataṃ bahūpakāro "
-"hoti."
-msgstr ""
-"Reverends, the venerable named Puṇṇa Mantāniputta was very helpful to me "
-"when I was just ordained."
+msgid "Puṇṇo nāma, āvuso, āyasmā mantāṇiputto amhākaṃ navakānaṃ sataṃ bahūpakāro hoti."
+msgstr "Reverends, the venerable named Puṇṇa Mantāniputta was very helpful to me when I was just ordained."
 
 msgctxt "sn22.83:4.13"
 msgid "So amhe iminā ovādena ovadati."
 msgstr "He gave me this advice."
 
 msgctxt "sn22.83:4.14"
-msgid ""
-"Idañca pana me āyasmato puṇṇassa mantāṇiputtassa dhammadesanaṃ sutvā dhammo "
-"abhisamito”ti."
-msgstr ""
-"And now that I’ve heard this teaching from Venerable Puṇṇa Mantāniputta, I’"
-"ve comprehended the teaching.”"
+msgid "Idañca pana me āyasmato puṇṇassa mantāṇiputtassa dhammadesanaṃ sutvā dhammo abhisamito”ti."
+msgstr "And now that I’ve heard this teaching from Venerable Puṇṇa Mantāniputta, I’ve comprehended the teaching.”"
 
 #. </p><p class="endsection">
 msgctxt "sn22.83:4.15"

@@ -23,10 +23,12 @@ msgctxt "an10.84:1.1"
 msgid "Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi:"
 msgstr "There Venerable Mahāmoggallāna addressed the mendicants:"
 
+#. </p><p class="added">
 msgctxt "an10.84:1.2"
 msgid "“āvuso bhikkhave”ti."
 msgstr "“Reverends, mendicants!”"
 
+#. </p><p class="added">
 msgctxt "an10.84:1.3"
 msgid "“Āvuso”ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṃ."
 msgstr "“Reverend,” they replied."
@@ -43,67 +45,39 @@ msgid "“Idhāvuso, bhikkhu aññaṃ byākaroti:"
 msgstr "“Take a mendicant who declares enlightenment:"
 
 msgctxt "an10.84:2.2"
-msgid ""
-"‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti "
-"pajānāmī’ti."
-msgstr ""
-"‘I understand: “Rebirth is ended, the spiritual journey has been completed, "
-"what had to be done has been done, there is no return to any state of "
-"existence.”’"
+msgid "‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānāmī’ti."
+msgstr "‘I understand: “Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.”’"
 
 msgctxt "an10.84:2.3"
-msgid ""
-"Tamenaṃ tathāgato vā tathāgatasāvako vā jhāyī samāpattikusalo "
-"paracittakusalo paracittapariyāyakusalo samanuyuñjati samanuggāhati "
-"samanubhāsati."
-msgstr ""
-"They’re pursued, pressed, and grilled by the Realized One, or by one of his "
-"disciples who has the absorptions, and is skilled in attainments, in the "
-"minds of others, and in the ways of another’s mind."
+msgid "Tamenaṃ tathāgato vā tathāgatasāvako vā jhāyī samāpattikusalo paracittakusalo paracittapariyāyakusalo samanuyuñjati samanuggāhati samanubhāsati."
+msgstr "They’re pursued, pressed, and grilled by the Realized One, or by one of his disciples who has the absorptions, and is skilled in attainments, in the minds of others, and in the ways of another’s mind."
 
 # BB translates “flustered” evidently accepting vijina and the admittedly dubious meaning of vijina. But I can’t see any justification for that. It seems to me that following the unusual term irina we have another unusual term vipina, both of which are more or less synonyms: a wilderness, forest, etc. http://sanskritdictionary.com/?iencoding=iast&q=vipina&lang=sans&action=Search The implication isn’t so much that they get emotionally upset, but that they “get stuck or lose their way”.
 #. VAR: vicinaṃ → vipinaṃ (bj) | vijinaṃ (pts1)
 msgctxt "an10.84:2.4"
-msgid ""
-"So tathāgatena vā tathāgatasāvakena vā jhāyinā samāpattikusalena "
-"paracittakusalena paracittapariyāyakusalena samanuyuñjiyamāno "
-"samanuggāhiyamāno samanubhāsiyamāno irīṇaṃ āpajjati vicinaṃ āpajjati anayaṃ "
-"āpajjati byasanaṃ āpajjati anayabyasanaṃ āpajjati."
-msgstr ""
-"Grilled in this way they get stuck or lose their way. They fall to ruin and "
-"disaster."
+msgid "So tathāgatena vā tathāgatasāvakena vā jhāyinā samāpattikusalena paracittakusalena paracittapariyāyakusalena samanuyuñjiyamāno samanuggāhiyamāno samanubhāsiyamāno irīṇaṃ āpajjati vicinaṃ āpajjati anayaṃ āpajjati byasanaṃ āpajjati anayabyasanaṃ āpajjati."
+msgstr "Grilled in this way they get stuck or lose their way. They fall to ruin and disaster."
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an10.84:3.1"
-msgid ""
-"Tamenaṃ tathāgato vā tathāgatasāvako vā jhāyī samāpattikusalo "
-"paracittakusalo paracittapariyāyakusalo evaṃ cetasā ceto paricca manasi "
-"karoti:"
-msgstr ""
-"The Realized One or one of his disciples comprehends their mind and "
-"investigates:"
+msgid "Tamenaṃ tathāgato vā tathāgatasāvako vā jhāyī samāpattikusalo paracittakusalo paracittapariyāyakusalo evaṃ cetasā ceto paricca manasi karoti:"
+msgstr "The Realized One or one of his disciples comprehends their mind and investigates:"
 
 msgctxt "an10.84:3.2"
 msgid "‘kiṃ nu kho ayamāyasmā aññaṃ byākaroti—"
 msgstr "‘Why does this venerable declare enlightenment, saying:"
 
+#. </p><p class="added">
 # Note the triple-nested quotes!
 msgctxt "an10.84:3.3"
-msgid ""
-"khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti "
-"pajānāmī’ti?"
-msgstr ""
-"“I understand: ‘Rebirth is ended, the spiritual journey has been completed, "
-"what had to be done has been done, there is no return to any state of "
-"existence.’?”’"
+msgid "khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānāmī’ti?"
+msgstr "“I understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’?”’"
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
 msgctxt "an10.84:4.1"
-msgid ""
-"Tamenaṃ tathāgato vā tathāgatasāvako vā jhāyī samāpattikusalo "
-"paracittakusalo paracittapariyāyakusalo evaṃ cetasā ceto paricca pajānāti:"
+msgid "Tamenaṃ tathāgato vā tathāgatasāvako vā jhāyī samāpattikusalo paracittakusalo paracittapariyāyakusalo evaṃ cetasā ceto paricca pajānāti:"
 msgstr "They understand:"
 
 #. </p><p>
@@ -117,12 +91,8 @@ msgid "kodhapariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr "and often lives with a heart full of anger."
 
 msgctxt "an10.84:5.3"
-msgid ""
-"Kodhapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. "
-"(1)"
-msgstr ""
-"But being full of anger means decline in the teaching and training "
-"proclaimed by the Realized One."
+msgid "Kodhapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (1)"
+msgstr "But being full of anger means decline in the teaching and training proclaimed by the Realized One."
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
@@ -135,9 +105,7 @@ msgid "upanāhapariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr ""
 
 msgctxt "an10.84:6.3"
-msgid ""
-"Upanāhapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. "
-"(2)"
+msgid "Upanāhapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (2)"
 msgstr ""
 
 #. </p><p>
@@ -151,9 +119,7 @@ msgid "makkhapariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr ""
 
 msgctxt "an10.84:7.3"
-msgid ""
-"Makkhapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. "
-"(3)"
+msgid "Makkhapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (3)"
 msgstr ""
 
 #. </p><p>
@@ -167,9 +133,7 @@ msgid "paḷāsapariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr ""
 
 msgctxt "an10.84:8.3"
-msgid ""
-"Paḷāsapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. "
-"(4)"
+msgid "Paḷāsapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (4)"
 msgstr ""
 
 #. </p><p>
@@ -183,8 +147,7 @@ msgid "issāpariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr ""
 
 msgctxt "an10.84:9.3"
-msgid ""
-"Issāpariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (5)"
+msgid "Issāpariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (5)"
 msgstr ""
 
 #. </p><p>
@@ -199,9 +162,7 @@ msgid "maccherapariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr ""
 
 msgctxt "an10.84:10.3"
-msgid ""
-"Maccherapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye "
-"parihānametaṃ. (6)"
+msgid "Maccherapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (6)"
 msgstr ""
 
 #. </p><p>
@@ -215,9 +176,7 @@ msgid "sāṭheyyapariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr ""
 
 msgctxt "an10.84:11.3"
-msgid ""
-"Sāṭheyyapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye "
-"parihānametaṃ. (7)"
+msgid "Sāṭheyyapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (7)"
 msgstr ""
 
 #. </p><p>
@@ -231,8 +190,7 @@ msgid "māyāpariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr ""
 
 msgctxt "an10.84:12.3"
-msgid ""
-"Māyāpariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (8)"
+msgid "Māyāpariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (8)"
 msgstr ""
 
 #. </p><p>
@@ -246,49 +204,29 @@ msgid "icchāpariyuṭṭhitena cetasā bahulaṃ viharati."
 msgstr "and often lives with a heart full of desire."
 
 msgctxt "an10.84:13.3"
-msgid ""
-"Icchāpariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. "
-"(9)"
-msgstr ""
-"But being full of desire means decline in the teaching and training "
-"proclaimed by the Realized One."
+msgid "Icchāpariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ. (9)"
+msgstr "But being full of desire means decline in the teaching and training proclaimed by the Realized One."
 
 #. </p><p>
 #. <a class="sc" id="sc14"></a>
 #. VAR: Sati → muṭṭhassati (bj, s1-3, pts1)
 msgctxt "an10.84:14.1"
-msgid ""
-"Sati kho pana ayamāyasmā uttari karaṇīye oramattakena visesādhigamena antarā "
-"vosānaṃ āpanno."
-msgstr ""
-"When there is still more to be done, this venerable stopped half-way after "
-"achieving some insignificant distinction."
+msgid "Sati kho pana ayamāyasmā uttari karaṇīye oramattakena visesādhigamena antarā vosānaṃ āpanno."
+msgstr "When there is still more to be done, this venerable stopped half-way after achieving some insignificant distinction."
 
 msgctxt "an10.84:14.2"
-msgid ""
-"Antarā vosānagamanaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ’"
-". (10)"
-msgstr ""
-"But stopping half-way means decline in the teaching and training proclaimed "
-"by the Realized One.’"
+msgid "Antarā vosānagamanaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ’. (10)"
+msgstr "But stopping half-way means decline in the teaching and training proclaimed by the Realized One.’"
 
 #. </p><p>
 #. <a class="sc" id="sc15"></a>
 msgctxt "an10.84:15.1"
-msgid ""
-"So vatāvuso, bhikkhu ‘ime dasa dhamme appahāya imasmiṃ dhammavinaye vuddhiṃ "
-"virūḷhiṃ vepullaṃ āpajjissatī’ti netaṃ ṭhānaṃ vijjati."
-msgstr ""
-"It’s not possible for a mendicant to achieve growth, improvement, or "
-"maturity in this teaching and training without giving up these ten qualities."
+msgid "So vatāvuso, bhikkhu ‘ime dasa dhamme appahāya imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjissatī’ti netaṃ ṭhānaṃ vijjati."
+msgstr "It’s not possible for a mendicant to achieve growth, improvement, or maturity in this teaching and training without giving up these ten qualities."
 
 msgctxt "an10.84:15.2"
-msgid ""
-"So vatāvuso, bhikkhu ‘ime dasa dhamme pahāya imasmiṃ dhammavinaye vuddhiṃ "
-"virūḷhiṃ vepullaṃ āpajjissatī’ti ṭhānametaṃ vijjatī”ti."
-msgstr ""
-"It is possible for a mendicant to achieve growth, improvement, or maturity "
-"in this teaching and training after giving up these ten qualities.”"
+msgid "So vatāvuso, bhikkhu ‘ime dasa dhamme pahāya imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjissatī’ti ṭhānametaṃ vijjatī”ti."
+msgstr "It is possible for a mendicant to achieve growth, improvement, or maturity in this teaching and training after giving up these ten qualities.”"
 
 #. </p><p class="endsection">
 msgctxt "an10.84:15.3"

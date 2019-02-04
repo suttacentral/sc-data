@@ -29,13 +29,8 @@ msgid "Katame cattāro?"
 msgstr "What four? A person may have:"
 
 msgctxt "an4.6:1.3"
-msgid ""
-"Appassuto sutena anupapanno, appassuto sutena upapanno, bahussuto sutena "
-"anupapanno, bahussuto sutena upapanno."
-msgstr ""
-"~Little learning and not get the point of learning. ~Little learning but get "
-"the point of learning. ~Much learning but not get the point of learning. ~"
-"Much learning and get the point of learning."
+msgid "Appassuto sutena anupapanno, appassuto sutena upapanno, bahussuto sutena anupapanno, bahussuto sutena upapanno."
+msgstr "~Little learning and not get the point of learning. ~Little learning but get the point of learning. ~Much learning but not get the point of learning. ~Much learning and get the point of learning."
 
 msgctxt "an4.6:1.4"
 msgid "Kathañca, bhikkhave, puggalo appassuto hoti sutena anupapanno?"
@@ -47,27 +42,18 @@ msgstr "It’s when a person has learned little of the"
 
 # I discussed these in some detail in A History of Mindfulness. SUTTA=statement: Normally all of these fall within the Suttas, so clearly sutta here has a narrower meaning. In Indic use generally it means “short doctrinal statement, epitome”, and that use is found in Buddhism too, eg the patimokkha is called the sutta. GEYYA=song: The comm explains as mixed prose and vers, hence BB’s trans. May well be correct, but the word can only mean “song”. VEYYAKARANA: the normal meaning of vyakarana is “answer”, and discourses in Q&A format are very common, in fact almost everything longer than a basic “statement” is in this form. BB’s “exposition” is misleading, as an exposition is essentially a long monologue, which is quite rare, and in any case it’s not what vyakarana means. GATHA: Thera-Theri, etc UDANA: possibly includes Dhammapada ITIVUTTAKA: BB has “quotation”, which is literal. But i suspect it actually means “legend”, i.e tales of the past, “so it was said…”. cf. itihāsa JATAKA and ABBHUTADHAMMA are uncontroversial. VEDALLA: BB has Q&A, but there are only a couple of explicit Vedallas, and lots of Q&As. Anyway, vyakarana literally means answer, while vedalla means “vi-dala”, to split apart, i.e to analyse.
 msgctxt "an4.6:1.6"
-msgid ""
-"suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ "
-"vedallaṃ."
-msgstr ""
-"statements, songs, discussions, verses, inspired exclamations, legends, "
-"stories of past lives, amazing stories, and classifications."
+msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ."
+msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications."
 
 #. VAR: dhammamaññāya → na dhammamaññāya (bj, pts1, mr)
 #. VAR: dhammānudhammappaṭipanno → na dhammānudhammapaṭipanno (bj)
 msgctxt "an4.6:1.7"
-msgid ""
-"So tassa appakassa sutassa na atthamaññāya dhammamaññāya "
-"dhammānudhammappaṭipanno hoti."
-msgstr ""
-"And with the little they’ve learned, they understand neither the meaning nor "
-"the text, nor do they practice in line with the teaching."
+msgid "So tassa appakassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti."
+msgstr "And with the little they’ve learned, they understand neither the meaning nor the text, nor do they practice in line with the teaching."
 
 msgctxt "an4.6:1.8"
 msgid "Evaṃ kho, bhikkhave, puggalo appassuto hoti sutena anupapanno."
-msgstr ""
-"That’s how a person has learned little and not got the point of learning."
+msgstr "That’s how a person has learned little and not got the point of learning."
 
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
@@ -80,25 +66,16 @@ msgid "Idha, bhikkhave, ekaccassa puggalassa appakaṃ sutaṃ hoti—"
 msgstr "It’s when a person has learned little of the"
 
 msgctxt "an4.6:2.3"
-msgid ""
-"suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ "
-"vedallaṃ."
-msgstr ""
-"statements, songs, discussions, verses, inspired exclamations, legends, "
-"stories of past lives, amazing stories, and classifications."
+msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ."
+msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications."
 
 msgctxt "an4.6:2.4"
-msgid ""
-"So tassa appakassa sutassa atthamaññāya dhammamaññāya "
-"dhammānudhammappaṭipanno hoti."
-msgstr ""
-"But with the little they’ve learned, they understand the meaning and the "
-"text, and they practice in line with the teaching."
+msgid "So tassa appakassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti."
+msgstr "But with the little they’ve learned, they understand the meaning and the text, and they practice in line with the teaching."
 
 msgctxt "an4.6:2.5"
 msgid "Evaṃ kho, bhikkhave, puggalo appassuto hoti sutena upapanno."
-msgstr ""
-"That’s how a person has learned little but has got the point of learning."
+msgstr "That’s how a person has learned little but has got the point of learning."
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
@@ -111,26 +88,17 @@ msgid "Idha, bhikkhave, ekaccassa puggalassa bahukaṃ sutaṃ hoti—"
 msgstr "It’s when a person has learned much of the"
 
 msgctxt "an4.6:3.3"
-msgid ""
-"suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ "
-"vedallaṃ."
-msgstr ""
-"statements, songs, discussions, verses, inspired exclamations, legends, "
-"stories of past lives, amazing stories, and classifications."
+msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ."
+msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications."
 
 #. VAR: dhammamaññāya → na dhammamaññāya (bj, pts1)
 msgctxt "an4.6:3.4"
-msgid ""
-"So tassa bahukassa sutassa na atthamaññāya dhammamaññāya "
-"dhammānudhammappaṭipanno hoti."
-msgstr ""
-"But even though they’ve learned much, they understand neither the meaning "
-"nor the text, nor do they practice in line with the teaching."
+msgid "So tassa bahukassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti."
+msgstr "But even though they’ve learned much, they understand neither the meaning nor the text, nor do they practice in line with the teaching."
 
 msgctxt "an4.6:3.5"
 msgid "Evaṃ kho, bhikkhave, puggalo bahussuto hoti sutena anupapanno."
-msgstr ""
-"That’s how a person has learned much but hasn't got the point of learning."
+msgstr "That’s how a person has learned much but hasn't got the point of learning."
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
@@ -143,20 +111,12 @@ msgid "Idha, bhikkhave, ekaccassa puggalassa bahukaṃ sutaṃ hoti—"
 msgstr "It’s when a person has learned much of the"
 
 msgctxt "an4.6:4.3"
-msgid ""
-"suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ "
-"vedallaṃ."
-msgstr ""
-"statements, songs, discussions, verses, inspired exclamations, legends, "
-"stories of past lives, amazing stories, and classifications."
+msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ."
+msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications."
 
 msgctxt "an4.6:4.4"
-msgid ""
-"So tassa bahukassa sutassa atthamaññāya dhammamaññāya "
-"dhammānudhammappaṭipanno hoti."
-msgstr ""
-"And with the large amount they’ve learned, they understand the meaning and "
-"the text, and they practice in line with the teaching."
+msgid "So tassa bahukassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti."
+msgstr "And with the large amount they’ve learned, they understand the meaning and the text, and they practice in line with the teaching."
 
 msgctxt "an4.6:4.5"
 msgid "Evaṃ kho, bhikkhave, puggalo bahussuto hoti sutena upapanno."

@@ -28,20 +28,19 @@ msgstr "So I have heard."
 
 #. </span>
 msgctxt "sn17.1:1.2"
-msgid ""
-"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr ""
-"At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, "
-"Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
 
 msgctxt "sn17.1:1.3"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
+#. </p><p class="added">
 msgctxt "sn17.1:1.4"
 msgid "“bhikkhavo”ti."
 msgstr "“Mendicants!”"
 
+#. </p><p class="added">
 msgctxt "sn17.1:1.5"
 msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Venerable sir,” they replied."
@@ -50,28 +49,21 @@ msgctxt "sn17.1:1.6"
 msgid "Bhagavā etadavoca:"
 msgstr "The Buddha said this:"
 
+#. </p><p class="added">
 # BB has dreadful, bitter and vile for daruna, katuka, and pharusa. But the three words are in meaning and metaphor similar in Pali and completely unrelated in English. The underlying sense is not of “causing fear” although they certainly do that. It is of “hard (daru=wood), harsh, unyielding, rough”, and more metaphorically, “vicious, violent, brutal”. In other words, they are qualities of the damage things can do, not of the emotions they can arouse.
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn17.1:2.1"
-msgid ""
-"“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa "
-"yogakkhemassa adhigamāya."
-msgstr ""
-"“Possessions, honor, and popularity are brutal, bitter, and harsh. They’re "
-"an obstacle to reaching the supreme sanctuary."
+msgid "“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya."
+msgstr "“Possessions, honor, and popularity are brutal, bitter, and harsh. They’re an obstacle to reaching the supreme sanctuary."
 
 msgctxt "sn17.1:2.2"
 msgid "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:"
 msgstr "So you should train like this:"
 
 msgctxt "sn17.1:2.3"
-msgid ""
-"‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno "
-"lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti."
-msgstr ""
-"‘We will give up arisen possessions, honor, and popularity, and we won’t let "
-"them occupy our minds.’"
+msgid "‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti."
+msgstr "‘We will give up arisen possessions, honor, and popularity, and we won’t let them occupy our minds.’"
 
 msgctxt "sn17.1:2.4"
 msgid "Evañhi vo, bhikkhave, sikkhitabban”ti."

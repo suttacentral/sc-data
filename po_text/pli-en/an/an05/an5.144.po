@@ -27,10 +27,12 @@ msgctxt "an5.144:1.2"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
+#. </p><p class="added">
 msgctxt "an5.144:1.3"
 msgid "“bhikkhavo”ti."
 msgstr "“Mendicants!”"
 
+#. </p><p class="added">
 msgctxt "an5.144:1.4"
 msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Venerable sir,” they replied."
@@ -42,11 +44,8 @@ msgstr "The Buddha said this:"
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an5.144:2.1"
-msgid ""
-"“Sādhu, bhikkhave, bhikkhu kālena kālaṃ appaṭikūle paṭikūlasaññī vihareyya."
-msgstr ""
-"“Mendicants, a mendicant would do well to meditate from time to time "
-"perceiving the following:"
+msgid "“Sādhu, bhikkhave, bhikkhu kālena kālaṃ appaṭikūle paṭikūlasaññī vihareyya."
+msgstr "“Mendicants, a mendicant would do well to meditate from time to time perceiving the following:"
 
 #. </p><ol><li>
 #. VAR: appaṭikūle paṭikūlasaññī → appaṭikkūle paṭikkūlasaññī (bj, s1-3, km, pts1)
@@ -56,155 +55,98 @@ msgstr "the repulsive in the unrepulsive,"
 
 #. </li><li>
 msgctxt "an5.144:2.3"
-msgid ""
-"Sādhu, bhikkhave, bhikkhu kālena kālaṃ paṭikūle appaṭikūlasaññī vihareyya."
+msgid "Sādhu, bhikkhave, bhikkhu kālena kālaṃ paṭikūle appaṭikūlasaññī vihareyya."
 msgstr "the unrepulsive in the repulsive,"
 
 #. </li><li>
 msgctxt "an5.144:2.4"
-msgid ""
-"Sādhu, bhikkhave, bhikkhu kālena kālaṃ appaṭikūle ca paṭikūle ca "
-"paṭikūlasaññī vihareyya."
+msgid "Sādhu, bhikkhave, bhikkhu kālena kālaṃ appaṭikūle ca paṭikūle ca paṭikūlasaññī vihareyya."
 msgstr "the repulsive in both the unrepulsive and the repulsive, and"
 
 #. </li><li>
 msgctxt "an5.144:2.5"
-msgid ""
-"Sādhu, bhikkhave, bhikkhu kālena kālaṃ paṭikūle ca appaṭikūle ca "
-"appaṭikūlasaññī vihareyya."
+msgid "Sādhu, bhikkhave, bhikkhu kālena kālaṃ paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyya."
 msgstr "the unrepulsive in both the repulsive and the unrepulsive."
 
 #. </li><li>
 msgctxt "an5.144:2.6"
-msgid ""
-"Sādhu, bhikkhave, bhikkhu kālena kālaṃ paṭikūlañca appaṭikūlañca tadubhayaṃ "
-"abhinivajjetvā upekkhako vihareyya sato sampajāno."
-msgstr ""
-"A mendicant would do well to meditate from time to time staying equanimous, "
-"mindful and aware, rejecting both the repulsive and the unrepulsive."
+msgid "Sādhu, bhikkhave, bhikkhu kālena kālaṃ paṭikūlañca appaṭikūlañca tadubhayaṃ abhinivajjetvā upekkhako vihareyya sato sampajāno."
+msgstr "A mendicant would do well to meditate from time to time staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive."
 
 #. </li></ol><p>
 #. <a class="sc" id="sc3"></a>
 #. VAR: Kiñca → kathañca (pts1, mr)
 msgctxt "an5.144:3.1"
-msgid ""
-"Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca appaṭikūle paṭikūlasaññī "
-"vihareyya?"
-msgstr ""
-"For what reason should a mendicant meditate perceiving the repulsive in the "
-"unrepulsive?"
+msgid "Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca appaṭikūle paṭikūlasaññī vihareyya?"
+msgstr "For what reason should a mendicant meditate perceiving the repulsive in the unrepulsive?"
 
 msgctxt "an5.144:3.2"
 msgid "‘Mā me rajanīyesu dhammesu rāgo udapādī’ti—"
 msgstr "‘May greed not arise in me for things that arouse greed.’"
 
 msgctxt "an5.144:3.3"
-msgid ""
-"idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca appaṭikūle paṭikūlasaññī "
-"vihareyya."
-msgstr ""
-"A mendicant should meditate perceiving the repulsive in the unrepulsive for "
-"this reason."
+msgid "idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca appaṭikūle paṭikūlasaññī vihareyya."
+msgstr "A mendicant should meditate perceiving the repulsive in the unrepulsive for this reason."
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
 msgctxt "an5.144:4.1"
-msgid ""
-"Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūle appaṭikūlasaññī "
-"vihareyya?"
-msgstr ""
-"For what reason should a mendicant meditate perceiving the unrepulsive in "
-"the repulsive?"
+msgid "Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūle appaṭikūlasaññī vihareyya?"
+msgstr "For what reason should a mendicant meditate perceiving the unrepulsive in the repulsive?"
 
 msgctxt "an5.144:4.2"
 msgid "‘Mā me dosanīyesu dhammesu doso udapādī’ti—"
 msgstr "‘May hate not arise in me for things that provoke hate.’ …"
 
 msgctxt "an5.144:4.3"
-msgid ""
-"idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūle appaṭikūlasaññī "
-"vihareyya."
+msgid "idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūle appaṭikūlasaññī vihareyya."
 msgstr ""
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.170"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an5.144:5.1"
-msgid ""
-"Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca appaṭikūle ca paṭikūle ca "
-"paṭikūlasaññī vihareyya?"
-msgstr ""
-"For what reason should a mendicant meditate perceiving the repulsive in both "
-"the unrepulsive and the repulsive?"
+msgid "Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca appaṭikūle ca paṭikūle ca paṭikūlasaññī vihareyya?"
+msgstr "For what reason should a mendicant meditate perceiving the repulsive in both the unrepulsive and the repulsive?"
 
 msgctxt "an5.144:5.2"
-msgid ""
-"‘Mā me rajanīyesu dhammesu rāgo udapādi, mā me dosanīyesu dhammesu doso "
-"udapādī’ti—"
-msgstr ""
-"‘May greed not arise in me for things that arouse greed. May hate not arise "
-"in me for things that provoke hate.’ …"
+msgid "‘Mā me rajanīyesu dhammesu rāgo udapādi, mā me dosanīyesu dhammesu doso udapādī’ti—"
+msgstr "‘May greed not arise in me for things that arouse greed. May hate not arise in me for things that provoke hate.’ …"
 
 msgctxt "an5.144:5.3"
-msgid ""
-"idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca appaṭikūle ca paṭikūle ca "
-"paṭikūlasaññī vihareyya."
+msgid "idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca appaṭikūle ca paṭikūle ca paṭikūlasaññī vihareyya."
 msgstr ""
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an5.144:6.1"
-msgid ""
-"Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūle ca appaṭikūle ca "
-"appaṭikūlasaññī vihareyya?"
-msgstr ""
-"For what reason should a mendicant meditate perceiving the unrepulsive in "
-"both the repulsive and the unrepulsive?"
+msgid "Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyya?"
+msgstr "For what reason should a mendicant meditate perceiving the unrepulsive in both the repulsive and the unrepulsive?"
 
 msgctxt "an5.144:6.2"
-msgid ""
-"‘Mā me dosanīyesu dhammesu doso udapādi, mā me rajanīyesu dhammesu rāgo "
-"udapādī’ti—"
-msgstr ""
-"‘May hate not arise in me for things that provoke hate. May greed not arise "
-"in me for things that arouse greed.’ …"
+msgid "‘Mā me dosanīyesu dhammesu doso udapādi, mā me rajanīyesu dhammesu rāgo udapādī’ti—"
+msgstr "‘May hate not arise in me for things that provoke hate. May greed not arise in me for things that arouse greed.’ …"
 
 msgctxt "an5.144:6.3"
-msgid ""
-"idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūle ca appaṭikūle ca "
-"appaṭikūlasaññī vihareyya."
+msgid "idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyya."
 msgstr ""
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
 msgctxt "an5.144:7.1"
-msgid ""
-"Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūlañca appaṭikūlañca "
-"tadubhayaṃ abhinivajjetvā upekkhako vihareyya?"
-msgstr ""
-"For what reason should a mendicant meditate staying equanimous, mindful and "
-"aware, rejecting both the repulsive and the unrepulsive?"
+msgid "Kiñca, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūlañca appaṭikūlañca tadubhayaṃ abhinivajjetvā upekkhako vihareyya?"
+msgstr "For what reason should a mendicant meditate staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive?"
 
 # BB’s “anywhere” for katthaci relies on the over-literal comm. gloss kisminci padese. It’s better to see this as locative of reference, “in any respect”, hence being a duplication.
 #. VAR: kvacani → kvacini (bj, s1-3, pts1)
 #. VAR: kiñcanaṃ → kiñcana (bj, pts1) | kiñcina (s1-3)
 msgctxt "an5.144:7.2"
-msgid ""
-"‘Sato sampajāno mā me kvacani katthaci kiñcanaṃ rajanīyesu dhammesu rāgo "
-"udapādi, mā me kvacani katthaci kiñcanaṃ dosanīyesu dhammesu doso udapādi, "
-"mā me kvacani katthaci kiñcanaṃ mohanīyesu dhammesu moho udapādī’ti—"
-msgstr ""
-"‘May no greed for things that arouse greed, hate for things that provoke "
-"hate, or delusion for things that promote delusion arise in me in any way at "
-"all.’"
+msgid "‘Sato sampajāno mā me kvacani katthaci kiñcanaṃ rajanīyesu dhammesu rāgo udapādi, mā me kvacani katthaci kiñcanaṃ dosanīyesu dhammesu doso udapādi, mā me kvacani katthaci kiñcanaṃ mohanīyesu dhammesu moho udapādī’ti—"
+msgstr "‘May no greed for things that arouse greed, hate for things that provoke hate, or delusion for things that promote delusion arise in me in any way at all.’"
 
 msgctxt "an5.144:7.3"
-msgid ""
-"idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūlañca appaṭikūlañca "
-"tadubhayaṃ abhinivajjetvā upekkhako vihareyya sato sampajāno”ti."
-msgstr ""
-"For this reason a mendicant should meditate staying equanimous, mindful and "
-"aware, rejecting both the repulsive and the unrepulsive.”"
+msgid "idaṃ kho, bhikkhave, bhikkhu atthavasaṃ paṭicca paṭikūlañca appaṭikūlañca tadubhayaṃ abhinivajjetvā upekkhako vihareyya sato sampajāno”ti."
+msgstr "For this reason a mendicant should meditate staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive.”"
 
 #. </p><p class="endsection">
 msgctxt "an5.144:7.4"

@@ -27,10 +27,12 @@ msgctxt "sn14.13:1.2"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
+#. </p><p class="added">
 msgctxt "sn14.13:1.3"
 msgid "“bhikkhavo”ti."
 msgstr "“Mendicants!”"
 
+#. </p><p class="added">
 msgctxt "sn14.13:1.4"
 msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Venerable sir,” they replied."
@@ -42,11 +44,8 @@ msgstr "The Buddha said this:"
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn14.13:2.1"
-msgid ""
-"“Dhātuṃ, bhikkhave, paṭicca uppajjati saññā, uppajjati diṭṭhi, uppajjati "
-"vitakko”ti."
-msgstr ""
-"“Mendicants, an element gives rise to a perception, a view, and a thought.”"
+msgid "“Dhātuṃ, bhikkhave, paṭicca uppajjati saññā, uppajjati diṭṭhi, uppajjati vitakko”ti."
+msgstr "“Mendicants, an element gives rise to a perception, a view, and a thought.”"
 
 # Normally I follow BB in adopting naming variations, but the support for saddha kaccayana seems very slim. In addition to being used in Thai and Burmese editions, Kaccana is also found in the comm.
 #. VAR: Evaṃ vutte, āyasmā kaccāno → saddho kaccāyano (pts1-2) | saddho kaccāno (mr)
@@ -54,18 +53,16 @@ msgctxt "sn14.13:2.2"
 msgid "Evaṃ vutte, āyasmā kaccāno bhagavantaṃ etadavoca:"
 msgstr "When he said this, Venerable Kaccāna said to the Buddha:"
 
+#. </p><p class="added">
 msgctxt "sn14.13:2.3"
 msgid "“yāyaṃ, bhante, diṭṭhi:"
 msgstr "“Sir, regarding"
 
 msgctxt "sn14.13:2.4"
-msgid ""
-"‘asammāsambuddhesu sammāsambuddhā’ti, ayaṃ nu kho, bhante, diṭṭhi kiṃ "
-"paṭicca paññāyatī”ti?"
-msgstr ""
-"those who are not fully awakened Buddhas, there is a view that they are in "
-"fact fully awakened Buddhas. Due to what does this view appear?”"
+msgid "‘asammāsambuddhesu sammāsambuddhā’ti, ayaṃ nu kho, bhante, diṭṭhi kiṃ paṭicca paññāyatī”ti?"
+msgstr "those who are not fully awakened Buddhas, there is a view that they are in fact fully awakened Buddhas. Due to what does this view appear?”"
 
+#. </p><p class="added">
 # This calls into question BB’s rendering of pannayati throughout as “is discerned”. While the text doesn’t explicitly says this, the clear implication is that the the former view depends on the element of ignorance. But it is very strange to say something “is discerned because of the element of ignorance”.
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.154"></a>
@@ -76,20 +73,12 @@ msgstr "“It’s a mighty thing, Kaccāna, the element of ignorance."
 
 # I find it very odd to see puggala in this list.
 msgctxt "sn14.13:3.2"
-msgid ""
-"Hīnaṃ, kaccāna, dhātuṃ paṭicca uppajjati hīnā saññā, hīnā diṭṭhi, hīno "
-"vitakko, hīnā cetanā, hīnā patthanā, hīno paṇidhi, hīno puggalo, hīnā vācā;"
-msgstr ""
-"An inferior element gives rise to inferior perceptions, inferior views, "
-"inferior thoughts, inferior intentions, inferior aims, inferior wishes, an "
-"inferior person, and inferior speech."
+msgid "Hīnaṃ, kaccāna, dhātuṃ paṭicca uppajjati hīnā saññā, hīnā diṭṭhi, hīno vitakko, hīnā cetanā, hīnā patthanā, hīno paṇidhi, hīno puggalo, hīnā vācā;"
+msgstr "An inferior element gives rise to inferior perceptions, inferior views, inferior thoughts, inferior intentions, inferior aims, inferior wishes, an inferior person, and inferior speech."
 
 msgctxt "sn14.13:3.3"
-msgid ""
-"hīnaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti;"
-msgstr ""
-"One explains, teaches, asserts, establishes, clarifies, analyzes, and "
-"reveals the inferior."
+msgid "hīnaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti;"
+msgstr "One explains, teaches, asserts, establishes, clarifies, analyzes, and reveals the inferior."
 
 msgctxt "sn14.13:3.4"
 msgid "hīnā tassa upapattīti vadāmi."
@@ -98,22 +87,12 @@ msgstr "I say that their rebirth is inferior."
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
 msgctxt "sn14.13:4.1"
-msgid ""
-"Majjhimaṃ, kaccāna, dhātuṃ paṭicca uppajjati majjhimā saññā, majjhimā "
-"diṭṭhi, majjhimo vitakko, majjhimā cetanā, majjhimā patthanā, majjhimo "
-"paṇidhi, majjhimo puggalo, majjhimā vācā;"
-msgstr ""
-"A middling element gives rise to middling perceptions, middling views, "
-"middling thoughts, middling intentions, middling aims, middling wishes, a "
-"middling person, and middling speech."
+msgid "Majjhimaṃ, kaccāna, dhātuṃ paṭicca uppajjati majjhimā saññā, majjhimā diṭṭhi, majjhimo vitakko, majjhimā cetanā, majjhimā patthanā, majjhimo paṇidhi, majjhimo puggalo, majjhimā vācā;"
+msgstr "A middling element gives rise to middling perceptions, middling views, middling thoughts, middling intentions, middling aims, middling wishes, a middling person, and middling speech."
 
 msgctxt "sn14.13:4.2"
-msgid ""
-"majjhimaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati "
-"uttānīkaroti;"
-msgstr ""
-"One explains, teaches, asserts, establishes, clarifies, analyzes, and "
-"reveals the middling."
+msgid "majjhimaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti;"
+msgstr "One explains, teaches, asserts, establishes, clarifies, analyzes, and reveals the middling."
 
 msgctxt "sn14.13:4.3"
 msgid "majjhimā tassa upapattīti vadāmi."
@@ -122,22 +101,12 @@ msgstr "I say that their rebirth is middling."
 #. </p><p>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn14.13:5.1"
-msgid ""
-"Paṇītaṃ, kaccāna, dhātuṃ paṭicca uppajjati paṇītā saññā, paṇītā diṭṭhi, "
-"paṇīto vitakko, paṇītā cetanā, paṇītā patthanā, paṇīto paṇidhi, paṇīto "
-"puggalo, paṇītā vācā;"
-msgstr ""
-"A superior element gives rise to superior perceptions, superior views, "
-"superior thoughts, superior intentions, superior aims, superior wishes, a "
-"superior person, and superior speech."
+msgid "Paṇītaṃ, kaccāna, dhātuṃ paṭicca uppajjati paṇītā saññā, paṇītā diṭṭhi, paṇīto vitakko, paṇītā cetanā, paṇītā patthanā, paṇīto paṇidhi, paṇīto puggalo, paṇītā vācā;"
+msgstr "A superior element gives rise to superior perceptions, superior views, superior thoughts, superior intentions, superior aims, superior wishes, a superior person, and superior speech."
 
 msgctxt "sn14.13:5.2"
-msgid ""
-"paṇītaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati "
-"uttānīkaroti;"
-msgstr ""
-"One explains, teaches, asserts, establishes, clarifies, analyzes, and "
-"reveals the superior."
+msgid "paṇītaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti;"
+msgstr "One explains, teaches, asserts, establishes, clarifies, analyzes, and reveals the superior."
 
 msgctxt "sn14.13:5.3"
 msgid "paṇītā tassa upapattīti vadāmī”ti."

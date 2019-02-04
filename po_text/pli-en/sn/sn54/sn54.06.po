@@ -28,6 +28,7 @@ msgctxt "sn54.6:1.2"
 msgid "Tatra kho bhagavā … pe … etadavoca:"
 msgstr "There the Buddha … said:"
 
+#. </p><p class="added">
 msgctxt "sn54.6:1.3"
 msgid "“bhāvetha no tumhe bhikkhave, ānāpānassatin”ti?"
 msgstr "“Mendicants, do you develop mindfulness of breathing?”"
@@ -36,25 +37,22 @@ msgctxt "sn54.6:1.4"
 msgid "Evaṃ vutte, āyasmā ariṭṭho bhagavantaṃ etadavoca:"
 msgstr "When he said this, Venerable Ariṭṭha said to him:"
 
+#. </p><p class="added">
 msgctxt "sn54.6:1.5"
 msgid "“ahaṃ kho, bhante, bhāvemi ānāpānassatin”ti."
 msgstr "“Sir, I develop mindfulness of breathing.”"
 
+#. </p><p class="added">
 msgctxt "sn54.6:1.6"
 msgid "“Yathā kathaṃ pana tvaṃ, ariṭṭha, bhāvesi ānāpānassatin”ti?"
 msgstr "“But mendicant, how do you develop it?”"
 
+#. </p><p class="added">
 # Compare a similar construction at SN 21.10.
 #. VAR: ajjhattabahiddhā → ajjhattaṃ bahiddhā (s1-3, km, pts1, mr)
 msgctxt "sn54.6:1.7"
-msgid ""
-"“Atītesu me, bhante, kāmesu kāmacchando pahīno, anāgatesu me kāmesu "
-"kāmacchando vigato, ajjhattabahiddhā ca me dhammesu paṭighasaññā "
-"suppaṭivinītā."
-msgstr ""
-"“Sir, I’ve given up desire for sensual pleasures of the past. I’m rid of "
-"desire for sensual pleasures of the future. And I have eliminated perception "
-"of repulsion regarding phenomena internally and externally."
+msgid "“Atītesu me, bhante, kāmesu kāmacchando pahīno, anāgatesu me kāmesu kāmacchando vigato, ajjhattabahiddhā ca me dhammesu paṭighasaññā suppaṭivinītā."
+msgstr "“Sir, I’ve given up desire for sensual pleasures of the past. I’m rid of desire for sensual pleasures of the future. And I have eliminated perception of repulsion regarding phenomena internally and externally."
 
 # BB follows sinala reading which gives the verb in present tense. I take the future tense as future evidence of his partial understanding of the practice.
 #. VAR: So → sohaṃ (?)
@@ -80,6 +78,7 @@ msgctxt "sn54.6:2.3"
 msgid "taṃ suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti."
 msgstr "listen and pay close attention, I will speak.”"
 
+#. </p><p class="added">
 msgctxt "sn54.6:2.4"
 msgid "“Evaṃ, bhante”ti kho āyasmā ariṭṭho bhagavato paccassosi."
 msgstr "“Yes, sir,” Ariṭṭha replied."
@@ -95,14 +94,8 @@ msgid "“Kathañca, ariṭṭha, ānāpānassati vitthārena paripuṇṇā hot
 msgstr "“And how is mindfulness of breathing fulfilled in detail?"
 
 msgctxt "sn54.6:3.2"
-msgid ""
-"Idha, ariṭṭha, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā "
-"nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ "
-"upaṭṭhapetvā."
-msgstr ""
-"It’s when a mendicant has gone to a wilderness, or to the root of a tree, or "
-"to an empty hut. They sit down cross-legged, with their body straight, and "
-"establish mindfulness right there."
+msgid "Idha, ariṭṭha, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā."
+msgstr "It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut. They sit down cross-legged, with their body straight, and establish mindfulness right there."
 
 msgctxt "sn54.6:3.3"
 msgid "So satova assasati, satova passasati."
@@ -110,17 +103,11 @@ msgstr "Just mindful, they breathe in. Mindful, they breathe out."
 
 msgctxt "sn54.6:3.4"
 msgid "Dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti … pe …"
-msgstr ""
-"When breathing in heavily they know: ‘I’m breathing in heavily.’ When "
-"breathing out heavily they know: ‘I’m breathing out heavily.’ …"
+msgstr "When breathing in heavily they know: ‘I’m breathing in heavily.’ When breathing out heavily they know: ‘I’m breathing out heavily.’ …"
 
 msgctxt "sn54.6:3.5"
-msgid ""
-"‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī "
-"passasissāmī’ti sikkhati."
-msgstr ""
-"They practice like this: ‘I’ll breathe in observing letting go.’ They "
-"practice like this: ‘I’ll breathe out observing letting go.’"
+msgid "‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati."
+msgstr "They practice like this: ‘I’ll breathe in observing letting go.’ They practice like this: ‘I’ll breathe out observing letting go.’"
 
 msgctxt "sn54.6:3.6"
 msgid "Evaṃ kho, ariṭṭha, ānāpānassati vitthārena paripuṇṇā hotī”ti."

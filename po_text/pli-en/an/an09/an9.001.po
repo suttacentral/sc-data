@@ -23,17 +23,16 @@ msgstr "1. Awakening"
 #. <a class="pts-vp-pli" id="pts-vp-pli4.351"></a>
 #. <a class="sc" id="sc1"></a>
 #. <span class="evam">
+#. <span class="evam">
 msgctxt "an9.1:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
 #. </span>
+#. </span>
 msgctxt "an9.1:1.2"
-msgid ""
-"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr ""
-"At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, "
-"Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
 
 msgctxt "an9.1:1.3"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
@@ -47,21 +46,13 @@ msgstr "“Mendicants, if wanderers who follow other paths were to ask:"
 
 #. VAR: sambodhipakkhikānaṃ → sambodhipakkhiyānaṃ (bj) | sambodhapakkhikānaṃ (s1-3, pts1)
 msgctxt "an9.1:2.2"
-msgid ""
-"‘sambodhipakkhikānaṃ, āvuso, dhammānaṃ kā upanisā bhāvanāyā’ti, evaṃ puṭṭhā "
-"tumhe, bhikkhave, tesaṃ aññatitthiyānaṃ paribbājakānaṃ kinti "
-"byākareyyāthā”ti?"
-msgstr ""
-"‘Reverends, what is the vital condition for the development of the awakening "
-"factors?’ How would you answer them?”"
+msgid "‘sambodhipakkhikānaṃ, āvuso, dhammānaṃ kā upanisā bhāvanāyā’ti, evaṃ puṭṭhā tumhe, bhikkhave, tesaṃ aññatitthiyānaṃ paribbājakānaṃ kinti byākareyyāthā”ti?"
+msgstr "‘Reverends, what is the vital condition for the development of the awakening factors?’ How would you answer them?”"
 
+#. </p><p class="added">
 msgctxt "an9.1:2.3"
-msgid ""
-"“Bhagavaṃmūlakā no, bhante, dhammā … pe … bhagavato sutvā bhikkhū "
-"dhāressantī”ti."
-msgstr ""
-"“Our teachings are rooted in the Buddha. … The mendicants will listen and "
-"remember it.”"
+msgid "“Bhagavaṃmūlakā no, bhante, dhammā … pe … bhagavato sutvā bhikkhū dhāressantī”ti."
+msgstr "“Our teachings are rooted in the Buddha. … The mendicants will listen and remember it.”"
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
@@ -69,6 +60,7 @@ msgctxt "an9.1:3.1"
 msgid "“Tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti."
 msgstr "“Well then, mendicants, listen and pay close attention, I will speak.”"
 
+#. </p><p class="added">
 msgctxt "an9.1:3.2"
 msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Yes, sir,” they replied."
@@ -84,12 +76,8 @@ msgid "“Sace, bhikkhave, aññatitthiyā paribbājakā evaṃ puccheyyuṃ:"
 msgstr "“Mendicants, if wanderers who follow other paths were to ask:"
 
 msgctxt "an9.1:4.2"
-msgid ""
-"‘sambodhipakkhikānaṃ, āvuso, dhammānaṃ kā upanisā bhāvanāyā’ti, evaṃ puṭṭhā "
-"tumhe, bhikkhave, tesaṃ aññatitthiyānaṃ paribbājakānaṃ evaṃ byākareyyātha:"
-msgstr ""
-"‘Reverends, what is the vital condition for the development of the awakening "
-"factors?’ You should answer them:"
+msgid "‘sambodhipakkhikānaṃ, āvuso, dhammānaṃ kā upanisā bhāvanāyā’ti, evaṃ puṭṭhā tumhe, bhikkhave, tesaṃ aññatitthiyānaṃ paribbājakānaṃ evaṃ byākareyyātha:"
+msgstr "‘Reverends, what is the vital condition for the development of the awakening factors?’ You should answer them:"
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli4.352"></a>
@@ -99,183 +87,110 @@ msgid "‘Idhāvuso, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasa
 msgstr "‘It’s when a mendicant has good friends, companions, and associates."
 
 msgctxt "an9.1:5.2"
-msgid ""
-"Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ paṭhamā upanisā bhāvanāya. (1)"
-msgstr ""
-"This is the first vital condition for the development of the awakening "
-"factors."
+msgid "Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ paṭhamā upanisā bhāvanāya. (1)"
+msgstr "This is the first vital condition for the development of the awakening factors."
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an9.1:6.1"
-msgid ""
-"Puna caparaṃ, āvuso, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati "
-"ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati "
-"sikkhāpadesu. (2)"
-msgstr ""
-"Furthermore, a mendicant is ethical, restrained in the monastic code, "
-"conducting themselves well and seeking alms in suitable places. Seeing "
-"danger in the slightest fault, they keep the rules they’ve undertaken."
+msgid "Puna caparaṃ, āvuso, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu. (2)"
+msgstr "Furthermore, a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
 
 msgctxt "an9.1:6.2"
 msgid "Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ dutiyā upanisā bhāvanāya."
-msgstr ""
-"This is the second vital condition for the development of the awakening "
-"factors."
+msgstr "This is the second vital condition for the development of the awakening factors."
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
 msgctxt "an9.1:7.1"
-msgid ""
-"Puna caparaṃ, āvuso, bhikkhu yāyaṃ kathā abhisallekhikā cetovivaraṇasappāyā, "
-"seyyathidaṃ—appicchakathā santuṭṭhikathā pavivekakathā asaṃsaggakathā "
-"vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā "
-"vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī "
-"akasiralābhī."
-msgstr ""
-"Furthermore, a mendicant gets to take part in talk about self-effacement "
-"that helps open the heart, when they want, without trouble or difficulty. "
-"That is, talk about fewness of wishes, contentment, seclusion, aloofness, "
-"arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and "
-"vision of freedom."
+msgid "Puna caparaṃ, āvuso, bhikkhu yāyaṃ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṃ—appicchakathā santuṭṭhikathā pavivekakathā asaṃsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī."
+msgstr "Furthermore, a mendicant gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom."
 
 msgctxt "an9.1:7.2"
-msgid ""
-"Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ tatiyā upanisā bhāvanāya. (3)"
-msgstr ""
-"This is the third vital condition for the development of the awakening "
-"factors."
+msgid "Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ tatiyā upanisā bhāvanāya. (3)"
+msgstr "This is the third vital condition for the development of the awakening factors."
 
 #. </p><p>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an9.1:8.1"
-msgid ""
-"Puna caparaṃ, āvuso, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ "
-"pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo "
-"anikkhittadhuro kusalesu dhammesu."
-msgstr ""
-"Furthermore, a mendicant lives with energy roused up for giving up "
-"unskillful qualities and embracing skillful qualities. They are strong, "
-"staunchly vigorous, not slacking off when it comes to developing skillful "
-"qualities."
+msgid "Puna caparaṃ, āvuso, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
+msgstr "Furthermore, a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities."
 
 msgctxt "an9.1:8.2"
-msgid ""
-"Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ catutthī upanisā bhāvanāya. (4)"
-msgstr ""
-"This is the fourth vital condition for the development of the awakening "
-"factors."
+msgid "Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ catutthī upanisā bhāvanāya. (4)"
+msgstr "This is the fourth vital condition for the development of the awakening factors."
 
 #. </p><p>
 #. <a class="sc" id="sc9"></a>
 msgctxt "an9.1:9.1"
-msgid ""
-"Puna caparaṃ, āvuso, bhikkhu paññavā hoti udayatthagāminiyā paññāya "
-"samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā."
-msgstr ""
-"Furthermore, a mendicant is wise. They have the wisdom of arising and "
-"passing away which is noble, penetrative, and leads to the complete ending "
-"of suffering."
+msgid "Puna caparaṃ, āvuso, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā."
+msgstr "Furthermore, a mendicant is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering."
 
 # Note that both text and BB mark the end of the initial answer here, but there is no “ti” to support this in the text. The sutta is obviously a composite one.
 msgctxt "an9.1:9.2"
 msgid "Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ pañcamī upanisā bhāvanāya’."
-msgstr ""
-"This is the fifth vital condition for the development of the awakening "
-"factors.’"
+msgstr "This is the fifth vital condition for the development of the awakening factors.’"
 
 #. </p><p>
 #. <a class="sc" id="sc10"></a>
 msgctxt "an9.1:10.1"
-msgid ""
-"Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa "
-"kalyāṇasampavaṅkassa—"
+msgid "Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa—"
 msgstr "A mendicant with good friends, companions, and associates can expect to"
 
 msgctxt "an9.1:10.2"
-msgid ""
-"sīlavā bhavissati, pātimokkhasaṃvarasaṃvuto viharissati ācāragocarasampanno "
-"aṇumattesu vajjesu bhayadassāvī, samādāya sikkhissati sikkhāpadesu."
+msgid "sīlavā bhavissati, pātimokkhasaṃvarasaṃvuto viharissati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhissati sikkhāpadesu."
 msgstr "be ethical …"
 
 #. </p><p>
 #. <a class="sc" id="sc11"></a>
 msgctxt "an9.1:11.1"
-msgid ""
-"Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa "
-"kalyāṇasampavaṅkassa—"
+msgid "Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa—"
 msgstr "A mendicant with good friends, companions, and associates can expect to"
 
 msgctxt "an9.1:11.2"
-msgid ""
-"yāyaṃ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṃ—appicchakathā "
-"santuṭṭhikathā pavivekakathā asaṃsaggakathā vīriyārambhakathā sīlakathā "
-"samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā "
-"kathāya nikāmalābhī bhavissati akicchalābhī akasiralābhī."
+msgid "yāyaṃ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṃ—appicchakathā santuṭṭhikathā pavivekakathā asaṃsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī bhavissati akicchalābhī akasiralābhī."
 msgstr "take part in talk about self-effacement that helps open the heart …"
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli4.353"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "an9.1:12.1"
-msgid ""
-"Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa "
-"kalyāṇasampavaṅkassa—"
+msgid "Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa—"
 msgstr "A mendicant with good friends, companions, and associates can expect to"
 
 msgctxt "an9.1:12.2"
-msgid ""
-"āraddhavīriyo viharissati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ "
-"upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
+msgid "āraddhavīriyo viharissati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
 msgstr "live with energy roused up …"
 
 #. </p><p>
 #. <a class="sc" id="sc13"></a>
 msgctxt "an9.1:13.1"
-msgid ""
-"Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa "
-"kalyāṇasampavaṅkassa—"
+msgid "Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa—"
 msgstr "A mendicant with good friends, companions, and associates can expect to"
 
 msgctxt "an9.1:13.2"
-msgid ""
-"paññavā bhavissati udayatthagāminiyā paññāya samannāgato ariyāya "
-"nibbedhikāya sammā dukkhakkhayagāminiyā. (5)"
+msgid "paññavā bhavissati udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. (5)"
 msgstr "be wise …"
 
 #. </p><p>
 #. <a class="sc" id="sc14"></a>
 #. VAR: uttari → uttariṃ (bj, s1-3, pts1)
 msgctxt "an9.1:14.1"
-msgid ""
-"Tena ca pana, bhikkhave, bhikkhunā imesu pañcasu dhammesu patiṭṭhāya cattāro "
-"dhammā uttari bhāvetabbā—"
-msgstr ""
-"A mendicant grounded on these five things should develop four further things."
+msgid "Tena ca pana, bhikkhave, bhikkhunā imesu pañcasu dhammesu patiṭṭhāya cattāro dhammā uttari bhāvetabbā—"
+msgstr "A mendicant grounded on these five things should develop four further things."
 
 #. VAR: ānāpānassati → ānāpānasati (bj, pts1)
 msgctxt "an9.1:14.2"
-msgid ""
-"asubhā bhāvetabbā rāgassa pahānāya, mettā bhāvetabbā byāpādassa pahānāya, "
-"ānāpānassati bhāvetabbā vitakkupacchedāya, aniccasaññā bhāvetabbā "
-"asmimānasamugghātāya."
-msgstr ""
-"They should develop the perception of ugliness to give up greed, love to "
-"give up hate, mindfulness of breathing to cut off thinking, and perception "
-"of impermanence to uproot the conceit ‘I am’."
+msgid "asubhā bhāvetabbā rāgassa pahānāya, mettā bhāvetabbā byāpādassa pahānāya, ānāpānassati bhāvetabbā vitakkupacchedāya, aniccasaññā bhāvetabbā asmimānasamugghātāya."
+msgstr "They should develop the perception of ugliness to give up greed, love to give up hate, mindfulness of breathing to cut off thinking, and perception of impermanence to uproot the conceit ‘I am’."
 
 msgctxt "an9.1:14.3"
 msgid "Aniccasaññino, bhikkhave, anattasaññā saṇṭhāti."
-msgstr ""
-"When you perceive impermanence, the perception of not-self becomes "
-"stabilized."
+msgstr "When you perceive impermanence, the perception of not-self becomes stabilized."
 
 msgctxt "an9.1:14.4"
-msgid ""
-"Anattasaññī asmimānasamugghātaṃ pāpuṇāti diṭṭheva dhamme nibbānan”ti. (6–9.)"
-msgstr ""
-"Perceiving not-self, you uproot the conceit ‘I am’ and attain extinguishment "
-"in this very life.”"
+msgid "Anattasaññī asmimānasamugghātaṃ pāpuṇāti diṭṭheva dhamme nibbānan”ti. (6–9.)"
+msgstr "Perceiving not-self, you uproot the conceit ‘I am’ and attain extinguishment in this very life.”"
 
 #. </p><p class="endsection">
 msgctxt "an9.1:14.5"

@@ -24,6 +24,7 @@ msgctxt "sn22.33:1.1"
 msgid "Sāvatthinidānaṃ."
 msgstr "At Sāvatthī."
 
+#. </p><p class="added">
 msgctxt "sn22.33:1.2"
 msgid "“Yaṃ, bhikkhave, na tumhākaṃ, taṃ pajahatha."
 msgstr "“Mendicants, give up what’s not yours."
@@ -75,12 +76,8 @@ msgstr "Giving it up will be for your welfare and happiness."
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn22.33:2.1"
-msgid ""
-"Seyyathāpi, bhikkhave, yaṃ imasmiṃ jetavane tiṇakaṭṭhasākhāpalāsaṃ taṃ jano "
-"hareyya vā ḍaheyya vā yathāpaccayaṃ vā kareyya."
-msgstr ""
-"Suppose a person was to carry off the grass, sticks, branches, and leaves in "
-"this Jeta’s Grove, or burn them, or do what they want with them."
+msgid "Seyyathāpi, bhikkhave, yaṃ imasmiṃ jetavane tiṇakaṭṭhasākhāpalāsaṃ taṃ jano hareyya vā ḍaheyya vā yathāpaccayaṃ vā kareyya."
+msgstr "Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them."
 
 msgctxt "sn22.33:2.2"
 msgid "Api nu tumhākaṃ evamassa:"
@@ -88,10 +85,9 @@ msgstr "Would you think:"
 
 msgctxt "sn22.33:2.3"
 msgid "‘amhe jano harati vā ḍahati vā yathāpaccayaṃ vā karotī’”ti?"
-msgstr ""
-"‘This person is carrying us off, burning us, or doing what they want with "
-"us?’”"
+msgstr "‘This person is carrying us off, burning us, or doing what they want with us?’”"
 
+#. </p><p class="added">
 msgctxt "sn22.33:2.4"
 msgid "“No hetaṃ, bhante”."
 msgstr "“No, sir."
@@ -104,6 +100,7 @@ msgctxt "sn22.33:2.6"
 msgid "“Na hi no etaṃ, bhante, attā vā attaniyaṃ vā”ti."
 msgstr "Because that’s neither self nor belonging to self.”"
 
+#. </p><p class="added">
 msgctxt "sn22.33:2.7"
 msgid "“Evameva kho, bhikkhave, rūpaṃ na tumhākaṃ, taṃ pajahatha."
 msgstr "“In the same way, mendicants, form isn’t yours: give it up."

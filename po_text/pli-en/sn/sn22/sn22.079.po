@@ -24,14 +24,10 @@ msgctxt "sn22.79:1.1"
 msgid "Sāvatthinidānaṃ."
 msgstr "At Sāvatthī."
 
+#. </p><p class="added">
 msgctxt "sn22.79:1.2"
-msgid ""
-"“Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā anekavihitaṃ pubbenivāsaṃ "
-"anussaramānā anussaranti sabbete pañcupādānakkhandhe anussaranti etesaṃ vā "
-"aññataraṃ."
-msgstr ""
-"“Mendicants, whatever ascetics and brahmins recollect many kinds of past "
-"lives, all recollect the five grasping aggregates, or one of them."
+msgid "“Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā anekavihitaṃ pubbenivāsaṃ anussaramānā anussaranti sabbete pañcupādānakkhandhe anussaranti etesaṃ vā aññataraṃ."
+msgstr "“Mendicants, whatever ascetics and brahmins recollect many kinds of past lives, all recollect the five grasping aggregates, or one of them."
 
 msgctxt "sn22.79:1.3"
 msgid "Katame pañca?"
@@ -85,12 +81,8 @@ msgstr "Deformed by what?"
 
 #. VAR: ḍaṃsamakasavātātapasarīsapasamphassenapi → … siriṃsapasamphassenapi (bj, pts1) | … sirīsapasamphassenapi (s1-3)
 msgctxt "sn22.79:2.4"
-msgid ""
-"Sītenapi ruppati, uṇhenapi ruppati, jighacchāyapi ruppati, pipāsāyapi "
-"ruppati, ḍaṃsamakasavātātapasarīsapasamphassenapi ruppati."
-msgstr ""
-"Deformed by cold, heat, hunger, and thirst, and deformed by the touch of "
-"flies, mosquitoes, wind, sun, and reptiles."
+msgid "Sītenapi ruppati, uṇhenapi ruppati, jighacchāyapi ruppati, pipāsāyapi ruppati, ḍaṃsamakasavātātapasarīsapasamphassenapi ruppati."
+msgstr "Deformed by cold, heat, hunger, and thirst, and deformed by the touch of flies, mosquitoes, wind, sun, and reptiles."
 
 msgctxt "sn22.79:2.5"
 msgid "Ruppatīti kho, bhikkhave, tasmā ‘rūpan’ti vuccati."
@@ -134,9 +126,7 @@ msgid "Kiñca sañjānāti?"
 msgstr "And what does it perceive?"
 
 msgctxt "sn22.79:4.4"
-msgid ""
-"Nīlampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi "
-"sañjānāti."
+msgid "Nīlampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti."
 msgstr "It perceives blue, yellow, red, and white."
 
 msgctxt "sn22.79:4.5"
@@ -152,8 +142,7 @@ msgstr "And why do you call them choices?"
 # Good luck translating this.
 msgctxt "sn22.79:5.2"
 msgid "Saṅkhatamabhisaṅkharontīti kho, bhikkhave, tasmā ‘saṅkhārā’ti vuccati."
-msgstr ""
-"Choices produce conditioned phenomena; that’s why they’re called ‘choices’."
+msgstr "Choices produce conditioned phenomena; that’s why they’re called ‘choices’."
 
 msgctxt "sn22.79:5.3"
 msgid "Kiñca saṅkhatamabhisaṅkharonti?"
@@ -161,23 +150,12 @@ msgstr "And what are the conditioned phenomena that they produce?"
 
 #. VAR: rūpattāya → rūpatthāya (mr)
 msgctxt "sn22.79:5.4"
-msgid ""
-"Rūpaṃ rūpattāya saṅkhatamabhisaṅkharonti, vedanaṃ vedanattāya "
-"saṅkhatamabhisaṅkharonti, saññaṃ saññattāya saṅkhatamabhisaṅkharonti, "
-"saṅkhāre saṅkhārattāya saṅkhatamabhisaṅkharonti, viññāṇaṃ viññāṇattāya "
-"saṅkhatamabhisaṅkharonti."
-msgstr ""
-"Form is a conditioned phenomenon; choices are what make it into form. "
-"Feeling is a conditioned phenomenon; choices are what make it into feeling. "
-"Perception is a conditioned phenomenon; choices are what make it into "
-"perception. Choices are conditioned phenomena; choices are what make them "
-"into choices. Consciousness is a conditioned phenomenon; choices are what "
-"make it into consciousness."
+msgid "Rūpaṃ rūpattāya saṅkhatamabhisaṅkharonti, vedanaṃ vedanattāya saṅkhatamabhisaṅkharonti, saññaṃ saññattāya saṅkhatamabhisaṅkharonti, saṅkhāre saṅkhārattāya saṅkhatamabhisaṅkharonti, viññāṇaṃ viññāṇattāya saṅkhatamabhisaṅkharonti."
+msgstr "Form is a conditioned phenomenon; choices are what make it into form. Feeling is a conditioned phenomenon; choices are what make it into feeling. Perception is a conditioned phenomenon; choices are what make it into perception. Choices are conditioned phenomena; choices are what make them into choices. Consciousness is a conditioned phenomenon; choices are what make it into consciousness."
 
 msgctxt "sn22.79:5.5"
 msgid "Saṅkhatamabhisaṅkharontīti kho, bhikkhave, tasmā ‘saṅkhārā’ti vuccati."
-msgstr ""
-"Choices produce conditioned phenomena; that’s why they’re called ‘choices’."
+msgstr "Choices produce conditioned phenomena; that’s why they’re called ‘choices’."
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
@@ -195,10 +173,7 @@ msgstr "And what does it cognize?"
 
 # kharika is to the root ksayati, to burn, thus = “hot”, not “sharp” (BB) or “alkaline” (Thanissaro)
 msgctxt "sn22.79:6.4"
-msgid ""
-"Ambilampi vijānāti, tittakampi vijānāti, kaṭukampi vijānāti, madhurampi "
-"vijānāti, khārikampi vijānāti, akhārikampi vijānāti, loṇikampi vijānāti, "
-"aloṇikampi vijānāti."
+msgid "Ambilampi vijānāti, tittakampi vijānāti, kaṭukampi vijānāti, madhurampi vijānāti, khārikampi vijānāti, akhārikampi vijānāti, loṇikampi vijānāti, aloṇikampi vijānāti."
 msgstr "It cognizes sour, bitter, pungent, sweet, hot, mild, salty, and bland."
 
 msgctxt "sn22.79:6.5"
@@ -217,19 +192,12 @@ msgid "‘ahaṃ kho etarahi rūpena khajjāmi."
 msgstr "‘Currently I’m itched by form."
 
 msgctxt "sn22.79:7.3"
-msgid ""
-"Atītampāhaṃ addhānaṃ evameva rūpena khajjiṃ, seyyathāpi etarahi "
-"paccuppannena rūpena khajjāmi."
+msgid "Atītampāhaṃ addhānaṃ evameva rūpena khajjiṃ, seyyathāpi etarahi paccuppannena rūpena khajjāmi."
 msgstr "In the past I was also itched by form just like now."
 
 msgctxt "sn22.79:7.4"
-msgid ""
-"Ahañceva kho pana anāgataṃ rūpaṃ abhinandeyyaṃ, anāgatampāhaṃ addhānaṃ "
-"evameva rūpena khajjeyyaṃ, seyyathāpi etarahi paccuppannena rūpena "
-"khajjāmī’ti."
-msgstr ""
-"If I were to look forward to enjoying form in the future, I’d be itched by "
-"form in the future just as I am today.’"
+msgid "Ahañceva kho pana anāgataṃ rūpaṃ abhinandeyyaṃ, anāgatampāhaṃ addhānaṃ evameva rūpena khajjeyyaṃ, seyyathāpi etarahi paccuppannena rūpena khajjāmī’ti."
+msgstr "If I were to look forward to enjoying form in the future, I’d be itched by form in the future just as I am today.’"
 
 msgctxt "sn22.79:7.5"
 msgid "So iti paṭisaṅkhāya atītasmiṃ rūpasmiṃ anapekkho hoti;"
@@ -241,9 +209,7 @@ msgstr "they don’t look forward to enjoying future form,"
 
 msgctxt "sn22.79:7.7"
 msgid "paccuppannassa rūpassa nibbidāya virāgāya nirodhāya paṭipanno hoti."
-msgstr ""
-"and they practice for disillusionment, dispassion, and cessation regarding "
-"present form."
+msgstr "and they practice for disillusionment, dispassion, and cessation regarding present form."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.88"></a>
@@ -253,9 +219,7 @@ msgid "‘Ahaṃ kho etarahi vedanāya khajjāmi."
 msgstr "‘Currently I’m itched by feeling …"
 
 msgctxt "sn22.79:8.2"
-msgid ""
-"Atītampāhaṃ addhānaṃ evameva vedanāya khajjiṃ, seyyathāpi etarahi "
-"paccuppannāya vedanāya khajjāmi."
+msgid "Atītampāhaṃ addhānaṃ evameva vedanāya khajjiṃ, seyyathāpi etarahi paccuppannāya vedanāya khajjāmi."
 msgstr ""
 
 msgctxt "sn22.79:8.3"
@@ -263,9 +227,7 @@ msgid "Ahañceva kho pana anāgataṃ vedanaṃ abhinandeyyaṃ;"
 msgstr ""
 
 msgctxt "sn22.79:8.4"
-msgid ""
-"anāgatampāhaṃ addhānaṃ evameva vedanāya khajjeyyaṃ, seyyathāpi etarahi "
-"paccuppannāya vedanāya khajjāmī’ti."
+msgid "anāgatampāhaṃ addhānaṃ evameva vedanāya khajjeyyaṃ, seyyathāpi etarahi paccuppannāya vedanāya khajjāmī’ti."
 msgstr ""
 
 msgctxt "sn22.79:8.5"
@@ -291,9 +253,7 @@ msgid "ahaṃ kho etarahi saṅkhārehi khajjāmi."
 msgstr "choices …"
 
 msgctxt "sn22.79:9.3"
-msgid ""
-"Atītampāhaṃ addhānaṃ evameva saṅkhārehi khajjiṃ, seyyathāpi etarahi "
-"paccuppannehi saṅkhārehi khajjāmīti."
+msgid "Atītampāhaṃ addhānaṃ evameva saṅkhārehi khajjiṃ, seyyathāpi etarahi paccuppannehi saṅkhārehi khajjāmīti."
 msgstr ""
 
 msgctxt "sn22.79:9.4"
@@ -301,9 +261,7 @@ msgid "Ahañceva kho pana anāgate saṅkhāre abhinandeyyaṃ;"
 msgstr ""
 
 msgctxt "sn22.79:9.5"
-msgid ""
-"anāgatampāhaṃ addhānaṃ evameva saṅkhārehi khajjeyyaṃ, seyyathāpi etarahi "
-"paccuppannehi saṅkhārehi khajjāmī’ti."
+msgid "anāgatampāhaṃ addhānaṃ evameva saṅkhārehi khajjeyyaṃ, seyyathāpi etarahi paccuppannehi saṅkhārehi khajjāmī’ti."
 msgstr ""
 
 msgctxt "sn22.79:9.6"
@@ -325,21 +283,15 @@ msgid "‘Ahaṃ kho etarahi viññāṇena khajjāmi."
 msgstr "consciousness."
 
 msgctxt "sn22.79:10.2"
-msgid ""
-"Atītampi addhānaṃ evameva viññāṇena khajjiṃ, seyyathāpi etarahi "
-"paccuppannena viññāṇena khajjāmi."
+msgid "Atītampi addhānaṃ evameva viññāṇena khajjiṃ, seyyathāpi etarahi paccuppannena viññāṇena khajjāmi."
 msgstr "In the past I was also itched by consciousness just like now."
 
 msgctxt "sn22.79:10.3"
 msgid "Ahañceva kho pana anāgataṃ viññāṇaṃ abhinandeyyaṃ;"
-msgstr ""
-"If I were to look forward to enjoying consciousness in the future, I’d be "
-"itched by consciousness in the future just as I am today.’"
+msgstr "If I were to look forward to enjoying consciousness in the future, I’d be itched by consciousness in the future just as I am today.’"
 
 msgctxt "sn22.79:10.4"
-msgid ""
-"anāgatampāhaṃ addhānaṃ evameva viññāṇena khajjeyyaṃ, seyyathāpi etarahi "
-"paccuppannena viññāṇena khajjāmī’ti."
+msgid "anāgatampāhaṃ addhānaṃ evameva viññāṇena khajjeyyaṃ, seyyathāpi etarahi paccuppannena viññāṇena khajjāmī’ti."
 msgstr ""
 
 msgctxt "sn22.79:10.5"
@@ -352,9 +304,7 @@ msgstr "they don’t look forward to enjoying future consciousness,"
 
 msgctxt "sn22.79:10.7"
 msgid "paccuppannassa viññāṇassa nibbidāya virāgāya nirodhāya paṭipanno hoti."
-msgstr ""
-"and they practice for disillusionment, dispassion, and cessation regarding "
-"present consciousness."
+msgstr "and they practice for disillusionment, dispassion, and cessation regarding present consciousness."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.89"></a>
@@ -367,33 +317,36 @@ msgctxt "sn22.79:11.2"
 msgid "rūpaṃ niccaṃ vā aniccaṃ vā”ti?"
 msgstr "Is form permanent or impermanent?”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.3"
 msgid "“Aniccaṃ, bhante”."
 msgstr "“Impermanent, sir.”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.4"
 msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
 msgstr "“But if it’s impermanent, is it suffering or happiness?”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.5"
 msgid "“Dukkhaṃ, bhante”."
 msgstr "“Suffering, sir.”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.6"
-msgid ""
-"“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr ""
-"“But if it’s impermanent, suffering, and perishable, is it fit to be "
-"regarded thus:"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
+msgstr "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus:"
 
 msgctxt "sn22.79:11.7"
 msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
 msgstr "‘This is mine, I am this, this is my self’?”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.8"
 msgid "“No hetaṃ, bhante”."
 msgstr "“No, sir.”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.9"
 msgid "“Vedanā …"
 msgstr "“Is feeling …"
@@ -410,44 +363,39 @@ msgctxt "sn22.79:11.12"
 msgid "viññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
 msgstr "consciousness permanent or impermanent?”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.13"
 msgid "“Aniccaṃ, bhante”."
 msgstr "“Impermanent, sir.”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.14"
 msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
 msgstr "“But if it’s impermanent, is it suffering or happiness?”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.15"
 msgid "“Dukkhaṃ, bhante”."
 msgstr "“Suffering, sir.”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.16"
-msgid ""
-"“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr ""
-"“But if it’s impermanent, suffering, and perishable, is it fit to be "
-"regarded thus:"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
+msgstr "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus:"
 
 msgctxt "sn22.79:11.17"
 msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
 msgstr "‘This is mine, I am this, this is my self’?”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.18"
 msgid "“No hetaṃ, bhante”."
 msgstr "“No, sir.”"
 
+#. </p><p class="added">
 msgctxt "sn22.79:11.19"
-msgid ""
-"“Tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā "
-"bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, "
-"sabbaṃ rūpaṃ: ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ "
-"sammappaññāya daṭṭhabbaṃ."
-msgstr ""
-"“So you should truly see any kind of form at all—past, future, or present; "
-"internal or external; coarse or fine; inferior or superior; far or near: "
-"<em>all</em> form—with right understanding: ‘This is not mine, I am not "
-"this, this is not my self.’"
+msgid "“Tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ: ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ."
+msgstr "“So you should truly see any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
 
 msgctxt "sn22.79:11.20"
 msgid "Yā kāci vedanā …"
@@ -462,23 +410,15 @@ msgid "ye keci saṅkhārā …"
 msgstr "choices …"
 
 msgctxt "sn22.79:11.23"
-msgid ""
-"yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ … pe … yaṃ dūre santike vā, "
-"sabbaṃ viññāṇaṃ: ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ "
-"yathābhūtaṃ sammappaññāya daṭṭhabbaṃ."
-msgstr ""
-"consciousness at all—past, future, or present; internal or external; coarse "
-"or fine; inferior or superior; far or near: <em>all</em> consciousness—with "
-"right understanding: ‘This is not mine, I am not this, this is not my self.’"
+msgid "yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ … pe … yaṃ dūre santike vā, sabbaṃ viññāṇaṃ: ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ."
+msgstr "consciousness at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.90"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "sn22.79:12.1"
 msgid "Ayaṃ vuccati, bhikkhave, ariyasāvako apacināti, no ācināti;"
-msgstr ""
-"This is called a noble disciple who gets rid of things and doesn’t "
-"accumulate them;"
+msgstr "This is called a noble disciple who gets rid of things and doesn’t accumulate them;"
 
 #. VAR: na → no (bj)
 msgctxt "sn22.79:12.2"
@@ -595,55 +535,31 @@ msgstr "consciousness and don’t get clouded by it."
 #. </p><p>
 #. <a class="sc" id="sc13"></a>
 msgctxt "sn22.79:13.1"
-msgid ""
-"Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi "
-"… saññāyapi … saṅkhāresupi … viññāṇasmimpi nibbindati."
-msgstr ""
-"Seeing this, a learned noble disciple grows disillusioned with form, "
-"feeling, perception, choices, and consciousness."
+msgid "Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi … saññāyapi … saṅkhāresupi … viññāṇasmimpi nibbindati."
+msgstr "Seeing this, a learned noble disciple grows disillusioned with form, feeling, perception, choices, and consciousness."
 
 msgctxt "sn22.79:13.2"
-msgid ""
-"Nibbindaṃ virajjati; virāgā vimuccati. Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti."
-msgstr ""
-"Being disillusioned, desire fades away. When desire fades away they’re "
-"freed. When they’re freed, they know they’re freed."
+msgid "Nibbindaṃ virajjati; virāgā vimuccati. Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti."
+msgstr "Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed."
 
 msgctxt "sn22.79:13.3"
-msgid ""
-"‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti "
-"pajānāti."
-msgstr ""
-"They understand: ‘Rebirth is ended, the spiritual journey has been "
-"completed, what had to be done has been done, there is no return to any "
-"state of existence.’"
+msgid "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti."
+msgstr "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’"
 
 #. </p><p>
 #. <a class="sc" id="sc14"></a>
 msgctxt "sn22.79:14.1"
-msgid ""
-"Ayaṃ vuccati, bhikkhave, bhikkhu nevācināti na apacināti, apacinitvā ṭhito; "
-"neva pajahati na upādiyati, pajahitvā ṭhito; neva visineti na ussineti, "
-"visinetvā ṭhito; neva vidhūpeti na sandhūpeti vidhūpetvā ṭhito"
-msgstr ""
-"This is called a mendicant who neither gets rid of things nor accumulates "
-"them, but remains after getting rid of them. They neither give things up nor "
-"grasp them, but remain after giving them up. They neither discard things nor "
-"amass them, but remain after discarding them. They neither dissipate things "
-"nor get clouded by them, but remain after dissipating them."
+msgid "Ayaṃ vuccati, bhikkhave, bhikkhu nevācināti na apacināti, apacinitvā ṭhito; neva pajahati na upādiyati, pajahitvā ṭhito; neva visineti na ussineti, visinetvā ṭhito; neva vidhūpeti na sandhūpeti vidhūpetvā ṭhito"
+msgstr "This is called a mendicant who neither gets rid of things nor accumulates them, but remains after getting rid of them. They neither give things up nor grasp them, but remain after giving them up. They neither discard things nor amass them, but remain after discarding them. They neither dissipate things nor get clouded by them, but remain after dissipating them."
 
 # MS punctuation in this passage is wrong, and I have corrected it in the Pali.
 msgctxt "sn22.79:14.2"
 msgid "Kiñca nevācināti na apacināti, apacinitvā ṭhito?"
-msgstr ""
-"And what things do they neither get rid of nor accumulate, but remain after "
-"getting rid of them?"
+msgstr "And what things do they neither get rid of nor accumulate, but remain after getting rid of them?"
 
 msgctxt "sn22.79:14.3"
 msgid "Rūpaṃ nevācināti na apacināti, apacinitvā ṭhito;"
-msgstr ""
-"They neither get rid of nor accumulate form, but remain after getting rid of "
-"it."
+msgstr "They neither get rid of nor accumulate form, but remain after getting rid of it."
 
 msgctxt "sn22.79:14.4"
 msgid "vedanaṃ …"
@@ -663,9 +579,7 @@ msgstr "consciousness, but remain after getting rid of it."
 
 msgctxt "sn22.79:14.8"
 msgid "Kiñca neva pajahati na upādiyati, pajahitvā ṭhito?"
-msgstr ""
-"And what things do they neither give up nor grasp, but remain after giving "
-"them up?"
+msgstr "And what things do they neither give up nor grasp, but remain after giving them up?"
 
 msgctxt "sn22.79:14.9"
 msgid "Rūpaṃ neva pajahati na upādiyati, pajahitvā ṭhito;"
@@ -689,9 +603,7 @@ msgstr "consciousness, but remain after giving it up."
 
 msgctxt "sn22.79:14.14"
 msgid "Kiñca neva visineti na ussineti, visinetvā ṭhito?"
-msgstr ""
-"And what things do they neither discard nor amass, but remain after "
-"discarding them?"
+msgstr "And what things do they neither discard nor amass, but remain after discarding them?"
 
 msgctxt "sn22.79:14.15"
 msgid "Rūpaṃ neva visineti na ussineti, visinetvā ṭhito;"
@@ -715,15 +627,11 @@ msgstr "consciousness, but remain after discarding it."
 
 msgctxt "sn22.79:14.20"
 msgid "Kiñca neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito?"
-msgstr ""
-"And what things do they neither dissipate nor get clouded by, but remain "
-"after dissipating them?"
+msgstr "And what things do they neither dissipate nor get clouded by, but remain after dissipating them?"
 
 msgctxt "sn22.79:14.21"
 msgid "Rūpaṃ neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito;"
-msgstr ""
-"They neither dissipate nor get clouded by form, but remain after dissipating "
-"it."
+msgstr "They neither dissipate nor get clouded by form, but remain after dissipating it."
 
 msgctxt "sn22.79:14.22"
 msgid "vedanaṃ …"
@@ -742,12 +650,8 @@ msgid "viññāṇaṃ neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito."
 msgstr "consciousness, but remain after dissipating it."
 
 msgctxt "sn22.79:14.26"
-msgid ""
-"Evaṃvimuttacittaṃ kho, bhikkhave, bhikkhuṃ saindā devā sabrahmakā "
-"sapajāpatikā ārakāva namassanti:"
-msgstr ""
-"When a mendicant’s mind is freed like this, the gods together with Indra, "
-"Brahmā, and Pajāpati worship them from afar:"
+msgid "Evaṃvimuttacittaṃ kho, bhikkhave, bhikkhuṃ saindā devā sabrahmakā sapajāpatikā ārakāva namassanti:"
+msgstr "When a mendicant’s mind is freed like this, the gods together with Indra, Brahmā, and Pajāpati worship them from afar:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.91"></a>

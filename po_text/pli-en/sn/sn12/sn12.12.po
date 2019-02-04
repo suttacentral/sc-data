@@ -16,7 +16,7 @@ msgstr "2. Fuel"
 #. VAR: 12. Moḷiyaphaggunasutta → phagguno (pts1-2)
 msgctxt "sn12.12:0.3"
 msgid "12. Moḷiyaphaggunasutta"
-msgstr "12. Moḷiyaphagguna"
+msgstr "12. Phagguna of the Top-Knot"
 
 #. </h1></div><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.13"></a>
@@ -25,50 +25,42 @@ msgctxt "sn12.12:1.1"
 msgid "Sāvatthiyaṃ viharati."
 msgstr "At Sāvatthī."
 
+#. </p><p class="added">
 msgctxt "sn12.12:1.2"
-msgid ""
-"“Cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā "
-"anuggahāya."
-msgstr ""
-"“Mendicants, there are these four fuels. They maintain sentient beings that "
-"have been born and help those that are about to be born."
+msgid "“Cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya."
+msgstr "“Mendicants, there are these four fuels. They maintain sentient beings that have been born and help those that are about to be born."
 
 msgctxt "sn12.12:1.3"
 msgid "Katame cattāro?"
 msgstr "What four?"
 
 msgctxt "sn12.12:1.4"
-msgid ""
-"Kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, "
-"viññāṇaṃ catutthaṃ."
-msgstr ""
-"Solid food, whether coarse or fine; contact is the second, mental intention "
-"the third, and consciousness the fourth."
+msgid "Kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ."
+msgstr "Solid food, whether coarse or fine; contact is the second, mental intention the third, and consciousness the fourth."
 
 msgctxt "sn12.12:1.5"
-msgid ""
-"Ime kho, bhikkhave, cattāro āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ "
-"vā anuggahāyā”ti."
-msgstr ""
-"These are the four fuels that maintain sentient beings that have been born "
-"and help those that are about to be born.”"
+msgid "Ime kho, bhikkhave, cattāro āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāyā”ti."
+msgstr "These are the four fuels that maintain sentient beings that have been born and help those that are about to be born.”"
 
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
 #. VAR: moḷiyaphagguno → moḷiyaphagguṇo (si) | moliyaphagguno (s1-3, pts1-2)
 msgctxt "sn12.12:2.1"
 msgid "Evaṃ vutte, āyasmā moḷiyaphagguno bhagavantaṃ etadavoca:"
-msgstr "When he said this, Venerable Moḷiyaphagguna said to the Buddha:"
+msgstr "When he said this, Venerable Phagguna of the Top-Knot said to the Buddha:"
 
+#. </p><p class="added">
 msgctxt "sn12.12:2.2"
 msgid "“ko nu kho, bhante, viññāṇāhāraṃ āhāretī”ti?"
 msgstr "“But sir, who consumes the fuel for consciousness?”"
 
+#. </p><p class="added">
 # BB’s “valid” is a little too specifically logical.
 msgctxt "sn12.12:2.3"
 msgid "“No kallo pañho”ti bhagavā avoca:"
 msgstr "“That’s not a fitting question,” said the Buddha."
 
+#. </p><p class="added">
 msgctxt "sn12.12:2.4"
 msgid "“‘āhāretī’ti ahaṃ na vadāmi."
 msgstr "“I don’t speak of one who consumes."
@@ -98,13 +90,8 @@ msgid "Tatra kallaṃ veyyākaraṇaṃ:"
 msgstr "And a fitting answer to this would be:"
 
 msgctxt "sn12.12:2.11"
-msgid ""
-"‘viññāṇāhāro āyatiṃ punabbhavābhinibbattiyā paccayo, tasmiṃ bhūte sati "
-"saḷāyatanaṃ, saḷāyatanapaccayā phasso’”ti."
-msgstr ""
-"‘Consciousness is a fuel that conditions rebirth into a new state of "
-"existence in the future. When that which has been reborn is present, there "
-"are the six sense fields. The six sense fields are a condition for contact.’”"
+msgid "‘viññāṇāhāro āyatiṃ punabbhavābhinibbattiyā paccayo, tasmiṃ bhūte sati saḷāyatanaṃ, saḷāyatanapaccayā phasso’”ti."
+msgstr "‘Consciousness is a fuel that conditions rebirth into a new state of existence in the future. When that which has been reborn is present, there are the six sense fields. The six sense fields are a condition for contact.’”"
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
@@ -112,10 +99,12 @@ msgctxt "sn12.12:3.1"
 msgid "“Ko nu kho, bhante, phusatī”ti?"
 msgstr "“But sir, who contacts?”"
 
+#. </p><p class="added">
 msgctxt "sn12.12:3.2"
 msgid "“No kallo pañho”ti bhagavā avoca:"
 msgstr "“That’s not a fitting question,” said the Buddha."
 
+#. </p><p class="added">
 msgctxt "sn12.12:3.3"
 msgid "“‘phusatī’ti ahaṃ na vadāmi."
 msgstr "“I don’t speak of one who contacts."
@@ -146,9 +135,7 @@ msgstr "And a fitting answer to this would be:"
 
 msgctxt "sn12.12:3.10"
 msgid "‘saḷāyatanapaccayā phasso, phassapaccayā vedanā’”ti."
-msgstr ""
-"‘The six sense fields are a condition for contact. Contact is a condition "
-"for feeling.’”"
+msgstr "‘The six sense fields are a condition for contact. Contact is a condition for feeling.’”"
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
@@ -157,10 +144,12 @@ msgctxt "sn12.12:4.1"
 msgid "“Ko nu kho, bhante, vedayatī”ti?"
 msgstr "“But sir, who feels?”"
 
+#. </p><p class="added">
 msgctxt "sn12.12:4.2"
 msgid "“No kallo pañho”ti bhagavā avoca:"
 msgstr "“That’s not a fitting question,” said the Buddha."
 
+#. </p><p class="added">
 msgctxt "sn12.12:4.3"
 msgid "“‘vedayatī’ti ahaṃ na vadāmi."
 msgstr "“I don’t speak of one who feels."
@@ -191,8 +180,7 @@ msgstr "And a fitting answer to this would be:"
 
 msgctxt "sn12.12:4.10"
 msgid "‘phassapaccayā vedanā, vedanāpaccayā taṇhā’”ti."
-msgstr ""
-"‘Contact is a condition for feeling. Feeling is a condition for craving.’”"
+msgstr "‘Contact is a condition for feeling. Feeling is a condition for craving.’”"
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.14"></a>
@@ -202,10 +190,12 @@ msgctxt "sn12.12:5.1"
 msgid "“Ko nu kho, bhante, tasatī”ti?"
 msgstr "“But sir, who craves?”"
 
+#. </p><p class="added">
 msgctxt "sn12.12:5.2"
 msgid "“No kallo pañho”ti bhagavā avoca:"
 msgstr "“That’s not a fitting question,” said the Buddha."
 
+#. </p><p class="added">
 msgctxt "sn12.12:5.3"
 msgid "“‘tasatī’ti ahaṃ na vadāmi."
 msgstr "“I don’t speak of one who craves."
@@ -236,8 +226,7 @@ msgstr "And a fitting answer to this would be:"
 
 msgctxt "sn12.12:5.10"
 msgid "‘vedanāpaccayā taṇhā, taṇhāpaccayā upādānan’”ti."
-msgstr ""
-"‘Feeling is a condition for craving. Craving is a condition for grasping.’”"
+msgstr "‘Feeling is a condition for craving. Craving is a condition for grasping.’”"
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
@@ -245,10 +234,12 @@ msgctxt "sn12.12:6.1"
 msgid "“Ko nu kho, bhante, upādiyatī”ti?"
 msgstr "“But sir, who grasps?”"
 
+#. </p><p class="added">
 msgctxt "sn12.12:6.2"
 msgid "“No kallo pañho”ti bhagavā avoca:"
 msgstr "“That’s not a fitting question,” said the Buddha."
 
+#. </p><p class="added">
 msgctxt "sn12.12:6.3"
 msgid "“‘upādiyatī’ti ahaṃ na vadāmi."
 msgstr "“I don’t speak of one who grasps."
@@ -293,11 +284,8 @@ msgstr "That is how this entire mass of suffering originates."
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
 msgctxt "sn12.12:7.1"
-msgid ""
-"Channaṃ tveva, phagguna, phassāyatanānaṃ asesavirāganirodhā phassanirodho;"
-msgstr ""
-"When the six sense fields fade away and cease with nothing left over, "
-"contact ceases."
+msgid "Channaṃ tveva, phagguna, phassāyatanānaṃ asesavirāganirodhā phassanirodho;"
+msgstr "When the six sense fields fade away and cease with nothing left over, contact ceases."
 
 msgctxt "sn12.12:7.2"
 msgid "phassanirodhā vedanānirodho;"
@@ -321,9 +309,7 @@ msgstr "When continued existence ceases, rebirth ceases."
 
 msgctxt "sn12.12:7.7"
 msgid "jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti."
-msgstr ""
-"When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, "
-"and distress cease."
+msgstr "When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease."
 
 msgctxt "sn12.12:7.8"
 msgid "Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti."
