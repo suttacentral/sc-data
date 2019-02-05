@@ -1469,7 +1469,6 @@ msgctxt "dn16:1.34.2"
 msgid "Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:"
 msgstr "Then, knowing the meaning of this, on that occasion the Buddha was inspired to exclaim:"
 
-#. </p><p class="added">
 # annava can hardly mean “sea” here, if it is to be crossed with a bridge. Note the Sanskrit parallels at https://staging.suttacentral.net/sf245/san/waldschmidt#7.9 and https://staging.suttacentral.net/divy3/san/vaidya#034.012
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc80"></a>
@@ -1659,8 +1658,8 @@ msgctxt "dn16:2.5.1"
 msgid "Atha kho bhagavā koṭigāme yathābhirantaṃ viharitvā āyasmantaṃ ānandaṃ āmantesi:"
 msgstr "When the Buddha had stayed in Koṭigāma as long as he wished, he said to Ānanda:"
 
-#. </p><p class="added">
 # The plural is used here, so strictly speaking “(the land of the) Nadikas”.
+#. </p><p class="added">
 #. VAR: nātikā → nādikā (bj, s1-3, km, pts1)
 msgctxt "dn16:2.5.2"
 msgid "“āyāmānanda, yena nātikā tenupaṅkamissāmā”ti."
@@ -2076,8 +2075,8 @@ msgctxt "dn16:2.16.2"
 msgid "Atha kho te licchavī ambapāliṃ gaṇikaṃ etadavocuṃ:"
 msgstr "The Licchavis said to her:"
 
-#. </p><p class="added">
 # I don’t know if it’s possible to be very literal, but i thgink it’s important to preserve something of the flavor of the insulting vocative je here, otherwise used of the “bad girl” Kali in MN 21.
+#. </p><p class="added">
 msgctxt "dn16:2.16.3"
 msgid "“kiṃ, je ambapāli, daharānaṃ daharānaṃ licchavīnaṃ akkhena akkhaṃ cakkena cakkaṃ yugena yugaṃ paṭivaṭṭesī”ti?"
 msgstr "“What the hell, Ambapālī, are you doing colliding with us axle to axle, wheel to wheel, yoke to yoke?”"
@@ -5282,8 +5281,8 @@ msgctxt "dn16:4.42.1"
 msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi:"
 msgstr "Then the Buddha said to Venerable Ānanda:"
 
-#. </p><p class="added">
 # The subject is unspecified in the Pali. It is not koci, for that forms a regular idiom with vippatisara. The Skt says vipratisāraḥ pareṣām āpāditaḥ
+#. </p><p class="added">
 msgctxt "dn16:4.42.2"
 msgid "“siyā kho panānanda, cundassa kammāraputtassa koci vippaṭisāraṃ uppādeyya:"
 msgstr "“Now it may happen, Ānanda, that others may give rise to some regret for Cunda the smith:"
@@ -5511,8 +5510,8 @@ msgctxt "dn16:5.4.4"
 msgid "Atha kho āyasmato ānandassa etadahosi:"
 msgstr "Ānanda thought:"
 
-#. </p><p class="added">
 # In AN 5.166, Ananda goes to Upavana for support when he feels he has disappointed the Buddha.
+#. </p><p class="added">
 msgctxt "dn16:5.4.5"
 msgid "“ayaṃ kho āyasmā upavāṇo dīgharattaṃ bhagavato upaṭṭhāko santikāvacaro samīpacārī."
 msgstr "“This Venerable Upavāṇa has been the Buddha’s attendant for a long time, close to him, living in his presence."
@@ -5599,8 +5598,8 @@ msgctxt "dn16:5.6.1"
 msgid "“Kathaṃbhūtā pana, bhante, bhagavā devatā manasikarotī”ti?"
 msgstr "“But sir, what kind of deities are you thinking of?”"
 
-#. </p><p class="added">
 # reading chinnaṃpādaṃ viya papatanti
+#. </p><p class="added">
 #. VAR: chinnapātaṃ papatanti → chinnaṃpādaṃ viya papatanti (s1-3) | chinnapātaṃ viyapapatanti (km) | chinnapapātaṃ papatanti (pts1)
 msgctxt "dn16:5.6.2"
 msgid "“Santānanda, devatā ākāse pathavīsaññiniyo kese pakiriya kandanti, bāhā paggayha kandanti, chinnapātaṃ papatanti, āvaṭṭanti, vivaṭṭanti:"
@@ -5720,8 +5719,8 @@ msgctxt "dn16:5.9.2"
 msgid "“Adassanaṃ, ānandā”ti."
 msgstr "“Without seeing, Ānanda.”"
 
-#. </p><p class="added">
 # https://discourse.suttacentral.net/t/what-the-buddha-said-to-ananda-about-women-some-textual-issues/5788
+#. </p><p class="added">
 msgctxt "dn16:5.9.3"
 msgid "“Dassane, bhagavā, sati kathaṃ paṭipajjitabban”ti?"
 msgstr "“But when seeing, how to proceed?”"
@@ -5741,7 +5740,6 @@ msgctxt "dn16:5.9.6"
 msgid "“Sati, ānanda, upaṭṭhāpetabbā”ti."
 msgstr "“Be mindful, Ānanda.”"
 
-#. </p><p class="added">
 # I think it is important to specify corpse here, as “body” is too vague, and “remains” might be felt to include relics.
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs5.10"></a>
@@ -5750,8 +5748,8 @@ msgctxt "dn16:5.10.1"
 msgid "“Kathaṃ mayaṃ, bhante, tathāgatassa sarīre paṭipajjāmā”ti?"
 msgstr "“Sir, how do we proceed when it comes to the Realized One’s corpse?”"
 
-#. </p><p class="added">
 # For Abyāvaṭā, see Samaṇena bhavitabbaṃ abyāvaṭena at SS 5. More don’t get involved “than” don’t worry “. Normally I render puja as” venerate, honor"but here it refers to specific rites, as below.
+#. </p><p class="added">
 msgctxt "dn16:5.10.2"
 msgid "“Abyāvaṭā tumhe, ānanda, hotha tathāgatassa sarīrapūjāya."
 msgstr "“Don’t get involved in the rites for venerating the Realized One’s corpse, Ānanda."
@@ -6013,8 +6011,8 @@ msgctxt "dn16:5.15.1"
 msgid "Atha kho bhagavā bhikkhū āmantesi:"
 msgstr "Then the Buddha said to the mendicants:"
 
-#. </p><p class="added">
 # Cp SN 47.14, DN 20
+#. </p><p class="added">
 msgctxt "dn16:5.15.2"
 msgid "“yepi te, bhikkhave, ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā, tesampi bhagavantānaṃ etapparamāyeva upaṭṭhākā ahesuṃ, seyyathāpi mayhaṃ ānando."
 msgstr "“The Buddhas of the past or the future have attendants who are no better than Ānanda is for me."
@@ -6941,8 +6939,8 @@ msgctxt "dn16:6.8.2"
 msgid "Atha kho āyasmā ānando āyasmantaṃ anuruddhaṃ etadavoca:"
 msgstr "Then Venerable Ānanda said to Venerable Anuruddha:"
 
-#. </p><p class="added">
 # Following Anandajoti, who folows comm in seeing this as a question.
+#. </p><p class="added">
 msgctxt "dn16:6.8.3"
 msgid "“parinibbuto, bhante anuruddha, bhagavā”ti."
 msgstr "“Venerable Anuruddha, has the Buddha become fully extinguished?”"
@@ -7282,8 +7280,8 @@ msgctxt "dn16:6.14.1"
 msgid "Atha kho sattamaṃ divasaṃ kosinārakānaṃ mallānaṃ etadahosi:"
 msgstr "Then on the seventh day they thought:"
 
-#. </p><p class="added">
 # Both MW and Anandajoti take it that this means to carry it out of the city to the south. But I can’t see how this is justified either by context or syntax. They are already outside the town.
+#. </p><p class="added">
 msgctxt "dn16:6.14.2"
 msgid "“mayaṃ bhagavato sarīraṃ naccehi gītehi vāditehi mālehi gandhehi sakkarontā garuṃ karontā mānentā pūjentā dakkhiṇena dakkhiṇaṃ nagarassa haritvā bāhirena bāhiraṃ dakkhiṇato nagarassa bhagavato sarīraṃ jhāpessāmā”ti."
 msgstr "“Honoring, respecting, revering, and venerating the Buddha’s corpse with dance and song and music and garlands and fragrances, let us carry it to the south of the town, and cremate it there outside the town.”"
@@ -7500,8 +7498,8 @@ msgctxt "dn16:6.20.2"
 msgid "Atha kho subhaddo vuddhapabbajito te bhikkhū etadavoca:"
 msgstr "He said to those mendicants:"
 
-#. </p><p class="added">
 # The syntax here is obscure to me. Confusingly, both the former and latter parts of the sentence normally take the instrumental: “sumuttāhaṃ buddhena”; but also “tena homi upadduto”. The Sanskrit is much clearer: “muktāḥ smas tataḥ kaukṛtikān mahallāt || ya evam āha || idaṃ vo bhikṣavaḥ karaṇīyam idam akaraṇīyam”
+#. </p><p class="added">
 msgctxt "dn16:6.20.3"
 msgid "“alaṃ, āvuso, mā socittha, mā paridevittha, sumuttā mayaṃ tena mahāsamaṇena. Upaddutā ca homa:"
 msgstr "“Enough, reverends, do not grieve or lament. We’re well rid of that Great Ascetic harassing us:"
@@ -7798,8 +7796,8 @@ msgctxt "dn16:6.25.1"
 msgid "Evaṃ vutte, kosinārakā mallā te saṅghe gaṇe etadavocuṃ:"
 msgstr "When they had spoken, the Mallas of Kusinārā said to those various groups:"
 
-#. </p><p class="added">
 # Anandajoti’s “we will not see a share” is incorrect. This is the future second plural of dadati.
+#. </p><p class="added">
 msgctxt "dn16:6.25.2"
 msgid "“bhagavā amhākaṃ gāmakkhette parinibbuto, na mayaṃ dassāma bhagavato sarīrānaṃ bhāgan”ti."
 msgstr "“The Buddha became fully extinguished in our village district. We will not give away a share of his relics.”"
