@@ -1044,6 +1044,12 @@
         "parallels": ["mn125#16","mn107#4-#6"]
     },
     {
+        "parallels": ["an4.16#3","~iti62#5"]
+    },
+    {
+        "parallels": ["~an4.16#3","iti62#5"]
+    },
+    {
         "parallels": ["an4.114#2-#3","an5.140#2-#3"]
     },
     {
@@ -1144,9 +1150,6 @@
     },
     {
         "parallels": ["an4.207-210","sa1053"]
-    },
-    {
-        "parallels": ["an4.23","ma137"]
     },
     {
         "parallels": ["an4.233","t1536#7e","~mn57"]
@@ -2635,6 +2638,9 @@
     },
     {
         "parallels": ["mn6","an10.71","ma105"]
+    },
+    {
+        "parallels": ["sn36.1#2-#3","iti52#3-#4","iti54#3-#4","iti56#3-#4"]
     },
     {
         "parallels": ["mn60","sht-sutta29","~sf293","~sf44"]
@@ -11553,7 +11559,10 @@
         "parallels": ["~uv-kg3#68","~uv3#3.5-#3.6","~t212.3#vgns3.5-#vgns3.6","t213.3#vgns3.6","~dhp342"]
     },
     {
-        "parallels": ["~t213.3#vgns3.9","uv3#3.7","~uv-kg3#69-#70","uvs3#3.7","sf199#14.52","iti58#3","~t212.3#vgns3.7"]
+        "parallels": ["~t213.3#vgns3.9","uv3#3.7","~uv-kg3#69-#70","uvs3#3.7","sf199#14.52","iti58#3","~t212.3#vgns3.7","~an4.49#4"]
+    },
+    {
+        "parallels": ["~uv3#3.7","~uvs3#3.7","~sf199#14.52","~iti58#3","an4.49#4"]
     },
     {
         "parallels": ["uv-kg3#69","~uv3#3.6-#3.7","~t212.3#vgns3.6-#vgns3.7","t213.3#vgns3.8","~dhp342"]
@@ -12040,6 +12049,9 @@
     },
     {
         "parallels": ["thag18.1#vns1056","thag8.1#vns495","thag2.2#vns124","~Sūyagadamgasuttam 1#2.2.11"]
+    },
+    {
+        "parallels": ["thag18.1#vns1082","iti42#4"]
     },
     {
         "parallels": ["thag3.9#vns243","Uttarādhyayanasūtra 2#3"]
@@ -14178,6 +14190,12 @@
         "parallels": ["iti73#4","snp3.12#vns761"]
     },
     {
+        "parallels": ["iti41#3","~snp3.12#vns762"]
+    },
+    {
+        "parallels": ["~iti41#3","snp3.12#vns762"]
+    },
+    {
         "parallels": ["uv32#32.45","t212.33#vgns33.31","t213.32#vgns32.28","uvs32#32.41"]
     },
     {
@@ -15249,7 +15267,7 @@
         "mentions": ["an4.211","pli-tv-pvr7#49"]
     },
     {
-        "parallels": ["an4.23#2-#5","dn29#46","iti112#3-#6"]
+        "parallels": ["an4.23","ma137","iti112"]
     },
     {
         "parallels": ["an4.232","dn33#147","mn57#6"]
@@ -15261,7 +15279,7 @@
         "parallels": ["an4.241","mn11#3"]
     },
     {
-        "parallels": ["an4.25#2-#3","iti35#3-#4"]
+        "parallels": ["an4.25#2-#3","iti35#3-#4","iti36#3-#4"]
     },
     {
         "parallels": ["an4.250#1","dn33#161"]
@@ -15382,6 +15400,9 @@
     },
     {
         "mentions": ["an4.68#6","ne37#25"]
+    },
+    {
+        "mentions": ["sn21.4#6","ne37#255"]
     },
     {
         "parallels": ["an4.70#3-#6","ja334#1-#4","ja527#48-#51","ja528#45-#48"]
