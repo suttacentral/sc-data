@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,12 +26,11 @@ msgid "1.101. Belaṭṭhānikattheragāthā"
 msgstr "1.101. Belaṭṭhānika"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc101"></a><a class="verse-num-pts"
-#. id="verse-num-pts101"></a>
+#. class="vns" id="vns101"></a><a class="vnp"
+#. id="vnp101"></a>
+#. VAR: gihittaṃ → gihitvaṃ (s2, s3, pts1)
 msgctxt "thag1.101:5.1"
-msgid ""
-"“Hitvā <span class=\"var\" title=\"gihitvaṃ (s2, s3, pts1)\" id=\"note70\""
-">gihittaṃ</span> anavositatto,"
+msgid "“Hitvā gihittaṃ anavositatto,"
 msgstr "He’s given up the household life, but he has no purpose."
 
 #. <br>
@@ -55,8 +53,7 @@ msgctxt "thag1.101:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Belaṭṭhāniko → belaṭṭhakāni (s2, s3, pts1-2)
 msgctxt "thag1.101:6.2"
-msgid ""
-"<span class=\"var\" title=\"belaṭṭhakāni (s2, s3, pts1-2)\" id=\"note71\""
-">Belaṭṭhāniko</span> thero …."
+msgid "Belaṭṭhāniko thero …."
 msgstr ""

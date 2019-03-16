@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Dutiyavagga"
 msgstr "Chapter Two"
 
 #. </p><h1>
+#. VAR: 2.18 Kimilattheragāthā → kimbilattheragāthā (bj)
 msgctxt "thag2.18:4.1"
-msgid ""
-"<span class=\"var\" title=\"kimbilattheragāthā (bj)\" id=\"note104\">2.18 "
-"Kimilattheragāthā</span>"
+msgid "2.18 Kimilattheragāthā"
 msgstr "2.18. Kimbila (2nd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc155"></a><a class="verse-num-pts"
-#. id="verse-num-pts155"></a>
+#. class="vns" id="vns155"></a><a class="vnp"
+#. id="vnp155"></a>
 msgctxt "thag2.18:5.1"
 msgid "“Pācīnavaṃsadāyamhi,"
 msgstr "In Pācīnavaṃsa grove"
@@ -50,8 +48,8 @@ msgctxt "thag2.18:5.4"
 msgid "uñchāpattāgate ratā."
 msgstr "are happy with the scraps in their bowls."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc156"></a><a class="verse-num-pts" id="verse-num-pts156"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns156"></a><a class="vnp" id="vnp156"></a>
 msgctxt "thag2.18:6.1"
 msgid "Āraddhavīriyā pahitattā,"
 msgstr "Energetic, resolute,"
@@ -76,8 +74,7 @@ msgctxt "thag2.18:7.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Kimilo → kimbilo (bj, s2, s3, pts1-2)
 msgctxt "thag2.18:7.2"
-msgid ""
-"<span class=\"var\" title=\"kimbilo (bj, s2, s3, pts1-2)\" id=\"note105\""
-">Kimilo</span> thero …."
+msgid "Kimilo thero …."
 msgstr ""

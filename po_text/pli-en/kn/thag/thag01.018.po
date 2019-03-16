@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.18. Siṅgālapituttheragāthā"
 msgstr "1.18. Siṅgāla’s Father"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc18"></a><a class="verse-num-pts"
-#. id="verse-num-pts18"></a>
+#. class="vns" id="vns18"></a><a class="vnp"
+#. id="vnp18"></a>
 msgctxt "thag1.18:5.1"
 msgid "“Ahu buddhassa dāyādo,"
 msgstr "There was an heir of the Buddha,"
@@ -44,10 +43,9 @@ msgid "Kevalaṃ aṭṭhisaññāya,"
 msgstr "who suffused the entire earth "
 
 #. <br>
+#. VAR: pathaviṃ → paṭhaviṃ (bj, s2, s3, pts1-2)
 msgctxt "thag1.18:5.4"
-msgid ""
-"apharī <span class=\"var\" title=\"paṭhaviṃ (bj, s2, s3, pts1-2)\" id=\""
-"note15\">pathaviṃ</span> imaṃ;"
+msgid "apharī pathaviṃ imaṃ;"
 msgstr "with the perception of bones."
 
 #. <br>
@@ -56,10 +54,9 @@ msgid "Maññehaṃ kāmarāgaṃ so,"
 msgstr "I think he will quickly"
 
 #. <br>
+#. VAR: pahissatī”ti → pahiyyatīti (bj) | pahīyatīti (s2, s3, pts1) | pahassati (pts2)
 msgctxt "thag1.18:5.6"
-msgid ""
-"khippameva <span class=\"var\" title=\"pahiyyatīti (bj) | pahīyatīti (s2, "
-"s3, pts1) | pahassati (pts2)\" id=\"note16\">pahissatī”ti</span>."
+msgid "khippameva pahissatī”ti."
 msgstr "get rid of sensual desire."
 
 #. </p></blockquote><p class="endsutta">
@@ -67,8 +64,7 @@ msgctxt "thag1.18:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Siṅgālapitā → sigālapitu (bj)
 msgctxt "thag1.18:6.2"
-msgid ""
-"<span class=\"var\" title=\"sigālapitu (bj)\" id=\"note17\""
-">Siṅgālapitā</span> thero …."
+msgid "Siṅgālapitā thero …."
 msgstr ""

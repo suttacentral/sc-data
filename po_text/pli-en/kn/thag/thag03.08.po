@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Paṭhamavagga"
 msgstr "Chapter One"
 
 #. </p><h1>
+#. VAR: 3.8 Vassikattheragāthā → passikattheragāthā (bj)
 msgctxt "thag3.8:4.1"
-msgid ""
-"<span class=\"var\" title=\"passikattheragāthā (bj)\" id=\"note158\">3.8 "
-"Vassikattheragāthā</span>"
+msgid "3.8 Vassikattheragāthā"
 msgstr "3.8. Vassika"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc240"></a><a class="verse-num-pts"
-#. id="verse-num-pts240"></a>
+#. class="vns" id="vns240"></a><a class="vnp"
+#. id="vnp240"></a>
 msgctxt "thag3.8:5.1"
 msgid "“Ekopi saddho medhāvī,"
 msgstr "I was the only one in my family"
@@ -50,8 +48,8 @@ msgctxt "thag3.8:5.4"
 msgid "hoti atthāya bandhunaṃ."
 msgstr "firm in Dhamma, and my conduct is virtuous."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc241"></a><a class="verse-num-pts" id="verse-num-pts241"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns241"></a><a class="vnp" id="vnp241"></a>
 msgctxt "thag3.8:6.1"
 msgid "Niggayha anukampāya,"
 msgstr "I rebuked my family out of compassion,"
@@ -71,8 +69,8 @@ msgctxt "thag3.8:6.4"
 msgid "kāraṃ katvāna bhikkhusu."
 msgstr "They performed a service for the monks"
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc242"></a><a class="verse-num-pts" id="verse-num-pts242"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns242"></a><a class="vnp" id="vnp242"></a>
 msgctxt "thag3.8:7.1"
 msgid "Te abbhatītā kālaṅkatā,"
 msgstr "and then they passed away,"
@@ -97,8 +95,7 @@ msgctxt "thag3.8:8.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Vassiko → passiko (bj, s2, s3, pts1-2)
 msgctxt "thag3.8:8.2"
-msgid ""
-"<span class=\"var\" title=\"passiko (bj, s2, s3, pts1-2)\" id=\"note159\""
-">Vassiko</span> thero …."
+msgid "Vassiko thero …."
 msgstr ""

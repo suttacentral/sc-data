@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -17,15 +16,14 @@ msgid "Chakkanipāta"
 msgstr "The Book of the Sixes"
 
 #. </p><h1>
+#. VAR: 6 Mahāpajāpatigotamītherīgāthā → mahāpajāpatīgotamītherīgāthā (bj)
 msgctxt "thig6.6:3.1"
-msgid ""
-"<span class=\"var\" title=\"mahāpajāpatīgotamītherīgāthā (bj)\" id=\"note62\""
-">6 Mahāpajāpatigotamītherīgāthā</span>"
+msgid "6 Mahāpajāpatigotamītherīgāthā"
 msgstr "6.6. Mahāpajāpati Gotamī"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc157"></a><a class="verse-num-pts"
-#. id="verse-num-pts157"></a>
+#. class="vns" id="vns157"></a><a class="vnp"
+#. id="vnp157"></a>
 msgctxt "thig6.6:4.1"
 msgid "“Buddha vīra namo tyatthu,"
 msgstr "Oh Buddha, my hero: homage to you!"
@@ -45,8 +43,8 @@ msgctxt "thig6.6:4.4"
 msgid "aññañca bahukaṃ janaṃ."
 msgstr "and many other beings as well."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc158"></a><a class="verse-num-pts" id="verse-num-pts158"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns158"></a><a class="vnp" id="vnp158"></a>
 msgctxt "thig6.6:5.1"
 msgid "Sabbadukkhaṃ pariññātaṃ,"
 msgstr "All suffering is fully understood;"
@@ -57,10 +55,9 @@ msgid "Hetutaṇhā visositā;"
 msgstr "craving—its cause—is dried up;"
 
 #. <br>
+#. VAR: Bhāvito aṭṭhaṅgiko →  ariyaṭṭhaṅgiko (ka-sī, pā1-2), bhāvitaṭṭhaṅgiko (syā2, syā3)
 msgctxt "thig6.6:5.3"
-msgid ""
-"<span class=\"var\" title=\" ariyaṭṭhaṅgiko (ka-sī, pā1-2), bhāvitaṭṭhaṅgiko "
-"(syā2, syā3)\" id=\"note63\">Bhāvito aṭṭhaṅgiko</span> maggo,"
+msgid "Bhāvito aṭṭhaṅgiko maggo,"
 msgstr "the eightfold path has been developed;"
 
 #. <br>
@@ -68,9 +65,9 @@ msgctxt "thig6.6:5.4"
 msgid "Nirodho phusito mayā."
 msgstr "and cessation has been realized by me."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc159"></a><a class="verse-num-pts"
-#. id="verse-num-pts159"></a><a class="pts" id="pts139"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns159"></a><a class="vnp"
+#. id="vnp159"></a><a class="pts" id="pts139"></a>
 msgctxt "thig6.6:6.1"
 msgid "Mātā putto pitā bhātā,"
 msgstr "Previously I was a mother, a son,"
@@ -90,8 +87,8 @@ msgctxt "thig6.6:6.4"
 msgid "saṃsariṃhaṃ anibbisaṃ."
 msgstr "I’ve transmigrated without reward."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc160"></a><a class="verse-num-pts" id="verse-num-pts160"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns160"></a><a class="vnp" id="vnp160"></a>
 msgctxt "thig6.6:7.1"
 msgid "Diṭṭho hi me so bhagavā,"
 msgstr "Since I have seen the Blessed One,"
@@ -111,8 +108,8 @@ msgctxt "thig6.6:7.4"
 msgid "natthi dāni punabbhavo."
 msgstr "now there are no more future lives."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc161"></a><a class="verse-num-pts" id="verse-num-pts161"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns161"></a><a class="vnp" id="vnp161"></a>
 msgctxt "thig6.6:8.1"
 msgid "Āraddhavīriye pahitatte,"
 msgstr "I see the disciples in harmony,"
@@ -132,12 +129,11 @@ msgctxt "thig6.6:8.4"
 msgid "Esā buddhāna vandanā."
 msgstr "this is homage to the Buddhas!"
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc162"></a><a class="verse-num-pts" id="verse-num-pts162"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns162"></a><a class="vnp" id="vnp162"></a>
+#. VAR: Bahūnaṃ → bahunnaṃ (bj)
 msgctxt "thig6.6:9.1"
-msgid ""
-"<span class=\"var\" title=\"bahunnaṃ (bj)\" id=\"note65\">Bahūnaṃ</span> "
-"vata atthāya,"
+msgid "Bahūnaṃ vata atthāya,"
 msgstr "It was truly for the benefit of many"
 
 #. <br>
@@ -160,8 +156,7 @@ msgctxt "thig6.6:10.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Mahāpajāpatigotamī → mahāpajāpatīgotamī (bj, s2, s3, pts1-2)
 msgctxt "thig6.6:10.2"
-msgid ""
-"<span class=\"var\" title=\"mahāpajāpatīgotamī (bj, s2, s3, pts1-2)\" id=\""
-"note66\">Mahāpajāpatigotamī</span> therī …."
+msgid "Mahāpajāpatigotamī therī …."
 msgstr ""

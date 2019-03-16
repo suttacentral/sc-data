@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,8 +21,8 @@ msgid "3. Puṇṇātherīgāthā"
 msgstr "3. Puṇṇā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc3"></a><a class="verse-num-pts"
-#. id="verse-num-pts3"></a>
+#. class="vns" id="vns3"></a><a class="vnp"
+#. id="vnp3"></a>
 msgctxt "thig1.3:4.1"
 msgid "“Puṇṇe pūrassu dhammehi,"
 msgstr "Puṇṇā, be filled with good qualities,"
@@ -39,10 +38,9 @@ msgid "Paripuṇṇāya paññāya,"
 msgstr "When your wisdom is full,"
 
 #. <br>
+#. VAR: Tamokhandhaṃ → tamokkhandhaṃ (bj, s2, s3, pts1-2)
 msgctxt "thig1.3:4.4"
-msgid ""
-"<span class=\"var\" title=\"tamokkhandhaṃ (bj, s2, s3, pts1-2)\" id=\"note1\""
-">Tamokhandhaṃ</span> padālayā”ti."
+msgid "Tamokhandhaṃ padālayā”ti."
 msgstr "shatter the mass of darkness."
 
 #. </p></blockquote><p><a class="sc" id="2"></a>

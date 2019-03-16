@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,28 +21,23 @@ msgid "Pañcamavagga"
 msgstr "Chapter Five"
 
 #. </p><h1>
+#. VAR: 1.42 Khadiravaniyattheragāthā → khadiravaniyarevatattheragāthā (bj)
 msgctxt "thag1.42:4.1"
-msgid ""
-"<span class=\"var\" title=\"khadiravaniyarevatattheragāthā (bj)\" id=\""
-"note37\">1.42 Khadiravaniyattheragāthā</span>"
+msgid "1.42 Khadiravaniyattheragāthā"
 msgstr "1.42. Khadiravaniya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc42"></a><a class="verse-num-pts"
-#. id="verse-num-pts42"></a>
+#. class="vns" id="vns42"></a><a class="vnp"
+#. id="vnp42"></a>
+#. VAR: Cāle upacāle sīsūpacāle → hale upahale sīsupahale (s2, s3)
 msgctxt "thag1.42:5.1"
-msgid ""
-"“<span class=\"var\" title=\"hale upahale sīsupahale (s2, s3)\" id=\"note38\""
-">Cāle upacāle sīsūpacāle</span> <span class=\"var\" title=\"(halā upahalā "
-"sīsupahalā) (s2, s3) | (cālā upacālā sīsūpacālā) (mr)\" id=\"note39\""
-">()</span>,"
+msgid "“Cāle upacāle sīsūpacāle <span class=\"var\" title=\"(halā upahalā sīsupahalā) (s2, s3) | (cālā upacālā sīsūpacālā) (mr)\" id=\"note39\">()</span>,"
 msgstr "Cāla, Upacāla, and Sīsupacāla"
 
 #. <br>
+#. VAR: Patissatā → patissatikā (s2, s3, pts1-2, mr)
 msgctxt "thag1.42:5.2"
-msgid ""
-"<span class=\"var\" title=\"patissatikā (s2, s3, pts1-2, mr)\" id=\"note40\""
-">Patissatā</span> nu kho viharatha;"
+msgid "Patissatā nu kho viharatha;"
 msgstr "meditate mindfully!"
 
 #. <br>

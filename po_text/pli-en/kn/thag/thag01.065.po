@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Sattamavagga"
 msgstr "Chapter Seven"
 
 #. </p><h1>
+#. VAR: 1.65 Ukkhepakatavacchattheragāthā → upekkhapakaṭavacchattheragāthā (bj)
 msgctxt "thag1.65:4.1"
-msgid ""
-"<span class=\"var\" title=\"upekkhapakaṭavacchattheragāthā (bj)\" id=\""
-"note49\">1.65 Ukkhepakatavacchattheragāthā</span>"
+msgid "1.65 Ukkhepakatavacchattheragāthā"
 msgstr "1.65. Ukkhepakatavaccha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc65"></a><a class="verse-num-pts"
-#. id="verse-num-pts65"></a>
+#. class="vns" id="vns65"></a><a class="vnp"
+#. id="vnp65"></a>
 msgctxt "thag1.65:5.1"
 msgid "“Ukkhepakatavacchassa,"
 msgstr "Vaccha has tossed away"
@@ -55,8 +53,7 @@ msgctxt "thag1.65:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Ukkhepakatavaccho → upekkhepakaṭavaccho (bj, s2, s3)
 msgctxt "thag1.65:6.2"
-msgid ""
-"<span class=\"var\" title=\"upekkhepakaṭavaccho (bj, s2, s3)\" id=\"note50\""
-">Ukkhepakatavaccho</span> thero …."
+msgid "Ukkhepakatavaccho thero …."
 msgstr ""

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -17,15 +16,14 @@ msgid "Pañcakanipāta"
 msgstr "The Book of the Fives"
 
 #. </p><h1>
+#. VAR: 6 Mittākāḷītherīgāthā → mittākāḷitherīgāthā (bj)
 msgctxt "thig5.6:3.1"
-msgid ""
-"<span class=\"var\" title=\"mittākāḷitherīgāthā (bj)\" id=\"note37\">6 "
-"Mittākāḷītherīgāthā</span>"
+msgid "6 Mittākāḷītherīgāthā"
 msgstr "5.6. Mittākāḷī"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc92"></a><a class="verse-num-pts"
-#. id="verse-num-pts92"></a>
+#. class="vns" id="vns92"></a><a class="vnp"
+#. id="vnp92"></a>
 msgctxt "thig5.6:4.1"
 msgid "“Saddhāya pabbajitvāna,"
 msgstr "Having gone forth out of faith"
@@ -45,8 +43,8 @@ msgctxt "thig5.6:4.4"
 msgid "lābhasakkāraussukā."
 msgstr "jealous of possessions and honors."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc93"></a><a class="verse-num-pts" id="verse-num-pts93"></a><a
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns93"></a><a class="vnp" id="vnp93"></a><a
 #. class="pts" id="pts133"></a>
 msgctxt "thig5.6:5.1"
 msgid "Riñcitvā paramaṃ atthaṃ,"
@@ -67,8 +65,8 @@ msgctxt "thig5.6:5.4"
 msgid "sāmaññatthaṃ na bujjhihaṃ."
 msgstr "I never knew the goal of the ascetic life."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc94"></a><a class="verse-num-pts" id="verse-num-pts94"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns94"></a><a class="vnp" id="vnp94"></a>
 msgctxt "thig5.6:6.1"
 msgid "Tassā me ahu saṃvego,"
 msgstr "I was struck with a sense of urgency"
@@ -88,8 +86,8 @@ msgctxt "thig5.6:6.4"
 msgid "taṇhāya vasamāgatā."
 msgstr "under the sway of craving."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc95"></a><a class="verse-num-pts" id="verse-num-pts95"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns95"></a><a class="vnp" id="vnp95"></a>
 msgctxt "thig5.6:7.1"
 msgid "Appakaṃ jīvitaṃ mayhaṃ,"
 msgstr "My life is short,"
@@ -100,10 +98,9 @@ msgid "jarā byādhi ca maddati;"
 msgstr "trampled by old age and sickness."
 
 #. <br>
+#. VAR: Purāyaṃ bhijjati → jarāya bhijjate (bj)
 msgctxt "thig5.6:7.3"
-msgid ""
-"<span class=\"var\" title=\"jarāya bhijjate (bj)\" id=\"note38\">Purāyaṃ "
-"bhijjati</span> kāyo,"
+msgid "Purāyaṃ bhijjati kāyo,"
 msgstr "Before this body breaks apart,"
 
 #. <br>
@@ -111,8 +108,8 @@ msgctxt "thig5.6:7.4"
 msgid "na me kālo pamajjituṃ."
 msgstr "there is no time for me to be careless.”"
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc96"></a><a class="verse-num-pts" id="verse-num-pts96"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns96"></a><a class="vnp" id="vnp96"></a>
 msgctxt "thig5.6:8.1"
 msgid "Yathābhūtamavekkhantī,"
 msgstr "I examined in line with reality"
@@ -137,8 +134,7 @@ msgctxt "thig5.6:9.1"
 msgid "…"
 msgstr ""
 
+#. VAR: kāḷī → mittā kāḷi (bj) | mittakālī (s2, s3, pts1-2)
 msgctxt "thig5.6:9.2"
-msgid ""
-"Mittā <span class=\"var\" title=\"mittā kāḷi (bj) | mittakālī (s2, s3, "
-"pts1-2)\" id=\"note39\">kāḷī</span> therī …."
+msgid "Mittā kāḷī therī …."
 msgstr ""

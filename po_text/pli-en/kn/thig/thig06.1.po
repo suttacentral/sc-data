@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -23,8 +22,8 @@ msgid "1. Pañcasatamattātherīgāthā"
 msgstr "6.1. Paṭācārā, Who Had a Following of Five Hundred"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc127"></a><a class="verse-num-pts"
-#. id="verse-num-pts127"></a>
+#. class="vns" id="vns127"></a><a class="vnp"
+#. id="vnp127"></a>
 msgctxt "thig6.1:4.1"
 msgid "“Yassa maggaṃ na jānāsi,"
 msgstr "“He whose path you do not know,"
@@ -35,11 +34,9 @@ msgid "āgatassa gatassa vā;"
 msgstr "not whence he came nor where he went;"
 
 #. <br>
+#. VAR: cāgataṃ → āgataṃ (bj, s2, s3, pts1-2)
 msgctxt "thig6.1:4.3"
-msgid ""
-"Taṃ kuto <span class=\"var\" title=\"āgataṃ (bj, s2, s3, pts1-2)\" id=\""
-"note49\">cāgataṃ</span> <span class=\"var\" title=\"puttaṃ (s2, s3, pts1-2)\""
-" id=\"note50\">sattaṃ</span>,"
+msgid "Taṃ kuto cāgataṃ <span class=\"var\" title=\"puttaṃ (s2, s3, pts1-2)\" id=\"note50\">sattaṃ</span>,"
 msgstr "though he came from who knows where,"
 
 #. <br>
@@ -47,12 +44,11 @@ msgctxt "thig6.1:4.4"
 msgid "‘mama putto’ti rodasi."
 msgstr "you mourn that being, crying, ‘Oh my son!’"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc128"></a><a class="verse-num-pts" id="verse-num-pts128"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns128"></a><a class="vnp" id="vnp128"></a>
+#. VAR: khossa → kho'tha (mr)
 msgctxt "thig6.1:5.1"
-msgid ""
-"Maggañca <span class=\"var\" title=\"kho'tha (mr)\" id=\"note51\""
-">khossa</span> jānāsi,"
+msgid "Maggañca khossa jānāsi,"
 msgstr "But one whose path you do know,"
 
 #. <br>
@@ -70,17 +66,16 @@ msgctxt "thig6.1:5.4"
 msgid "evaṃdhammā hi pāṇino."
 msgstr "such is the nature of living creatures."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc129"></a><a class="verse-num-pts" id="verse-num-pts129"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns129"></a><a class="vnp" id="vnp129"></a>
 msgctxt "thig6.1:6.1"
 msgid "Ayācito tatāgacchi,"
 msgstr "Unasked he came,"
 
 #. <br>
+#. VAR: nānuññāto → ananuññāto (bj, s2, s3, pts1-2)
 msgctxt "thig6.1:6.2"
-msgid ""
-"<span class=\"var\" title=\"ananuññāto (bj, s2, s3, pts1-2)\" id=\"note52\""
-">nānuññāto</span> ito gato;"
+msgid "nānuññāto ito gato;"
 msgstr "he left without leave."
 
 #. <br>
@@ -103,8 +98,8 @@ msgctxt "thig6.1:6.6"
 msgid "tatopaññena gacchati."
 msgstr "he will go from there by another."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc130"></a><a class="verse-num-pts" id="verse-num-pts130"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns130"></a><a class="vnp" id="vnp130"></a>
 msgctxt "thig6.1:7.1"
 msgid "Peto manussarūpena,"
 msgstr "Departing with the form of a human,"
@@ -124,12 +119,11 @@ msgctxt "thig6.1:7.4"
 msgid "kā tattha paridevanā”."
 msgstr "why cry over that?”"
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc131"></a><a class="verse-num-pts" id="verse-num-pts131"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns131"></a><a class="vnp" id="vnp131"></a>
+#. VAR: Abbahī → abbuyhi (s2, s3) | abbuhi (pts1-2)
 msgctxt "thig6.1:8.1"
-msgid ""
-"“<span class=\"var\" title=\"abbuyhi (s2, s3) | abbuhi (pts1-2)\" id=\""
-"note53\">Abbahī</span> vata me sallaṃ,"
+msgid "“Abbahī vata me sallaṃ,"
 msgstr "“Oh! For you have plucked the dart from me,"
 
 #. <br>
@@ -147,8 +141,8 @@ msgctxt "thig6.1:8.4"
 msgid "puttasokaṃ byapānudi."
 msgstr "in which I once was mired."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc132"></a><a class="verse-num-pts" id="verse-num-pts132"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns132"></a><a class="vnp" id="vnp132"></a>
 msgctxt "thig6.1:9.1"
 msgid "Sājja abbūḷhasallāhaṃ,"
 msgstr "Today I’ve plucked the dart,"
@@ -169,13 +163,10 @@ msgid "Upemi saraṇaṃ muniṃ”."
 msgstr "to his teaching, and to the Sangha.”"
 
 #. </p></blockquote><p><a class="sc" id="7"></a>
+#. VAR: pañcasatamattā → pañcasatā paṭācārā (s2, s3, pts1-2)
 msgctxt "thig6.1:10.1"
-msgid ""
-"Itthaṃ sudaṃ <span class=\"var\" title=\"pañcasatā paṭācārā (s2, s3, pts1-2)"
-"\" id=\"note54\">pañcasatamattā</span> therī bhikkhuniyo …"
-msgstr ""
-"It was thus that Paṭācārā, who had a following of five hundred, declared her "
-"enlightenment."
+msgid "Itthaṃ sudaṃ pañcasatamattā therī bhikkhuniyo …"
+msgstr "It was thus that Paṭācārā, who had a following of five hundred, declared her enlightenment."
 
 msgctxt "thig6.1:10.2"
 msgid "pe …."

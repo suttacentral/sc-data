@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.4. Gaṅgātīriyattheragāthā"
 msgstr "2.4. Gaṅgātīriya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc127"></a><a class="verse-num-pts"
-#. id="verse-num-pts127"></a>
+#. class="vns" id="vns127"></a><a class="vnp"
+#. id="vnp127"></a>
 msgctxt "thag2.4:5.1"
 msgid "“Tiṇṇaṃ me tālapattānaṃ,"
 msgstr "My hut on the bank of the Ganges"
@@ -48,8 +47,8 @@ msgctxt "thag2.4:5.4"
 msgid "paṃsukūlañca cīvaraṃ."
 msgstr "my robe is cast-off rags."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc128"></a><a class="verse-num-pts" id="verse-num-pts128"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns128"></a><a class="vnp" id="vnp128"></a>
 msgctxt "thag2.4:6.1"
 msgid "Dvinnaṃ antaravassānaṃ,"
 msgstr "In my first two rainy seasons"
@@ -65,10 +64,9 @@ msgid "Tatiye antaravassamhi,"
 msgstr "In my third rainy season"
 
 #. <br>
+#. VAR: tamokhandho → tamokkhandho (bj, s2, s3)
 msgctxt "thag2.4:6.4"
-msgid ""
-"<span class=\"var\" title=\"tamokkhandho (bj, s2, s3)\" id=\"note83\""
-">tamokhandho</span> padālito”ti."
+msgid "tamokhandho padālito”ti."
 msgstr "the mass of darkness was shattered."
 
 #. </p></blockquote><p class="endsutta">

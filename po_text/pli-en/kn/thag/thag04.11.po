@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "4.11. Sappakattheragāthā"
 msgstr "4.11. Sappaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc307"></a><a class="verse-num-pts"
-#. id="verse-num-pts307"></a>
+#. class="vns" id="vns307"></a><a class="vnp"
+#. id="vnp307"></a>
 msgctxt "thag4.11:5.1"
 msgid "“Yadā balākā sucipaṇḍaracchadā,"
 msgstr "When the crane with its beautiful white wings,"
@@ -48,9 +47,9 @@ msgctxt "thag4.11:5.4"
 msgid "Tadā nadī ajakaraṇī rameti maṃ."
 msgstr "then the River Ajakaraṇī delights me."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc308"></a><a class="verse-num-pts"
-#. id="verse-num-pts308"></a><a class="pts" id="pts36"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns308"></a><a class="vnp"
+#. id="vnp308"></a><a class="pts" id="pts36"></a>
 msgctxt "thag4.11:6.1"
 msgid "Yadā balākā suvisuddhapaṇḍarā,"
 msgstr "When the crane, so pure and white,"
@@ -70,8 +69,8 @@ msgctxt "thag4.11:6.4"
 msgid "Tadā nadī ajakaraṇī rameti maṃ."
 msgstr "then the River Ajakaraṇī delights me."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc309"></a><a class="verse-num-pts" id="verse-num-pts309"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns309"></a><a class="vnp" id="vnp309"></a>
 msgctxt "thag4.11:7.1"
 msgid "Kaṃ nu tattha na ramenti,"
 msgstr "Who wouldn’t be delighted"
@@ -87,18 +86,16 @@ msgid "Sobhenti āpagākūlaṃ,"
 msgstr "that adorn both banks of the river,"
 
 #. <br>
+#. VAR: mama leṇassa → mahāleṇassa (s2, s3, mr) | mahālenassa (pts1)
 msgctxt "thag4.11:7.4"
-msgid ""
-"<span class=\"var\" title=\"mahāleṇassa (s2, s3, mr) | mahālenassa (pts1)\" "
-"id=\"note179\">mama leṇassa</span> pacchato."
+msgid "mama leṇassa pacchato."
 msgstr "there, behind my cave?"
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc310"></a><a class="verse-num-pts" id="verse-num-pts310"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns310"></a><a class="vnp" id="vnp310"></a>
+#. VAR: Tāmatamadasaṃghasuppahīnā → tā mata ... (bj) | ta'mata ... (pts2)
 msgctxt "thag4.11:8.1"
-msgid ""
-"<span class=\"var\" title=\"tā mata ... (bj) | ta'mata ... (pts2)\" id=\""
-"note180\">Tāmatamadasaṃghasuppahīnā</span>,"
+msgid "Tāmatamadasaṃghasuppahīnā,"
 msgstr "Rid of snakes, that death-mad swarm,"
 
 #. <br>

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -28,17 +27,13 @@ msgstr "1.96. Khaṇḍasumana"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag1.96:5.1"
-msgid ""
-"<span class=\"cross\" title=\"^ne6#89 [Sāsanapaṭṭhāna]\" id=\"note64\""
-">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc96\"></a><a class"
-"=\"verse-num-pts\" id=\"verse-num-pts96\"></a>“Ekapupphaṃ cajitvāna,"
+msgid "<a class=\"vns\" id=\"vns96\"></a><a class=\"vnp\" id=\"vnp96\"></a>“Ekapupphaṃ cajitvāna,"
 msgstr "I offered a single flower"
 
 #. <br>
+#. VAR: asīti → asītiṃ (bj, pts1-2)
 msgctxt "thag1.96:5.2"
-msgid ""
-"<span class=\"var\" title=\"asītiṃ (bj, pts1-2)\" id=\"note65\">asīti</span> "
-"vassakoṭiyo;"
+msgid "asīti vassakoṭiyo;"
 msgstr "and then amused myself in heavens"
 
 #. <br>

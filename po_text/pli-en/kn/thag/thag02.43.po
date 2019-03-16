@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,14 +26,11 @@ msgid "2.43. Brahmālittheragāthā"
 msgstr "2.43. Brahmāli"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc205"></a><a class="verse-num-pts"
-#. id="verse-num-pts205"></a>
+#. class="vns" id="vns205"></a><a class="vnp"
+#. id="vnp205"></a>
+#. VAR: Kassindriyāni → yassindriyāni (^dhp90-99#94.1 [90. Jīvakapañhavatthu/94. Mahākaccāyanattheravatthu]; ^ne6#321 [Sāsanapaṭṭhāna]; ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi])
 msgctxt "thag2.43:5.1"
-msgid ""
-"“<span class=\"var\" title=\"yassindriyāni (^dhp90-99#94.1 [90. "
-"Jīvakapañhavatthu/94. Mahākaccāyanattheravatthu]; ^ne6#321 [Sāsanapaṭṭhāna]; "
-"^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi])\" id=\"note136\">Kassindriyāni</span> "
-"samathaṅgatāni,"
+msgid "“Kassindriyāni samathaṅgatāni,"
 msgstr "Whose faculties have become serene,"
 
 #. <br>
@@ -48,20 +44,14 @@ msgid "Pahīnamānassa anāsavassa,"
 msgstr "Who has abandoned conceit and defilements,"
 
 #. <br>
+#. VAR: kassa → tassa (bj, s2, s3, pts1)
 msgctxt "thag2.43:5.4"
-msgid ""
-"Devāpi <span class=\"var\" title=\"tassa (bj, s2, s3, pts1)\" id=\"note137\""
-">kassa</span> pihayanti tādinoti."
+msgid "Devāpi kassa pihayanti tādinoti."
 msgstr "becoming such that even the gods envy them?"
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag2.43:6.1"
-msgid ""
-"<span class=\"cross\" title=\"^dhp90-99#94.1 [90. Jīvakapañhavatthu/94. "
-"Mahākaccāyanattheravatthu] | ^ne6#321 [Sāsanapaṭṭhāna] | ^pe2#97 "
-"[Sāsanapaṭṭhānadutiyabhūmi]\" id=\"note138\">*</span> <a class=\"verse-num-"
-"sc\" id=\"verse-num-sc206\"></a><a class=\"verse-num-pts\" id=\"verse-num-"
-"pts206\"></a>Mayhindriyāni samathaṅgatāni,"
+msgid "<a class=\"verse-num-sc\" id=\"vns206\"></a><a class=\"vnp\" id=\"verse-num-pts206\"></a>Mayhindriyāni samathaṅgatāni,"
 msgstr "My faculties have become serene,"
 
 #. <br>

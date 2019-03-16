@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Paṭhamavagga"
 msgstr "Chapter One"
 
 #. </p><h1>
+#. VAR: 16.2 Pārāpariyattheragāthā → pārāsariyattheragāthā (bj)
 msgctxt "thag16.2:4.1"
-msgid ""
-"<span class=\"var\" title=\"pārāsariyattheragāthā (bj)\" id=\"note329\">16.2 "
-"Pārāpariyattheragāthā</span>"
+msgid "16.2 Pārāpariyattheragāthā"
 msgstr "16.2. Pārāpariya (2nd)"
 
 #. </h1><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc726"></a><a class="verse-num-pts"
-#. id="verse-num-pts726"></a>
+#. class="vns" id="vns726"></a><a class="vnp"
+#. id="vnp726"></a>
 msgctxt "thag16.2:5.1"
 msgid "“Samaṇassa ahu cintā,"
 msgstr "This thought came to the ascetic,"
@@ -50,17 +48,16 @@ msgctxt "thag16.2:5.4"
 msgid "pavivittassa jhāyino."
 msgstr "meditating in seclusion:"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc727"></a><a class="verse-num-pts" id="verse-num-pts727"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns727"></a><a class="vnp" id="vnp727"></a>
 msgctxt "thag16.2:6.1"
 msgid "Kimānupubbaṃ puriso,"
 msgstr "“Following what system,"
 
 #. <br>
+#. VAR: samācāraṃ → samācaraṃ (bj, pts2)
 msgctxt "thag16.2:6.2"
-msgid ""
-"kiṃ vataṃ kiṃ <span class=\"var\" title=\"samācaraṃ (bj, pts2)\" id=\""
-"note330\">samācāraṃ</span>;"
+msgid "kiṃ vataṃ kiṃ samācāraṃ;"
 msgstr "what observance, what conduct,"
 
 #. <br>
@@ -73,8 +70,8 @@ msgctxt "thag16.2:6.4"
 msgid "na ca kañci viheṭhaye."
 msgstr "without harming anyone else?"
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc728"></a><a class="verse-num-pts" id="verse-num-pts728"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns728"></a><a class="vnp" id="vnp728"></a>
 msgctxt "thag16.2:7.1"
 msgid "Indriyāni manussānaṃ,"
 msgstr "The faculties of human beings"
@@ -94,8 +91,8 @@ msgctxt "thag16.2:7.4"
 msgid "rakkhitāni hitāya ca."
 msgstr "guarded they lead to welfare."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc729"></a><a class="verse-num-pts" id="verse-num-pts729"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns729"></a><a class="vnp" id="vnp729"></a>
 msgctxt "thag16.2:8.1"
 msgid "Indriyāneva sārakkhaṃ,"
 msgstr "By protecting the faculties,"
@@ -115,8 +112,8 @@ msgctxt "thag16.2:8.4"
 msgid "na ca kañci viheṭhaye."
 msgstr "without harming anyone else."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc730"></a><a class="verse-num-pts" id="verse-num-pts730"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns730"></a><a class="vnp" id="vnp730"></a>
 msgctxt "thag16.2:9.1"
 msgid "Cakkhundriyañce rūpesu,"
 msgstr "If your eye wanders"
@@ -136,8 +133,8 @@ msgctxt "thag16.2:9.4"
 msgid "so dukkhā na hi muccati."
 msgstr "you’re not freed from suffering."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc731"></a><a class="verse-num-pts" id="verse-num-pts731"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns731"></a><a class="vnp" id="vnp731"></a>
 msgctxt "thag16.2:10.1"
 msgid "Sotindriyañce saddesu,"
 msgstr "If your ear wanders"
@@ -157,9 +154,9 @@ msgctxt "thag16.2:10.4"
 msgid "so dukkhā na hi muccati."
 msgstr "you’re not freed from suffering."
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc732"></a><a class="verse-num-pts"
-#. id="verse-num-pts732"></a><a class="pts" id="pts73"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns732"></a><a class="vnp"
+#. id="vnp732"></a><a class="pts" id="pts73"></a>
 msgctxt "thag16.2:11.1"
 msgid "Anissaraṇadassāvī,"
 msgstr "If, not seeing the escape,"
@@ -179,12 +176,11 @@ msgctxt "thag16.2:11.4"
 msgid "gandhesu adhimucchito."
 msgstr "being besotted by smells."
 
-#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
-#. id="verse-num-sc733"></a><a class="verse-num-pts" id="verse-num-pts733"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns"
+#. id="vns733"></a><a class="vnp" id="vnp733"></a>
+#. VAR: Ambilaṃ → ambila (s2, s3, pts1)
 msgctxt "thag16.2:12.1"
-msgid ""
-"<span class=\"var\" title=\"ambila (s2, s3, pts1)\" id=\"note331\""
-">Ambilaṃ</span> madhuraggañca,"
+msgid "Ambilaṃ madhuraggañca,"
 msgstr "Recollecting the sour,"
 
 #. <br>
@@ -193,10 +189,9 @@ msgid "tittakaggamanussaraṃ;"
 msgstr "the sweet and the bitter,"
 
 #. <br>
+#. VAR: gadhito → ganthito (pts2)
 msgctxt "thag16.2:12.3"
-msgid ""
-"Rasataṇhāya <span class=\"var\" title=\"ganthito (pts2)\" id=\"note332\""
-">gadhito</span>,"
+msgid "Rasataṇhāya gadhito,"
 msgstr "captivated by craving for taste,"
 
 #. <br>
@@ -204,8 +199,8 @@ msgctxt "thag16.2:12.4"
 msgid "hadayaṃ nāvabujjhati."
 msgstr "you don’t understand the heart."
 
-#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
-#. id="verse-num-sc734"></a><a class="verse-num-pts" id="verse-num-pts734"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns"
+#. id="vns734"></a><a class="vnp" id="vnp734"></a>
 msgctxt "thag16.2:13.1"
 msgid "Subhānyappaṭikūlāni,"
 msgstr "Recollecting lovely"
@@ -225,8 +220,8 @@ msgctxt "thag16.2:13.4"
 msgid "vividhaṃ vindate dukhaṃ."
 msgstr "many kinds of suffering because of lust."
 
-#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
-#. id="verse-num-sc735"></a><a class="verse-num-pts" id="verse-num-pts735"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns"
+#. id="vns735"></a><a class="vnp" id="vnp735"></a>
 msgctxt "thag16.2:14.1"
 msgid "Manaṃ cetehi dhammehi,"
 msgstr "Unable to protect"
@@ -246,8 +241,8 @@ msgctxt "thag16.2:14.4"
 msgid "sabbehetehi pañcahi."
 msgstr "because of all five."
 
-#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
-#. id="verse-num-sc736"></a><a class="verse-num-pts" id="verse-num-pts736"></a>
+#. </p><p><a class="sc" id="11"></a><a class="vns"
+#. id="vns736"></a><a class="vnp" id="vnp736"></a>
 msgctxt "thag16.2:15.1"
 msgid "Pubbalohitasampuṇṇaṃ,"
 msgstr "This body is full of pus and blood,"
@@ -267,8 +262,8 @@ msgctxt "thag16.2:15.4"
 msgid "samuggamiva cittitaṃ."
 msgstr "like a lovely painted casket."
 
-#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
-#. id="verse-num-sc737"></a><a class="verse-num-pts" id="verse-num-pts737"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns"
+#. id="vns737"></a><a class="vnp" id="vnp737"></a>
 msgctxt "thag16.2:16.1"
 msgid "Kaṭukaṃ madhurassādaṃ,"
 msgstr "You don’t understand that"
@@ -288,12 +283,11 @@ msgctxt "thag16.2:16.4"
 msgid "ullihaṃ nāvabujjhati."
 msgstr "like a razor’s edge smeared with honey."
 
-#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
-#. id="verse-num-sc738"></a><a class="verse-num-pts" id="verse-num-pts738"></a>
+#. </p><p><a class="sc" id="13"></a><a class="vns"
+#. id="vns738"></a><a class="vnp" id="vnp738"></a>
+#. VAR: itthisare → itthirase (s2, s3, pts1)
 msgctxt "thag16.2:17.1"
-msgid ""
-"Itthirūpe <span class=\"var\" title=\"itthirase (s2, s3, pts1)\" id=\""
-"note333\">itthisare</span>,"
+msgid "Itthirūpe itthisare,"
 msgstr "Full of lust for the sight of a woman,"
 
 #. <br>
@@ -311,8 +305,8 @@ msgctxt "thag16.2:17.4"
 msgid "vividhaṃ vindate dukhaṃ."
 msgstr "you experience many kinds of suffering."
 
-#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
-#. id="verse-num-sc739"></a><a class="verse-num-pts" id="verse-num-pts739"></a>
+#. </p><p><a class="sc" id="14"></a><a class="vns"
+#. id="vns739"></a><a class="vnp" id="vnp739"></a>
 msgctxt "thag16.2:18.1"
 msgid "Itthisotāni sabbāni,"
 msgstr "All of a woman’s streams"
@@ -332,8 +326,8 @@ msgctxt "thag16.2:18.4"
 msgid "yo sakkoti vīriyavā."
 msgstr "is able to curb these,"
 
-#. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
-#. id="verse-num-sc740"></a><a class="verse-num-pts" id="verse-num-pts740"></a>
+#. </p><p><a class="sc" id="15"></a><a class="vns"
+#. id="vns740"></a><a class="vnp" id="vnp740"></a>
 msgctxt "thag16.2:19.1"
 msgid "So atthavā so dhammaṭṭho,"
 msgstr "purposeful and firm in Dhamma,"
@@ -344,10 +338,9 @@ msgid "so dakkho so vicakkhaṇo;"
 msgstr "is clever and clear-seeing."
 
 #. <br>
+#. VAR: ramamānopi → ramamāno hi (s2, s3, pts1)
 msgctxt "thag16.2:19.3"
-msgid ""
-"Kareyya <span class=\"var\" title=\"ramamāno hi (s2, s3, pts1)\" id=\""
-"note334\">ramamānopi</span>,"
+msgid "Kareyya ramamānopi,"
 msgstr "Though he might enjoy himself,"
 
 #. <br>
@@ -355,12 +348,11 @@ msgctxt "thag16.2:19.4"
 msgid "kiccaṃ dhammatthasaṃhitaṃ."
 msgstr "his duty is connected with the teaching and its goal."
 
-#. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
-#. id="verse-num-sc741"></a><a class="verse-num-pts" id="verse-num-pts741"></a>
+#. </p><p><a class="sc" id="16"></a><a class="vns"
+#. id="vns741"></a><a class="vnp" id="vnp741"></a>
+#. VAR: Atho sīdati → adhosīdava (pts2)
 msgctxt "thag16.2:20.1"
-msgid ""
-"<span class=\"var\" title=\"adhosīdava (pts2)\" id=\"note335\">Atho "
-"sīdati</span> saññuttaṃ,"
+msgid "Atho sīdati saññuttaṃ,"
 msgstr "One who’s diligent and discerning,"
 
 #. <br>
@@ -378,8 +370,8 @@ msgctxt "thag16.2:20.4"
 msgid "appamatto vicakkhaṇo."
 msgstr "that’s doomed to failure."
 
-#. </p><p><a class="sc" id="17"></a><a class="verse-num-sc"
-#. id="verse-num-sc742"></a><a class="verse-num-pts" id="verse-num-pts742"></a>
+#. </p><p><a class="sc" id="17"></a><a class="vns"
+#. id="vns742"></a><a class="vnp" id="vnp742"></a>
 msgctxt "thag16.2:21.1"
 msgid "Yañca atthena saññuttaṃ,"
 msgstr "Whatever is meaningful,"
@@ -399,17 +391,16 @@ msgctxt "thag16.2:21.4"
 msgid "sā hi ve uttamā rati."
 msgstr "this is the best happiness."
 
-#. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
-#. id="verse-num-sc743"></a><a class="verse-num-pts" id="verse-num-pts743"></a>
+#. </p><p><a class="sc" id="18"></a><a class="vns"
+#. id="vns743"></a><a class="vnp" id="vnp743"></a>
 msgctxt "thag16.2:22.1"
 msgid "Uccāvacehupāyehi,"
 msgstr "They want to get hold of what belongs to others"
 
 #. <br>
+#. VAR: Paresamabhijigīsati → ... abhijigīsāti (s2, s3, pts1)
 msgctxt "thag16.2:22.2"
-msgid ""
-"<span class=\"var\" title=\"... abhijigīsāti (s2, s3, pts1)\" id=\"note336\""
-">Paresamabhijigīsati</span>;"
+msgid "Paresamabhijigīsati;"
 msgstr "by any means, fair or foul."
 
 #. <br>
@@ -422,8 +413,8 @@ msgctxt "thag16.2:22.4"
 msgid "Ālopati sāhasā yo paresaṃ."
 msgstr "violently plundering what belongs to others."
 
-#. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
-#. id="verse-num-sc744"></a><a class="verse-num-pts" id="verse-num-pts744"></a>
+#. </p><p><a class="sc" id="19"></a><a class="vns"
+#. id="vns744"></a><a class="vnp" id="vnp744"></a>
 msgctxt "thag16.2:23.1"
 msgid "Tacchanto āṇiyā āṇiṃ,"
 msgstr "Just as a strong person when building"
@@ -439,23 +430,21 @@ msgid "Indriyānindriyeheva,"
 msgstr "so the skillful person"
 
 #. <br>
+#. VAR: kusalo → kusalā (s2, s3, pts1)
 msgctxt "thag16.2:23.4"
-msgid ""
-"nihanti <span class=\"var\" title=\"kusalā (s2, s3, pts1)\" id=\"note337\""
-">kusalo</span> tathā."
+msgid "nihanti kusalo tathā."
 msgstr "knocks out the faculties with the faculties."
 
-#. </p><p><a class="sc" id="20"></a><a class="verse-num-sc"
-#. id="verse-num-sc745"></a><a class="verse-num-pts" id="verse-num-pts745"></a>
+#. </p><p><a class="sc" id="20"></a><a class="vns"
+#. id="vns745"></a><a class="vnp" id="vnp745"></a>
 msgctxt "thag16.2:24.1"
 msgid "Saddhaṃ vīriyaṃ samādhiñca,"
 msgstr "Developing faith, energy, immersion,"
 
 #. <br>
+#. VAR: satipaññañca → satiṃ paññañca (bj, pts2)
 msgctxt "thag16.2:24.2"
-msgid ""
-"<span class=\"var\" title=\"satiṃ paññañca (bj, pts2)\" id=\"note338\""
-">satipaññañca</span> bhāvayaṃ;"
+msgid "satipaññañca bhāvayaṃ;"
 msgstr "mindfulness, and wisdom;"
 
 #. <br>
@@ -468,8 +457,8 @@ msgctxt "thag16.2:24.4"
 msgid "anīgho yāti brāhmaṇo."
 msgstr "the brahmin lives without worry."
 
-#. </p><p><a class="sc" id="21"></a><a class="verse-num-sc"
-#. id="verse-num-sc746"></a><a class="verse-num-pts" id="verse-num-pts746"></a>
+#. </p><p><a class="sc" id="21"></a><a class="vns"
+#. id="vns746"></a><a class="vnp" id="vnp746"></a>
 msgctxt "thag16.2:25.1"
 msgid "So atthavā so dhammaṭṭho,"
 msgstr "Purposeful and firm in Dhamma,"
@@ -494,8 +483,7 @@ msgctxt "thag16.2:26.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Pārāpariyo → pārāsariyo (bj, s2, s3)
 msgctxt "thag16.2:26.2"
-msgid ""
-"<span class=\"var\" title=\"pārāsariyo (bj, s2, s3)\" id=\"note339\""
-">Pārāpariyo</span> thero …."
+msgid "Pārāpariyo thero …."
 msgstr ""

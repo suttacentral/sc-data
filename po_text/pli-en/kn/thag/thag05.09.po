@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "5.9. Vijitasenattheragāthā"
 msgstr "5.9. Vijitasena"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc355"></a><a class="verse-num-pts"
-#. id="verse-num-pts355"></a>
+#. class="vns" id="vns355"></a><a class="vnp"
+#. id="vnp355"></a>
 msgctxt "thag5.9:5.1"
 msgid "“Olaggessāmi te citta,"
 msgstr "I’ll cage you, mind,"
@@ -44,16 +43,14 @@ msgid "Na taṃ pāpe niyojessaṃ,"
 msgstr "Born of the flesh, that net of the senses,"
 
 #. <br>
+#. VAR: kāmajāla → kāmajālaṃ (s2, s3)
 msgctxt "thag5.9:5.4"
-msgid ""
-"<span class=\"var\" title=\"kāmajālaṃ (s2, s3)\" id=\"note196\""
-">kāmajāla</span> <span class=\"var\" title=\"sariraja (bj) | sarīrajaṃ (s2, "
-"s3, mr)\" id=\"note197\">sarīraja</span>."
+msgid "kāmajāla <span class=\"var\" title=\"sariraja (bj) | sarīrajaṃ (s2, s3, mr)\" id=\"note197\">sarīraja</span>."
 msgstr "I won’t urge you to do bad."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc356"></a><a class="verse-num-pts"
-#. id="verse-num-pts356"></a><a class="pts" id="pts40"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns356"></a><a class="vnp"
+#. id="vnp356"></a><a class="pts" id="pts40"></a>
 msgctxt "thag5.9:6.1"
 msgid "Tvaṃ olaggo na gacchasi,"
 msgstr "Caged, you won’t go anywhere,"
@@ -69,14 +66,13 @@ msgid "Na ca cittakali punappunaṃ,"
 msgstr "Demon-mind, you won’t wander again and again,"
 
 #. <br>
+#. VAR: Pasakka → pasahaṃ (bj, s2, s3, pts1-2)
 msgctxt "thag5.9:6.4"
-msgid ""
-"<span class=\"var\" title=\"pasahaṃ (bj, s2, s3, pts1-2)\" id=\"note198\""
-">Pasakka</span> pāparato carissasi."
+msgid "Pasakka pāparato carissasi."
 msgstr "bullying, in love with wickedness."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc357"></a><a class="verse-num-pts" id="verse-num-pts357"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns357"></a><a class="vnp" id="vnp357"></a>
 msgctxt "thag5.9:7.1"
 msgid "Yathā kuñjaraṃ adantaṃ,"
 msgstr "Just as a strong trainer with a hook"
@@ -96,8 +92,8 @@ msgctxt "thag5.9:7.4"
 msgid "Evaṃ āvattayissaṃ taṃ."
 msgstr "so I’ll win you over."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc358"></a><a class="verse-num-pts" id="verse-num-pts358"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns358"></a><a class="vnp" id="vnp358"></a>
 msgctxt "thag5.9:8.1"
 msgid "Yathā varahayadamakusalo,"
 msgstr "Just as a fine charioteer, skilled in the taming"
@@ -117,19 +113,17 @@ msgctxt "thag5.9:8.4"
 msgid "Patiṭṭhito pañcasu balesu."
 msgstr "firmly established in the five powers."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc359"></a><a class="verse-num-pts" id="verse-num-pts359"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns359"></a><a class="vnp" id="vnp359"></a>
 msgctxt "thag5.9:9.1"
 msgid "Satiyā taṃ nibandhissaṃ,"
 msgstr "I’ll bind you with mindfulness;"
 
 # See Norman's note on this line.
 #. <br>
+#. VAR: Payutto te damessāmi → payatatto vo dapessāmi (bj, pts2) | payatatto te damissāmi (s2, s3) | payatatto vo damessāmi (pts1)
 msgctxt "thag5.9:9.2"
-msgid ""
-"<span class=\"var\" title=\"payatatto vo dapessāmi (bj, pts2) | payatatto te "
-"damissāmi (s2, s3) | payatatto vo damessāmi (pts1)\" id=\"note199\">Payutto "
-"te damessāmi</span>;"
+msgid "Payutto te damessāmi;"
 msgstr "devout, I shall tame you;"
 
 #. <br>

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Paṭhamavagga"
 msgstr "Chapter One"
 
 #. </p><h1>
+#. VAR: 15.1 Aññāsikoṇḍaññattheragāthā → aññākoṇḍaññattheragāthā (bj)
 msgctxt "thag15.1:4.1"
-msgid ""
-"<span class=\"var\" title=\"aññākoṇḍaññattheragāthā (bj)\" id=\"note309\">"
-"15.1 Aññāsikoṇḍaññattheragāthā</span>"
+msgid "15.1 Aññāsikoṇḍaññattheragāthā"
 msgstr "15.1. Aññāsikoṇḍañña"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc673"></a><a class="verse-num-pts"
-#. id="verse-num-pts673"></a><a class="pts" id="pts69"></a>
+#. class="vns" id="vns673"></a><a class="vnp"
+#. id="vnp673"></a><a class="pts" id="pts69"></a>
 msgctxt "thag15.1:5.1"
 msgid "“Esa bhiyyo pasīdāmi,"
 msgstr "“My confidence grew"
@@ -50,8 +48,8 @@ msgctxt "thag15.1:5.4"
 msgid "anupādāya sabbaso”."
 msgstr "without any grasping at all.”"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc674"></a><a class="verse-num-pts" id="verse-num-pts674"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns674"></a><a class="vnp" id="vnp674"></a>
 msgctxt "thag15.1:6.1"
 msgid "“Bahūni loke citrāni,"
 msgstr "“There are so many pretty things"
@@ -71,13 +69,11 @@ msgctxt "thag15.1:6.4"
 msgid "subhaṃ rāgūpasaṃhitaṃ."
 msgstr "attractive, provoking lust."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc675"></a><a class="verse-num-pts" id="verse-num-pts675"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns675"></a><a class="vnp" id="vnp675"></a>
+#. VAR: Rajamuhatañca → rajamūhataṃ ca (bj) | rajamuhataṃ (s2, s3) | rajam upātaṃ (pts1) | rajam ūhataṃ (pts2)
 msgctxt "thag15.1:7.1"
-msgid ""
-"<span class=\"var\" title=\"rajamūhataṃ ca (bj) | rajamuhataṃ (s2, s3) | "
-"rajam upātaṃ (pts1) | rajam ūhataṃ (pts2)\" id=\"note310\""
-">Rajamuhatañca</span> vātena,"
+msgid "Rajamuhatañca vātena,"
 msgstr "Just as a rain cloud would settle"
 
 #. <br>
@@ -97,12 +93,7 @@ msgstr "when seen with wisdom."
 
 #. </p><p><a class="sc" id="4"></a>
 msgctxt "thag15.1:8.1"
-msgid ""
-"<span class=\"cross\" title=\"(gāthā 676--678) ^dhp273-289#274.1 [273. "
-"Pañcasatabhikkhuvatthu/274. Aniccalakkhaṇavatthu]-301 | ^ne4#1 [Vibhaṅga/ "
-"Desanāhāravibhaṅga]\" id=\"note311\">*</span> <a class=\"verse-num-sc\" id"
-"=\"verse-num-sc676\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts676\""
-"></a>Sabbe saṅkhārā aniccāti,"
+msgid "<a class=\"vns\" id=\"vns676\"></a><a class=\"vnp\" id=\"vnp676\"></a>Sabbe saṅkhārā aniccāti,"
 msgstr "All conditions are impermanent—"
 
 #. <br>
@@ -120,17 +111,16 @@ msgctxt "thag15.1:8.4"
 msgid "esa maggo visuddhiyā."
 msgstr "this is the path to purity."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc677"></a><a class="verse-num-pts" id="verse-num-pts677"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns677"></a><a class="vnp" id="vnp677"></a>
 msgctxt "thag15.1:9.1"
 msgid "Sabbe saṅkhārā dukkhāti,"
 msgstr "All conditions are suffering—"
 
 #. <br>
+#. VAR: yadā paññāya passati; →  ...pe... (cha1-2)
 msgctxt "thag15.1:9.2"
-msgid ""
-"<span class=\"var\" title=\" ...pe... (cha1-2)\" id=\"note312\">yadā paññāya "
-"passati;</span>"
+msgid "yadā paññāya passati;"
 msgstr "when this is seen with wisdom"
 
 #. <br>
@@ -145,12 +135,7 @@ msgstr "this is the path to purity."
 
 #. </p><p><a class="sc" id="6"></a>
 msgctxt "thag15.1:10.1"
-msgid ""
-"<span class=\"cross\" title=\"^dhp273-289#276.1 [273. Pañcasatabhikkhuvatthu/"
-"276. Anattalakkhaṇavatthu] | ^ne4#1 [Vibhaṅga/ Desanāhāravibhaṅga] | ^pe2#55 "
-"[Sāsanapaṭṭhānadutiyabhūmi] | ^pe2#129 [Sāsanapaṭṭhānadutiyabhūmi]\" id=\""
-"note314\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc678\"></a><a "
-"class=\"verse-num-pts\" id=\"verse-num-pts678\"></a>Sabbe dhammā anattāti,"
+msgid "<a class=\"vns\" id=\"vns678\"></a><a class=\"vnp\" id=\"vnp678\"></a>Sabbe dhammā anattāti,"
 msgstr "All principles are not-self—"
 
 #. <br>
@@ -168,8 +153,8 @@ msgctxt "thag15.1:10.4"
 msgid "esa maggo visuddhiyā."
 msgstr "this is the path to purity."
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc679"></a><a class="verse-num-pts" id="verse-num-pts679"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns679"></a><a class="vnp" id="vnp679"></a>
 msgctxt "thag15.1:11.1"
 msgid "Buddhānubuddho yo thero,"
 msgstr "The senior monk who was awakened right after the Buddha,"
@@ -189,12 +174,11 @@ msgctxt "thag15.1:11.4"
 msgid "brahmacariyassa kevalī."
 msgstr "and has completed the spiritual journey."
 
-#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
-#. id="verse-num-sc680"></a><a class="verse-num-pts" id="verse-num-pts680"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns"
+#. id="vns680"></a><a class="vnp" id="vnp680"></a>
+#. VAR: daḷhakhilo → daḷho khīlo (s2, s3, pts1) | daḷhakhīlo (pts2) | daḷho khilo (mr)
 msgctxt "thag15.1:12.1"
-msgid ""
-"Oghapāso <span class=\"var\" title=\"daḷho khīlo (s2, s3, pts1) | daḷhakhīlo "
-"(pts2) | daḷho khilo (mr)\" id=\"note315\">daḷhakhilo</span>,"
+msgid "Oghapāso daḷhakhilo,"
 msgstr "There are floods, snares, and strong posts,"
 
 #. <br>
@@ -208,10 +192,9 @@ msgid "Chetvā khilañca pāsañca,"
 msgstr "snapping the posts and snares,"
 
 #. <br>
+#. VAR: bhetvāna → chetvāna (s2, s3, pts1, mr)
 msgctxt "thag15.1:12.4"
-msgid ""
-"Selaṃ <span class=\"var\" title=\"chetvāna (s2, s3, pts1, mr)\" id=\""
-"note316\">bhetvāna</span> dubbhidaṃ;"
+msgid "Selaṃ bhetvāna dubbhidaṃ;"
 msgstr "breaking the mountain so hard to break,"
 
 #. <br>
@@ -224,8 +207,8 @@ msgctxt "thag15.1:12.6"
 msgid "Mutto so mārabandhanā."
 msgstr "one practicing absorption is freed from Māra’s bonds."
 
-#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
-#. id="verse-num-sc681"></a><a class="verse-num-pts" id="verse-num-pts681"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns"
+#. id="vns681"></a><a class="vnp" id="vnp681"></a>
 msgctxt "thag15.1:13.1"
 msgid "Uddhato capalo bhikkhu,"
 msgstr "When a mendicant is haughty and fickle,"
@@ -241,14 +224,13 @@ msgid "Saṃsīdati mahoghasmiṃ,"
 msgstr "they sink down in the great flood,"
 
 #. <br>
+#. VAR: ūmiyā → ummiyā (s2, s3, pts1)
 msgctxt "thag15.1:13.4"
-msgid ""
-"<span class=\"var\" title=\"ummiyā (s2, s3, pts1)\" id=\"note317\""
-">ūmiyā</span> paṭikujjito."
+msgid "ūmiyā paṭikujjito."
 msgstr "overcome by a wave."
 
-#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
-#. id="verse-num-sc682"></a><a class="verse-num-pts" id="verse-num-pts682"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns"
+#. id="vns682"></a><a class="vnp" id="vnp682"></a>
 msgctxt "thag15.1:14.1"
 msgid "Anuddhato acapalo,"
 msgstr "But one who is steady and stable,"
@@ -268,8 +250,8 @@ msgctxt "thag15.1:14.4"
 msgid "dukkhassantakaro siyā."
 msgstr "makes an end of suffering."
 
-#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
-#. id="verse-num-sc683"></a><a class="verse-num-pts" id="verse-num-pts683"></a>
+#. </p><p><a class="sc" id="11"></a><a class="vns"
+#. id="vns683"></a><a class="vnp" id="vnp683"></a>
 msgctxt "thag15.1:15.1"
 msgid "Kālapabbaṅgasaṅkāso,"
 msgstr "With knobbly knees,"
@@ -289,8 +271,8 @@ msgctxt "thag15.1:15.4"
 msgid "adīnamanaso naro."
 msgstr "this person’s spirit is undaunted."
 
-#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
-#. id="verse-num-sc684"></a><a class="verse-num-pts" id="verse-num-pts684"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns"
+#. id="vns684"></a><a class="vnp" id="vnp684"></a>
 msgctxt "thag15.1:16.1"
 msgid "Phuṭṭho ḍaṃsehi makasehi,"
 msgstr "Pestered by flies and mosquitoes"
@@ -310,8 +292,8 @@ msgctxt "thag15.1:16.4"
 msgid "sato tatrādhivāsaye."
 msgstr "like an elephant at the head of the battle."
 
-#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
-#. id="verse-num-sc685"></a><a class="verse-num-pts" id="verse-num-pts685"></a>
+#. </p><p><a class="sc" id="13"></a><a class="vns"
+#. id="vns685"></a><a class="vnp" id="vnp685"></a>
 msgctxt "thag15.1:17.1"
 msgid "Nābhinandāmi maraṇaṃ,"
 msgstr "I don’t long for death;"
@@ -330,8 +312,8 @@ msgctxt "thag15.1:17.4"
 msgid "nibbisaṃ bhatako yathā."
 msgstr "like a worker waiting for their wages."
 
-#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
-#. id="verse-num-sc686"></a><a class="verse-num-pts" id="verse-num-pts686"></a>
+#. </p><p><a class="sc" id="14"></a><a class="vns"
+#. id="vns686"></a><a class="vnp" id="vnp686"></a>
 msgctxt "thag15.1:18.1"
 msgid "Nābhinandāmi maraṇaṃ,"
 msgstr "I don’t long for death;"
@@ -350,8 +332,8 @@ msgctxt "thag15.1:18.4"
 msgid "sampajāno patissato."
 msgstr "aware and mindful."
 
-#. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
-#. id="verse-num-sc687"></a><a class="verse-num-pts" id="verse-num-pts687"></a>
+#. </p><p><a class="sc" id="15"></a><a class="vns"
+#. id="vns687"></a><a class="vnp" id="vnp687"></a>
 msgctxt "thag15.1:19.1"
 msgid "Pariciṇṇo mayā satthā,"
 msgstr "I’ve served the teacher"
@@ -370,12 +352,11 @@ msgctxt "thag15.1:19.4"
 msgid "bhavanetti samūhatā."
 msgstr "the attachment to rebirth is eradicated."
 
-#. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
-#. id="verse-num-sc688"></a><a class="verse-num-pts" id="verse-num-pts688"></a>
+#. </p><p><a class="sc" id="16"></a><a class="vns"
+#. id="vns688"></a><a class="vnp" id="vnp688"></a>
+#. VAR: Yassa catthāya → yassatthāya (bj, pts2)
 msgctxt "thag15.1:20.1"
-msgid ""
-"<span class=\"var\" title=\"yassatthāya (bj, pts2)\" id=\"note318\">Yassa "
-"catthāya</span> pabbajito,"
+msgid "Yassa catthāya pabbajito,"
 msgstr "I’ve attained the goal"
 
 #. <br>
@@ -398,8 +379,7 @@ msgctxt "thag15.1:21.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Aññāsikoṇḍañño → aññākoṇḍañño (bj, s2, s3, pts1-2)
 msgctxt "thag15.1:21.2"
-msgid ""
-"<span class=\"var\" title=\"aññākoṇḍañño (bj, s2, s3, pts1-2)\" id=\""
-"note319\">Aññāsikoṇḍañño</span> thero …."
+msgid "Aññāsikoṇḍañño thero …."
 msgstr ""

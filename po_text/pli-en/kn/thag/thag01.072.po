@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,17 +26,16 @@ msgid "1.72. Ātumattheragāthā"
 msgstr "1.72. Ātuma"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc72"></a><a class="verse-num-pts"
-#. id="verse-num-pts72"></a>
+#. class="vns" id="vns72"></a><a class="vnp"
+#. id="vnp72"></a>
 msgctxt "thag1.72:5.1"
 msgid "“Yathā kaḷīro susu vaḍḍhitaggo,"
 msgstr "A young bamboo is hard to extract"
 
 #. <br>
+#. VAR: Dunnikkhamo → dunnikkhaso (s2, s3) | dunnikkamo (pts2)
 msgctxt "thag1.72:5.2"
-msgid ""
-"<span class=\"var\" title=\"dunnikkhaso (s2, s3) | dunnikkamo (pts2)\" id=\""
-"note57\">Dunnikkhamo</span> hoti pasākhajāto;"
+msgid "Dunnikkhamo hoti pasākhajāto;"
 msgstr "when the point is grown and become all woody."
 
 #. <br>

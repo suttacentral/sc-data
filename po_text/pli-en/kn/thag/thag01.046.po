@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.46. Samiddhittheragāthā"
 msgstr "1.46. Samiddhi"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc46"></a><a class="verse-num-pts"
-#. id="verse-num-pts46"></a>
+#. class="vns" id="vns46"></a><a class="vnp"
+#. id="vnp46"></a>
 msgctxt "thag1.46:5.1"
 msgid "“Saddhāyāhaṃ pabbajito,"
 msgstr "I went forth out of faith"
@@ -54,10 +53,9 @@ msgid "Kāmaṃ karassu rūpāni,"
 msgstr "Make whatever illusions you want,"
 
 #. <br>
+#. VAR: byādhayissasī”ti → bādhayissasīti (bj) | byāthayissasīti (?)
 msgctxt "thag1.46:5.6"
-msgid ""
-"Neva maṃ <span class=\"var\" title=\"bādhayissasīti (bj) | byāthayissasīti "
-"(?)\" id=\"note43\">byādhayissasī”ti</span>."
+msgid "Neva maṃ byādhayissasī”ti."
 msgstr "it doesn’t bother me."
 
 #. </p></blockquote><p class="endsutta">

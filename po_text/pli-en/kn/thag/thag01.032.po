@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.32. Suppiyattheragāthā"
 msgstr "1.32. Suppiya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc32"></a><a class="verse-num-pts"
-#. id="verse-num-pts32"></a>
+#. class="vns" id="vns32"></a><a class="vnp"
+#. id="vnp32"></a>
 msgctxt "thag1.32:5.1"
 msgid "“Ajaraṃ jīramānena,"
 msgstr "I’ll swap old age for the unaging,"
@@ -39,11 +38,9 @@ msgid "tappamānena nibbutiṃ;"
 msgstr "burning for extinguishment—"
 
 #. <br>
+#. VAR: Nimiyaṃ → nimmissaṃ (bj, pts1) | nirāmisaṃ (s2, s3) | nimissaṃ (pts2) | nimineyyaṃ (?)
 msgctxt "thag1.32:5.3"
-msgid ""
-"<span class=\"var\" title=\"nimmissaṃ (bj, pts1) | nirāmisaṃ (s2, s3) | "
-"nimissaṃ (pts2) | nimineyyaṃ (?)\" id=\"note32\">Nimiyaṃ</span> paramaṃ "
-"santiṃ,"
+msgid "Nimiyaṃ paramaṃ santiṃ,"
 msgstr "the ultimate peace,"
 
 #. <br>

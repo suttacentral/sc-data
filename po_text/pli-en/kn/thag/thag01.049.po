@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,12 +26,11 @@ msgid "1.49. Rāmaṇeyyakattheragāthā"
 msgstr "1.49. Rāmaṇeyyaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc49"></a><a class="verse-num-pts"
-#. id="verse-num-pts49"></a>
+#. class="vns" id="vns49"></a><a class="vnp"
+#. id="vnp49"></a>
+#. VAR: Cihacihābhinadite → vihavihābhinadite (bj, s2, s3, pts1)
 msgctxt "thag1.49:5.1"
-msgid ""
-"“<span class=\"var\" title=\"vihavihābhinadite (bj, s2, s3, pts1)\" id=\""
-"note44\">Cihacihābhinadite</span>,"
+msgid "“Cihacihābhinadite,"
 msgstr "Even with all the sounds,"
 
 #. <br>

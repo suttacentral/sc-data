@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.82. Kassapattheragāthā"
 msgstr "1.82. Kassapa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc82"></a><a class="verse-num-pts"
-#. id="verse-num-pts82"></a>
+#. class="vns" id="vns82"></a><a class="vnp"
+#. id="vnp82"></a>
 msgctxt "thag1.82:5.1"
 msgid "“Yena yena subhikkhāni,"
 msgstr "Go, child, to any place"
@@ -44,10 +43,9 @@ msgid "Tena puttaka gacchassu,"
 msgstr "where it’s safe and free of peril—"
 
 #. <br>
+#. VAR: sokāpahato → sokā pahato (s2, s3, pts1)
 msgctxt "thag1.82:5.4"
-msgid ""
-"mā <span class=\"var\" title=\"sokā pahato (s2, s3, pts1)\" id=\"note60\""
-">sokāpahato</span> bhavā”ti."
+msgid "mā sokāpahato bhavā”ti."
 msgstr "may you not be overcome by sorrow!"
 
 #. </p></blockquote><p class="endsutta">

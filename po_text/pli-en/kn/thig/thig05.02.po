@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,8 +21,8 @@ msgid "2. Vimalātherīgāthā"
 msgstr "5.2. Vimalā, the Former Courtesan"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc72"></a><a class="verse-num-pts"
-#. id="verse-num-pts72"></a>
+#. class="vns" id="vns72"></a><a class="vnp"
+#. id="vnp72"></a>
 msgctxt "thig5.2:4.1"
 msgid "“Mattā vaṇṇena rūpena,"
 msgstr "Intoxicated by my appearance,"
@@ -43,8 +42,8 @@ msgctxt "thig5.2:4.4"
 msgid "aññāsamatimaññihaṃ."
 msgstr "I despised other women."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc73"></a><a class="verse-num-pts" id="verse-num-pts73"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns73"></a><a class="vnp" id="vnp73"></a>
 msgctxt "thig5.2:5.1"
 msgid "Vibhūsetvā imaṃ kāyaṃ,"
 msgstr "I adorned this body,"
@@ -64,8 +63,8 @@ msgctxt "thig5.2:5.4"
 msgid "luddo pāsamivoḍḍiya."
 msgstr "like a hunter laying a snare."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc74"></a><a class="verse-num-pts" id="verse-num-pts74"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns74"></a><a class="vnp" id="vnp74"></a>
 msgctxt "thig5.2:6.1"
 msgid "Piḷandhanaṃ vidaṃsentī,"
 msgstr "I stripped for them,"
@@ -85,8 +84,8 @@ msgctxt "thig5.2:6.4"
 msgid "ujjagghantī bahuṃ janaṃ."
 msgstr "I laughed, teasing those men."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc75"></a><a class="verse-num-pts" id="verse-num-pts75"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns75"></a><a class="vnp" id="vnp75"></a>
 msgctxt "thig5.2:7.1"
 msgid "Sājja piṇḍaṃ caritvāna,"
 msgstr "Today, having wandered for alms,"
@@ -106,8 +105,8 @@ msgctxt "thig5.2:7.4"
 msgid "avitakkassa lābhinī."
 msgstr "I've gained freedom from thought."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc76"></a><a class="verse-num-pts" id="verse-num-pts76"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns76"></a><a class="vnp" id="vnp76"></a>
 msgctxt "thig5.2:8.1"
 msgid "Sabbe yogā samucchinnā,"
 msgstr "All bonds are cut off,"
@@ -132,8 +131,7 @@ msgctxt "thig5.2:9.1"
 msgid "…"
 msgstr ""
 
+#. VAR: therī → vimalātherī (bj)
 msgctxt "thig5.2:9.2"
-msgid ""
-"Vimalā purāṇagaṇikā <span class=\"var\" title=\"vimalātherī (bj)\" id=\""
-"note32\">therī</span> …."
+msgid "Vimalā purāṇagaṇikā therī …."
 msgstr ""

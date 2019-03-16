@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "10.4. Cūḷapanthakattheragāthā"
 msgstr "10.4. Cūḷapanthaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc557"></a><a class="verse-num-pts"
-#. id="verse-num-pts557"></a>
+#. class="vns" id="vns557"></a><a class="vnp"
+#. id="vnp557"></a>
 msgctxt "thag10.4:5.1"
 msgid "“Dandhā mayhaṃ gatī āsi,"
 msgstr "My progress was slow,"
@@ -48,8 +47,8 @@ msgctxt "thag10.4:5.4"
 msgid "‘gaccha dāni tuvaṃ gharaṃ’."
 msgstr "saying, “Go home now.”"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc558"></a><a class="verse-num-pts" id="verse-num-pts558"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns558"></a><a class="vnp" id="vnp558"></a>
 msgctxt "thag10.4:6.1"
 msgid "Sohaṃ paṇāmito santo,"
 msgstr "Turned away at the gate"
@@ -69,12 +68,11 @@ msgctxt "thag10.4:6.4"
 msgid "sāsanasmiṃ apekkhavā."
 msgstr "longing for the dispensation."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc559"></a><a class="verse-num-pts" id="verse-num-pts559"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns559"></a><a class="vnp" id="vnp559"></a>
+#. VAR: āgacchi → āgañchi (bj)
 msgctxt "thag10.4:7.1"
-msgid ""
-"Bhagavā tattha <span class=\"var\" title=\"āgañchi (bj)\" id=\"note271\""
-">āgacchi</span>,"
+msgid "Bhagavā tattha āgacchi,"
 msgstr "Then the Buddha came"
 
 #. <br>
@@ -92,8 +90,8 @@ msgctxt "thag10.4:7.4"
 msgid "saṃghārāmaṃ pavesayi."
 msgstr "he brought me into the Saṅgha’s monastery."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc560"></a><a class="verse-num-pts" id="verse-num-pts560"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns560"></a><a class="vnp" id="vnp560"></a>
 msgctxt "thag10.4:8.1"
 msgid "Anukampāya me satthā,"
 msgstr "The Teacher, out of compassion,"
@@ -113,8 +111,8 @@ msgctxt "thag10.4:8.4"
 msgid "ekamantaṃ svadhiṭṭhitaṃ’."
 msgstr "exclusively on this clean cloth.”"
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc561"></a><a class="verse-num-pts" id="verse-num-pts561"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns561"></a><a class="vnp" id="vnp561"></a>
 msgctxt "thag10.4:9.1"
 msgid "Tassāhaṃ vacanaṃ sutvā,"
 msgstr "After hearing his words,"
@@ -134,8 +132,8 @@ msgctxt "thag10.4:9.4"
 msgid "uttamatthassa pattiyā."
 msgstr "for the attainment of the highest goal."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc562"></a><a class="verse-num-pts" id="verse-num-pts562"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns562"></a><a class="vnp" id="vnp562"></a>
 msgctxt "thag10.4:10.1"
 msgid "Pubbenivāsaṃ jānāmi,"
 msgstr "I know my past lives,"
@@ -155,8 +153,8 @@ msgctxt "thag10.4:10.4"
 msgid "kataṃ buddhassa sāsanaṃ."
 msgstr "and fulfilled the Buddha’s instructions."
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc563"></a><a class="verse-num-pts" id="verse-num-pts563"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns563"></a><a class="vnp" id="vnp563"></a>
 msgctxt "thag10.4:11.1"
 msgid "Sahassakkhattumattānaṃ,"
 msgstr "I, Panthaka, created a thousand"
@@ -172,14 +170,13 @@ msgid "Nisīdambavane ramme,"
 msgstr "and sat in the delightful mango grove"
 
 #. <br>
+#. VAR: kālappavedanā → ... vedanaṃ (s2, s3, pts1)
 msgctxt "thag10.4:11.4"
-msgid ""
-"yāva <span class=\"var\" title=\"... vedanaṃ (s2, s3, pts1)\" id=\"note272\""
-">kālappavedanā</span>."
+msgid "yāva kālappavedanā."
 msgstr "until the time for the meal offering was announced."
 
-#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
-#. id="verse-num-sc564"></a><a class="verse-num-pts" id="verse-num-pts564"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns"
+#. id="vns564"></a><a class="vnp" id="vnp564"></a>
 msgctxt "thag10.4:12.1"
 msgid "Tato me satthā pāhesi,"
 msgstr "Then the teacher sent to me"
@@ -195,14 +192,13 @@ msgid "Paveditamhi kālamhi,"
 msgstr "When the time was announced,"
 
 #. <br>
+#. VAR: vehāsādupasaṅkamiṃ → vehāsānupasaṅkamiṃ (s2, s3, pts1, mr)
 msgctxt "thag10.4:12.4"
-msgid ""
-"<span class=\"var\" title=\"vehāsānupasaṅkamiṃ (s2, s3, pts1, mr)\" id=\""
-"note273\">vehāsādupasaṅkamiṃ</span>."
+msgid "vehāsādupasaṅkamiṃ."
 msgstr "I flew to him through the air."
 
-#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
-#. id="verse-num-sc565"></a><a class="verse-num-pts" id="verse-num-pts565"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns"
+#. id="vns565"></a><a class="vnp" id="vnp565"></a>
 msgctxt "thag10.4:13.1"
 msgid "Vanditvā satthuno pāde,"
 msgstr "I paid homage at the teacher’s feet,"
@@ -222,8 +218,8 @@ msgctxt "thag10.4:13.4"
 msgid "atha satthā paṭiggahi."
 msgstr "the teacher received the offering."
 
-#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
-#. id="verse-num-sc566"></a><a class="verse-num-pts" id="verse-num-pts566"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns"
+#. id="vns566"></a><a class="vnp" id="vnp566"></a>
 msgctxt "thag10.4:14.1"
 msgid "Āyāgo sabbalokassa,"
 msgstr "Recipient of gifts from the whole world,"

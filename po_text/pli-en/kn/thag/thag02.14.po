@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,19 +21,16 @@ msgid "Dutiyavagga"
 msgstr "Chapter Two"
 
 #. </p><h1>
+#. VAR: 2.14 Somamittattheragāthā → somacittattheragāthā (bj)
 msgctxt "thag2.14:4.1"
-msgid ""
-"<span class=\"var\" title=\"somacittattheragāthā (bj)\" id=\"note92\">2.14 "
-"Somamittattheragāthā</span>"
+msgid "2.14 Somamittattheragāthā"
 msgstr "2.14. Somamitta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc147"></a><a class="verse-num-pts"
-#. id="verse-num-pts147"></a>
+#. class="vns" id="vns147"></a><a class="vnp"
+#. id="vnp147"></a>
 msgctxt "thag2.14:5.1"
-msgid ""
-"<span class=\"cross\" title=\"^thag3.16#3 [Vimalattheragāthā]\" id=\"note93\""
-">*</span>“Parittaṃ dārumāruyha,"
+msgid "“Parittaṃ dārumāruyha,"
 msgstr "If you’re lost in the middle of a great sea,"
 
 #. <br>
@@ -64,12 +60,7 @@ msgstr "a lazy person who lacks energy."
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag2.14:6.1"
-msgid ""
-"<span class=\"cross\" title=\"^sn14.16#1 [16. Sagāthāsutta] | ^it78#1 "
-"[Dhātusosaṃsandanasutta] | ^thag3.16#3 [Vimalattheragāthā] | ^mi7.7.4#1 "
-"[Pavanaṅgapañha]\" id=\"note94\">*</span> <a class=\"verse-num-sc\" id"
-"=\"verse-num-sc148\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts148\""
-"></a>Pavivittehi ariyehi,"
+msgid "<a class=\"vns\" id=\"vns148\"></a><a class=\"vnp\" id=\"vnp148\"></a>Pavivittehi ariyehi,"
 msgstr "Dwell with the noble ones"
 
 #. <br>
@@ -92,8 +83,7 @@ msgctxt "thag2.14:7.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Somamitto → somacitto (bj)
 msgctxt "thag2.14:7.2"
-msgid ""
-"<span class=\"var\" title=\"somacitto (bj)\" id=\"note95\">Somamitto</span> "
-"thero …."
+msgid "Somamitto thero …."
 msgstr ""

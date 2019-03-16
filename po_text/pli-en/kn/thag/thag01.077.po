@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.77. Hatthārohaputtattheragāthā"
 msgstr "1.77. Hatthārohaputta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc77"></a><a class="verse-num-pts"
-#. id="verse-num-pts77"></a><a class="pts" id="pts12"></a>
+#. class="vns" id="vns77"></a><a class="vnp"
+#. id="vnp77"></a><a class="pts" id="pts12"></a>
 msgctxt "thag1.77:5.1"
 msgid "“Idaṃ pure cittamacāri cārikaṃ,"
 msgstr "In the past my mind wandered"
@@ -44,10 +43,9 @@ msgid "Tadajjahaṃ niggahessāmi yoniso,"
 msgstr "Now I’ll carefully guide it,"
 
 #. <br>
+#. VAR: Hatthippabhinnaṃ → hatthiṃ pabhinnaṃ (s2, s3, pts2)
 msgctxt "thag1.77:5.4"
-msgid ""
-"<span class=\"var\" title=\"hatthiṃ pabhinnaṃ (s2, s3, pts2)\" id=\"note59\""
-">Hatthippabhinnaṃ</span> viya aṅkusaggaho”ti."
+msgid "Hatthippabhinnaṃ viya aṅkusaggaho”ti."
 msgstr "as a trainer with a hook guides a rutting elephant."
 
 #. </p></blockquote><p class="endsutta">

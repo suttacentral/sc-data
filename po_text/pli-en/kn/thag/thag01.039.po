@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -28,19 +27,13 @@ msgstr "1.39. Tissa (1st)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag1.39:5.1"
-msgid ""
-"<span class=\"cross\" title=\"(gāthā 39--40) ^sn1.21#1 [21. Sattisutta] | "
-"^sn2.16#1 [16. Vāsudattasutta] | ^thag16.1#23 [Mahāmoggallānattheragāthā]-"
-"1535 | ^ne6#181 [Sāsanapaṭṭhāna] | ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi]\" id="
-"\"note35\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc39\"></a><a "
-"class=\"verse-num-pts\" id=\"verse-num-pts39\"></a>“Sattiyā viya omaṭṭho,"
+msgid "<a class=\"vns\" id=\"vns39\"></a><a class=\"vnp\" id=\"vnp39\"></a>“Sattiyā viya omaṭṭho,"
 msgstr "Like they’re struck by a sword,"
 
 #. <br>
+#. VAR: ḍayhamānova → ḍayhamāneva (sabbattha)
 msgctxt "thag1.39:5.2"
-msgid ""
-"<span class=\"var\" title=\"ḍayhamāneva (sabbattha)\" id=\"note36\""
-">ḍayhamānova</span> matthake;"
+msgid "ḍayhamānova matthake;"
 msgstr "like their head was on fire,"
 
 #. <br>

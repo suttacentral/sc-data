@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -28,11 +27,7 @@ msgstr "1.68. Ekudāniya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag1.68:5.1"
-msgid ""
-"<span class=\"cross\" title=\"^pi-tv-bu-vb-pc22#1 [Pācittiyā 22: "
-"Atthaṅgatasikkhāpada] | ^ud4.7#1 [Sāriputtasutta]\" id=\"note53\">*</span> <"
-"a class=\"verse-num-sc\" id=\"verse-num-sc68\"></a><a class=\"verse-num-pts\""
-" id=\"verse-num-pts68\"></a>“Adhicetaso appamajjato,"
+msgid "<a class=\"vns\" id=\"vns68\"></a><a class=\"vnp\" id=\"vnp68\"></a>“Adhicetaso appamajjato,"
 msgstr "For a sage of higher consciousness, diligent,"
 
 #. <br>
@@ -55,8 +50,7 @@ msgctxt "thag1.68:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Ekudāniyo → ekuddāniyo (pts1-2)
 msgctxt "thag1.68:6.2"
-msgid ""
-"<span class=\"var\" title=\"ekuddāniyo (pts1-2)\" id=\"note54\""
-">Ekudāniyo</span> thero …."
+msgid "Ekudāniyo thero …."
 msgstr ""

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.20. Sirimattheragāthā"
 msgstr "2.20. Sirima"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc159"></a><a class="verse-num-pts"
-#. id="verse-num-pts159"></a>
+#. class="vns" id="vns159"></a><a class="vnp"
+#. id="vnp159"></a>
 msgctxt "thag2.20:5.1"
 msgid "“Pare ca naṃ pasaṃsanti,"
 msgstr "If others praise one"
@@ -48,8 +47,8 @@ msgctxt "thag2.20:5.4"
 msgid "attā hi asamāhito."
 msgstr "as one has no immersion."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc160"></a><a class="verse-num-pts" id="verse-num-pts160"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns160"></a><a class="vnp" id="vnp160"></a>
 msgctxt "thag2.20:6.1"
 msgid "Pare ca naṃ garahanti,"
 msgstr "If others rebuke one"
@@ -104,10 +103,9 @@ msgid "Somamitto sabbamitto,"
 msgstr ""
 
 #. <br>
+#. VAR: kimilo → kimbilo (bj, s2, s3, pts1-2)
 msgctxt "thag2.20:9.4"
-msgid ""
-"kāḷo tisso ca <span class=\"var\" title=\"kimbilo (bj, s2, s3, pts1-2)\" id="
-"\"note106\">kimilo</span>;"
+msgid "kāḷo tisso ca kimilo;"
 msgstr ""
 
 #. <br>

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Paṭhamavagga"
 msgstr "Chapter One"
 
 #. </p><h1>
+#. VAR: 3.1 Aṅgaṇikabhāradvājattheragāthā → aggikabhāradvājattheragāthā (bj)
 msgctxt "thag3.1:4.1"
-msgid ""
-"<span class=\"var\" title=\"aggikabhāradvājattheragāthā (bj)\" id=\"note148\""
-">3.1 Aṅgaṇikabhāradvājattheragāthā</span>"
+msgid "3.1 Aṅgaṇikabhāradvājattheragāthā"
 msgstr "3.1. Aṅgaṇikabhāradvāja"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc219"></a><a class="verse-num-pts"
-#. id="verse-num-pts219"></a><a class="pts" id="pts29"></a>
+#. class="vns" id="vns219"></a><a class="vnp"
+#. id="vnp219"></a><a class="pts" id="pts29"></a>
 msgctxt "thag3.1:5.1"
 msgid "“Ayoni suddhimanvesaṃ,"
 msgstr "Seeking purity the wrong way,"
@@ -46,14 +44,13 @@ msgid "Suddhimaggaṃ ajānanto,"
 msgstr "Not knowing the path to purity,"
 
 #. <br>
+#. VAR: akāsiṃ amaraṃ tapaṃ → akāsiṃ aparaṃ tapaṃ (s2, s3) | akāsiṃ amataṃ tapaṃ (mr)
 msgctxt "thag3.1:5.4"
-msgid ""
-"<span class=\"var\" title=\"akāsiṃ aparaṃ tapaṃ (s2, s3) | akāsiṃ amataṃ "
-"tapaṃ (mr)\" id=\"note149\">akāsiṃ amaraṃ tapaṃ</span>."
+msgid "akāsiṃ amaraṃ tapaṃ."
 msgstr "I mortified my flesh in search of immortality."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc220"></a><a class="verse-num-pts" id="verse-num-pts220"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns220"></a><a class="vnp" id="vnp220"></a>
 msgctxt "thag3.1:6.1"
 msgid "Taṃ sukhena sukhaṃ laddhaṃ,"
 msgstr "I’ve gained this happiness by means of happiness:"
@@ -73,8 +70,8 @@ msgctxt "thag3.1:6.4"
 msgid "kataṃ buddhassa sāsanaṃ."
 msgstr "and fulfilled the Buddha’s instructions."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc221"></a><a class="verse-num-pts" id="verse-num-pts221"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns221"></a><a class="vnp" id="vnp221"></a>
 msgctxt "thag3.1:7.1"
 msgid "Brahmabandhu pure āsiṃ,"
 msgstr "In the past I was related to Brahmā,"
@@ -85,10 +82,9 @@ msgid "idāni khomhi brāhmaṇo;"
 msgstr "but now I really am a brahmin!"
 
 #. <br>
+#. VAR: nhātako → nahātako (bj)
 msgctxt "thag3.1:7.3"
-msgid ""
-"Tevijjo <span class=\"var\" title=\"nahātako (bj)\" id=\"note150\""
-">nhātako</span> camhi,"
+msgid "Tevijjo nhātako camhi,"
 msgstr "I am master of the three knowledges, I’m a bathed initiate,"
 
 #. <br>
@@ -101,8 +97,7 @@ msgctxt "thag3.1:8.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Aṅgaṇikabhāradvājo → aggikabhāradvājo (bj)
 msgctxt "thag3.1:8.2"
-msgid ""
-"<span class=\"var\" title=\"aggikabhāradvājo (bj)\" id=\"note151\""
-">Aṅgaṇikabhāradvājo</span> thero …."
+msgid "Aṅgaṇikabhāradvājo thero …."
 msgstr ""

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.20. Ajitattheragāthā"
 msgstr "1.20. Ajita"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc20"></a><a class="verse-num-pts"
-#. id="verse-num-pts20"></a>
+#. class="vns" id="vns20"></a><a class="vnp"
+#. id="vnp20"></a>
 msgctxt "thag1.20:5.1"
 msgid "“Maraṇe me bhayaṃ natthi,"
 msgstr "I do not fear death;"
@@ -44,10 +43,9 @@ msgid "Sandehaṃ nikkhipissāmi,"
 msgstr "I’ll lay down this body,"
 
 #. <br>
+#. VAR: paṭissato”ti → patissatoti (bj, s2, s3, pts1-2)
 msgctxt "thag1.20:5.4"
-msgid ""
-"sampajāno <span class=\"var\" title=\"patissatoti (bj, s2, s3, pts1-2)\" id="
-"\"note23\">paṭissato”ti</span>."
+msgid "sampajāno paṭissato”ti."
 msgstr "aware and mindful."
 
 #. </p></blockquote><p class="endsutta">

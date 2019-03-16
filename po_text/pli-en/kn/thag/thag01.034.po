@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.34. Posiyattheragāthā"
 msgstr "1.34. Posiya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc34"></a><a class="verse-num-pts"
-#. id="verse-num-pts34"></a>
+#. class="vns" id="vns34"></a><a class="vnp"
+#. id="vnp34"></a>
 msgctxt "thag1.34:5.1"
 msgid "“Anāsannavarā etā,"
 msgstr "It's always better for a smart person"
@@ -44,10 +43,9 @@ msgid "Gāmā araññamāgamma,"
 msgstr "I went from the village to the wilderness;"
 
 #. <br>
+#. VAR: upāvisi → upāvisiṃ (bj, s2, s3, pts1-2)
 msgctxt "thag1.34:5.4"
-msgid ""
-"tato gehaṃ <span class=\"var\" title=\"upāvisiṃ (bj, s2, s3, pts1-2)\" id=\""
-"note33\">upāvisi</span>;"
+msgid "tato gehaṃ upāvisi;"
 msgstr "from there I entered a house."
 
 #. <br>
@@ -56,10 +54,9 @@ msgid "Tato uṭṭhāya pakkāmi,"
 msgstr "Though I was there to be fed,"
 
 #. <br>
+#. VAR: anāmantetvā → anāmantiya (bj)
 msgctxt "thag1.34:5.6"
-msgid ""
-"<span class=\"var\" title=\"anāmantiya (bj)\" id=\"note34\""
-">anāmantetvā</span> posiyo”ti."
+msgid "anāmantetvā posiyo”ti."
 msgstr "I got up and left without taking leave."
 
 #. </p></blockquote><p class="endsutta">

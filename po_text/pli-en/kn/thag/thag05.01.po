@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,12 +26,11 @@ msgid "5.1. Rājadattattheragāthā"
 msgstr "5.1. Rājadatta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc315"></a><a class="verse-num-pts"
-#. id="verse-num-pts315"></a><a class="pts" id="pts37"></a>
+#. class="vns" id="vns315"></a><a class="vnp"
+#. id="vnp315"></a><a class="pts" id="pts37"></a>
+#. VAR: sivathikaṃ → sīvathikaṃ (bj, s2, s3, pts1-2)
 msgctxt "thag5.1:5.1"
-msgid ""
-"“Bhikkhu <span class=\"var\" title=\"sīvathikaṃ (bj, s2, s3, pts1-2)\" id=\""
-"note184\">sivathikaṃ</span> gantvā,"
+msgid "“Bhikkhu sivathikaṃ gantvā,"
 msgstr "I, a monk, went to a charnel ground"
 
 #. <br>
@@ -50,8 +48,8 @@ msgctxt "thag5.1:5.4"
 msgid "Khajjantiṃ kimihī phuṭaṃ."
 msgstr "full of worms that devoured."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc316"></a><a class="verse-num-pts" id="verse-num-pts316"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns316"></a><a class="vnp" id="vnp316"></a>
 msgctxt "thag5.1:6.1"
 msgid "Yañhi eke jigucchanti,"
 msgstr "Some men were disgusted,"
@@ -67,14 +65,13 @@ msgid "Kāmarāgo pāturahu,"
 msgstr "but sexual desire arose in me,"
 
 #. <br>
+#. VAR: savatī → vasatī (bj, pts2)
 msgctxt "thag5.1:6.4"
-msgid ""
-"andhova <span class=\"var\" title=\"vasatī (bj, pts2)\" id=\"note185\""
-">savatī</span> ahuṃ."
+msgid "andhova savatī ahuṃ."
 msgstr "I was as if blind to her oozing body."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc317"></a><a class="verse-num-pts" id="verse-num-pts317"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns317"></a><a class="vnp" id="vnp317"></a>
 msgctxt "thag5.1:7.1"
 msgid "Oraṃ odanapākamhā,"
 msgstr "Quicker than the cooking of rice"
@@ -94,8 +91,8 @@ msgctxt "thag5.1:7.4"
 msgid "ekamantaṃ upāvisiṃ."
 msgstr "I retired to a discreet place."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc318"></a><a class="verse-num-pts" id="verse-num-pts318"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns318"></a><a class="vnp" id="vnp318"></a>
 msgctxt "thag5.1:8.1"
 msgid "Tato me manasīkāro,"
 msgstr "Then the realization"
@@ -115,8 +112,8 @@ msgctxt "thag5.1:8.4"
 msgid "nibbidā samatiṭṭhatha."
 msgstr "and I was firmly disillusioned."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc319"></a><a class="verse-num-pts" id="verse-num-pts319"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns319"></a><a class="vnp" id="vnp319"></a>
 msgctxt "thag5.1:9.1"
 msgid "Tato cittaṃ vimucci me,"
 msgstr "Then my mind was freed—"

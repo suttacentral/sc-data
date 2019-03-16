@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "10.5. Kappattheragāthā"
 msgstr "10.5. Kappa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc567"></a><a class="verse-num-pts"
-#. id="verse-num-pts567"></a>
+#. class="vns" id="vns567"></a><a class="vnp"
+#. id="vnp567"></a>
 msgctxt "thag10.5:5.1"
 msgid "“Nānākulamalasampuṇṇo,"
 msgstr "Filled with different kinds of dirt,"
@@ -48,24 +47,22 @@ msgctxt "thag10.5:5.4"
 msgid "mahāgaṇḍo mahāvaṇo."
 msgstr "a huge boil, a bad wound,"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc568"></a><a class="verse-num-pts" id="verse-num-pts568"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns568"></a><a class="vnp" id="vnp568"></a>
 msgctxt "thag10.5:6.1"
 msgid "Pubbaruhirasampuṇṇo,"
 msgstr "full of pus and blood,"
 
 #. <br>
+#. VAR: gūthakūpena gāḷhito → gūthakūpe nigāḷhiko (s2, s3, pts1, mr) | gūthakūpe nigāḷhito (pts2)
 msgctxt "thag10.5:6.2"
-msgid ""
-"<span class=\"var\" title=\"gūthakūpe nigāḷhiko (s2, s3, pts1, mr) | "
-"gūthakūpe nigāḷhito (pts2)\" id=\"note274\">gūthakūpena gāḷhito</span>;"
+msgid "gūthakūpena gāḷhito;"
 msgstr "sunk in a toilet-pit,"
 
 #. <br>
+#. VAR: Āpopaggharaṇo → āpopaggharaṇī (s2, s3, pts1)
 msgctxt "thag10.5:6.3"
-msgid ""
-"<span class=\"var\" title=\"āpopaggharaṇī (s2, s3, pts1)\" id=\"note275\""
-">Āpopaggharaṇo</span> kāyo,"
+msgid "Āpopaggharaṇo kāyo,"
 msgstr "trickling with fluids,"
 
 #. <br>
@@ -73,9 +70,9 @@ msgctxt "thag10.5:6.4"
 msgid "sadā sandati pūtikaṃ."
 msgstr "this rotting body always oozes."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc569"></a><a class="verse-num-pts"
-#. id="verse-num-pts569"></a><a class="pts" id="pts60"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns569"></a><a class="vnp"
+#. id="vnp569"></a><a class="pts" id="pts60"></a>
 msgctxt "thag10.5:7.1"
 msgid "Saṭṭhikaṇḍarasambandho,"
 msgstr "Bound by sixty tendons,"
@@ -95,8 +92,8 @@ msgctxt "thag10.5:7.4"
 msgid "pūtikāyo niratthako."
 msgstr "this rotting body is worthless."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc570"></a><a class="verse-num-pts" id="verse-num-pts570"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns570"></a><a class="vnp" id="vnp570"></a>
 msgctxt "thag10.5:8.1"
 msgid "Aṭṭhisaṅghātaghaṭito,"
 msgstr "Held together by a skeleton of bones,"
@@ -116,12 +113,11 @@ msgctxt "thag10.5:8.4"
 msgid "kappeti iriyāpathaṃ."
 msgstr "due to a complex of many things."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc571"></a><a class="verse-num-pts" id="verse-num-pts571"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns571"></a><a class="vnp" id="vnp571"></a>
+#. VAR: maraṇāya → maraṇassa (bj, s2, s3, pts1)
 msgctxt "thag10.5:9.1"
-msgid ""
-"Dhuvappayāto <span class=\"var\" title=\"maraṇassa (bj, s2, s3, pts1)\" id=\""
-"note276\">maraṇāya</span>,"
+msgid "Dhuvappayāto maraṇāya,"
 msgstr "We set out in the certainty of death,"
 
 #. <br>
@@ -140,8 +136,8 @@ msgctxt "thag10.5:9.4"
 msgid "yenakāmaṅgamo naro."
 msgstr "a person goes where he likes."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc572"></a><a class="verse-num-pts" id="verse-num-pts572"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns572"></a><a class="vnp" id="vnp572"></a>
 msgctxt "thag10.5:10.1"
 msgid "Avijjāya nivuto kāyo,"
 msgstr "Enveloped by ignorance,"
@@ -161,8 +157,8 @@ msgctxt "thag10.5:10.4"
 msgid "anusayajālamotthato."
 msgstr "caught in the net of the underlying tendencies."
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc573"></a><a class="verse-num-pts" id="verse-num-pts573"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns573"></a><a class="vnp" id="vnp573"></a>
 msgctxt "thag10.5:11.1"
 msgid "Pañcanīvaraṇe yutto,"
 msgstr "Yoked to the five hindrances,"
@@ -182,8 +178,8 @@ msgctxt "thag10.5:11.4"
 msgid "mohacchādanachādito."
 msgstr "hidden by delusion:"
 
-#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
-#. id="verse-num-sc574"></a><a class="verse-num-pts" id="verse-num-pts574"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns"
+#. id="vns574"></a><a class="vnp" id="vnp574"></a>
 msgctxt "thag10.5:12.1"
 msgid "Evāyaṃ vattate kāyo,"
 msgstr "that is how the body goes on,"
@@ -203,8 +199,8 @@ msgctxt "thag10.5:12.4"
 msgid "nānābhāvo vipajjati."
 msgstr "separated, the body perishes."
 
-#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
-#. id="verse-num-sc575"></a><a class="verse-num-pts" id="verse-num-pts575"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns"
+#. id="vns575"></a><a class="vnp" id="vnp575"></a>
 msgctxt "thag10.5:13.1"
 msgid "Yemaṃ kāyaṃ mamāyanti,"
 msgstr "Those blind, ordinary people"
@@ -224,8 +220,8 @@ msgctxt "thag10.5:13.4"
 msgid "ādiyanti punabbhavaṃ."
 msgstr "taking hold of future lives."
 
-#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
-#. id="verse-num-sc576"></a><a class="verse-num-pts" id="verse-num-pts576"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns"
+#. id="vns576"></a><a class="vnp" id="vnp576"></a>
 msgctxt "thag10.5:14.1"
 msgid "Yemaṃ kāyaṃ vivajjenti,"
 msgstr "Those who shun this body,"
@@ -241,11 +237,9 @@ msgid "Bhavamūlaṃ vamitvāna,"
 msgstr "expel the root of rebirth,"
 
 #. <br>
+#. VAR: Parinibbissantināsavā”ti → parinibbantyanāsavā (bj) | parinibbissantyanāsavāti (s2, s3, pts1-2)
 msgctxt "thag10.5:14.4"
-msgid ""
-"<span class=\"var\" title=\"parinibbantyanāsavā (bj) | "
-"parinibbissantyanāsavāti (s2, s3, pts1-2)\" id=\"note277\""
-">Parinibbissantināsavā”ti</span>."
+msgid "Parinibbissantināsavā”ti."
 msgstr "and realize quenching free of defilements."
 
 #. </p></blockquote><p class="endsutta">

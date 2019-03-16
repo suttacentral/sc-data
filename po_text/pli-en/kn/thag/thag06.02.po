@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "6.2. Tekicchakārittheragāthā"
 msgstr "6.2. Tekicchakāri"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc381"></a><a class="verse-num-pts"
-#. id="verse-num-pts381"></a>
+#. class="vns" id="vns381"></a><a class="vnp"
+#. id="vnp381"></a>
 msgctxt "thag6.2:5.1"
 msgid "“Atihitā vīhi,"
 msgstr "“The rice has been harvested"
@@ -48,8 +47,8 @@ msgctxt "thag6.2:5.4"
 msgid "kathamahaṃ kassaṃ”."
 msgstr "How will I get by?”"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc382"></a><a class="verse-num-pts" id="verse-num-pts382"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns382"></a><a class="vnp" id="vnp382"></a>
 msgctxt "thag6.2:6.1"
 msgid "“Buddhamappameyyaṃ anussara pasanno,"
 msgstr "“In faith, recollect the immeasurable Buddha!"
@@ -59,8 +58,8 @@ msgctxt "thag6.2:6.2"
 msgid "Pītiyā phuṭasarīro hohisi satatamudaggo."
 msgstr "Your body soaked with rapture, you’ll always be full of joy."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc383"></a><a class="verse-num-pts" id="verse-num-pts383"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns383"></a><a class="vnp" id="vnp383"></a>
 msgctxt "thag6.2:7.1"
 msgid "Dhammamappameyyaṃ anussara pasanno,"
 msgstr "In faith, recollect the immeasurable teaching!"
@@ -70,8 +69,8 @@ msgctxt "thag6.2:7.2"
 msgid "Pītiyā phuṭasarīro hohisi satatamudaggo."
 msgstr "Your body soaked with rapture, you’ll always be full of joy."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc384"></a><a class="verse-num-pts" id="verse-num-pts384"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns384"></a><a class="vnp" id="vnp384"></a>
 msgctxt "thag6.2:8.1"
 msgid "Saṃghamappameyyaṃ anussara pasanno,"
 msgstr "In faith, recollect the immeasurable Saṅgha!"
@@ -81,8 +80,8 @@ msgctxt "thag6.2:8.2"
 msgid "Pītiyā phuṭasarīro hohisi satatamudaggo”."
 msgstr "Your body soaked with rapture, you’ll always be full of joy.”"
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc385"></a><a class="verse-num-pts" id="verse-num-pts385"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns385"></a><a class="vnp" id="vnp385"></a>
 msgctxt "thag6.2:9.1"
 msgid "“Abbhokāse viharasi,"
 msgstr "“You stay in the open,"
@@ -102,8 +101,8 @@ msgctxt "thag6.2:9.4"
 msgid "Pavisa tvaṃ vihāraṃ phusitaggaḷaṃ”."
 msgstr "enter your dwelling, with latch shut fast.”"
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc386"></a><a class="verse-num-pts" id="verse-num-pts386"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns386"></a><a class="vnp" id="vnp386"></a>
 msgctxt "thag6.2:10.1"
 msgid "“Phusissaṃ catasso appamaññāyo,"
 msgstr "“I’ll realize the four immeasurable states,"
@@ -128,8 +127,7 @@ msgctxt "thag6.2:11.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Tekicchakārī → tekicchakāni (bj, s2, s3, pts1-2)
 msgctxt "thag6.2:11.2"
-msgid ""
-"<span class=\"var\" title=\"tekicchakāni (bj, s2, s3, pts1-2)\" id=\""
-"note204\">Tekicchakārī</span> thero …."
+msgid "Tekicchakārī thero …."
 msgstr ""

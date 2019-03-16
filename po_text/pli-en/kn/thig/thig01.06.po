@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,12 +21,11 @@ msgid "6. Dhīrātherīgāthā"
 msgstr "1.6. Dhīrā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc6"></a><a class="verse-num-pts"
-#. id="verse-num-pts6"></a><a class="pts" id="pts124"></a>
+#. class="vns" id="vns6"></a><a class="vnp"
+#. id="vnp6"></a><a class="pts" id="pts124"></a>
+#. VAR: phusehi → phussehi (bj)
 msgctxt "thig1.6:4.1"
-msgid ""
-"“Dhīre nirodhaṃ <span class=\"var\" title=\"phussehi (bj)\" id=\"note2\""
-">phusehi</span>,"
+msgid "“Dhīre nirodhaṃ phusehi,"
 msgstr "Dhīrā, touch cessation,"
 
 #. <br>
@@ -41,10 +39,9 @@ msgid "Ārādhayāhi nibbānaṃ,"
 msgstr "Win extinguishment,"
 
 #. <br>
+#. VAR: Yogakkhemamanuttaran”ti → yogakkhemaṃ anuttaranti (bj, s2, s3) | yogakkhemaṃ anuttaraṃ (pts1-2)
 msgctxt "thig1.6:4.4"
-msgid ""
-"<span class=\"var\" title=\"yogakkhemaṃ anuttaranti (bj, s2, s3) | "
-"yogakkhemaṃ anuttaraṃ (pts1-2)\" id=\"note3\">Yogakkhemamanuttaran”ti</span>."
+msgid "Yogakkhemamanuttaran”ti."
 msgstr "the supreme sanctuary."
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="2"></a>

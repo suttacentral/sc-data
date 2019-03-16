@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.62. Vajjiputtattheragāthā"
 msgstr "1.62. Vajjiputta (1st)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc62"></a><a class="verse-num-pts"
-#. id="verse-num-pts62"></a><a class="pts" id="pts10"></a>
+#. class="vns" id="vns62"></a><a class="vnp"
+#. id="vnp62"></a><a class="pts" id="pts10"></a>
 msgctxt "thag1.62:5.1"
 msgid "“Ekakā mayaṃ araññe viharāma,"
 msgstr "We dwell alone in the wilderness,"
@@ -53,8 +52,7 @@ msgctxt "thag1.62:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Vajjiputto → vajjiputtako (s2, s3)
 msgctxt "thag1.62:6.2"
-msgid ""
-"<span class=\"var\" title=\"vajjiputtako (s2, s3)\" id=\"note48\""
-">Vajjiputto</span> thero …."
+msgid "Vajjiputto thero …."
 msgstr ""

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "8.3. Mahāpanthakattheragāthā"
 msgstr "8.3. Mahāpanthaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc510"></a><a class="verse-num-pts"
-#. id="verse-num-pts510"></a>
+#. class="vns" id="vns510"></a><a class="vnp"
+#. id="vnp510"></a>
 msgctxt "thag8.3:5.1"
 msgid "“Yadā paṭhamamaddakkhiṃ,"
 msgstr "When I first saw the Teacher"
@@ -49,8 +48,8 @@ msgid "passitvā purisuttamaṃ."
 msgstr "seeing the supreme among men."
 
 # Compare the metaphor at MN 49. There, it seems to be an idiom that that true misfortune is one who "wards off Lady Luck". The point of this verse, then, is that one who, having found the Buddha, loses him, is like someone who beats of Lady Luck when she comes. Norman misses the connection with MN 49 and hence his suggestions are not cogent.
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc511"></a><a class="verse-num-pts" id="verse-num-pts511"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns511"></a><a class="vnp" id="vnp511"></a>
 msgctxt "thag8.3:6.1"
 msgid "Siriṃ hatthehi pādehi,"
 msgstr "Anyone who, having found such a Teacher,"
@@ -70,8 +69,8 @@ msgctxt "thag8.3:6.4"
 msgid "ārādhetvā virādhaye."
 msgstr "would drive her away with their hands and feet."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc512"></a><a class="verse-num-pts" id="verse-num-pts512"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns512"></a><a class="vnp" id="vnp512"></a>
 msgctxt "thag8.3:7.1"
 msgid "Tadāhaṃ puttadārañca,"
 msgstr "Then I left behind my children and wives,"
@@ -91,8 +90,8 @@ msgctxt "thag8.3:7.4"
 msgid "pabbajiṃ anagāriyaṃ."
 msgstr "and went forth to homelessness."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc513"></a><a class="verse-num-pts" id="verse-num-pts513"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns513"></a><a class="vnp" id="vnp513"></a>
 msgctxt "thag8.3:8.1"
 msgid "Sikkhāsājīvasampanno,"
 msgstr "Endowed with the monastic training and livelihood,"
@@ -112,8 +111,8 @@ msgctxt "thag8.3:8.4"
 msgid "vihāsiṃ aparājito."
 msgstr "I meditated undefeated."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc514"></a><a class="verse-num-pts" id="verse-num-pts514"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns514"></a><a class="vnp" id="vnp514"></a>
 msgctxt "thag8.3:9.1"
 msgid "Tato me paṇidhī āsi,"
 msgstr "Then a wish occurred to me,"
@@ -133,8 +132,8 @@ msgctxt "thag8.3:9.4"
 msgid "taṇhāsalle anūhate."
 msgstr "until the dart of craving was drawn out."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc515"></a><a class="verse-num-pts" id="verse-num-pts515"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns515"></a><a class="vnp" id="vnp515"></a>
 msgctxt "thag8.3:10.1"
 msgid "Tassa mevaṃ viharato,"
 msgstr "As I meditate like this,"
@@ -154,8 +153,8 @@ msgctxt "thag8.3:10.4"
 msgid "kataṃ buddhassa sāsanaṃ."
 msgstr "and fulfilled the Buddha’s instructions."
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc516"></a><a class="verse-num-pts" id="verse-num-pts516"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns516"></a><a class="vnp" id="vnp516"></a>
 msgctxt "thag8.3:11.1"
 msgid "Pubbenivāsaṃ jānāmi,"
 msgstr "I know my past lives,"
@@ -175,19 +174,17 @@ msgctxt "thag8.3:11.4"
 msgid "vippamutto nirūpadhi."
 msgstr "liberated, without attachments."
 
-#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
-#. id="verse-num-sc517"></a><a class="verse-num-pts" id="verse-num-pts517"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns"
+#. id="vns517"></a><a class="vnp" id="vnp517"></a>
+#. VAR: vivasāne → vivasane (bj, s2, s3, pts1-2)
 msgctxt "thag8.3:12.1"
-msgid ""
-"Tato ratyā <span class=\"var\" title=\"vivasane (bj, s2, s3, pts1-2)\" id=\""
-"note257\">vivasāne</span>,"
+msgid "Tato ratyā vivasāne,"
 msgstr "Then, at the end of the night,"
 
 #. <br>
+#. VAR: sūriyuggamanaṃ → suriyassuggamanaṃ (bj, s2, s3, pts1-2)
 msgctxt "thag8.3:12.2"
-msgid ""
-"<span class=\"var\" title=\"suriyassuggamanaṃ (bj, s2, s3, pts1-2)\" id=\""
-"note258\">sūriyuggamanaṃ</span> pati;"
+msgid "sūriyuggamanaṃ pati;"
 msgstr "as the rising of the sun drew near,"
 
 #. <br>

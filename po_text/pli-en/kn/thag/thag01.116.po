@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Dvādasamavagga"
 msgstr "Chapter Twelve"
 
 #. </p><h1>
+#. VAR: 1.116 Pārāpariyattheragāthā → pārāsariyattheragāthā (bj)
 msgctxt "thag1.116:4.1"
-msgid ""
-"<span class=\"var\" title=\"pārāsariyattheragāthā (bj)\" id=\"note79\">1.116 "
-"Pārāpariyattheragāthā</span>"
+msgid "1.116 Pārāpariyattheragāthā"
 msgstr "1.116. Pārāpariya (1st)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc116"></a><a class="verse-num-pts"
-#. id="verse-num-pts116"></a><a class="pts" id="pts17"></a>
+#. class="vns" id="vns116"></a><a class="vnp"
+#. id="vnp116"></a><a class="pts" id="pts17"></a>
 msgctxt "thag1.116:5.1"
 msgid "“Chaphassāyatane hitvā,"
 msgstr "I’ve given up the six spheres of sense-contact,"
@@ -55,8 +53,7 @@ msgctxt "thag1.116:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Pārāpariyo → pārāsariyat (bj) | pāraṃpariyo (mr)
 msgctxt "thag1.116:6.2"
-msgid ""
-"<span class=\"var\" title=\"pārāsariyat (bj) | pāraṃpariyo (mr)\" id=\""
-"note80\">Pārāpariyo</span> thero …."
+msgid "Pārāpariyo thero …."
 msgstr ""

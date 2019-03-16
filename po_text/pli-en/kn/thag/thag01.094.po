@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.94. Mettajittheragāthā"
 msgstr "1.94. Mettaji"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc94"></a><a class="verse-num-pts"
-#. id="verse-num-pts94"></a>
+#. class="vns" id="vns94"></a><a class="vnp"
+#. id="vnp94"></a>
 msgctxt "thag1.94:5.1"
 msgid "“Namo hi tassa bhagavato,"
 msgstr "Homage to that Blessed One,"
@@ -44,10 +43,9 @@ msgid "Tenāyaṃ aggappattena,"
 msgstr "Having reached the best,"
 
 #. <br>
+#. VAR: aggadhammo → aggo dhammo (bj)
 msgctxt "thag1.94:5.4"
-msgid ""
-"<span class=\"var\" title=\"aggo dhammo (bj)\" id=\"note62\""
-">aggadhammo</span> sudesito”ti."
+msgid "aggadhammo sudesito”ti."
 msgstr "he beautifully taught the best teaching."
 
 #. </p></blockquote><p class="endsutta">

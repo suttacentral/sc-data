@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.55. Añjanavaniyattheragāthā"
 msgstr "1.55. Añjanavaniya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc55"></a><a class="verse-num-pts"
-#. id="verse-num-pts55"></a>
+#. class="vns" id="vns55"></a><a class="vnp"
+#. id="vnp55"></a>
 msgctxt "thag1.55:5.1"
 msgid "“Āsandiṃ kuṭikaṃ katvā,"
 msgstr "I plunged into the Añjana forest"
@@ -53,8 +52,7 @@ msgctxt "thag1.55:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Añjanavaniyo → añjanāvaniyo (s2, s3, pts1-2)
 msgctxt "thag1.55:6.2"
-msgid ""
-"<span class=\"var\" title=\"añjanāvaniyo (s2, s3, pts1-2)\" id=\"note45\""
-">Añjanavaniyo</span> thero …."
+msgid "Añjanavaniyo thero …."
 msgstr ""

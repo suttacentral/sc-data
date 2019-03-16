@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -23,12 +22,11 @@ msgstr "2.3. Sumaṅgala’s Mother"
 
 # See Norman on readings.
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc23"></a><a class="verse-num-pts"
-#. id="verse-num-pts23"></a><a class="pts" id="pts126"></a>
+#. class="vns" id="vns23"></a><a class="vnp"
+#. id="vnp23"></a><a class="pts" id="pts126"></a>
+#. VAR: sumuttikā → sumuttike sumuttike (bj) | sumuttike sumuttikā (s2, s3, pts1-2, mr)
 msgctxt "thig2.3:4.1"
-msgid ""
-"“Sumuttikā <span class=\"var\" title=\"sumuttike sumuttike (bj) | sumuttike "
-"sumuttikā (s2, s3, pts1-2, mr)\" id=\"note16\">sumuttikā</span>,"
+msgid "“Sumuttikā sumuttikā,"
 msgstr "I’m well freed, well freed,"
 
 #. <br>
@@ -47,8 +45,8 @@ msgctxt "thig2.3:4.4"
 msgid "Ukkhalikā me deḍḍubhaṃ vāti."
 msgstr "my little pot wafted like an eel."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc24"></a><a class="verse-num-pts" id="verse-num-pts24"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns24"></a><a class="vnp" id="vnp24"></a>
 msgctxt "thig2.3:5.1"
 msgid "Rāgañca ahaṃ dosañca,"
 msgstr "Now, as for greed and hate:"
@@ -74,8 +72,7 @@ msgctxt "thig2.3:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Sumaṅgalamātā therī → aññatarā therībhikkhunī apaññātā (s2, s3, pts1-2, mr)
 msgctxt "thig2.3:6.2"
-msgid ""
-"<span class=\"var\" title=\"aññatarā therībhikkhunī apaññātā (s2, s3, pts1-"
-"2, mr)\" id=\"note17\">Sumaṅgalamātā therī</span>."
+msgid "Sumaṅgalamātā therī."
 msgstr ""

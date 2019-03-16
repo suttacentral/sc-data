@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,12 +26,11 @@ msgid "4.9. Candanattheragāthā"
 msgstr "4.9. Candana"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc299"></a><a class="verse-num-pts"
-#. id="verse-num-pts299"></a>
+#. class="vns" id="vns299"></a><a class="vnp"
+#. id="vnp299"></a>
+#. VAR: sañchannā → pacchannā (bj, pts1-2)
 msgctxt "thag4.9:5.1"
-msgid ""
-"“Jātarūpena <span class=\"var\" title=\"pacchannā (bj, pts1-2)\" id=\""
-"note176\">sañchannā</span>,"
+msgid "“Jātarūpena sañchannā,"
 msgstr "Covered over with gold,"
 
 #. <br>
@@ -50,8 +48,8 @@ msgctxt "thag4.9:5.4"
 msgid "bhariyā maṃ upāgami."
 msgstr "my wife came to me."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc300"></a><a class="verse-num-pts" id="verse-num-pts300"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns300"></a><a class="vnp" id="vnp300"></a>
 msgctxt "thag4.9:6.1"
 msgid "Tañca disvāna āyantiṃ,"
 msgstr "I saw her coming,"
@@ -71,8 +69,8 @@ msgctxt "thag4.9:6.4"
 msgid "maccupāsaṃva oḍḍitaṃ."
 msgstr "like a snare of death laid down."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc301"></a><a class="verse-num-pts" id="verse-num-pts301"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns301"></a><a class="vnp" id="vnp301"></a>
 msgctxt "thag4.9:7.1"
 msgid "Tato me manasīkāro,"
 msgstr "Then the realization"
@@ -92,8 +90,8 @@ msgctxt "thag4.9:7.4"
 msgid "nibbidā samatiṭṭhatha."
 msgstr "and I was firmly disillusioned."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc302"></a><a class="verse-num-pts" id="verse-num-pts302"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns302"></a><a class="vnp" id="vnp302"></a>
 msgctxt "thag4.9:8.1"
 msgid "Tato cittaṃ vimucci me,"
 msgstr "Then my mind was freed—"

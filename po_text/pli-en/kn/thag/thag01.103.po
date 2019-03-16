@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.103. Bandhurattheragāthā"
 msgstr "1.103. Bandhura"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc103"></a><a class="verse-num-pts"
-#. id="verse-num-pts103"></a>
+#. class="vns" id="vns103"></a><a class="vnp"
+#. id="vnp103"></a>
 msgctxt "thag1.103:5.1"
 msgid "“Nāhaṃ etena atthiko,"
 msgstr "I don’t need this—"
@@ -39,10 +38,9 @@ msgid "Sukhito dhammarasena tappito;"
 msgstr "I’m happy and satisfied with the sweet teaching."
 
 #. <br>
+#. VAR: Pitvā → pitvāna (bj, s2, s3, pts2) | pītvāna (pts1)
 msgctxt "thag1.103:5.3"
-msgid ""
-"<span class=\"var\" title=\"pitvāna (bj, s2, s3, pts2) | pītvāna (pts1)\" id="
-"\"note72\">Pitvā</span> rasaggamuttamaṃ,"
+msgid "Pitvā rasaggamuttamaṃ,"
 msgstr "I’ve drunk the best, the supreme nectar:"
 
 #. <br>
@@ -55,8 +53,7 @@ msgctxt "thag1.103:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Bandhuro → bandhano (mr)
 msgctxt "thag1.103:6.2"
-msgid ""
-"<span class=\"var\" title=\"bandhano (mr)\" id=\"note73\">Bandhuro</span> "
-"thero …."
+msgid "Bandhuro thero …."
 msgstr ""

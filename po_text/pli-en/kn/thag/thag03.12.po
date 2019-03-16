@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "3.12. Uttarapālattheragāthā"
 msgstr "3.12. Uttarapāla"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc252"></a><a class="verse-num-pts"
-#. id="verse-num-pts252"></a>
+#. class="vns" id="vns252"></a><a class="vnp"
+#. id="vnp252"></a>
 msgctxt "thag3.12:5.1"
 msgid "“Paṇḍitaṃ vata maṃ santaṃ,"
 msgstr "I was, indeed, an astute scholar,"
@@ -48,8 +47,8 @@ msgctxt "thag3.12:5.4"
 msgid "sammohā pātayiṃsu maṃ."
 msgstr "so delusory, were my downfall."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc253"></a><a class="verse-num-pts" id="verse-num-pts253"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns253"></a><a class="vnp" id="vnp253"></a>
 msgctxt "thag3.12:6.1"
 msgid "Pakkhando māravisaye,"
 msgstr "Leaping into Māra’s domain,"
@@ -69,17 +68,16 @@ msgctxt "thag3.12:6.4"
 msgid "ahaṃ pāsā pamuccituṃ."
 msgstr "from the trap laid by the King of Death."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc254"></a><a class="verse-num-pts" id="verse-num-pts254"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns254"></a><a class="vnp" id="vnp254"></a>
 msgctxt "thag3.12:7.1"
 msgid "Sabbe kāmā pahīnā me,"
 msgstr "I have given up all sensual pleasures;"
 
 #. <br>
+#. VAR: padālitā → vidālitā (bj, pts2)
 msgctxt "thag3.12:7.2"
-msgid ""
-"bhavā sabbe <span class=\"var\" title=\"vidālitā (bj, pts2)\" id=\"note162\""
-">padālitā</span>;"
+msgid "bhavā sabbe padālitā;"
 msgstr "all rebirths are shattered;"
 
 #. <br>

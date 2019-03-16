@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.44. Mogharājattheragāthā"
 msgstr "2.44. Mogharāja"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc207"></a><a class="verse-num-pts"
-#. id="verse-num-pts207"></a><a class="pts" id="pts27"></a>
+#. class="vns" id="vns207"></a><a class="vnp"
+#. id="vnp207"></a><a class="pts" id="pts27"></a>
 msgctxt "thag2.44:5.1"
 msgid "“Chavipāpaka cittabhaddaka,"
 msgstr "“Your skin is nasty but your heart is good;"
@@ -39,10 +38,9 @@ msgid "Mogharāja satataṃ samāhito;"
 msgstr "Mogharāja, you’re always immersed in samādhi."
 
 #. <br>
+#. VAR: Hemantikasītakālarattiyo → hemantikakālarattiyo (mr)
 msgctxt "thag2.44:5.3"
-msgid ""
-"<span class=\"var\" title=\"hemantikakālarattiyo (mr)\" id=\"note139\""
-">Hemantikasītakālarattiyo</span>,"
+msgid "Hemantikasītakālarattiyo,"
 msgstr "But in the nights of winter, so dark and cold,"
 
 #. <br>
@@ -50,8 +48,8 @@ msgctxt "thag2.44:5.4"
 msgid "Bhikkhu tvaṃsi kathaṃ karissasi”."
 msgstr "how will you get by, monk?”"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc208"></a><a class="verse-num-pts" id="verse-num-pts208"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns208"></a><a class="vnp" id="vnp208"></a>
 msgctxt "thag2.44:6.1"
 msgid "“Sampannasassā magadhā,"
 msgstr "“I’ve heard that all the Magadhans"

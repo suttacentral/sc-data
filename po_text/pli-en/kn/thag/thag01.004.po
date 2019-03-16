@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.4. Puṇṇattheragāthā"
 msgstr "1.4. Puṇṇa (1st)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc4"></a><a class="verse-num-pts"
-#. id="verse-num-pts4"></a>
+#. class="vns" id="vns4"></a><a class="vnp"
+#. id="vnp4"></a>
 msgctxt "thag1.4:5.1"
 msgid "“Sabbhireva samāsetha,"
 msgstr "Associate only with the virtuous,"
@@ -59,10 +58,7 @@ msgid "appamattā vicakkhaṇā”ti."
 msgstr "hard to see, subtle, and fine."
 
 #. </p></blockquote><p class="endsutta">
+#. VAR: mantāṇiputto → mantāniputto (s2, s3, pts1-2, mr)
 msgctxt "thag1.4:6.1"
-msgid ""
-"Itthaṃ sudaṃ āyasmā puṇṇo <span class=\"var\" title=\"mantāniputto (s2, s3, "
-"pts1-2, mr)\" id=\"note4\">mantāṇiputto</span> thero gāthaṃ abhāsitthāti."
-msgstr ""
-"It was thus that this verse was recited by the senior venerable Puṇṇa "
-"Mantāṇiputta."
+msgid "Itthaṃ sudaṃ āyasmā puṇṇo mantāṇiputto thero gāthaṃ abhāsitthāti."
+msgstr "It was thus that this verse was recited by the senior venerable Puṇṇa Mantāṇiputta."

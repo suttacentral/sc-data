@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.2. Piṇḍolabhāradvājattheragāthā"
 msgstr "2.2. Piṇḍolabhāradvāja"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc123"></a><a class="verse-num-pts"
-#. id="verse-num-pts123"></a>
+#. class="vns" id="vns123"></a><a class="vnp"
+#. id="vnp123"></a>
 msgctxt "thag2.2:5.1"
 msgid "“Nayidaṃ anayena jīvitaṃ,"
 msgstr "You can’t live by fasting,"
@@ -48,8 +47,8 @@ msgctxt "thag2.2:5.4"
 msgid "Iti disvāna carāmi esanaṃ."
 msgstr "I wander, seeking."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc124"></a><a class="verse-num-pts" id="verse-num-pts124"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns124"></a><a class="vnp" id="vnp124"></a>
 msgctxt "thag2.2:6.1"
 msgid "Paṅkoti hi naṃ pavedayuṃ,"
 msgstr "They know it’s just a swamp,"
@@ -72,6 +71,4 @@ msgstr "and hard for a sinner to give up."
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag2.2:7.1"
 msgid "Itthaṃ sudaṃ āyasmā piṇḍolabhāradvājo thero gāthāyo abhāsitthāti."
-msgstr ""
-"It was thus that these verses were recited by the senior venerable "
-"Piṇḍolabhāradvāja."
+msgstr "It was thus that these verses were recited by the senior venerable Piṇḍolabhāradvāja."

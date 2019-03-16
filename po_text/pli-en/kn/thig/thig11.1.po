@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,17 +21,16 @@ msgid "1. Uppalavaṇṇātherīgāthā"
 msgstr "11.1. Uppalavaṇṇā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc224"></a><a class="verse-num-pts"
-#. id="verse-num-pts224"></a>
+#. class="vns" id="vns224"></a><a class="vnp"
+#. id="vnp224"></a>
 msgctxt "thig11.1:4.1"
 msgid "“Ubho mātā ca dhītā ca,"
 msgstr "“The two of us were co-wives,"
 
 #. <br>
+#. VAR: āsuṃ → āhuṃ (si)
 msgctxt "thig11.1:4.2"
-msgid ""
-"mayaṃ <span class=\"var\" title=\"āhuṃ (si)\" id=\"note68\">āsuṃ</span> "
-"sapattiyo;"
+msgid "mayaṃ āsuṃ sapattiyo;"
 msgstr "though we were mother and daughter."
 
 #. <br>
@@ -45,8 +43,8 @@ msgctxt "thig11.1:4.4"
 msgid "abbhuto lomahaṃsano."
 msgstr "so astonishing and hair-raising!"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc225"></a><a class="verse-num-pts" id="verse-num-pts225"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns225"></a><a class="vnp" id="vnp225"></a>
 msgctxt "thig11.1:5.1"
 msgid "Dhiratthu kāmā asucī,"
 msgstr "Curse those filthy sensual pleasures,"
@@ -66,9 +64,9 @@ msgctxt "thig11.1:5.4"
 msgid "sabhariyā mayaṃ ahuṃ."
 msgstr "had to be co-wives together."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc226"></a><a class="verse-num-pts"
-#. id="verse-num-pts226"></a><a class="pts" id="pts145"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns226"></a><a class="vnp"
+#. id="vnp226"></a><a class="pts" id="pts145"></a>
 msgctxt "thig11.1:6.1"
 msgid "Kāmesvādīnavaṃ disvā,"
 msgstr "Seeing the danger in sensual pleasures,"
@@ -88,8 +86,8 @@ msgctxt "thig11.1:6.4"
 msgid "agārasmānagāriyaṃ."
 msgstr "from the lay life to homelessness."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc227"></a><a class="verse-num-pts" id="verse-num-pts227"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns227"></a><a class="vnp" id="vnp227"></a>
 msgctxt "thig11.1:7.1"
 msgid "Pubbenivāsaṃ jānāmi,"
 msgstr "I know my past lives;"
@@ -109,8 +107,8 @@ msgctxt "thig11.1:7.4"
 msgid "sotadhātu visodhitā."
 msgstr "my clairaudience is purified;"
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc228"></a><a class="verse-num-pts" id="verse-num-pts228"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns228"></a><a class="vnp" id="vnp228"></a>
 msgctxt "thig11.1:8.1"
 msgid "Iddhīpi me sacchikatā,"
 msgstr "I've realized the psychic powers,"
@@ -130,8 +128,8 @@ msgctxt "thig11.1:8.4"
 msgid "kataṃ buddhassa sāsanaṃ."
 msgstr "and fulfilled the Buddha’s instructions."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc229"></a><a class="verse-num-pts" id="verse-num-pts229"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns229"></a><a class="vnp" id="vnp229"></a>
 msgctxt "thig11.1:9.1"
 msgid "Iddhiyā abhinimmitvā,"
 msgstr "I created a four-horsed chariot"
@@ -147,23 +145,21 @@ msgid "Buddhassa pāde vanditvā,"
 msgstr "Then I bowed at the feet of the Buddha,"
 
 #. <br>
+#. VAR: tādino → sirīmato (s2, s3, pts1-2, mr)
 msgctxt "thig11.1:9.4"
-msgid ""
-"lokanāthassa <span class=\"var\" title=\"sirīmato (s2, s3, pts1-2, mr)\" id="
-"\"note69\">tādino</span>”."
+msgid "lokanāthassa tādino”."
 msgstr "the glorious protector of the world.”"
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc230"></a><a class="verse-num-pts" id="verse-num-pts230"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns230"></a><a class="vnp" id="vnp230"></a>
 msgctxt "thig11.1:10.1"
 msgid "“Supupphitaggaṃ upagamma pādapaṃ,"
 msgstr "“You’ve come to this sal tree all crowned with flowers,"
 
 #. <br>
+#. VAR: sālamūle → rukkhamūle (s2, s3, pts1-2, mr)
 msgctxt "thig11.1:10.2"
-msgid ""
-"Ekā tuvaṃ tiṭṭhasi <span class=\"var\" title=\"rukkhamūle (s2, s3, pts1-2, "
-"mr)\" id=\"note70\">sālamūle</span>;"
+msgid "Ekā tuvaṃ tiṭṭhasi sālamūle;"
 msgstr "and stand at its root all alone."
 
 #. <br>
@@ -176,8 +172,8 @@ msgctxt "thig11.1:10.4"
 msgid "Bāle na tvaṃ bhāyasi dhuttakānaṃ”."
 msgstr "silly girl, aren’t you afraid of rascals?”"
 
-#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
-#. id="verse-num-sc231"></a><a class="verse-num-pts" id="verse-num-pts231"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns"
+#. id="vns231"></a><a class="vnp" id="vnp231"></a>
 msgctxt "thig11.1:11.1"
 msgid "“Sataṃ sahassānipi dhuttakānaṃ,"
 msgstr "“Even if 100,000 rascals like this"
@@ -197,8 +193,8 @@ msgctxt "thig11.1:11.4"
 msgid "Kiṃ me tuvaṃ māra karissaseko."
 msgstr "What could you do to me all alone, Māra?"
 
-#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
-#. id="verse-num-sc232"></a><a class="verse-num-pts" id="verse-num-pts232"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns"
+#. id="vns232"></a><a class="vnp" id="vnp232"></a>
 msgctxt "thig11.1:12.1"
 msgid "Esā antaradhāyāmi,"
 msgstr "I’ll vanish,"
@@ -218,8 +214,8 @@ msgctxt "thig11.1:12.4"
 msgid "tiṭṭhantiṃ maṃ na dakkhasi."
 msgstr "and you still wouldn’t see me."
 
-#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
-#. id="verse-num-sc233"></a><a class="verse-num-pts" id="verse-num-pts233"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns"
+#. id="vns233"></a><a class="vnp" id="vnp233"></a>
 msgctxt "thig11.1:13.1"
 msgid "Cittamhi vasībhūtāhaṃ,"
 msgstr "I’m the master of my own mind,"
@@ -239,8 +235,8 @@ msgctxt "thig11.1:13.4"
 msgid "kataṃ buddhassa sāsanaṃ."
 msgstr "and fulfilled the Buddha’s instructions."
 
-#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
-#. id="verse-num-sc234"></a><a class="verse-num-pts" id="verse-num-pts234"></a>
+#. </p><p><a class="sc" id="11"></a><a class="vns"
+#. id="vns234"></a><a class="vnp" id="vnp234"></a>
 msgctxt "thig11.1:14.1"
 msgid "Sattisūlūpamā kāmā,"
 msgstr "Sensual pleasures are like swords and stakes;"
@@ -260,8 +256,8 @@ msgctxt "thig11.1:14.4"
 msgid "‘āratī’ dāni sā mama."
 msgstr "is now no delight for me."
 
-#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
-#. id="verse-num-sc235"></a><a class="verse-num-pts" id="verse-num-pts235"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns"
+#. id="vns235"></a><a class="vnp" id="vnp235"></a>
 msgctxt "thig11.1:15.1"
 msgid "Sabbattha vihatā nandī,"
 msgstr "Relishing is destroyed in every respect,"

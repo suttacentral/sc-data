@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,19 +26,17 @@ msgid "1.14. Sivakasāmaṇeragāthā"
 msgstr "1.14. The Novice Sivaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc14"></a><a class="verse-num-pts"
-#. id="verse-num-pts14"></a>
+#. class="vns" id="vns14"></a><a class="vnp"
+#. id="vnp14"></a>
+#. VAR: avaca → avacāsi (s2, s3, pts1)
 msgctxt "thag1.14:5.1"
-msgid ""
-"“Upajjhāyo maṃ <span class=\"var\" title=\"avacāsi (s2, s3, pts1)\" id=\""
-"note12\">avaca</span>,"
+msgid "“Upajjhāyo maṃ avaca,"
 msgstr "My mentor said to me:"
 
 #. <br>
+#. VAR: gacchāma → gacchāmi (s2, s3, pts1)
 msgctxt "thag1.14:5.2"
-msgid ""
-"ito <span class=\"var\" title=\"gacchāmi (s2, s3, pts1)\" id=\"note13\""
-">gacchāma</span> sīvaka;"
+msgid "ito gacchāma sīvaka;"
 msgstr "“Let’s leave here, Sīvaka.”"
 
 # There's nothing in the text to indicate that this is spoken by Sivaka rather than his upajjhaya. In fact the lack of a close -ti above would indicate that it is still the upajjhaya. However the comm, followed by Norman, says the remainder is spoken by Sivaka.

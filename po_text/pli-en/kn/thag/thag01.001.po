@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -35,8 +34,7 @@ msgstr "Background"
 #. </h4><p class="namo">
 msgctxt "thag1.1:6.1"
 msgid "Namo tassa Bhagavato Arahato Sammāsambuddhassa."
-msgstr ""
-"Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
+msgstr "Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
 
 #. </p><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="pts"
 #. id="pts1"></a>
@@ -55,10 +53,9 @@ msgid "Suṇātha bhāvitattānaṃ,"
 msgstr "hear now from those who’ve practiced well"
 
 #. <br>
+#. VAR: atthūpanāyikā → attupanāyikā (bj, pts1-2, mr) | atthupanāyikā (s2, s3)
 msgctxt "thag1.1:7.4"
-msgid ""
-"gāthā <span class=\"var\" title=\"attupanāyikā (bj, pts1-2, mr) | "
-"atthupanāyikā (s2, s3)\" id=\"note1\">atthūpanāyikā</span>."
+msgid "gāthā atthūpanāyikā."
 msgstr "their own verses about themselves."
 
 #. </p><p><a class="sc" id="2"></a>
@@ -107,8 +104,8 @@ msgid "Subhūtittheragāthā"
 msgstr "Subhūti"
 
 #. </h4><blockquote class="gatha"><p><a class="sc" id="4"></a><a
-#. class="verse-num-sc" id="verse-num-sc1"></a><a class="verse-num-pts"
-#. id="verse-num-pts1"></a>
+#. class="vns" id="vns1"></a><a class="vnp"
+#. id="vnp1"></a>
 msgctxt "thag1.1:11.1"
 msgid "“Channā me kuṭikā sukhā nivātā,"
 msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"
@@ -129,9 +126,7 @@ msgid "Ātāpī viharāmi vassa devā”ti."
 msgstr "I practice wholeheartedly: so rain, sky!"
 
 #. </p></blockquote><p class="endsutta">
+#. VAR: Itthaṃ sudaṃ → itthaṃ sumaṃ (Ma-aka)
 msgctxt "thag1.1:12.1"
-msgid ""
-"<span class=\"var\" title=\"itthaṃ sumaṃ (Ma-aka)\" id=\"note2\">Itthaṃ "
-"sudaṃ</span> āyasmā subhūtitthero gāthaṃ abhāsitthāti."
-msgstr ""
-"It was thus that this verse was recited by the senior venerable Subhūti."
+msgid "Itthaṃ sudaṃ āyasmā subhūtitthero gāthaṃ abhāsitthāti."
+msgstr "It was thus that this verse was recited by the senior venerable Subhūti."

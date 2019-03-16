@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "10.2. Ekavihāriyattheragāthā"
 msgstr "10.2. Ekavihāriya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc537"></a><a class="verse-num-pts"
-#. id="verse-num-pts537"></a>
+#. class="vns" id="vns537"></a><a class="vnp"
+#. id="vnp537"></a>
 msgctxt "thag10.2:5.1"
 msgid "“Purato pacchato vāpi,"
 msgstr "If no-one else is found"
@@ -48,8 +47,8 @@ msgctxt "thag10.2:5.4"
 msgid "ekassa vasato vane."
 msgstr "to be dwelling alone in a forest grove."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc538"></a><a class="verse-num-pts" id="verse-num-pts538"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns538"></a><a class="vnp" id="vnp538"></a>
 msgctxt "thag10.2:6.1"
 msgid "Handa eko gamissāmi,"
 msgstr "Come now, I’ll go alone"
@@ -60,10 +59,9 @@ msgid "araññaṃ buddhavaṇṇitaṃ;"
 msgstr "to the wilderness praised by the Buddha."
 
 #. <br>
+#. VAR: Phāsu → phāsuṃ (s2, s3, pts1-2)
 msgctxt "thag10.2:6.3"
-msgid ""
-"<span class=\"var\" title=\"phāsuṃ (s2, s3, pts1-2)\" id=\"note265\""
-">Phāsu</span> ekavihārissa,"
+msgid "Phāsu ekavihārissa,"
 msgstr "It’s pleasant for a mendicant"
 
 #. <br>
@@ -71,8 +69,8 @@ msgctxt "thag10.2:6.4"
 msgid "pahitattassa bhikkhuno."
 msgstr "to be dwelling alone and resolute."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc539"></a><a class="verse-num-pts" id="verse-num-pts539"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns539"></a><a class="vnp" id="vnp539"></a>
 msgctxt "thag10.2:7.1"
 msgid "Yogi-pītikaraṃ rammaṃ,"
 msgstr "Alone and self-disciplined,"
@@ -92,8 +90,8 @@ msgctxt "thag10.2:7.4"
 msgid "pavisissāmi kānanaṃ."
 msgstr "and is frequented by rutting elephants."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc540"></a><a class="verse-num-pts" id="verse-num-pts540"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns540"></a><a class="vnp" id="vnp540"></a>
 msgctxt "thag10.2:8.1"
 msgid "Supupphite sītavane,"
 msgstr "In Sītavana, so full of flowers,"
@@ -113,8 +111,8 @@ msgctxt "thag10.2:8.4"
 msgid "caṅkamissāmi ekako."
 msgstr "and walk meditation alone."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc541"></a><a class="verse-num-pts" id="verse-num-pts541"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns541"></a><a class="vnp" id="vnp541"></a>
 msgctxt "thag10.2:9.1"
 msgid "Ekākiyo adutiyo,"
 msgstr "When will I dwell alone,"
@@ -134,8 +132,8 @@ msgctxt "thag10.2:9.4"
 msgid "katakicco anāsavo."
 msgstr "my task complete, free of defilements?"
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc542"></a><a class="verse-num-pts" id="verse-num-pts542"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns542"></a><a class="vnp" id="vnp542"></a>
 msgctxt "thag10.2:10.1"
 msgid "Evaṃ me kattukāmassa,"
 msgstr "This is what I want to do:"
@@ -155,8 +153,8 @@ msgctxt "thag10.2:10.4"
 msgid "nāñño aññassa kārako."
 msgstr "for no-one can do another’s duty."
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc543"></a><a class="verse-num-pts" id="verse-num-pts543"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns543"></a><a class="vnp" id="vnp543"></a>
 msgctxt "thag10.2:11.1"
 msgid "Esa bandhāmi sannāhaṃ,"
 msgstr "Fastening my armor,"
@@ -176,17 +174,16 @@ msgctxt "thag10.2:11.4"
 msgid "appatto āsavakkhayaṃ."
 msgstr "without attaining the end of defilements."
 
-#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
-#. id="verse-num-sc544"></a><a class="verse-num-pts" id="verse-num-pts544"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns"
+#. id="vns544"></a><a class="vnp" id="vnp544"></a>
 msgctxt "thag10.2:12.1"
 msgid "Mālute upavāyante,"
 msgstr "As the cool breeze blows"
 
 #. <br>
+#. VAR: surabhigandhike → ... gandhake (s2, s3, pts1-2, mr)
 msgctxt "thag10.2:12.2"
-msgid ""
-"sīte <span class=\"var\" title=\"... gandhake (s2, s3, pts1-2, mr)\" id=\""
-"note266\">surabhigandhike</span>;"
+msgid "sīte surabhigandhike;"
 msgstr "with fragrant scent,"
 
 #. <br>
@@ -199,8 +196,8 @@ msgctxt "thag10.2:12.4"
 msgid "nisinno nagamuddhani."
 msgstr "sitting on the mountain-peak."
 
-#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
-#. id="verse-num-sc545"></a><a class="verse-num-pts" id="verse-num-pts545"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns"
+#. id="vns545"></a><a class="vnp" id="vnp545"></a>
 msgctxt "thag10.2:13.1"
 msgid "Vane kusumasañchanne,"
 msgstr "In a forest grove covered with blossoms,"
@@ -220,18 +217,17 @@ msgctxt "thag10.2:13.4"
 msgid "ramissāmi giribbaje."
 msgstr "happy with the happiness of freedom."
 
-#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
-#. id="verse-num-sc546"></a><a class="verse-num-pts"
-#. id="verse-num-pts546"></a><a class="pts" id="pts58"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns"
+#. id="vns546"></a><a class="vnp"
+#. id="vnp546"></a><a class="pts" id="pts58"></a>
 msgctxt "thag10.2:14.1"
 msgid "Sohaṃ paripuṇṇasaṅkappo,"
 msgstr "I’ve got all I wished for"
 
 #. <br>
+#. VAR: pannaraso → paṇṇaraso (s2, s3) | pannarase (pts2)
 msgctxt "thag10.2:14.2"
-msgid ""
-"cando <span class=\"var\" title=\"paṇṇaraso (s2, s3) | pannarase (pts2)\" id="
-"\"note267\">pannaraso</span> yathā;"
+msgid "cando pannaraso yathā;"
 msgstr "like the moon on the fifteenth day."
 
 #. <br>

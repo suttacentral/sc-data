@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "6.6. Sappadāsattheragāthā"
 msgstr "6.6. Sappadāsa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc405"></a><a class="verse-num-pts"
-#. id="verse-num-pts405"></a>
+#. class="vns" id="vns405"></a><a class="vnp"
+#. id="vnp405"></a>
 msgctxt "thag6.6:5.1"
 msgid "“Paṇṇavīsativassāni,"
 msgstr "In the twenty-five years"
@@ -48,17 +47,16 @@ msgctxt "thag6.6:5.4"
 msgid "cetosantimanajjhagaṃ."
 msgstr "even as long as a finger-snap."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc406"></a><a class="verse-num-pts" id="verse-num-pts406"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns406"></a><a class="vnp" id="vnp406"></a>
 msgctxt "thag6.6:6.1"
 msgid "Aladdhā cittassekaggaṃ,"
 msgstr "Since I couldn’t get my mind unified,"
 
 #. <br>
+#. VAR: aṭṭito → addito (bj, s2, s3, pts1-2) | aḍḍito (mr)
 msgctxt "thag6.6:6.2"
-msgid ""
-"kāmarāgena <span class=\"var\" title=\"addito (bj, s2, s3, pts1-2) | aḍḍito "
-"(mr)\" id=\"note214\">aṭṭito</span>;"
+msgid "kāmarāgena aṭṭito;"
 msgstr "I was racked by desire for pleasures of the senses."
 
 #. <br>
@@ -67,14 +65,13 @@ msgid "Bāhā paggayha kandanto,"
 msgstr "Wailing, with outstretched arms,"
 
 #. <br>
+#. VAR: upanikkhamiṃ → nūpanikkhamiṃ (bj) | nupanikkhamiṃ (s2, s3, pts1-2) | dupanikkhamiṃ (?)
 msgctxt "thag6.6:6.4"
-msgid ""
-"vihārā <span class=\"var\" title=\"nūpanikkhamiṃ (bj) | nupanikkhamiṃ (s2, "
-"s3, pts1-2) | dupanikkhamiṃ (?)\" id=\"note215\">upanikkhamiṃ</span>."
+msgid "vihārā upanikkhamiṃ."
 msgstr "I left my dwelling."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc407"></a><a class="verse-num-pts" id="verse-num-pts407"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns407"></a><a class="vnp" id="vnp407"></a>
 msgctxt "thag6.6:7.1"
 msgid "Satthaṃ vā āharissāmi,"
 msgstr "Shall I … or shall I slit my wrists?"
@@ -95,8 +92,8 @@ msgctxt "thag6.6:7.4"
 msgid "Kālaṃ kubbetha mādiso."
 msgstr "after rejecting the training?"
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc408"></a><a class="verse-num-pts" id="verse-num-pts408"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns408"></a><a class="vnp" id="vnp408"></a>
 msgctxt "thag6.6:8.1"
 msgid "Tadāhaṃ khuramādāya,"
 msgstr "Then I picked up a razor,"
@@ -116,8 +113,8 @@ msgctxt "thag6.6:8.4"
 msgid "dhamaniṃ chettumattano."
 msgstr "to slice my vein."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc409"></a><a class="verse-num-pts" id="verse-num-pts409"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns409"></a><a class="vnp" id="vnp409"></a>
 msgctxt "thag6.6:9.1"
 msgid "Tato me manasīkāro,"
 msgstr "Then the realization"
@@ -137,8 +134,8 @@ msgctxt "thag6.6:9.4"
 msgid "nibbidā samatiṭṭhatha."
 msgstr "and I was firmly disillusioned."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc410"></a><a class="verse-num-pts" id="verse-num-pts410"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns410"></a><a class="vnp" id="vnp410"></a>
 msgctxt "thag6.6:10.1"
 msgid "Tato cittaṃ vimucci me,"
 msgstr "Then my mind was freed—"

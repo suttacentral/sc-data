@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -28,8 +27,8 @@ msgstr "4.4. Nandaka (2nd)"
 
 # Pura is a rare poetic term for the body, see Norman's note. Apparently is the same PIE origin as "frame", for what it's worth. The idea is the body like an enclosed citadel, and "frame" is probably the closest. The -e endings here and in the closely related lines at Thag 20.1 are difficult to parse. Norman reads those here as accusative (probably plural) and in Thag 20.1 as either feminine vocative singular or locative. But I find it improbable that exactly the same forms in the same phrases should thus have two different readings. I take the forms as being feminine singular vocative throughout.
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc279"></a><a class="verse-num-pts"
-#. id="verse-num-pts279"></a>
+#. class="vns" id="vns279"></a><a class="vnp"
+#. id="vnp279"></a>
 msgctxt "thag4.4:5.1"
 msgid "“Dhiratthu pūre duggandhe,"
 msgstr "Damn you mortal frame, you stink!"
@@ -49,9 +48,9 @@ msgctxt "thag4.4:5.4"
 msgid "yāni sandanti sabbadā."
 msgstr "that are flowing all the time."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc280"></a><a class="verse-num-pts"
-#. id="verse-num-pts280"></a><a class="pts" id="pts34"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns280"></a><a class="vnp"
+#. id="vnp280"></a><a class="pts" id="pts34"></a>
 msgctxt "thag4.4:6.1"
 msgid "Mā purāṇaṃ amaññittho,"
 msgstr "Don’t think much of mortal frames;"
@@ -67,14 +66,13 @@ msgid "Saggepi te na rajjanti,"
 msgstr "They’re not even aroused by heaven,"
 
 #. <br>
+#. VAR: kimaṅgaṃ pana → kimaṅga pana (bj, pts1-2)
 msgctxt "thag4.4:6.4"
-msgid ""
-"<span class=\"var\" title=\"kimaṅga pana (bj, pts1-2)\" id=\"note172\">"
-"kimaṅgaṃ pana</span> mānuse."
+msgid "kimaṅgaṃ pana mānuse."
 msgstr "let alone by humans."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc281"></a><a class="verse-num-pts" id="verse-num-pts281"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns281"></a><a class="vnp" id="vnp281"></a>
 msgctxt "thag4.4:7.1"
 msgid "Ye ca kho bālā dummedhā,"
 msgstr "But those who are stupid fools,"
@@ -94,8 +92,8 @@ msgctxt "thag4.4:7.4"
 msgid "mārakhittamhi bandhane."
 msgstr "when Māra has laid down the snare."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc282"></a><a class="verse-num-pts" id="verse-num-pts282"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns282"></a><a class="vnp" id="vnp282"></a>
 msgctxt "thag4.4:8.1"
 msgid "Yesaṃ rāgo ca doso ca,"
 msgstr "Those whose greed, hate, and ignorance"

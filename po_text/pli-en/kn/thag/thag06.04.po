@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "6.4. Kullattheragāthā"
 msgstr "6.4. Kulla"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc393"></a><a class="verse-num-pts"
-#. id="verse-num-pts393"></a>
+#. class="vns" id="vns393"></a><a class="vnp"
+#. id="vnp393"></a>
 msgctxt "thag6.4:5.1"
 msgid "“Kullo sivathikaṃ gantvā,"
 msgstr "I, Kulla, went to a charnel ground"
@@ -49,8 +48,8 @@ msgid "khajjantiṃ kimihī phuṭaṃ."
 msgstr "full of worms that devoured."
 
 # This seems to be Kulla's own reflection.
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc394"></a><a class="verse-num-pts" id="verse-num-pts394"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns394"></a><a class="vnp" id="vnp394"></a>
 msgctxt "thag6.4:6.1"
 msgid "Āturaṃ asuciṃ pūtiṃ,"
 msgstr "“See this bag of bones, Kulla—"
@@ -70,8 +69,8 @@ msgctxt "thag6.4:6.4"
 msgid "bālānaṃ abhinanditaṃ."
 msgstr "a fool’s delight.”"
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc395"></a><a class="verse-num-pts" id="verse-num-pts395"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns395"></a><a class="vnp" id="vnp395"></a>
 msgctxt "thag6.4:7.1"
 msgid "Dhammādāsaṃ gahetvāna,"
 msgstr "Taking the teaching as a mirror"
@@ -93,11 +92,7 @@ msgstr "hollow, inside and out."
 
 #. </p><p><a class="sc" id="4"></a>
 msgctxt "thag6.4:8.1"
-msgid ""
-"<span class=\"cross\" title=\"^thag6.4#5 [Kullattheragāthā] | ^ne4#83 "
-"[Vibhaṅga/ Vicayahāravibhaṅga]\" id=\"note206\">*</span> <a class=\"verse-"
-"num-sc\" id=\"verse-num-sc396\"></a><a class=\"verse-num-pts\" id=\"verse-"
-"num-pts396\"></a>Yathā idaṃ tathā etaṃ,"
+msgid "<a class=\"verse-num-sc\" id=\"vns396\"></a><a class=\"vnp\" id=\"verse-num-pts396\"></a>Yathā idaṃ tathā etaṃ,"
 msgstr "As this is, so is that;"
 
 #. <br>
@@ -115,8 +110,8 @@ msgctxt "thag6.4:8.4"
 msgid "yathā uddhaṃ tathā adho."
 msgstr "as above, so below."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc397"></a><a class="verse-num-pts" id="verse-num-pts397"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns397"></a><a class="vnp" id="vnp397"></a>
 msgctxt "thag6.4:9.1"
 msgid "Yathā divā tathā rattiṃ,"
 msgstr "As by day, so by night;"
@@ -136,8 +131,8 @@ msgctxt "thag6.4:9.4"
 msgid "yathā pacchā tathā pure."
 msgstr "as after, so before."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc398"></a><a class="verse-num-pts" id="verse-num-pts398"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns398"></a><a class="vnp" id="vnp398"></a>
 msgctxt "thag6.4:10.1"
 msgid "Pañcaṅgikena turiyena,"
 msgstr "Even the music of a five-piece band"

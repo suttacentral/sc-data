@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.107. Dhammasavattheragāthā"
 msgstr "1.107. Dhammasava"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc107"></a><a class="verse-num-pts"
-#. id="verse-num-pts107"></a>
+#. class="vns" id="vns107"></a><a class="vnp"
+#. id="vnp107"></a>
 msgctxt "thag1.107:5.1"
 msgid "“Pabbajiṃ tulayitvāna,"
 msgstr "After investigating, I went forth"
@@ -53,8 +52,7 @@ msgctxt "thag1.107:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Dhammasavo → dhammasaṃvaro (s2, s3)
 msgctxt "thag1.107:6.2"
-msgid ""
-"<span class=\"var\" title=\"dhammasaṃvaro (s2, s3)\" id=\"note74\""
-">Dhammasavo</span> thero …."
+msgid "Dhammasavo thero …."
 msgstr ""

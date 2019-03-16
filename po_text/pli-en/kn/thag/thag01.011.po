@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,12 +26,11 @@ msgid "1.11. Cūḷavacchattheragāthā"
 msgstr "1.11. Cūḷavaccha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc11"></a><a class="verse-num-pts"
-#. id="verse-num-pts11"></a>
+#. class="vns" id="vns11"></a><a class="vnp"
+#. id="vnp11"></a>
+#. VAR: Pāmojjabahulo → pāmujjabahulo (s2, s3, pts1-2)
 msgctxt "thag1.11:5.1"
-msgid ""
-"“<span class=\"var\" title=\"pāmujjabahulo (s2, s3, pts1-2)\" id=\"note9\""
-">Pāmojjabahulo</span> bhikkhu,"
+msgid "“Pāmojjabahulo bhikkhu,"
 msgstr "A monk full of joy"
 
 #. <br>
@@ -55,8 +53,7 @@ msgctxt "thag1.11:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Cūḷavaccho → cūlagavaccho (si, pts1-2)
 msgctxt "thag1.11:6.2"
-msgid ""
-"<span class=\"var\" title=\"cūlagavaccho (si, pts1-2)\" id=\"note10\""
-">Cūḷavaccho</span> thero …."
+msgid "Cūḷavaccho thero …."
 msgstr ""

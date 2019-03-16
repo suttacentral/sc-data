@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -17,15 +16,14 @@ msgid "Ekakanipāta"
 msgstr "The Book of the Ones"
 
 #. </p><h1>
+#. VAR: 16 Vuḍḍhapabbajitasumanātherīgāthā → sumanābuḍḍhapabbajitātherīgāthā (bj)
 msgctxt "thig1.16:3.1"
-msgid ""
-"<span class=\"var\" title=\"sumanābuḍḍhapabbajitātherīgāthā (bj)\" id=\""
-"note10\">16 Vuḍḍhapabbajitasumanātherīgāthā</span>"
+msgid "16 Vuḍḍhapabbajitasumanātherīgāthā"
 msgstr "1.16. Sumanā, Who Went Forth Late in Life"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc16"></a><a class="verse-num-pts"
-#. id="verse-num-pts16"></a>
+#. class="vns" id="vns16"></a><a class="vnp"
+#. id="vnp16"></a>
 msgctxt "thig1.16:4.1"
 msgid "“Sukhaṃ tvaṃ vuḍḍhike sehi,"
 msgstr "Sleep softly, old lady,"
@@ -50,8 +48,7 @@ msgctxt "thig1.16:5.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Sumanā vuḍḍhapabbajitā → sumanā buḍḍhapabbajitā (bj)
 msgctxt "thig1.16:5.2"
-msgid ""
-"<span class=\"var\" title=\"sumanā buḍḍhapabbajitā (bj)\" id=\"note11\">"
-"Sumanā vuḍḍhapabbajitā</span> therī …."
+msgid "Sumanā vuḍḍhapabbajitā therī …."
 msgstr ""

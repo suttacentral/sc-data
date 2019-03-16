@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "4.7. Sambhūtattheragāthā"
 msgstr "4.7. Sambhūta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc291"></a><a class="verse-num-pts"
-#. id="verse-num-pts291"></a>
+#. class="vns" id="vns291"></a><a class="vnp"
+#. id="vnp291"></a>
 msgctxt "thag4.7:5.1"
 msgid "“Yo dandhakāle tarati,"
 msgstr "Hurrying when it’s time to dawdle;"
@@ -39,10 +38,9 @@ msgid "taraṇīye ca dandhaye;"
 msgstr "dawdling when it’s time to hurry;"
 
 #. <br>
+#. VAR: Ayoni → ayoniso (s2, s3, pts1)
 msgctxt "thag4.7:5.3"
-msgid ""
-"<span class=\"var\" title=\"ayoniso (s2, s3, pts1)\" id=\"note174\""
-">Ayoni</span> saṃvidhānena,"
+msgid "Ayoni saṃvidhānena,"
 msgstr "being so disorganized"
 
 #. <br>
@@ -50,8 +48,8 @@ msgctxt "thag4.7:5.4"
 msgid "bālo dukkhaṃ nigacchati."
 msgstr "a fool falls into suffering."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc292"></a><a class="verse-num-pts" id="verse-num-pts292"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns292"></a><a class="vnp" id="vnp292"></a>
 msgctxt "thag4.7:6.1"
 msgid "Tassatthā parihāyanti,"
 msgstr "Their good fortune wastes away"
@@ -62,10 +60,9 @@ msgid "kāḷapakkheva candimā;"
 msgstr "like the moon in the waning fortnight."
 
 #. <br>
+#. VAR: Āyasakyañca → āyasasyañca (bj)
 msgctxt "thag4.7:6.3"
-msgid ""
-"<span class=\"var\" title=\"āyasasyañca (bj)\" id=\"note175\""
-">Āyasakyañca</span> pappoti,"
+msgid "Āyasakyañca pappoti,"
 msgstr "They become disgraced"
 
 #. <br>
@@ -73,8 +70,8 @@ msgctxt "thag4.7:6.4"
 msgid "mittehi ca virujjhati."
 msgstr "and alienated from their friends."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc293"></a><a class="verse-num-pts" id="verse-num-pts293"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns293"></a><a class="vnp" id="vnp293"></a>
 msgctxt "thag4.7:7.1"
 msgid "Yo dandhakāle dandheti,"
 msgstr "Dawdling when it’s time to dawdle;"
@@ -94,8 +91,8 @@ msgctxt "thag4.7:7.4"
 msgid "sukhaṃ pappoti paṇḍito."
 msgstr "an astute person comes into happiness."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc294"></a><a class="verse-num-pts" id="verse-num-pts294"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns294"></a><a class="vnp" id="vnp294"></a>
 msgctxt "thag4.7:8.1"
 msgid "Tassatthā paripūrenti,"
 msgstr "Their good fortune flourishes"

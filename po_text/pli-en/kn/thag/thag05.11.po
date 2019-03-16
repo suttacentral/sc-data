@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "5.11. Soṇakuṭikaṇṇattheragāthā"
 msgstr "5.11. Soṇakuṭikaṇṇa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc365"></a><a class="verse-num-pts"
-#. id="verse-num-pts365"></a>
+#. class="vns" id="vns365"></a><a class="vnp"
+#. id="vnp365"></a>
 msgctxt "thag5.11:5.1"
 msgid "“Upasampadā ca me laddhā,"
 msgstr "I’ve received ordination;"
@@ -48,8 +47,8 @@ msgctxt "thag5.11:5.4"
 msgid "vihāre ca sahāvasiṃ."
 msgstr "and even stayed together with him."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc366"></a><a class="verse-num-pts" id="verse-num-pts366"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns366"></a><a class="vnp" id="vnp366"></a>
 msgctxt "thag5.11:6.1"
 msgid "Bahudeva rattiṃ bhagavā,"
 msgstr "The Blessed One, the teacher,"
@@ -69,8 +68,8 @@ msgctxt "thag5.11:6.4"
 msgid "vihāraṃ pāvisī tadā."
 msgstr "entered his dwelling."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc367"></a><a class="verse-num-pts" id="verse-num-pts367"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns367"></a><a class="vnp" id="vnp367"></a>
 msgctxt "thag5.11:7.1"
 msgid "Santharitvāna saṅghāṭiṃ,"
 msgstr "Spreading his outer robe,"
@@ -90,8 +89,8 @@ msgctxt "thag5.11:7.4"
 msgid "pahīnabhayabheravo."
 msgstr "with fear and dread given up."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc368"></a><a class="verse-num-pts" id="verse-num-pts368"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns368"></a><a class="vnp" id="vnp368"></a>
 msgctxt "thag5.11:8.1"
 msgid "Tato kalyāṇavākkaraṇo,"
 msgstr "Then, with lovely enunciation,"
@@ -111,8 +110,8 @@ msgctxt "thag5.11:8.4"
 msgid "buddhaseṭṭhassa sammukhā."
 msgstr "before the best of Buddhas."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc369"></a><a class="verse-num-pts" id="verse-num-pts369"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns369"></a><a class="vnp" id="vnp369"></a>
 msgctxt "thag5.11:9.1"
 msgid "Pañcakkhandhe pariññāya,"
 msgstr "When he has completely understood the five aggregates,"
@@ -128,10 +127,9 @@ msgid "Pappuyya paramaṃ santiṃ,"
 msgstr "and arrived at ultimate peace,"
 
 #. <br>
+#. VAR: Parinibbissatyanāsavo”ti → parinibbāyissatyanāsavoti (s2, s3) | parinibbātyanāsavoti (pts2)
 msgctxt "thag5.11:9.4"
-msgid ""
-"<span class=\"var\" title=\"parinibbāyissatyanāsavoti (s2, s3) | "
-"parinibbātyanāsavoti (pts2)\" id=\"note200\">Parinibbissatyanāsavo”ti</span>."
+msgid "Parinibbissatyanāsavo”ti."
 msgstr "he will realize quenching without defilements."
 
 #. </p></blockquote><p class="endsutta">

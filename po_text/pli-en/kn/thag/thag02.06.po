@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Paṭhamavagga"
 msgstr "Chapter One"
 
 #. </p><h1>
+#. VAR: 2.6 Meḷajinattheragāthā → melajinattheragāthā (bj)
 msgctxt "thag2.6:4.1"
-msgid ""
-"<span class=\"var\" title=\"melajinattheragāthā (bj)\" id=\"note85\">2.6 "
-"Meḷajinattheragāthā</span>"
+msgid "2.6 Meḷajinattheragāthā"
 msgstr "2.6. Meḷajina"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc131"></a><a class="verse-num-pts"
-#. id="verse-num-pts131"></a>
+#. class="vns" id="vns131"></a><a class="vnp"
+#. id="vnp131"></a>
 msgctxt "thag2.6:5.1"
 msgid "“Yadāhaṃ dhammamassosiṃ,"
 msgstr "When I heard the Teacher"
@@ -50,8 +48,8 @@ msgctxt "thag2.6:5.4"
 msgid "sabbaññūaparājite."
 msgstr "in the all-knowing, unconquered one,"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc132"></a><a class="verse-num-pts" id="verse-num-pts132"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns132"></a><a class="vnp" id="vnp132"></a>
 msgctxt "thag2.6:6.1"
 msgid "Satthavāhe mahāvīre,"
 msgstr "the caravan leader, the great hero,"
@@ -76,8 +74,7 @@ msgctxt "thag2.6:7.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Meḷajino → melajino (bj)
 msgctxt "thag2.6:7.2"
-msgid ""
-"<span class=\"var\" title=\"melajino (bj)\" id=\"note86\">Meḷajino</span> "
-"thero …."
+msgid "Meḷajino thero …."
 msgstr ""

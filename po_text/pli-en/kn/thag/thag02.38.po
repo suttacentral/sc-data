@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.38. Nisabhattheragāthā"
 msgstr "2.38. Nisabha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc195"></a><a class="verse-num-pts"
-#. id="verse-num-pts195"></a>
+#. class="vns" id="vns195"></a><a class="vnp"
+#. id="vnp195"></a>
 msgctxt "thag2.38:5.1"
 msgid "“Pañca kāmaguṇe hitvā,"
 msgstr "One who has left the home life out of faith,"
@@ -39,10 +38,9 @@ msgid "Piyarūpe manorame;"
 msgstr "giving up the five kinds of sensual stimulation,"
 
 #. <br>
+#. VAR: gharā nikkhamma →  abhinikkhamma (sī1, pā1)
 msgctxt "thag2.38:5.3"
-msgid ""
-"Saddhāya <span class=\"var\" title=\" abhinikkhamma (sī1, pā1)\" id=\""
-"note129\">gharā nikkhamma</span>,"
+msgid "Saddhāya gharā nikkhamma,"
 msgstr "so pleasing and delightful—"
 
 #. <br>
@@ -52,12 +50,7 @@ msgstr "let them make an end to suffering!"
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag2.38:6.1"
-msgid ""
-"<span class=\"cross\" title=\"^thag11.1#11 [Saṅkiccattheragāthā] | ^thag14.1#"
-"11 [Paṭhamavagga/ Khadiravaniyarevatattheragāthā] | ^mi3.2.4#1 "
-"[Paṭisandahanapuggalavediyanapañha]\" id=\"note131\">*</span> <a class"
-"=\"verse-num-sc\" id=\"verse-num-sc196\"></a><a class=\"verse-num-pts\" id"
-"=\"verse-num-pts196\"></a>Nābhinandāmi maraṇaṃ,"
+msgid "<a class=\"vns\" id=\"vns196\"></a><a class=\"vnp\" id=\"vnp196\"></a>Nābhinandāmi maraṇaṃ,"
 msgstr "I don’t long for death;"
 
 #. <br>

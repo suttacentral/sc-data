@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,17 +26,16 @@ msgid "1.114. Adhimuttattheragāthā"
 msgstr "1.114. Adhimutta (1st)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc114"></a><a class="verse-num-pts"
-#. id="verse-num-pts114"></a>
+#. class="vns" id="vns114"></a><a class="vnp"
+#. id="vnp114"></a>
 msgctxt "thag1.114:5.1"
 msgid "“Kāyaduṭṭhullagaruno,"
 msgstr "Your body is uncomfortably heavy,"
 
 #. <br>
+#. VAR: hiyyamānamhi → hīyamānamhi (bj)
 msgctxt "thag1.114:5.2"
-msgid ""
-"<span class=\"var\" title=\"hīyamānamhi (bj)\" id=\"note77\""
-">hiyyamānamhi</span> jīvite;"
+msgid "hiyyamānamhi jīvite;"
 msgstr "and life is running out;"
 
 #. <br>

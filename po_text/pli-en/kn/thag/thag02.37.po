@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Catutthavagga"
 msgstr "Chapter Four"
 
 #. </p><h1>
+#. VAR: 2.37 Soṇapoṭiriyattheragāthā → solissariyattheragāthā (bj)
 msgctxt "thag2.37:4.1"
-msgid ""
-"<span class=\"var\" title=\"solissariyattheragāthā (bj)\" id=\"note127\">"
-"2.37 Soṇapoṭiriyattheragāthā</span>"
+msgid "2.37 Soṇapoṭiriyattheragāthā"
 msgstr "2.37. Soṇapoṭiriya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc193"></a><a class="verse-num-pts"
-#. id="verse-num-pts193"></a>
+#. class="vns" id="vns193"></a><a class="vnp"
+#. id="vnp193"></a>
 msgctxt "thag2.37:5.1"
 msgid "“Na tāva supituṃ hoti,"
 msgstr "Night, with her garland of stars,"
@@ -50,8 +48,8 @@ msgctxt "thag2.37:5.4"
 msgid "ratti hoti vijānatā”."
 msgstr "this night is really for waking."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc194"></a><a class="verse-num-pts" id="verse-num-pts194"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns194"></a><a class="vnp" id="vnp194"></a>
 msgctxt "thag2.37:6.1"
 msgid "“Hatthikkhandhāvapatitaṃ,"
 msgstr "Were I to fall from the back of an elephant,"
@@ -76,8 +74,7 @@ msgctxt "thag2.37:7.1"
 msgid "…"
 msgstr ""
 
+#. VAR: poṭiriyo → selissariya (bj) | poṭiriyaputto (s2, s3, pts1-2)
 msgctxt "thag2.37:7.2"
-msgid ""
-"Soṇo <span class=\"var\" title=\"selissariya (bj) | poṭiriyaputto (s2, s3, "
-"pts1-2)\" id=\"note128\">poṭiriyo</span> thero …."
+msgid "Soṇo poṭiriyo thero …."
 msgstr ""

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Paṭhamavagga"
 msgstr "Chapter One"
 
 #. </p><h1>
+#. VAR: 7.2 Lakuṇḍakabhaddiyattheragāthā → lakuṇṭakabhaddiyattheragāthā (bj)
 msgctxt "thag7.2:4.1"
-msgid ""
-"<span class=\"var\" title=\"lakuṇṭakabhaddiyattheragāthā (bj)\" id=\""
-"note239\">7.2 Lakuṇḍakabhaddiyattheragāthā</span>"
+msgid "7.2 Lakuṇḍakabhaddiyattheragāthā"
 msgstr "7.2. Lakuṇṭaka Bhaddiya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc466"></a><a class="verse-num-pts"
-#. id="verse-num-pts466"></a>
+#. class="vns" id="vns466"></a><a class="vnp"
+#. id="vnp466"></a>
 msgctxt "thag7.2:5.1"
 msgid "“Pare ambāṭakārāme,"
 msgstr "Bhaddiya has plucked out craving, root and all,"
@@ -46,19 +44,16 @@ msgid "Samūlaṃ taṇhamabbuyha,"
 msgstr "on the far side of the Wild Mango Monastery,"
 
 #. <br>
+#. VAR: bhaddova jhāyati → bhaddo jhiyāyati (bj, s2, s3, pts1-2) | bhaddo'dhijhāyāyati (si) | bhaddo jijhāyati (?)
 msgctxt "thag7.2:5.4"
-msgid ""
-"tattha <span class=\"var\" title=\"bhaddo jhiyāyati (bj, s2, s3, pts1-2) | "
-"bhaddo'dhijhāyāyati (si) | bhaddo jijhāyati (?)\" id=\"note240\">bhaddova "
-"jhāyati</span>."
+msgid "tattha bhaddova jhāyati."
 msgstr "he practices absorption; he is truly well-favoured."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc467"></a><a class="verse-num-pts" id="verse-num-pts467"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns467"></a><a class="vnp" id="vnp467"></a>
+#. VAR: mudiṅgehi → mutiṅgehi (bj, pts1-2)
 msgctxt "thag7.2:6.1"
-msgid ""
-"Ramanteke <span class=\"var\" title=\"mutiṅgehi (bj, pts1-2)\" id=\"note241\""
-">mudiṅgehi</span>,"
+msgid "Ramanteke mudiṅgehi,"
 msgstr "Some delight in clay drums,"
 
 #. <br>
@@ -76,12 +71,11 @@ msgctxt "thag7.2:6.4"
 msgid "rato buddhassa sāsane."
 msgstr "I delight in the Buddha’s teaching."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc468"></a><a class="verse-num-pts" id="verse-num-pts468"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns468"></a><a class="vnp" id="vnp468"></a>
+#. VAR: Buddho ce → buddho ca (s2, s3, pts1)
 msgctxt "thag7.2:7.1"
-msgid ""
-"<span class=\"var\" title=\"buddho ca (s2, s3, pts1)\" id=\"note242\">Buddho "
-"ce</span> me varaṃ dajjā,"
+msgid "Buddho ce me varaṃ dajjā,"
 msgstr "If the Buddha were to grant me one wish,"
 
 #. <br>
@@ -99,8 +93,8 @@ msgctxt "thag7.2:7.4"
 msgid "niccaṃ kāyagataṃ satiṃ."
 msgstr "constant mindfulness of the body."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc469"></a><a class="verse-num-pts" id="verse-num-pts469"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns469"></a><a class="vnp" id="vnp469"></a>
 msgctxt "thag7.2:8.1"
 msgid "Ye maṃ rūpena pāmiṃsu,"
 msgstr "Those who’ve judged me on appearance,"
@@ -120,8 +114,8 @@ msgctxt "thag7.2:8.4"
 msgid "na maṃ jānanti te janā."
 msgstr "they don’t know me."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc470"></a><a class="verse-num-pts" id="verse-num-pts470"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns470"></a><a class="vnp" id="vnp470"></a>
 msgctxt "thag7.2:9.1"
 msgid "Ajjhattañca na jānāti,"
 msgstr "Not knowing what’s inside,"
@@ -141,8 +135,8 @@ msgctxt "thag7.2:9.4"
 msgid "sa ve ghosena vuyhati."
 msgstr "gets carried away by a voice."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc471"></a><a class="verse-num-pts" id="verse-num-pts471"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns471"></a><a class="vnp" id="vnp471"></a>
 msgctxt "thag7.2:10.1"
 msgid "Ajjhattañca na jānāti,"
 msgstr "Not knowing what’s inside,"
@@ -162,8 +156,8 @@ msgctxt "thag7.2:10.4"
 msgid "sopi ghosena vuyhati."
 msgstr "they’re also carried away by a voice."
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc472"></a><a class="verse-num-pts" id="verse-num-pts472"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns472"></a><a class="vnp" id="vnp472"></a>
 msgctxt "thag7.2:11.1"
 msgid "Ajjhattañca pajānāti,"
 msgstr "Understanding what’s inside,"
@@ -188,8 +182,7 @@ msgctxt "thag7.2:12.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Lakuṇḍakabhaddiyo → lakuṇṭakabhaddiyo (bj) | lakuṇṭako (s2, s3, pts1-2)
 msgctxt "thag7.2:12.2"
-msgid ""
-"<span class=\"var\" title=\"lakuṇṭakabhaddiyo (bj) | lakuṇṭako (s2, s3, "
-"pts1-2)\" id=\"note243\">Lakuṇḍakabhaddiyo</span> thero …."
+msgid "Lakuṇḍakabhaddiyo thero …."
 msgstr ""

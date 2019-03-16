@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.21. Uttarattheragāthā"
 msgstr "2.21. Uttara (2nd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc161"></a><a class="verse-num-pts"
-#. id="verse-num-pts161"></a>
+#. class="vns" id="vns161"></a><a class="vnp"
+#. id="vnp161"></a>
 msgctxt "thag2.21:5.1"
 msgid "“Khandhā mayā pariññātā,"
 msgstr "I’ve fully understood the aggregates;"
@@ -48,17 +47,16 @@ msgctxt "thag2.21:5.4"
 msgid "patto me āsavakkhayo."
 msgstr "I’ve attained the ending of defilements."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc162"></a><a class="verse-num-pts" id="verse-num-pts162"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns162"></a><a class="vnp" id="vnp162"></a>
 msgctxt "thag2.21:6.1"
 msgid "Sohaṃ khandhe pariññāya,"
 msgstr "Having fully understood the aggregates,"
 
 #. <br>
+#. VAR: abbahitvāna → abbhahitvāna (s2, s3) | abbuhitvāna (mr)
 msgctxt "thag2.21:6.2"
-msgid ""
-"<span class=\"var\" title=\"abbhahitvāna (s2, s3) | abbuhitvāna (mr)\" id=\""
-"note107\">abbahitvāna</span> jāliniṃ;"
+msgid "abbahitvāna jāliniṃ;"
 msgstr "having plucked out the weaver of the web,"
 
 #. <br>

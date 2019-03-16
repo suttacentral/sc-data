@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.22. Bhaddajittheragāthā"
 msgstr "2.22. Bhaddaji"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc163"></a><a class="verse-num-pts"
-#. id="verse-num-pts163"></a>
+#. class="vns" id="vns163"></a><a class="vnp"
+#. id="vnp163"></a>
 msgctxt "thag2.22:5.1"
 msgid "“Panādo nāma so rājā,"
 msgstr "There was a king named Panāda"
@@ -39,26 +38,22 @@ msgid "yassa yūpo suvaṇṇayo;"
 msgstr "who had a sacrificial post all golden."
 
 #. <br>
+#. VAR: soḷasubbedho → soḷasapabbedho (bj, pts1-2) | soḷasabbāṇo (?)
 msgctxt "thag2.22:5.3"
-msgid ""
-"Tiriyaṃ <span class=\"var\" title=\"soḷasapabbedho (bj, pts1-2) | "
-"soḷasabbāṇo (?)\" id=\"note108\">soḷasubbedho</span>,"
+msgid "Tiriyaṃ soḷasubbedho,"
 msgstr "Its height was sixteen times its width,"
 
 #. <br>
+#. VAR: ubbhamāhu → uddhamāhu (bj) | uccamāhu (s2, s3)
 msgctxt "thag2.22:5.4"
-msgid ""
-"<span class=\"var\" title=\"uddhamāhu (bj) | uccamāhu (s2, s3)\" id=\""
-"note109\">ubbhamāhu</span> sahassadhā."
+msgid "ubbhamāhu sahassadhā."
 msgstr "and the top was a thousand-fold."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc164"></a><a class="verse-num-pts" id="verse-num-pts164"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns164"></a><a class="vnp" id="vnp164"></a>
+#. VAR: Sahassakaṇḍo → sahassakaṇḍu (pts1)
 msgctxt "thag2.22:6.1"
-msgid ""
-"<span class=\"var\" title=\"sahassakaṇḍu (pts1)\" id=\"note110\""
-">Sahassakaṇḍo</span> <span class=\"var\" title=\"satabheṇḍu (bj, pts1)\" id="
-"\"note111\">satageṇḍu</span>,"
+msgid "Sahassakaṇḍo <span class=\"var\" title=\"satabheṇḍu (bj, pts1)\" id=\"note111\">satageṇḍu</span>,"
 msgstr "It had a thousand panels and a hundred ball-caps,"
 
 #. <br>

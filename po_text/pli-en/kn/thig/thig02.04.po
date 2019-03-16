@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -17,15 +16,14 @@ msgid "Dukanipāta"
 msgstr "The Book of the Twos"
 
 #. </p><h1>
+#. VAR: 4 Aḍḍhakāsitherīgāthā → aḍḍhakāsītherīgāthā (bj)
 msgctxt "thig2.4:3.1"
-msgid ""
-"<span class=\"var\" title=\"aḍḍhakāsītherīgāthā (bj)\" id=\"note18\">4 "
-"Aḍḍhakāsitherīgāthā</span>"
+msgid "4 Aḍḍhakāsitherīgāthā"
 msgstr "2.4. Aḍḍhakāsi"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc25"></a><a class="verse-num-pts"
-#. id="verse-num-pts25"></a>
+#. class="vns" id="vns25"></a><a class="vnp"
+#. id="vnp25"></a>
 msgctxt "thig2.4:4.1"
 msgid "“Yāva kāsijanapado,"
 msgstr "The price for my services"
@@ -46,8 +44,8 @@ msgctxt "thig2.4:4.4"
 msgid "aḍḍhenagghaṃ ṭhapesi maṃ."
 msgstr "the townsfolk made me priceless."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc26"></a><a class="verse-num-pts" id="verse-num-pts26"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns26"></a><a class="vnp" id="vnp26"></a>
 msgctxt "thig2.4:5.1"
 msgid "Atha nibbindahaṃ rūpe,"
 msgstr "Then, growing disillusioned with my form,"
@@ -82,8 +80,7 @@ msgctxt "thig2.4:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Aḍḍhakāsi → aḍḍhakāsī (bj, s2, s3, pts1-2)
 msgctxt "thig2.4:6.2"
-msgid ""
-"<span class=\"var\" title=\"aḍḍhakāsī (bj, s2, s3, pts1-2)\" id=\"note19\""
-">Aḍḍhakāsi</span> therī …."
+msgid "Aḍḍhakāsi therī …."
 msgstr ""

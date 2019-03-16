@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,8 +21,8 @@ msgid "12. Candātherīgāthā"
 msgstr "5.12. Candā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc122"></a><a class="verse-num-pts"
-#. id="verse-num-pts122"></a>
+#. class="vns" id="vns122"></a><a class="vnp"
+#. id="vnp122"></a>
 msgctxt "thig5.12:4.1"
 msgid "“Duggatāhaṃ pure āsiṃ,"
 msgstr "I used to be in a sorry state."
@@ -43,8 +42,8 @@ msgctxt "thig5.12:4.4"
 msgid "bhattacoḷassa nādhigaṃ."
 msgstr "I got neither food nor clothes."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc123"></a><a class="verse-num-pts" id="verse-num-pts123"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns123"></a><a class="vnp" id="vnp123"></a>
 msgctxt "thig5.12:5.1"
 msgid "Pattaṃ daṇḍañca gaṇhitvā,"
 msgstr "I took a bowl and a staff"
@@ -64,8 +63,8 @@ msgctxt "thig5.12:5.4"
 msgid "satta vassāni cārihaṃ."
 msgstr "burned by heat and cold."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc124"></a><a class="verse-num-pts" id="verse-num-pts124"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns124"></a><a class="vnp" id="vnp124"></a>
 msgctxt "thig5.12:6.1"
 msgid "Bhikkhuniṃ puna disvāna,"
 msgstr "Then I saw a nun"
@@ -76,10 +75,9 @@ msgid "annapānassa lābhiniṃ;"
 msgstr "receiving food and drink."
 
 #. <br>
+#. VAR: avocaṃ → avociṃ (mr)
 msgctxt "thig5.12:6.3"
-msgid ""
-"Upasaṅkamma <span class=\"var\" title=\"avociṃ (mr)\" id=\"note48\""
-">avocaṃ</span>,"
+msgid "Upasaṅkamma avocaṃ,"
 msgstr "Approaching her, I said:"
 
 #. <br>
@@ -87,9 +85,9 @@ msgctxt "thig5.12:6.4"
 msgid "‘pabbajjaṃ anagāriyaṃ’."
 msgstr "“Send me forth to homelessness.”"
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc125"></a><a class="verse-num-pts"
-#. id="verse-num-pts125"></a><a class="pts" id="pts136"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns125"></a><a class="vnp"
+#. id="vnp125"></a><a class="pts" id="pts136"></a>
 msgctxt "thig5.12:7.1"
 msgid "Sā ca maṃ anukampāya,"
 msgstr "Out of compassion for me,"
@@ -109,8 +107,8 @@ msgctxt "thig5.12:7.4"
 msgid "paramatthe niyojayi."
 msgstr "she urged me on to the ultimate goal."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc126"></a><a class="verse-num-pts" id="verse-num-pts126"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns126"></a><a class="vnp" id="vnp126"></a>
 msgctxt "thig5.12:8.1"
 msgid "Tassāhaṃ vacanaṃ sutvā,"
 msgstr "After hearing her words,"

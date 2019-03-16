@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,8 +21,8 @@ msgid "1. Aññataratherīgāthā"
 msgstr "5.1. An Unnamed Nun (2nd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc67"></a><a class="verse-num-pts"
-#. id="verse-num-pts67"></a>
+#. class="vns" id="vns67"></a><a class="vnp"
+#. id="vnp67"></a>
 msgctxt "thig5.1:4.1"
 msgid "“Paṇṇavīsativassāni,"
 msgstr "In the twenty-five years"
@@ -43,8 +42,8 @@ msgctxt "thig5.1:4.4"
 msgid "cittassūpasamajjhagaṃ."
 msgstr "even for as long as a finger-snap."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc68"></a><a class="verse-num-pts" id="verse-num-pts68"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns68"></a><a class="vnp" id="vnp68"></a>
 msgctxt "thig5.1:5.1"
 msgid "Aladdhā cetaso santiṃ,"
 msgstr "Failing to find peace of heart,"
@@ -64,8 +63,8 @@ msgctxt "thig5.1:5.4"
 msgid "vihāraṃ pāvisiṃ ahaṃ."
 msgstr "as I entered a dwelling."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc69"></a><a class="verse-num-pts" id="verse-num-pts69"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns69"></a><a class="vnp" id="vnp69"></a>
 msgctxt "thig5.1:6.1"
 msgid "Sā bhikkhuniṃ upāgacchiṃ,"
 msgstr "I approached a nun"
@@ -85,8 +84,8 @@ msgctxt "thig5.1:6.4"
 msgid "khandhāyatanadhātuyo."
 msgstr "the aggregates, sense fields, and elements."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc70"></a><a class="verse-num-pts" id="verse-num-pts70"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns70"></a><a class="vnp" id="vnp70"></a>
 msgctxt "thig5.1:7.1"
 msgid "Tassā dhammaṃ suṇitvāna,"
 msgstr "When I heard her teaching,"
@@ -106,13 +105,12 @@ msgctxt "thig5.1:7.4"
 msgid "dibbacakkhu visodhitaṃ."
 msgstr "my clairvoyance is purified;"
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc71"></a><a class="verse-num-pts" id="verse-num-pts71"></a><a
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns71"></a><a class="vnp" id="vnp71"></a><a
 #. class="pts" id="pts131"></a>
+#. VAR: Cetopariccañāṇañca → cetopariyañāṇañca (mr)
 msgctxt "thig5.1:8.1"
-msgid ""
-"<span class=\"var\" title=\"cetopariyañāṇañca (mr)\" id=\"note29\""
-">Cetopariccañāṇañca</span>,"
+msgid "Cetopariccañāṇañca,"
 msgstr "I comprehend the minds of others;"
 
 #. <br>
@@ -131,10 +129,9 @@ msgid "patto me āsavakkhayo;"
 msgstr "and attained the ending of defilements."
 
 #. <br>
+#. VAR: Chaḷabhiññā → cha mebhiññā (s2, s3, pts1-2, mr)
 msgctxt "thig5.1:8.5"
-msgid ""
-"<span class=\"var\" title=\"cha mebhiññā (s2, s3, pts1-2, mr)\" id=\"note30\""
-">Chaḷabhiññā</span> sacchikatā,"
+msgid "Chaḷabhiññā sacchikatā,"
 msgstr "I have realized the six kinds of direct knowledge,"
 
 #. <br>
@@ -147,8 +144,7 @@ msgctxt "thig5.1:9.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Aññatarā therī → aññatarā bhikkhunī apaññātā (s2, s3, pts1-2)
 msgctxt "thig5.1:9.2"
-msgid ""
-"<span class=\"var\" title=\"aññatarā bhikkhunī apaññātā (s2, s3, pts1-2)\" "
-"id=\"note31\">Aññatarā therī</span> …."
+msgid "Aññatarā therī …."
 msgstr ""

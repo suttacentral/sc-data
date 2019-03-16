@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -23,11 +22,7 @@ msgstr "5.4. Sundarīnandā"
 
 #. </h1></div><blockquote class="gatha"><p>
 msgctxt "thig5.4:4.1"
-msgid ""
-"<span class=\"cross\" title=\"^thig2.1#1 [Abhirūpanandātherīgāthā] | ^thi-"
-"ap18#66 [Khemātherīapadāna]\" id=\"note34\">*</span> <a class=\"sc\" id=\"1\""
-"></a><a class=\"verse-num-sc\" id=\"verse-num-sc82\"></a><a class=\"verse-"
-"num-pts\" id=\"verse-num-pts82\"></a>“Āturaṃ asuciṃ pūtiṃ,"
+msgid "<a class=\"sc\" id=\"1\"></a><a class=\"vns\" id=\"vns82\"></a><a class=\"verse-num-pts\" id=\"vnp82\"></a>“Āturaṃ asuciṃ pūtiṃ,"
 msgstr "“Nandā, see this bag of bones as"
 
 #. <br>
@@ -45,8 +40,8 @@ msgctxt "thig5.4:4.4"
 msgid "ekaggaṃ susamāhitaṃ."
 msgstr "meditate on the ugly aspects of the body:"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc83"></a><a class="verse-num-pts" id="verse-num-pts83"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns83"></a><a class="vnp" id="vnp83"></a>
 msgctxt "thig5.4:5.1"
 msgid "Yathā idaṃ tathā etaṃ,"
 msgstr "as this is, so is that,"
@@ -66,8 +61,8 @@ msgctxt "thig5.4:5.4"
 msgid "bālānaṃ abhinanditaṃ."
 msgstr "it is the fools’ delight.”"
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc84"></a><a class="verse-num-pts" id="verse-num-pts84"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns84"></a><a class="vnp" id="vnp84"></a>
 msgctxt "thig5.4:6.1"
 msgid "Evametaṃ avekkhantī,"
 msgstr "Reviewing my body in such a way,"
@@ -83,14 +78,13 @@ msgid "Tato sakāya paññāya,"
 msgstr "having broken through"
 
 #. <br>
+#. VAR: abhinibbijjha → abhinibbijja (bj, s2, s3, pts1-2)
 msgctxt "thig5.4:6.4"
-msgid ""
-"<span class=\"var\" title=\"abhinibbijja (bj, s2, s3, pts1-2)\" id=\"note35\""
-">abhinibbijjha</span> dakkhisaṃ”."
+msgid "abhinibbijjha dakkhisaṃ”."
 msgstr "with my own wisdom, I saw."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc85"></a><a class="verse-num-pts" id="verse-num-pts85"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns85"></a><a class="vnp" id="vnp85"></a>
 msgctxt "thig5.4:7.1"
 msgid "“Tassā me appamattāya,"
 msgstr "Being diligent,"
@@ -110,8 +104,8 @@ msgctxt "thig5.4:7.4"
 msgid "diṭṭho santarabāhiro."
 msgstr "both inside and out."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc86"></a><a class="verse-num-pts" id="verse-num-pts86"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns86"></a><a class="vnp" id="vnp86"></a>
 msgctxt "thig5.4:8.1"
 msgid "Atha nibbindahaṃ kāye,"
 msgstr "Then, growing disillusioned with my body,"
@@ -136,8 +130,7 @@ msgctxt "thig5.4:9.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Sundarīnandā → nandā (s2, s3, pts1-2)
 msgctxt "thig5.4:9.2"
-msgid ""
-"<span class=\"var\" title=\"nandā (s2, s3, pts1-2)\" id=\"note36\""
-">Sundarīnandā</span> therī …."
+msgid "Sundarīnandā therī …."
 msgstr ""

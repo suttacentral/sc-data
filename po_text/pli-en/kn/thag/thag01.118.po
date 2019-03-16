@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Dvādasamavagga"
 msgstr "Chapter Twelve"
 
 #. </p><h1>
+#. VAR: 1.118 Kimilattheragāthā → kimbilattheragāthā (bj)
 msgctxt "thag1.118:4.1"
-msgid ""
-"<span class=\"var\" title=\"kimbilattheragāthā (bj)\" id=\"note81\">1.118 "
-"Kimilattheragāthā</span>"
+msgid "1.118 Kimilattheragāthā"
 msgstr "1.118 Kimbila (1st)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc118"></a><a class="verse-num-pts"
-#. id="verse-num-pts118"></a>
+#. class="vns" id="vns118"></a><a class="vnp"
+#. id="vnp118"></a>
 msgctxt "thag1.118:5.1"
 msgid "“Abhisattova nipatati,"
 msgstr "Old age falls like a curse;"
@@ -55,8 +53,7 @@ msgctxt "thag1.118:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Kimilo → kimbilat (bj, s2, s3, pts1-2)
 msgctxt "thag1.118:6.2"
-msgid ""
-"<span class=\"var\" title=\"kimbilat (bj, s2, s3, pts1-2)\" id=\"note82\""
-">Kimilo</span> thero …."
+msgid "Kimilo thero …."
 msgstr ""

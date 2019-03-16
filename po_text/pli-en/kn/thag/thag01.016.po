@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Dutiyavagga"
 msgstr "Chapter Two"
 
 #. </p><h1>
+#. VAR: 1.16 Belaṭṭhasīsattheragāthā → bellaṭṭhisīsattheragāthā (bj)
 msgctxt "thag1.16:4.1"
-msgid ""
-"<span class=\"var\" title=\"bellaṭṭhisīsattheragāthā (bj)\" id=\"note14\">"
-"1.16 Belaṭṭhasīsattheragāthā</span>"
+msgid "1.16 Belaṭṭhasīsattheragāthā"
 msgstr "1.16. Belaṭṭhasīsa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc16"></a><a class="verse-num-pts"
-#. id="verse-num-pts16"></a>
+#. class="vns" id="vns16"></a><a class="vnp"
+#. id="vnp16"></a>
 msgctxt "thag1.16:5.1"
 msgid "“Yathāpi bhaddo ājañño,"
 msgstr "Just as a fine thoroughbred"

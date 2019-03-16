@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,26 +26,21 @@ msgid "2.45. Visākhapañcālaputtattheragāthā"
 msgstr "2.45. Visākhapañcālaputta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc209"></a><a class="verse-num-pts"
-#. id="verse-num-pts209"></a>
+#. class="vns" id="vns209"></a><a class="vnp"
+#. id="vnp209"></a>
 msgctxt "thag2.45:5.1"
 msgid "“Na ukkhipe no ca parikkhipe pare,"
-msgstr ""
-"One should not suspend others from the Saṅgha, nor raise objections against "
-"them;"
+msgstr "One should not suspend others from the Saṅgha, nor raise objections against them;"
 
 #. <br>
 msgctxt "thag2.45:5.2"
 msgid "Na okkhipe pāragataṃ na eraye;"
-msgstr ""
-"and neither disparage nor raise one’s voice against one who has crossed to "
-"the further shore."
+msgstr "and neither disparage nor raise one’s voice against one who has crossed to the further shore."
 
 #. <br>
+#. VAR: cattavaṇṇaṃ → c'atta ... (pts2)
 msgctxt "thag2.45:5.3"
-msgid ""
-"Na <span class=\"var\" title=\"c'atta ... (pts2)\" id=\"note140\""
-">cattavaṇṇaṃ</span> parisāsu byāhare,"
+msgid "Na cattavaṇṇaṃ parisāsu byāhare,"
 msgstr "One should not praise oneself among the assemblies,"
 
 #. <br>
@@ -54,8 +48,8 @@ msgctxt "thag2.45:5.4"
 msgid "Anuddhato sammitabhāṇi subbato."
 msgstr "but be stable, measured in speech, and true to your vows."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc210"></a><a class="verse-num-pts" id="verse-num-pts210"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns210"></a><a class="vnp" id="vnp210"></a>
 msgctxt "thag2.45:6.1"
 msgid "Susukhumanipuṇatthadassinā,"
 msgstr "For one who sees the goal, so very subtle and fine,"
@@ -80,8 +74,7 @@ msgctxt "thag2.45:7.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Visākho pañcālaputto → visākho pañcālīputto (s2, s3, pts1-2)
 msgctxt "thag2.45:7.2"
-msgid ""
-"<span class=\"var\" title=\"visākho pañcālīputto (s2, s3, pts1-2)\" id=\""
-"note141\">Visākho pañcālaputto</span> thero …."
+msgid "Visākho pañcālaputto thero …."
 msgstr ""

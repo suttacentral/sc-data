@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,35 +21,28 @@ msgid "Dutiyavagga"
 msgstr "Chapter Two"
 
 #. </p><h1>
+#. VAR: 1.19 Kulattheragāthā → kuṇḍalattheragāthā (bj)
 msgctxt "thag1.19:4.1"
-msgid ""
-"<span class=\"var\" title=\"kuṇḍalattheragāthā (bj)\" id=\"note18\">1.19 "
-"Kulattheragāthā</span>"
+msgid "1.19 Kulattheragāthā"
 msgstr "1.19. Kula"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc19"></a><a class="verse-num-pts"
-#. id="verse-num-pts19"></a>
+#. class="vns" id="vns19"></a><a class="vnp"
+#. id="vnp19"></a>
 msgctxt "thag1.19:5.1"
-msgid ""
-"<span class=\"cross\" title=\"^dhp76-89#80.1 [76. Rādhattheravatthu/80. "
-"Paṇḍitasāmaṇeravatthu] | ^dhp129-145#139.1 [129. Chabbaggiyabhikkhuvatthu/"
-"139. Sukhasāmaṇeravatthu] | ^thag16.7#12 [Aṅgulimālattheragāthā]\" id=\""
-"note19\">*</span>“Udakañhi nayanti nettikā,"
+msgid "“Udakañhi nayanti nettikā,"
 msgstr "Irrigators guide water,"
 
 #. <br>
+#. VAR: namayanti → damayanti (mr)
 msgctxt "thag1.19:5.2"
-msgid ""
-"Usukārā <span class=\"var\" title=\"damayanti (mr)\" id=\"note20\""
-">namayanti</span> tejanaṃ;"
+msgid "Usukārā namayanti tejanaṃ;"
 msgstr "fletchers shape arrows,"
 
 #. <br>
+#. VAR: namayanti → damayanti (mr)
 msgctxt "thag1.19:5.3"
-msgid ""
-"Dāruṃ <span class=\"var\" title=\"damayanti (mr)\" id=\"note21\""
-">namayanti</span> tacchakā,"
+msgid "Dāruṃ namayanti tacchakā,"
 msgstr "carpenters carve wood;"
 
 #. <br>
@@ -63,8 +55,7 @@ msgctxt "thag1.19:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Kulo → kuṇḍalo (bj) | kuḷo (s2, s3, pts1-2, mr)
 msgctxt "thag1.19:6.2"
-msgid ""
-"<span class=\"var\" title=\"kuṇḍalo (bj) | kuḷo (s2, s3, pts1-2, mr)\" id=\""
-"note22\">Kulo</span> thero …."
+msgid "Kulo thero …."
 msgstr ""

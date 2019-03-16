@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,31 +21,28 @@ msgid "12. Dhammadinnātherīgāthā"
 msgstr "1.12. Dhammadinnā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc12"></a><a class="verse-num-pts"
-#. id="verse-num-pts12"></a>
+#. class="vns" id="vns12"></a><a class="vnp"
+#. id="vnp12"></a>
 msgctxt "thig1.12:4.1"
 msgid "“Chandajātā avasāyī,"
 msgstr "One who is eager and determined"
 
 #. <br>
+#. VAR: phuṭā → phuṭhā (bj-a) | phuṭṭhā (s2, s3)
 msgctxt "thig1.12:4.2"
-msgid ""
-"Manasā ca <span class=\"var\" title=\"phuṭhā (bj-a) | phuṭṭhā (s2, s3)\" id="
-"\"note7\">phuṭā</span> siyā;"
+msgid "Manasā ca phuṭā siyā;"
 msgstr "would be filled with awareness."
 
 #. <br>
+#. VAR: appaṭibaddhacittā → appaṭibandhacittā (mr)
 msgctxt "thig1.12:4.3"
-msgid ""
-"Kāmesu <span class=\"var\" title=\"appaṭibandhacittā (mr)\" id=\"note8\""
-">appaṭibaddhacittā</span>,"
+msgid "Kāmesu appaṭibaddhacittā,"
 msgstr "One whose mind is not tied up with sensual pleasures"
 
 #. <br>
+#. VAR: Uddhaṃsotāti vuccatī”ti → uddhaṃsotā vimuccatīti (si, pts1-2) | uddhaṃsotāti vuccati (s2, s3)
 msgctxt "thig1.12:4.4"
-msgid ""
-"<span class=\"var\" title=\"uddhaṃsotā vimuccatīti (si, pts1-2) | "
-"uddhaṃsotāti vuccati (s2, s3)\" id=\"note9\">Uddhaṃsotāti vuccatī”ti</span>."
+msgid "Uddhaṃsotāti vuccatī”ti."
 msgstr "is said to be heading upstream."
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="2"></a>

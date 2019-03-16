@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -23,11 +22,7 @@ msgstr "2.7. Mittā (2nd)"
 
 #. </h1></div><blockquote class="gatha"><p>
 msgctxt "thig2.7:4.1"
-msgid ""
-"<span class=\"cross\" title=\"^vv15#6 [Uttarāvimānavatthu] | ^ja489#14 "
-"[Surucijātaka]\" id=\"note20\">*</span> <a class=\"sc\" id=\"1\"></a><a class"
-"=\"verse-num-sc\" id=\"verse-num-sc31\"></a><a class=\"verse-num-pts\" id"
-"=\"verse-num-pts31\"></a>“Cātuddasiṃ pañcadasiṃ,"
+msgid "<a class=\"sc\" id=\"1\"></a><a class=\"vns\" id=\"vns31\"></a><a class=\"vnp\" id=\"vnp31\"></a>“Cātuddasiṃ pañcadasiṃ,"
 msgstr "I rejoice in the host of gods,"
 
 #. <br>
@@ -45,8 +40,8 @@ msgctxt "thig2.7:4.4"
 msgid "aṭṭhaṅgasusamāgataṃ."
 msgstr "on the fourteenth and the fifteenth days,"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc32"></a><a class="verse-num-pts" id="verse-num-pts32"></a><a
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns32"></a><a class="vnp" id="vnp32"></a><a
 #. class="pts" id="pts127"></a>
 msgctxt "thig2.7:5.1"
 msgid "Uposathaṃ upāgacchiṃ,"

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,17 +26,16 @@ msgid "1.85. Sunāgattheragāthā"
 msgstr "1.85. Sunāga"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc85"></a><a class="verse-num-pts"
-#. id="verse-num-pts85"></a>
+#. class="vns" id="vns85"></a><a class="vnp"
+#. id="vnp85"></a>
 msgctxt "thag1.85:5.1"
 msgid "“Cittanimittassa kovido,"
 msgstr "Skilled in the patterns of the mind,"
 
 #. <br>
+#. VAR: Pavivekarasaṃ → pavivekassa rasaṃ (pts2)
 msgctxt "thag1.85:5.2"
-msgid ""
-"<span class=\"var\" title=\"pavivekassa rasaṃ (pts2)\" id=\"note61\""
-">Pavivekarasaṃ</span> vijāniya;"
+msgid "Pavivekarasaṃ vijāniya;"
 msgstr "understanding the sweetness of seclusion,"
 
 #. <br>

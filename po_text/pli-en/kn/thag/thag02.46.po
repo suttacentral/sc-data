@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.46. Cūḷakattheragāthā"
 msgstr "2.46. Cūḷaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc211"></a><a class="verse-num-pts"
-#. id="verse-num-pts211"></a>
+#. class="vns" id="vns211"></a><a class="vnp"
+#. id="vnp211"></a>
 msgctxt "thag2.46:5.1"
 msgid "“Nadanti morā susikhā supekhuṇā,"
 msgstr "The peacocks cry out with their fair crests and tails,"
@@ -36,8 +35,7 @@ msgstr "The peacocks cry out with their fair crests and tails,"
 #. <br>
 msgctxt "thag2.46:5.2"
 msgid "Sunīlagīvā sumukhā sugajjino;"
-msgstr ""
-"their lovely blue necks and fair faces, their beautiful song and their call."
+msgstr "their lovely blue necks and fair faces, their beautiful song and their call."
 
 #. <br>
 msgctxt "thag2.46:5.3"
@@ -49,21 +47,17 @@ msgctxt "thag2.46:5.4"
 msgid "Subyāpitambu suvalāhakaṃ nabhaṃ."
 msgstr "and the sky is full of beautiful clouds."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc212"></a><a class="verse-num-pts" id="verse-num-pts212"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns212"></a><a class="vnp" id="vnp212"></a>
+#. VAR: jhāyataṃ → jhāyitaṃ (s2, s3, pts1, mr)
 msgctxt "thag2.46:6.1"
-msgid ""
-"Sukallarūpo sumanassa <span class=\"var\" title=\"jhāyitaṃ (s2, s3, pts1, mr)"
-"\" id=\"note142\">jhāyataṃ</span>,"
-msgstr ""
-"One practicing absorption is happy in mind, and their appearance is "
-"uplifting;"
+msgid "Sukallarūpo sumanassa jhāyataṃ,"
+msgstr "One practicing absorption is happy in mind, and their appearance is uplifting;"
 
 #. <br>
+#. VAR: Sunikkamo → sunikkhamo (bj, pts1)
 msgctxt "thag2.46:6.2"
-msgid ""
-"<span class=\"var\" title=\"sunikkhamo (bj, pts1)\" id=\"note143\""
-">Sunikkamo</span> sādhu subuddhasāsane;"
+msgid "Sunikkamo sādhu subuddhasāsane;"
 msgstr "going forth in the teaching of the Buddha is easy for a good person."
 
 #. <br>
@@ -81,8 +75,7 @@ msgctxt "thag2.46:7.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Cūḷako → cūlakat (bj)
 msgctxt "thag2.46:7.2"
-msgid ""
-"<span class=\"var\" title=\"cūlakat (bj)\" id=\"note144\">Cūḷako</span> "
-"thero …."
+msgid "Cūḷako thero …."
 msgstr ""

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,24 +21,22 @@ msgid "Catutthavagga"
 msgstr "Chapter Four"
 
 #. </p><h1>
+#. VAR: 2.33 Upavāṇattheragāthā → upavānattheragāthā (bj)
 msgctxt "thag2.33:4.1"
-msgid ""
-"<span class=\"var\" title=\"upavānattheragāthā (bj)\" id=\"note118\">2.33 "
-"Upavāṇattheragāthā</span>"
+msgid "2.33 Upavāṇattheragāthā"
 msgstr "2.33. Upavāṇa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc185"></a><a class="verse-num-pts"
-#. id="verse-num-pts185"></a>
+#. class="vns" id="vns185"></a><a class="vnp"
+#. id="vnp185"></a>
 msgctxt "thag2.33:5.1"
 msgid "“Arahaṃ sugato loke,"
 msgstr "The perfected one, the Holy One in the world,"
 
 #. <br>
+#. VAR: vātehābādhiko → ... bādhito (bj, s2, s3, pts1-2, mr)
 msgctxt "thag2.33:5.2"
-msgid ""
-"<span class=\"var\" title=\"... bādhito (bj, s2, s3, pts1-2, mr)\" id=\""
-"note119\">vātehābādhiko</span> muni;"
+msgid "vātehābādhiko muni;"
 msgstr "the sage is afflicted by winds."
 
 #. <br>
@@ -52,12 +49,11 @@ msgctxt "thag2.33:5.4"
 msgid "munino dehi brāhmaṇa."
 msgstr "give it to the sage, brahmin."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc186"></a><a class="verse-num-pts" id="verse-num-pts186"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns186"></a><a class="vnp" id="vnp186"></a>
+#. VAR: pūjaneyyānaṃ → pūjanīyānaṃ (bj)
 msgctxt "thag2.33:6.1"
-msgid ""
-"Pūjito <span class=\"var\" title=\"pūjanīyānaṃ (bj)\" id=\"note120\""
-">pūjaneyyānaṃ</span>,"
+msgid "Pūjito pūjaneyyānaṃ,"
 msgstr "I wish to bring it to the one"
 
 #. <br>
@@ -66,11 +62,9 @@ msgid "sakkareyyāna sakkato;"
 msgstr "who is esteemed by the estimable,"
 
 #. <br>
+#. VAR: Apacitopaceyyānaṃ → apacitopacanīyānaṃ (bj) | apacito apacineyyānaṃ (s2, s3, pts1) | apacito apaceyyānaṃ (pts2)
 msgctxt "thag2.33:6.3"
-msgid ""
-"<span class=\"var\" title=\"apacitopacanīyānaṃ (bj) | apacito apacineyyānaṃ ("
-"s2, s3, pts1) | apacito apaceyyānaṃ (pts2)\" id=\"note121\""
-">Apacitopaceyyānaṃ</span>,"
+msgid "Apacitopaceyyānaṃ,"
 msgstr "honored by the honorable,"
 
 #. <br>
@@ -83,8 +77,7 @@ msgctxt "thag2.33:7.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Upavāṇo → upavāno (bj, pts1-2)
 msgctxt "thag2.33:7.2"
-msgid ""
-"<span class=\"var\" title=\"upavāno (bj, pts1-2)\" id=\"note122\""
-">Upavāṇo</span> thero …."
+msgid "Upavāṇo thero …."
 msgstr ""

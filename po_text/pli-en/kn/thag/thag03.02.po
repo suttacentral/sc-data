@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "3.2. Paccayattheragāthā"
 msgstr "3.2. Paccaya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc222"></a><a class="verse-num-pts"
-#. id="verse-num-pts222"></a>
+#. class="vns" id="vns222"></a><a class="vnp"
+#. id="vnp222"></a>
 msgctxt "thag3.2:5.1"
 msgid "“Pañcāhāhaṃ pabbajito,"
 msgstr "I went forth five days ago,"
@@ -48,17 +47,16 @@ msgctxt "thag3.2:5.4"
 msgid "cetaso paṇidhī ahu."
 msgstr "and resolved in my heart:"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc223"></a><a class="verse-num-pts" id="verse-num-pts223"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns223"></a><a class="vnp" id="vnp223"></a>
 msgctxt "thag3.2:6.1"
 msgid "Nāsissaṃ na pivissāmi,"
 msgstr "I won’t eat; I won’t drink;"
 
 #. <br>
+#. VAR: vihārato → vihārā ca (pts2)
 msgctxt "thag3.2:6.2"
-msgid ""
-"<span class=\"var\" title=\"vihārā ca (pts2)\" id=\"note152\">vihārato</span>"
-" na nikkhame;"
+msgid "vihārato na nikkhame;"
 msgstr "I won’t leave my dwelling;"
 
 #. <br>
@@ -71,8 +69,8 @@ msgctxt "thag3.2:6.4"
 msgid "taṇhāsalle anūhate."
 msgstr "not until the dart of craving is pulled out."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc224"></a><a class="verse-num-pts" id="verse-num-pts224"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns224"></a><a class="vnp" id="vnp224"></a>
 msgctxt "thag3.2:7.1"
 msgid "Tassa mevaṃ viharato,"
 msgstr "See my energy and vigor"

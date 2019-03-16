@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,12 +26,11 @@ msgid "2.12. Jotidāsattheragāthā"
 msgstr "2.12. Jotidāsa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc143"></a><a class="verse-num-pts"
-#. id="verse-num-pts143"></a>
+#. class="vns" id="vns143"></a><a class="vnp"
+#. id="vnp143"></a>
+#. VAR: veṭhamissena → veghamissena (bj, s2, s3, pts1-2) | vegamissena (mr)
 msgctxt "thag2.12:5.1"
-msgid ""
-"“Ye kho te <span class=\"var\" title=\"veghamissena (bj, s2, s3, pts1-2) | "
-"vegamissena (mr)\" id=\"note89\">veṭhamissena</span>,"
+msgid "“Ye kho te veṭhamissena,"
 msgstr "People who act harshly—"
 
 #. <br>
@@ -46,17 +44,15 @@ msgid "Manusse uparundhanti,"
 msgstr "tying them up,"
 
 #. <br>
+#. VAR: pharusūpakkamā → pharusupakkamā (s2, s3, pts2)
 msgctxt "thag2.12:5.4"
-msgid ""
-"<span class=\"var\" title=\"pharusupakkamā (s2, s3, pts2)\" id=\"note90\""
-">pharusūpakkamā</span> janā;"
+msgid "pharusūpakkamā janā;"
 msgstr "hurting them in all kinds of ways—"
 
 #. <br>
+#. VAR: tattheva → tatheva (s2, s3, pts1)
 msgctxt "thag2.12:5.5"
-msgid ""
-"Tepi <span class=\"var\" title=\"tatheva (s2, s3, pts1)\" id=\"note91\""
-">tattheva</span> kīranti,"
+msgid "Tepi tattheva kīranti,"
 msgstr "they’re treated in the same way;"
 
 #. <br>
@@ -64,8 +60,8 @@ msgctxt "thag2.12:5.6"
 msgid "na hi kammaṃ panassati."
 msgstr "their deeds don’t vanish."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc144"></a><a class="verse-num-pts" id="verse-num-pts144"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns144"></a><a class="vnp" id="vnp144"></a>
 msgctxt "thag2.12:6.1"
 msgid "Yaṃ karoti naro kammaṃ,"
 msgstr "Whatever deeds a person does,"

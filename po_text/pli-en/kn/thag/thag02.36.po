@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,21 +21,17 @@ msgid "Catutthavagga"
 msgstr "Chapter Four"
 
 #. </p><h1>
+#. VAR: 2.36 Nitakattheragāthā → khitakattheragāthā (bj)
 msgctxt "thag2.36:4.1"
-msgid ""
-"<span class=\"var\" title=\"khitakattheragāthā (bj)\" id=\"note124\">2.36 "
-"Nitakattheragāthā</span>"
+msgid "2.36 Nitakattheragāthā"
 msgstr "2.36. Nitaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc191"></a><a class="verse-num-pts"
-#. id="verse-num-pts191"></a><a class="pts" id="pts25"></a>
+#. class="vns" id="vns191"></a><a class="vnp"
+#. id="vnp191"></a><a class="pts" id="pts25"></a>
+#. VAR: Kassa → yassa (^ud4.4#1 [Yakkhapahārasutta]; ^ne6#227 [Sāsanapaṭṭhāna]; ^pe2#2 [Sāsanapaṭṭhānadutiyabhūmi], ^pe7#117 [Peṭakopadesa/ Hārasampātabhūmi] passitabbaṃ)
 msgctxt "thag2.36:5.1"
-msgid ""
-"“<span class=\"var\" title=\"yassa (^ud4.4#1 [Yakkhapahārasutta]; ^ne6#227 "
-"[Sāsanapaṭṭhāna]; ^pe2#2 [Sāsanapaṭṭhānadutiyabhūmi], ^pe7#117 [Peṭakopadesa/"
-" Hārasampātabhūmi] passitabbaṃ)\" id=\"note125\">Kassa</span> selūpamaṃ "
-"cittaṃ,"
+msgid "“Kassa selūpamaṃ cittaṃ,"
 msgstr "Whose mind is like a rock,"
 
 #. <br>
@@ -64,8 +59,8 @@ msgctxt "thag2.36:5.6"
 msgid "kuto taṃ dukkhamessati."
 msgstr "whose mind is developed like this?"
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc192"></a><a class="verse-num-pts" id="verse-num-pts192"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns192"></a><a class="vnp" id="vnp192"></a>
 msgctxt "thag2.36:6.1"
 msgid "Mama selūpamaṃ cittaṃ,"
 msgstr "My mind is like a rock,"
@@ -100,8 +95,7 @@ msgctxt "thag2.36:7.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Nitako → khitako (bj, s2, s3, pts1-2)
 msgctxt "thag2.36:7.2"
-msgid ""
-"<span class=\"var\" title=\"khitako (bj, s2, s3, pts1-2)\" id=\"note126\""
-">Nitako</span> thero …."
+msgid "Nitako thero …."
 msgstr ""

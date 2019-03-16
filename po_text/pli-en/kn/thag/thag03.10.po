@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "3.10. Sāṭimattiyattheragāthā"
 msgstr "3.10. Sāṭimattiya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc246"></a><a class="verse-num-pts"
-#. id="verse-num-pts246"></a>
+#. class="vns" id="vns246"></a><a class="vnp"
+#. id="vnp246"></a>
 msgctxt "thag3.10:5.1"
 msgid "“Ahu tuyhaṃ pure saddhā,"
 msgstr "In the past you had faith,"
@@ -48,8 +47,8 @@ msgctxt "thag3.10:5.4"
 msgid "natthi duccaritaṃ mama."
 msgstr "I’ve done nothing wrong."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc247"></a><a class="verse-num-pts" id="verse-num-pts247"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns247"></a><a class="vnp" id="vnp247"></a>
 msgctxt "thag3.10:6.1"
 msgid "Aniccā hi calā saddhā,"
 msgstr "Faith is impermanent, fickle:"
@@ -69,8 +68,8 @@ msgctxt "thag3.10:6.4"
 msgid "tattha kiṃ jiyyate muni."
 msgstr "why would a sage waste away on that account?"
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc248"></a><a class="verse-num-pts" id="verse-num-pts248"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns248"></a><a class="vnp" id="vnp248"></a>
 msgctxt "thag3.10:7.1"
 msgid "Paccati munino bhattaṃ,"
 msgstr "The meal of a sage is cooked"
@@ -86,10 +85,9 @@ msgid "Piṇḍikāya carissāmi,"
 msgstr "I’ll walk for alms,"
 
 #. <br>
+#. VAR: jaṅghabalaṃ → jaṅghābalaṃ (bj, pts2)
 msgctxt "thag3.10:7.4"
-msgid ""
-"Atthi <span class=\"var\" title=\"jaṅghābalaṃ (bj, pts2)\" id=\"note161\""
-">jaṅghabalaṃ</span> mamā”ti."
+msgid "Atthi jaṅghabalaṃ mamā”ti."
 msgstr "for my legs are strong."
 
 #. </p></blockquote><p class="endsutta">

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,26 +26,23 @@ msgid "2.40. Kappaṭakurattheragāthā"
 msgstr "2.40. Kappaṭakura"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc199"></a><a class="verse-num-pts"
-#. id="verse-num-pts199"></a>
+#. class="vns" id="vns199"></a><a class="vnp"
+#. id="vnp199"></a>
 msgctxt "thag2.40:5.1"
 msgid "“Ayamiti kappaṭo kappaṭakuro,"
 msgstr "This fellow, “Rag-rice”, he sure is a rag!"
 
 # accha describes Northern Black Polished Ware; see SN 21.8. This verse is obscure and I have translated with the help of the commentary.
 #. <br>
+#. VAR: atibharitāya → atibhariyāya (si, mr) | accaṃbharāya (s2, s3)
 msgctxt "thag2.40:5.2"
-msgid ""
-"Acchāya <span class=\"var\" title=\"atibhariyāya (si, mr) | accaṃbharāya ("
-"s2, s3)\" id=\"note132\">atibharitāya</span>;"
+msgid "Acchāya atibharitāya;"
 msgstr "Into the vase of the deathless, polished and overflowing,"
 
 #. <br>
+#. VAR: dhammakaṭamatto → dhammakatamatto (bj, pts1-2) | dhammakaṭamaggo (bj-a) | dhammakaṭapatto (s2, s3, Ma-aka)
 msgctxt "thag2.40:5.3"
-msgid ""
-"Amataghaṭikāyaṃ <span class=\"var\" title=\"dhammakatamatto (bj, pts1-2) | "
-"dhammakaṭamaggo (bj-a) | dhammakaṭapatto (s2, s3, Ma-aka)\" id=\"note133\""
-">dhammakaṭamatto</span>,"
+msgid "Amataghaṭikāyaṃ dhammakaṭamatto,"
 msgstr "sufficient teaching has been poured;"
 
 #. <br>
@@ -54,9 +50,9 @@ msgctxt "thag2.40:5.4"
 msgid "Katapadaṃ jhānāni ocetuṃ."
 msgstr "the path to build up absorptions has been laid out."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc200"></a><a class="verse-num-pts"
-#. id="verse-num-pts200"></a><a class="pts" id="pts26"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns200"></a><a class="vnp"
+#. id="vnp200"></a><a class="pts" id="pts26"></a>
 msgctxt "thag2.40:6.1"
 msgid "Mā kho tvaṃ kappaṭa pacālesi,"
 msgstr "Don’t nod off, Rag—"
@@ -67,10 +63,9 @@ msgid "Mā tvaṃ upakaṇṇamhi tāḷessaṃ;"
 msgstr "I’ll smack your ear!"
 
 #. <br>
+#. VAR: Na hi → naha (bj) | na ha (pts1) | na vā (mr)
 msgctxt "thag2.40:6.3"
-msgid ""
-"<span class=\"var\" title=\"naha (bj) | na ha (pts1) | na vā (mr)\" id=\""
-"note134\">Na hi</span> tvaṃ kappaṭa mattamaññāsi,"
+msgid "Na hi tvaṃ kappaṭa mattamaññāsi,"
 msgstr "Nodding off in the middle of the Saṅgha?"
 
 #. <br>

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.42. Dhammapālattheragāthā"
 msgstr "2.42. Dhammapāla"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc203"></a><a class="verse-num-pts"
-#. id="verse-num-pts203"></a>
+#. class="vns" id="vns203"></a><a class="vnp"
+#. id="vnp203"></a>
 msgctxt "thag2.42:5.1"
 msgid "“Yo have daharo bhikkhu,"
 msgstr "The young monk"
@@ -39,10 +38,9 @@ msgid "yuñjati buddhasāsane;"
 msgstr "who is devoted to the teaching of the Buddha,"
 
 #. <br>
+#. VAR: sa hi suttesu → patisuttesu (bj, pts1, mr)
 msgctxt "thag2.42:5.3"
-msgid ""
-"Jāgaro <span class=\"var\" title=\"patisuttesu (bj, pts1, mr)\" id=\""
-"note135\">sa hi suttesu</span>,"
+msgid "Jāgaro sa hi suttesu,"
 msgstr "wakeful while others sleep—"
 
 #. <br>
@@ -50,8 +48,8 @@ msgctxt "thag2.42:5.4"
 msgid "amoghaṃ tassa jīvitaṃ."
 msgstr "his life is not in vain."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc204"></a><a class="verse-num-pts" id="verse-num-pts204"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns204"></a><a class="vnp" id="vnp204"></a>
 msgctxt "thag2.42:6.1"
 msgid "Tasmā saddhañca sīlañca,"
 msgstr "So let the wise devote themselves"

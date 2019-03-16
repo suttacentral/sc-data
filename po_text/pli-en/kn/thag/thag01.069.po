@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "1.69. Channattheragāthā"
 msgstr "1.69. Channa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc69"></a><a class="verse-num-pts"
-#. id="verse-num-pts69"></a>
+#. class="vns" id="vns69"></a><a class="vnp"
+#. id="vnp69"></a>
 msgctxt "thag1.69:5.1"
 msgid "“Sutvāna dhammaṃ mahato mahārasaṃ,"
 msgstr "Hearing the sweet Dhamma taught by the master"
@@ -39,10 +38,9 @@ msgid "Sabbaññutaññāṇavarena desitaṃ;"
 msgstr "of universal understanding and superior knowledge,"
 
 #. <br>
+#. VAR: papajjiṃ → papajjaṃ (mr)
 msgctxt "thag1.69:5.3"
-msgid ""
-"Maggaṃ <span class=\"var\" title=\"papajjaṃ (mr)\" id=\"note55\""
-">papajjiṃ</span> amatassa pattiyā,"
+msgid "Maggaṃ papajjiṃ amatassa pattiyā,"
 msgstr "I’ve entered the path to realize the deathless—"
 
 #. <br>

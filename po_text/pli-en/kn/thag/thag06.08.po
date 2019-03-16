@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "6.8. Migajālattheragāthā"
 msgstr "6.8. Migajāla"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc417"></a><a class="verse-num-pts"
-#. id="verse-num-pts417"></a>
+#. class="vns" id="vns417"></a><a class="vnp"
+#. id="vnp417"></a>
 msgctxt "thag6.8:5.1"
 msgid "“Sudesito cakkhumatā,"
 msgstr "It was well-taught by the seer,"
@@ -48,8 +47,8 @@ msgctxt "thag6.8:5.4"
 msgid "sabbavaṭṭavināsano."
 msgstr "and destroyed all rolling-on."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc418"></a><a class="verse-num-pts" id="verse-num-pts418"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns418"></a><a class="vnp" id="vnp418"></a>
 msgctxt "thag6.8:6.1"
 msgid "Niyyāniko uttaraṇo,"
 msgstr "Emancipating, it leads across,"
@@ -69,8 +68,8 @@ msgctxt "thag6.8:6.4"
 msgid "chetvā pāpeti nibbutiṃ."
 msgstr "it leads to quenching."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc419"></a><a class="verse-num-pts" id="verse-num-pts419"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns419"></a><a class="vnp" id="vnp419"></a>
 msgctxt "thag6.8:7.1"
 msgid "Aññāṇamūlabhedāya,"
 msgstr "By breaking the root of unknowing,"
@@ -90,8 +89,8 @@ msgctxt "thag6.8:7.4"
 msgid "ñāṇavajiranipātano."
 msgstr "on the taking up of consciousnesses."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc420"></a><a class="verse-num-pts" id="verse-num-pts420"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns420"></a><a class="vnp" id="vnp420"></a>
 msgctxt "thag6.8:8.1"
 msgid "Vedanānaṃ viññāpano,"
 msgstr "It informs us of our feelings,"
@@ -107,14 +106,13 @@ msgid "Bhavaṃ aṅgārakāsuṃva,"
 msgstr "contemplating with understanding"
 
 #. <br>
+#. VAR: anupassano → anupassako (bj, pts1-2)
 msgctxt "thag6.8:8.4"
-msgid ""
-"ñāṇena <span class=\"var\" title=\"anupassako (bj, pts1-2)\" id=\"note218\""
-">anupassano</span>."
+msgid "ñāṇena anupassano."
 msgstr "all states of existence as a pit of burning coals."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc421"></a><a class="verse-num-pts" id="verse-num-pts421"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns421"></a><a class="vnp" id="vnp421"></a>
 msgctxt "thag6.8:9.1"
 msgid "Mahāraso sugambhīro,"
 msgstr "It’s very sweet and very deep,"
@@ -134,8 +132,8 @@ msgctxt "thag6.8:9.4"
 msgid "dukkhūpasamano sivo."
 msgstr "the stilling of suffering, bliss."
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc422"></a><a class="verse-num-pts" id="verse-num-pts422"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns422"></a><a class="vnp" id="vnp422"></a>
 msgctxt "thag6.8:10.1"
 msgid "Kammaṃ kammanti ñatvāna,"
 msgstr "Knowing deed as deed"

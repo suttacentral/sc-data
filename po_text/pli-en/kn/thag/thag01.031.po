@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,15 +21,14 @@ msgid "Catutthavagga"
 msgstr "Chapter Four"
 
 #. </p><h1>
+#. VAR: 1.31 Gahvaratīriyattheragāthā → gabbharatīriyattheragāthā (bj)
 msgctxt "thag1.31:4.1"
-msgid ""
-"<span class=\"var\" title=\"gabbharatīriyattheragāthā (bj)\" id=\"note30\">"
-"1.31 Gahvaratīriyattheragāthā</span>"
+msgid "1.31 Gahvaratīriyattheragāthā"
 msgstr "1.31. Gahvaratīriya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc31"></a><a class="verse-num-pts"
-#. id="verse-num-pts31"></a><a class="pts" id="pts6"></a>
+#. class="vns" id="vns31"></a><a class="vnp"
+#. id="vnp31"></a><a class="pts" id="pts6"></a>
 msgctxt "thag1.31:5.1"
 msgid "“Phuṭṭho ḍaṃsehi makasehi,"
 msgstr "Pestered by flies and mosquitoes"
@@ -55,8 +53,7 @@ msgctxt "thag1.31:6.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Gahvaratīriyo → gabbharatīriyo (bj) | gahuratīriyo (s2, s3)
 msgctxt "thag1.31:6.2"
-msgid ""
-"<span class=\"var\" title=\"gabbharatīriyo (bj) | gahuratīriyo (s2, s3)\" id="
-"\"note31\">Gahvaratīriyo</span> thero …."
+msgid "Gahvaratīriyo thero …."
 msgstr ""

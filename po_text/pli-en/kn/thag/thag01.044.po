@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -28,10 +27,7 @@ msgstr "1.44. Sānu"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag1.44:5.1"
-msgid ""
-"<span class=\"cross\" title=\"^sn10.5#1 [5. Sānusutta]\" id=\"note41\""
-">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc44\"></a><a class"
-"=\"verse-num-pts\" id=\"verse-num-pts44\"></a>“Mataṃ vā amma rodanti,"
+msgid "<a class=\"vns\" id=\"vns44\"></a><a class=\"vnp\" id=\"vnp44\"></a>“Mataṃ vā amma rodanti,"
 msgstr "Mum, they weep for the dead,"
 
 #. <br>
@@ -40,10 +36,9 @@ msgid "Yo vā jīvaṃ na dissati;"
 msgstr "or for one who’s alive but has disappeared."
 
 #. <br>
+#. VAR: passantī → dissanti (s2, s3) | dissantī (pts1) | dissantaṃ (pts2)
 msgctxt "thag1.44:5.3"
-msgid ""
-"Jīvantaṃ maṃ amma <span class=\"var\" title=\"dissanti (s2, s3) | dissantī "
-"(pts1) | dissantaṃ (pts2)\" id=\"note42\">passantī</span>,"
+msgid "Jīvantaṃ maṃ amma passantī,"
 msgstr "I’m alive and you can see me,"
 
 #. <br>

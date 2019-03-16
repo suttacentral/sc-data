@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.5. Ajinattheragāthā"
 msgstr "2.5. Ajina"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc129"></a><a class="verse-num-pts"
-#. id="verse-num-pts129"></a>
+#. class="vns" id="vns129"></a><a class="vnp"
+#. id="vnp129"></a>
 msgctxt "thag2.5:5.1"
 msgid "“Api ce hoti tevijjo,"
 msgstr "Even a master of the three knowledges,"
@@ -44,15 +43,14 @@ msgid "Appaññātoti naṃ bālā,"
 msgstr "is looked down on for being unknown"
 
 #. <br>
+#. VAR: ajānatā → ajānakā (s2, s3, pts2)
 msgctxt "thag2.5:5.4"
-msgid ""
-"avajānanti <span class=\"var\" title=\"ajānakā (s2, s3, pts2)\" id=\"note84\""
-">ajānatā</span>."
+msgid "avajānanti ajānatā."
 msgstr "by ignorant fools."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc130"></a><a class="verse-num-pts"
-#. id="verse-num-pts130"></a><a class="pts" id="pts19"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns130"></a><a class="vnp"
+#. id="vnp130"></a><a class="pts" id="pts19"></a>
 msgctxt "thag2.5:6.1"
 msgid "Yo ca kho annapānassa,"
 msgstr "But any person here"

@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "7.5. Sarabhaṅgattheragāthā"
 msgstr "7.5. Sarabhaṅga"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc487"></a><a class="verse-num-pts"
-#. id="verse-num-pts487"></a>
+#. class="vns" id="vns487"></a><a class="vnp"
+#. id="vnp487"></a>
 msgctxt "thag7.5:5.1"
 msgid "“Sare hatthehi bhañjitvā,"
 msgstr "I broke the reeds off with my hands,"
@@ -48,9 +47,9 @@ msgctxt "thag7.5:5.4"
 msgid "nāmaṃ sammutiyā ahu."
 msgstr "as “Reed-breaker”."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc488"></a><a class="verse-num-pts"
-#. id="verse-num-pts488"></a><a class="pts" id="pts51"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns488"></a><a class="vnp"
+#. id="vnp488"></a><a class="pts" id="pts51"></a>
 msgctxt "thag7.5:6.1"
 msgid "Na mayhaṃ kappate ajja,"
 msgstr "But now it’s not appropriate"
@@ -70,8 +69,8 @@ msgctxt "thag7.5:6.4"
 msgid "gotamena yasassinā."
 msgstr "by Gotama the renowned."
 
-#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
-#. id="verse-num-sc489"></a><a class="verse-num-pts" id="verse-num-pts489"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns"
+#. id="vns489"></a><a class="vnp" id="vnp489"></a>
 msgctxt "thag7.5:7.1"
 msgid "Sakalaṃ samattaṃ rogaṃ,"
 msgstr "Previously, I, Sarabhaṅga,"
@@ -91,8 +90,8 @@ msgctxt "thag7.5:7.4"
 msgid "Vacanakarenātidevassa."
 msgstr "as I’ve practiced what was taught by he who is beyond the gods."
 
-#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
-#. id="verse-num-sc490"></a><a class="verse-num-pts" id="verse-num-pts490"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns490"></a><a class="vnp" id="vnp490"></a>
 msgctxt "thag7.5:8.1"
 msgid "Yeneva maggena gato vipassī,"
 msgstr "Gotama traveled by that straight road;"
@@ -112,8 +111,8 @@ msgctxt "thag7.5:8.4"
 msgid "Tenañjasena agamāsi gotamo."
 msgstr "Kakusandha, Koṇāgamana, and Kassapa."
 
-#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
-#. id="verse-num-sc491"></a><a class="verse-num-pts" id="verse-num-pts491"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns"
+#. id="vns491"></a><a class="vnp" id="vnp491"></a>
 msgctxt "thag7.5:9.1"
 msgid "Vītataṇhā anādānā,"
 msgstr "These seven Buddhas have plunged into the ending,"
@@ -133,8 +132,8 @@ msgctxt "thag7.5:9.4"
 msgid "dhammabhūtehi tādibhi."
 msgstr "They have taught this Dhamma"
 
-#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
-#. id="verse-num-sc492"></a><a class="verse-num-pts" id="verse-num-pts492"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns"
+#. id="vns492"></a><a class="vnp" id="vnp492"></a>
 msgctxt "thag7.5:10.1"
 msgid "Cattāri ariyasaccāni,"
 msgstr "out of compassion for living creatures—"
@@ -154,12 +153,11 @@ msgctxt "thag7.5:10.4"
 msgid "nirodho dukkhasaṅkhayo."
 msgstr "In these four noble truths,"
 
-#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
-#. id="verse-num-sc493"></a><a class="verse-num-pts" id="verse-num-pts493"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns"
+#. id="vns493"></a><a class="vnp" id="vnp493"></a>
+#. VAR: Yasmiṃ nivattate → yasmiṃ nibbattate (pts1) | yasmiṃ na nibbattate (mr)
 msgctxt "thag7.5:11.1"
-msgid ""
-"<span class=\"var\" title=\"yasmiṃ nibbattate (pts1) | yasmiṃ na nibbattate "
-"(mr)\" id=\"note247\">Yasmiṃ nivattate</span> dukkhaṃ,"
+msgid "Yasmiṃ nivattate dukkhaṃ,"
 msgstr "the endless suffering of transmigration"
 
 #. <br>
@@ -212,10 +210,9 @@ msgid "Sundarasamuddo thero,"
 msgstr ""
 
 #. <br>
+#. VAR: lakuṇḍabhaddiyo → lakuṇṭabhaddiyo (bj, s2, s3, pts1-2)
 msgctxt "thag7.5:15.2"
-msgid ""
-"thero <span class=\"var\" title=\"lakuṇṭabhaddiyo (bj, s2, s3, pts1-2)\" id="
-"\"note248\">lakuṇḍabhaddiyo</span>;"
+msgid "thero lakuṇḍabhaddiyo;"
 msgstr ""
 
 #. <br>

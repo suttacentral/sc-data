@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -23,12 +22,11 @@ msgstr "1.7. Vīrā"
 
 # Comm. requires vira not dhira: Vīrā vīrehi dhammehīti vīriyapadhānatāya vīrehi. Note lack of vocative, and see note on third line.
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc7"></a><a class="verse-num-pts"
-#. id="verse-num-pts7"></a>
+#. class="vns" id="vns7"></a><a class="vnp"
+#. id="vnp7"></a>
+#. VAR: vīrehi → dhīrā dhīrehi (s2, s3, pts1-2, mr)
 msgctxt "thig1.7:4.1"
-msgid ""
-"“Vīrā <span class=\"var\" title=\"dhīrā dhīrehi (s2, s3, pts1-2, mr)\" id=\""
-"note4\">vīrehi</span> dhammehi,"
+msgid "“Vīrā vīrehi dhammehi,"
 msgstr "She’s known as Vīrā because of her heroic qualities,"
 
 #. <br>
@@ -43,10 +41,9 @@ msgid "Dhāreti antimaṃ dehaṃ,"
 msgstr "She bears her final body,"
 
 #. <br>
+#. VAR: savāhinin”ti → savāhanaṃ (s2, s3, pts1-2) | savāhananti (mr)
 msgctxt "thig1.7:4.4"
-msgid ""
-"jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (s2, s3, pts1-2) | "
-"savāhananti (mr)\" id=\"note5\">savāhinin”ti</span>."
+msgid "jetvā māraṃ savāhinin”ti."
 msgstr "having vanquished Māra and his mount."
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="2"></a>
@@ -54,8 +51,7 @@ msgctxt "thig1.7:5.1"
 msgid "…"
 msgstr ""
 
+#. VAR: Vīrā → aññatarā dhīrā (s2, s3, pts1-2)
 msgctxt "thig1.7:5.2"
-msgid ""
-"<span class=\"var\" title=\"aññatarā dhīrā (s2, s3, pts1-2)\" id=\"note6\""
-">Vīrā</span> therī …."
+msgid "Vīrā therī …."
 msgstr ""

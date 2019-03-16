@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -27,8 +26,8 @@ msgid "2.49. Sandhitattheragāthā"
 msgstr "2.49. Sandhita"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc217"></a><a class="verse-num-pts"
-#. id="verse-num-pts217"></a>
+#. class="vns" id="vns217"></a><a class="vnp"
+#. id="vnp217"></a>
 msgctxt "thag2.49:5.1"
 msgid "“Assatthe haritobhāse,"
 msgstr "Beneath the Bodhi Tree,"
@@ -44,14 +43,13 @@ msgid "Ekaṃ buddhagataṃ saññaṃ,"
 msgstr "being mindful, my perception"
 
 #. <br>
+#. VAR: alabhitthaṃ → alabhiṃhaṃ (mr ^ne6#89 [Sāsanapaṭṭhāna])
 msgctxt "thag2.49:5.4"
-msgid ""
-"<span class=\"var\" title=\"alabhiṃhaṃ (mr ^ne6#89 [Sāsanapaṭṭhāna])\" id=\""
-"note147\">alabhitthaṃ</span> patissato."
+msgid "alabhitthaṃ patissato."
 msgstr "became one with the Buddha."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc218"></a><a class="verse-num-pts" id="verse-num-pts218"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns218"></a><a class="vnp" id="vnp218"></a>
 msgctxt "thag2.49:6.1"
 msgid "Ekatiṃse ito kappe,"
 msgstr "It’s been thirty one eons"

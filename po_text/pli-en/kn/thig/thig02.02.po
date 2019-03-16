@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-""
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,8 +21,8 @@ msgid "2. Jentātherīgāthā"
 msgstr "2.2. Jentā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="verse-num-sc" id="verse-num-sc21"></a><a class="verse-num-pts"
-#. id="verse-num-pts21"></a>
+#. class="vns" id="vns21"></a><a class="vnp"
+#. id="vnp21"></a>
 msgctxt "thig2.2:4.1"
 msgid "“Ye ime satta bojjhaṅgā,"
 msgstr "Of the seven awakening factors,"
@@ -43,8 +42,8 @@ msgctxt "thig2.2:4.4"
 msgid "yathā buddhena desitā."
 msgstr "just as the Buddha taught."
 
-#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
-#. id="verse-num-sc22"></a><a class="verse-num-pts" id="verse-num-pts22"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns"
+#. id="vns22"></a><a class="vnp" id="vnp22"></a>
 msgctxt "thig2.2:5.1"
 msgid "Diṭṭho hi me so bhagavā,"
 msgstr "For I have seen the Blessed One,"
@@ -65,8 +64,7 @@ msgid "natthi dāni punabbhavo”ti."
 msgstr "now there are no more future lives."
 
 #. </p></blockquote><p><a class="sc" id="3"></a>
+#. VAR: jentā → jantā (s2, s3) | jentī (pts1-2)
 msgctxt "thig2.2:6.1"
-msgid ""
-"Itthaṃ sudaṃ <span class=\"var\" title=\"jantā (s2, s3) | jentī (pts1-2)\" "
-"id=\"note15\">jentā</span> therī gāthāyo abhāsitthāti."
+msgid "Itthaṃ sudaṃ jentā therī gāthāyo abhāsitthāti."
 msgstr "It was thus that these verses were recited by the senior nun Jentā."
