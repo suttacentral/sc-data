@@ -14547,7 +14547,7 @@
         "parallels": ["uv5#5.13","t212.6#vgns6.11","t213.5#vgns5.12","uv-kg5#132"]
     },
     {
-        "parallels": ["uv5#5.14","uv-kg5#133"]
+        "parallels": ["uv5#5.14","uv-kg5#133","~t213.5#vgns5.12"]
     },
     {
         "parallels": ["uv5#5.18","t212.6#vgns6.15","t213.5#vgns5.16","uv-kg5#137","uvs5#5.17","sn3.8#4","ud5.1#6"]
@@ -14571,7 +14571,7 @@
         "parallels": ["uv5#5.3","t212.6#vgns6.2","t213.5#vgns5.3","uv-kg5#122","ud8.8#7"]
     },
     {
-        "parallels": ["uv5#5.4","uv-kg5#123","ud8.8#8"]
+        "parallels": ["uv5#5.4","uv-kg5#123","ud8.8#8","t213.5#vgns5.4-#vgns5.5"]
     },
     {
         "parallels": ["uv5#5.6","t213.5#vgns5.7","uv-kg5#125"]
