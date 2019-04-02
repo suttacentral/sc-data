@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag5.6"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag5.6"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag5.6:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,7 @@ msgid "5.6. Nadīkassapattheragāthā"
 msgstr "5.6. Nadīkassapa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns340"></a><a class="vnp"
-#. id="vnp340"></a>
+#. class="vns" id="vns340"></a><a class="vnp" id="vnp340"></a>
 msgctxt "thag5.6:5.1"
 msgid "“Atthāya vata me buddho,"
 msgstr "It was truly for my benefit"
@@ -47,9 +45,8 @@ msgctxt "thag5.6:5.4"
 msgid "micchādiṭṭhiṃ vivajjayiṃ."
 msgstr "I shunned wrong view."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns341"></a><a class="vnp"
-#. id="vnp341"></a><a class="pts" id="pts39"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns341"></a><a
+#. class="vnp" id="vnp341"></a><a class="pts" id="pts39"></a>
 msgctxt "thag5.6:6.1"
 msgid "Yajiṃ uccāvace yaññe,"
 msgstr "I used to perform a diverse spectrum of sacrifices;"
@@ -70,9 +67,10 @@ msgctxt "thag5.6:6.4"
 msgid "andhabhūto puthujjano."
 msgstr "I was a blind, ordinary person."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns342"></a><a class="vnp" id="vnp342"></a>
-#. VAR: Diṭṭhigahanapakkhando → ... gahanapakkhanto (bj) | ... gahaṇapakkhanno (s2, s3, pts1) | ... gahanapakkhanno (pts2)
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns342"></a><a
+#. class="vnp" id="vnp342"></a>
+#. VAR: Diṭṭhigahanapakkhando → ... gahanapakkhanto (bj) | ... gahaṇapakkhanno
+#. (s2, s3, pts1) | ... gahanapakkhanno (pts2)
 msgctxt "thag5.6:7.1"
 msgid "Diṭṭhigahanapakkhando,"
 msgstr "Caught in the thicket of wrong view,"
@@ -92,8 +90,8 @@ msgctxt "thag5.6:7.4"
 msgid "andhabhūto aviddasu."
 msgstr "I was blind and ignorant."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns343"></a><a class="vnp" id="vnp343"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns343"></a><a
+#. class="vnp" id="vnp343"></a>
 msgctxt "thag5.6:8.1"
 msgid "Micchādiṭṭhi pahīnā me,"
 msgstr "I’ve abandoned wrong view;"
@@ -114,8 +112,8 @@ msgctxt "thag5.6:8.4"
 msgid "namassāmi tathāgataṃ."
 msgstr "I bow to the Realized One."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns344"></a><a class="vnp" id="vnp344"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns344"></a><a
+#. class="vnp" id="vnp344"></a>
 msgctxt "thag5.6:9.1"
 msgid "Mohā sabbe pahīnā me,"
 msgstr "I’ve given up all delusion;"

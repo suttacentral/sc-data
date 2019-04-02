@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag17.2"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag17.2"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag17.2:1.1"
 msgid "Theragāthā"
@@ -25,16 +24,15 @@ msgctxt "thag17.2:4.1"
 msgid "17.2. Sāriputtattheragāthā"
 msgstr "17.2. Sāriputta"
 
-# This phrase and the next are difficult, see Norman for discussion. He partly amends the text based on the comm. However, I suspect that the line here is an echo of BrhUp_4,4.5: yathākārī yathācārī tathā bhavati. I read yathā in this line and the next.
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns981"></a><a class="vnp"
-#. id="vnp981"></a>
+#. class="vns" id="vns981"></a><a class="vnp" id="vnp981"></a>
 msgctxt "thag17.2:5.1"
 msgid "“Yathācārī yathāsato satīmā,"
 msgstr "“One who’s mindful as per their conduct and mindfulness,"
 
 #. <br>
-#. VAR: Yatasaṅkappajjhāyi → yathā saṅkappacariyāya (s2, s3, pts1) | yatasaṅkappajjhāyī (pts2)
+#. VAR: Yatasaṅkappajjhāyi → yathā saṅkappacariyāya (s2, s3, pts1) |
+#. yatasaṅkappajjhāyī (pts2)
 msgctxt "thag17.2:5.2"
 msgid "Yatasaṅkappajjhāyi appamatto;"
 msgstr "diligent as per their intentions and meditation,"
@@ -49,10 +47,11 @@ msgctxt "thag17.2:5.4"
 msgid "Eko santusito tamāhu bhikkhuṃ."
 msgstr "that is what they call a mendicant."
 
-#. </p><p><a class="sc" id="2"></a>
+#. </p><p><a class="sc" id="2"></a> <a class="vns" id="vns982"></a><a
+#. class="vnp" id="vnp982"></a>
 #. VAR: vā → va (s2, s3) | ca (pts1)
 msgctxt "thag17.2:6.1"
-msgid "<a class=\"vns\" id=\"vns982\"></a><a class=\"vnp\" id=\"vnp982\"></a>Allaṃ sukkhaṃ vā bhuñjanto,"
+msgid "Allaṃ sukkhaṃ vā bhuñjanto,"
 msgstr "When eating fresh or dried food,"
 
 #. <br>
@@ -70,8 +69,8 @@ msgctxt "thag17.2:6.4"
 msgid "Sato bhikkhu paribbaje."
 msgstr "with unfilled belly, taking limited food."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns983"></a><a class="vnp" id="vnp983"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns983"></a><a
+#. class="vnp" id="vnp983"></a>
 msgctxt "thag17.2:7.1"
 msgid "Cattāro pañca ālope,"
 msgstr "Four or five mouthfuls before you’re full,"
@@ -91,8 +90,8 @@ msgctxt "thag17.2:7.4"
 msgid "pahitattassa bhikkhuno."
 msgstr "to live in comfort."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns984"></a><a class="vnp" id="vnp984"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns984"></a><a
+#. class="vnp" id="vnp984"></a>
 #. VAR: Kappiyaṃ tañce chādeti → kappiyatañca ādeti (s2, s3, pts1)
 msgctxt "thag17.2:8.1"
 msgid "Kappiyaṃ tañce chādeti,"
@@ -114,9 +113,10 @@ msgctxt "thag17.2:8.4"
 msgid "pahitattassa bhikkhuno."
 msgstr "to live in comfort."
 
-#. </p><p><a class="sc" id="5"></a>
+#. </p><p><a class="sc" id="5"></a> <a class="vns" id="vns985"></a><a
+#. class="vnp" id="vnp985"></a>
 msgctxt "thag17.2:9.1"
-msgid "<a class=\"vns\" id=\"vns985\"></a><a class=\"vnp\" id=\"vnp985\"></a>Pallaṅkena nisinnassa,"
+msgid "Pallaṅkena nisinnassa,"
 msgstr "When sitting cross-legged,"
 
 #. <br>
@@ -134,9 +134,10 @@ msgctxt "thag17.2:9.4"
 msgid "pahitattassa bhikkhuno."
 msgstr "to live in comfort.”"
 
-#. </p><p><a class="sc" id="6"></a>
+#. </p><p><a class="sc" id="6"></a> <a class="vns" id="vns986"></a><a
+#. class="vnp" id="vnp986"></a>
 msgctxt "thag17.2:10.1"
-msgid "<a class=\"vns\" id=\"vns986\"></a><a class=\"vnp\" id=\"vnp986\"></a>Yo sukhaṃ dukkhato adda,"
+msgid "Yo sukhaṃ dukkhato adda,"
 msgstr "“When you’ve seen happiness as suffering,"
 
 #. <br>
@@ -150,15 +151,15 @@ msgctxt "thag17.2:10.3"
 msgid "Ubhayantarena nāhosi,"
 msgstr "and that there’s nothing between the two—"
 
-# Comm: kena nāma kilesena lokasmiṃ baddho, devatādīsu kiṃ vā āyati siyā
 #. <br>
 msgctxt "thag17.2:10.4"
 msgid "kena lokasmi kiṃ siyā."
 msgstr "what keeps you in the world? What would you become?"
 
-#. </p><p><a class="sc" id="7"></a>
+#. </p><p><a class="sc" id="7"></a> <a class="vns" id="vns987"></a><a
+#. class="vnp" id="vnp987"></a>
 msgctxt "thag17.2:11.1"
-msgid "<a class=\"vns\" id=\"vns987\"></a><a class=\"vnp\" id=\"vnp987\"></a>Mā me kadāci pāpiccho,"
+msgid "Mā me kadāci pāpiccho,"
 msgstr "Thinking, ‘May I have nothing to do with those of bad wishes,"
 
 #. <br>
@@ -176,8 +177,8 @@ msgctxt "thag17.2:11.4"
 msgid "kena lokasmi kiṃ siyā."
 msgstr "what keeps you in the world? What would you become?”"
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns988"></a><a class="vnp" id="vnp988"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns988"></a><a
+#. class="vnp" id="vnp988"></a>
 msgctxt "thag17.2:12.1"
 msgid "Bahussuto ca medhāvī,"
 msgstr "“An intelligent, learned person,"
@@ -197,8 +198,8 @@ msgctxt "thag17.2:12.4"
 msgid "api muddhani tiṭṭhatu."
 msgstr "let them stand at the head.”"
 
-#. </p><p><a class="sc" id="9"></a><a class="vns"
-#. id="vns989"></a><a class="vnp" id="vnp989"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns" id="vns989"></a><a
+#. class="vnp" id="vnp989"></a>
 msgctxt "thag17.2:13.1"
 msgid "Yo papañcamanuyutto,"
 msgstr "“A beast who likes to proliferate,"
@@ -218,8 +219,8 @@ msgctxt "thag17.2:13.4"
 msgid "yogakkhemaṃ anuttaraṃ."
 msgstr "the supreme sanctuary."
 
-#. </p><p><a class="sc" id="10"></a><a class="vns"
-#. id="vns990"></a><a class="vnp" id="vnp990"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns" id="vns990"></a><a
+#. class="vnp" id="vnp990"></a>
 msgctxt "thag17.2:14.1"
 msgid "Yo ca papañcaṃ hitvāna,"
 msgstr "But one who gives up proliferation,"
@@ -239,9 +240,10 @@ msgctxt "thag17.2:14.4"
 msgid "yogakkhemaṃ anuttaraṃ."
 msgstr "the supreme sanctuary.”"
 
-#. </p><p><a class="sc" id="11"></a>
+#. </p><p><a class="sc" id="11"></a> <a class="vns" id="vns991"></a><a
+#. class="vnp" id="vnp991"></a>
 msgctxt "thag17.2:15.1"
-msgid "<a class=\"verse-num-sc\" id=\"vns991\"></a><a class=\"vnp\" id=\"verse-num-pts991\"></a>Gāme vā yadi vāraññe,"
+msgid "Gāme vā yadi vāraññe,"
 msgstr "“Whether in the village or the wilderness,"
 
 #. <br>
@@ -259,8 +261,8 @@ msgctxt "thag17.2:15.4"
 msgid "Taṃ bhūmirāmaṇeyyakaṃ."
 msgstr "is a delightful place.”"
 
-#. </p><p><a class="sc" id="12"></a><a class="vns"
-#. id="vns992"></a><a class="vnp" id="vnp992"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns" id="vns992"></a><a
+#. class="vnp" id="vnp992"></a>
 #. VAR: Ramaṇīyāni → ramaṇīyā (bj, pts1) | ramaṇīyān' (pts2)
 msgctxt "thag17.2:16.1"
 msgid "Ramaṇīyāni araññāni,"
@@ -281,9 +283,10 @@ msgctxt "thag17.2:16.4"
 msgid "na te kāmagavesino."
 msgstr "as they don’t seek sensual pleasures.”"
 
-#. </p><p><a class="sc" id="13"></a>
+#. </p><p><a class="sc" id="13"></a> <a class="vns" id="vns993"></a><a
+#. class="vnp" id="vnp993"></a><a class="pts" id="pts90"></a>
 msgctxt "thag17.2:17.1"
-msgid "<a class=\"vns\" id=\"vns993\"></a><a class=\"vnp\" id=\"vnp993\"></a><a class=\"pts\" id=\"pts90\"></a>Nidhīnaṃva pavattāraṃ,"
+msgid "Nidhīnaṃva pavattāraṃ,"
 msgstr "“When you see someone who sees your faults,"
 
 #. <br>
@@ -311,8 +314,8 @@ msgctxt "thag17.2:17.6"
 msgid "seyyo hoti na pāpiyo."
 msgstr "things get better, not worse.”"
 
-#. </p><p><a class="sc" id="14"></a><a class="vns"
-#. id="vns994"></a><a class="vnp" id="vnp994"></a>
+#. </p><p><a class="sc" id="14"></a><a class="vns" id="vns994"></a><a
+#. class="vnp" id="vnp994"></a>
 msgctxt "thag17.2:18.1"
 msgid "Ovadeyyānusāseyya,"
 msgstr "“One ought to advise and instruct;"
@@ -332,8 +335,8 @@ msgctxt "thag17.2:18.4"
 msgid "asataṃ hoti appiyo."
 msgstr "and isn’t loved by the bad.”"
 
-#. </p><p><a class="sc" id="15"></a><a class="vns"
-#. id="vns995"></a><a class="vnp" id="vnp995"></a>
+#. </p><p><a class="sc" id="15"></a><a class="vns" id="vns995"></a><a
+#. class="vnp" id="vnp995"></a>
 msgctxt "thag17.2:19.1"
 msgid "Aññassa bhagavā buddho,"
 msgstr "“The Blessed One, the Buddha, the seer"
@@ -353,500 +356,208 @@ msgctxt "thag17.2:19.4"
 msgid "sotamodhesimatthiko."
 msgstr "I lent an ear to get the meaning."
 
-#. </p><p><a class="sc" id="16"></a><a class="vns"
-#. id="vns996"></a><a class="vnp" id="vnp996"></a>
-msgctxt "thag17.2:20.1"
-msgid "Taṃ me amoghaṃ savanaṃ,"
-msgstr "My listening wasn’t wasted:"
+#. <br>
 
 #. <br>
-msgctxt "thag17.2:20.2"
-msgid "vimuttomhi anāsavo."
-msgstr "I’m freed, without defilements.”"
 
-#. </p><p><a class="sc" id="17"></a>
-msgctxt "thag17.2:21.1"
-msgid "<a class=\"verse-num-sc\" id=\"vns997\"></a><a class=\"vnp\" id=\"verse-num-pts997\"></a>Neva pubbenivāsāya,"
-msgstr "“Not for knowledge of past lives,"
+#. </p><p><a class="sc" id="16"></a><a class="vns" id="vns996"></a>
 
 #. <br>
-msgctxt "thag17.2:21.2"
-msgid "napi dibbassa cakkhuno;"
-msgstr "nor even for clairvoyance;"
 
 #. <br>
-msgctxt "thag17.2:21.3"
-msgid "Cetopariyāya iddhiyā,"
-msgstr "not for psychic powers, or reading the minds of others,"
 
 #. <br>
-msgctxt "thag17.2:21.4"
-msgid "cutiyā upapattiyā;"
-msgstr "nor for knowing people’s passing away and being reborn;"
 
 #. <br>
-msgctxt "thag17.2:21.5"
-msgid "Sotadhātuvisuddhiyā,"
-msgstr "not for purifying the power of clairaudience,"
 
 #. <br>
-msgctxt "thag17.2:21.6"
-msgid "paṇidhī me na vijjati”."
-msgstr "did I have any wish.”"
 
-#. </p><p><a class="sc" id="18"></a><a class="vns"
-#. id="vns998"></a><a class="vnp" id="vnp998"></a>
-msgctxt "thag17.2:22.1"
-msgid "“Rukkhamūlaṃva nissāya,"
-msgstr "“His only shelter is the foot of a tree;"
+#. </p><p><a class="sc" id="17"></a><a class="vns" id="vns997"></a><a
+#. class="vnp" id="vnp998"></a>
 
 #. <br>
-msgctxt "thag17.2:22.2"
-msgid "muṇḍo saṅghāṭipāruto;"
-msgstr "shaven, wrapped in his outer robe,"
 
 #. <br>
-msgctxt "thag17.2:22.3"
-msgid "Paññāya uttamo thero,"
-msgstr "the senior monk foremost in wisdom,"
 
 #. <br>
 #. VAR: upatissova → upatisso ca (bj, mr)
-msgctxt "thag17.2:22.4"
-msgid "upatissova jhāyati."
-msgstr "Upatissa himself practices absorption."
 
-#. </p><p><a class="sc" id="19"></a><a class="vns"
-#. id="vns999"></a><a class="vnp" id="vnp999"></a>
-msgctxt "thag17.2:23.1"
-msgid "Avitakkaṃ samāpanno,"
-msgstr "Entering meditation without thought,"
+#. </p><p><a class="sc" id="18"></a><a class="vns" id="vns998"></a><a
+#. class="vnp" id="vnp999"></a>
 
 #. <br>
-msgctxt "thag17.2:23.2"
-msgid "sammāsambuddhasāvako;"
-msgstr "a disciple of the Buddha"
 
 #. <br>
-msgctxt "thag17.2:23.3"
-msgid "Ariyena tuṇhībhāvena,"
-msgstr "is at that moment blessed"
 
 #. <br>
-msgctxt "thag17.2:23.4"
-msgid "upeto hoti tāvade."
-msgstr "with noble silence."
 
-#. </p><p><a class="sc" id="20"></a>
-msgctxt "thag17.2:24.1"
-msgid "<a class=\"vns\" id=\"vns1000\"></a><a class=\"vnp\" id=\"vnp1000\"></a>Yathāpi pabbato selo,"
-msgstr "As a rocky mountain is"
+#. </p><p><a class="sc" id="19"></a> <a class="vns" id="vns999"></a><a
+#. class="vnp" id="vnp1000"></a>
 
 #. <br>
-msgctxt "thag17.2:24.2"
-msgid "acalo suppatiṭṭhito;"
-msgstr "unwavering and well grounded,"
 
 #. <br>
 #. VAR: mohakkhayā → mohakkhayo (pts2)
-msgctxt "thag17.2:24.3"
-msgid "Evaṃ mohakkhayā bhikkhu,"
-msgstr "so too a mendicant, when delusion ends,"
 
 #. <br>
-msgctxt "thag17.2:24.4"
-msgid "pabbatova na vedhati”."
-msgstr "is like a mountain—they do not tremble.”"
 
-#. </p><p><a class="sc" id="21"></a><a class="vns"
-#. id="vns1001"></a><a class="vnp"
-#. id="vnp1001"></a>
-msgctxt "thag17.2:25.1"
-msgid "“Anaṅgaṇassa posassa,"
-msgstr "“To the man who has not a blemish,"
+#. </p><p><a class="sc" id="20"></a><a class="vns" id="vns1000"></a><a
+#. class="vnp" id="vnp1001"></a>
 
 #. <br>
-msgctxt "thag17.2:25.2"
-msgid "niccaṃ sucigavesino;"
-msgstr "who is always seeking purity,"
 
 #. <br>
-msgctxt "thag17.2:25.3"
-msgid "Vālaggamattaṃ pāpassa,"
-msgstr "even a hair-tip of evil"
 
 #. <br>
-msgctxt "thag17.2:25.4"
-msgid "abbhamattaṃva khāyati."
-msgstr "seems as big as a cloud.”"
 
-#. </p><p><a class="sc" id="22"></a><a class="vns"
-#. id="vns1002"></a><a class="vnp"
-#. id="vnp1002"></a>
-msgctxt "thag17.2:26.1"
-msgid "Nābhinandāmi maraṇaṃ,"
-msgstr "“I don’t long for death;"
+#. </p><p><a class="sc" id="21"></a><a class="vns" id="vns1001"></a><a
+#. class="vnp" id="vnp1002"></a>
 
 #. <br>
-msgctxt "thag17.2:26.2"
-msgid "nābhinandāmi jīvitaṃ;"
-msgstr "I don’t long for life;"
 
 #. <br>
-msgctxt "thag17.2:26.3"
-msgid "Nikkhipissaṃ imaṃ kāyaṃ,"
-msgstr "I will lay down this body,"
 
 #. <br>
-msgctxt "thag17.2:26.4"
-msgid "sampajāno patissato."
-msgstr "aware and mindful."
 
-#. </p><p><a class="sc" id="23"></a><a class="vns"
-#. id="vns1003"></a><a class="vnp"
-#. id="vnp1003"></a>
-msgctxt "thag17.2:27.1"
-msgid "Nābhinandāmi maraṇaṃ,"
-msgstr "I don’t long for death;"
+#. </p><p><a class="sc" id="22"></a><a class="vns" id="vns1002"></a><a
+#. class="vnp" id="vnp1003"></a>
 
 #. <br>
-msgctxt "thag17.2:27.2"
-msgid "nābhinandāmi jīvitaṃ;"
-msgstr "I don’t long for life;"
 
 #. <br>
-msgctxt "thag17.2:27.3"
-msgid "Kālañca paṭikaṅkhāmi,"
-msgstr "I await my time,"
 
 #. <br>
-msgctxt "thag17.2:27.4"
-msgid "nibbisaṃ bhatako yathā”."
-msgstr "like a worker waiting for their wages.”"
 
-#. </p><p><a class="sc" id="24"></a><a class="vns"
-#. id="vns1004"></a><a class="vnp"
-#. id="vnp1004"></a>
-msgctxt "thag17.2:28.1"
-msgid "“Ubhayena midaṃ maraṇameva,"
-msgstr "“Both what came before and what follows after"
+#. </p><p><a class="sc" id="23"></a><a class="vns" id="vns1003"></a><a
+#. class="vnp" id="vnp1004"></a>
 
 #. <br>
-msgctxt "thag17.2:28.2"
-msgid "Nāmaraṇaṃ pacchā vā pure vā;"
-msgstr "are nothing but death, not the deathless."
 
 #. <br>
-msgctxt "thag17.2:28.3"
-msgid "Paṭipajjatha mā vinassatha,"
-msgstr "Practice, don’t perish—"
 
 #. <br>
-msgctxt "thag17.2:28.4"
-msgid "Khaṇo vo mā upaccagā."
-msgstr "don’t let the moment pass you by."
 
-#. </p><p><a class="sc" id="25"></a><a class="vns"
-#. id="vns1005"></a><a class="vnp"
-#. id="vnp1005"></a>
-msgctxt "thag17.2:29.1"
-msgid "Nagaraṃ yathā paccantaṃ,"
-msgstr "Just like a frontier city,"
+#. </p><p><a class="sc" id="24"></a><a class="vns" id="vns1004"></a><a
+#. class="vnp" id="vnp1005"></a>
 
 #. <br>
-msgctxt "thag17.2:29.2"
-msgid "guttaṃ santarabāhiraṃ;"
-msgstr "is guarded inside and out,"
 
 #. <br>
-msgctxt "thag17.2:29.3"
-msgid "Evaṃ gopetha attānaṃ,"
-msgstr "so you should ward yourselves—"
 
 #. <br>
-msgctxt "thag17.2:29.4"
-msgid "khaṇo vo mā upaccagā;"
-msgstr "don’t let the moment pass you by."
 
 #. <br>
-msgctxt "thag17.2:29.5"
-msgid "Khaṇātītā hi socanti,"
-msgstr "For if you miss your moment"
 
 #. <br>
-msgctxt "thag17.2:29.6"
-msgid "nirayamhi samappitā”."
-msgstr "you’ll grieve when you’re sent to hell.”"
 
-#. </p><p><a class="sc" id="26"></a><a class="vns"
-#. id="vns1006"></a><a class="vnp"
-#. id="vnp1006"></a>
-msgctxt "thag17.2:30.1"
-msgid "“Upasanto uparato,"
-msgstr "“Calm and quiet,"
+#. </p><p><a class="sc" id="25"></a><a class="vns" id="vns1005"></a><a
+#. class="vnp" id="vnp1006"></a>
 
 #. <br>
-msgctxt "thag17.2:30.2"
-msgid "mantabhāṇī anuddhato;"
-msgstr "thoughtful in counsel, and stable—"
 
 #. <br>
-msgctxt "thag17.2:30.3"
-msgid "Dhunāti pāpake dhamme,"
-msgstr "he shakes off bad qualities"
 
 #. <br>
-msgctxt "thag17.2:30.4"
-msgid "dumapattaṃva māluto."
-msgstr "as the wind shakes leaves off a tree."
 
-#. </p><p><a class="sc" id="27"></a><a class="vns"
-#. id="vns1007"></a><a class="vnp"
-#. id="vnp1007"></a>
-msgctxt "thag17.2:31.1"
-msgid "Upasanto uparato,"
-msgstr "Calm and quiet,"
+#. </p><p><a class="sc" id="26"></a><a class="vns" id="vns1006"></a><a
+#. class="vnp" id="vnp1007"></a>
 
 #. <br>
-msgctxt "thag17.2:31.2"
-msgid "mantabhāṇī anuddhato;"
-msgstr "thoughtful in counsel, and stable—"
 
 #. <br>
 #. VAR: Appāsi → abbahi (s2, s3, pts1-2) | ahāsi (?)
-msgctxt "thag17.2:31.3"
-msgid "Appāsi pāpake dhamme,"
-msgstr "he plucks off bad qualities"
 
 #. <br>
-msgctxt "thag17.2:31.4"
-msgid "dumapattaṃva māluto."
-msgstr "as the wind plucks leaves off a tree."
 
-#. </p><p><a class="sc" id="28"></a><a class="vns"
-#. id="vns1008"></a><a class="vnp"
-#. id="vnp1008"></a><a class="pts" id="pts91"></a>
-msgctxt "thag17.2:32.1"
-msgid "Upasanto anāyāso,"
-msgstr "Calm and free of despair,"
+#. </p><p><a class="sc" id="27"></a><a class="vns" id="vns1007"></a><a
+#. class="vnp" id="vnp1008"></a><a class="pts" id="pts91"></a>
 
 #. <br>
-msgctxt "thag17.2:32.2"
-msgid "vippasanno anāvilo;"
-msgstr "clear and unclouded,"
 
 #. <br>
-msgctxt "thag17.2:32.3"
-msgid "Kalyāṇasīlo medhāvī,"
-msgstr "of fine virtue, intelligent:"
 
 #. <br>
-msgctxt "thag17.2:32.4"
-msgid "dukkhassantakaro siyā”."
-msgstr "one would make an end of suffering.”"
 
-#. </p><p><a class="sc" id="29"></a><a class="vns"
-#. id="vns1009"></a><a class="vnp"
-#. id="vnp1009"></a>
-msgctxt "thag17.2:33.1"
-msgid "“Na vissase ekatiyesu evaṃ,"
-msgstr "“Some householders, and even some renunciants,"
+#. </p><p><a class="sc" id="28"></a><a class="vns" id="vns1008"></a><a
+#. class="vnp" id="vnp1009"></a>
 
 #. <br>
 #. VAR: cāpi → vāpi (pts2)
-msgctxt "thag17.2:33.2"
-msgid "Agārisu pabbajitesu cāpi;"
-msgstr "are not to be trusted."
 
 #. <br>
-msgctxt "thag17.2:33.3"
-msgid "Sādhūpi hutvā na asādhu honti,"
-msgstr "Some who were good later become bad;"
 
 #. <br>
-msgctxt "thag17.2:33.4"
-msgid "Asādhu hutvā puna sādhu honti."
-msgstr "while some who were bad become good.”"
 
-#. </p><p><a class="sc" id="30"></a><a class="vns"
-#. id="vns1010"></a><a class="vnp"
-#. id="vnp1010"></a>
-msgctxt "thag17.2:34.1"
-msgid "Kāmacchando ca byāpādo,"
-msgstr "“Sensual desire, ill will,"
+#. </p><p><a class="sc" id="29"></a><a class="vns" id="vns1009"></a><a
+#. class="vnp" id="vnp1010"></a>
 
 #. <br>
-msgctxt "thag17.2:34.2"
-msgid "thinamiddhañca bhikkhuno;"
-msgstr "dullness and drowsiness,"
 
 #. <br>
-msgctxt "thag17.2:34.3"
-msgid "Uddhaccaṃ vicikicchā ca,"
-msgstr "restlessness, and doubt:"
 
 #. <br>
-msgctxt "thag17.2:34.4"
-msgid "pañcete cittakelisā."
-msgstr "these are the five mental stains for a monk.”"
 
-#. </p><p><a class="sc" id="31"></a>
-msgctxt "thag17.2:35.1"
-msgid "<a class=\"vns\" id=\"vns1011\"></a><a class=\"vnp\" id=\"verse-num-pts1011\"></a>Yassa sakkariyamānassa,"
-msgstr "“Whether they’re honored"
+#. </p><p><a class="sc" id="30"></a> <a class="vns" id="vns1010"></a><a
+#. class="vnp" id="vnp1011"></a>
 
 #. <br>
-msgctxt "thag17.2:35.2"
-msgid "asakkārena cūbhayaṃ;"
-msgstr "or not honored, or both,"
 
 #. <br>
-msgctxt "thag17.2:35.3"
-msgid "Samādhi na vikampati,"
-msgstr "their immersion doesn’t waver"
 
 #. <br>
-msgctxt "thag17.2:35.4"
-msgid "appamādavihārino."
-msgstr "as they live diligently."
 
-#. </p><p><a class="sc" id="32"></a><a class="vns"
-#. id="vns1012"></a><a class="vnp"
-#. id="vnp1012"></a>
-msgctxt "thag17.2:36.1"
-msgid "Taṃ jhāyinaṃ sātatikaṃ,"
-msgstr "They persistently practice absorption"
+#. </p><p><a class="sc" id="31"></a><a class="vns" id="vns1011"></a><a
+#. class="vnp" id="vnp1012"></a>
 
 #. <br>
-msgctxt "thag17.2:36.2"
-msgid "sukhumadiṭṭhivipassakaṃ;"
-msgstr "with subtle view and discernment."
 
 #. <br>
-msgctxt "thag17.2:36.3"
-msgid "Upādānakkhayārāmaṃ,"
-msgstr "Rejoicing in the ending of grasping,"
 
 #. <br>
-msgctxt "thag17.2:36.4"
-msgid "āhu sappuriso iti."
-msgstr "they’re said to be a good person.”"
 
-#. </p><p><a class="sc" id="33"></a><a class="vns"
-#. id="vns1013"></a><a class="vnp"
-#. id="vnp1013"></a>
-msgctxt "thag17.2:37.1"
-msgid "Mahāsamuddo pathavī,"
-msgstr "“The oceans and the earth,"
+#. </p><p><a class="sc" id="32"></a><a class="vns" id="vns1012"></a><a
+#. class="vnp" id="vnp1013"></a>
 
 #. <br>
-msgctxt "thag17.2:37.2"
-msgid "pabbato anilopi ca;"
-msgstr "the mountains and the wind—"
 
 #. <br>
-msgctxt "thag17.2:37.3"
-msgid "Upamāya na yujjanti,"
-msgstr "none of these can compare"
 
 #. <br>
-msgctxt "thag17.2:37.4"
-msgid "satthu varavimuttiyā."
-msgstr "with the Teacher’s magnificent liberation.”"
 
-#. </p><p><a class="sc" id="34"></a><a class="vns"
-#. id="vns1014"></a><a class="vnp"
-#. id="vnp1014"></a>
-msgctxt "thag17.2:38.1"
-msgid "Cakkānuvattako thero,"
-msgstr "“The senior monk who keeps the wheel rolling,"
+#. </p><p><a class="sc" id="33"></a><a class="vns" id="vns1013"></a><a
+#. class="vnp" id="vnp1014"></a>
 
 #. <br>
-msgctxt "thag17.2:38.2"
-msgid "mahāñāṇī samāhito;"
-msgstr "he is very wise and serene."
 
 #. <br>
-msgctxt "thag17.2:38.3"
-msgid "Pathavāpaggisamāno,"
-msgstr "Like earth, like water, like fire,"
 
 #. <br>
-msgctxt "thag17.2:38.4"
-msgid "na rajjati na dussati."
-msgstr "he is neither attracted nor repelled."
 
-#. </p><p><a class="sc" id="35"></a><a class="vns"
-#. id="vns1015"></a><a class="vnp"
-#. id="vnp1015"></a>
-msgctxt "thag17.2:39.1"
-msgid "Paññāpāramitaṃ patto,"
-msgstr "He has attained the perfection of wisdom,"
+#. </p><p><a class="sc" id="34"></a><a class="vns" id="vns1014"></a><a
+#. class="vnp" id="vnp1015"></a>
 
 #. <br>
 #. VAR: mahāmati → mahāmuni (s2, s3, pts1)
-msgctxt "thag17.2:39.2"
-msgid "mahābuddhi mahāmati;"
-msgstr "so intelligent and thoughtful."
 
 #. <br>
-msgctxt "thag17.2:39.3"
-msgid "Ajaḷo jaḷasamāno,"
-msgstr "He is bright, but seems to be dull;"
 
 #. <br>
-msgctxt "thag17.2:39.4"
-msgid "sadā carati nibbuto."
-msgstr "he always wanders, quenched.”"
 
-#. </p><p><a class="sc" id="36"></a><a class="vns"
-#. id="vns1016"></a><a class="vnp"
-#. id="vnp1016"></a>
-msgctxt "thag17.2:40.1"
-msgid "Pariciṇṇo mayā satthā,"
-msgstr "“I’ve served the teacher"
+#. </p><p><a class="sc" id="35"></a><a class="vns" id="vns1015"></a><a
+#. class="vnp" id="vnp1016"></a>
 
 #. <br>
-msgctxt "thag17.2:40.2"
-msgid "…"
-msgstr "and fulfilled the Buddha’s instructions."
-
-msgctxt "thag17.2:40.3"
-msgid "pe …"
-msgstr "The heavy burden is laid down,"
 
 #. <br>
-msgctxt "thag17.2:40.4"
-msgid "bhavanetti samūhatā."
-msgstr "the attachment to rebirth is eradicated.”"
 
-#. </p><p><a class="sc" id="37"></a><a class="vns"
-#. id="vns1017"></a><a class="vnp"
-#. id="vnp1017"></a>
-msgctxt "thag17.2:41.1"
-msgid "Sampādethappamādena,"
-msgstr "“Persist with diligence:"
+#. </p><p><a class="sc" id="36"></a><a class="vns" id="vns1016"></a><a
+#. class="vnp" id="vnp1017"></a>
 
 #. <br>
-msgctxt "thag17.2:41.2"
-msgid "esā me anusāsanī;"
-msgstr "this is my instruction."
 
 #. <br>
-msgctxt "thag17.2:41.3"
-msgid "Handāhaṃ parinibbissaṃ,"
-msgstr "Come, I’ll realize quenching—"
 
 #. <br>
-msgctxt "thag17.2:41.4"
-msgid "vippamuttomhi sabbadhī”ti."
-msgstr "I am freed in every way.”"
 
 #. </p></blockquote><p class="endsutta">
-msgctxt "thag17.2:42.1"
-msgid "…"
-msgstr ""
 
-msgctxt "thag17.2:42.2"
-msgid "Sāriputto thero …."
-msgstr ""

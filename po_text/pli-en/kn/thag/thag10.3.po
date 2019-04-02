@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag10.3"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag10.3"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag10.3:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,7 @@ msgid "10.3. Mahākappinattheragāthā"
 msgstr "10.3. Mahākappina"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns547"></a><a class="vnp"
-#. id="vnp547"></a>
+#. class="vns" id="vns547"></a><a class="vnp" id="vnp547"></a>
 #. VAR: paṭikacca → paṭigacca (bj, pts1)
 msgctxt "thag10.3:5.1"
 msgid "“Anāgataṃ yo paṭikacca passati,"
@@ -48,9 +46,10 @@ msgctxt "thag10.3:5.4"
 msgid "Randhaṃ na passanti samekkhamānā."
 msgstr "whether enemies or well-wishers, will find none."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns548"></a><a class="vnp" id="vnp548"></a>
-#. VAR: Ānāpānasatī → ānāpānassati (^ps1.3#52 [Ānāpānassatikathā/ Vodānañāṇaniddesa])
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns548"></a><a
+#. class="vnp" id="vnp548"></a>
+#. VAR: Ānāpānasatī → ānāpānassati (^ps1.3#52 [Ānāpānassatikathā/
+#. Vodānañāṇaniddesa])
 msgctxt "thag10.3:6.1"
 msgid "Ānāpānasatī yassa,"
 msgstr "One who has fulfilled, developed,"
@@ -80,8 +79,8 @@ msgctxt "thag10.3:6.6"
 msgid "abbhā muttova candimā."
 msgstr "like the moon freed from a cloud."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns549"></a><a class="vnp" id="vnp549"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns549"></a><a
+#. class="vnp" id="vnp549"></a>
 msgctxt "thag10.3:7.1"
 msgid "Odātaṃ vata me cittaṃ,"
 msgstr "Yes, my mind is clean,"
@@ -101,8 +100,8 @@ msgctxt "thag10.3:7.4"
 msgid "sabbā obhāsate disā."
 msgstr "it radiates in every direction."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns550"></a><a class="vnp" id="vnp550"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns550"></a><a
+#. class="vnp" id="vnp550"></a>
 msgctxt "thag10.3:8.1"
 msgid "Jīvate vāpi sappañño,"
 msgstr "A wise person lives on"
@@ -122,8 +121,8 @@ msgctxt "thag10.3:8.4"
 msgid "vittavāpi na jīvati."
 msgstr "even a rich person doesn’t really live."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns551"></a><a class="vnp" id="vnp551"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns551"></a><a
+#. class="vnp" id="vnp551"></a>
 msgctxt "thag10.3:9.1"
 msgid "Paññā sutavinicchinī,"
 msgstr "Wisdom questions what is learned;"
@@ -143,8 +142,8 @@ msgctxt "thag10.3:9.4"
 msgid "Api dukkhesu sukhāni vindati."
 msgstr "finds happiness even among sufferings."
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns552"></a><a class="vnp" id="vnp552"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns552"></a><a
+#. class="vnp" id="vnp552"></a>
 msgctxt "thag10.3:10.1"
 msgid "Nāyaṃ ajjatano dhammo,"
 msgstr "It’s not a teaching just for today;"
@@ -164,8 +163,8 @@ msgctxt "thag10.3:10.4"
 msgid "tattha kiṃ viya abbhutaṃ."
 msgstr "what’s amazing about that?"
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns553"></a><a class="vnp" id="vnp553"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns553"></a><a
+#. class="vnp" id="vnp553"></a>
 msgctxt "thag10.3:11.1"
 msgid "Anantaraṃ hi jātassa,"
 msgstr "For anyone who is born,"
@@ -185,8 +184,8 @@ msgctxt "thag10.3:11.4"
 msgid "evaṃdhammā hi pāṇino."
 msgstr "such is the nature of living creatures."
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns554"></a><a class="vnp" id="vnp554"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns554"></a><a
+#. class="vnp" id="vnp554"></a>
 msgctxt "thag10.3:12.1"
 msgid "Na hetadatthāya matassa hoti,"
 msgstr "The things that are useful for the living"
@@ -206,8 +205,8 @@ msgctxt "thag10.3:12.4"
 msgid "Na vaṇṇitaṃ samaṇabrāhmaṇehi."
 msgstr "For the dead, there is only weeping."
 
-#. </p><p><a class="sc" id="9"></a><a class="vns"
-#. id="vns555"></a><a class="vnp" id="vnp555"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns" id="vns555"></a><a
+#. class="vnp" id="vnp555"></a>
 #. VAR: upahanti tena → upahanti ruṇṇaṃ (bj) | upahanti roṇṇaṃ (s2, s3, pts1-2)
 msgctxt "thag10.3:13.1"
 msgid "Cakkhuṃ sarīraṃ upahanti tena,"
@@ -228,9 +227,8 @@ msgctxt "thag10.3:13.4"
 msgid "Hitesino nāssa sukhī bhavanti."
 msgstr "but your well-wishers are not happy."
 
-#. </p><p><a class="sc" id="10"></a><a class="vns"
-#. id="vns556"></a><a class="vnp"
-#. id="vnp556"></a><a class="pts" id="pts59"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns" id="vns556"></a><a
+#. class="vnp" id="vnp556"></a><a class="pts" id="pts59"></a>
 msgctxt "thag10.3:14.1"
 msgid "Tasmā hi iccheyya kule vasante,"
 msgstr "So you should wish that those who stay in your family"

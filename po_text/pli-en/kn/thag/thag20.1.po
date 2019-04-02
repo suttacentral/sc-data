@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag20.1"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag20.1"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag20.1:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,8 @@ msgid "20.1. Mahāmoggallānattheragāthā"
 msgstr "20.1. Mahāmoggallāna"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns1150"></a><a class="vnp"
-#. id="vnp1146"></a><a class="pts" id="pts104"></a>
+#. class="vns" id="vns1149"></a><a class="vnp" id="vnp1146"></a><a class="pts"
+#. id="pts104"></a>
 msgctxt "thag20.1:5.1"
 msgid "“Āraññikā piṇḍapātikā,"
 msgstr "“Living in the wilderness, eating only alms-food,"
@@ -47,9 +46,8 @@ msgctxt "thag20.1:5.4"
 msgid "ajjhattaṃ susamāhitā."
 msgstr "while remaining serene within."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns1151"></a><a class="vnp"
-#. id="vnp1147"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns1150"></a><a
+#. class="vnp" id="vnp1147"></a>
 msgctxt "thag20.1:6.1"
 msgid "Āraññikā piṇḍapātikā,"
 msgstr "Living in the wilderness, eating only alms-food,"
@@ -69,9 +67,8 @@ msgctxt "thag20.1:6.4"
 msgid "naḷāgāraṃva kuñjaro."
 msgstr "as an elephant a hut of reeds."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns1152"></a><a class="vnp"
-#. id="vnp1148"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns1151"></a><a
+#. class="vnp" id="vnp1148"></a>
 msgctxt "thag20.1:7.1"
 msgid "Rukkhamūlikā sātatikā,"
 msgstr "Living at the foot of a tree, persistent,"
@@ -91,9 +88,8 @@ msgctxt "thag20.1:7.4"
 msgid "ajjhattaṃ susamāhitā."
 msgstr "while remaining serene within."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns1153"></a><a class="vnp"
-#. id="vnp1149"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns1152"></a><a
+#. class="vnp" id="vnp1149"></a>
 msgctxt "thag20.1:8.1"
 msgid "Rukkhamūlikā sātatikā,"
 msgstr "Living at the foot of a tree, persistent,"
@@ -113,9 +109,8 @@ msgctxt "thag20.1:8.4"
 msgid "naḷāgāraṃva kuñjaro”."
 msgstr "as an elephant a hut of reeds.”"
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns1154"></a><a class="vnp"
-#. id="vnp1150"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns1153"></a><a
+#. class="vnp" id="vnp1150"></a>
 msgctxt "thag20.1:9.1"
 msgid "“Aṭṭhikaṅkalakuṭike,"
 msgstr "“You little hut, made of a chain of bones,"
@@ -135,9 +130,8 @@ msgctxt "thag20.1:9.4"
 msgid "paragatte mamāyase."
 msgstr "you cherish the parts of others!"
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns1155"></a><a class="vnp"
-#. id="vnp1151"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns1154"></a><a
+#. class="vnp" id="vnp1151"></a>
 msgctxt "thag20.1:10.1"
 msgid "Gūthabhaste taconaddhe,"
 msgstr "You sack of dung wrapped up in skin!"
@@ -157,17 +151,17 @@ msgctxt "thag20.1:10.4"
 msgid "yāni sandanti sabbadā."
 msgstr "that are flowing all the time."
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns1156"></a><a class="vnp"
-#. id="vnp1152"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns1155"></a><a
+#. class="vnp" id="vnp1152"></a>
 msgctxt "thag20.1:11.1"
 msgid "Tava sarīraṃ navasotaṃ,"
 msgstr "With its nine streams,"
 
 #. <br>
 #. VAR: Duggandhakaraṃ → duggandhakaṃ (s2, s3) | duggandhaṃ (pts1)
+#. VAR: paribandhaṃ → parivajjeyya (s2, s3) | kariparibandha (pts1)
 msgctxt "thag20.1:11.2"
-msgid "Duggandhakaraṃ <span class=\"var\" title=\"parivajjeyya (s2, s3) | kariparibandha (pts1)\" id=\"note492\">paribandhaṃ</span>;"
+msgid "Duggandhakaraṃ paribandhaṃ;"
 msgstr "your body stinks, full of dung."
 
 #. <br>
@@ -180,9 +174,8 @@ msgctxt "thag20.1:11.4"
 msgid "Mīḷhaṃ ca yathā sucikāmo."
 msgstr "would avoid it like excrement."
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns1157"></a><a class="vnp"
-#. id="vnp1153"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns1156"></a><a
+#. class="vnp" id="vnp1153"></a>
 msgctxt "thag20.1:12.1"
 msgid "Evañce taṃ jano jaññā,"
 msgstr "If they knew you"
@@ -202,9 +195,8 @@ msgctxt "thag20.1:12.4"
 msgid "gūthaṭṭhānaṃva pāvuse”."
 msgstr "like a cesspit in the rain.”"
 
-#. </p><p><a class="sc" id="9"></a><a class="vns"
-#. id="vns1158"></a><a class="vnp"
-#. id="vnp1154"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns" id="vns1157"></a><a
+#. class="vnp" id="vnp1154"></a>
 msgctxt "thag20.1:13.1"
 msgid "“Evametaṃ mahāvīra,"
 msgstr "“So it is, great hero!"
@@ -224,9 +216,8 @@ msgctxt "thag20.1:13.4"
 msgid "paṅkamhiva jaraggavo”."
 msgstr "like an old bull stuck in a bog.”"
 
-#. </p><p><a class="sc" id="10"></a><a class="vns"
-#. id="vns1159"></a><a class="vnp"
-#. id="vnp1155"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns" id="vns1158"></a><a
+#. class="vnp" id="vnp1155"></a>
 msgctxt "thag20.1:14.1"
 msgid "“Ākāsamhi haliddiyā,"
 msgstr "“Whoever might think"
@@ -246,9 +237,8 @@ msgctxt "thag20.1:14.4"
 msgid "vighātudayameva taṃ."
 msgstr "would only trouble themselves."
 
-#. </p><p><a class="sc" id="11"></a><a class="vns"
-#. id="vns1160"></a><a class="vnp"
-#. id="vnp1156"></a>
+#. </p><p><a class="sc" id="11"></a><a class="vns" id="vns1159"></a><a
+#. class="vnp" id="vnp1156"></a>
 msgctxt "thag20.1:15.1"
 msgid "Tadākāsasamaṃ cittaṃ,"
 msgstr "This mind is like the sky:"
@@ -269,9 +259,8 @@ msgctxt "thag20.1:15.4"
 msgid "aggikhandhaṃva pakkhimā”."
 msgstr "you’ll end up like a moth in a bonfire.”"
 
-#. </p><p><a class="sc" id="12"></a><a class="vns"
-#. id="vns1161"></a><a class="vnp"
-#. id="vnp1157"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns" id="vns1160"></a><a
+#. class="vnp" id="vnp1157"></a>
 msgctxt "thag20.1:16.1"
 msgid "“Passa cittakataṃ bimbaṃ,"
 msgstr "“See this fancy puppet,"
@@ -291,8 +280,7 @@ msgctxt "thag20.1:16.4"
 msgid "yassa natthi dhuvaṃ ṭhiti."
 msgstr "which doesn’t last at all."
 
-#. </p><p><a class="sc" id="13"></a><a class="vns"
-#. id="vns1162"></a>
+#. </p><p><a class="sc" id="13"></a><a class="vns" id="vns1161"></a>
 msgctxt "thag20.1:17.1"
 msgid "Passa cittakataṃ rūpaṃ,"
 msgstr "See this fancy figure,"
@@ -312,8 +300,7 @@ msgctxt "thag20.1:17.4"
 msgid "saha vatthehi sobhati."
 msgstr "made pretty by its clothes."
 
-#. </p><p><a class="sc" id="14"></a><a class="vns"
-#. id="vns1163"></a>
+#. </p><p><a class="sc" id="14"></a><a class="vns" id="vns1162"></a>
 msgctxt "thag20.1:18.1"
 msgid "Alattakakatā pādā,"
 msgstr "Rouged feet"
@@ -333,8 +320,7 @@ msgctxt "thag20.1:18.4"
 msgid "no ca pāragavesino."
 msgstr "but not a seeker of the far shore."
 
-#. </p><p><a class="sc" id="15"></a><a class="vns"
-#. id="vns1164"></a>
+#. </p><p><a class="sc" id="15"></a><a class="vns" id="vns1163"></a>
 msgctxt "thag20.1:19.1"
 msgid "Aṭṭhapadakatā kesā,"
 msgstr "Hair in eight braids"
@@ -354,8 +340,7 @@ msgctxt "thag20.1:19.4"
 msgid "no ca pāragavesino."
 msgstr "but not a seeker of the far shore."
 
-#. </p><p><a class="sc" id="16"></a><a class="vns"
-#. id="vns1165"></a>
+#. </p><p><a class="sc" id="16"></a><a class="vns" id="vns1164"></a>
 msgctxt "thag20.1:20.1"
 msgid "Añjanīva navā cittā,"
 msgstr "A rotting body all adorned"
@@ -375,8 +360,7 @@ msgctxt "thag20.1:20.4"
 msgid "no ca pāragavesino."
 msgstr "but not a seeker of the far shore."
 
-#. </p><p><a class="sc" id="17"></a><a class="vns"
-#. id="vns1166"></a>
+#. </p><p><a class="sc" id="17"></a><a class="vns" id="vns1165"></a>
 msgctxt "thag20.1:21.1"
 msgid "Odahi migavo pāsaṃ,"
 msgstr "The hunter laid his snare,"
@@ -396,8 +380,7 @@ msgctxt "thag20.1:21.4"
 msgid "kaddante migabandhake."
 msgstr "leaving the trapper to lament."
 
-#. </p><p><a class="sc" id="18"></a><a class="vns"
-#. id="vns1167"></a>
+#. </p><p><a class="sc" id="18"></a><a class="vns" id="vns1166"></a>
 msgctxt "thag20.1:22.1"
 msgid "Chinno pāso migavassa,"
 msgstr "The hunter’s trap is broken,"
@@ -417,9 +400,8 @@ msgctxt "thag20.1:22.4"
 msgid "socante migaluddake”."
 msgstr "leaving the deer-hunter to grieve.”"
 
-#. </p><p><a class="sc" id="19"></a><a class="vns"
-#. id="vns1168"></a><a class="vnp"
-#. id="vnp1158"></a>
+#. </p><p><a class="sc" id="19"></a><a class="vns" id="vns1167"></a><a
+#. class="vnp" id="vnp1158"></a>
 msgctxt "thag20.1:23.1"
 msgid "“Tadāsi yaṃ bhiṃsanakaṃ,"
 msgstr "“Then there was terror!"
@@ -439,9 +421,8 @@ msgctxt "thag20.1:23.4"
 msgid "sāriputtamhi nibbute."
 msgstr "became quenched."
 
-#. </p><p><a class="sc" id="20"></a><a class="vns"
-#. id="vns1169"></a><a class="vnp"
-#. id="vnp1159"></a><a class="pts" id="pts105"></a>
+#. </p><p><a class="sc" id="20"></a><a class="vns" id="vns1168"></a><a
+#. class="vnp" id="vnp1159"></a><a class="pts" id="pts105"></a>
 msgctxt "thag20.1:24.1"
 msgid "Aniccā vata saṅkhārā,"
 msgstr "Oh! Conditions are impermanent,"
@@ -461,9 +442,8 @@ msgctxt "thag20.1:24.4"
 msgid "tesaṃ vūpasamo sukho."
 msgstr "their stilling is true bliss.”"
 
-#. </p><p><a class="sc" id="21"></a><a class="vns"
-#. id="vns1170"></a><a class="vnp"
-#. id="vnp1160"></a>
+#. </p><p><a class="sc" id="21"></a><a class="vns" id="vns1169"></a><a
+#. class="vnp" id="vnp1160"></a>
 msgctxt "thag20.1:25.1"
 msgid "Sukhumaṃ te paṭivijjhanti,"
 msgstr "“Those who see the five aggregates"
@@ -483,9 +463,8 @@ msgctxt "thag20.1:25.4"
 msgid "parato no ca attato."
 msgstr "like a hair-tip with an arrow."
 
-#. </p><p><a class="sc" id="22"></a><a class="vns"
-#. id="vns1171"></a><a class="vnp"
-#. id="vnp1161"></a>
+#. </p><p><a class="sc" id="22"></a><a class="vns" id="vns1170"></a><a
+#. class="vnp" id="vnp1161"></a>
 msgctxt "thag20.1:26.1"
 msgid "Ye ca passanti saṅkhāre,"
 msgstr "Those who see conditions"
@@ -505,9 +484,8 @@ msgctxt "thag20.1:26.4"
 msgid "vālaggaṃ usunā yathā."
 msgstr "like a hair-tip with an arrow.”"
 
-#. </p><p><a class="sc" id="23"></a><a class="vns"
-#. id="vns1172"></a><a class="vnp"
-#. id="vnp1162"></a>
+#. </p><p><a class="sc" id="23"></a><a class="vns" id="vns1171"></a><a
+#. class="vnp" id="vnp1162"></a>
 msgctxt "thag20.1:27.1"
 msgid "Sattiyā viya omaṭṭho,"
 msgstr "“Like they’re struck by a sword,"
@@ -527,9 +505,8 @@ msgctxt "thag20.1:27.4"
 msgid "sato bhikkhu paribbaje."
 msgstr "to give up sensual desire."
 
-#. </p><p><a class="sc" id="24"></a><a class="vns"
-#. id="vns1173"></a><a class="vnp"
-#. id="vnp1163"></a>
+#. </p><p><a class="sc" id="24"></a><a class="vns" id="vns1172"></a><a
+#. class="vnp" id="vnp1163"></a>
 msgctxt "thag20.1:28.1"
 msgid "Sattiyā viya omaṭṭho,"
 msgstr "Like they’re struck by a sword,"
@@ -549,9 +526,8 @@ msgctxt "thag20.1:28.4"
 msgid "sato bhikkhu paribbaje."
 msgstr "to give up desire for rebirth.”"
 
-#. </p><p><a class="sc" id="25"></a><a class="vns"
-#. id="vns1174"></a><a class="vnp"
-#. id="vnp1164"></a>
+#. </p><p><a class="sc" id="25"></a><a class="vns" id="vns1173"></a><a
+#. class="vnp" id="vnp1164"></a>
 msgctxt "thag20.1:29.1"
 msgid "Codito bhāvitattena,"
 msgstr "“Encouraged by the developed one,"
@@ -571,9 +547,8 @@ msgctxt "thag20.1:29.4"
 msgid "pādaṅguṭṭhena kampayiṃ."
 msgstr "with my big toe.”"
 
-#. </p><p><a class="sc" id="26"></a><a class="vns"
-#. id="vns1175"></a><a class="vnp"
-#. id="vnp1165"></a>
+#. </p><p><a class="sc" id="26"></a><a class="vns" id="vns1174"></a><a
+#. class="vnp" id="vnp1165"></a>
 msgctxt "thag20.1:30.1"
 msgid "Nayidaṃ sithilamārabbha,"
 msgstr "“Not by being slack,"
@@ -593,9 +568,8 @@ msgctxt "thag20.1:30.4"
 msgid "sabbaganthapamocanaṃ."
 msgstr "the release from all ties.”"
 
-#. </p><p><a class="sc" id="27"></a><a class="vns"
-#. id="vns1176"></a><a class="vnp"
-#. id="vnp1166"></a>
+#. </p><p><a class="sc" id="27"></a><a class="vns" id="vns1175"></a><a
+#. class="vnp" id="vnp1166"></a>
 msgctxt "thag20.1:31.1"
 msgid "Ayañca daharo bhikkhu,"
 msgstr "“This young monk,"
@@ -616,9 +590,8 @@ msgctxt "thag20.1:31.4"
 msgid "jetvā māraṃ savāhiniṃ."
 msgstr "having vanquished Māra and his mount.”"
 
-#. </p><p><a class="sc" id="28"></a><a class="vns"
-#. id="vns1177"></a><a class="vnp"
-#. id="vnp1167"></a>
+#. </p><p><a class="sc" id="28"></a><a class="vns" id="vns1176"></a><a
+#. class="vnp" id="vnp1167"></a>
 msgctxt "thag20.1:32.1"
 msgid "Vivaramanupabhanti vijjutā,"
 msgstr "“Lightning flashes down"
@@ -638,9 +611,8 @@ msgctxt "thag20.1:32.4"
 msgid "Putto appaṭimassa tādino."
 msgstr "the son of the Buddha, inimitable and poised.”"
 
-#. </p><p><a class="sc" id="29"></a><a class="vns"
-#. id="vns1178"></a><a class="vnp"
-#. id="vnp1168"></a>
+#. </p><p><a class="sc" id="29"></a><a class="vns" id="vns1177"></a><a
+#. class="vnp" id="vnp1168"></a>
 msgctxt "thag20.1:33.1"
 msgid "Upasanto uparato,"
 msgstr "“Calm and quiet,"
@@ -660,9 +632,8 @@ msgctxt "thag20.1:33.4"
 msgid "brahmunā abhivandito”."
 msgstr "is honored even by Brahmā."
 
-#. </p><p><a class="sc" id="30"></a><a class="vns"
-#. id="vns1179"></a><a class="vnp"
-#. id="vnp1169"></a>
+#. </p><p><a class="sc" id="30"></a><a class="vns" id="vns1178"></a><a
+#. class="vnp" id="vnp1169"></a>
 msgctxt "thag20.1:34.1"
 msgid "“Upasantaṃ uparataṃ,"
 msgstr "Calm and quiet,"
@@ -682,9 +653,8 @@ msgctxt "thag20.1:34.4"
 msgid "vanda brāhmaṇa kassapaṃ."
 msgstr "Brahmin, you should honor Kassapa!"
 
-#. </p><p><a class="sc" id="31"></a><a class="vns"
-#. id="vns1180"></a><a class="vnp"
-#. id="vnp1170"></a>
+#. </p><p><a class="sc" id="31"></a><a class="vns" id="vns1179"></a><a
+#. class="vnp" id="vnp1170"></a>
 msgctxt "thag20.1:35.1"
 msgid "Yo ca jātisataṃ gacche,"
 msgstr "Even if someone were to be born again and again"
@@ -704,9 +674,8 @@ msgctxt "thag20.1:35.4"
 msgid "manussesu punappunaṃ."
 msgstr "a student accomplished in the Vedas;"
 
-#. </p><p><a class="sc" id="32"></a><a class="vns"
-#. id="vns1181"></a><a class="vnp"
-#. id="vnp1171"></a>
+#. </p><p><a class="sc" id="32"></a><a class="vns" id="vns1180"></a><a
+#. class="vnp" id="vnp1171"></a>
 msgctxt "thag20.1:36.1"
 msgid "Ajjhāyakopi ce assa,"
 msgstr "and if he were to become a reciter,"
@@ -727,9 +696,8 @@ msgctxt "thag20.1:36.4"
 msgid "kalaṃ nāgghati soḷasiṃ."
 msgstr "isn’t worth a sixteenth of that."
 
-#. </p><p><a class="sc" id="33"></a><a class="vns"
-#. id="vns1182"></a><a class="vnp"
-#. id="vnp1172"></a>
+#. </p><p><a class="sc" id="33"></a><a class="vns" id="vns1181"></a><a
+#. class="vnp" id="vnp1172"></a>
 msgctxt "thag20.1:37.1"
 msgid "Yo so aṭṭha vimokkhāni,"
 msgstr "One who attains the eight emancipations"
@@ -750,9 +718,8 @@ msgctxt "thag20.1:37.4"
 msgid "tato piṇḍāya gacchati."
 msgstr "and then goes on alms-round—"
 
-#. </p><p><a class="sc" id="34"></a><a class="vns"
-#. id="vns1183"></a><a class="vnp"
-#. id="vnp1173"></a>
+#. </p><p><a class="sc" id="34"></a><a class="vns" id="vns1182"></a><a
+#. class="vnp" id="vnp1173"></a>
 #. VAR: māsādi → mā hani (bj) | māhari (pts1)
 msgctxt "thag20.1:38.1"
 msgid "Tādisaṃ bhikkhuṃ māsādi,"
@@ -783,9 +750,8 @@ msgctxt "thag20.1:38.6"
 msgid "mā te vijaṭi matthakaṃ”."
 msgstr "don’t let your head explode!”"
 
-#. </p><p><a class="sc" id="35"></a><a class="vns"
-#. id="vns1184"></a><a class="vnp"
-#. id="vnp1174"></a>
+#. </p><p><a class="sc" id="35"></a><a class="vns" id="vns1183"></a><a
+#. class="vnp" id="vnp1174"></a>
 msgctxt "thag20.1:39.1"
 msgid "“Neso passati saddhammaṃ,"
 msgstr "“If you prioritize transmigration,"
@@ -806,9 +772,8 @@ msgctxt "thag20.1:39.4"
 msgid "kummaggamanudhāvati."
 msgstr "a bad path that will lead you down."
 
-#. </p><p><a class="sc" id="36"></a><a class="vns"
-#. id="vns1185"></a><a class="vnp"
-#. id="vnp1175"></a>
+#. </p><p><a class="sc" id="36"></a><a class="vns" id="vns1184"></a><a
+#. class="vnp" id="vnp1175"></a>
 msgctxt "thag20.1:40.1"
 msgid "Kimīva mīḷhasallitto,"
 msgstr "Like a worm smeared with dung,"
@@ -828,9 +793,8 @@ msgctxt "thag20.1:40.4"
 msgid "tuccho gacchati poṭṭhilo”."
 msgstr "Poṭṭhila goes on, hollow.”"
 
-#. </p><p><a class="sc" id="37"></a><a class="vns"
-#. id="vns1186"></a><a class="vnp"
-#. id="vnp1176"></a>
+#. </p><p><a class="sc" id="37"></a><a class="vns" id="vns1185"></a><a
+#. class="vnp" id="vnp1176"></a>
 msgctxt "thag20.1:41.1"
 msgid "“Imañca passa āyantaṃ,"
 msgstr "“See Sāriputta coming!"
@@ -850,9 +814,8 @@ msgctxt "thag20.1:41.4"
 msgid "ajjhattaṃ susamāhitaṃ."
 msgstr "serene inside himself;"
 
-#. </p><p><a class="sc" id="38"></a><a class="vns"
-#. id="vns1187"></a><a class="vnp"
-#. id="vnp1177"></a><a class="pts" id="pts106"></a>
+#. </p><p><a class="sc" id="38"></a><a class="vns" id="vns1186"></a><a
+#. class="vnp" id="vnp1177"></a><a class="pts" id="pts106"></a>
 msgctxt "thag20.1:42.1"
 msgid "Visallaṃ khīṇasaṃyogaṃ,"
 msgstr "free of thorns, with fetters ended,"
@@ -872,9 +835,8 @@ msgctxt "thag20.1:42.4"
 msgid "puññakkhettaṃ anuttaraṃ”."
 msgstr "a supreme field of merit for the people.”"
 
-#. </p><p><a class="sc" id="39"></a><a class="vns"
-#. id="vns1188"></a><a class="vnp"
-#. id="vnp1178"></a>
+#. </p><p><a class="sc" id="39"></a><a class="vns" id="vns1187"></a><a
+#. class="vnp" id="vnp1178"></a>
 msgctxt "thag20.1:43.1"
 msgid "“Ete sambahulā devā,"
 msgstr "“These many gods,"
@@ -904,9 +866,8 @@ msgctxt "thag20.1:43.6"
 msgid "tiṭṭhanti pañjalīkatā."
 msgstr "honoring Moggallāna:"
 
-#. </p><p><a class="sc" id="40"></a><a class="vns"
-#. id="vns1189"></a><a class="vnp"
-#. id="vnp1179"></a>
+#. </p><p><a class="sc" id="40"></a><a class="vns" id="vns1188"></a><a
+#. class="vnp" id="vnp1179"></a>
 msgctxt "thag20.1:44.1"
 msgid "‘Namo te purisājañña,"
 msgstr "‘Homage to you, O thoroughbred!"
@@ -926,9 +887,8 @@ msgctxt "thag20.1:44.4"
 msgid "dakkhiṇeyyosi mārisa’."
 msgstr "you, sir, are worthy of teacher’s offerings.”"
 
-#. </p><p><a class="sc" id="41"></a><a class="vns"
-#. id="vns1190"></a><a class="vnp"
-#. id="vnp1180"></a>
+#. </p><p><a class="sc" id="41"></a><a class="vns" id="vns1189"></a><a
+#. class="vnp" id="vnp1180"></a>
 msgctxt "thag20.1:45.1"
 msgid "Pūjito naradevena,"
 msgstr "“Venerated by men and gods,"
@@ -948,9 +908,8 @@ msgctxt "thag20.1:45.4"
 msgid "saṅkhārenupalippati."
 msgstr "as a lotus-flower by water."
 
-#. </p><p><a class="sc" id="42"></a><a class="vns"
-#. id="vns1191"></a><a class="vnp"
-#. id="vnp1181"></a>
+#. </p><p><a class="sc" id="42"></a><a class="vns" id="vns1190"></a><a
+#. class="vnp" id="vnp1181"></a>
 msgctxt "thag20.1:46.1"
 msgid "Yassa muhuttena sahassadhā loko,"
 msgstr "Knowing in an hour the thousand-fold world, together with the Brahmā realm;"
@@ -970,9 +929,8 @@ msgctxt "thag20.1:46.4"
 msgid "Passati devatā sa bhikkhu”."
 msgstr "that mendicant sees the gods in time.”"
 
-#. </p><p><a class="sc" id="43"></a><a class="vns"
-#. id="vns1192"></a><a class="vnp"
-#. id="vnp1182"></a>
+#. </p><p><a class="sc" id="43"></a><a class="vns" id="vns1191"></a><a
+#. class="vnp" id="vnp1182"></a>
 msgctxt "thag20.1:47.1"
 msgid "“Sāriputtova paññāya,"
 msgstr "“Sāriputta, the monk who has crossed over,"
@@ -992,9 +950,8 @@ msgctxt "thag20.1:47.4"
 msgid "etāvaparamo siyā."
 msgstr "ethics, and peace."
 
-#. </p><p><a class="sc" id="44"></a><a class="vns"
-#. id="vns1193"></a><a class="vnp"
-#. id="vnp1183"></a>
+#. </p><p><a class="sc" id="44"></a><a class="vns" id="vns1192"></a><a
+#. class="vnp" id="vnp1183"></a>
 msgctxt "thag20.1:48.1"
 msgid "Koṭisatasahassassa,"
 msgstr "But in a moment I can create the likenesses"
@@ -1014,9 +971,8 @@ msgctxt "thag20.1:48.4"
 msgid "Vasībhūtomhi iddhiyā."
 msgstr "I’m a master of physic powers."
 
-#. </p><p><a class="sc" id="45"></a><a class="vns"
-#. id="vns1194"></a><a class="vnp"
-#. id="vnp1184"></a>
+#. </p><p><a class="sc" id="45"></a><a class="vns" id="vns1193"></a><a
+#. class="vnp" id="vnp1184"></a>
 msgctxt "thag20.1:49.1"
 msgid "Samādhivijjāvasipāramīgato,"
 msgstr "A member of the Moggallāna clan, attained to perfection and mastery"
@@ -1036,9 +992,8 @@ msgctxt "thag20.1:49.4"
 msgid "Nāgo yathā pūtilataṃva bandhanaṃ."
 msgstr "like an elephant bursts a rope of creeper."
 
-#. </p><p><a class="sc" id="46"></a><a class="vns"
-#. id="vns1195"></a><a class="vnp"
-#. id="vnp1185"></a>
+#. </p><p><a class="sc" id="46"></a><a class="vns" id="vns1194"></a><a
+#. class="vnp" id="vnp1185"></a>
 msgctxt "thag20.1:50.1"
 msgid "Pariciṇṇo mayā satthā,"
 msgstr "I’ve served the teacher"
@@ -1058,9 +1013,8 @@ msgctxt "thag20.1:50.4"
 msgid "bhavanetti samūhatā."
 msgstr "the attachment to rebirth is eradicated."
 
-#. </p><p><a class="sc" id="47"></a><a class="vns"
-#. id="vns1196"></a><a class="vnp"
-#. id="vnp1186"></a>
+#. </p><p><a class="sc" id="47"></a><a class="vns" id="vns1195"></a><a
+#. class="vnp" id="vnp1186"></a>
 msgctxt "thag20.1:51.1"
 msgid "Yassa catthāya pabbajito,"
 msgstr "I’ve attained the goal"
@@ -1080,9 +1034,10 @@ msgctxt "thag20.1:51.4"
 msgid "sabbasaṃyojanakkhayo."
 msgstr "the end of all fetters.”"
 
-#. </p><p><a class="sc" id="48"></a>
+#. </p><p><a class="sc" id="48"></a> <a class="vns" id="vns1197"></a><a
+#. class="sc" id="1197"></a><a class="vnp" id="vnp1187"></a>
 msgctxt "thag20.1:52.1"
-msgid "</a><a class=\"sc\" id=\"1197\"></a><a class=\"vnp\" id=\"vnp1187\"></a>Kīdiso nirayo āsi,"
+msgid "Kīdiso nirayo āsi,"
 msgstr "“What kind of hell was that,"
 
 #. <br>
@@ -1100,9 +1055,10 @@ msgctxt "thag20.1:52.4"
 msgid "kakusandhañca brāhmaṇaṃ."
 msgstr "along with the brahmin Kakusandha?"
 
-#. </p><p><a class="sc" id="49"></a>
+#. </p><p><a class="sc" id="49"></a> <a class="vns" id="vns1198"></a><a
+#. class="sc" id="1198"></a><a class="vnp" id="vnp1188"></a>
 msgctxt "thag20.1:53.1"
-msgid "</a><a class=\"sc\" id=\"1198\"></a><a class=\"vnp\" id=\"vnp1188\"></a>Sataṃ āsi ayosaṅkū,"
+msgid "Sataṃ āsi ayosaṅkū,"
 msgstr "There were 100 iron spikes,"
 
 #. <br>
@@ -1130,9 +1086,8 @@ msgctxt "thag20.1:53.6"
 msgid "kakusandhañca brāhmaṇaṃ."
 msgstr "along with the brahmin Kakusandha."
 
-#. </p><p><a class="sc" id="50"></a><a class="vns"
-#. id="vns1199"></a><a class="vnp"
-#. id="vnp1189"></a>
+#. </p><p><a class="sc" id="50"></a><a class="vns" id="vns1198"></a><a
+#. class="vnp" id="vnp1189"></a>
 msgctxt "thag20.1:54.1"
 msgid "Yo etamabhijānāti,"
 msgstr "Dark One, if you attack"
@@ -1152,10 +1107,10 @@ msgctxt "thag20.1:54.4"
 msgid "kaṇha dukkhaṃ nigacchasi."
 msgstr "you’ll fall into suffering."
 
-#. </p><p><a class="sc" id="51"></a><a class="vns"
-#. id="vns1200"></a><a class="vnp"
-#. id="vnp1190"></a><a class="pts" id="pts107"></a>
-#. VAR: Majjhesarasmiṃ → ... sarassa (bj, pts2) | ... sāgarasmiṃ (s2, s3, pts1, mr)
+#. </p><p><a class="sc" id="51"></a><a class="vns" id="vns1199"></a><a
+#. class="vnp" id="vnp1190"></a><a class="pts" id="pts107"></a>
+#. VAR: Majjhesarasmiṃ → ... sarassa (bj, pts2) | ... sāgarasmiṃ (s2, s3, pts1,
+#. mr)
 msgctxt "thag20.1:55.1"
 msgid "Majjhesarasmiṃ tiṭṭhanti,"
 msgstr "There are mansions that last for an eon"
@@ -1185,9 +1140,8 @@ msgctxt "thag20.1:55.6"
 msgid "puthu nānattavaṇṇiyo."
 msgstr "shining in all different colors."
 
-#. </p><p><a class="sc" id="52"></a><a class="vns"
-#. id="vns1201"></a><a class="vnp"
-#. id="vnp1191"></a>
+#. </p><p><a class="sc" id="52"></a><a class="vns" id="vns1200"></a><a
+#. class="vnp" id="vnp1191"></a>
 msgctxt "thag20.1:56.1"
 msgid "Yo etamabhijānāti,"
 msgstr "Dark One, if you attack"
@@ -1206,9 +1160,8 @@ msgctxt "thag20.1:56.4"
 msgid "kaṇha dukkhaṃ nigacchasi."
 msgstr "you’ll fall into suffering."
 
-#. </p><p><a class="sc" id="53"></a><a class="vns"
-#. id="vns1202"></a><a class="vnp"
-#. id="vnp1192"></a>
+#. </p><p><a class="sc" id="53"></a><a class="vns" id="vns1201"></a><a
+#. class="vnp" id="vnp1192"></a>
 msgctxt "thag20.1:57.1"
 msgid "Yo ve buddhena codito,"
 msgstr "I’m the one who, encouraged by the Buddha,"
@@ -1228,9 +1181,8 @@ msgctxt "thag20.1:57.4"
 msgid "pādaṅguṭṭhena kampayi."
 msgstr "as the Saṅgha of mendicants watched."
 
-#. </p><p><a class="sc" id="54"></a><a class="vns"
-#. id="vns1203"></a><a class="vnp"
-#. id="vnp1193"></a>
+#. </p><p><a class="sc" id="54"></a><a class="vns" id="vns1202"></a><a
+#. class="vnp" id="vnp1193"></a>
 msgctxt "thag20.1:58.1"
 msgid "Yo etamabhijānāti,"
 msgstr "Dark One, if you attack"
@@ -1249,9 +1201,8 @@ msgctxt "thag20.1:58.4"
 msgid "kaṇha dukkhaṃ nigacchasi."
 msgstr "you’ll fall into suffering."
 
-#. </p><p><a class="sc" id="55"></a><a class="vns"
-#. id="vns1204"></a><a class="vnp"
-#. id="vnp1194"></a>
+#. </p><p><a class="sc" id="55"></a><a class="vns" id="vns1203"></a><a
+#. class="vnp" id="vnp1194"></a>
 msgctxt "thag20.1:59.1"
 msgid "Yo vejayantapāsādaṃ,"
 msgstr "I’m the one who shook the Palace of Victory"
@@ -1271,9 +1222,8 @@ msgctxt "thag20.1:59.4"
 msgid "saṃvejesi ca devatā."
 msgstr "inspiring deities to awe."
 
-#. </p><p><a class="sc" id="56"></a><a class="vns"
-#. id="vns1205"></a><a class="vnp"
-#. id="vnp1195"></a>
+#. </p><p><a class="sc" id="56"></a><a class="vns" id="vns1204"></a><a
+#. class="vnp" id="vnp1195"></a>
 msgctxt "thag20.1:60.1"
 msgid "Yo etamabhijānāti,"
 msgstr "Dark One, if you attack"
@@ -1292,9 +1242,8 @@ msgctxt "thag20.1:60.4"
 msgid "kaṇha dukkhaṃ nigacchasi."
 msgstr "you’ll fall into suffering."
 
-#. </p><p><a class="sc" id="57"></a><a class="vns"
-#. id="vns1206"></a><a class="vnp"
-#. id="vnp1196"></a>
+#. </p><p><a class="sc" id="57"></a><a class="vns" id="vns1205"></a><a
+#. class="vnp" id="vnp1196"></a>
 msgctxt "thag20.1:61.1"
 msgid "Yo vejayantapāsāde,"
 msgstr "I’m the one who asked Sakka"
@@ -1324,9 +1273,8 @@ msgctxt "thag20.1:61.6"
 msgid "pañhaṃ puṭṭho yathātathaṃ”."
 msgstr "admitted the truth when asked."
 
-#. </p><p><a class="sc" id="58"></a><a class="vns"
-#. id="vns1207"></a><a class="vnp"
-#. id="vnp1197"></a>
+#. </p><p><a class="sc" id="58"></a><a class="vns" id="vns1206"></a><a
+#. class="vnp" id="vnp1197"></a>
 msgctxt "thag20.1:62.1"
 msgid "“Yo etamabhijānāti,"
 msgstr "Dark One, if you attack"
@@ -1345,9 +1293,8 @@ msgctxt "thag20.1:62.4"
 msgid "kaṇha dukkhaṃ nigacchasi."
 msgstr "you’ll fall into suffering."
 
-#. </p><p><a class="sc" id="59"></a><a class="vns"
-#. id="vns1208"></a><a class="vnp"
-#. id="vnp1198"></a>
+#. </p><p><a class="sc" id="59"></a><a class="vns" id="vns1207"></a><a
+#. class="vnp" id="vnp1198"></a>
 msgctxt "thag20.1:63.1"
 msgid "Yo brahmānaṃ paripucchati,"
 msgstr "I’m the one who asked Brahmā"
@@ -1378,9 +1325,8 @@ msgctxt "thag20.1:63.6"
 msgid "Brahmaloke pabhassaraṃ."
 msgstr "transcending the Brahmā realm?’"
 
-#. </p><p><a class="sc" id="60"></a><a class="vns"
-#. id="vns1209"></a><a class="vnp"
-#. id="vnp1199"></a>
+#. </p><p><a class="sc" id="60"></a><a class="vns" id="vns1208"></a><a
+#. class="vnp" id="vnp1199"></a>
 msgctxt "thag20.1:64.1"
 msgid "Tassa brahmā viyākāsi,"
 msgstr "And I’m the one to whom Brahmā"
@@ -1400,9 +1346,8 @@ msgctxt "thag20.1:64.4"
 msgid "yā me diṭṭhi pure ahu."
 msgstr "that I had in the past."
 
-#. </p><p><a class="sc" id="61"></a><a class="vns"
-#. id="vns1210"></a><a class="vnp"
-#. id="vnp1200"></a>
+#. </p><p><a class="sc" id="61"></a><a class="vns" id="vns1209"></a><a
+#. class="vnp" id="vnp1200"></a>
 msgctxt "thag20.1:65.1"
 msgid "Passāmi vītivattantaṃ,"
 msgstr "I see the radiance"
@@ -1422,9 +1367,8 @@ msgctxt "thag20.1:65.4"
 msgid "ahaṃ niccomhi sassato”."
 msgstr "that I am permanent and eternal?’"
 
-#. </p><p><a class="sc" id="62"></a><a class="vns"
-#. id="vns1211"></a><a class="vnp"
-#. id="vnp1201"></a>
+#. </p><p><a class="sc" id="62"></a><a class="vns" id="vns1210"></a><a
+#. class="vnp" id="vnp1201"></a>
 msgctxt "thag20.1:66.1"
 msgid "“Yo etamabhijānāti,"
 msgstr "Dark One, if you attack"
@@ -1443,9 +1387,8 @@ msgctxt "thag20.1:66.4"
 msgid "kaṇha dukkhaṃ nigacchasi."
 msgstr "you’ll fall into suffering."
 
-#. </p><p><a class="sc" id="63"></a><a class="vns"
-#. id="vns1212"></a><a class="vnp"
-#. id="vnp1202"></a>
+#. </p><p><a class="sc" id="63"></a><a class="vns" id="vns1211"></a><a
+#. class="vnp" id="vnp1202"></a>
 msgctxt "thag20.1:67.1"
 msgid "Yo mahāneruno kūṭaṃ,"
 msgstr "I’m the one who has touched the peak of Mount Neru"
@@ -1466,9 +1409,8 @@ msgctxt "thag20.1:67.4"
 msgid "ye ca bhūmisayā narā."
 msgstr "who dwell in the Eastern Continent."
 
-#. </p><p><a class="sc" id="64"></a><a class="vns"
-#. id="vns1213"></a><a class="vnp"
-#. id="vnp1203"></a>
+#. </p><p><a class="sc" id="64"></a><a class="vns" id="vns1212"></a><a
+#. class="vnp" id="vnp1203"></a>
 msgctxt "thag20.1:68.1"
 msgid "Yo etamabhijānāti,"
 msgstr "Dark One, if you attack"
@@ -1488,9 +1430,8 @@ msgctxt "thag20.1:68.4"
 msgid "kaṇha dukkhaṃ nigacchasi."
 msgstr "you’ll fall into suffering."
 
-#. </p><p><a class="sc" id="65"></a><a class="vns"
-#. id="vns1214"></a><a class="vnp"
-#. id="vnp1204"></a>
+#. </p><p><a class="sc" id="65"></a><a class="vns" id="vns1213"></a><a
+#. class="vnp" id="vnp1204"></a>
 msgctxt "thag20.1:69.1"
 msgid "Na ve aggi cetayati,"
 msgstr "Though a fire doesn’t think:"
@@ -1510,9 +1451,8 @@ msgctxt "thag20.1:69.4"
 msgid "āsajja naṃ paḍayhati."
 msgstr "the fire gets burnt."
 
-#. </p><p><a class="sc" id="66"></a><a class="vns"
-#. id="vns1215"></a><a class="vnp"
-#. id="vnp1205"></a>
+#. </p><p><a class="sc" id="66"></a><a class="vns" id="vns1214"></a><a
+#. class="vnp" id="vnp1205"></a>
 #. VAR: Evamevaṃ → evameva (c1)
 msgctxt "thag20.1:70.1"
 msgid "Evamevaṃ tuvaṃ māra,"
@@ -1534,9 +1474,8 @@ msgctxt "thag20.1:70.4"
 msgid "bālo aggiṃva samphusaṃ."
 msgstr "like a fool touching the flames."
 
-#. </p><p><a class="sc" id="67"></a><a class="vns"
-#. id="vns1216"></a><a class="vnp"
-#. id="vnp1206"></a>
+#. </p><p><a class="sc" id="67"></a><a class="vns" id="vns1215"></a><a
+#. class="vnp" id="vnp1206"></a>
 msgctxt "thag20.1:71.1"
 msgid "Apuññaṃ pasavī māro,"
 msgstr "Māra’s done a bad thing"
@@ -1556,10 +1495,10 @@ msgctxt "thag20.1:71.4"
 msgid "na me pāpaṃ vipaccati."
 msgstr "your wickedness won’t bear fruit?"
 
-#. </p><p><a class="sc" id="68"></a><a class="vns"
-#. id="vns1217"></a><a class="vnp"
-#. id="vnp1207"></a>
-#. VAR: Karato te cīyate → karato te miyyate (bj, s2, s3, pts1) | karato cīyate (^mn50#21 [Māratajjanīyasutta])
+#. </p><p><a class="sc" id="68"></a><a class="vns" id="vns1216"></a><a
+#. class="vnp" id="vnp1207"></a>
+#. VAR: Karato te cīyate → karato te miyyate (bj, s2, s3, pts1) | karato cīyate
+#. (^mn50#21 [Māratajjanīyasutta])
 msgctxt "thag20.1:72.1"
 msgid "Karato te cīyate pāpaṃ,"
 msgstr "Your deeds heap up wickedness"
@@ -1579,9 +1518,9 @@ msgctxt "thag20.1:72.4"
 msgid "āsaṃ mākāsi bhikkhusu”."
 msgstr "And give up your hopes for the mendicants!”"
 
-#. </p><p><a class="sc" id="69"></a><a class="vns"
-#. id="vns1218"></a><a class="vnp"
-#. id="vnp1208"></a><a class="pts" id="pts108"></a>
+#. </p><p><a class="sc" id="69"></a><a class="vns" id="vns1217"></a><a
+#. class="vnp" id="vnp1208"></a><a class="pts" id="pts108"></a>
+#. VAR: ti → ... dhāyatīti (s2, s3, pts1)
 msgctxt "thag20.1:73.1"
 msgid "“Iti māraṃ atajjesi,"
 msgstr "“That is how, in the Bhesekaḷā grove,"
@@ -1597,7 +1536,6 @@ msgid "Tato so dummano yakkho,"
 msgstr "That spirit, downcast,"
 
 #. <br>
-#. VAR: ti → ... dhāyatīti (s2, s3, pts1)
 msgctxt "thag20.1:73.4"
 msgid "tatthevantaradhāyathā”ti."
 msgstr "disappeared right there!”"

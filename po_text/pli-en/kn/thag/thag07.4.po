@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag7.4"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag7.4"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag7.4:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,7 @@ msgid "7.4. Sopākattheragāthā"
 msgstr "7.4. Sopāka (2nd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns480"></a><a class="vnp"
-#. id="vnp480"></a>
+#. class="vns" id="vns480"></a><a class="vnp" id="vnp480"></a>
 msgctxt "thag7.4:5.1"
 msgid "“Disvā pāsādachāyāyaṃ,"
 msgstr "I saw the supreme person"
@@ -48,8 +46,8 @@ msgctxt "thag7.4:5.4"
 msgid "vandissaṃ purisuttamaṃ."
 msgstr "and bowed to the supreme among men."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns481"></a><a class="vnp" id="vnp481"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns481"></a><a
+#. class="vnp" id="vnp481"></a>
 msgctxt "thag7.4:6.1"
 msgid "Ekaṃsaṃ cīvaraṃ katvā,"
 msgstr "Arranging my robe over one shoulder"
@@ -70,8 +68,8 @@ msgctxt "thag7.4:6.4"
 msgid "sabbasattānamuttamaṃ."
 msgstr "supreme among all beings."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns482"></a><a class="vnp" id="vnp482"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns482"></a><a
+#. class="vnp" id="vnp482"></a>
 msgctxt "thag7.4:7.1"
 msgid "Tato pañhe apucchi maṃ,"
 msgstr "The wise one, expert in questions,"
@@ -91,8 +89,8 @@ msgctxt "thag7.4:7.4"
 msgid "byākāsiṃ satthuno ahaṃ."
 msgstr "I answered the teacher."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns483"></a><a class="vnp" id="vnp483"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns483"></a><a
+#. class="vnp" id="vnp483"></a>
 msgctxt "thag7.4:8.1"
 msgid "Vissajjitesu pañhesu,"
 msgstr "When all his questions were answered,"
@@ -112,9 +110,10 @@ msgctxt "thag7.4:8.4"
 msgid "imamatthaṃ abhāsatha."
 msgstr "he said the following:"
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns484"></a><a class="vnp" id="vnp484"></a>
-#. VAR: aṅgānaṃ magadhānaṃ → aṅgānamagadhānaṃ (bj, pts1) | aṅgamagadhānaṃ (s2, s3, pts2)
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns484"></a><a
+#. class="vnp" id="vnp484"></a>
+#. VAR: aṅgānaṃ magadhānaṃ → aṅgānamagadhānaṃ (bj, pts1) | aṅgamagadhānaṃ (s2,
+#. s3, pts2)
 msgctxt "thag7.4:9.1"
 msgid "‘Lābhā aṅgānaṃ magadhānaṃ,"
 msgstr "“It is a blessing for the people of Aṅga and Magadha"
@@ -144,8 +143,8 @@ msgctxt "thag7.4:9.6"
 msgid "Tesaṃ lābhāti cābravi."
 msgstr "it’s a blessing for them,” he declared."
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns485"></a><a class="vnp" id="vnp485"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns485"></a><a
+#. class="vnp" id="vnp485"></a>
 msgctxt "thag7.4:10.1"
 msgid "Ajjatagge maṃ sopāka,"
 msgstr "“Sopāka, from this day on"
@@ -165,8 +164,8 @@ msgctxt "thag7.4:10.4"
 msgid "bhavatu upasampadā’."
 msgstr "be your ordination.”"
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns486"></a><a class="vnp" id="vnp486"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns486"></a><a
+#. class="vnp" id="vnp486"></a>
 msgctxt "thag7.4:11.1"
 msgid "Jātiyā sattavassohaṃ,"
 msgstr "At seven years old"

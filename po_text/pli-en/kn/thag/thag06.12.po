@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag6.12"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag6.12"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag6.12:1.1"
 msgid "Theragāthā"
@@ -25,9 +24,10 @@ msgctxt "thag6.12:4.1"
 msgid "6.12. Brahmadattattheragāthā"
 msgstr "6.12. Brahmadatta"
 
-#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a
+#. class="vns" id="vns441"></a><a class="vnp" id="vnp441"></a>
 msgctxt "thag6.12:5.1"
-msgid "<a class=\"vns\" id=\"vns441\"></a><a class=\"vnp\" id=\"vnp441\"></a>“Akkodhassa kuto kodho,"
+msgid "“Akkodhassa kuto kodho,"
 msgstr "For one free of anger, tamed, living in balance,"
 
 #. <br>
@@ -45,9 +45,10 @@ msgctxt "thag6.12:5.4"
 msgid "upasantassa tādino."
 msgstr "where would anger come from?"
 
-#. </p><p><a class="sc" id="2"></a>
+#. </p><p><a class="sc" id="2"></a> <a class="vns" id="vns442"></a><a
+#. class="vnp" id="vnp442"></a><a class="pts" id="pts47"></a>
 msgctxt "thag6.12:6.1"
-msgid "<a class=\"vns\" id=\"vns442\"></a><a class=\"vnp\" id=\"vnp442\"></a><a class=\"pts\" id=\"pts47\"></a>Tasseva tena pāpiyo,"
+msgid "Tasseva tena pāpiyo,"
 msgstr "When you get angry at an angry person"
 
 #. <br>
@@ -65,8 +66,8 @@ msgctxt "thag6.12:6.4"
 msgid "saṅgāmaṃ jeti dujjayaṃ."
 msgstr "you win a battle hard to win."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns443"></a><a class="vnp" id="vnp443"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns443"></a><a
+#. class="vnp" id="vnp443"></a>
 msgctxt "thag6.12:7.1"
 msgid "Ubhinnamatthaṃ carati,"
 msgstr "When you know that the other is angry,"
@@ -86,8 +87,8 @@ msgctxt "thag6.12:7.4"
 msgid "yo sato upasammati."
 msgstr "if you’re mindful and stay calm."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns444"></a><a class="vnp" id="vnp444"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns444"></a><a
+#. class="vnp" id="vnp444"></a>
 msgctxt "thag6.12:8.1"
 msgid "Ubhinnaṃ tikicchantaṃ taṃ,"
 msgstr "People unfamiliar with the teaching"
@@ -107,8 +108,8 @@ msgctxt "thag6.12:8.4"
 msgid "ye dhammassa akovidā."
 msgstr "to be a fool."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns445"></a><a class="vnp" id="vnp445"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns445"></a><a
+#. class="vnp" id="vnp445"></a>
 #. VAR: Uppajje te → uppajjate (s2, s3, pts1)
 msgctxt "thag6.12:9.1"
 msgid "Uppajje te sace kodho,"
@@ -129,8 +130,8 @@ msgctxt "thag6.12:9.4"
 msgid "puttamaṃsūpamaṃ sara."
 msgstr "remember the simile of the child’s flesh."
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns446"></a><a class="vnp" id="vnp446"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns446"></a><a
+#. class="vnp" id="vnp446"></a>
 msgctxt "thag6.12:10.1"
 msgid "Sace dhāvati cittaṃ te,"
 msgstr "If your mind runs off"

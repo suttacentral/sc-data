@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag17.1"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag17.1"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag17.1:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,8 @@ msgid "17.1. Phussattheragāthā"
 msgstr "17.1. Phussa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns949"></a><a class="vnp"
-#. id="vnp949"></a><a class="pts" id="pts87"></a>
+#. class="vns" id="vns949"></a><a class="vnp" id="vnp949"></a><a class="pts"
+#. id="pts87"></a>
 msgctxt "thag17.1:5.1"
 msgid "Pāsādike bahū disvā,"
 msgstr "Seeing many who inspire confidence,"
@@ -48,8 +47,8 @@ msgctxt "thag17.1:5.4"
 msgid "apucchi phussasavhayaṃ."
 msgstr "asked the one known as Phussa:"
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns950"></a><a class="vnp" id="vnp950"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns950"></a><a
+#. class="vnp" id="vnp950"></a>
 msgctxt "thag17.1:6.1"
 msgid "“Kiṃchandā kimadhippāyā,"
 msgstr "“In future times,"
@@ -69,8 +68,8 @@ msgctxt "thag17.1:6.4"
 msgid "taṃ me akkhāhi pucchito”."
 msgstr "Please answer my question.”"
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns951"></a><a class="vnp" id="vnp951"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns951"></a><a
+#. class="vnp" id="vnp951"></a>
 msgctxt "thag17.1:7.1"
 msgid "“Suṇohi vacanaṃ mayhaṃ,"
 msgstr "“Listen to my words,"
@@ -90,8 +89,8 @@ msgctxt "thag17.1:7.4"
 msgid "ācikkhissāmyanāgataṃ."
 msgstr "I will describe the future."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns952"></a><a class="vnp" id="vnp952"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns952"></a><a
+#. class="vnp" id="vnp952"></a>
 msgctxt "thag17.1:8.1"
 msgid "Kodhanā upanāhī ca,"
 msgstr "In the future many will be"
@@ -111,8 +110,8 @@ msgctxt "thag17.1:8.4"
 msgid "bhavissanti anāgate."
 msgstr "envious, holding divergent views."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns953"></a><a class="vnp" id="vnp953"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns953"></a><a
+#. class="vnp" id="vnp953"></a>
 msgctxt "thag17.1:9.1"
 msgid "Aññātamānino dhamme,"
 msgstr "Imagining they understand the depths of the teaching,"
@@ -132,8 +131,8 @@ msgctxt "thag17.1:9.4"
 msgid "aññamaññamagāravā."
 msgstr "they lack respect for one another."
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns954"></a><a class="vnp" id="vnp954"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns954"></a><a
+#. class="vnp" id="vnp954"></a>
 msgctxt "thag17.1:10.1"
 msgid "Bahū ādīnavā loke,"
 msgstr "In the future"
@@ -149,18 +148,18 @@ msgid "Sudesitaṃ imaṃ dhammaṃ,"
 msgstr "Idiots will defile"
 
 #. <br>
-#. VAR: kilesessanti → kilesissanti (bj, pts2) | kilisissanti (s2, s3, pts1, mr)
+#. VAR: kilesessanti → kilesissanti (bj, pts2) | kilisissanti (s2, s3, pts1,
+#. mr)
 msgctxt "thag17.1:10.4"
 msgid "kilesessanti dummatī."
 msgstr "the Dhamma that was taught so well."
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns955"></a><a class="vnp" id="vnp955"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns955"></a><a
+#. class="vnp" id="vnp955"></a>
 msgctxt "thag17.1:11.1"
 msgid "Guṇahīnāpi saṃghamhi,"
 msgstr "Though bereft of good qualities,"
 
-# There is no need to amend visarada as per Norman. Normally one is visarada—fearlessly self-assured—when the basis is there. But these have no basis, so the same quality is a flaw.
 #. <br>
 #. VAR: voharantā → voharanti (pts1)
 msgctxt "thag17.1:11.2"
@@ -177,8 +176,8 @@ msgctxt "thag17.1:11.4"
 msgid "mukharā assutāvino."
 msgstr "in running Saṅgha proceedings."
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns956"></a><a class="vnp" id="vnp956"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns956"></a><a
+#. class="vnp" id="vnp956"></a>
 msgctxt "thag17.1:12.1"
 msgid "Guṇavantopi saṃghamhi,"
 msgstr "Though possessing good qualities,"
@@ -198,8 +197,8 @@ msgctxt "thag17.1:12.4"
 msgid "hirīmanā anatthikā."
 msgstr "in running Saṅgha proceedings."
 
-#. </p><p><a class="sc" id="9"></a><a class="vns"
-#. id="vns957"></a><a class="vnp" id="vnp957"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns" id="vns957"></a><a
+#. class="vnp" id="vnp957"></a>
 msgctxt "thag17.1:13.1"
 msgid "Rajataṃ jātarūpañca,"
 msgstr "In the future, fools will accept"
@@ -219,8 +218,8 @@ msgctxt "thag17.1:13.4"
 msgid "sādiyissantyanāgate."
 msgstr "and bonded servants, male and female."
 
-#. </p><p><a class="sc" id="10"></a><a class="vns"
-#. id="vns958"></a><a class="vnp" id="vnp958"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns" id="vns958"></a><a
+#. class="vnp" id="vnp958"></a>
 msgctxt "thag17.1:14.1"
 msgid "Ujjhānasaññino bālā,"
 msgstr "Fools looking for fault in others,"
@@ -240,8 +239,8 @@ msgctxt "thag17.1:14.4"
 msgid "kalahābhiratā magā."
 msgstr "like cantankerous beasts."
 
-#. </p><p><a class="sc" id="11"></a><a class="vns"
-#. id="vns959"></a><a class="vnp" id="vnp959"></a>
+#. </p><p><a class="sc" id="11"></a><a class="vns" id="vns959"></a><a
+#. class="vnp" id="vnp959"></a>
 msgctxt "thag17.1:15.1"
 msgid "Uddhatā ca bhavissanti,"
 msgstr "They’ll be arrogant,"
@@ -261,8 +260,8 @@ msgctxt "thag17.1:15.4"
 msgid "carissantyariyā viya."
 msgstr "they’ll wander as if they were noble ones."
 
-#. </p><p><a class="sc" id="12"></a><a class="vns"
-#. id="vns960"></a><a class="vnp" id="vnp960"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns" id="vns960"></a><a
+#. class="vnp" id="vnp960"></a>
 msgctxt "thag17.1:16.1"
 msgid "Telasaṇṭhehi kesehi,"
 msgstr "With hair sleeked back with oil,"
@@ -282,8 +281,8 @@ msgctxt "thag17.1:16.4"
 msgid "dantavaṇṇikapārutā."
 msgstr "wrapped in robes of ivory color."
 
-#. </p><p><a class="sc" id="13"></a><a class="vns"
-#. id="vns961"></a><a class="vnp" id="vnp961"></a>
+#. </p><p><a class="sc" id="13"></a><a class="vns" id="vns961"></a><a
+#. class="vnp" id="vnp961"></a>
 msgctxt "thag17.1:17.1"
 msgid "Ajegucchaṃ vimuttehi,"
 msgstr "The deep-dyed ocher robe,"
@@ -303,8 +302,8 @@ msgctxt "thag17.1:17.4"
 msgid "odātesu samucchitā."
 msgstr "besotted by white clothes."
 
-#. </p><p><a class="sc" id="14"></a><a class="vns"
-#. id="vns962"></a><a class="vnp" id="vnp962"></a>
+#. </p><p><a class="sc" id="14"></a><a class="vns" id="vns962"></a><a
+#. class="vnp" id="vnp962"></a>
 msgctxt "thag17.1:18.1"
 msgid "Lābhakāmā bhavissanti,"
 msgstr "They’ll want lots of possessions,"
@@ -324,9 +323,8 @@ msgctxt "thag17.1:18.4"
 msgid "gāmantesu vasissare."
 msgstr "they’ll stay in the neighborhood of villages."
 
-#. </p><p><a class="sc" id="15"></a><a class="vns"
-#. id="vns963"></a><a class="vnp"
-#. id="vnp963"></a><a class="pts" id="pts88"></a>
+#. </p><p><a class="sc" id="15"></a><a class="vns" id="vns963"></a><a
+#. class="vnp" id="vnp963"></a><a class="pts" id="pts88"></a>
 msgctxt "thag17.1:19.1"
 msgid "Ye ye lābhaṃ labhissanti,"
 msgstr "Being unrestrained, they’ll keep company with"
@@ -346,8 +344,8 @@ msgctxt "thag17.1:19.4"
 msgid "bhajissanti asaṃyatā."
 msgstr "following their example."
 
-#. </p><p><a class="sc" id="16"></a><a class="vns"
-#. id="vns964"></a><a class="vnp" id="vnp964"></a>
+#. </p><p><a class="sc" id="16"></a><a class="vns" id="vns964"></a><a
+#. class="vnp" id="vnp964"></a>
 msgctxt "thag17.1:20.1"
 msgid "Ye ye alābhino lābhaṃ,"
 msgstr "They won’t respect those"
@@ -367,8 +365,8 @@ msgctxt "thag17.1:20.4"
 msgid "sevissanti na te tadā."
 msgstr "even though they’re very amiable."
 
-#. </p><p><a class="sc" id="17"></a><a class="vns"
-#. id="vns965"></a><a class="vnp" id="vnp965"></a>
+#. </p><p><a class="sc" id="17"></a><a class="vns" id="vns965"></a><a
+#. class="vnp" id="vnp965"></a>
 #. VAR: Milakkhurajanaṃ rattaṃ → pilakkharajanaṃ rattaṃ (?)
 msgctxt "thag17.1:21.1"
 msgid "Milakkhurajanaṃ rattaṃ,"
@@ -389,8 +387,8 @@ msgctxt "thag17.1:21.4"
 msgid "dhārissantyavadātakaṃ."
 msgstr "of those who follow other paths."
 
-#. </p><p><a class="sc" id="18"></a><a class="vns"
-#. id="vns966"></a><a class="vnp" id="vnp966"></a>
+#. </p><p><a class="sc" id="18"></a><a class="vns" id="vns966"></a><a
+#. class="vnp" id="vnp966"></a>
 msgctxt "thag17.1:22.1"
 msgid "Agāravo ca kāsāve,"
 msgstr "Then they’ll have no respect"
@@ -410,8 +408,8 @@ msgctxt "thag17.1:22.4"
 msgid "bhikkhūnaṃ na bhavissati."
 msgstr "on the nature of the ocher robe."
 
-#. </p><p><a class="sc" id="19"></a><a class="vns"
-#. id="vns967"></a><a class="vnp" id="vnp967"></a>
+#. </p><p><a class="sc" id="19"></a><a class="vns" id="vns967"></a><a
+#. class="vnp" id="vnp967"></a>
 msgctxt "thag17.1:23.1"
 msgid "Abhibhūtassa dukkhena,"
 msgstr "This awful lack of reflection"
@@ -431,8 +429,8 @@ msgctxt "thag17.1:23.4"
 msgid "nāgassāsi acintiyā."
 msgstr "injured, pierced by an arrow."
 
-#. </p><p><a class="sc" id="20"></a><a class="vns"
-#. id="vns968"></a><a class="vnp" id="vnp968"></a>
+#. </p><p><a class="sc" id="20"></a><a class="vns" id="vns968"></a><a
+#. class="vnp" id="vnp968"></a>
 msgctxt "thag17.1:24.1"
 msgid "Chaddanto hi tadā disvā,"
 msgstr "Then the six-tusked elephant,"
@@ -452,9 +450,10 @@ msgctxt "thag17.1:24.4"
 msgid "gajo atthopasaṃhitā."
 msgstr "connected with the goal."
 
-#. </p><p><a class="sc" id="21"></a>
+#. </p><p><a class="sc" id="21"></a> <a class="vns" id="vns969"></a><a
+#. class="vnp" id="vnp969"></a>
 msgctxt "thag17.1:25.1"
-msgid "<a class=\"vns\" id=\"vns969\"></a><a class=\"vnp\" id=\"vnp969\"></a>Anikkasāvo kāsāvaṃ,"
+msgid "Anikkasāvo kāsāvaṃ,"
 msgstr "The impure one"
 
 #. <br>
@@ -473,8 +472,8 @@ msgctxt "thag17.1:25.4"
 msgid "na so kāsāvamarahati."
 msgstr "they are not worthy of the ocher robe."
 
-#. </p><p><a class="sc" id="22"></a><a class="vns"
-#. id="vns970"></a><a class="vnp" id="vnp970"></a>
+#. </p><p><a class="sc" id="22"></a><a class="vns" id="vns970"></a><a
+#. class="vnp" id="vnp970"></a>
 msgctxt "thag17.1:26.1"
 msgid "Yo ca vantakasāvassa,"
 msgstr "Whoever has rejected impurities,"
@@ -494,8 +493,8 @@ msgctxt "thag17.1:26.4"
 msgid "sa ve kāsāvamarahati."
 msgstr "they are truly worthy of the ocher robe."
 
-#. </p><p><a class="sc" id="23"></a><a class="vns"
-#. id="vns971"></a><a class="vnp" id="vnp971"></a>
+#. </p><p><a class="sc" id="23"></a><a class="vns" id="vns971"></a><a
+#. class="vnp" id="vnp971"></a>
 msgctxt "thag17.1:27.1"
 msgid "Vipannasīlo dummedho,"
 msgstr "Devoid of virtue, unintelligent,"
@@ -515,8 +514,8 @@ msgctxt "thag17.1:27.4"
 msgid "na so kāsāvamarahati."
 msgstr "they are not worthy of the ocher robe."
 
-#. </p><p><a class="sc" id="24"></a><a class="vns"
-#. id="vns972"></a><a class="vnp" id="vnp972"></a>
+#. </p><p><a class="sc" id="24"></a><a class="vns" id="vns972"></a><a
+#. class="vnp" id="vnp972"></a>
 msgctxt "thag17.1:28.1"
 msgid "Yo ca sīlena sampanno,"
 msgstr "One accomplished in ethics,"
@@ -536,8 +535,8 @@ msgctxt "thag17.1:28.4"
 msgid "sa ve kāsāvamarahati."
 msgstr "they are truly worthy of the ocher robe."
 
-#. </p><p><a class="sc" id="25"></a><a class="vns"
-#. id="vns973"></a><a class="vnp" id="vnp973"></a>
+#. </p><p><a class="sc" id="25"></a><a class="vns" id="vns973"></a><a
+#. class="vnp" id="vnp973"></a>
 msgctxt "thag17.1:29.1"
 msgid "Uddhato unnaḷo bālo,"
 msgstr "The conceited, arrogant fool,"
@@ -557,8 +556,8 @@ msgctxt "thag17.1:29.4"
 msgid "kāsāvaṃ kiṃ karissati."
 msgstr "what use is an ocher robe for them?"
 
-#. </p><p><a class="sc" id="26"></a><a class="vns"
-#. id="vns974"></a><a class="vnp" id="vnp974"></a>
+#. </p><p><a class="sc" id="26"></a><a class="vns" id="vns974"></a><a
+#. class="vnp" id="vnp974"></a>
 msgctxt "thag17.1:30.1"
 msgid "Bhikkhū ca bhikkhuniyo ca,"
 msgstr "In the future, monks and nuns"
@@ -578,8 +577,8 @@ msgctxt "thag17.1:30.4"
 msgid "niggaṇhissantyanāgate."
 msgstr "with hearts of loving-kindness."
 
-#. </p><p><a class="sc" id="27"></a><a class="vns"
-#. id="vns975"></a><a class="vnp" id="vnp975"></a>
+#. </p><p><a class="sc" id="27"></a><a class="vns" id="vns975"></a><a
+#. class="vnp" id="vnp975"></a>
 msgctxt "thag17.1:31.1"
 msgid "Sikkhāpentāpi therehi,"
 msgstr "Though trained in wearing the robe"
@@ -599,8 +598,8 @@ msgctxt "thag17.1:31.4"
 msgid "pākaṭā kāmakāriyā."
 msgstr "wild, doing what they like."
 
-#. </p><p><a class="sc" id="28"></a><a class="vns"
-#. id="vns976"></a><a class="vnp" id="vnp976"></a>
+#. </p><p><a class="sc" id="28"></a><a class="vns" id="vns976"></a><a
+#. class="vnp" id="vnp976"></a>
 msgctxt "thag17.1:32.1"
 msgid "Te tathā sikkhitā bālā,"
 msgstr "With that kind of attitude to training,"
@@ -620,8 +619,8 @@ msgctxt "thag17.1:32.4"
 msgid "khaḷuṅko viya sārathiṃ."
 msgstr "like a wild colt with its charioteer."
 
-#. </p><p><a class="sc" id="29"></a><a class="vns"
-#. id="vns977"></a><a class="vnp" id="vnp977"></a>
+#. </p><p><a class="sc" id="29"></a><a class="vns" id="vns977"></a><a
+#. class="vnp" id="vnp977"></a>
 msgctxt "thag17.1:33.1"
 msgid "Evaṃ anāgataddhānaṃ,"
 msgstr "Even so, in the future,"
@@ -641,8 +640,8 @@ msgctxt "thag17.1:33.4"
 msgid "patte kālamhi pacchime’."
 msgstr "when the latter days have come."
 
-#. </p><p><a class="sc" id="30"></a><a class="vns"
-#. id="vns978"></a><a class="vnp" id="vnp978"></a>
+#. </p><p><a class="sc" id="30"></a><a class="vns" id="vns978"></a><a
+#. class="vnp" id="vnp978"></a>
 msgctxt "thag17.1:34.1"
 msgid "Purā āgacchate etaṃ,"
 msgstr "Before this frightening future arrives,"
@@ -662,8 +661,8 @@ msgctxt "thag17.1:34.4"
 msgid "aññamaññaṃ sagāravā."
 msgstr "and respect one another."
 
-#. </p><p><a class="sc" id="31"></a><a class="vns"
-#. id="vns979"></a><a class="vnp" id="vnp979"></a>
+#. </p><p><a class="sc" id="31"></a><a class="vns" id="vns979"></a><a
+#. class="vnp" id="vnp979"></a>
 msgctxt "thag17.1:35.1"
 msgid "Mettacittā kāruṇikā,"
 msgstr "Have hearts of love and compassion,"
@@ -683,9 +682,8 @@ msgctxt "thag17.1:35.4"
 msgid "Niccaṃ daḷhaparakkamā."
 msgstr "and always staunchly vigorous."
 
-#. </p><p><a class="sc" id="32"></a><a class="vns"
-#. id="vns980"></a><a class="vnp"
-#. id="vnp980"></a><a class="pts" id="pts89"></a>
+#. </p><p><a class="sc" id="32"></a><a class="vns" id="vns980"></a><a
+#. class="vnp" id="vnp980"></a><a class="pts" id="pts89"></a>
 msgctxt "thag17.1:36.1"
 msgid "Pamādaṃ bhayato disvā,"
 msgstr "Seeing negligence as fearful,"
@@ -707,7 +705,6 @@ msgid "Phusantā amataṃ padan”ti."
 msgstr "realizing the deathless state.”"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag17.1:37.1"
 msgid "…"
 msgstr "…"

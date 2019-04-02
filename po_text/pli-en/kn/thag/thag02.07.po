@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag2.7"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag2.7"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag2.7:1.1"
 msgid "Theragāthā"
@@ -25,9 +24,10 @@ msgctxt "thag2.7:4.1"
 msgid "2.7. Rādhattheragāthā"
 msgstr "2.7. Rādha"
 
-#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a
+#. class="vns" id="vns133"></a><a class="vnp" id="vnp133"></a>
 msgctxt "thag2.7:5.1"
-msgid "<a class=\"vns\" id=\"vns133\"></a><a class=\"vnp\" id=\"vnp133\"></a>“Yathā agāraṃ ducchannaṃ,"
+msgid "“Yathā agāraṃ ducchannaṃ,"
 msgstr "Just as rain seeps into"
 
 #. <br>
@@ -45,8 +45,8 @@ msgctxt "thag2.7:5.4"
 msgid "rāgo samativijjhati."
 msgstr "an undeveloped mind."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns134"></a><a class="vnp" id="vnp134"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns134"></a><a
+#. class="vnp" id="vnp134"></a>
 msgctxt "thag2.7:6.1"
 msgid "Yathā agāraṃ succhannaṃ,"
 msgstr "Just as rain doesn’t seep into"

@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag8.1"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag8.1"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag8.1:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,8 @@ msgid "8.1. Mahākaccāyanattheragāthā"
 msgstr "8.1. Mahākaccāyana"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns494"></a><a class="vnp"
-#. id="vnp494"></a><a class="pts" id="pts52"></a>
+#. class="vns" id="vns494"></a><a class="vnp" id="vnp494"></a><a class="pts"
+#. id="pts52"></a>
 msgctxt "thag8.1:5.1"
 msgid "“Kammaṃ bahukaṃ na kāraye,"
 msgstr "Don’t get involved in lots of work,"
@@ -48,8 +47,8 @@ msgctxt "thag8.1:5.4"
 msgid "Atthaṃ riñcati yo sukhādhivāho."
 msgstr "you’ll miss the goal that brings such happiness."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns495"></a><a class="vnp" id="vnp495"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns495"></a><a
+#. class="vnp" id="vnp495"></a>
 msgctxt "thag8.1:6.1"
 msgid "Paṅkoti hi naṃ avedayuṃ,"
 msgstr "They know it really is a bog,"
@@ -69,8 +68,8 @@ msgctxt "thag8.1:6.4"
 msgid "Sakkāro kāpurisena dujjaho."
 msgstr "and hard for a sinner to give up."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns496"></a><a class="vnp" id="vnp496"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns496"></a><a
+#. class="vnp" id="vnp496"></a>
 msgctxt "thag8.1:7.1"
 msgid "Na parassupanidhāya,"
 msgstr "The deeds of a mortal aren’t bad"
@@ -90,8 +89,8 @@ msgctxt "thag8.1:7.4"
 msgid "kammabandhū hi mātiyā."
 msgstr "for mortals have deeds as their kin."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns497"></a><a class="vnp" id="vnp497"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns497"></a><a
+#. class="vnp" id="vnp497"></a>
 msgctxt "thag8.1:8.1"
 msgid "Na pare vacanā coro,"
 msgstr "You’re not a bandit because of what someone says,"
@@ -102,7 +101,8 @@ msgid "na pare vacanā muni;"
 msgstr "you’re not a sage because of what someone says;"
 
 #. <br>
-#. VAR: ca naṃ yathāvedi → attā ca yathā vetti (bj) | attānañca yathā vedi (s2, s3) | attānaṃ ca yathā veti (pts1)
+#. VAR: ca naṃ yathāvedi → attā ca yathā vetti (bj) | attānañca yathā vedi (s2,
+#. s3) | attānaṃ ca yathā veti (pts1)
 msgctxt "thag8.1:8.3"
 msgid "Attā ca naṃ yathāvedi,"
 msgstr "but as you know yourself,"
@@ -112,13 +112,12 @@ msgctxt "thag8.1:8.4"
 msgid "devāpi naṃ tathā vidū."
 msgstr "so the gods will know you."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns498"></a><a class="vnp" id="vnp498"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns498"></a><a
+#. class="vnp" id="vnp498"></a>
 msgctxt "thag8.1:9.1"
 msgid "Pare ca na vijānanti,"
 msgstr "Others don’t understand"
 
-# Yamamase is an imperative, "we must control ourselves". Both in Thag 4.3 and Thag 8.1, however, the context clearly indicates that a pun on Yama, the god of death, is intended. This is confirmed by the commentary, see Norman's note on Thag 4.3. I try to translate in a way that captures both "must restrain ourselves" and "we will go to presence of Death".
 #. <br>
 msgctxt "thag8.1:9.2"
 msgid "mayamettha yamāmase;"
@@ -134,8 +133,8 @@ msgctxt "thag8.1:9.4"
 msgid "tato sammanti medhagā."
 msgstr "settle their quarrels right away."
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns499"></a><a class="vnp" id="vnp499"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns499"></a><a
+#. class="vnp" id="vnp499"></a>
 msgctxt "thag8.1:10.1"
 msgid "Jīvate vāpi sappañño,"
 msgstr "A wise person lives on"
@@ -155,8 +154,8 @@ msgctxt "thag8.1:10.4"
 msgid "vittavāpi na jīvati."
 msgstr "even a rich person doesn’t really live."
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns500"></a><a class="vnp" id="vnp500"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns500"></a><a
+#. class="vnp" id="vnp500"></a>
 msgctxt "thag8.1:11.1"
 msgid "Sabbaṃ suṇāti sotena,"
 msgstr "All is heard with the ear,"
@@ -176,8 +175,8 @@ msgctxt "thag8.1:11.4"
 msgid "sabbaṃ ujjhitumarahati."
 msgstr "all that is seen and heard."
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns501"></a><a class="vnp" id="vnp501"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns501"></a><a
+#. class="vnp" id="vnp501"></a>
 msgctxt "thag8.1:12.1"
 msgid "Cakkhumāssa yathā andho,"
 msgstr "Though you have eyes, be as if blind;"
@@ -203,7 +202,6 @@ msgctxt "thag8.1:12.5"
 msgid "Atha atthe samuppanne,"
 msgstr "And when issues come up"
 
-# https://discourse.suttacentral.net/t/lying-still-like-a-corpse/10789
 #. <br>
 #. VAR: sayetha → passetha (mr)
 msgctxt "thag8.1:12.6"

@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag1.22"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag1.22"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag1.22:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,7 @@ msgid "1.22. Cittakattheragāthā"
 msgstr "1.22. Cittaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns22"></a><a class="vnp"
-#. id="vnp22"></a>
+#. class="vns" id="vns22"></a><a class="vnp" id="vnp22"></a>
 msgctxt "thag1.22:5.1"
 msgid "“Nīlā sugīvā sikhino,"
 msgstr "Crested peacocks with beautiful blue necks"
@@ -38,9 +36,9 @@ msgctxt "thag1.22:5.2"
 msgid "Morā kārambhiyaṃ abhinadanti;"
 msgstr "cry out in Karaṃvī."
 
-# The correct reading here would seem to be -kalitā, which is accpted by both Norman and Cone (vol. 1 p. 653). This is exceedingly rare in Pali, but see http://sanskritdictionary.com/k%C4%81layate/159031/3
 #. <br>
-#. VAR: sītavātakīḷitā → sītavātakadditakalitā (bj) | sītavātakalitā (s2, s3, pts1-2)
+#. VAR: sītavātakīḷitā → sītavātakadditakalitā (bj) | sītavātakalitā (s2, s3,
+#. pts1-2)
 msgctxt "thag1.22:5.3"
 msgid "Te sītavātakīḷitā,"
 msgstr "Stirred by a cool breeze,"

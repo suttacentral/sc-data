@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag1.102"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag1.102"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag1.102:1.1"
 msgid "Theragāthā"
@@ -26,13 +25,11 @@ msgid "1.102. Setucchattheragāthā"
 msgstr "1.102. Setuccha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns102"></a><a class="vnp"
-#. id="vnp102"></a>
+#. class="vns" id="vns102"></a><a class="vnp" id="vnp102"></a>
 msgctxt "thag1.102:5.1"
 msgid "“Mānena vañcitāse,"
 msgstr "Deceived by conceit,"
 
-# Norman says the -esu should be read as instrumental. But, leaving the dubious readings aside, comm. takes it as locative; and intstrrumental doesn't make doctrinal sense. One is defiled *among* conditions, not *by* them.
 #. <br>
 msgctxt "thag1.102:5.2"
 msgid "Saṅkhāresu saṅkilissamānāse;"

@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag1.1"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag1.1"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag1.1:1.1"
 msgid "Theragāthā"
@@ -25,8 +24,7 @@ msgctxt "thag1.1:4.1"
 msgid "1.1. Subhūtittheragāthā"
 msgstr "1.1. Subhūti"
 
-# HERE IS A COMMENT
-#. </h1></div><h4 class="extra">
+#. </h1></div><h4>
 msgctxt "thag1.1:5.1"
 msgid "Nidānagāthā"
 msgstr "Background"
@@ -103,9 +101,8 @@ msgctxt "thag1.1:10.1"
 msgid "Subhūtittheragāthā"
 msgstr "Subhūti"
 
-#. </h4><blockquote class="gatha"><p><a class="sc" id="4"></a><a
-#. class="vns" id="vns1"></a><a class="vnp"
-#. id="vnp1"></a>
+#. </h4><blockquote class="gatha"><p><a class="sc" id="4"></a><a class="vns"
+#. id="vns1"></a><a class="vnp" id="vnp1"></a>
 msgctxt "thag1.1:11.1"
 msgid "“Channā me kuṭikā sukhā nivātā,"
 msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"

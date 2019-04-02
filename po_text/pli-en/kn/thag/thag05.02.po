@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag5.2"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag5.2"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag5.2:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,7 @@ msgid "5.2. Subhūtattheragāthā"
 msgstr "5.2. Subhūta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns320"></a><a class="vnp"
-#. id="vnp320"></a>
+#. class="vns" id="vns320"></a><a class="vnp" id="vnp320"></a>
 msgctxt "thag5.2:5.1"
 msgid "“Ayoge yuñjamattānaṃ,"
 msgstr "When a person, wishing for a certain outcome,"
@@ -48,8 +46,8 @@ msgctxt "thag5.2:5.4"
 msgid "‘taṃ me dubbhagalakkhaṇaṃ’."
 msgstr "they say: “That’s a sign of my bad luck.”"
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns321"></a><a class="vnp" id="vnp321"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns321"></a><a
+#. class="vnp" id="vnp321"></a>
 msgctxt "thag5.2:6.1"
 msgid "Abbūḷhaṃ aghagataṃ vijitaṃ,"
 msgstr "When a misfortune is extracted and beaten,"
@@ -69,8 +67,8 @@ msgctxt "thag5.2:6.4"
 msgid "Samavisamassa adassanato."
 msgstr "not seeing the even and the uneven."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns322"></a><a class="vnp" id="vnp322"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns322"></a><a
+#. class="vnp" id="vnp322"></a>
 msgctxt "thag5.2:7.1"
 msgid "Yañhi kayirā tañhi vade,"
 msgstr "You should only say what you would do;"
@@ -90,9 +88,10 @@ msgctxt "thag5.2:7.4"
 msgid "parijānanti paṇḍitā."
 msgstr "one who talks without doing."
 
-#. </p><p><a class="sc" id="4"></a>
+#. </p><p><a class="sc" id="4"></a> <a class="vns" id="vns323"></a><a
+#. class="vnp" id="vnp323"></a>
 msgctxt "thag5.2:8.1"
-msgid "<a class=\"vns\" id=\"vns323\"></a><a class=\"vnp\" id=\"vnp323\"></a>Yathāpi ruciraṃ pupphaṃ,"
+msgid "Yathāpi ruciraṃ pupphaṃ,"
 msgstr "Just like a glorious flower"
 
 #. <br>
@@ -110,14 +109,15 @@ msgctxt "thag5.2:8.4"
 msgid "aphalā hoti akubbato."
 msgstr "for one who does not act on it."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns324"></a><a class="vnp" id="vnp324"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns324"></a><a
+#. class="vnp" id="vnp324"></a>
 msgctxt "thag5.2:9.1"
 msgid "Yathāpi ruciraṃ pupphaṃ,"
 msgstr "Just like a glorious flower"
 
 #. <br>
-#. VAR: sugandhakaṃ → sagandhakaṃ (bj, s2, s3, pts1-2 ^dhp44-59#50.2 [44. Pathavikathāpasutapañcasatabhikkhuvatthu/50. Chattapāṇiupāsakavatthu])
+#. VAR: sugandhakaṃ → sagandhakaṃ (bj, s2, s3, pts1-2 ^dhp44-59#50.2 [44.
+#. Pathavikathāpasutapañcasatabhikkhuvatthu/50. Chattapāṇiupāsakavatthu])
 msgctxt "thag5.2:9.2"
 msgid "Vaṇṇavantaṃ sugandhakaṃ;"
 msgstr "that's both colorful and fragrant,"
