@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thig1.7"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thig1.7"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thig1.7:1.1"
 msgid "Therīgāthā"
@@ -20,10 +19,8 @@ msgctxt "thig1.7:3.1"
 msgid "7. Vīrātherīgāthā"
 msgstr "1.7. Vīrā"
 
-# Comm. requires vira not dhira: Vīrā vīrehi dhammehīti vīriyapadhānatāya vīrehi. Note lack of vocative, and see note on third line.
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns7"></a><a class="vnp"
-#. id="vnp7"></a>
+#. class="vns" id="vns7"></a><a class="vnp" id="vnp7"></a>
 #. VAR: vīrehi → dhīrā dhīrehi (s2, s3, pts1-2, mr)
 msgctxt "thig1.7:4.1"
 msgid "“Vīrā vīrehi dhammehi,"
@@ -34,7 +31,6 @@ msgctxt "thig1.7:4.2"
 msgid "bhikkhunī bhāvitindriyā;"
 msgstr "a nun with faculties developed."
 
-# MS reads dhareti, against most other editions that have dharehi. But dharehi doesn't make sense. The previous line already establishes her enlightenment, so she obviously simply "bears" her final body, she does not need to be told to bear it. This idiom is an expression of arahantship, not an exhortation to practice. (Compare Thig 1.10 which uses dharehi, but there in the optative mood for one not yet enlightened.) Together with the nominative in the first line, this suggests the verse is told in third person by or about the nun, not an exhortation to her.
 #. <br>
 msgctxt "thig1.7:4.3"
 msgid "Dhāreti antimaṃ dehaṃ,"

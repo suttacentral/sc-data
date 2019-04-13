@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thig12.1"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thig12.1"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thig12.1:1.1"
 msgid "Therīgāthā"
@@ -21,9 +20,10 @@ msgid "1. Puṇṇātherīgāthā"
 msgstr "12.1. Puṇṇikā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns236"></a><a class="vnp"
-#. id="vnp236"></a><a class="pts" id="pts146"></a>
-#. VAR: Udahārī ahaṃ sīte → udakamāhariṃ sīte (bj) | udakahārī ahaṃ sīte (s2, s3, pts1-2)
+#. class="vns" id="vns236"></a><a class="vnp" id="vnp236"></a><a class="pts"
+#. id="pts146"></a>
+#. VAR: Udahārī ahaṃ sīte → udakamāhariṃ sīte (bj) | udakahārī ahaṃ sīte (s2,
+#. s3, pts1-2)
 msgctxt "thig12.1:4.1"
 msgid "“Udahārī ahaṃ sīte,"
 msgstr "“I’m a water-carrier. Even when it’s cold,"
@@ -43,8 +43,8 @@ msgctxt "thig12.1:4.4"
 msgid "vācādosabhayaṭṭitā."
 msgstr "harassed by fear of abuse and anger."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns237"></a><a class="vnp" id="vnp237"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns237"></a><a
+#. class="vnp" id="vnp237"></a>
 msgctxt "thig12.1:5.1"
 msgid "Kassa brāhmaṇa tvaṃ bhīto,"
 msgstr "Brahmin, what are you afraid of,"
@@ -64,9 +64,8 @@ msgctxt "thig12.1:5.4"
 msgid "sītaṃ vedayase bhusaṃ”."
 msgstr "in the freezing cold?”"
 
-# Norman notes that maṁ is a preferable reading. Together with katapāpakam in the final pada, it suggests that there is a specific bad deed (or deeds) that he is atoning for, and that she knows what he did. Unusually, Norman's translation is not literal enough, for he renders both kamma and kata as "action", obscuring the point that the brahmin's current good action is to block the effect of his past bad deed.
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns238"></a><a class="vnp" id="vnp238"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns238"></a><a
+#. class="vnp" id="vnp238"></a>
 #. VAR: Jānantī vata maṃ → jānantī ca tuvaṃ (s2, s3, pts1-2, mr)
 msgctxt "thig12.1:6.1"
 msgid "“Jānantī vata maṃ bhoti,"
@@ -87,8 +86,8 @@ msgctxt "thig12.1:6.4"
 msgid "rundhantaṃ katapāpakaṃ."
 msgstr "to block off the wickedness I have done."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns239"></a><a class="vnp" id="vnp239"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns239"></a><a
+#. class="vnp" id="vnp239"></a>
 msgctxt "thig12.1:7.1"
 msgid "Yo ca vuḍḍho daharo vā,"
 msgstr "Whosoever young or old"
@@ -108,8 +107,8 @@ msgctxt "thig12.1:7.4"
 msgid "pāpakammā pamuccati”."
 msgstr "released from their wicked deed.”"
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns240"></a><a class="vnp" id="vnp240"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns240"></a><a
+#. class="vnp" id="vnp240"></a>
 msgctxt "thig12.1:8.1"
 msgid "“Ko nu te idamakkhāsi,"
 msgstr "“Who on earth told you this,"
@@ -129,8 +128,8 @@ msgctxt "thig12.1:8.4"
 msgid "pāpakammā pamuccati."
 msgstr "released from a wicked deed.’"
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns241"></a><a class="vnp" id="vnp241"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns241"></a><a
+#. class="vnp" id="vnp241"></a>
 msgctxt "thig12.1:9.1"
 msgid "Saggaṃ nūna gamissanti,"
 msgstr "Would not they all go to heaven, then:"
@@ -140,7 +139,6 @@ msgctxt "thig12.1:9.2"
 msgid "sabbe maṇḍūkakacchapā;"
 msgstr "all the frogs and the turtles,"
 
-# Norman has "alligator", but this is not native to India. A little respect for the gharial please, whose formal name is Gavialis gangeticus.
 #. <br>
 #. VAR: Nāgā → nakkā (bj)
 msgctxt "thig12.1:9.3"
@@ -152,8 +150,8 @@ msgctxt "thig12.1:9.4"
 msgid "ye caññe udake carā."
 msgstr "and other water-dwellers too?"
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns242"></a><a class="vnp" id="vnp242"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns242"></a><a
+#. class="vnp" id="vnp242"></a>
 msgctxt "thig12.1:10.1"
 msgid "Orabbhikā sūkarikā,"
 msgstr "Butchers of sheep and pigs,"
@@ -183,8 +181,8 @@ msgctxt "thig12.1:10.6"
 msgid "pāpakammā pamuccare."
 msgstr "released from their wicked deeds."
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns243"></a><a class="vnp" id="vnp243"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns243"></a><a
+#. class="vnp" id="vnp243"></a>
 msgctxt "thig12.1:11.1"
 msgid "Sace imā nadiyo te,"
 msgstr "If these rivers washed away"
@@ -204,8 +202,8 @@ msgctxt "thig12.1:11.4"
 msgid "tena tvaṃ paribāhiro."
 msgstr "and thereby you would be excluded."
 
-#. </p><p><a class="sc" id="9"></a><a class="vns"
-#. id="vns244"></a><a class="vnp" id="vnp244"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns" id="vns244"></a><a
+#. class="vnp" id="vnp244"></a>
 msgctxt "thig12.1:12.1"
 msgid "Yassa brāhmaṇa tvaṃ bhīto,"
 msgstr "Brahmin, the thing that you are afraid of,"
@@ -225,8 +223,8 @@ msgctxt "thig12.1:12.4"
 msgid "mā te sītaṃ chaviṃ hane”."
 msgstr "don’t let the cold harm your skin.”"
 
-#. </p><p><a class="sc" id="10"></a><a class="vns"
-#. id="vns245"></a><a class="vnp" id="vnp245"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns" id="vns245"></a><a
+#. class="vnp" id="vnp245"></a>
 msgctxt "thig12.1:13.1"
 msgid "“Kummaggapaṭipannaṃ maṃ,"
 msgstr "“I have been on the wrong path,"
@@ -246,8 +244,8 @@ msgctxt "thig12.1:13.4"
 msgid "imaṃ sāṭaṃ dadāmi te”."
 msgstr "this ablution cloth.”"
 
-#. </p><p><a class="sc" id="11"></a><a class="vns"
-#. id="vns246"></a><a class="vnp" id="vnp246"></a>
+#. </p><p><a class="sc" id="11"></a><a class="vns" id="vns246"></a><a
+#. class="vnp" id="vnp246"></a>
 msgctxt "thig12.1:14.1"
 msgid "“Tuyheva sāṭako hotu,"
 msgstr "“Keep the cloth for yourself,"
@@ -267,9 +265,8 @@ msgctxt "thig12.1:14.4"
 msgid "sace te dukkhamappiyaṃ."
 msgstr "if you don’t like suffering,"
 
-#. </p><p><a class="sc" id="12"></a><a class="vns"
-#. id="vns247"></a><a class="vnp"
-#. id="vnp247"></a><a class="pts" id="pts147"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns" id="vns247"></a><a
+#. class="vnp" id="vnp247"></a><a class="pts" id="pts147"></a>
 msgctxt "thig12.1:15.1"
 msgid "Mākāsi pāpakaṃ kammaṃ,"
 msgstr "then don’t do bad deeds"
@@ -289,8 +286,8 @@ msgctxt "thig12.1:15.4"
 msgid "karissasi karosi vā."
 msgstr "or you’re doing one now,"
 
-#. </p><p><a class="sc" id="13"></a><a class="vns"
-#. id="vns248"></a><a class="vnp" id="vnp248"></a>
+#. </p><p><a class="sc" id="13"></a><a class="vns" id="vns248"></a><a
+#. class="vnp" id="vnp248"></a>
 msgctxt "thig12.1:16.1"
 msgid "Na te dukkhā pamutyatthi,"
 msgstr "you won’t be freed from suffering,"
@@ -311,8 +308,8 @@ msgctxt "thig12.1:16.4"
 msgid "sace te dukkhamappiyaṃ."
 msgstr "if you don’t like suffering,"
 
-#. </p><p><a class="sc" id="14"></a><a class="vns"
-#. id="vns249"></a><a class="vnp" id="vnp249"></a>
+#. </p><p><a class="sc" id="14"></a><a class="vns" id="vns249"></a><a
+#. class="vnp" id="vnp249"></a>
 msgctxt "thig12.1:17.1"
 msgid "Upehi saraṇaṃ buddhaṃ,"
 msgstr "go for refuge to the Buddha, the poised,"
@@ -332,8 +329,8 @@ msgctxt "thig12.1:17.4"
 msgid "taṃ te atthāya hehiti”."
 msgstr "that will be good for you.”"
 
-#. </p><p><a class="sc" id="15"></a><a class="vns"
-#. id="vns250"></a><a class="vnp" id="vnp250"></a>
+#. </p><p><a class="sc" id="15"></a><a class="vns" id="vns250"></a><a
+#. class="vnp" id="vnp250"></a>
 msgctxt "thig12.1:18.1"
 msgid "“Upemi saraṇaṃ buddhaṃ,"
 msgstr "“I go for refuge to the Buddha, the poised,"
@@ -353,8 +350,8 @@ msgctxt "thig12.1:18.4"
 msgid "taṃ me atthāya hehiti."
 msgstr "that will be good for me."
 
-#. </p><p><a class="sc" id="16"></a><a class="vns"
-#. id="vns251"></a><a class="vnp" id="vnp251"></a>
+#. </p><p><a class="sc" id="16"></a><a class="vns" id="vns251"></a><a
+#. class="vnp" id="vnp251"></a>
 msgctxt "thig12.1:19.1"
 msgid "Brahmabandhu pure āsiṃ,"
 msgstr "In the past I was related to Brahmā,"

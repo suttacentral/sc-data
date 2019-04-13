@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thig6.1"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thig6.1"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thig6.1:1.1"
 msgid "Therīgāthā"
@@ -15,15 +14,13 @@ msgctxt "thig6.1:2.1"
 msgid "Chakkanipāta"
 msgstr "The Book of the Sixes"
 
-# As pointed out by a series of translators (Neumann, Rhys Davids, Norms; see Norma's note), the name of this nun and the nature of the verses are problematic. Unlike the verses of the "thirty nuns" at Thig 5.11, these are throughout in singular and appear to be the story of just one nun. The Burmese reading, adopted as mainline in the MS edition, is likely to be a normalization derived from the commentary. Norman's suggestion that pancasata means "mindful of the five" is, however, unlikely. Given that Patacara was a famous teacher, I think the epithet pancasata simply means "having a following of 500".
 #. </p><h1>
 msgctxt "thig6.1:3.1"
 msgid "1. Pañcasatamattātherīgāthā"
 msgstr "6.1. Paṭācārā, Who Had a Following of Five Hundred"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns127"></a><a class="vnp"
-#. id="vnp127"></a>
+#. class="vns" id="vns127"></a><a class="vnp" id="vnp127"></a>
 msgctxt "thig6.1:4.1"
 msgid "“Yassa maggaṃ na jānāsi,"
 msgstr "“He whose path you do not know,"
@@ -35,8 +32,9 @@ msgstr "not whence he came nor where he went;"
 
 #. <br>
 #. VAR: cāgataṃ → āgataṃ (bj, s2, s3, pts1-2)
+#. VAR: sattaṃ → puttaṃ (s2, s3, pts1-2)
 msgctxt "thig6.1:4.3"
-msgid "Taṃ kuto cāgataṃ <span class=\"var\" title=\"puttaṃ (s2, s3, pts1-2)\" id=\"note50\">sattaṃ</span>,"
+msgid "Taṃ kuto cāgataṃ sattaṃ,"
 msgstr "though he came from who knows where,"
 
 #. <br>
@@ -44,8 +42,8 @@ msgctxt "thig6.1:4.4"
 msgid "‘mama putto’ti rodasi."
 msgstr "you mourn that being, crying, ‘Oh my son!’"
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns128"></a><a class="vnp" id="vnp128"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns128"></a><a
+#. class="vnp" id="vnp128"></a>
 #. VAR: khossa → kho'tha (mr)
 msgctxt "thig6.1:5.1"
 msgid "Maggañca khossa jānāsi,"
@@ -66,8 +64,8 @@ msgctxt "thig6.1:5.4"
 msgid "evaṃdhammā hi pāṇino."
 msgstr "such is the nature of living creatures."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns129"></a><a class="vnp" id="vnp129"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns129"></a><a
+#. class="vnp" id="vnp129"></a>
 msgctxt "thig6.1:6.1"
 msgid "Ayācito tatāgacchi,"
 msgstr "Unasked he came,"
@@ -98,8 +96,8 @@ msgctxt "thig6.1:6.6"
 msgid "tatopaññena gacchati."
 msgstr "he will go from there by another."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns130"></a><a class="vnp" id="vnp130"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns130"></a><a
+#. class="vnp" id="vnp130"></a>
 msgctxt "thig6.1:7.1"
 msgid "Peto manussarūpena,"
 msgstr "Departing with the form of a human,"
@@ -119,8 +117,8 @@ msgctxt "thig6.1:7.4"
 msgid "kā tattha paridevanā”."
 msgstr "why cry over that?”"
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns131"></a><a class="vnp" id="vnp131"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns131"></a><a
+#. class="vnp" id="vnp131"></a>
 #. VAR: Abbahī → abbuyhi (s2, s3) | abbuhi (pts1-2)
 msgctxt "thig6.1:8.1"
 msgid "“Abbahī vata me sallaṃ,"
@@ -141,8 +139,8 @@ msgctxt "thig6.1:8.4"
 msgid "puttasokaṃ byapānudi."
 msgstr "in which I once was mired."
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns132"></a><a class="vnp" id="vnp132"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns132"></a><a
+#. class="vnp" id="vnp132"></a>
 msgctxt "thig6.1:9.1"
 msgid "Sājja abbūḷhasallāhaṃ,"
 msgstr "Today I’ve plucked the dart,"

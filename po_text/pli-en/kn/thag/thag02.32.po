@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag2.32"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag2.32"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag2.32:1.1"
 msgid "Theragāthā"
@@ -27,13 +26,11 @@ msgid "2.32 Sivakattheragāthā"
 msgstr "2.32. Sivaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns183"></a><a class="vnp"
-#. id="vnp183"></a>
+#. class="vns" id="vns183"></a><a class="vnp" id="vnp183"></a>
 msgctxt "thag2.32:5.1"
 msgid "“Aniccāni gahakāni,"
 msgstr "Houses are impermanent—"
 
-# This is of course an idiom. The repeated tattha here means "in many states of existence". The line recurs at AN 6.45. The grammar of these padas is not clear; see Norman and comm.
 #. <br>
 msgctxt "thag2.32:5.2"
 msgid "tattha tattha punappunaṃ;"
@@ -49,8 +46,8 @@ msgctxt "thag2.32:5.4"
 msgid "dukkhā jāti punappunaṃ."
 msgstr "painful is birth again and again."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns184"></a><a class="vnp" id="vnp184"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns184"></a><a
+#. class="vnp" id="vnp184"></a>
 msgctxt "thag2.32:6.1"
 msgid "Gahakāraka diṭṭhosi,"
 msgstr "I’ve seen you, house-builder!"
@@ -67,8 +64,9 @@ msgstr "All your rafters are broken,"
 
 #. <br>
 #. VAR: thūṇikā → dhuṇirā (s2) | thūṇirā (s3, pts1-2, mr)
+#. VAR: vidālitā → padālitā (si, s2, s3)
 msgctxt "thag2.32:6.4"
-msgid "thūṇikā ca <span class=\"var\" title=\"padālitā (si, s2, s3)\" id=\"note116\">vidālitā</span>;"
+msgid "thūṇikā ca vidālitā;"
 msgstr "your ridgepole is shattered."
 
 #. <br>

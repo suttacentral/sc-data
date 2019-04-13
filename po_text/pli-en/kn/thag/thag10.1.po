@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag10.1"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag10.1"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag10.1:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,8 @@ msgid "10.1. Kāḷudāyittheragāthā"
 msgstr "10.1. Kāḷudāyin"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns527"></a><a class="vnp"
-#. id="vnp527"></a><a class="pts" id="pts56"></a>
+#. class="vns" id="vns527"></a><a class="vnp" id="vnp527"></a><a class="pts"
+#. id="pts56"></a>
 msgctxt "thag10.1:5.1"
 msgid "“Aṅgārino dāni dumā bhadante,"
 msgstr "“The trees are now crimson, venerable sir,"
@@ -47,8 +46,8 @@ msgctxt "thag10.1:5.4"
 msgid "Samayo mahāvīra bhāgī rasānaṃ."
 msgstr "great hero, this season is full of flavor."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns528"></a><a class="vnp" id="vnp528"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns528"></a><a
+#. class="vnp" id="vnp528"></a>
 msgctxt "thag10.1:6.1"
 msgid "Dumāni phullāni manoramāni,"
 msgstr "The blossoming trees are delightful,"
@@ -69,8 +68,8 @@ msgctxt "thag10.1:6.4"
 msgid "Kālo ito pakkamanāya vīra."
 msgstr "hero, it is time to depart from here."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns529"></a><a class="vnp" id="vnp529"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns529"></a><a
+#. class="vnp" id="vnp529"></a>
 msgctxt "thag10.1:7.1"
 msgid "Nevātisītaṃ na panātiuṇhaṃ,"
 msgstr "It is neither too hot nor too cold,"
@@ -85,14 +84,13 @@ msgctxt "thag10.1:7.3"
 msgid "Passantu taṃ sākiyā koḷiyā ca,"
 msgstr "Let the Sākiyas and Koḷiyas see you,"
 
-# https://discourse.suttacentral.net/t/facing-west-and-back-to-front/5090/23
 #. <br>
 msgctxt "thag10.1:7.4"
 msgid "Pacchāmukhaṃ rohiniyaṃ tarantaṃ."
 msgstr "heading west across the Rohiṇī river."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns530"></a><a class="vnp" id="vnp530"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns530"></a><a
+#. class="vnp" id="vnp530"></a>
 msgctxt "thag10.1:8.1"
 msgid "Āsāya kasate khettaṃ,"
 msgstr "In hope, the field is plowed;"
@@ -122,9 +120,10 @@ msgctxt "thag10.1:8.6"
 msgid "sā me āsā samijjhatu."
 msgstr "may it succeed!"
 
-#. </p><p><a class="sc" id="5"></a>
+#. </p><p><a class="sc" id="5"></a> <a class="vns" id="vns531"></a><a
+#. class="vnp" id="vnp531"></a>
 msgctxt "thag10.1:9.1"
-msgid "<a class=\"vns\" id=\"vns531\"></a><a class=\"vnp\" id=\"vnp531\"></a>Punappunaṃ ceva vapanti bījaṃ,"
+msgid "Punappunaṃ ceva vapanti bījaṃ,"
 msgstr "Again and again, they sow the seed;"
 
 #. <br>
@@ -142,9 +141,10 @@ msgctxt "thag10.1:9.4"
 msgid "Punappunaṃ dhaññamupeti raṭṭhaṃ."
 msgstr "again and again, grain is produced for the nation."
 
-#. </p><p><a class="sc" id="6"></a>
+#. </p><p><a class="sc" id="6"></a> <a class="vns" id="vns532"></a><a
+#. class="vnp" id="vnp532"></a>
 msgctxt "thag10.1:10.1"
-msgid "<a class=\"vns\" id=\"vns532\"></a><a class=\"vnp\" id=\"vnp532\"></a>Punappunaṃ yācanakā caranti,"
+msgid "Punappunaṃ yācanakā caranti,"
 msgstr "Again and again, the beggars wander,"
 
 #. <br>
@@ -162,9 +162,8 @@ msgctxt "thag10.1:10.4"
 msgid "Punappunaṃ saggamupenti ṭhānaṃ."
 msgstr "again and again, they take their place in heaven."
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns533"></a><a class="vnp"
-#. id="vnp533"></a><a class="pts" id="pts57"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns533"></a><a
+#. class="vnp" id="vnp533"></a><a class="pts" id="pts57"></a>
 #. VAR: Vīro → dhīro (s2, s3)
 msgctxt "thag10.1:11.1"
 msgid "Vīro have sattayugaṃ puneti,"
@@ -186,8 +185,8 @@ msgctxt "thag10.1:11.4"
 msgid "Tayā hi jāto muni saccanāmo."
 msgstr "since you fathered the one who is truly called a sage."
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns534"></a><a class="vnp" id="vnp534"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns534"></a><a
+#. class="vnp" id="vnp534"></a>
 msgctxt "thag10.1:12.1"
 msgid "Suddhodano nāma pitā mahesino,"
 msgstr "The father of the great hermit is named Suddhodana;"
@@ -207,8 +206,8 @@ msgctxt "thag10.1:12.4"
 msgid "Kāyassa bhedā tidivamhi modati."
 msgstr "she rejoices in the heaven of the Thirty-Three."
 
-#. </p><p><a class="sc" id="9"></a><a class="vns"
-#. id="vns535"></a><a class="vnp" id="vnp535"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns" id="vns535"></a><a
+#. class="vnp" id="vnp535"></a>
 msgctxt "thag10.1:13.1"
 msgid "Sā gotamī kālakatā ito cutā,"
 msgstr "When she died and passed away from here,"
@@ -228,8 +227,8 @@ msgctxt "thag10.1:13.4"
 msgid "Parivāritā devagaṇehi tehi”."
 msgstr "Gotamī is surrounded by those hosts of gods.”"
 
-#. </p><p><a class="sc" id="10"></a><a class="vns"
-#. id="vns536"></a><a class="vnp" id="vnp536"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns" id="vns536"></a><a
+#. class="vnp" id="vnp536"></a>
 msgctxt "thag10.1:14.1"
 msgid "“Buddhassa puttomhi asayhasāhino,"
 msgstr "“I’m the son of the Buddha, the incomparable Aṅgīrasa, the poised—"

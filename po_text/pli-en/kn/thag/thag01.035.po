@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag1.35"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag1.35"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag1.35:1.1"
 msgid "Theragāthā"
@@ -25,10 +24,8 @@ msgctxt "thag1.35:4.1"
 msgid "1.35. Sāmaññakānittheragāthā"
 msgstr "1.35. Sāmaññakāni"
 
-# labhate is present indicative medium = labhati, not truncated optative.
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns35"></a><a class="vnp"
-#. id="vnp35"></a>
+#. class="vns" id="vns35"></a><a class="vnp" id="vnp35"></a>
 msgctxt "thag1.35:5.1"
 msgid "“Sukhaṃ sukhattho labhate tadācaraṃ,"
 msgstr "Seeking happiness, they find it through this practice."

@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag2.33"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag2.33"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag2.33:1.1"
 msgid "Theragāthā"
@@ -27,8 +26,7 @@ msgid "2.33 Upavāṇattheragāthā"
 msgstr "2.33. Upavāṇa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns185"></a><a class="vnp"
-#. id="vnp185"></a>
+#. class="vns" id="vns185"></a><a class="vnp" id="vnp185"></a>
 msgctxt "thag2.33:5.1"
 msgid "“Arahaṃ sugato loke,"
 msgstr "The perfected one, the Holy One in the world,"
@@ -49,8 +47,8 @@ msgctxt "thag2.33:5.4"
 msgid "munino dehi brāhmaṇa."
 msgstr "give it to the sage, brahmin."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns186"></a><a class="vnp" id="vnp186"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns186"></a><a
+#. class="vnp" id="vnp186"></a>
 #. VAR: pūjaneyyānaṃ → pūjanīyānaṃ (bj)
 msgctxt "thag2.33:6.1"
 msgid "Pūjito pūjaneyyānaṃ,"
@@ -62,7 +60,8 @@ msgid "sakkareyyāna sakkato;"
 msgstr "who is esteemed by the estimable,"
 
 #. <br>
-#. VAR: Apacitopaceyyānaṃ → apacitopacanīyānaṃ (bj) | apacito apacineyyānaṃ (s2, s3, pts1) | apacito apaceyyānaṃ (pts2)
+#. VAR: Apacitopaceyyānaṃ → apacitopacanīyānaṃ (bj) | apacito apacineyyānaṃ
+#. (s2, s3, pts1) | apacito apaceyyānaṃ (pts2)
 msgctxt "thag2.33:6.3"
 msgid "Apacitopaceyyānaṃ,"
 msgstr "honored by the honorable,"

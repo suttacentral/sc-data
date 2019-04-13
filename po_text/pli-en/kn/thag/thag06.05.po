@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag6.5"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag6.5"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag6.5:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,7 @@ msgid "6.5. Mālukyaputtattheragāthā"
 msgstr "6.5. Māluṅkyaputta (1st)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns399"></a><a class="vnp"
-#. id="vnp399"></a>
+#. class="vns" id="vns399"></a><a class="vnp" id="vnp399"></a>
 msgctxt "thag6.5:5.1"
 msgid "“Manujassa pamattacārino,"
 msgstr "When a person lives heedlessly,"
@@ -37,7 +35,6 @@ msgctxt "thag6.5:5.2"
 msgid "Taṇhā vaḍḍhati māluvā viya;"
 msgstr "craving grows in them like a parasitic creeper."
 
-# hurā huraṁ is apparently unique, compare the more common idha vā huraṁ vā "in this world or the world beyond".
 #. <br>
 #. VAR: plavatī → plavati (bj, mr) | pariplavati (s2, s3) | palavatī (pts1-2)
 msgctxt "thag6.5:5.3"
@@ -49,8 +46,8 @@ msgctxt "thag6.5:5.4"
 msgid "Phalamicchaṃva vanasmi vānaro."
 msgstr "greedy for fruit in a forest grove."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns400"></a><a class="vnp" id="vnp400"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns400"></a><a
+#. class="vnp" id="vnp400"></a>
 #. VAR: sahate → sahatī (pts1-2, mr)
 msgctxt "thag6.5:6.1"
 msgid "Yaṃ esā sahate jammī,"
@@ -72,8 +69,8 @@ msgctxt "thag6.5:6.4"
 msgid "abhivaṭṭhaṃva bīraṇaṃ."
 msgstr "like grass in the rain."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns401"></a><a class="vnp" id="vnp401"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns401"></a><a
+#. class="vnp" id="vnp401"></a>
 #. VAR: sahate → sahatī (pts1-2, mr)
 msgctxt "thag6.5:7.1"
 msgid "Yo cetaṃ sahate jammiṃ,"
@@ -94,9 +91,8 @@ msgctxt "thag6.5:7.4"
 msgid "udabindūva pokkharā."
 msgstr "like a drop from a lotus-leaf."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns402"></a><a class="vnp"
-#. id="vnp402"></a><a class="pts" id="pts44"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns402"></a><a
+#. class="vnp" id="vnp402"></a><a class="pts" id="pts44"></a>
 msgctxt "thag6.5:8.1"
 msgid "Taṃ vo vadāmi bhaddaṃ vo,"
 msgstr "I say this to you, good people,"
@@ -126,8 +122,8 @@ msgctxt "thag6.5:8.6"
 msgid "māro bhañji punappunaṃ."
 msgstr "like a stream breaking a reed."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns403"></a><a class="vnp" id="vnp403"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns403"></a><a
+#. class="vnp" id="vnp403"></a>
 msgctxt "thag6.5:9.1"
 msgid "Karotha buddhavacanaṃ,"
 msgstr "Act on the Buddha’s words,"
@@ -147,10 +143,11 @@ msgctxt "thag6.5:9.4"
 msgid "nirayamhi samappitā."
 msgstr "you’ll grieve when you’re sent to hell."
 
-#. </p><p><a class="sc" id="6"></a>
+#. </p><p><a class="sc" id="6"></a> <a class="vns" id="vns404"></a><a
+#. class="vnp" id="vnp404"></a>
 #. VAR: pamādo → pamādo rajo sabbadā (bj, mr) | pamādo rajo (s2, s3, pts1-2)
 msgctxt "thag6.5:10.1"
-msgid "<a class=\"vns\" id=\"vns404\"></a><a class=\"vnp\" id=\"vnp404\"></a>Pamādo rajo pamādo,"
+msgid "Pamādo rajo pamādo,"
 msgstr "Negligence is a toxin;"
 
 #. <br>

@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thig5.11"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thig5.11"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thig5.11:1.1"
 msgid "Therīgāthā"
@@ -21,8 +20,7 @@ msgid "11. Tiṃsamattātherīgāthā"
 msgstr "5.11. Thirty Nuns"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns117"></a><a class="vnp"
-#. id="vnp117"></a>
+#. class="vns" id="vns117"></a><a class="vnp" id="vnp117"></a>
 msgctxt "thig5.11:4.1"
 msgid "“Musalāni gahetvāna,"
 msgstr "“Taking a pestle,"
@@ -39,13 +37,12 @@ msgid "Puttadārāni posentā,"
 msgstr "Supporting partners and children,"
 
 #. <br>
-#. VAR: māṇavā → mānavā (bj, pts1-2)
 msgctxt "thig5.11:4.4"
 msgid "dhanaṃ vindanti māṇavā."
 msgstr "young men acquire wealth."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns118"></a><a class="vnp" id="vnp118"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns118"></a><a
+#. class="vnp" id="vnp118"></a>
 msgctxt "thig5.11:5.1"
 msgid "Karotha buddhasāsanaṃ,"
 msgstr "Do the Buddha’s bidding,"
@@ -75,8 +72,8 @@ msgctxt "thig5.11:5.6"
 msgid "karotha buddhasāsanaṃ”."
 msgstr "do the Buddha’s bidding.”"
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns119"></a><a class="vnp" id="vnp119"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns119"></a><a
+#. class="vnp" id="vnp119"></a>
 msgctxt "thig5.11:6.1"
 msgid "Tassā tā vacanaṃ sutvā,"
 msgstr "After hearing her words,"
@@ -106,8 +103,8 @@ msgctxt "thig5.11:6.6"
 msgid "akaṃsu buddhasāsanaṃ."
 msgstr "they did the Buddha’s bidding."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns120"></a><a class="vnp" id="vnp120"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns120"></a><a
+#. class="vnp" id="vnp120"></a>
 msgctxt "thig5.11:7.1"
 msgid "Rattiyā purime yāme,"
 msgstr "In the first watch of the night,"
@@ -137,8 +134,8 @@ msgctxt "thig5.11:7.6"
 msgid "tamokhandhaṃ padālayuṃ."
 msgstr "they shattered the mass of darkness."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns121"></a><a class="vnp" id="vnp121"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns121"></a><a
+#. class="vnp" id="vnp121"></a>
 msgctxt "thig5.11:8.1"
 msgid "Uṭṭhāya pāde vandiṃsu,"
 msgstr "They rose and paid homage at her feet:"
@@ -160,8 +157,9 @@ msgstr "as the thirty gods honor Indra,"
 
 #. <br>
 #. VAR: Purakkhatvā → purakkhitvā (s2, s3, pts1-2)
+#. VAR: vihassāma → vihariyāma (bj) | viharissāma (s2, s3) | vihissāma (pts1-2)
 msgctxt "thig5.11:8.5"
-msgid "Purakkhatvā <span class=\"var\" title=\"vihariyāma (bj) | viharissāma (s2, s3) | vihissāma (pts1-2)\" id=\"note47\">vihassāma</span>,"
+msgid "Purakkhatvā vihassāma,"
 msgstr "undefeated in battle."
 
 #. <br>

@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag4.6"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag4.6"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag4.6:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,7 @@ msgid "4.6. Senakattheragāthā"
 msgstr "4.6. Senaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns287"></a><a class="vnp"
-#. id="vnp287"></a>
+#. class="vns" id="vns287"></a><a class="vnp" id="vnp287"></a>
 msgctxt "thag4.6:5.1"
 msgid "“Svāgataṃ vata me āsi,"
 msgstr "It was so welcome for me"
@@ -47,8 +45,8 @@ msgctxt "thag4.6:5.4"
 msgid "desentaṃ dhammamuttamaṃ."
 msgstr "teaching the supreme Dhamma."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns288"></a><a class="vnp" id="vnp288"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns288"></a><a
+#. class="vnp" id="vnp288"></a>
 msgctxt "thag4.6:6.1"
 msgid "Mahappabhaṃ gaṇācariyaṃ,"
 msgstr "He was glorious, the teacher of a community,"
@@ -68,8 +66,8 @@ msgctxt "thag4.6:6.4"
 msgid "jinaṃ atuladassanaṃ."
 msgstr "he was the victor of unequaled vision."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns289"></a><a class="vnp" id="vnp289"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns289"></a><a
+#. class="vnp" id="vnp289"></a>
 msgctxt "thag4.6:7.1"
 msgid "Mahānāgaṃ mahāvīraṃ,"
 msgstr "A great giant, a great hero,"
@@ -89,14 +87,15 @@ msgctxt "thag4.6:7.4"
 msgid "satthāramakutobhayaṃ."
 msgstr "the teacher fears nothing from any quarter."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns290"></a><a class="vnp" id="vnp290"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns290"></a><a
+#. class="vnp" id="vnp290"></a>
 msgctxt "thag4.6:8.1"
 msgid "Cirasaṃkiliṭṭhaṃ vata maṃ,"
 msgstr "For a long time, sadly, I was corrupted,"
 
 #. <br>
-#. VAR: diṭṭhisandānabandhitaṃ → ... sandhitaṃ (si, s2, s3) | sanditaṃ (bj-a, pts1-2)
+#. VAR: diṭṭhisandānabandhitaṃ → ... sandhitaṃ (si, s2, s3) | sanditaṃ (bj-a,
+#. pts1-2)
 msgctxt "thag4.6:8.2"
 msgid "diṭṭhisandānabandhitaṃ;"
 msgstr "fettered by the bond of wrong view."

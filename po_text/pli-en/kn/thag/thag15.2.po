@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag15.2"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag15.2"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag15.2:1.1"
 msgid "Theragāthā"
@@ -25,9 +24,10 @@ msgctxt "thag15.2:4.1"
 msgid "15.2. Udāyittheragāthā"
 msgstr "15.2. Udāyi"
 
-#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a
+#. class="vns" id="vns689"></a><a class="vnp" id="vnp689"></a>
 msgctxt "thag15.2:5.1"
-msgid "<a class=\"vns\" id=\"vns689\"></a><a class=\"vnp\" id=\"vnp689\"></a>“Manussabhūtaṃ sambuddhaṃ,"
+msgid "“Manussabhūtaṃ sambuddhaṃ,"
 msgstr "Awakened as a human being,"
 
 #. <br>
@@ -45,8 +45,8 @@ msgctxt "thag15.2:5.4"
 msgid "Cittassūpasame rataṃ."
 msgstr "he loves peace of mind."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns690"></a><a class="vnp" id="vnp690"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns690"></a><a
+#. class="vnp" id="vnp690"></a>
 msgctxt "thag15.2:6.1"
 msgid "Yaṃ manussā namassanti,"
 msgstr "Revered by people,"
@@ -66,9 +66,8 @@ msgctxt "thag15.2:6.4"
 msgid "iti me arahato sutaṃ."
 msgstr "so I’ve heard from the perfected one."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns691"></a><a class="vnp"
-#. id="vnp691"></a><a class="pts" id="pts70"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns691"></a><a
+#. class="vnp" id="vnp691"></a><a class="pts" id="pts70"></a>
 msgctxt "thag15.2:7.1"
 msgid "Sabbasaṃyojanātītaṃ,"
 msgstr "He has transcended all fetters,"
@@ -90,8 +89,8 @@ msgctxt "thag15.2:7.4"
 msgid "muttaṃ selāva kañcanaṃ."
 msgstr "he’s freed like gold from stone."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns692"></a><a class="vnp" id="vnp692"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns692"></a><a
+#. class="vnp" id="vnp692"></a>
 #. VAR: accaruci → accantaruci (bj) | accantarucī (pts1)
 msgctxt "thag15.2:8.1"
 msgid "Sa ve accaruci nāgo,"
@@ -112,8 +111,8 @@ msgctxt "thag15.2:8.4"
 msgid "saccanāmo anuttaro."
 msgstr "he is truly named, supreme."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns693"></a><a class="vnp" id="vnp693"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns693"></a><a
+#. class="vnp" id="vnp693"></a>
 msgctxt "thag15.2:9.1"
 msgid "Nāgaṃ vo kittayissāmi,"
 msgstr "I’ll extol the giant for you,"
@@ -133,8 +132,8 @@ msgctxt "thag15.2:9.4"
 msgid "pādā nāgassa te duve."
 msgstr "are two feet of the giant."
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns694"></a><a class="vnp" id="vnp694"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns694"></a><a
+#. class="vnp" id="vnp694"></a>
 msgctxt "thag15.2:10.1"
 msgid "Sati ca sampajaññañca,"
 msgstr "Mindfulness and awareness"
@@ -154,8 +153,8 @@ msgctxt "thag15.2:10.4"
 msgid "upekkhāsetadantavā."
 msgstr "and equanimity his white tusks."
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns695"></a><a class="vnp" id="vnp695"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns695"></a><a
+#. class="vnp" id="vnp695"></a>
 msgctxt "thag15.2:11.1"
 msgid "Sati gīvā siro paññā,"
 msgstr "Mindfulness is his neck, his head is wisdom—"
@@ -175,8 +174,8 @@ msgctxt "thag15.2:11.4"
 msgid "viveko tassa vāladhi."
 msgstr "and his tail is seclusion."
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns696"></a><a class="vnp" id="vnp696"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns696"></a><a
+#. class="vnp" id="vnp696"></a>
 msgctxt "thag15.2:12.1"
 msgid "So jhāyī assāsarato,"
 msgstr "Practicing absorption, enjoying the breath,"
@@ -196,8 +195,8 @@ msgctxt "thag15.2:12.4"
 msgid "ṭhito nāgo samāhito."
 msgstr "the giant is serene when standing,"
 
-#. </p><p><a class="sc" id="9"></a><a class="vns"
-#. id="vns697"></a><a class="vnp" id="vnp697"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns" id="vns697"></a><a
+#. class="vnp" id="vnp697"></a>
 msgctxt "thag15.2:13.1"
 msgid "Sayaṃ samāhito nāgo,"
 msgstr "the giant is serene when lying down,"
@@ -217,8 +216,8 @@ msgctxt "thag15.2:13.4"
 msgid "esā nāgassa sampadā."
 msgstr "this is the accomplishment of the giant."
 
-#. </p><p><a class="sc" id="10"></a><a class="vns"
-#. id="vns698"></a><a class="vnp" id="vnp698"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns" id="vns698"></a><a
+#. class="vnp" id="vnp698"></a>
 msgctxt "thag15.2:14.1"
 msgid "Bhuñjati anavajjāni,"
 msgstr "He eats blameless things,"
@@ -238,8 +237,8 @@ msgctxt "thag15.2:14.4"
 msgid "sannidhiṃ parivajjayaṃ."
 msgstr "he avoids storing them up."
 
-#. </p><p><a class="sc" id="11"></a><a class="vns"
-#. id="vns699"></a><a class="vnp" id="vnp699"></a>
+#. </p><p><a class="sc" id="11"></a><a class="vns" id="vns699"></a><a
+#. class="vnp" id="vnp699"></a>
 msgctxt "thag15.2:15.1"
 msgid "Saṃyojanaṃ aṇuṃ thūlaṃ,"
 msgstr "Having severed all bonds,"
@@ -259,8 +258,8 @@ msgctxt "thag15.2:15.4"
 msgid "anapekkhova gacchati."
 msgstr "he goes without concern."
 
-#. </p><p><a class="sc" id="12"></a><a class="vns"
-#. id="vns700"></a><a class="vnp" id="vnp700"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns" id="vns700"></a><a
+#. class="vnp" id="vnp700"></a>
 msgctxt "thag15.2:16.1"
 msgid "Yathāpi udake jātaṃ,"
 msgstr "A white lotus,"
@@ -280,8 +279,8 @@ msgctxt "thag15.2:16.4"
 msgid "sucigandhaṃ manoramaṃ."
 msgstr "but the water doesn’t cling to it."
 
-#. </p><p><a class="sc" id="13"></a><a class="vns"
-#. id="vns701"></a><a class="vnp" id="vnp701"></a>
+#. </p><p><a class="sc" id="13"></a><a class="vns" id="vns701"></a><a
+#. class="vnp" id="vnp701"></a>
 msgctxt "thag15.2:17.1"
 msgid "Tatheva ca loke jāto,"
 msgstr "Just so the Buddha is born in the world,"
@@ -302,8 +301,8 @@ msgctxt "thag15.2:17.4"
 msgid "toyena padumaṃ yathā."
 msgstr "as the water does not stick to the lotus."
 
-#. </p><p><a class="sc" id="14"></a><a class="vns"
-#. id="vns702"></a><a class="vnp" id="vnp702"></a>
+#. </p><p><a class="sc" id="14"></a><a class="vns" id="vns702"></a><a
+#. class="vnp" id="vnp702"></a>
 msgctxt "thag15.2:18.1"
 msgid "Mahāgini pajjalito,"
 msgstr "A great blazing fire"
@@ -323,8 +322,8 @@ msgctxt "thag15.2:18.4"
 msgid "nibbutoti pavuccati."
 msgstr "it’s said to be “extinguished”."
 
-#. </p><p><a class="sc" id="15"></a><a class="vns"
-#. id="vns703"></a><a class="vnp" id="vnp703"></a>
+#. </p><p><a class="sc" id="15"></a><a class="vns" id="vns703"></a><a
+#. class="vnp" id="vnp703"></a>
 msgctxt "thag15.2:19.1"
 msgid "Atthassāyaṃ viññāpanī,"
 msgstr "This simile is taught by the discerning"
@@ -344,8 +343,8 @@ msgctxt "thag15.2:19.4"
 msgid "nāgaṃ nāgena desitaṃ."
 msgstr "what the giant taught the giant."
 
-#. </p><p><a class="sc" id="16"></a><a class="vns"
-#. id="vns704"></a><a class="vnp" id="vnp704"></a>
+#. </p><p><a class="sc" id="16"></a><a class="vns" id="vns704"></a><a
+#. class="vnp" id="vnp704"></a>
 msgctxt "thag15.2:20.1"
 msgid "Vītarāgo vītadoso,"
 msgstr "Free of greed, free of hate,"
@@ -361,7 +360,8 @@ msgid "Sarīraṃ vijahaṃ nāgo,"
 msgstr "the giant, giving up his body,"
 
 #. <br>
-#. VAR: Parinibbissatyanāsavo”ti → parinibbissattyanāsavoti (bj) | parinibbātyanāsavo (pts2)
+#. VAR: Parinibbissatyanāsavo”ti → parinibbissattyanāsavoti (bj) |
+#. parinibbātyanāsavo (pts2)
 msgctxt "thag15.2:20.4"
 msgid "Parinibbissatyanāsavo”ti."
 msgstr "will be quenched without defilements."

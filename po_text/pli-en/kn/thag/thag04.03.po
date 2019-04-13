@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag4.3"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag4.3"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag4.3:1.1"
 msgid "Theragāthā"
@@ -25,12 +24,12 @@ msgctxt "thag4.3:4.1"
 msgid "4.3. Sabhiyattheragāthā"
 msgstr "4.3. Sabhiya"
 
-#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a
+#. class="vns" id="vns275"></a><a class="vnp" id="vnp275"></a>
 msgctxt "thag4.3:5.1"
-msgid "<a class=\"vns\" id=\"vns275\"></a><a class=\"vnp\" id=\"vnp275\"></a>“Pare ca na vijānanti,"
+msgid "“Pare ca na vijānanti,"
 msgstr "Others don’t understand"
 
-# Yamamase is an imperative, "we must control ourselves". Both in Thag 4.3 and Thag 8.1, however, the context clearly indicates that a pun on Yama, the god of death, is intended. This is confirmed by the commentary, see Norman's note on Thag 4.3. I try to translate in a way that captures both "must restrain ourselves" and "we will go to presence of Death".
 #. <br>
 msgctxt "thag4.3:5.2"
 msgid "mayamettha yamāmase;"
@@ -46,8 +45,8 @@ msgctxt "thag4.3:5.4"
 msgid "tato sammanti medhagā."
 msgstr "settle their quarrels right away."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns276"></a><a class="vnp" id="vnp276"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns276"></a><a
+#. class="vnp" id="vnp276"></a>
 msgctxt "thag4.3:6.1"
 msgid "Yadā ca avijānantā,"
 msgstr "And when those who don’t understand"
@@ -67,8 +66,8 @@ msgctxt "thag4.3:6.4"
 msgid "āturesu anāturā."
 msgstr "are like the healthy among the sick."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns277"></a><a class="vnp" id="vnp277"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns277"></a><a
+#. class="vnp" id="vnp277"></a>
 msgctxt "thag4.3:7.1"
 msgid "Yaṃ kiñci sithilaṃ kammaṃ,"
 msgstr "Any lax act,"
@@ -88,8 +87,8 @@ msgctxt "thag4.3:7.4"
 msgid "na taṃ hoti mahapphalaṃ."
 msgstr "is not very fruitful."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns278"></a><a class="vnp" id="vnp278"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns278"></a><a
+#. class="vnp" id="vnp278"></a>
 msgctxt "thag4.3:8.1"
 msgid "Yassa sabrahmacārīsu,"
 msgstr "Whoever has no respect"

@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thig2.3"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thig2.3"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thig2.3:1.1"
 msgid "Therīgāthā"
@@ -20,11 +19,11 @@ msgctxt "thig2.3:3.1"
 msgid "3. Sumaṅgalamātātherīgāthā"
 msgstr "2.3. Sumaṅgala’s Mother"
 
-# See Norman on readings.
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns23"></a><a class="vnp"
-#. id="vnp23"></a><a class="pts" id="pts126"></a>
-#. VAR: sumuttikā → sumuttike sumuttike (bj) | sumuttike sumuttikā (s2, s3, pts1-2, mr)
+#. class="vns" id="vns23"></a><a class="vnp" id="vnp23"></a><a class="pts"
+#. id="pts126"></a>
+#. VAR: sumuttikā → sumuttike sumuttike (bj) | sumuttike sumuttikā (s2, s3,
+#. pts1-2, mr)
 msgctxt "thig2.3:4.1"
 msgid "“Sumuttikā sumuttikā,"
 msgstr "I’m well freed, well freed,"
@@ -34,7 +33,6 @@ msgctxt "thig2.3:4.2"
 msgid "Sādhumuttikāmhi musalassa;"
 msgstr "so very well freed!"
 
-# See Norman for the textual problems here. Comm says gihikāle and it must be historical present. Adopting the commentary's vāto for the obscure chattakam, and vāti for vāpi, I propose that we keep musalassa as genitive and (normalizing the syntax a little), read as: musalassa me ahiriko vāto vāti; ukkhalikā me deḍḍubhaṃ vāti.
 #. <br>
 msgctxt "thig2.3:4.3"
 msgid "Ahiriko me chattakaṃ vāpi,"
@@ -45,13 +43,12 @@ msgctxt "thig2.3:4.4"
 msgid "Ukkhalikā me deḍḍubhaṃ vāti."
 msgstr "my little pot wafted like an eel."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns24"></a><a class="vnp" id="vnp24"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns24"></a><a class="vnp"
+#. id="vnp24"></a>
 msgctxt "thig2.3:5.1"
 msgid "Rāgañca ahaṃ dosañca,"
 msgstr "Now, as for greed and hate:"
 
-# Cicciti recalls the sound of frying. The metaphorical progress should be captured in the rendering: formerly, her cookery—whether read literally or as metaphor—was shameful and unpleasant; but now she uses the same powers to destroy the defilements.
 #. <br>
 msgctxt "thig2.3:5.2"
 msgid "Cicciṭi cicciṭīti vihanāmi;"
@@ -72,7 +69,8 @@ msgctxt "thig2.3:6.1"
 msgid "…"
 msgstr ""
 
-#. VAR: Sumaṅgalamātā therī → aññatarā therībhikkhunī apaññātā (s2, s3, pts1-2, mr)
+#. VAR: Sumaṅgalamātā therī → aññatarā therībhikkhunī apaññātā (s2, s3, pts1-2,
+#. mr)
 msgctxt "thig2.3:6.2"
 msgid "Sumaṅgalamātā therī."
 msgstr ""

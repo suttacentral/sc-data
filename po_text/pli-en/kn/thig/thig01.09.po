@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thig1.9"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thig1.9"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thig1.9:1.1"
 msgid "Therīgāthā"
@@ -21,8 +20,7 @@ msgid "9. Bhadrātherīgāthā"
 msgstr "1.9. Bhadrā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns9"></a><a class="vnp"
-#. id="vnp9"></a>
+#. class="vns" id="vns9"></a><a class="vnp" id="vnp9"></a>
 msgctxt "thig1.9:4.1"
 msgid "“Saddhāya pabbajitvāna,"
 msgstr "Having gone forth out of faith,"
@@ -37,7 +35,6 @@ msgctxt "thig1.9:4.3"
 msgid "Bhāvehi kusale dhamme,"
 msgstr "Develop skillful qualities"
 
-# Comm reads as the expected dative: Yogakkhemamanuttaranti catūhi yogehi khemaṃ anupaddavaṃ anuttaraṃ nibbānaṃ, tassa pattiyā kusale bodhipakkhiyadhamme bhāvehīti attho.
 #. <br>
 msgctxt "thig1.9:4.4"
 msgid "yogakkhemamanuttaran”ti."

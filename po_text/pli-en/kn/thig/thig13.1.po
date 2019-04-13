@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thig13.1"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thig13.1"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thig13.1:1.1"
 msgid "Therīgāthā"
@@ -21,8 +20,7 @@ msgid "1. Ambapālītherīgāthā"
 msgstr "13.1. Ambapālī"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns252"></a><a class="vnp"
-#. id="vnp252"></a>
+#. class="vns" id="vns252"></a><a class="vnp" id="vnp252"></a>
 msgctxt "thig13.1:4.1"
 msgid "“Kāḷakā bhamaravaṇṇasādisā,"
 msgstr "My hair was as black as bees,"
@@ -42,16 +40,17 @@ msgctxt "thig13.1:4.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns253"></a><a class="vnp" id="vnp253"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns253"></a><a
+#. class="vnp" id="vnp253"></a>
 msgctxt "thig13.1:5.1"
 msgid "Vāsitova surabhī karaṇḍako,"
 msgstr "Crowned with flowers,"
 
 #. <br>
 #. VAR: Pupphapūra → pupphapūraṃ (s2, s3, pts1-2)
+#. VAR: uttamaṅgajo → uttamaṅgabhūto (s2, s3, mr) | uttamaṅgabhu (pts1-2)
 msgctxt "thig13.1:5.2"
-msgid "Pupphapūra mama <span class=\"var\" title=\"uttamaṅgabhūto (s2, s3, mr) | uttamaṅgabhu (pts1-2)\" id=\"note77\">uttamaṅgajo</span>;"
+msgid "Pupphapūra mama uttamaṅgajo;"
 msgstr "my head was as fragrant as a perfume box;"
 
 #. <br>
@@ -64,8 +63,8 @@ msgctxt "thig13.1:5.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="3"></a><a class="vns"
-#. id="vns254"></a><a class="vnp" id="vnp254"></a>
+#. </p><p><a class="sc" id="3"></a><a class="vns" id="vns254"></a><a
+#. class="vnp" id="vnp254"></a>
 msgctxt "thig13.1:6.1"
 msgid "Kānanaṃva sahitaṃ suropitaṃ,"
 msgstr "My hair was as thick as a well-planted forest,"
@@ -85,9 +84,8 @@ msgctxt "thig13.1:6.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns255"></a><a class="vnp"
-#. id="vnp255"></a><a class="pts" id="pts148"></a>
+#. </p><p><a class="sc" id="4"></a><a class="vns" id="vns255"></a><a
+#. class="vnp" id="vnp255"></a><a class="pts" id="pts148"></a>
 msgctxt "thig13.1:7.1"
 msgid "Kaṇhakhandhakasuvaṇṇamaṇḍitaṃ,"
 msgstr "With plaits of black and ribbons of gold,"
@@ -107,8 +105,8 @@ msgctxt "thig13.1:7.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="5"></a><a class="vns"
-#. id="vns256"></a><a class="vnp" id="vnp256"></a>
+#. </p><p><a class="sc" id="5"></a><a class="vns" id="vns256"></a><a
+#. class="vnp" id="vnp256"></a>
 msgctxt "thig13.1:8.1"
 msgid "Cittakārasukatāva lekhikā,"
 msgstr "My eyebrows used to look so nice,"
@@ -128,8 +126,8 @@ msgctxt "thig13.1:8.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="6"></a><a class="vns"
-#. id="vns257"></a><a class="vnp" id="vnp257"></a>
+#. </p><p><a class="sc" id="6"></a><a class="vns" id="vns257"></a><a
+#. class="vnp" id="vnp257"></a>
 msgctxt "thig13.1:9.1"
 msgid "Bhassarā surucirā yathā maṇī,"
 msgstr "My eyes shone brilliant as gems,"
@@ -149,8 +147,8 @@ msgctxt "thig13.1:9.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="7"></a><a class="vns"
-#. id="vns258"></a><a class="vnp" id="vnp258"></a>
+#. </p><p><a class="sc" id="7"></a><a class="vns" id="vns258"></a><a
+#. class="vnp" id="vnp258"></a>
 msgctxt "thig13.1:10.1"
 msgid "Saṇhatuṅgasadisī ca nāsikā,"
 msgstr "My nose was like a perfect peak,"
@@ -160,7 +158,6 @@ msgctxt "thig13.1:10.2"
 msgid "Sobhate su abhiyobbanaṃ pati;"
 msgstr "lovely in my bloom of youth;"
 
-# See Norman for upakulita. CPD says his reading is "not convincing". However Cone does not express reservations. I don't know, this looks like a pretty good descriptor of an old nose! https://en.wikipedia.org/wiki/File:Piper_longum.jpg
 #. <br>
 msgctxt "thig13.1:10.3"
 msgid "Sā jarāya upakūlitā viya,"
@@ -171,8 +168,8 @@ msgctxt "thig13.1:10.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="8"></a><a class="vns"
-#. id="vns259"></a><a class="vnp" id="vnp259"></a>
+#. </p><p><a class="sc" id="8"></a><a class="vns" id="vns259"></a><a
+#. class="vnp" id="vnp259"></a>
 msgctxt "thig13.1:11.1"
 msgid "Kaṅkaṇaṃva sukataṃ suniṭṭhitaṃ,"
 msgstr "My ear-lobes were so pretty,"
@@ -192,20 +189,20 @@ msgctxt "thig13.1:11.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="9"></a><a class="vns"
-#. id="vns260"></a><a class="vnp" id="vnp260"></a>
+#. </p><p><a class="sc" id="9"></a><a class="vns" id="vns260"></a><a
+#. class="vnp" id="vnp260"></a>
 msgctxt "thig13.1:12.1"
 msgid "Pattalīmakulavaṇṇasādisā,"
 msgstr "My teeth used to be so pretty,"
 
-# Pattalīmakula is uncertain. Norman has "plantain flower", but as this is pinkish-purple it cannot be right. It is suggested to be sattali = kandara, but this helps little as the dictionaries merely list it as an plant with white flowers. Jasmine is nice and it has white flowers!
 #. <br>
 msgctxt "thig13.1:12.2"
 msgid "Sobhare su dantā pure mama;"
 msgstr "bright as a jasmine flower;"
 
 #. <br>
-#. VAR: khaṇḍitā cāsitā →  khaṇḍitā ca pītakā (sī1), khaṇḍā yavapītakā (syā2, syā3, pā1-2)
+#. VAR: khaṇḍitā cāsitā →  khaṇḍitā ca pītakā (sī1), khaṇḍā yavapītakā (syā2,
+#. syā3, pā1-2)
 msgctxt "thig13.1:12.3"
 msgid "Te jarāya khaṇḍitā cāsitā,"
 msgstr "now old, they’re broken and yellow—"
@@ -215,8 +212,8 @@ msgctxt "thig13.1:12.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="10"></a><a class="vns"
-#. id="vns261"></a><a class="vnp" id="vnp261"></a>
+#. </p><p><a class="sc" id="10"></a><a class="vns" id="vns261"></a><a
+#. class="vnp" id="vnp261"></a>
 msgctxt "thig13.1:13.1"
 msgid "Kānanamhi vanasaṇḍacārinī,"
 msgstr "My singing was sweet as a cuckoo"
@@ -236,8 +233,8 @@ msgctxt "thig13.1:13.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="11"></a><a class="vns"
-#. id="vns262"></a><a class="vnp" id="vnp262"></a>
+#. </p><p><a class="sc" id="11"></a><a class="vns" id="vns262"></a><a
+#. class="vnp" id="vnp262"></a>
 msgctxt "thig13.1:14.1"
 msgid "Saṇhakamburiva suppamajjitā,"
 msgstr "My neck used to be so pretty,"
@@ -258,9 +255,8 @@ msgctxt "thig13.1:14.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="12"></a><a class="vns"
-#. id="vns263"></a><a class="vnp"
-#. id="vnp263"></a><a class="pts" id="pts149"></a>
+#. </p><p><a class="sc" id="12"></a><a class="vns" id="vns263"></a><a
+#. class="vnp" id="vnp263"></a><a class="pts" id="pts149"></a>
 msgctxt "thig13.1:15.1"
 msgid "Vaṭṭapalighasadisopamā ubho,"
 msgstr "My arms used to be so pretty,"
@@ -271,7 +267,8 @@ msgid "Sobhare su bāhā pure mama;"
 msgstr "like rounded cross-bars;"
 
 #. <br>
-#. VAR: yatha pāṭalibbalitā → yathā pāṭalippalitā (bj, s2, s3, mr) | yathā pāṭalī dubbalikā (pts1-2)
+#. VAR: yatha pāṭalibbalitā → yathā pāṭalippalitā (bj, s2, s3, mr) | yathā
+#. pāṭalī dubbalikā (pts1-2)
 msgctxt "thig13.1:15.3"
 msgid "Tā jarāya yatha pāṭalibbalitā,"
 msgstr "now old, they droop like a trumpet-flower tree—"
@@ -281,8 +278,8 @@ msgctxt "thig13.1:15.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="13"></a><a class="vns"
-#. id="vns264"></a><a class="vnp" id="vnp264"></a>
+#. </p><p><a class="sc" id="13"></a><a class="vns" id="vns264"></a><a
+#. class="vnp" id="vnp264"></a>
 msgctxt "thig13.1:16.1"
 msgid "Saṇhamuddikasuvaṇṇamaṇḍitā,"
 msgstr "My hands used to be so pretty,"
@@ -292,7 +289,6 @@ msgctxt "thig13.1:16.2"
 msgid "Sobhare su hatthā pure mama;"
 msgstr "adorned with lovely golden rings;"
 
-# Something like this? https://thumbs.dreamstime.com/z/red-radish-indian-vegetable-oftenly-used-cuisines-to-add-some-special-flavor-to-dish-38472624.jpg
 #. <br>
 msgctxt "thig13.1:16.3"
 msgid "Te jarāya yathā mūlamūlikā,"
@@ -303,8 +299,8 @@ msgctxt "thig13.1:16.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="14"></a><a class="vns"
-#. id="vns265"></a><a class="vnp" id="vnp265"></a>
+#. </p><p><a class="sc" id="14"></a><a class="vns" id="vns265"></a><a
+#. class="vnp" id="vnp265"></a>
 msgctxt "thig13.1:17.1"
 msgid "Pīnavaṭṭasahituggatā ubho,"
 msgstr "My breasts used to be so pretty,"
@@ -325,8 +321,8 @@ msgctxt "thig13.1:17.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="15"></a><a class="vns"
-#. id="vns266"></a><a class="vnp" id="vnp266"></a>
+#. </p><p><a class="sc" id="15"></a><a class="vns" id="vns266"></a><a
+#. class="vnp" id="vnp266"></a>
 msgctxt "thig13.1:18.1"
 msgid "Kañcanassa phalakaṃva sammaṭṭhaṃ,"
 msgstr "My body used to be so pretty,"
@@ -346,8 +342,8 @@ msgctxt "thig13.1:18.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="16"></a><a class="vns"
-#. id="vns267"></a><a class="vnp" id="vnp267"></a>
+#. </p><p><a class="sc" id="16"></a><a class="vns" id="vns267"></a><a
+#. class="vnp" id="vnp267"></a>
 msgctxt "thig13.1:19.1"
 msgid "Nāgabhogasadisopamā ubho,"
 msgstr "Both my thighs used to be so pretty,"
@@ -367,8 +363,8 @@ msgctxt "thig13.1:19.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="17"></a><a class="vns"
-#. id="vns268"></a><a class="vnp" id="vnp268"></a>
+#. </p><p><a class="sc" id="17"></a><a class="vns" id="vns268"></a><a
+#. class="vnp" id="vnp268"></a>
 msgctxt "thig13.1:20.1"
 msgid "Saṇhanūpurasuvaṇṇamaṇḍitā,"
 msgstr "My calves used to be so pretty,"
@@ -388,8 +384,8 @@ msgctxt "thig13.1:20.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="18"></a><a class="vns"
-#. id="vns269"></a><a class="vnp" id="vnp269"></a>
+#. </p><p><a class="sc" id="18"></a><a class="vns" id="vns269"></a><a
+#. class="vnp" id="vnp269"></a>
 msgctxt "thig13.1:21.1"
 msgid "Tūlapuṇṇasadisopamā ubho,"
 msgstr "Both my feet used to be so pretty,"
@@ -409,9 +405,8 @@ msgctxt "thig13.1:21.4"
 msgid "Saccavādivacanaṃ anaññathā."
 msgstr "the word of the truthful one is confirmed."
 
-#. </p><p><a class="sc" id="19"></a><a class="vns"
-#. id="vns270"></a><a class="vnp"
-#. id="vnp270"></a><a class="pts" id="pts150"></a>
+#. </p><p><a class="sc" id="19"></a><a class="vns" id="vns270"></a><a
+#. class="vnp" id="vnp270"></a><a class="pts" id="pts150"></a>
 msgctxt "thig13.1:22.1"
 msgid "Ediso ahu ayaṃ samussayo,"
 msgstr "This bag of bones once was such,"

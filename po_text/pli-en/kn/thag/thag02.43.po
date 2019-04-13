@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag2.43"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag2.43"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag2.43:1.1"
 msgid "Theragāthā"
@@ -26,9 +25,10 @@ msgid "2.43. Brahmālittheragāthā"
 msgstr "2.43. Brahmāli"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns205"></a><a class="vnp"
-#. id="vnp205"></a>
-#. VAR: Kassindriyāni → yassindriyāni (^dhp90-99#94.1 [90. Jīvakapañhavatthu/94. Mahākaccāyanattheravatthu]; ^ne6#321 [Sāsanapaṭṭhāna]; ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi])
+#. class="vns" id="vns205"></a><a class="vnp" id="vnp205"></a>
+#. VAR: Kassindriyāni → yassindriyāni (^dhp90-99#94.1 [90.
+#. Jīvakapañhavatthu/94. Mahākaccāyanattheravatthu]; ^ne6#321 [Sāsanapaṭṭhāna];
+#. ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi])
 msgctxt "thag2.43:5.1"
 msgid "“Kassindriyāni samathaṅgatāni,"
 msgstr "Whose faculties have become serene,"
@@ -49,9 +49,10 @@ msgctxt "thag2.43:5.4"
 msgid "Devāpi kassa pihayanti tādinoti."
 msgstr "becoming such that even the gods envy them?"
 
-#. </p><p><a class="sc" id="2"></a>
+#. </p><p><a class="sc" id="2"></a> <a class="vns" id="vns206"></a><a
+#. class="vnp" id="vnp206"></a>
 msgctxt "thag2.43:6.1"
-msgid "<a class=\"verse-num-sc\" id=\"vns206\"></a><a class=\"vnp\" id=\"verse-num-pts206\"></a>Mayhindriyāni samathaṅgatāni,"
+msgid "Mayhindriyāni samathaṅgatāni,"
 msgstr "My faculties have become serene,"
 
 #. <br>

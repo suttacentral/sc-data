@@ -1,10 +1,9 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="thag2.22"><article><div
+#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
+#. lang="pli"><section class="sutta" id="thag2.22"><article><div
 #. class="hgroup"><p class="division">
 msgctxt "thag2.22:1.1"
 msgid "Theragāthā"
@@ -26,8 +25,7 @@ msgid "2.22. Bhaddajittheragāthā"
 msgstr "2.22. Bhaddaji"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns163"></a><a class="vnp"
-#. id="vnp163"></a>
+#. class="vns" id="vns163"></a><a class="vnp" id="vnp163"></a>
 msgctxt "thag2.22:5.1"
 msgid "“Panādo nāma so rājā,"
 msgstr "There was a king named Panāda"
@@ -49,11 +47,12 @@ msgctxt "thag2.22:5.4"
 msgid "ubbhamāhu sahassadhā."
 msgstr "and the top was a thousand-fold."
 
-#. </p><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns164"></a><a class="vnp" id="vnp164"></a>
+#. </p><p><a class="sc" id="2"></a><a class="vns" id="vns164"></a><a
+#. class="vnp" id="vnp164"></a>
 #. VAR: Sahassakaṇḍo → sahassakaṇḍu (pts1)
+#. VAR: satageṇḍu → satabheṇḍu (bj, pts1)
 msgctxt "thag2.22:6.1"
-msgid "Sahassakaṇḍo <span class=\"var\" title=\"satabheṇḍu (bj, pts1)\" id=\"note111\">satageṇḍu</span>,"
+msgid "Sahassakaṇḍo satageṇḍu,"
 msgstr "It had a thousand panels and a hundred ball-caps,"
 
 #. <br>
