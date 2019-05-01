@@ -704,6 +704,7 @@ msgctxt "dn21:1.10.4"
 msgid "“sakko, bhante, devānamindo sāmacco saparijano bhagavato pāde sirasā vandatī”’ti."
 msgstr "“Sir, Sakka, lord of gods, with his ministers and retinue, bows with his head at your feet.”’"
 
+#. </p><p class="added">
 msgctxt "dn21:1.10.5"
 msgid "Evaṃ vutte, bhante, sā bhūjati maṃ etadavoca:"
 msgstr "When I said this, she said to me:"
@@ -716,6 +717,7 @@ msgctxt "dn21:1.10.7"
 msgid "paṭisallīno bhagavā’ti."
 msgstr "as he’s in retreat.’"
 
+#. </p><p class="added">
 msgctxt "dn21:1.10.8"
 msgid "‘Tena hi, bhagini, yadā bhagavā tamhā samādhimhā vuṭṭhito hoti, atha mama vacanena bhagavantaṃ abhivādehi:"
 msgstr "‘Well then, sister, please convey my message when the Buddha emerges from that immersion.’"
@@ -794,6 +796,7 @@ msgctxt "dn21:1.11.11"
 msgid "Te pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārayamānā amhākaṃ upaṭṭhānaṃ āgacchanti amhākaṃ pāricariyaṃ."
 msgstr "There they amused themselves, supplied and provided with the five kinds of sensual stimulation, and became my servants and attendants."
 
+#. </p><p class="added">
 msgctxt "dn21:1.11.12"
 msgid "Te amhākaṃ upaṭṭhānaṃ āgate amhākaṃ pāricariyaṃ gopako devaputto paṭicodesi:"
 msgstr "At that, Gopaka scolded them:"
@@ -824,6 +827,7 @@ msgctxt "dn21:1.11.18"
 msgid "Duddiṭṭharūpaṃ vata bho addasāma, ye mayaṃ addasāma sahadhammike hīnaṃ gandhabbakāyaṃ upapanne’ti."
 msgstr ""
 
+#. </p><p class="added">
 # It seems that the patilabhimsu must serve duty for the two phrases, an unusual construction in prose. Either that or a verb for rebirth has been omitted. Comm: "Tattha diṭṭheva dhammeti tasmiññeva attabhāve jhānasatiṃ paṭilabhiṃsu. Tattheva ṭhatvā cutā pana kāyaṃ brahmapurohitaṃ brahmapurohitasarīraṃ paṭilabhiṃsūti evamattho daṭṭhabbo."
 msgctxt "dn21:1.11.19"
 msgid "Tesaṃ, bhante, gopakena devaputtena paṭicoditānaṃ dve devā diṭṭheva dhamme satiṃ paṭilabhiṃsu kāyaṃ brahmapurohitaṃ, eko pana devo kāme ajjhāvasi."
@@ -1019,7 +1023,7 @@ msgstr "Scolded by that disciple of Gotama,"
 #. <br>
 msgctxt "dn21:1.12.36"
 msgid "Saṃvegamāpādu samecca gopakaṃ."
-msgstr "when they understood what Gopaka said, they were struck with a sense of urgency."
+msgstr "when they understood Gopaka, they were struck with urgency."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.274"></a>
@@ -1329,6 +1333,7 @@ msgctxt "dn21:2.1.7"
 msgid "‘averā adaṇḍā asapattā abyāpajjā viharemu averino’ti iti ca nesaṃ hoti, atha ca pana saverā sadaṇḍā sasapattā sabyāpajjā viharanti saverino”ti."
 msgstr "so that, though they wish to be free of enmity, violence, hostility, and hate, they still have enmity, violence, hostility, and hate.”"
 
+#. </p><p class="added">
 msgctxt "dn21:2.1.8"
 msgid "Itthaṃ bhagavā sakkassa devānamindassa pañhaṃ puṭṭho byākāsi."
 msgstr "Such was the Buddha’s answer to Sakka."
@@ -1337,7 +1342,6 @@ msgctxt "dn21:2.1.9"
 msgid "Attamano sakko devānamindo bhagavato bhāsitaṃ abhinandi anumodi:"
 msgstr "Delighted, Sakka approved and agreed with what the Buddha said, saying:"
 
-#. </p><p class="added">
 msgctxt "dn21:2.1.10"
 msgid "“evametaṃ, bhagavā, evametaṃ, sugata."
 msgstr "“That’s so true, Blessed One! That’s so true, Holy One!"
@@ -1397,6 +1401,7 @@ msgctxt "dn21:2.2.10"
 msgid "kismiṃ asati piyāppiyaṃ na hotī”ti?"
 msgstr ""
 
+#. </p><p class="added">
 msgctxt "dn21:2.2.11"
 msgid "“Piyāppiyaṃ kho, devānaminda, chandanidānaṃ chandasamudayaṃ chandajātikaṃ chandapabhavaṃ;"
 msgstr "“Desire is the source of what is liked and disliked.”"
@@ -1424,6 +1429,7 @@ msgctxt "dn21:2.2.16"
 msgid "kismiṃ asati chando na hotī”ti?"
 msgstr ""
 
+#. </p><p class="added">
 msgctxt "dn21:2.2.17"
 msgid "“Chando kho, devānaminda, vitakkanidāno vitakkasamudayo vitakkajātiko vitakkapabhavo;"
 msgstr "“Thought is the source of desire.”"
@@ -1451,6 +1457,7 @@ msgctxt "dn21:2.2.22"
 msgid "kismiṃ asati vitakko na hotī”ti?"
 msgstr ""
 
+#. </p><p class="added">
 msgctxt "dn21:2.2.23"
 msgid "“Vitakko kho, devānaminda, papañcasaññāsaṅkhānidāno papañcasaññāsaṅkhāsamudayo papañcasaññāsaṅkhājātiko papañcasaññāsaṅkhāpabhavo;"
 msgstr "“Concepts of identity that emerge from the proliferation of perceptions are the source of thoughts.”"
@@ -1613,6 +1620,7 @@ msgctxt "dn21:2.3.33"
 msgid "Evaṃ paṭipanno kho, devānaminda, bhikkhu papañcasaññāsaṅkhānirodhasāruppagāminiṃ paṭipadaṃ paṭipanno hotī”ti."
 msgstr "That’s how a mendicant fittlingly practices for the cessation of concepts of identity that emerge from the proliferation of perceptions.”"
 
+#. </p><p class="added">
 msgctxt "dn21:2.3.34"
 msgid "Itthaṃ bhagavā sakkassa devānamindassa pañhaṃ puṭṭho byākāsi."
 msgstr "Such was the Buddha’s answer to Sakka."
@@ -1621,7 +1629,6 @@ msgctxt "dn21:2.3.35"
 msgid "Attamano sakko devānamindo bhagavato bhāsitaṃ abhinandi anumodi:"
 msgstr "Delighted, Sakka approved and agreed with what the Buddha said, saying:"
 
-#. </p><p class="added">
 msgctxt "dn21:2.3.36"
 msgid "“evametaṃ, bhagavā, evametaṃ, sugata."
 msgstr "“That’s so true, Blessed One! That’s so true, Holy One!"
@@ -1775,6 +1782,7 @@ msgctxt "dn21:2.4.31"
 msgid "Evaṃ paṭipanno kho, devānaminda, bhikkhu pātimokkhasaṃvarāya paṭipanno hotī”ti."
 msgstr "That’s how a mendicant practices for restraint in the monastic code.”"
 
+#. </p><p class="added">
 msgctxt "dn21:2.4.32"
 msgid "Itthaṃ bhagavā sakkassa devānamindassa pañhaṃ puṭṭho byākāsi."
 msgstr "Such was the Buddha’s answer to Sakka."
@@ -1783,7 +1791,6 @@ msgctxt "dn21:2.4.33"
 msgid "Attamano sakko devānamindo bhagavato bhāsitaṃ abhinandi anumodi:"
 msgstr "Delighted, Sakka approved and agreed with what the Buddha said, saying:"
 
-#. </p><p class="added">
 msgctxt "dn21:2.4.34"
 msgid "“evametaṃ, bhagavā, evametaṃ, sugata."
 msgstr "“That’s so true, Blessed One! That’s so true, Holy One!"
@@ -1994,7 +2001,6 @@ msgctxt "dn21:2.6.15"
 msgid "Attamano sakko devānamindo bhagavato bhāsitaṃ abhinandi anumodi:"
 msgstr "Delighted, Sakka approved and agreed with what the Buddha said, saying:"
 
-#. </p><p class="added">
 msgctxt "dn21:2.6.16"
 msgid "“evametaṃ, bhagavā, evametaṃ, sugata."
 msgstr "“That’s so true, Blessed One! That’s so true, Holy One!"
