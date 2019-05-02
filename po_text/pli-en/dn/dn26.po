@@ -37,12 +37,10 @@ msgctxt "dn26:1.3"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
-#. </p><p class="added">
 msgctxt "dn26:1.4"
 msgid "“bhikkhavo”ti."
 msgstr "“Mendicants!”"
 
-#. </p><p class="added">
 msgctxt "dn26:1.5"
 msgid "“Bhaddante”ti te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Venerable sir,” they replied."
@@ -141,10 +139,12 @@ msgctxt "dn26:3.2"
 msgid "‘yadā tvaṃ, ambho purisa, passeyyāsi dibbaṃ cakkaratanaṃ osakkitaṃ ṭhānā cutaṃ, atha me āroceyyāsī’ti."
 msgstr "‘My good man, when you see that the heavenly wheel-treasure has receded back from its place, please tell me.’"
 
+#. </p><p class="added">
 msgctxt "dn26:3.3"
 msgid "‘Evaṃ, devā’ti kho, bhikkhave, so puriso rañño daḷhanemissa paccassosi."
 msgstr "‘Yes, Your Majesty,’ replied that man."
 
+#. </p><p class="added">
 msgctxt "dn26:3.4"
 msgid "Addasā kho, bhikkhave, so puriso bahunnaṃ vassānaṃ bahunnaṃ vassasatānaṃ bahunnaṃ vassasahassānaṃ accayena dibbaṃ cakkaratanaṃ osakkitaṃ ṭhānā cutaṃ, disvāna yena rājā daḷhanemi tenupasaṅkami; upasaṅkamitvā rājānaṃ daḷhanemiṃ etadavoca:"
 msgstr "After many thousand years had passed, that man saw that the heavenly wheel-treasure had receded back from its place. So he went to King Daḷhanemi and said:"
@@ -153,6 +153,7 @@ msgctxt "dn26:3.5"
 msgid "‘yagghe, deva, jāneyyāsi, dibbaṃ te cakkaratanaṃ osakkitaṃ ṭhānā cutan’ti."
 msgstr "‘Please sire, you should know that your heavenly wheel-treasure has receded back from its place.’"
 
+#. </p><p class="added">
 #. VAR: āmantāpetvā → āmantetvā (bj, s1-3, mr)
 msgctxt "dn26:3.6"
 msgid "Atha kho, bhikkhave, rājā daḷhanemi jeṭṭhaputtaṃ kumāraṃ āmantāpetvā etadavoca:"
@@ -216,6 +217,7 @@ msgctxt "dn26:4.5"
 msgid "‘yagghe, deva, jāneyyāsi, dibbaṃ cakkaratanaṃ antarahitan’ti."
 msgstr "‘Please sire, you should know that the heavenly wheel-treasure has vanished.’"
 
+#. </p><p class="added">
 msgctxt "dn26:4.6"
 msgid "Evaṃ vutte, bhikkhave, rājisi rājānaṃ khattiyaṃ muddhābhisittaṃ etadavoca:"
 msgstr "When he said this, the royal sage said to him:"
@@ -247,6 +249,7 @@ msgctxt "dn26:5.1"
 msgid "‘Katamaṃ pana taṃ, deva, ariyaṃ cakkavattivattan’ti?"
 msgstr "‘But sire, what are the noble duties of a wheel-turning monarch?’"
 
+#. </p><p class="added">
 # saṃvidahassu is second middle imperative
 #. VAR: anuyantesu → anuyuttesu (bj, pts1)
 #. VAR: garuṃ karonto → garukaronto (bj, s1-3, pts1)
@@ -269,7 +272,6 @@ msgctxt "dn26:5.5"
 msgid "Ye ca te, tāta, vijite samaṇabrāhmaṇā madappamādā paṭiviratā khantisoracce niviṭṭhā ekamattānaṃ damenti, ekamattānaṃ samenti, ekamattānaṃ parinibbāpenti, te kālena kālaṃ upasaṅkamitvā paripuccheyyāsi pariggaṇheyyāsi:"
 msgstr "And there are ascetics and brahmins in the realm who avoid intoxication and negligence, are settled in patience and gentleness, and who tame, calm, and extinguish themselves. From time to time you should go up to them and ask:"
 
-#. </p><p class="added">
 msgctxt "dn26:5.6"
 msgid "“kiṃ, bhante, kusalaṃ, kiṃ akusalaṃ, kiṃ sāvajjaṃ, kiṃ anavajjaṃ, kiṃ sevitabbaṃ, kiṃ na sevitabbaṃ, kiṃ me karīyamānaṃ dīgharattaṃ ahitāya dukkhāya assa, kiṃ vā pana me karīyamānaṃ dīgharattaṃ hitāya sukhāya assā”ti?"
 msgstr "“Sirs, what is skillful? What is unskillful? What is blameworthy? What is blameless? What should be cultivated? What should not be cultivated? Doing what leads to my lasting harm and suffering? Doing what leads to my lasting welfare and happiness?”"

@@ -81,7 +81,6 @@ msgctxt "dn29:4.1"
 msgid "Evaṃ vutte, āyasmā ānando cundaṃ samaṇuddesaṃ etadavoca:"
 msgstr "Ānanda said to him:"
 
-#. </p><p class="added">
 msgctxt "dn29:4.2"
 msgid "“atthi kho idaṃ, āvuso cunda, kathāpābhataṃ bhagavantaṃ dassanāya."
 msgstr "“Reverend Cunda, we should see the Buddha about this matter."
@@ -124,6 +123,7 @@ msgctxt "dn29:6.1"
 msgid "“Evaṃ hetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite."
 msgstr "“That’s what happens, Cunda, when a teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
 
+#. </p><p class="added">
 msgctxt "dn29:6.2"
 msgid "Idha, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito, "
 msgstr "Take the case where a teacher is not awakened, and the teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
@@ -1442,7 +1442,7 @@ msgstr "It’s possible that wanderers who follow other paths might say:"
 
 msgctxt "dn29:47.2"
 msgid "‘kiṃ nu kho, āvuso, hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti?"
-msgstr "‘Is this your view: “A Realized One exists after death. This is the only truth, everything else is wrong”?’"
+msgstr "‘Is this your view: “A Realized One exists after death. This is the only truth, other ideas are silly”?’"
 
 msgctxt "dn29:47.3"
 msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
@@ -1465,7 +1465,7 @@ msgstr "The wanderers might say:"
 
 msgctxt "dn29:48.2"
 msgid "‘kiṃ panāvuso, na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti?"
-msgstr "‘Then is this your view: “A Realized One doesn’t exist after death. This is the only truth, everything else is wrong”?’"
+msgstr "‘Then is this your view: “A Realized One doesn’t exist after death. This is the only truth, other ideas are silly”?’"
 
 msgctxt "dn29:48.3"
 msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
@@ -1488,7 +1488,7 @@ msgstr "The wanderers might say:"
 
 msgctxt "dn29:49.2"
 msgid "‘kiṃ panāvuso, hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti?"
-msgstr "‘Then is this your view: “A Realized One both exists and doesn’t exist after death. This is the only truth, everything else is wrong”?’"
+msgstr "‘Then is this your view: “A Realized One both exists and doesn’t exist after death. This is the only truth, other ideas are silly”?’"
 
 msgctxt "dn29:49.3"
 msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
@@ -1511,7 +1511,7 @@ msgstr "The wanderers might say:"
 
 msgctxt "dn29:50.2"
 msgid "‘kiṃ panāvuso, neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti?"
-msgstr "‘Then is this your view: “A Realized One neither exists nor doesn’t exist after death. This is the only truth, everything else is wrong”?’"
+msgstr "‘Then is this your view: “A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are silly”?’"
 
 msgctxt "dn29:50.3"
 msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
@@ -1630,7 +1630,7 @@ msgstr "There are some ascetics and brahmins who have this doctrine and view:"
 
 msgctxt "dn29:54.8"
 msgid "‘sassato attā ca loko ca, idameva saccaṃ moghamaññan’ti."
-msgstr "‘The self and the cosmos are eternal. This is the only truth, everything else is wrong.’"
+msgstr "‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’"
 
 msgctxt "dn29:54.9"
 msgid "Santi pana, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
@@ -1694,7 +1694,7 @@ msgstr "or made by both oneself and another,"
 
 msgctxt "dn29:54.24"
 msgid "asayaṃkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ, idameva saccaṃ moghamaññan’ti."
-msgstr "or they have arisen by chance, not made by oneself or another. This is the only truth, everything else is wrong.’"
+msgstr "or they have arisen by chance, not made by oneself or another. This is the only truth, other ideas are silly.’"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs55"></a>
@@ -1726,7 +1726,7 @@ msgstr "But when they say: ‘Yes!"
 
 msgctxt "dn29:55.7"
 msgid "‘idameva saccaṃ moghamaññan’ti."
-msgstr "This is the only truth, everything else is wrong,’"
+msgstr "This is the only truth, other ideas are silly,’"
 
 msgctxt "dn29:55.8"
 msgid "Taṃ tesaṃ nānujānāmi."
@@ -1922,7 +1922,7 @@ msgstr "or neither percipient nor non-percipient,"
 
 msgctxt "dn29:57.12"
 msgid "attā ucchijjati vinassati na hoti paraṃ maraṇā, idameva saccaṃ moghamaññan’ti."
-msgstr "or the self is annihilated and destroyed when the body breaks up, and doesn’t exist after death. This is the only truth, everything else is wrong.’"
+msgstr "or the self is annihilated and destroyed when the body breaks up, and doesn’t exist after death. This is the only truth, other ideas are silly.’"
 
 msgctxt "dn29:57.13"
 msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
