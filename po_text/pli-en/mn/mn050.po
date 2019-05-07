@@ -31,6 +31,7 @@ msgctxt "mn50:2.1"
 msgid "Tena kho pana samayena āyasmā mahāmoggallāno abbhokāse caṅkamati."
 msgstr "At that time Moggallāna was walking meditation in the open air."
 
+#. </p><p class="added">
 msgctxt "mn50:2.2"
 msgid "Tena kho pana samayena māro pāpimā āyasmato mahāmoggallānassa kucchigato hoti koṭṭhamanupaviṭṭho."
 msgstr "Now at that time Māra the Wicked had got inside Moggallāna’s belly."
@@ -40,7 +41,6 @@ msgid "Atha kho āyasmato mahāmoggallānassa etadahosi:"
 msgstr "Moggallāna thought:"
 
 # This is a rather obscure idiom. T 66 has 猶若食豆, MA 131 猶如食豆, both of which confirm the sense “full of beans”. T 67 on the other hand has 飢人而負重擔 “like a hungry man bearing a heavy load.”
-#. </p><p class="added">
 #. VAR: garugaro viya → garu garu viya (bj, pts1 ṭīkāyaṃ pāṭhantaraṃ) | garugarutaro viya (s1-3)
 msgctxt "mn50:2.4"
 msgid "“kiṃ nu kho me kucchi garugaro viya?"
@@ -68,9 +68,8 @@ msgstr "He saw that Māra the Wicked had got inside his belly."
 
 msgctxt "mn50:3.3"
 msgid "Disvāna māraṃ pāpimantaṃ etadavoca:"
-msgstr "So he said to Māra:"
+msgstr "So he said to Māra,"
 
-#. </p><p class="added">
 msgctxt "mn50:3.4"
 msgid "“nikkhama, pāpima;"
 msgstr "“Come out, Wicked One,"
@@ -92,9 +91,8 @@ msgstr "Don’t create lasting harm and suffering for yourself!”"
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn50:4.1"
 msgid "Atha kho mārassa pāpimato etadahosi:"
-msgstr "Then Māra thought:"
+msgstr "Then Māra thought,"
 
-#. </p><p class="added">
 msgctxt "mn50:4.2"
 msgid "“ajānameva kho maṃ ayaṃ samaṇo apassaṃ evamāha:"
 msgstr "“This ascetic doesn’t really know me or see me when he tells me to come out."
@@ -125,12 +123,11 @@ msgstr "Not even the Teacher could recognize me so quickly, so how could a disci
 #. <a class="sc" id="sc4"></a>
 msgctxt "mn50:5.1"
 msgid "Atha kho āyasmā mahāmoggallāno māraṃ pāpimantaṃ etadavoca:"
-msgstr "Then Moggallāna said to Māra:"
+msgstr "Then Moggallāna said to Māra,"
 
-#. </p><p class="added">
 msgctxt "mn50:5.2"
 msgid "“evampi kho tāhaṃ, pāpima, jānāmi, mā tvaṃ maññittho:"
-msgstr "“I know you even when you’re like this, Wicked One. Do not think:"
+msgstr "“I know you even when you’re like this, Wicked One. Do not think,"
 
 msgctxt "mn50:5.3"
 msgid "‘na maṃ jānātī’ti."
@@ -142,7 +139,7 @@ msgstr "You are Māra the Wicked."
 
 msgctxt "mn50:5.5"
 msgid "tuyhañhi, pāpima, evaṃ hoti:"
-msgstr "And you think:"
+msgstr "And you think,"
 
 msgctxt "mn50:5.6"
 msgid "‘ajānameva kho maṃ ayaṃ samaṇo apassaṃ evamāha—"
@@ -174,9 +171,8 @@ msgstr "Not even the Teacher could recognize me so quickly, so how could a disci
 #. <a class="sc" id="sc5"></a>
 msgctxt "mn50:6.1"
 msgid "Atha kho mārassa pāpimato etadahosi:"
-msgstr "Then Māra thought:"
+msgstr "Then Māra thought,"
 
-#. </p><p class="added">
 msgctxt "mn50:6.2"
 msgid "“jānameva kho maṃ ayaṃ samaṇo passaṃ evamāha:"
 msgstr "“This ascetic really does know me and see me when he tells me to come out.”"
@@ -210,9 +206,8 @@ msgstr "Moggallāna saw him there"
 
 msgctxt "mn50:7.2"
 msgid "disvāna māraṃ pāpimantaṃ etadavoca:"
-msgstr "and said:"
+msgstr "and said,"
 
-#. </p><p class="added">
 msgctxt "mn50:7.3"
 msgid "“etthāpi kho tāhaṃ, pāpima, passāmi; mā tvaṃ maññittho"
 msgstr "“I see you even there, Wicked One. Do not think:"
@@ -337,10 +332,9 @@ msgstr "‘I don’t know the course of rebirth of these ethical mendicants of g
 
 msgctxt "mn50:12.3"
 msgid "Yannūnāhaṃ brāhmaṇagahapatike anvāviseyyaṃ—"
-msgstr "Why don’t I take possession of these brahmins and householders and say:"
+msgstr "Why don’t I take possession of these brahmins and householders and say,"
 
 # Note that Mara does not control their behavior. He evidently appears as a voice in their heads: so very bicameral!
-#. </p><p class="added">
 msgctxt "mn50:12.4"
 msgid "etha, tumhe bhikkhū sīlavante kalyāṇadhamme akkosatha paribhāsatha rosetha vihesetha."
 msgstr "“Come, all of you, abuse, attack, harass, and trouble the ethical mendicants of good character."
@@ -371,7 +365,7 @@ msgstr "Then those brahmins and householders abused, attacked, harassed, and tro
 #. VAR: kiṇhā → kiṇṇā (si) | kaṇhā (s1-3, km, mr)
 msgctxt "mn50:13.2"
 msgid "‘ime pana muṇḍakā samaṇakā ibbhā kiṇhā bandhupādāpaccā “jhāyinosmā jhāyinosmā”ti pattakkhandhā adhomukhā madhurakajātā jhāyanti pajjhāyanti nijjhāyanti apajjhāyanti."
-msgstr "‘These shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, say, “We practice absorption! We practice absorption!” And they meditate and concentrate and contemplate and ruminate."
+msgstr "‘These shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, say, ‘We practice absorption meditation! We practice absorption meditation!’ And they meditate and concentrate and contemplate and ruminate."
 
 msgctxt "mn50:13.3"
 msgid "Seyyathāpi nāma ulūko rukkhasākhāyaṃ mūsikaṃ maggayamāno jhāyati pajjhāyati nijjhāyati apajjhāyati;"
@@ -403,7 +397,7 @@ msgstr "They’re just like an unladen donkey by an alley or a drain or a dustbi
 
 msgctxt "mn50:13.10"
 msgid "evamevime muṇḍakā samaṇakā ibbhā kiṇhā bandhupādāpaccā “jhāyinosmā jhāyinosmā”ti pattakkhandhā adhomukhā madhurakajātā jhāyanti pajjhāyanti nijjhāyanti apajjhāyantī’ti."
-msgstr "In the same way, these shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, say, “We practice absorption! We practice absorption!” And they meditate and concentrate and contemplate and ruminate.’"
+msgstr "In the same way, these shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, say, ‘We practice absorption meditation! We practice absorption meditation!’ And they meditate and concentrate and contemplate and ruminate.’"
 
 #. </p><p>
 #. <a class="sc" id="sc10"></a>
@@ -472,9 +466,8 @@ msgstr "Then it occurred to Māra Dūsī:"
 
 msgctxt "mn50:16.2"
 msgid "‘evampi kho ahaṃ karonto imesaṃ bhikkhūnaṃ sīlavantānaṃ kalyāṇadhammānaṃ neva jānāmi āgatiṃ vā gatiṃ vā, yannūnāhaṃ brāhmaṇagahapatike anvāviseyyaṃ:"
-msgstr "‘Even when I do this I don’t know the course of rebirth of these ethical mendicants of good character. Why don’t I take possession of these brahmins and householders and say:"
+msgstr "‘Even when I do this I don’t know the course of rebirth of these ethical mendicants of good character. Why don’t I take possession of these brahmins and householders and say,"
 
-#. </p><p class="added">
 msgctxt "mn50:16.3"
 msgid "“etha, tumhe bhikkhū sīlavante kalyāṇadhamme sakkarotha garuṃ karotha mānetha pūjetha, "
 msgstr "“Come, all of you, honor, respect, esteem, and venerate the ethical mendicants of good character. "
