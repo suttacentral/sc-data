@@ -49,26 +49,30 @@ msgctxt "sn2.12:2.4"
 msgid "appamattā nu sikkhare”ti."
 msgstr "diligently training.”"
 
-# It seems we must translate satthipada as “ways odf teaching “or some some, following BB and PTS; also the two Chinese parallels. But I can’t help feeling this is a mistake. The reading is evidently unclear, and I wonder if it should not rather be saṭṭhipada, i.e. an abbreviation for” dvāsaṭṭhi diṭṭhigatāni brahmajāle veyyākaraṇe vuttāni bhagavatā”. We are, after all, dealing with a heretic.
 #. </p><p>
 #. <a class="pts2ed" id="pts2ed1.119"></a>
 #. <a class="sc" id="sc3"></a>
 #. VAR: siṭṭhipade → satthipade (bj, s1-3, km, pts1-2)
 msgctxt "sn2.12:3.1"
-msgid "“Ye me pavutte siṭṭhipade, (veṇḍūti bhagavā)"
-msgstr "“Those who practice absorption in accord with the training"
+msgid "“Ye me pavutte siṭṭhipade,"
+msgstr "“Those who practice absorption in accord with the training”,"
 
-#. <br>
+#. <span class="speaker">
 msgctxt "sn2.12:3.2"
-msgid "Anusikkhanti jhāyino;"
-msgstr "in the way of teaching I’ve proclaimed,” said the Buddha to Vishnu,"
+msgid "(veṇḍūti bhagavā)"
+msgstr "said the Buddha to Vishnu,"
 
-#. <br>
+#. </span><br>
 msgctxt "sn2.12:3.3"
-msgid "Kāle te appamajjantā,"
-msgstr "“they’re in time to be diligent;"
+msgid "Anusikkhanti jhāyino;"
+msgstr "“in the way of teaching I’ve proclaimed,"
 
 #. <br>
 msgctxt "sn2.12:3.4"
+msgid "Kāle te appamajjantā,"
+msgstr "they’re in time to be diligent;"
+
+#. <br>
+msgctxt "sn2.12:3.5"
 msgid "Na maccuvasagā siyun”ti."
 msgstr "they won’t fall under the sway of Death.”"
