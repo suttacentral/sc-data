@@ -26,6 +26,7 @@ msgctxt "mn87:1.2"
 msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya2"></a>
 msgctxt "mn87:2.1"
 msgid "Tena kho pana samayena aññatarassa gahapatissa ekaputtako piyo manāpo kālaṅkato hoti."
@@ -38,19 +39,18 @@ msgstr "After their death he didn’t feel like working or eating."
 
 msgctxt "mn87:2.3"
 msgid "So āḷāhanaṃ gantvā kandati:"
-msgstr "He would go to the cemetery and wail:"
+msgstr "He would go to the cemetery and wail,"
 
-#. </p><p class="added">
 msgctxt "mn87:2.4"
 msgid "“kahaṃ, ekaputtaka, kahaṃ, ekaputtakā”ti."
 msgstr "“Where are you, my only child? Where are you, my only child?”"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya3"></a>
 msgctxt "mn87:3.1"
 msgid "Atha kho so gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho taṃ gahapatiṃ bhagavā etadavoca:"
-msgstr "Then he went to the Buddha, bowed, and sat down to one side. The Buddha said to him:"
+msgstr "Then he went to the Buddha, bowed, and sat down to one side. The Buddha said to him,"
 
-#. </p><p class="added">
 msgctxt "mn87:3.2"
 msgid "“na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṃ aññathattan”ti."
 msgstr "“Householder, you look like someone who’s not in their right mind; your faculties have deteriorated.”"
@@ -182,22 +182,23 @@ msgctxt "mn87:4.18"
 msgid "Piyajātikā hi, gahapati, ānandasomanassā piyappabhavikā”ti."
 msgstr "For our loved ones are a source of joy and happiness.”"
 
+#. </p><p class="added">
 msgctxt "mn87:4.19"
 msgid "Atha kho so gahapati “sameti me akkhadhuttehī”ti pakkāmi."
 msgstr "Thinking, “The gamblers and I are in agreement,” the householder left."
 
+#. </p><p class="added">
 # Also a scene for gossip in AN 3.60, AN 10.45
 #. <a class="nya" id="nya5"></a>
 msgctxt "mn87:5.1"
 msgid "Atha kho idaṃ kathāvatthu anupubbena rājantepuraṃ pāvisi."
 msgstr "Eventually that topic of discussion reached the royal compound."
 
-#. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.108"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn87:5.2"
 msgid "Atha kho rājā pasenadi kosalo mallikaṃ deviṃ āmantesi:"
-msgstr "Then King Pasenadi addressed Queen Mallikā:"
+msgstr "Then King Pasenadi addressed Queen Mallikā,"
 
 #. </p><p class="added">
 msgctxt "mn87:5.3"
@@ -247,9 +248,8 @@ msgstr "Go away, Mallikā, get out of here!”"
 #. <a class="sc" id="sc4"></a>
 msgctxt "mn87:6.1"
 msgid "Atha kho mallikā devī nāḷijaṅghaṃ brāhmaṇaṃ āmantesi:"
-msgstr "Then Queen Mallikā addressed the brahmin Nāḷijaṅgha:"
+msgstr "Then Queen Mallikā addressed the brahmin Nāḷijaṅgha,"
 
-#. </p><p class="added">
 msgctxt "mn87:6.2"
 msgid "“ehi tvaṃ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ puccha:"
 msgstr "“Please, brahmin, go to the Buddha, and in my name bow with your head to his feet. Ask him if he is healthy and well, nimble, strong, and living comfortably."
@@ -266,7 +266,6 @@ msgctxt "mn87:6.5"
 msgid "‘bhāsitā nu kho, bhante, bhagavatā esā vācā—"
 msgstr "‘Sir, did the Buddha make this statement:"
 
-#. </p><p class="added">
 msgctxt "mn87:6.6"
 msgid "piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
 msgstr "“Our loved ones are a source of sorrow, lamentation, pain, sadness, and distress”?’"
@@ -317,6 +316,7 @@ msgctxt "mn87:7.2"
 msgid "Piyajātikā hi, brāhmaṇa, sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
 msgstr "For our loved ones are a source of sorrow, lamentation, pain, sadness, and distress."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya8"></a>
 msgctxt "mn87:8.1"
 msgid "Tadamināpetaṃ, brāhmaṇa, pariyāyena veditabbaṃ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā."
@@ -329,13 +329,14 @@ msgstr "Once upon a time right here in Sāvatthī a certain woman’s mother pas
 #. VAR: rathikāya rathikaṃ → rathiyāya rathiyaṃ (bj, s1-3, km, pts1)
 msgctxt "mn87:8.3"
 msgid "Sā tassā kālakiriyāya ummattikā khittacittā rathikāya rathikaṃ siṅghāṭakena siṅghāṭakaṃ upasaṅkamitvā evamāha:"
-msgstr "And because of that she went mad and lost her mind. She went from street to street and from square to square saying:"
+msgstr "And because of that she went mad and lost her mind. She went from street to street and from square to square saying,"
 
 #. VAR: addassatha → addasatha (bj, pts1) | adassatha (s1-3)
 msgctxt "mn87:8.4"
 msgid "‘api me mātaraṃ addassatha, api me mātaraṃ addassathā’ti?"
 msgstr "‘Has anyone seen my mother? Has anyone seen my mother?’"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya9-14"></a>
 msgctxt "mn87:9-14.1"
 msgid "Imināpi kho etaṃ, brāhmaṇa, pariyāyena veditabbaṃ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
@@ -369,12 +370,13 @@ msgstr "husband passed away."
 
 msgctxt "mn87:9-14.8"
 msgid "Sā tassa kālakiriyāya ummattikā khittacittā rathikāya rathikaṃ siṅghāṭakena siṅghāṭakaṃ upasaṅkamitvā evamāha:"
-msgstr "And because of that she went mad and lost her mind. She went from street to street and from square to square saying:"
+msgstr "And because of that she went mad and lost her mind. She went from street to street and from square to square saying,"
 
 msgctxt "mn87:9-14.9"
 msgid "‘api me sāmikaṃ addassatha, api me sāmikaṃ addassathā’ti?"
 msgstr "‘Has anyone seen my husband? Has anyone seen my husband?’"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya15-21"></a>
 msgctxt "mn87:15-21.1"
 msgid "Imināpi kho etaṃ, brāhmaṇa, pariyāyena veditabbaṃ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
@@ -398,7 +400,6 @@ msgctxt "mn87:15-21.5"
 msgid "Imināpi kho etaṃ, brāhmaṇa, pariyāyena veditabbaṃ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
 msgstr ""
 
-#. </p><p>
 #. <a class="sc" id="sc8"></a>
 msgctxt "mn87:15-21.6"
 msgid "Bhūtapubbaṃ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa pitā kālamakāsi …"
@@ -426,12 +427,13 @@ msgstr "wife passed away."
 
 msgctxt "mn87:15-21.12"
 msgid "So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṃ siṅghāṭakena siṅghāṭakaṃ upasaṅkamitvā evamāha:"
-msgstr "And because of that he went mad and lost his mind. He went from street to street and from square to square saying:"
+msgstr "And because of that he went mad and lost his mind. He went from street to street and from square to square saying,"
 
 msgctxt "mn87:15-21.13"
 msgid "‘api me pajāpatiṃ addassatha, api me pajāpatiṃ addassathā’ti?"
 msgstr "‘Has anyone seen my wife? Has anyone seen my wife?’"
 
+#. </p><p class="added">
 msgctxt "mn87:15-21.14"
 msgid "Imināpi kho etaṃ, brāhmaṇa, pariyāyena veditabbaṃ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
 msgstr "And here’s another way to understand how our loved ones are a source of sorrow, lamentation, pain, sadness, and distress."
@@ -470,7 +472,7 @@ msgstr ""
 #. VAR: upphālesi → opādesi (bj) | uppāṭesi (si, pts1) | ophāresi (mr)
 msgctxt "mn87:22.7"
 msgid "Atha kho so puriso taṃ itthiṃ dvidhā chetvā attānaṃ upphālesi:"
-msgstr "But he cut her in two and disemboweled himself, thinking:"
+msgstr "But he cut her in two and disemboweled himself, thinking,"
 
 msgctxt "mn87:22.8"
 msgid "‘ubho pecca bhavissāmā’ti."
@@ -557,7 +559,6 @@ msgctxt "mn87:25.7"
 msgid "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
 msgstr ""
 
-#. </p><p>
 #. <a class="nya" id="nya26"></a>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.111"></a>
 #. <a class="sc" id="sc13"></a>
@@ -586,7 +587,6 @@ msgctxt "mn87:26.6"
 msgid "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
 msgstr ""
 
-#. </p><p>
 #. <a class="nya" id="nya27"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "mn87:27.1"
@@ -672,7 +672,7 @@ msgctxt "mn87:29.1"
 msgid "“Acchariyaṃ, mallike, abbhutaṃ, mallike."
 msgstr "“It’s incredible, Mallikā, it’s amazing,"
 
-# I find the PTS reading with the repeated pannaya to be implausible.
+# I find the PTS reading with the repeated paññāya to be implausible.
 #. VAR: ativijjha maññe → ativijjha paññāya (pts1) | paṭivijjha paññāya (mr)
 msgctxt "mn87:29.2"
 msgid "Yāvañca so bhagavā paññāya ativijjha maññe passati."
@@ -684,6 +684,7 @@ msgctxt "mn87:29.3"
 msgid "Ehi, mallike, ācamehī”ti."
 msgstr "Come, Mallikā, rinse my hands.”"
 
+#. </p><p class="added">
 msgctxt "mn87:29.4"
 msgid "Atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā tikkhattuṃ udānaṃ udānesi:"
 msgstr "Then King Pasenadi got up from his seat, arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and was inspired to exclaim three times:"

@@ -39,6 +39,7 @@ msgctxt "mn86:2.3"
 msgid "So manusse vadhitvā vadhitvā aṅgulīnaṃ mālaṃ dhāreti."
 msgstr "He was constantly murdering people, and he wore their fingers as a necklace."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya3"></a>
 msgctxt "mn86:3.1"
 msgid "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi."
@@ -122,15 +123,15 @@ msgctxt "mn86:4.1"
 msgid "Atha kho bhagavā tuṇhībhūto agamāsi."
 msgstr "But when they said this, the Buddha went on in silence."
 
+#. </p><p class="added">
 msgctxt "mn86:4.2"
 msgid "Addasā kho coro aṅgulimālo bhagavantaṃ dūratova āgacchantaṃ."
 msgstr "The bandit Aṅgulimāla saw the Buddha coming off in the distance,"
 
 msgctxt "mn86:4.3"
 msgid "Disvānassa etadahosi:"
-msgstr "and thought:"
+msgstr "and thought,"
 
-#. </p><p class="added">
 msgctxt "mn86:4.4"
 msgid "“acchariyaṃ vata bho, abbhutaṃ vata bho."
 msgstr "“It’s incredible, it’s amazing!"
@@ -162,13 +163,13 @@ msgstr "Then Aṅgulimāla donned his sword and shield, fastened his bow and arr
 #. VAR: abhisaṅkhāsi → abhisaṅkhāresi (s1-3, km, mr)
 msgctxt "mn86:5.2"
 msgid "Atha kho bhagavā tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhāsi yathā coro aṅgulimālo bhagavantaṃ pakatiyā gacchantaṃ sabbathāmena gacchanto na sakkoti sampāpuṇituṃ."
-msgstr "Then the Buddha used his psychic power to will that Aṅgulimāla could not catch up with him no matter how hard he tried, even though the Buddha kept walking at a normal speed."
-
-msgctxt "mn86:5.3"
-msgid "Atha kho corassa aṅgulimālassa etadahosi:"
-msgstr "Then Aṅgulimāla thought:"
+msgstr "But the Buddha used his psychic power to will that Aṅgulimāla could not catch up with him no matter how hard he tried, even though the Buddha kept walking at a normal speed."
 
 #. </p><p class="added">
+msgctxt "mn86:5.3"
+msgid "Atha kho corassa aṅgulimālassa etadahosi:"
+msgstr "Then Aṅgulimāla thought,"
+
 msgctxt "mn86:5.4"
 msgid "“acchariyaṃ vata bho, abbhutaṃ vata bho."
 msgstr "“It’s incredible, it’s amazing!"
@@ -181,11 +182,11 @@ msgctxt "mn86:5.6"
 msgid "atha ca panāhaṃ imaṃ samaṇaṃ pakatiyā gacchantaṃ sabbathāmena gacchanto na sakkomi sampāpuṇitun”ti."
 msgstr "But I can’t catch up with this ascetic no matter how hard I try, even though he’s walking at a normal speed.”"
 
+#. </p><p class="added">
 msgctxt "mn86:5.7"
 msgid "Ṭhitova bhagavantaṃ etadavoca:"
-msgstr "He stood still and said:"
+msgstr "He stood still and said,"
 
-#. </p><p class="added">
 msgctxt "mn86:5.8"
 msgid "“tiṭṭha, tiṭṭha, samaṇā”ti."
 msgstr "“Stop, stop, ascetic!”"
@@ -195,11 +196,11 @@ msgctxt "mn86:5.9"
 msgid "“Ṭhito ahaṃ, aṅgulimāla, tvañca tiṭṭhā”ti."
 msgstr "“I’ve stopped, Aṅgulimāla—now you stop.”"
 
+#. </p><p class="added">
 msgctxt "mn86:5.10"
 msgid "Atha kho corassa aṅgulimālassa etadahosi:"
-msgstr "Then Aṅgulimāla thought:"
+msgstr "Then Aṅgulimāla thought,"
 
-#. </p><p class="added">
 msgctxt "mn86:5.11"
 msgid "“ime kho samaṇā sakyaputtiyā saccavādino saccapaṭiññā."
 msgstr "“These Sakyan ascetics speak the truth."
@@ -348,12 +349,12 @@ msgctxt "mn86:7.3"
 msgid "Tatra sudaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "where he stayed in Jeta’s Grove, Anāthapiṇḍika’s monastery."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya8"></a>
 msgctxt "mn86:8.1"
 msgid "Tena kho pana samayena rañño pasenadissa kosalassa antepuradvāre mahājanakāyo sannipatitvā uccāsaddo mahāsaddo hoti:"
-msgstr "Now at that time a crowd had gathered by the gate of King Pasenadi’s royal compound making a dreadful racket:"
+msgstr "Now at that time a crowd had gathered by the gate of King Pasenadi’s royal compound making a dreadful racket,"
 
-#. </p><p class="added">
 msgctxt "mn86:8.2"
 msgid "“coro te, deva, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu."
 msgstr "“In your realm, Your Majesty, there is a bandit named Aṅgulimāla. He is violent, bloody-handed, a hardened killer, merciless to living beings."
@@ -384,7 +385,7 @@ msgstr "heading for the monastery."
 
 msgctxt "mn86:9.3"
 msgid "Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ bhagavā etadavoca:"
-msgstr "He went by carriage as far as the terrain allowed, then descended and approached the Buddha on foot. He bowed and sat down to one side. The Buddha said to him:"
+msgstr "He went by carriage as far as the terrain allowed, then descended and approached the Buddha on foot. He bowed and sat down to one side. The Buddha said to him,"
 
 # BB’s “attacking” seems a little excessive for kupita.
 #. </p><p class="added">
@@ -438,11 +439,11 @@ msgctxt "mn86:12.1"
 msgid "Tena kho pana samayena āyasmā aṅgulimālo bhagavato avidūre nisinno hoti."
 msgstr "Now, at that time Venerable Aṅgulimāla was sitting not far from the Buddha."
 
+#. </p><p class="added">
 msgctxt "mn86:12.2"
 msgid "Atha kho bhagavā dakkhiṇaṃ bāhuṃ paggahetvā rājānaṃ pasenadiṃ kosalaṃ etadavoca:"
-msgstr "Then the Buddha pointed with his right arm and said to the king:"
+msgstr "Then the Buddha pointed with his right arm and said to the king,"
 
-#. </p><p class="added">
 msgctxt "mn86:12.3"
 msgid "“eso, mahārāja, aṅgulimālo”ti."
 msgstr "“Great king, this is Aṅgulimāla.”"
@@ -454,11 +455,11 @@ msgctxt "mn86:12.4"
 msgid "Atha kho rañño pasenadissa kosalassa ahudeva bhayaṃ, ahu chambhitattaṃ, ahu lomahaṃso."
 msgstr "Then the king became frightened, scared, his hair standing on end."
 
+#. </p><p class="added">
 msgctxt "mn86:12.5"
 msgid "Atha kho bhagavā rājānaṃ pasenadiṃ kosalaṃ bhītaṃ saṃviggaṃ lomahaṭṭhajātaṃ viditvā rājānaṃ pasenadiṃ kosalaṃ etadavoca:"
-msgstr "Knowing this, the Buddha said to him:"
+msgstr "Knowing this, the Buddha said to him,"
 
-#. </p><p class="added">
 msgctxt "mn86:12.6"
 msgid "“mā bhāyi, mahārāja, natthi te ito bhayan”ti."
 msgstr "“Do not fear, great king. You have nothing to fear from him.”"
@@ -467,11 +468,11 @@ msgctxt "mn86:12.7"
 msgid "Atha kho rañño pasenadissa kosalassa yaṃ ahosi bhayaṃ vā chambhitattaṃ vā lomahaṃso vā so paṭippassambhi."
 msgstr "Then the king’s fear died down."
 
+#. </p><p class="added">
 msgctxt "mn86:12.8"
 msgid "Atha kho rājā pasenadi kosalo yenāyasmā aṅgulimālo tenupasaṅkami; upasaṅkamitvā āyasmantaṃ aṅgulimālaṃ etadavoca:"
-msgstr "Then the king went over to Aṅgulimāla and said:"
+msgstr "Then the king went over to Aṅgulimāla and said,"
 
-#. </p><p class="added">
 msgctxt "mn86:12.9"
 msgid "“ayyo no, bhante, aṅgulimālo”ti?"
 msgstr "“Sir, is the venerable really Aṅgulimāla?”"
@@ -506,22 +507,21 @@ msgstr "I’ll make sure that you’re provided with robes, alms-food, lodgings,
 #. <a class="sc" id="sc18"></a>
 msgctxt "mn86:13.1"
 msgid "Tena kho pana samayena āyasmā aṅgulimālo āraññiko hoti piṇḍapātiko paṃsukūliko tecīvariko."
-msgstr "Now at that time Venerable Aṅgulimāla lived in the wilderness, ate only alms-food, and owned just three robes."
+msgstr "But at that time Venerable Aṅgulimāla lived in the wilderness, ate only alms-food, and owned just three robes."
 
 msgctxt "mn86:13.2"
 msgid "Atha kho āyasmā aṅgulimālo rājānaṃ pasenadiṃ kosalaṃ etadavoca:"
-msgstr "He said to the king:"
+msgstr "So he said to the king,"
 
-#. </p><p class="added">
 msgctxt "mn86:13.3"
 msgid "“alaṃ, mahārāja, paripuṇṇaṃ me cīvaran”ti."
 msgstr "“Enough, great king. My robes are complete.”"
 
+#. </p><p class="added">
 msgctxt "mn86:13.4"
 msgid "Atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:"
-msgstr "Then the king went back to the Buddha, bowed, sat down to one side, and said to him:"
+msgstr "Then the king went back to the Buddha, bowed, sat down to one side, and said to him,"
 
-#. </p><p class="added">
 msgctxt "mn86:13.5"
 msgid "“acchariyaṃ, bhante, abbhutaṃ, bhante."
 msgstr "“It’s incredible, sir, it’s amazing!"
@@ -583,7 +583,7 @@ msgstr "Oh, beings suffer such filth!”"
 
 msgctxt "mn86:14.6"
 msgid "Atha kho āyasmā aṅgulimālo sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā aṅgulimālo bhagavantaṃ etadavoca:"
-msgstr "Then after wandering for alms in Sāvatthī, after the meal, on his return from alms-round, he went to the Buddha, bowed, sat down to one side, and told him what had happened. The Buddha said to him:"
+msgstr "Then after wandering for alms in Sāvatthī, after the meal, on his return from alms-round, he went to the Buddha, bowed, sat down to one side, and told him what had happened. The Buddha said to him,"
 
 msgctxt "mn86:14.7"
 msgid "“idhāhaṃ, bhante, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisiṃ."
@@ -601,7 +601,6 @@ msgctxt "mn86:14.10"
 msgid "‘kilissanti vata bho sattā, kilissanti vata bho sattā’”ti."
 msgstr ""
 
-#. </p><p>
 #. <a class="nya" id="nya15"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "mn86:15.1"
@@ -611,7 +610,7 @@ msgstr "“Well then, Aṅgulimāla, go to that woman and say this:"
 #. VAR: yatohaṃ, bhagini, jāto → bhagini jātiyā jāto (si)
 msgctxt "mn86:15.2"
 msgid "‘yatohaṃ, bhagini, jāto nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā’”ti."
-msgstr "‘Ever since I was born, sister, I don’t recall having deliberately taken the life of a living creature. By this truth, may both you and your infant be safe.’”"
+msgstr "‘Ever since I was born, sister, I don’t recall having intentionally taken the life of a living creature. By this truth, may both you and your baby be safe.’”"
 
 #. </p><p>
 #. <a class="sc" id="sc21"></a>
@@ -621,7 +620,7 @@ msgstr "“But sir, wouldn’t that be telling a deliberate lie?"
 
 msgctxt "mn86:15.4"
 msgid "Mayā hi, bhante, bahū sañcicca pāṇā jīvitā voropitā”ti."
-msgstr "For I have deliberately killed many living creatures.”"
+msgstr "For I have intentionally killed many living creatures.”"
 
 #. </p><p class="added">
 msgctxt "mn86:15.5"
@@ -630,22 +629,21 @@ msgstr "“In that case, Aṅgulimāla, go to that woman and say this:"
 
 msgctxt "mn86:15.6"
 msgid "‘yatohaṃ, bhagini, ariyāya jātiyā jāto, nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā’”ti."
-msgstr "‘Ever since I was born in the noble birth, sister, I don’t recall having deliberately taken the life of a living creature. By this truth, may both you and your infant be safe.’”"
+msgstr "‘Ever since I was born in the noble birth, sister, I don’t recall having intentionally taken the life of a living creature. By this truth, may both you and your baby be safe.’”"
 
 #. </p><p>
 #. <a class="sc" id="sc22"></a>
 msgctxt "mn86:15.7"
 msgid "“Evaṃ, bhante”ti kho āyasmā aṅgulimālo bhagavato paṭissutvā yena sā itthī tenupasaṅkami; upasaṅkamitvā taṃ itthiṃ etadavoca:"
-msgstr "“Yes, sir,” replied Aṅgulimāla. He went to that woman and said:"
+msgstr "“Yes, sir,” replied Aṅgulimāla. He went to that woman and said,"
 
-#. </p><p class="added">
 msgctxt "mn86:15.8"
 msgid "“yatohaṃ, bhagini, ariyāya jātiyā jāto, nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā”ti."
-msgstr "“Ever since I was born in the noble birth, sister, I don’t recall having deliberately taken the life of a living creature. By this truth, may both you and your infant be safe.”"
+msgstr "“Ever since I was born in the noble birth, sister, I don’t recall having intentionally taken the life of a living creature. By this truth, may both you and your baby be safe.”"
 
 msgctxt "mn86:15.9"
 msgid "Atha khvāssā itthiyā sotthi ahosi, sotthi gabbhassa."
-msgstr "Then that woman was safe, and so was her infant."
+msgstr "Then that woman was safe, and so was her baby."
 
 #. </p><p>
 #. <a class="nya" id="nya16"></a>
@@ -678,15 +676,15 @@ msgctxt "mn86:17.3"
 msgid "Atha kho āyasmā aṅgulimālo bhinnena sīsena, lohitena gaḷantena, bhinnena pattena, vipphālitāya saṅghāṭiyā yena bhagavā tenupasaṅkami."
 msgstr "Then Aṅgulimāla—with cracked head, bleeding, his bowl broken, and his outer robe torn—went to the Buddha."
 
+#. </p><p class="added">
 msgctxt "mn86:17.4"
 msgid "Addasā kho bhagavā āyasmantaṃ aṅgulimālaṃ dūratova āgacchantaṃ."
 msgstr "The Buddha saw him coming off in the distance,"
 
 msgctxt "mn86:17.5"
 msgid "Disvāna āyasmantaṃ aṅgulimālaṃ etadavoca:"
-msgstr "and said to him:"
+msgstr "and said to him,"
 
-#. </p><p class="added">
 msgctxt "mn86:17.6"
 msgid "“adhivāsehi tvaṃ, brāhmaṇa, adhivāsehi tvaṃ, brāhmaṇa."
 msgstr "“Endure it, brahmin! Endure it, brahmin!"
@@ -695,6 +693,7 @@ msgctxt "mn86:17.7"
 msgid "Yassa kho tvaṃ, brāhmaṇa, kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni niraye pacceyyāsi tassa tvaṃ, brāhmaṇa, kammassa vipākaṃ diṭṭheva dhamme paṭisaṃvedesī”ti."
 msgstr "You’re experiencing in this life the result of deeds that might have caused you to be tormented in hell for many years, many hundreds or thousands of years.”"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya18"></a>
 msgctxt "mn86:18.1"
 msgid "Atha kho āyasmā aṅgulimālo rahogato paṭisallīno vimuttisukhaṃ paṭisaṃvedi;"

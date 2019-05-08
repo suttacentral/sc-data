@@ -35,6 +35,7 @@ msgctxt "mn88:2.2"
 msgid "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena pubbārāmo migāramātupāsādo tenupasaṅkami divāvihārāya."
 msgstr "He wandered for alms in Sāvatthī. After the meal, on his return from alms-round, he went to the Eastern Monastery, the stilt longhouse of Migāra’s mother, for the day’s meditation."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya3"></a>
 msgctxt "mn88:3.1"
 msgid "Tena kho pana samayena rājā pasenadi kosalo ekapuṇḍarīkaṃ nāgaṃ abhiruhitvā sāvatthiyā niyyāti divā divassa."
@@ -44,11 +45,11 @@ msgctxt "mn88:3.2"
 msgid "Addasā kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ dūratova āgacchantaṃ."
 msgstr "He saw Ānanda coming off in the distance"
 
+#. </p><p class="added">
 msgctxt "mn88:3.3"
 msgid "Disvāna sirivaḍḍhaṃ mahāmattaṃ āmantesi:"
-msgstr "and said to the minister Sirivaḍḍha:"
+msgstr "and said to the minister Sirivaḍḍha,"
 
-#. </p><p class="added">
 msgctxt "mn88:3.4"
 msgid "“āyasmā no eso, samma sirivaḍḍha, ānando”ti."
 msgstr "“My dear Sirivaḍḍha, isn’t that Venerable Ānanda?”"
@@ -64,9 +65,8 @@ msgstr "“Indeed it is, great king.”"
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn88:4.1"
 msgid "Atha kho rājā pasenadi kosalo aññataraṃ purisaṃ āmantesi:"
-msgstr "Then King Pasenadi addressed a man:"
+msgstr "Then King Pasenadi addressed a man,"
 
-#. </p><p class="added">
 msgctxt "mn88:4.2"
 msgid "“ehi tvaṃ, ambho purisa, yenāyasmā ānando tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato ānandassa pāde sirasā vandāhi:"
 msgstr "“Please, mister, go to Venerable Ānanda, and in my name bow with your head to his feet. Say to him:"
@@ -110,9 +110,8 @@ msgstr "Ānanda consented in silence."
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn88:6.2"
 msgid "Atha kho rājā pasenadi kosalo yāvatikā nāgassa bhūmi nāgena gantvā nāgā paccorohitvā pattikova yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca:"
-msgstr "Then King Pasenadi rode on the elephant as far as the terrain allowed, then descended and approached Ānanda on foot. He bowed, stood to one side, and said to Ānanda:"
+msgstr "Then King Pasenadi rode on the elephant as far as the terrain allowed, then descended and approached Ānanda on foot. He bowed, stood to one side, and said to Ānanda,"
 
-#. </p><p class="added">
 msgctxt "mn88:6.3"
 msgid "“sace, bhante, āyasmato ānandassa na kiñci accāyikaṃ karaṇīyaṃ, sādhu, bhante, āyasmā ānando yena aciravatiyā nadiyā tīraṃ tenupasaṅkamatu anukampaṃ upādāyā”ti."
 msgstr "“Sir, if you have no urgent business, it would be nice of you to go to the bank of the Aciravatī river out of compassion.”"
@@ -130,9 +129,8 @@ msgstr "He went to the river bank and sat at the root of a certain tree on a sea
 
 msgctxt "mn88:7.3"
 msgid "Atha kho rājā pasenadi kosalo yāvatikā nāgassa bhūmi nāgena gantvā nāgā paccorohitvā pattikova yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca:"
-msgstr "Then King Pasenadi rode on the elephant as far as the terrain allowed, then descended and approached Ānanda on foot. He bowed, stood to one side, and said to Ānanda:"
+msgstr "Then King Pasenadi rode on the elephant as far as the terrain allowed, then descended and approached Ānanda on foot. He bowed, stood to one side, and said to Ānanda,"
 
-#. </p><p class="added">
 msgctxt "mn88:7.4"
 msgid "“idha, bhante, āyasmā ānando hatthatthare nisīdatū”ti."
 msgstr "“Here, Venerable Ānanda, sit on this elephant rug.”"
@@ -140,16 +138,17 @@ msgstr "“Here, Venerable Ānanda, sit on this elephant rug.”"
 #. </p><p class="added">
 msgctxt "mn88:7.5"
 msgid "“Alaṃ, mahārāja."
-msgstr "“Enough, great king, you sit on it."
+msgstr "“Enough, great king,"
 
 msgctxt "mn88:7.6"
 msgid "Nisīda tvaṃ;"
-msgstr ""
+msgstr "you sit on it."
 
 msgctxt "mn88:7.7"
 msgid "nisinno ahaṃ sake āsane”ti."
 msgstr "I’m sitting on my own seat.”"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya8"></a>
 msgctxt "mn88:8.1"
 msgid "Nisīdi kho rājā pasenadi kosalo paññatte āsane."
@@ -157,9 +156,8 @@ msgstr "So the king sat down on the seat spread out,"
 
 msgctxt "mn88:8.2"
 msgid "Nisajja kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca:"
-msgstr "and said:"
+msgstr "and said,"
 
-#. </p><p class="added">
 #. VAR: brāhmaṇehī”ti → brāhmaṇehi viññūhīti (si, s1-3, pts1)
 msgctxt "mn88:8.3"
 msgid "“kiṃ nu kho, bhante ānanda, so bhagavā tathārūpaṃ kāyasamācāraṃ samācareyya, yvāssa kāyasamācāro opārambho samaṇehi brāhmaṇehī”ti?"
@@ -170,7 +168,6 @@ msgctxt "mn88:8.4"
 msgid "“Na kho, mahārāja, so bhagavā tathārūpaṃ kāyasamācāraṃ samācareyya, yvāssa kāyasamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti."
 msgstr "“No, great king, the Buddha would not engage in the sort of behavior that is faulted by sensible ascetics and brahmins.”"
 
-#. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.114"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "mn88:8.5"
@@ -586,9 +583,8 @@ msgstr "So Ānanda accepted it."
 #. <a class="sc" id="sc31"></a>
 msgctxt "mn88:20.2"
 msgid "Atha kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca:"
-msgstr "Then King Pasenadi said to him:"
+msgstr "Then King Pasenadi said to him,"
 
-#. </p><p class="added">
 msgctxt "mn88:20.3"
 msgid "“handa ca dāni mayaṃ, bhante ānanda, gacchāma;"
 msgstr "“Well, now, sir, I must go."
@@ -604,7 +600,7 @@ msgstr "“Please, great king, go at your convenience.”"
 
 msgctxt "mn88:20.6"
 msgid "Atha kho rājā pasenadi kosalo āyasmato ānandassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṃ ānandaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
-msgstr "Then King Pasenadi approved and agreed with what Ānanda said. Then he got up from his seat, bowed, and respectfully circled Ānanda, keeping him on his right, before leaving."
+msgstr "Then King Pasenadi approved and agreed with what Ānanda said. He got up from his seat, bowed, and respectfully circled Ānanda, keeping him on his right, before leaving."
 
 #. </p><p>
 #. <a class="nya" id="nya21"></a>
@@ -621,10 +617,11 @@ msgctxt "mn88:21.3"
 msgid "Tañca bāhitikaṃ bhagavato pādāsi."
 msgstr "He presented the cloth to the Buddha."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya22"></a>
 msgctxt "mn88:22.1"
 msgid "Atha kho bhagavā bhikkhū āmantesi:"
-msgstr "Then the Buddha said to the mendicants:"
+msgstr "Then the Buddha said to the mendicants,"
 
 #. </p><p class="added">
 msgctxt "mn88:22.2"
