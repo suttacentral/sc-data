@@ -29,12 +29,10 @@ msgctxt "mn10:1.3"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
-#. </p><p class="added">
 msgctxt "mn10:1.4"
 msgid "“bhikkhavo”ti."
 msgstr "“Mendicants!”"
 
-#. </p><p class="added">
 msgctxt "mn10:1.5"
 msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Venerable sir,” they replied."
@@ -105,10 +103,12 @@ msgctxt "mn10:4.3"
 msgid "So satova assasati, satova passasati."
 msgstr "Just mindful, they breathe in. Mindful, they breathe out."
 
+#. </p><p class="added">
 msgctxt "mn10:4.4"
 msgid "Dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti, "
 msgstr "When breathing in heavily they know: ‘I’m breathing in heavily.’ When breathing out heavily they know: ‘I’m breathing out heavily.’ "
 
+#. </p><p class="added">
 msgctxt "mn10:4.5"
 msgid "rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti."
 msgstr "When breathing in lightly they know: ‘I’m breathing in lightly.’ When breathing out lightly they know: ‘I’m breathing out lightly.’"
@@ -886,31 +886,26 @@ msgctxt "mn10:42.4"
 msgid "Santaṃ vā ajjhattaṃ dhammavicayasambojjhaṅgaṃ ‘atthi me ajjhattaṃ dhammavicayasambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ dhammavicayasambojjhaṅgaṃ ‘natthi me ajjhattaṃ dhammavicayasambojjhaṅgo’ti pajānāti, yathā ca anuppannassa dhammavicayasambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa dhammavicayasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (2)"
 msgstr "When they have the awakening factor of investigation of principles …"
 
-#. </p><p>
 #. <a class="sc" id="sc74"></a>
 msgctxt "mn10:42.5"
 msgid "Santaṃ vā ajjhattaṃ vīriyasambojjhaṅgaṃ ‘atthi me ajjhattaṃ vīriyasambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ vīriyasambojjhaṅgaṃ ‘natthi me ajjhattaṃ vīriyasambojjhaṅgo’ti pajānāti, yathā ca anuppannassa vīriyasambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa vīriyasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (3)"
 msgstr "energy …"
 
-#. </p><p>
 #. <a class="sc" id="sc75"></a>
 msgctxt "mn10:42.6"
 msgid "Santaṃ vā ajjhattaṃ pītisambojjhaṅgaṃ ‘atthi me ajjhattaṃ pītisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ pītisambojjhaṅgaṃ ‘natthi me ajjhattaṃ pītisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa pītisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa pītisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (4)"
 msgstr "rapture …"
 
-#. </p><p>
 #. <a class="sc" id="sc76"></a>
 msgctxt "mn10:42.7"
 msgid "Santaṃ vā ajjhattaṃ passaddhisambojjhaṅgaṃ ‘atthi me ajjhattaṃ passaddhisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ passaddhisambojjhaṅgaṃ ‘natthi me ajjhattaṃ passaddhisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa passaddhisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa passaddhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (5)"
 msgstr "tranquility …"
 
-#. </p><p>
 #. <a class="sc" id="sc77"></a>
 msgctxt "mn10:42.8"
 msgid "Santaṃ vā ajjhattaṃ samādhisambojjhaṅgaṃ ‘atthi me ajjhattaṃ samādhisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ samādhisambojjhaṅgaṃ ‘natthi me ajjhattaṃ samādhisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa samādhisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa samādhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (6)"
 msgstr "immersion …"
 
-#. </p><p>
 #. <a class="sc" id="sc78"></a>
 msgctxt "mn10:42.9"
 msgid "Santaṃ vā ajjhattaṃ upekkhāsambojjhaṅgaṃ ‘atthi me ajjhattaṃ upekkhāsambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ upekkhāsambojjhaṅgaṃ ‘natthi me ajjhattaṃ upekkhāsambojjhaṅgo’ti pajānāti, yathā ca anuppannassa upekkhāsambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa upekkhāsambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (7)"

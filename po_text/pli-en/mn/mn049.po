@@ -30,12 +30,10 @@ msgctxt "mn49:1.3"
 msgid "Tatra kho bhagavā bhikkhū āmantesi:"
 msgstr "There the Buddha addressed the mendicants:"
 
-#. </p><p class="added">
 msgctxt "mn49:1.4"
 msgid "“bhikkhavo”ti."
 msgstr "“Mendicants!”"
 
-#. </p><p class="added">
 msgctxt "mn49:1.5"
 msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
 msgstr "“Venerable sir,” they replied."
@@ -179,7 +177,6 @@ msgctxt "mn49:6.2"
 msgid "‘jānāmi kho tāhaṃ, pāpima; mā tvaṃ maññittho:"
 msgstr "‘I know you, Wicked One. Do not think:"
 
-#. </p><p class="added">
 msgctxt "mn49:6.3"
 msgid "“na maṃ jānātī”ti."
 msgstr "“He does not know me.”"
@@ -196,7 +193,6 @@ msgctxt "mn49:6.6"
 msgid "Tuyhañhi, pāpima, evaṃ hoti:"
 msgstr "And you think:"
 
-#. </p><p class="added">
 msgctxt "mn49:6.7"
 msgid "“esopi me assa hatthagato, esopi me assa vasaṅgato”ti."
 msgstr "“Maybe this one, too, has fallen into my hands; maybe he’s under my sway!”"
@@ -436,6 +432,7 @@ msgctxt "mn49:11.4"
 msgid "Atha kho ahameva tayā bhiyyo."
 msgstr "Rather, I know more than you."
 
+#. </p><p class="added">
 msgctxt "mn49:11.5"
 msgid "Pathaviṃ kho ahaṃ, brahme, pathavito abhiññāya yāvatā pathaviyā pathavattena ananubhūtaṃ tadabhiññāya pathaviṃ nāpahosiṃ, pathaviyā nāpahosiṃ, pathavito nāpahosiṃ, pathaviṃ meti nāpahosiṃ, pathaviṃ nābhivadiṃ."
 msgstr "Having directly known earth as earth, and having directly known that which does not fall within the scope of experience based on earth, I did not identify with earth, I did not identify regarding earth, I did not identify as earth, I did not identify ‘earth is mine’, I did not enjoy earth."
@@ -534,10 +531,12 @@ msgctxt "mn49:26.1"
 msgid "Handa carahi te, mārisa, passa antaradhāyāmī’ti."
 msgstr "Well look now, good sir, I will vanish from you!’"
 
+#. </p><p class="added">
 msgctxt "mn49:26.2"
 msgid "‘Handa carahi me tvaṃ, brahme, antaradhāyassu, sace visahasī’ti."
 msgstr "‘All right, then, Brahmā, vanish from me—if you can.’"
 
+#. </p><p class="added">
 msgctxt "mn49:26.3"
 msgid "Atha kho, bhikkhave, bako brahmā:"
 msgstr "Then Baka the Brahmā said:"
@@ -556,10 +555,12 @@ msgctxt "mn49:26.6"
 msgid "‘handa carahi te brahme antaradhāyāmī’ti."
 msgstr "‘Well look now, Brahmā, I will vanish from you!’"
 
+#. </p><p class="added">
 msgctxt "mn49:26.7"
 msgid "‘Handa carahi me tvaṃ, mārisa, antaradhāyassu sace visahasī’ti."
 msgstr "‘All right, then, good sir, vanish from me—if you can.’"
 
+#. </p><p class="added">
 msgctxt "mn49:26.8"
 msgid "Atha kho ahaṃ, bhikkhave, tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhāsiṃ:"
 msgstr "Then I used my psychic power to will that"
@@ -677,9 +678,8 @@ msgstr "When he had spoken, I said to Māra:"
 
 msgctxt "mn49:30.2"
 msgid "‘jānāmi kho tāhaṃ, pāpima, mā tvaṃ maññittho:"
-msgstr "‘I know you, Wicked One. Do not think:"
+msgstr "‘I know you, Wicked One. Do not think,"
 
-#. </p><p class="added">
 msgctxt "mn49:30.3"
 msgid "“na maṃ jānātī”ti."
 msgstr "“He doesn’t know me.”"
@@ -698,13 +698,13 @@ msgstr "but with no compassion."
 
 msgctxt "mn49:30.7"
 msgid "Tuyhañhi, pāpima, evaṃ hoti:"
-msgstr "For you think:"
+msgstr "For you think,"
 
-#. </p><p class="added">
 msgctxt "mn49:30.8"
 msgid "“yesaṃ samaṇo gotamo dhammaṃ desessati, te me visayaṃ upātivattissantī”ti."
 msgstr "“Those who the ascetic Gotama teaches will go beyond my reach.”"
 
+#. </p><p class="added">
 msgctxt "mn49:30.9"
 msgid "Asammāsambuddhāva pana te, pāpima, samānā sammāsambuddhāmhāti paṭijāniṃsu."
 msgstr "Those who formerly claimed to be fully awakened Buddhas were not in fact fully awakened Buddhas."

@@ -309,7 +309,7 @@ msgstr "So I approached Āḷāra Kālāma and said to him:"
 
 msgctxt "mn100:10.13"
 msgid "‘ettāvatā no, āvuso kālāma, imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedesī’ti?"
-msgstr "‘Reverend Kālāma, have you realized this teaching with your own insight up to this point, and declare it having achieved it?’"
+msgstr "‘Reverend Kālāma, have you realized this teaching with your own insight up to this point, and declare having achieved it?’"
 
 msgctxt "mn100:10.14"
 msgid "‘Ettāvatā kho ahaṃ, āvuso, imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedemī’ti."
@@ -459,7 +459,7 @@ msgstr "So I approached Uddaka, son of Rāma, and said to him:"
 
 msgctxt "mn100:12.2"
 msgid "‘ettāvatā no, āvuso, rāmo imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedesī’ti?"
-msgstr "‘Reverend, had Rāma realized this teaching with his own insight up to this point, and declared it having achieved it?’"
+msgstr "‘Reverend, had Rāma realized this teaching with his own insight up to this point, and declared having achieved it?’"
 
 msgctxt "mn100:12.3"
 msgid "‘Ettāvatā kho, āvuso, rāmo imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedesī’ti."
@@ -1260,7 +1260,8 @@ msgctxt "mn100:42.6"
 msgid "adhidevā”ti."
 msgstr ""
 
-msgctxt "mn100:42.7"
+#. </p><p class="added">
+msgctxt "mn100:42.7
 msgid "“Kiṃ nu kho, bho gotama, ‘atthi devā’ti puṭṭho samāno ‘ṭhānaso metaṃ, bhāradvāja, viditaṃ yadidaṃ adhidevā’ti vadesi."
 msgstr "“But Master Gotama, when asked ‘Do gods exist?’ why did you say that you have understood the existence of gods in terms of causes?"
 

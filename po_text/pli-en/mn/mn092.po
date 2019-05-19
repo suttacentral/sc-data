@@ -25,12 +25,12 @@ msgctxt "mn92:1.2"
 msgid "ekaṃ samayaṃ bhagavā aṅguttarāpesu cārikaṃ caramāno mahatā bhikkhusaṃghena saddhiṃ aḍḍhateḷasehi bhikkhusatehi yena āpaṇaṃ nāma aṅguttarāpānaṃ nigamo tadavasari."
 msgstr "At one time the Buddha was wandering in the land of the Northern Āpaṇas together with a large Saṅgha of 1,250 mendicants when he arrived at a town of the Northern Āpaṇas named Āpaṇa."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya2"></a>
 msgctxt "mn92:2.1"
 msgid "Assosi kho keṇiyo jaṭilo:"
 msgstr "The matted-hair ascetic Keṇiya heard:"
 
-#. </p><p class="added">
 msgctxt "mn92:2.2"
 msgid "“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito aṅguttarāpesu cārikaṃ caramāno mahatā bhikkhusaṃghena saddhiṃ aḍḍhateḷasehi bhikkhusatehi āpaṇaṃ anuppatto."
 msgstr "“It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—has arrived at Āpaṇa, together with a large Saṅgha of 1,250 mendicants."
@@ -70,20 +70,20 @@ msgctxt "mn92:3.3"
 msgid "Ekamantaṃ nisinnaṃ kho keṇiyaṃ jaṭilaṃ bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi."
 msgstr "The Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk."
 
+#. </p><p class="added">
 msgctxt "mn92:3.4"
 msgid "Atha kho keṇiyo jaṭilo bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito bhagavantaṃ etadavoca:"
-msgstr "Then he said to the Buddha:"
+msgstr "Then he said to the Buddha,"
 
-#. </p><p class="added">
 msgctxt "mn92:3.5"
 msgid "“adhivāsetu me bhavaṃ gotamo svātanāya bhattaṃ saddhiṃ bhikkhusaṅghenā”ti."
 msgstr "“Would Master Gotama together with the mendicant Saṅgha please accept tomorrow’s meal from me?”"
 
+#. </p><p class="added">
 msgctxt "mn92:3.6"
 msgid "Evaṃ vutte, bhagavā keṇiyaṃ jaṭilaṃ etadavoca:"
-msgstr "When he said this, the Buddha said to him:"
+msgstr "When he said this, the Buddha said to him,"
 
-#. </p><p class="added">
 msgctxt "mn92:3.7"
 msgid "“mahā kho, keṇiya, bhikkhusaṅgho aḍḍhateḷasāni bhikkhusatāni, tvañca brāhmaṇesu abhippasanno”ti."
 msgstr "“The Saṅgha is large, Keṇiya; there are 1,250 mendicants. And you are devoted to the brahmins.”"
@@ -110,7 +110,6 @@ msgctxt "mn92:3.12"
 msgid "“mahā kho, keṇiya, bhikkhusaṅgho aḍḍhateḷasāni bhikkhusatāni, tvañca brāhmaṇesu abhippasanno”ti."
 msgstr ""
 
-#. </p><p>
 #. <a class="sc" id="sc4"></a>
 msgctxt "mn92:3.13"
 msgid "Tatiyampi kho keṇiyo jaṭilo bhagavantaṃ etadavoca:"
@@ -133,9 +132,8 @@ msgstr "Finally, the Buddha consented in silence."
 #. <a class="sc" id="sc5"></a>
 msgctxt "mn92:4.1"
 msgid "Atha kho keṇiyo jaṭilo bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā yena sako assamo tenupasaṅkami; upasaṅkamitvā mittāmacce ñātisālohite āmantesi:"
-msgstr "Then, knowing that the Buddha had consented, Keṇiya got up from his seat and went to his own hermitage. There he addressed his friends and colleagues, relatives and family members:"
+msgstr "Then, knowing that the Buddha had consented, Keṇiya got up from his seat and went to his own hermitage. There he addressed his friends and colleagues, relatives and family members,"
 
-#. </p><p class="added">
 msgctxt "mn92:4.2"
 msgid "“suṇantu me bhonto, mittāmaccā ñātisālohitā;"
 msgstr "“Gentlemen, please listen."
@@ -183,9 +181,8 @@ msgstr "He saw the preparations going on,"
 #. <a class="nya" id="nya7"></a>
 msgctxt "mn92:7.1"
 msgid "Disvāna keṇiyaṃ jaṭilaṃ etadavoca:"
-msgstr "and said to Keṇiya:"
+msgstr "and said to Keṇiya,"
 
-#. </p><p class="added">
 msgctxt "mn92:7.2"
 msgid "“kiṃ nu bhoto keṇiyassa āvāho vā bhavissati vivāho vā bhavissati mahāyañño vā paccupaṭṭhito, rājā vā māgadho seniyo bimbisāro nimantito svātanāya saddhiṃ balakāyenā”ti?"
 msgstr "“Keṇiya, is your son or daughter being married? Or are you setting up a big sacrifice? Or has King Seniya Bimbisāra of Magadha been invited for tomorrow’s meal?”"
@@ -248,7 +245,6 @@ msgctxt "mn92:10.1"
 msgid "Atha kho selassa brāhmaṇassa etadahosi:"
 msgstr "Then Sela thought:"
 
-#. </p><p class="added">
 #. VAR: yadidaṃ ‘buddho’ti → yadidaṃ buddho buddhoti (mr)
 msgctxt "mn92:10.2"
 msgid "“ghosopi kho eso dullabho lokasmiṃ—yadidaṃ ‘buddho’ti."
@@ -289,15 +285,16 @@ msgctxt "mn92:11.1"
 msgid "“Kahaṃ pana, bho keṇiya, etarahi so bhavaṃ gotamo viharati arahaṃ sammāsambuddho”ti?"
 msgstr "“But Keṇiya, where is the Blessed One at present, the perfected one, the fully awakened Buddha?”"
 
+#. </p><p class="added">
 msgctxt "mn92:11.2"
 msgid "Evaṃ vutte, keṇiyo jaṭilo dakkhiṇaṃ bāhuṃ paggahetvā selaṃ brāhmaṇaṃ etadavoca:"
-msgstr "When he said this, Keṇiya pointed with his right arm and said:"
+msgstr "When he said this, Keṇiya pointed with his right arm and said,"
 
-#. </p><p class="added">
 msgctxt "mn92:11.3"
 msgid "“yenesā, bho sela, nīlavanarājī”ti."
 msgstr "“There, Mister Sela, at that line of blue forest.”"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya12"></a>
 msgctxt "mn92:12.1"
 msgid "Atha kho selo brāhmaṇo tīhi māṇavakasatehi saddhiṃ yena bhagavā tenupasaṅkami."
@@ -305,18 +302,17 @@ msgstr "Then Sela, together with his students, approached the Buddha."
 
 msgctxt "mn92:12.2"
 msgid "Atha kho selo brāhmaṇo te māṇavake āmantesi:"
-msgstr "He said to his students:"
+msgstr "He said to his students,"
 
-#. </p><p class="added">
 #. VAR: pade padaṃ → pāde pādaṃ (bj)
 msgctxt "mn92:12.3"
 msgid "“appasaddā bhonto āgacchantu pade padaṃ nikkhipantā;"
-msgstr "“Come quietly, gentlemen, tread carefully."
+msgstr "“Come quietly, gentlemen, tread gently."
 
 #. VAR: durāsadā → dūrasaddā (mr)
 msgctxt "mn92:12.4"
 msgid "durāsadā hi te bhagavanto sīhāva ekacarā."
-msgstr "For the Buddhas are hard to attack, like a lion living alone."
+msgstr "For the Buddhas are intimidating, like a lion living alone."
 
 msgctxt "mn92:12.5"
 msgid "Yadā cāhaṃ, bho, samaṇena gotamena saddhiṃ manteyyaṃ, mā me bhonto antarantarā kathaṃ opātetha."
@@ -326,6 +322,7 @@ msgctxt "mn92:12.6"
 msgid "Kathāpariyosānaṃ me bhavanto āgamentū”ti."
 msgstr "Wait until I’ve finished speaking.”"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya13"></a>
 msgctxt "mn92:13.1"
 msgid "Atha kho selo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi."
@@ -353,11 +350,11 @@ msgctxt "mn92:13.6"
 msgid "kosohite ca vatthaguyhe pahūtajivhatāya ca."
 msgstr "whether the private parts are retracted, and the largeness of the tongue."
 
+#. </p><p class="added">
 msgctxt "mn92:13.7"
 msgid "Atha kho bhagavato etadahosi:"
-msgstr "Then it occurred to the Buddha:"
+msgstr "Then it occurred to the Buddha,"
 
-#. </p><p class="added">
 msgctxt "mn92:13.8"
 msgid "“passati kho me ayaṃ selo brāhmaṇo dvattiṃsamahāpurisalakkhaṇāni, yebhuyyena ṭhapetvā dve."
 msgstr "“Sela sees all the marks except for two,"
@@ -370,21 +367,22 @@ msgctxt "mn92:13.10"
 msgid "kosohite ca vatthaguyhe pahūtajivhatāya cā”ti."
 msgstr "whether the private parts are retracted, and the largeness of the tongue.”"
 
+#. </p><p class="added">
 #. <a class="nya" id="nya14"></a>
 msgctxt "mn92:14.1"
 msgid "Atha kho bhagavā tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhāsi, yathā addasa selo brāhmaṇo bhagavato kosohitaṃ vatthaguyhaṃ."
-msgstr "Then the Buddha used his psychic power to will that Sela would see his retracted private parts."
+msgstr "The Buddha used his psychic power to will that Sela would see his retracted private parts."
 
 msgctxt "mn92:14.2"
 msgid "Atha kho bhagavā jivhaṃ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi; ubhopi nāsikasotāni anumasi paṭimasi; kevalampi nalāṭamaṇḍalaṃ jivhāya chādesi."
 msgstr "And he stuck out his tongue and stroked back and forth on his ear holes and nostrils, and covered his entire forehead with his tongue."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya15"></a>
 msgctxt "mn92:15.1"
 msgid "Atha kho selassa brāhmaṇassa etadahosi:"
-msgstr "Then Sela thought:"
+msgstr "Then Sela thought,"
 
-#. </p><p class="added">
 msgctxt "mn92:15.2"
 msgid "“samannāgato kho samaṇo gotamo dvattiṃsamahāpurisalakkhaṇehi paripuṇṇehi, no aparipuṇṇehi;"
 msgstr "“The ascetic Gotama possesses the thirty-two marks completely, lacking none."
@@ -611,107 +609,112 @@ msgstr "of teaching you rolled forth?”"
 #. <a class="nya" id="nya19"></a>
 #. <a class="sc" id="sc26"></a>
 msgctxt "mn92:19.1"
-msgid "“Mayā pavattitaṃ cakkaṃ, (selāti bhagavā)"
-msgstr "“By me the wheel was rolled forth,” said the Buddha,"
+msgid "“Mayā pavattitaṃ cakkaṃ,"
+msgstr "“By me the wheel was rolled forth,”"
 
-#. <br>
+#. <span class="speaker">
 msgctxt "mn92:19.2"
+msgid "(selāti bhagavā)"
+msgstr "said the Buddha,"
+
+#. </span><br>
+msgctxt "mn92:19.3"
 msgid "Dhammacakkaṃ anuttaraṃ;"
 msgstr "“the supreme wheel of teaching."
 
 #. <br>
-msgctxt "mn92:19.3"
+msgctxt "mn92:19.4"
 msgid "Sāriputto anuvatteti,"
 msgstr "Sāriputta, taking after the Realized One,"
 
 # anujata is defined at Iti 74 as a son who “takes after” the good qualities of his parents.
 #. <br>
-msgctxt "mn92:19.4"
+msgctxt "mn92:19.5"
 msgid "Anujāto tathāgataṃ."
 msgstr "keeps it rolling on."
 
 #. </p><p>
 #. <a class="sc" id="sc27"></a>
-msgctxt "mn92:19.5"
+msgctxt "mn92:19.6"
 msgid "Abhiññeyyaṃ abhiññātaṃ,"
 msgstr "I have known what should be known,"
 
 #. <br>
-msgctxt "mn92:19.6"
+msgctxt "mn92:19.7"
 msgid "bhāvetabbañca bhāvitaṃ;"
 msgstr "and developed what should be developed,"
 
 #. <br>
-msgctxt "mn92:19.7"
+msgctxt "mn92:19.8"
 msgid "Pahātabbaṃ pahīnaṃ me,"
 msgstr "and given up what should be given up:"
 
 #. <br>
-msgctxt "mn92:19.8"
+msgctxt "mn92:19.9"
 msgid "tasmā buddhosmi brāhmaṇa."
 msgstr "and so, brahmin, I am a Buddha."
 
 #. </p><p>
 #. <a class="sc" id="sc28"></a>
-msgctxt "mn92:19.9"
+msgctxt "mn92:19.10"
 msgid "Vinayassu mayi kaṅkhaṃ,"
 msgstr "Dispel your doubt in me—"
 
 #. <br>
-msgctxt "mn92:19.10"
+msgctxt "mn92:19.11"
 msgid "adhimuccassu brāhmaṇa;"
 msgstr "make up your mind, brahmin!"
 
 #. <br>
-msgctxt "mn92:19.11"
+msgctxt "mn92:19.12"
 msgid "Dullabhaṃ dassanaṃ hoti,"
 msgstr "The sight of a Buddha"
 
 # Abhinhaso means “repeatedly”. Here the force of the idiom, I think is “it’s hard enough to encounter a Buddha even once, fat chance of finding one again!”
 #. <br>
-msgctxt "mn92:19.12"
+msgctxt "mn92:19.13"
 msgid "sambuddhānaṃ abhiṇhaso."
 msgstr "is hard to find again."
 
 #. </p><p>
 #. <a class="sc" id="sc29"></a>
-msgctxt "mn92:19.13"
+msgctxt "mn92:19.14"
 msgid "Yesaṃ ve dullabho loke,"
 msgstr "I am a Buddha, brahmin,"
 
 #. <br>
-msgctxt "mn92:19.14"
+msgctxt "mn92:19.15"
 msgid "pātubhāvo abhiṇhaso;"
 msgstr "the supreme surgeon,"
 
 #. <br>
-msgctxt "mn92:19.15"
+msgctxt "mn92:19.16"
 msgid "Sohaṃ brāhmaṇa sambuddho,"
 msgstr "one of those whose appearance in the world"
 
 #. <br>
-msgctxt "mn92:19.16"
+msgctxt "mn92:19.17"
 msgid "sallakatto anuttaro."
 msgstr "is hard to find again."
 
 #. </p><p>
 #. <a class="sc" id="sc30"></a>
-msgctxt "mn92:19.17"
+msgctxt "mn92:19.18"
 msgid "Brahmabhūto atitulo,"
 msgstr "Holy, unequalled,"
 
 #. <br>
-msgctxt "mn92:19.18"
+msgctxt "mn92:19.19"
 msgid "mārasenappamaddano;"
 msgstr "crusher of Māra’s army;"
 
 #. <br>
-msgctxt "mn92:19.19"
+msgctxt "mn92:19.20"
 msgid "Sabbāmitte vasī katvā,"
 msgstr "having subdued all my opponents,"
 
 #. <br>
-msgctxt "mn92:19.20"
+msgctxt "mn92:19.21"
 msgid "modāmi akutobhayo”."
 msgstr "I rejoice, fearing nothing from any quarter.”"
 
@@ -828,21 +831,26 @@ msgstr "in your presence, Blessed One?’”"
 #. <a class="nya" id="nya23"></a>
 #. <a class="sc" id="sc36"></a>
 msgctxt "mn92:23.1"
-msgid "“Svākkhātaṃ brahmacariyaṃ, (selāti bhagavā)"
-msgstr "“The spiritual life is well explained,” said the Buddha,"
+msgid "“Svākkhātaṃ brahmacariyaṃ,"
+msgstr "“The spiritual life is well explained,”"
 
-#. <br>
+#. <span class="speaker">
 msgctxt "mn92:23.2"
+msgid "(selāti bhagavā)"
+msgstr "said the Buddha,"
+
+#. </span><br>
+msgctxt "mn92:23.3"
 msgid "Sandiṭṭhikamakālikaṃ;"
 msgstr "“visible in this very life, immediately effective."
 
 #. <br>
-msgctxt "mn92:23.3"
+msgctxt "mn92:23.4"
 msgid "Yattha amoghā pabbajjā,"
 msgstr "Here the going forth isn’t in vain"
 
 #. <br>
-msgctxt "mn92:23.4"
+msgctxt "mn92:23.5"
 msgid "Appamattassa sikkhato”ti."
 msgstr "for one who trains with diligence.”"
 
@@ -858,13 +866,13 @@ msgstr "And the brahmin Sela together with his assembly received the going forth
 #. <a class="sc" id="sc38"></a>
 msgctxt "mn92:25.1"
 msgid "Atha kho keṇiyo jaṭilo tassā rattiyā accayena sake assame paṇītaṃ khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā bhagavato kālaṃ ārocāpesi:"
-msgstr "And when the night had passed Keṇiya had a variety of delicious foods prepared in his own home. Then he had the Buddha informed of the time, saying:"
+msgstr "And when the night had passed Keṇiya had a variety of delicious foods prepared in his own home. Then he had the Buddha informed of the time, ,saying:"
 
-#. </p><p class="added">
 msgctxt "mn92:25.2"
 msgid "“kālo, bho gotama, niṭṭhitaṃ bhattan”ti."
 msgstr "“Itʼs time, Master Gotama, the meal is ready.”"
 
+#. </p><p class="added">
 msgctxt "mn92:25.3"
 msgid "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena keṇiyassa jaṭilassa assamo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṃ bhikkhusaṅghena."
 msgstr "Then the Buddha robed up in the morning and, taking his bowl and robe, went to Keṇiya’s hermitage, where he sat on the seat spread out, together with the Saṅgha of mendicants."
@@ -945,6 +953,7 @@ msgctxt "mn92:27.3"
 msgid "Aññataro kho panāyasmā selo sapariso arahataṃ ahosi."
 msgstr "And Venerable Sela together with his assembly became perfected."
 
+#. </p><p class="added">
 #. <a class="nya" id="nya28"></a>
 msgctxt "mn92:28.1"
 msgid "Atha kho āyasmā selo sapariso yena bhagavā tenupasaṅkami; upasaṅkamitvā ekaṃsaṃ cīvaraṃ katvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ gāthāhi ajjhabhāsi:"

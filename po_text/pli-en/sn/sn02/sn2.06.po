@@ -36,22 +36,27 @@ msgstr "“It’s too hard, Blessed One! It’s just too hard!”"
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn2.6:2.1"
-msgid "“Dukkaraṃ vāpi karonti, (kāmadāti bhagavā)"
-msgstr "“They do it even though it’s hard,” said the Buddha to Kāmada,"
+msgid "“Dukkaraṃ vāpi karonti,"
+msgstr "“They do it even though it’s hard,”"
+
+#. <span class="speaker">
+msgctxt "sn2.6:2.2"
+msgid "(kāmadāti bhagavā)"
+msgstr "said the Buddha to Kāmada,"
 
 # See my note on AN 8.59 for silasamahita
-#. <br>
-msgctxt "sn2.6:2.2"
+#. </span><br>
+msgctxt "sn2.6:2.3"
 msgid "Sekhā sīlasamāhitā;"
 msgstr "“the stable trainees with ethics, and immersion."
 
 #. <br>
-msgctxt "sn2.6:2.3"
+msgctxt "sn2.6:2.4"
 msgid "Ṭhitattā anagāriyupetassa,"
 msgstr "For one who has entered the homeless life,"
 
 #. <br>
-msgctxt "sn2.6:2.4"
+msgctxt "sn2.6:2.5"
 msgid "Tuṭṭhi hoti sukhāvahā”ti."
 msgstr "contentment brings happiness.”"
 
@@ -64,21 +69,26 @@ msgstr "“Such contentment, Blessed One, is hard to find.”"
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc4"></a>
 msgctxt "sn2.6:4.1"
-msgid "“Dullabhaṃ vāpi labhanti, (kāmadāti bhagavā)"
-msgstr "“They find it even though it’s hard,” said the Buddha to Kāmada,"
+msgid "“Dullabhaṃ vāpi labhanti,"
+msgstr "“They find it even though it’s hard,”"
 
-#. <br>
+#. <span class="speaker">
 msgctxt "sn2.6:4.2"
+msgid "(kāmadāti bhagavā)"
+msgstr "said the Buddha to Kāmada,"
+
+#. </span><br>
+msgctxt "sn2.6:4.3"
 msgid "Cittavūpasame ratā;"
 msgstr "“those who love peace of mind;"
 
 #. <br>
-msgctxt "sn2.6:4.3"
+msgctxt "sn2.6:4.4"
 msgid "Yesaṃ divā ca ratto ca,"
 msgstr "whose minds love to meditate"
 
 #. <br>
-msgctxt "sn2.6:4.4"
+msgctxt "sn2.6:4.5"
 msgid "Bhāvanāya rato mano”ti."
 msgstr "day and night.”"
 
@@ -91,21 +101,26 @@ msgstr "“But it’s hard, Blessed One, to immerse this mind in samādhi.”"
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc6"></a>
 msgctxt "sn2.6:6.1"
-msgid "“Dussamādahaṃ vāpi samādahanti, (kāmadāti bhagavā)"
-msgstr "“They become immersed in samādhi even though it’s hard,” said the Buddha to Kāmada,"
+msgid "“Dussamādahaṃ vāpi samādahanti,"
+msgstr "“They become immersed in samādhi even though it’s hard,”"
 
-#. <br>
+#. <span class="speaker">
 msgctxt "sn2.6:6.2"
+msgid "(kāmadāti bhagavā)"
+msgstr " said the Buddha to Kāmada,"
+
+#. </span><br>
+msgctxt "sn2.6:6.3"
 msgid "Indriyūpasame ratā;"
 msgstr "“those who love calming the faculties."
 
 #. <br>
-msgctxt "sn2.6:6.3"
+msgctxt "sn2.6:6.4"
 msgid "Te chetvā maccuno jālaṃ,"
 msgstr "Having cut through the net of Death,"
 
 #. <br>
-msgctxt "sn2.6:6.4"
+msgctxt "sn2.6:6.5"
 msgid "Ariyā gacchanti kāmadā”ti."
 msgstr "the noble ones, Kāmada, go on their way.”"
 

@@ -53,10 +53,15 @@ msgstr "the sage, the solitary bull.”"
 #. <a class="pts2ed" id="pts2ed1.111"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn2.7:3.1"
-msgid "“Sambādhe vāpi vindanti, (pañcālacaṇḍāti bhagavā)"
-msgstr "“Even amid confinement they discover,” said the Buddha to Pañcālacaṇḍa,"
+msgid "“Sambādhe vāpi vindanti,"
+msgstr "“Even amid confinement they discover,”"
 
-#. <br>
+#. <span class="speaker">
+msgctxt "sn2.7:3.1"
+msgid "(pañcālacaṇḍāti bhagavā)"
+msgstr "said the Buddha to Pañcālacaṇḍa,"
+
+#. </span><br>
 msgctxt "sn2.7:3.2"
 msgid "Dhammaṃ nibbānapattiyā;"
 msgstr "“the principle for attaining extinguishment."
