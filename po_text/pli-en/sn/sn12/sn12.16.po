@@ -2,110 +2,112 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn12.16"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn12.16"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.16:0.1"
-msgid "Saṃyutta Nikāya 12"
-msgstr "Linked Discourses 12"
+msgid "Saṃyutta Nikāya 12 "
+msgstr "Linked Discourses 12 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn12.16:0.2"
-msgid "2. Āhāravagga"
-msgstr "2. Fuel"
+msgid "2. Āhāravagga "
+msgstr "2. Fuel "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn12.16:0.3"
-msgid "16. Dhammakathikasutta"
-msgstr "16. A Dhamma Speaker"
+msgid "16. Dhammakathikasutta "
+msgstr "16. A Dhamma Speaker "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.18"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli2.18, sc1
 msgctxt "sn12.16:1.1"
-msgid "Sāvatthiyaṃ …"
-msgstr "At Sāvatthī."
+msgid "Sāvatthiyaṃ … "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn12.16:1.2"
-msgid "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:"
-msgstr "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:"
+msgid "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca: "
+msgstr "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him: "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn12.16:1.3"
-msgid "“‘dhammakathiko dhammakathiko’ti, bhante, vuccati."
-msgstr "“Sir, they speak of a ‘Dhamma speaker’."
+msgid "“‘dhammakathiko dhammakathiko’ti, bhante, vuccati. "
+msgstr "“Sir, they speak of a ‘Dhamma speaker’. "
 
 msgctxt "sn12.16:1.4"
-msgid "Kittāvatā nu kho, bhante, dhammakathiko hotī”ti?"
-msgstr "How is a Dhamma speaker defined?”"
+msgid "Kittāvatā nu kho, bhante, dhammakathiko hotī”ti? "
+msgstr "How is a Dhamma speaker defined?” "
 
-# Note that here bhikkhu can be read as either vocative or nominative. Given that such passages virtually always include a vocative, BB translates thus, taking the nominative as implied. Indeed, at the parallel passage in SN 35.155 the same phrase is punctuated as a vocative. However, at SN 12.67 we explicitly have “avuso, bhikkhu” i.e. the sentence takes bhikkhu as nominative. I suspect that when the text is addresed to “a bhikkhu” it resulted in a repeated “bhikkhu bhikkhu”, which came to be omitted as an error. Thus I take the syntax at SN 12.67 as correct, and insert the implied nominative.<a class="sc" id="sc2"></a>
-#. </p><p>
+# NOTE: Note that here bhikkhu can be read as either vocative or nominative. Given that such passages virtually always include a vocative, BB translates thus, taking the nominative as implied. Indeed, at the parallel passage in SN 35.155 the same phrase is punctuated as a vocative. However, at SN 12.67 we explicitly have “avuso, bhikkhu” i.e. the sentence takes bhikkhu as nominative. I suspect that when the text is addresed to “a bhikkhu” it resulted in a repeated “bhikkhu bhikkhu”, which came to be omitted as an error. Thus I take the syntax at SN 12.67 as correct, and insert the implied nominative.sc2
+#. HTML: </p><p>
 msgctxt "sn12.16:1.5"
-msgid "“Jarāmaraṇassa ce bhikkhu nibbidāya virāgāya nirodhāya dhammaṃ deseti, ‘dhammakathiko bhikkhū’ti alaṃvacanāya."
-msgstr "“If a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called a ‘mendicant who speaks on Dhamma’."
+msgid "“Jarāmaraṇassa ce bhikkhu nibbidāya virāgāya nirodhāya dhammaṃ deseti, ‘dhammakathiko bhikkhū’ti alaṃvacanāya. "
+msgstr "“If a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called a ‘mendicant who speaks on Dhamma’. "
 
 msgctxt "sn12.16:1.6"
-msgid "Jarāmaraṇassa ce bhikkhu nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṃvacanāya."
-msgstr "If they practice for disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called a ‘mendicant who practices in line with the teaching’."
+msgid "Jarāmaraṇassa ce bhikkhu nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṃvacanāya. "
+msgstr "If they practice for disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called a ‘mendicant who practices in line with the teaching’. "
 
 msgctxt "sn12.16:1.7"
-msgid "Jarāmaraṇassa ce bhikkhu nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṃvacanāya."
-msgstr "If they’re freed by not grasping, by disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called a ‘mendicant who has attained extinguishment in this very life’."
+msgid "Jarāmaraṇassa ce bhikkhu nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṃvacanāya. "
+msgstr "If they’re freed by not grasping, by disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called a ‘mendicant who has attained extinguishment in this very life’. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn12.16:3.1"
-msgid "Jātiyā ce bhikkhu … pe …"
-msgstr "If a mendicant teaches Dhamma for disillusionment regarding rebirth …"
+msgid "Jātiyā ce bhikkhu … pe … "
+msgstr "If a mendicant teaches Dhamma for disillusionment regarding rebirth … "
 
 msgctxt "sn12.16:3.2"
-msgid "bhavassa ce bhikkhu …"
-msgstr "continued existence …"
+msgid "bhavassa ce bhikkhu … "
+msgstr "continued existence … "
 
 msgctxt "sn12.16:3.3"
-msgid "upādānassa ce bhikkhu …"
-msgstr "grasping …"
+msgid "upādānassa ce bhikkhu … "
+msgstr "grasping … "
 
 msgctxt "sn12.16:3.4"
-msgid "taṇhāya ce bhikkhu …"
-msgstr "craving …"
+msgid "taṇhāya ce bhikkhu … "
+msgstr "craving … "
 
 msgctxt "sn12.16:3.5"
-msgid "vedanāya ce bhikkhu …"
-msgstr "feeling …"
+msgid "vedanāya ce bhikkhu … "
+msgstr "feeling … "
 
 msgctxt "sn12.16:3.6"
-msgid "phassassa ce bhikkhu …"
-msgstr "contact …"
+msgid "phassassa ce bhikkhu … "
+msgstr "contact … "
 
 msgctxt "sn12.16:3.7"
-msgid "saḷāyatanassa ce bhikkhu …"
-msgstr "the six sense fields …"
+msgid "saḷāyatanassa ce bhikkhu … "
+msgstr "the six sense fields … "
 
 msgctxt "sn12.16:3.8"
-msgid "nāmarūpassa ce bhikkhu …"
-msgstr "name and form …"
+msgid "nāmarūpassa ce bhikkhu … "
+msgstr "name and form … "
 
 msgctxt "sn12.16:3.9"
-msgid "viññāṇassa ce bhikkhu …"
-msgstr "consciousness …"
+msgid "viññāṇassa ce bhikkhu … "
+msgstr "consciousness … "
 
 msgctxt "sn12.16:3.10"
-msgid "saṅkhārānañce bhikkhu …"
-msgstr "choices …"
+msgid "saṅkhārānañce bhikkhu … "
+msgstr "choices … "
 
 msgctxt "sn12.16:3.11"
-msgid "avijjāya ce bhikkhu nibbidāya virāgāya nirodhāya dhammaṃ deseti, ‘dhammakathiko bhikkhū’ti alaṃvacanāya."
-msgstr "If a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called a ‘mendicant who speaks on Dhamma’."
+msgid "avijjāya ce bhikkhu nibbidāya virāgāya nirodhāya dhammaṃ deseti, ‘dhammakathiko bhikkhū’ti alaṃvacanāya. "
+msgstr "If a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called a ‘mendicant who speaks on Dhamma’. "
 
 msgctxt "sn12.16:3.12"
-msgid "Avijjāya ce bhikkhu nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṃvacanāya."
-msgstr "If they practice for disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called a ‘mendicant who practices in line with the teaching’."
+msgid "Avijjāya ce bhikkhu nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṃvacanāya. "
+msgstr "If they practice for disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called a ‘mendicant who practices in line with the teaching’. "
 
 msgctxt "sn12.16:3.13"
-msgid "Avijjāya ce bhikkhu nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṃvacanāyā”ti."
-msgstr "If they’re freed by not grasping, by disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called a ‘mendicant who has attained extinguishment in this very life’.”"
+msgid "Avijjāya ce bhikkhu nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṃvacanāyā”ti. "
+msgstr "If they’re freed by not grasping, by disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called a ‘mendicant who has attained extinguishment in this very life’.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn12.16:3.14"
-msgid "Chaṭṭhaṃ."
+msgid "Chaṭṭhaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

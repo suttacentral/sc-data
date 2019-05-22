@@ -2,94 +2,96 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn21.9"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn21.9"><article><div class="hgroup"><p class="division">
 msgctxt "sn21.9:0.1"
-msgid "Saṃyutta Nikāya 21"
-msgstr "Linked Discourses 21"
+msgid "Saṃyutta Nikāya 21 "
+msgstr "Linked Discourses 21 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn21.9:0.2"
-msgid "1. Bhikkhuvagga"
-msgstr "1. Monks"
+msgid "1. Bhikkhuvagga "
+msgstr "1. Monks "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn21.9:0.3"
-msgid "9. Tissasutta"
-msgstr "9. With Tissa"
+msgid "9. Tissasutta "
+msgstr "9. With Tissa "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.282"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli2.282, sc1
 msgctxt "sn21.9:1.1"
-msgid "Sāvatthiyaṃ viharati."
-msgstr "At Sāvatthī."
+msgid "Sāvatthiyaṃ viharati. "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn21.9:1.2"
-msgid "Atha kho āyasmā tisso bhagavato pitucchāputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi dukkhī dummano assūni pavattayamāno. Atha kho bhagavā āyasmantaṃ tissaṃ etadavoca:"
-msgstr "Then Venerable Tissa—the Buddha’s cousin on his father’s side—went to the Buddha, bowed, and sat down to one side. He was miserable and sad, with tears flowing. Then the Buddha said to him:"
+msgid "Atha kho āyasmā tisso bhagavato pitucchāputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi dukkhī dummano assūni pavattayamāno. Atha kho bhagavā āyasmantaṃ tissaṃ etadavoca: "
+msgstr "Then Venerable Tissa—the Buddha’s cousin on his father’s side—went to the Buddha, bowed, and sat down to one side. He was miserable and sad, with tears flowing. Then the Buddha said to him: "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn21.9:1.3"
-msgid "“kiṃ nu kho tvaṃ, tissa, ekamantaṃ nisinno dukkhī dummano assūni pavattayamāno”ti?"
-msgstr "“Tissa, why are you sitting there so miserable and sad, with tears flowing?”"
+msgid "“kiṃ nu kho tvaṃ, tissa, ekamantaṃ nisinno dukkhī dummano assūni pavattayamāno”ti? "
+msgstr "“Tissa, why are you sitting there so miserable and sad, with tears flowing?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 #. VAR: vācāyasannitodakena → vācāsannitodakena (bj)
 #. VAR: sañjambharimakaṃsū”ti → sañjambhariṃ akaṃsūti (bj, s1-3) | sañjabbharimakaṃsūti (?)
 msgctxt "sn21.9:1.4"
-msgid "“Tathā hi pana maṃ, bhante, bhikkhū samantā vācāyasannitodakena sañjambharimakaṃsū”ti."
-msgstr "“Sir, it’s because the mendicants on all sides provoke me with barbed words.”"
+msgid "“Tathā hi pana maṃ, bhante, bhikkhū samantā vācāyasannitodakena sañjambharimakaṃsū”ti. "
+msgstr "“Sir, it’s because the mendicants on all sides provoke me with barbed words.” "
 
-# BB gives the commentarial explanation, without noting that it blatantly contradicts the sutta.
-#. </p><p class="added">
+# NOTE: BB gives the commentarial explanation, without noting that it blatantly contradicts the sutta.
+#. HTML: </p><p class="added">
 msgctxt "sn21.9:1.5"
-msgid "“Tathāhi pana tvaṃ, tissa, vattā no ca vacanakkhamo;"
-msgstr "“That’s because you admonish others, but don’t accept admonition yourself."
+msgid "“Tathāhi pana tvaṃ, tissa, vattā no ca vacanakkhamo; "
+msgstr "“That’s because you admonish others, but don’t accept admonition yourself. "
 
 msgctxt "sn21.9:1.6"
-msgid "na kho te taṃ, tissa, patirūpaṃ kulaputtassa saddhā agārasmā anagāriyaṃ pabbajitassa, yaṃ tvaṃ vattā no ca vacanakkhamo."
-msgstr "As a son of a good family who has gone forth in faith from the lay life to homelessness, it’s not appropriate for you to admonish others without accepting admonition yourself."
+msgid "na kho te taṃ, tissa, patirūpaṃ kulaputtassa saddhā agārasmā anagāriyaṃ pabbajitassa, yaṃ tvaṃ vattā no ca vacanakkhamo. "
+msgstr "As a gentleman who has gone forth in faith from the lay life to homelessness, it’s not appropriate for you to admonish others without accepting admonition yourself. "
 
 msgctxt "sn21.9:1.7"
-msgid "Etaṃ kho te, tissa, patirūpaṃ kulaputtassa saddhā agārasmā anagāriyaṃ pabbajitassa:"
-msgstr "It’s appropriate for you to"
+msgid "Etaṃ kho te, tissa, patirūpaṃ kulaputtassa saddhā agārasmā anagāriyaṃ pabbajitassa: "
+msgstr "It’s appropriate for you to "
 
 msgctxt "sn21.9:1.8"
-msgid "‘yaṃ tvaṃ vattā ca assa vacanakkhamo cā’”ti."
-msgstr "admonish others and accept admonition yourself.”"
+msgid "‘yaṃ tvaṃ vattā ca assa vacanakkhamo cā’”ti. "
+msgstr "admonish others and accept admonition yourself.” "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn21.9:2.1"
-msgid "Idamavoca bhagavā."
-msgstr "That is what the Buddha said."
+msgid "Idamavoca bhagavā. "
+msgstr "That is what the Buddha said. "
 
 msgctxt "sn21.9:2.2"
-msgid "Idaṃ vatvāna sugato athāparaṃ etadavoca satthā:"
-msgstr "Then the Holy One, the Teacher, went on to say:"
+msgid "Idaṃ vatvāna sugato athāparaṃ etadavoca satthā: "
+msgstr "Then the Holy One, the Teacher, went on to say: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc3
 msgctxt "sn21.9:3.1"
-msgid "“Kiṃ nu kujjhasi mā kujjhi,"
-msgstr "“Why are you angry? Don’t be angry!"
+msgid "“Kiṃ nu kujjhasi mā kujjhi, "
+msgstr "“Why are you angry? Don’t be angry! "
 
 #. <br>
 msgctxt "sn21.9:3.2"
-msgid "Akkodho tissa te varaṃ;"
-msgstr "It’s better to not be angry, Tissa."
+msgid "Akkodho tissa te varaṃ; "
+msgstr "It’s better to not be angry, Tissa. "
 
 #. <br>
 msgctxt "sn21.9:3.3"
-msgid "Kodhamānamakkhavinayatthañhi,"
-msgstr "For this spiritual life is lived"
+msgid "Kodhamānamakkhavinayatthañhi, "
+msgstr "For this spiritual life is lived "
 
 #. <br>
 msgctxt "sn21.9:3.4"
-msgid "Tissa brahmacariyaṃ vussatī”ti."
-msgstr "in order to remove anger, conceit, and denigration.”"
+msgid "Tissa brahmacariyaṃ vussatī”ti. "
+msgstr "in order to remove anger, conceit, and denigration.” "
 
-#. </p></blockquote><p class="endsection">
+#. HTML: </p></blockquote><p class="endsection">
 msgctxt "sn21.9:3.5"
-msgid "Navamaṃ."
+msgid "Navamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

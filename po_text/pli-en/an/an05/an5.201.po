@@ -2,67 +2,69 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an5.201"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an5.201"><article><div class="hgroup"><p class="division">
 msgctxt "an5.201:0.1"
-msgid "Aṅguttara Nikāya 5"
-msgstr "Numbered Discourses 5"
+msgid "Aṅguttara Nikāya 5 "
+msgstr "Numbered Discourses 5 "
 
-#. </p><p>
+#. HTML: </p><p>
 #. VAR: kimbilavaggo (bj, s1-3, pts1)
 msgctxt "an5.201:0.2"
-msgid "21. Kimilavagga"
-msgstr "21. With Kimbila"
+msgid "21. Kimilavagga "
+msgstr "21. With Kimbila "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: kimbilasuttaṃ (bj)
 msgctxt "an5.201:0.3"
-msgid "201. Kimilasutta"
-msgstr "201. With Kimbila"
+msgid "201. Kimilasutta "
+msgstr "201. With Kimbila "
 
-# See BB for the reading nicula=Barringtonia acutangula, https://en.wikipedia.org/wiki/Barringtonia_acutangula
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+# NOTE: See BB for the reading nicula=Barringtonia acutangula, https://en.wikipedia.org/wiki/Barringtonia_acutangula
+#. HTML: </h1></div><p>
+#. REF: sc1
 #. VAR: kimilāyaṃ → kimbilāyaṃ (bj, pts1)
 msgctxt "an5.201:1.1"
-msgid "Ekaṃ samayaṃ bhagavā kimilāyaṃ viharati veḷuvane."
-msgstr "At one time the Buddha was staying near Kimbilā in the Freshwater Mangrove Wood."
+msgid "Ekaṃ samayaṃ bhagavā kimilāyaṃ viharati veḷuvane. "
+msgstr "At one time the Buddha was staying near Kimbilā in the Freshwater Mangrove Wood. "
 
 #. VAR: kimilo → kimbilo (bj, s1-3, km, pts1)
 msgctxt "an5.201:1.2"
-msgid "Atha kho āyasmā kimilo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā kimilo bhagavantaṃ etadavoca:"
-msgstr "Then Venerable Kimbila went up to the Buddha, bowed, sat down to one side, and said to him:"
+msgid "Atha kho āyasmā kimilo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā kimilo bhagavantaṃ etadavoca: "
+msgstr "Then Venerable Kimbila went up to the Buddha, bowed, sat down to one side, and said to him: "
 
-# This is one sutta where the choice of definite or indefinite article affects the interpretation. See BB’s note. I have used “the”, opting for the less cosmic interpretation. This, it seems to me, avoids the problem of assuming that the text occurs at a time when the comsic Buddha-cycle was well-known.
-#. </p><p class="added">
+# NOTE: This is one sutta where the choice of definite or indefinite article affects the interpretation. See BB’s note. I have used “the”, opting for the less cosmic interpretation. This, it seems to me, avoids the problem of assuming that the text occurs at a time when the comsic Buddha-cycle was well-known.
+#. HTML: </p><p class="added">
 msgctxt "an5.201:1.3"
-msgid "“ko nu kho, bhante, hetu ko paccayo, yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti?"
-msgstr "“What is the cause, sir, what is the reason why the true teaching does not last long after the final extinguishment of the Realized One?”"
+msgid "“ko nu kho, bhante, hetu ko paccayo, yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti? "
+msgstr "“What is the cause, sir, what is the reason why the true teaching does not last long after the final extinguishment of the Realized One?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an5.201:1.4"
-msgid "“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṃghe agāravā viharanti appatissā, sikkhāya agāravā viharanti appatissā, aññamaññaṃ agāravā viharanti appatissā."
-msgstr "“Kimbila, it’s when the monks, nuns, laymen, and laywomen lack respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and each other after the final extinguishment of the Realized One."
+msgid "“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṃghe agāravā viharanti appatissā, sikkhāya agāravā viharanti appatissā, aññamaññaṃ agāravā viharanti appatissā. "
+msgstr "“Kimbila, it’s when the monks, nuns, laymen, and laywomen lack respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and each other after the final extinguishment of the Realized One. "
 
 msgctxt "an5.201:1.5"
-msgid "Ayaṃ kho, kimila, hetu ayaṃ paccayo, yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti."
-msgstr "This is the cause, this is the reason why the true teaching does not last long after the final extinguishment of the Realized One.”"
+msgid "Ayaṃ kho, kimila, hetu ayaṃ paccayo, yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti. "
+msgstr "This is the cause, this is the reason why the true teaching does not last long after the final extinguishment of the Realized One.” "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an5.201:2.1"
-msgid "“Ko pana, bhante, hetu ko paccayo, yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti?"
-msgstr "“What is the cause, sir, what is the reason why the true teaching does last long after the final extinguishment of the Realized One?”"
+msgid "“Ko pana, bhante, hetu ko paccayo, yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti? "
+msgstr "“What is the cause, sir, what is the reason why the true teaching does last long after the final extinguishment of the Realized One?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an5.201:2.2"
-msgid "“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari sagāravā viharanti sappatissā, dhamme sagāravā viharanti sappatissā, saṅghe sagāravā viharanti sappatissā, sikkhāya sagāravā viharanti sappatissā, aññamaññaṃ sagāravā viharanti sappatissā."
-msgstr "“Kimbila, it’s when the monks, nuns, laymen, and laywomen maintain respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and each other after the final extinguishment of the Realized One."
+msgid "“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari sagāravā viharanti sappatissā, dhamme sagāravā viharanti sappatissā, saṅghe sagāravā viharanti sappatissā, sikkhāya sagāravā viharanti sappatissā, aññamaññaṃ sagāravā viharanti sappatissā. "
+msgstr "“Kimbila, it’s when the monks, nuns, laymen, and laywomen maintain respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and each other after the final extinguishment of the Realized One. "
 
 msgctxt "an5.201:2.3"
-msgid "Ayaṃ kho, kimila, hetu ayaṃ paccayo, yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti."
-msgstr "This is the cause, this is the reason why the true teaching does last long after the final extinguishment of the Realized One.”"
+msgid "Ayaṃ kho, kimila, hetu ayaṃ paccayo, yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti. "
+msgstr "This is the cause, this is the reason why the true teaching does last long after the final extinguishment of the Realized One.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an5.201:2.4"
-msgid "Paṭhamaṃ."
+msgid "Paṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

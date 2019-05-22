@@ -2,100 +2,107 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn11.23"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn11.23"><article><div class="hgroup"><p class="division">
 msgctxt "sn11.23:0.1"
-msgid "Saṃyutta Nikāya 11"
-msgstr "Linked Discourses 11"
+msgid "Saṃyutta Nikāya 11 "
+msgstr "Linked Discourses 11 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn11.23:0.2"
-msgid "3. Tatiyavagga"
-msgstr "3. The Third Chapter"
+msgid "3. Tatiyavagga "
+msgstr "3. The Third Chapter "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 23. Sambarimāyāsutta → māyāsuttaṃ (bj, s1-3) | māyā (pts1)
 msgctxt "sn11.23:0.3"
-msgid "23. Sambarimāyāsutta"
-msgstr "23. The Sambari Sorcery"
+msgid "23. Sambarimāyāsutta "
+msgstr "23. The Sambari Sorcery "
 
-#. </h1></div><p>
-#. <a class="pts1ed" id="pts1ed1.239"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts1ed1.239, sc1
 msgctxt "sn11.23:1.1"
-msgid "Sāvatthiyaṃ … pe …"
-msgstr "At Sāvatthī."
+msgid "Sāvatthiyaṃ … pe … "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn11.23:1.2"
-msgid "bhagavā etadavoca:"
-msgstr "The Buddha said this:"
+msgid "bhagavā etadavoca: "
+msgstr "The Buddha said this: "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn11.23:1.3"
-msgid "“bhūtapubbaṃ, bhikkhave, vepacitti asurindo ābādhiko ahosi dukkhito bāḷhagilāno."
-msgstr "“Once upon a time, mendicants, Vepacitti, lord of demons, was sick, suffering, gravely ill."
+msgid "“bhūtapubbaṃ, bhikkhave, vepacitti asurindo ābādhiko ahosi dukkhito bāḷhagilāno. "
+msgstr "“Once upon a time, mendicants, Vepacitti, lord of demons, was sick, suffering, gravely ill. "
 
-# Sweet!
+# NOTE: Sweet!
 msgctxt "sn11.23:1.4"
-msgid "Atha kho, bhikkhave, sakko devānamindo yena vepacitti asurindo tenupasaṅkami gilānapucchako."
-msgstr "Then Sakka went to see him to ask after his illness."
+msgid "Atha kho, bhikkhave, sakko devānamindo yena vepacitti asurindo tenupasaṅkami gilānapucchako. "
+msgstr "So Sakka went to see him to ask after his illness. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn11.23:1.5"
-msgid "Addasā kho, bhikkhave, vepacitti asurindo sakkaṃ devānamindaṃ dūratova āgacchantaṃ."
-msgstr "Vepacitti saw Sakka coming off in the distance,"
+msgid "Addasā kho, bhikkhave, vepacitti asurindo sakkaṃ devānamindaṃ dūratova āgacchantaṃ. "
+msgstr "Vepacitti saw Sakka coming off in the distance, "
 
 msgctxt "sn11.23:1.6"
-msgid "Disvāna sakkaṃ devānamindaṃ etadavoca:"
-msgstr "and said to him:"
+msgid "Disvāna sakkaṃ devānamindaṃ etadavoca: "
+msgstr "and said to him, "
 
-# So the gods are healers.
+# NOTE: So the gods are healers.
 msgctxt "sn11.23:1.7"
-msgid "‘tikiccha maṃ, devānamindā’ti."
-msgstr "‘Heal me, lord of gods!’"
+msgid "‘tikiccha maṃ, devānamindā’ti. "
+msgstr "‘Heal me, lord of gods!’ "
 
-# Wow, that is stone cold, sakka! The vedic Index on Śambara (http://sanskritdictionary.com/%C5%9Bambara/3160/6) has: Is the name of an enemy of Indra in the Rigveda. He is mentioned along with śuṣṇa, Pipru, and Varcin, being in one passage called a Dāsa, son of Kulitara. In another passage he is said to have deemed himself a godling (devaka). His forts, ninety, ninety-nine, or a hundred in number, are alluded to, the word itself in the neuter plural once meaning the ‘forts of śambara.’ His great foe was Divodāsa Ati-thigva, who won victories over him by Indra’s aid. It is impossible to say with certainty whether śambara was a real person or not. Hillebrandt is strongly in favour of the theory that he was a real chief as enemy of Divodāsa: he relies on the statistics of the mention of the name to show that, whereas he was conceived as a real foe in the hymns of the time of Divodāsa, later texts, like those of the seventh Maṇdala, make him into a demon, as a result of the change of scene from Arachosia to India. As a matter of fact, apart from this theory, śambara was quite possibly an aboriginal enemy in India, living in the mountains.
+#. HTML: </p><p class="added">
+# NOTE: Wow, that is stone cold, Sakka! The vedic Index on Śambara (http://sanskritdictionary.com/%C5%9Bambara/3160/6) has: Is the name of an enemy of Indra in the Rigveda. He is mentioned along with śuṣṇa, Pipru, and Varcin, being in one passage called a Dāsa, son of Kulitara. In another passage he is said to have deemed himself a godling (devaka). His forts, ninety, ninety-nine, or a hundred in number, are alluded to, the word itself in the neuter plural once meaning the ‘forts of śambara.’ His great foe was Divodāsa Ati-thigva, who won victories over him by Indra’s aid. It is impossible to say with certainty whether śambara was a real person or not. Hillebrandt is strongly in favour of the theory that he was a real chief as enemy of Divodāsa: he relies on the statistics of the mention of the name to show that, whereas he was conceived as a real foe in the hymns of the time of Divodāsa, later texts, like those of the seventh Maṇdala, make him into a demon, as a result of the change of scene from Arachosia to India. As a matter of fact, apart from this theory, śambara was quite possibly an aboriginal enemy in India, living in the mountains.
 msgctxt "sn11.23:1.8"
-msgid "‘Vācehi maṃ, vepacitti, sambarimāyan’ti."
-msgstr "‘Teach me, Vepacitti, the Sambari sorcery.’"
+msgid "‘Vācehi maṃ, vepacitti, sambarimāyan’ti. "
+msgstr "‘Teach me, Vepacitti, the Sambari sorcery.’ "
 
-# Apparently demon society is quite democratic.
+#. HTML: </p><p class="added">
+# NOTE: Apparently demon society is quite democratic.
 msgctxt "sn11.23:1.9"
-msgid "‘Na tāvāhaṃ vācemi, yāvāhaṃ, mārisa, asure paṭipucchāmī’ti."
-msgstr "‘I can’t do that, good sir, until I have consulted with the demons.’"
+msgid "‘Na tāvāhaṃ vācemi, yāvāhaṃ, mārisa, asure paṭipucchāmī’ti. "
+msgstr "‘I can’t do that, good sir, until I have consulted with the demons.’ "
 
+#. HTML: </p><p class="added">
 msgctxt "sn11.23:1.10"
-msgid "Atha kho, bhikkhave, vepacitti asurindo asure paṭipucchi:"
-msgstr "Then Vepacitti, lord of demons, asked the demons:"
+msgid "Atha kho, bhikkhave, vepacitti asurindo asure paṭipucchi: "
+msgstr "Then Vepacitti, lord of demons, asked the demons, "
 
 msgctxt "sn11.23:1.11"
-msgid "‘vācemahaṃ, mārisā, sakkaṃ devānamindaṃ sambarimāyan’ti?"
-msgstr "‘Good sirs, may I teach the Sambari sorcery to Sakka, lord of gods?’"
+msgid "‘vācemahaṃ, mārisā, sakkaṃ devānamindaṃ sambarimāyan’ti? "
+msgstr "‘Good sirs, may I teach the Sambari sorcery to Sakka, lord of gods?’ "
 
+#. HTML: </p><p class="added">
 msgctxt "sn11.23:1.12"
-msgid "‘Mā kho tvaṃ, mārisa, vācesi sakkaṃ devānamindaṃ sambarimāyan’ti."
-msgstr "‘Do not, good sir, teach the Sambari sorcery to Sakka!’"
+msgid "‘Mā kho tvaṃ, mārisa, vācesi sakkaṃ devānamindaṃ sambarimāyan’ti. "
+msgstr "‘Do not, good sir, teach the Sambari sorcery to Sakka!’ "
 
+#. HTML: </p><p class="added">
 msgctxt "sn11.23:1.13"
-msgid "Atha kho, bhikkhave, vepacitti asurindo sakkaṃ devānamindaṃ gāthāya ajjhabhāsi:"
-msgstr "So Vepacitti addressed Sakka in verse:"
+msgid "Atha kho, bhikkhave, vepacitti asurindo sakkaṃ devānamindaṃ gāthāya ajjhabhāsi: "
+msgstr "So Vepacitti addressed Sakka in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="pts2ed" id="pts2ed1.513"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: pts2ed1.513, sc2
 msgctxt "sn11.23:2.1"
-msgid "‘Māyāvī maghavā sakka,"
-msgstr "‘O Maghavā, O Sakka,"
+msgid "‘Māyāvī maghavā sakka, "
+msgstr "‘O Maghavā, O Sakka, "
 
 #. <br>
 msgctxt "sn11.23:2.2"
-msgid "devarāja sujampati;"
-msgstr "king of gods, Sujā’s husband,"
+msgid "devarāja sujampati; "
+msgstr "king of gods, Sujā’s husband, "
 
 #. <br>
 msgctxt "sn11.23:2.3"
-msgid "Upeti nirayaṃ ghoraṃ,"
+msgid "Upeti nirayaṃ ghoraṃ, "
 msgstr "a sorceror falls into the terrible hell—"
 
 #. <br>
 msgctxt "sn11.23:2.4"
-msgid "sambarova sataṃ saman’”ti."
+msgid "sambarova sataṃ saman’”ti. "
 msgstr "like Sambara, for a hundred years.’”"
+
+#. HTML: </p></blockquote></article></section></body></html>

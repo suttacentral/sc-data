@@ -2,87 +2,90 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an3.28"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an3.28"><article><div class="hgroup"><p class="division">
 msgctxt "an3.28:0.1"
-msgid "Aṅguttara Nikāya 3"
-msgstr "Numbered Discourses 3"
+msgid "Aṅguttara Nikāya 3 "
+msgstr "Numbered Discourses 3 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an3.28:0.2"
-msgid "3. Puggalavagga"
-msgstr "3. Persons"
+msgid "3. Puggalavagga "
+msgstr "3. Persons "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an3.28:0.3"
-msgid "28. Gūthabhāṇīsutta"
-msgstr "28. Speech like Dung"
+msgid "28. Gūthabhāṇīsutta "
+msgstr "28. Speech like Dung "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.128"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli1.128, sc1
 msgctxt "an3.28:1.1"
-msgid "“Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ."
-msgstr "“These three kinds of people are found in the world."
+msgid "“Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. "
+msgstr "“These three kinds of people are found in the world. "
 
 msgctxt "an3.28:1.2"
-msgid "Katame tayo?"
-msgstr "What three?"
+msgid "Katame tayo? "
+msgstr "What three? "
 
 msgctxt "an3.28:1.3"
-msgid "Gūthabhāṇī, pupphabhāṇī, madhubhāṇī."
-msgstr "One with speech like dung, one with speech like flowers, and one with speech like honey."
+msgid "Gūthabhāṇī, pupphabhāṇī, madhubhāṇī. "
+msgstr "One with speech like dung, one with speech like flowers, and one with speech like honey. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.28:1.4"
-msgid "Katamo ca, bhikkhave, puggalo gūthabhāṇī?"
-msgstr "And who has speech like dung?"
+msgid "Katamo ca, bhikkhave, puggalo gūthabhāṇī? "
+msgstr "And who has speech like dung? "
 
 #. VAR: sabhaggato vā → sabhāgoto vā (s1-3, km)
 #. VAR: parisaggato vā → parisagato vā (si, s1-3, km)
 msgctxt "an3.28:1.5"
-msgid "Idha, bhikkhave, ekacco puggalo sabhaggato vā parisaggato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho: ‘ehambho purisa, yaṃ jānāsi taṃ vadehī’ti. So ajānaṃ vā āha: ‘jānāmī’ti, jānaṃ vā āha: ‘na jānāmī’ti, apassaṃ vā āha: ‘passāmī’ti, passaṃ vā āha: ‘na passāmī’ti; iti attahetu vā parahetu vā āmisakiñcikkhahetu vā sampajānamusā bhāsitā hoti."
-msgstr "It’s someone who is summoned to a council, an assembly, a family meeting, a guild, or to the royal court, and asked to bear witness: ‘Please, mister, say what you know.’ Not knowing, they say ‘I know.’ Knowing, they say ‘I don’t know.’ Not seeing, they say ‘I see.’ And seeing, they say ‘I don’t see.’ So they deliberately lie for the sake of themselves or another, or for some trivial worldly reason."
+msgid "Idha, bhikkhave, ekacco puggalo sabhaggato vā parisaggato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho: ‘ehambho purisa, yaṃ jānāsi taṃ vadehī’ti. So ajānaṃ vā āha: ‘jānāmī’ti, jānaṃ vā āha: ‘na jānāmī’ti, apassaṃ vā āha: ‘passāmī’ti, passaṃ vā āha: ‘na passāmī’ti; iti attahetu vā parahetu vā āmisakiñcikkhahetu vā sampajānamusā bhāsitā hoti. "
+msgstr "It’s someone who is summoned to a council, an assembly, a family meeting, a guild, or to the royal court, and asked to bear witness: ‘Please, mister, say what you know.’ Not knowing, they say ‘I know.’ Knowing, they say ‘I don’t know.’ Not seeing, they say ‘I see.’ And seeing, they say ‘I don’t see.’ So they deliberately lie for the sake of themselves or another, or for some trivial worldly reason. "
 
 msgctxt "an3.28:1.6"
-msgid "Ayaṃ vuccati, bhikkhave, puggalo gūthabhāṇī."
-msgstr "This is called a person with speech like dung."
+msgid "Ayaṃ vuccati, bhikkhave, puggalo gūthabhāṇī. "
+msgstr "This is called a person with speech like dung. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an3.28:2.1"
-msgid "Katamo ca, bhikkhave, puggalo pupphabhāṇī?"
-msgstr "And who has speech like flowers?"
+msgid "Katamo ca, bhikkhave, puggalo pupphabhāṇī? "
+msgstr "And who has speech like flowers? "
 
 msgctxt "an3.28:2.2"
-msgid "Idha, bhikkhave, ekacco puggalo sabhaggato vā parisaggato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho: ‘ehambho purisa, yaṃ pajānāsi taṃ vadehī’ti, so ajānaṃ vā āha: ‘na jānāmī’ti, jānaṃ vā āha: ‘jānāmī’ti, apassaṃ vā āha: ‘na passāmī’ti, passaṃ vā āha: ‘passāmī’ti; iti attahetu vā parahetu vā āmisakiñcikkhahetu vā na sampajānamusā bhāsitā hoti."
-msgstr "It’s someone who is summoned to a council, an assembly, a family meeting, a guild, or to the royal court, and asked to bear witness: ‘Please, mister, say what you know.’ Not knowing, they say ‘I don’t know.’ Knowing, they say ‘I know.’ Not seeing, they say ‘I don’t see.’ And seeing, they say ‘I see.’ So they don’t deliberately lie for the sake of themselves or another, or for some trivial worldly reason."
+msgid "Idha, bhikkhave, ekacco puggalo sabhaggato vā parisaggato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho: ‘ehambho purisa, yaṃ pajānāsi taṃ vadehī’ti, so ajānaṃ vā āha: ‘na jānāmī’ti, jānaṃ vā āha: ‘jānāmī’ti, apassaṃ vā āha: ‘na passāmī’ti, passaṃ vā āha: ‘passāmī’ti; iti attahetu vā parahetu vā āmisakiñcikkhahetu vā na sampajānamusā bhāsitā hoti. "
+msgstr "It’s someone who is summoned to a council, an assembly, a family meeting, a guild, or to the royal court, and asked to bear witness: ‘Please, mister, say what you know.’ Not knowing, they say ‘I don’t know.’ Knowing, they say ‘I know.’ Not seeing, they say ‘I don’t see.’ And seeing, they say ‘I see.’ So they don’t deliberately lie for the sake of themselves or another, or for some trivial worldly reason. "
 
 msgctxt "an3.28:2.3"
-msgid "Ayaṃ vuccati, bhikkhave, puggalo pupphabhāṇī."
-msgstr "This is called a person with speech like flowers."
+msgid "Ayaṃ vuccati, bhikkhave, puggalo pupphabhāṇī. "
+msgstr "This is called a person with speech like flowers. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an3.28:3.1"
-msgid "Katamo ca, bhikkhave, puggalo madhubhāṇī?"
-msgstr "And who has speech like honey?"
+msgid "Katamo ca, bhikkhave, puggalo madhubhāṇī? "
+msgstr "And who has speech like honey? "
 
 msgctxt "an3.28:3.2"
-msgid "Idha, bhikkhave, ekacco puggalo pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti;"
-msgstr "It’s someone who gives up harsh speech."
+msgid "Idha, bhikkhave, ekacco puggalo pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti; "
+msgstr "It’s someone who gives up harsh speech. "
 
 msgctxt "an3.28:3.3"
-msgid "yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti."
-msgstr "They speak in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people."
+msgid "yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti. "
+msgstr "They speak in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people. "
 
 msgctxt "an3.28:3.4"
-msgid "Ayaṃ vuccati, bhikkhave, puggalo madhubhāṇī."
-msgstr "This is called a person with speech like honey."
+msgid "Ayaṃ vuccati, bhikkhave, puggalo madhubhāṇī. "
+msgstr "This is called a person with speech like honey. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.28:3.5"
-msgid "Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmin”ti."
-msgstr "These are the three people found in the world.”"
+msgid "Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmin”ti. "
+msgstr "These are the three people found in the world.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an3.28:3.6"
-msgid "Aṭṭhamaṃ."
+msgid "Aṭṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

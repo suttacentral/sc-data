@@ -2,128 +2,131 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.127"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.127"><article><div class="hgroup"><p class="division">
 msgctxt "an4.127:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an4.127:0.2"
-msgid "13. Bhayavagga"
-msgstr "13. Fears"
+msgid "13. Bhayavagga "
+msgstr "13. Fears "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an4.127:0.3"
-msgid "127. Paṭhamatathāgataacchariyasutta"
-msgstr "127. Incredible Things About the Realized One (1st)"
+msgid "127. Paṭhamatathāgataacchariyasutta "
+msgstr "127. Incredible Things About the Realized One (1st) "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.131"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli2.131, sc1
 #. VAR: abbhutā dhammā → abbhutadhammā (s1-3, km, mr)
 msgctxt "an4.127:1.1"
-msgid "“Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā cattāro acchariyā abbhutā dhammā pātubhavanti."
-msgstr "“Mendicants, with the appearance of a Realized One, a perfected one, a fully awakened Buddha, four incredible and amazing things appear."
+msgid "“Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā cattāro acchariyā abbhutā dhammā pātubhavanti. "
+msgstr "“Mendicants, with the appearance of a Realized One, a perfected one, a fully awakened Buddha, four incredible and amazing things appear. "
 
 msgctxt "an4.127:1.2"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
-# Bodhisatta means either “awakening-being” or, more likely “one intent on awakening”. Whatever it means, it certainly doesn’t mean what the Buddhist traditions later took it to mean, so any translation is better than keeping the Pali.
+#. HTML: </p><p class="added">
+# NOTE: Bodhisatta means either “awakening-being” or, more likely “one intent on awakening”. Whatever it means, it certainly doesn’t mean what the Buddhist traditions later took it to mean, so any translation is better than keeping the Pali.
 msgctxt "an4.127:1.3"
-msgid "Yadā, bhikkhave, bodhisatto tusitā kāyā cavitvā sato sampajāno mātukucchiṃ okkamati, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ."
-msgstr "When the being intent on awakening passes away from the host of Joyful Gods, he’s conceived in his mother’s womb, mindful and aware. And then—in this world with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—an immeasurable, magnificent light appears, surpassing the glory of the gods."
+msgid "Yadā, bhikkhave, bodhisatto tusitā kāyā cavitvā sato sampajāno mātukucchiṃ okkamati, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ. "
+msgstr "When the being intent on awakening passes away from the host of Joyful Gods, he’s conceived in his mother’s womb, mindful and aware. And then—in this world with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—an immeasurable, magnificent light appears, surpassing the glory of the gods. "
 
-# See https://discourse.suttacentral.net/t/the-boundless-desolation-of-interstellar-space/2248 Ābhā nanubhonti is glossed in MN 79 as obhāsaṃ na vaḷañjanti. This is a difficult term, but acc. to PTS dict means “leave a mark”. In AN 4.127 the same phrase is glossed pabhā nappahonti, i.e. “light is ineffective”. Neither gloss supports “matches” or “reaches”.
+# NOTE: See https://discourse.suttacentral.net/t/the-boundless-desolation-of-interstellar-space/2248 Ābhā nanubhonti is glossed in MN 79 as obhāsaṃ na vaḷañjanti. This is a difficult term, but acc. to PTS dict means “leave a mark”. In AN 4.127 the same phrase is glossed pabhā nappahonti, i.e. “light is ineffective”. Neither gloss supports “matches” or “reaches”.
 #. VAR: yatthapimesaṃ → yatthimesaṃ (bj, s1, s2, km)
 msgctxt "an4.127:1.4"
-msgid "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapimesaṃ candimasūriyānaṃ evaṃmahiddhikānaṃ evaṃmahānubhāvānaṃ ābhā nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ."
-msgstr "Even in the boundless desolation of interstellar space—so utterly dark that even the light of the moon and the sun, so mighty and powerful, makes no impression—an immeasurable, magnificent light appears, surpassing the glory of the gods."
+msgid "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapimesaṃ candimasūriyānaṃ evaṃmahiddhikānaṃ evaṃmahānubhāvānaṃ ābhā nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ. "
+msgstr "Even in the boundless desolation of interstellar space—so utterly dark that even the light of the moon and the sun, so mighty and powerful, makes no impression—an immeasurable, magnificent light appears, surpassing the glory of the gods. "
 
 msgctxt "an4.127:1.5"
-msgid "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti:"
-msgstr "And the sentient beings reborn there recognize each other by that light:"
+msgid "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti: "
+msgstr "And the sentient beings reborn there recognize each other by that light: "
 
 msgctxt "an4.127:1.6"
-msgid "‘aññepi kira, bho, santi sattā idhūpapannā’ti."
-msgstr "‘So, it seems other sentient beings have been reborn here!’"
+msgid "‘aññepi kira, bho, santi sattā idhūpapannā’ti. "
+msgstr "‘So, it seems other sentient beings have been reborn here!’ "
 
 #. VAR: abbhuto dhammo → abbhutadhammo (s1-3, km, mr)
 msgctxt "an4.127:1.7"
-msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ayaṃ paṭhamo acchariyo abbhuto dhammo pātubhavati."
-msgstr "This is the first incredible and amazing thing that appears with the appearance of a Realized One."
+msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ayaṃ paṭhamo acchariyo abbhuto dhammo pātubhavati. "
+msgstr "This is the first incredible and amazing thing that appears with the appearance of a Realized One. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an4.127:2.1"
-msgid "Puna caparaṃ, bhikkhave, yadā bodhisatto sato sampajāno mātukucchimhā nikkhamati, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ."
-msgstr "Furthermore, the being intent on awakening emerges from his mother’s womb, mindful and aware. And then … an immeasurable, magnificent light appears …"
+msgid "Puna caparaṃ, bhikkhave, yadā bodhisatto sato sampajāno mātukucchimhā nikkhamati, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ. "
+msgstr "Furthermore, the being intent on awakening emerges from his mother’s womb, mindful and aware. And then … an immeasurable, magnificent light appears … "
 
 msgctxt "an4.127:2.2"
-msgid "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapimesaṃ candimasūriyānaṃ evaṃmahiddhikānaṃ evaṃmahānubhāvānaṃ ābhā nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ."
-msgstr "even in the boundless desolation of interstellar space …"
+msgid "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapimesaṃ candimasūriyānaṃ evaṃmahiddhikānaṃ evaṃmahānubhāvānaṃ ābhā nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ. "
+msgstr "even in the boundless desolation of interstellar space … "
 
 msgctxt "an4.127:2.3"
-msgid "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti:"
-msgstr ""
+msgid "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti: "
+msgstr " "
 
 msgctxt "an4.127:2.4"
-msgid "‘aññepi kira, bho, santi sattā idhūpapannā’ti."
-msgstr ""
+msgid "‘aññepi kira, bho, santi sattā idhūpapannā’ti. "
+msgstr " "
 
 msgctxt "an4.127:2.5"
-msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ayaṃ dutiyo acchariyo abbhuto dhammo pātubhavati."
-msgstr "This is the second incredible and amazing thing that appears with the appearance of a Realized One."
+msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ayaṃ dutiyo acchariyo abbhuto dhammo pātubhavati. "
+msgstr "This is the second incredible and amazing thing that appears with the appearance of a Realized One. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an4.127:3.1"
-msgid "Puna caparaṃ, bhikkhave, yadā tathāgato anuttaraṃ sammāsambodhiṃ abhisambujjhati, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ."
-msgstr "Furthermore, the Realized One understands the supreme perfect awakening. And then … an immeasurable, magnificent light appears …"
+msgid "Puna caparaṃ, bhikkhave, yadā tathāgato anuttaraṃ sammāsambodhiṃ abhisambujjhati, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ. "
+msgstr "Furthermore, the Realized One understands the supreme perfect awakening. And then … an immeasurable, magnificent light appears … "
 
 msgctxt "an4.127:3.2"
-msgid "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapimesaṃ candimasūriyānaṃ evaṃmahiddhikānaṃ evaṃmahānubhāvānaṃ ābhā nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ."
-msgstr "even in the boundless desolation of interstellar space …"
+msgid "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapimesaṃ candimasūriyānaṃ evaṃmahiddhikānaṃ evaṃmahānubhāvānaṃ ābhā nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ. "
+msgstr "even in the boundless desolation of interstellar space … "
 
 msgctxt "an4.127:3.3"
-msgid "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti:"
-msgstr ""
+msgid "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti: "
+msgstr " "
 
 msgctxt "an4.127:3.4"
-msgid "‘aññepi kira, bho, santi sattā idhūpapannā’ti."
-msgstr ""
+msgid "‘aññepi kira, bho, santi sattā idhūpapannā’ti. "
+msgstr " "
 
 msgctxt "an4.127:3.5"
-msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ayaṃ tatiyo acchariyo abbhuto dhammo pātubhavati."
-msgstr "This is the third incredible and amazing thing that appears with the appearance of a Realized One."
+msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ayaṃ tatiyo acchariyo abbhuto dhammo pātubhavati. "
+msgstr "This is the third incredible and amazing thing that appears with the appearance of a Realized One. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "an4.127:4.1"
-msgid "Puna caparaṃ, bhikkhave, yadā tathāgato anuttaraṃ dhammacakkaṃ pavatteti, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ."
-msgstr "Furthermore, the Realized One rolls forth the supreme Wheel of Dhamma. And then … an immeasurable, magnificent light appears …"
+msgid "Puna caparaṃ, bhikkhave, yadā tathāgato anuttaraṃ dhammacakkaṃ pavatteti, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ. "
+msgstr "Furthermore, the Realized One rolls forth the supreme Wheel of Dhamma. And then … an immeasurable, magnificent light appears … "
 
 msgctxt "an4.127:4.2"
-msgid "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapimesaṃ candimasūriyānaṃ evaṃmahiddhikānaṃ evaṃmahānubhāvānaṃ ābhā nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ."
-msgstr "even in the boundless desolation of interstellar space …"
+msgid "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapimesaṃ candimasūriyānaṃ evaṃmahiddhikānaṃ evaṃmahānubhāvānaṃ ābhā nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṃ devānubhāvaṃ. "
+msgstr "even in the boundless desolation of interstellar space … "
 
 msgctxt "an4.127:4.3"
-msgid "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti:"
-msgstr ""
+msgid "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti: "
+msgstr " "
 
 msgctxt "an4.127:4.4"
-msgid "‘aññepi kira, bho, santi sattā idhūpapannā’ti."
-msgstr ""
+msgid "‘aññepi kira, bho, santi sattā idhūpapannā’ti. "
+msgstr " "
 
 msgctxt "an4.127:4.5"
-msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ayaṃ catuttho acchariyo abbhuto dhammo pātubhavati."
-msgstr "This is the fourth incredible and amazing thing that appears with the appearance of a Realized One."
+msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ayaṃ catuttho acchariyo abbhuto dhammo pātubhavati. "
+msgstr "This is the fourth incredible and amazing thing that appears with the appearance of a Realized One. "
 
+#. HTML: </p><p class="added">
 msgctxt "an4.127:4.6"
-msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ime cattāro acchariyā abbhutā dhammā pātubhavantī”ti."
-msgstr "With the appearance of a Realized One, the perfected one, the fully awakened Buddha, these four incredible and amazing things appear.”"
+msgid "Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvā ime cattāro acchariyā abbhutā dhammā pātubhavantī”ti. "
+msgstr "With the appearance of a Realized One, the perfected one, the fully awakened Buddha, these four incredible and amazing things appear.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an4.127:4.7"
-msgid "Sattamaṃ."
+msgid "Sattamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

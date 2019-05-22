@@ -2,194 +2,200 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn41.7"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn41.7"><article><div class="hgroup"><p class="division">
 msgctxt "sn41.7:0.1"
-msgid "Saṃyutta Nikāya 41"
-msgstr "Linked Discourses 41"
+msgid "Saṃyutta Nikāya 41 "
+msgstr "Linked Discourses 41 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn41.7:0.2"
-msgid "1. Cittavagga"
-msgstr "1. With Citta"
+msgid "1. Cittavagga "
+msgstr "1. With Citta "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn41.7:0.3"
-msgid "7. Godattasutta"
-msgstr "7. With Godatta"
+msgid "7. Godattasutta "
+msgstr "7. With Godatta "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.296"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli4.296, sc1
 msgctxt "sn41.7:1.1"
-msgid "Ekaṃ samayaṃ āyasmā godatto macchikāsaṇḍe viharati ambāṭakavane."
-msgstr "At one time Venerable Godatta was staying near Macchikāsaṇḍa in the Wild Mango Grove."
+msgid "Ekaṃ samayaṃ āyasmā godatto macchikāsaṇḍe viharati ambāṭakavane. "
+msgstr "At one time Venerable Godatta was staying near Macchikāsaṇḍa in the Wild Mango Grove. "
 
 msgctxt "sn41.7:1.2"
-msgid "Atha kho citto gahapati yenāyasmā godatto tenupasaṅkami; upasaṅkamitvā āyasmantaṃ godattaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho cittaṃ gahapatiṃ āyasmā godatto etadavoca:"
-msgstr "Then Citta the householder went up to Venerable Godatta, bowed, and sat down to one side. Godatta said to him:"
+msgid "Atha kho citto gahapati yenāyasmā godatto tenupasaṅkami; upasaṅkamitvā āyasmantaṃ godattaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho cittaṃ gahapatiṃ āyasmā godatto etadavoca: "
+msgstr "Then Citta the householder went up to Venerable Godatta, bowed, and sat down to one side. Godatta said to him: "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn41.7:1.3"
-msgid "“yā cāyaṃ, gahapati, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti, ime dhammā nānatthā nānābyañjanā udāhu ekatthā byañjanameva nānan”ti?"
-msgstr "“Householder, the limitless heart’s release, and the heart’s release through nothingness, and the heart’s release through emptiness, and the signless heart’s release: do these things differ in both meaning and phrasing? Or do they mean the same thing, and differ only in the phrasing?”"
+msgid "“yā cāyaṃ, gahapati, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti, ime dhammā nānatthā nānābyañjanā udāhu ekatthā byañjanameva nānan”ti? "
+msgstr "“Householder, the limitless heart’s release, and the heart’s release through nothingness, and the heart’s release through emptiness, and the signless heart’s release: do these things differ in both meaning and phrasing? Or do they mean the same thing, and differ only in the phrasing?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn41.7:1.4"
-msgid "“Atthi, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānatthā ceva nānābyañjanā ca."
-msgstr "“Sir, there is a way in which these things differ in both meaning and phrasing."
+msgid "“Atthi, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānatthā ceva nānābyañjanā ca. "
+msgstr "“Sir, there is a way in which these things differ in both meaning and phrasing. "
 
-# Close ti and quote seems to be a mistake here, since all passages are addressed as bhante.
+# NOTE: Close ti and quote seems to be a mistake here, since all passages are addressed as bhante.
 msgctxt "sn41.7:1.5"
-msgid "Atthi pana, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nānan”ti."
-msgstr "But there’s also a way in which they mean the same thing, and differ only in the phrasing."
+msgid "Atthi pana, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nānan”ti. "
+msgstr "But there’s also a way in which they mean the same thing, and differ only in the phrasing. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn41.7:2.1"
-msgid "“Katamo ca, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānatthā ceva nānābyañjanā ca?"
-msgstr "And what’s the way in which these things differ in both meaning and phrasing?"
+msgid "“Katamo ca, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānatthā ceva nānābyañjanā ca? "
+msgstr "And what’s the way in which these things differ in both meaning and phrasing? "
 
+#. HTML: </p><p class="added">
 #. VAR: catutthaṃ → catutthiṃ (bj)
 #. VAR: abyāpajjena → abyāpajjhena (bj, s1-3, km) | avyāpajjhena (pts1) | abyābajjhena (?)
 msgctxt "sn41.7:2.2"
-msgid "Idha, bhante, bhikkhu mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati."
-msgstr "It’s when a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world—abundant, expansive, limitless, free of enmity and ill will."
+msgid "Idha, bhante, bhikkhu mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati. "
+msgstr "It’s when a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world—abundant, expansive, limitless, free of enmity and ill will. "
 
 msgctxt "sn41.7:2.3"
-msgid "Karuṇāsahagatena cetasā … pe …"
-msgstr "They meditate spreading a heart full of compassion …"
+msgid "Karuṇāsahagatena cetasā … pe … "
+msgstr "They meditate spreading a heart full of compassion … "
 
 msgctxt "sn41.7:2.4"
-msgid "muditāsahagatena cetasā … pe …"
-msgstr "They meditate spreading a heart full of rejoicing …"
+msgid "muditāsahagatena cetasā … pe … "
+msgstr "They meditate spreading a heart full of rejoicing … "
 
 msgctxt "sn41.7:2.5"
-msgid "upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati."
-msgstr "They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world—abundant, expansive, limitless, free of enmity and ill will."
+msgid "upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati. "
+msgstr "They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world—abundant, expansive, limitless, free of enmity and ill will. "
 
 msgctxt "sn41.7:2.6"
-msgid "Ayaṃ vuccati, bhante, appamāṇā cetovimutti."
-msgstr "This is called the limitless heart’s release."
+msgid "Ayaṃ vuccati, bhante, appamāṇā cetovimutti. "
+msgstr "This is called the limitless heart’s release. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn41.7:3.1"
-msgid "Katamā ca, bhante, ākiñcaññā cetovimutti?"
-msgstr "And what is the heart’s release through nothingness?"
+msgid "Katamā ca, bhante, ākiñcaññā cetovimutti? "
+msgstr "And what is the heart’s release through nothingness? "
 
 msgctxt "sn41.7:3.2"
-msgid "Idha, bhante, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma, ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati."
-msgstr "It’s when a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness."
+msgid "Idha, bhante, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma, ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati. "
+msgstr "It’s when a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. "
 
 msgctxt "sn41.7:3.3"
-msgid "Ayaṃ vuccati, bhante, ākiñcaññā cetovimutti."
-msgstr "This is called the heart’s release through nothingness."
+msgid "Ayaṃ vuccati, bhante, ākiñcaññā cetovimutti. "
+msgstr "This is called the heart’s release through nothingness. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.297"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli4.297, sc4
 msgctxt "sn41.7:4.1"
-msgid "Katamā ca, bhante, suññatā cetovimutti?"
-msgstr "And what is the heart’s release through emptiness?"
+msgid "Katamā ca, bhante, suññatā cetovimutti? "
+msgstr "And what is the heart’s release through emptiness? "
 
 msgctxt "sn41.7:4.2"
-msgid "Idha, bhante, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati:"
-msgstr "It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut, and reflects like this:"
+msgid "Idha, bhante, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati: "
+msgstr "It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut, and reflects like this: "
 
 msgctxt "sn41.7:4.3"
-msgid "‘suññamidaṃ attena vā attaniyena vā’ti."
-msgstr "‘This is empty of a self or what belongs to a self.’"
+msgid "‘suññamidaṃ attena vā attaniyena vā’ti. "
+msgstr "‘This is empty of a self or what belongs to a self.’ "
 
 msgctxt "sn41.7:4.4"
-msgid "Ayaṃ vuccati, bhante, suññatā cetovimutti."
-msgstr "This is called the heart’s release through emptiness."
+msgid "Ayaṃ vuccati, bhante, suññatā cetovimutti. "
+msgstr "This is called the heart’s release through emptiness. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "sn41.7:5.1"
-msgid "Katamā ca, bhante, animittā cetovimutti?"
-msgstr "And what is the signless heart’s release?"
+msgid "Katamā ca, bhante, animittā cetovimutti? "
+msgstr "And what is the signless heart’s release? "
 
 msgctxt "sn41.7:5.2"
-msgid "Idha, bhante, bhikkhu sabbanimittānaṃ amanasikārā animittaṃ cetosamādhiṃ upasampajja viharati."
-msgstr "It’s when a mendicant, not focusing on any signs, enters and remains in the signless immersion of the heart."
+msgid "Idha, bhante, bhikkhu sabbanimittānaṃ amanasikārā animittaṃ cetosamādhiṃ upasampajja viharati. "
+msgstr "It’s when a mendicant, not focusing on any signs, enters and remains in the signless immersion of the heart. "
 
 msgctxt "sn41.7:5.3"
-msgid "Ayaṃ vuccati, bhante, animittā cetovimutti."
-msgstr "This is called the signless heart’s release."
+msgid "Ayaṃ vuccati, bhante, animittā cetovimutti. "
+msgstr "This is called the signless heart’s release. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn41.7:5.4"
-msgid "Ayaṃ kho, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānatthā ceva nānābyañjanā ca."
-msgstr "This is the way in which these things differ in both meaning and phrasing."
+msgid "Ayaṃ kho, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānatthā ceva nānābyañjanā ca. "
+msgstr "This is the way in which these things differ in both meaning and phrasing. "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "sn41.7:6.1"
-msgid "Katamo ca, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nānaṃ?"
-msgstr "And what’s the way in which they mean the same thing, and differ only in the phrasing?"
+msgid "Katamo ca, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nānaṃ? "
+msgstr "And what’s the way in which they mean the same thing, and differ only in the phrasing? "
 
+#. HTML: </p><p class="added">
 msgctxt "sn41.7:6.2"
-msgid "Rāgo, bhante, pamāṇakaraṇo, doso pamāṇakaraṇo, moho pamāṇakaraṇo."
-msgstr "Greed, hate, and delusion are makers of limits."
+msgid "Rāgo, bhante, pamāṇakaraṇo, doso pamāṇakaraṇo, moho pamāṇakaraṇo. "
+msgstr "Greed, hate, and delusion are makers of limits. "
 
 msgctxt "sn41.7:6.3"
-msgid "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā."
-msgstr "A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future."
+msgid "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā. "
+msgstr "A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. "
 
 msgctxt "sn41.7:6.4"
-msgid "Yāvatā kho, bhante, appamāṇā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati."
-msgstr "The unshakable heart’s release is said to be the best kind of limitless heart’s release."
+msgid "Yāvatā kho, bhante, appamāṇā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati. "
+msgstr "The unshakable heart’s release is said to be the best kind of limitless heart’s release. "
 
 msgctxt "sn41.7:6.5"
-msgid "Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena."
-msgstr "That unshakable heart’s release is empty of greed, hate, and delusion."
+msgid "Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena. "
+msgstr "That unshakable heart’s release is empty of greed, hate, and delusion. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn41.7:6.6"
-msgid "Rāgo kho, bhante, kiñcanaṃ, doso kiñcanaṃ, moho kiñcanaṃ."
-msgstr "Greed is something, hate is something, and delusion is something."
+msgid "Rāgo kho, bhante, kiñcanaṃ, doso kiñcanaṃ, moho kiñcanaṃ. "
+msgstr "Greed is something, hate is something, and delusion is something. "
 
 msgctxt "sn41.7:6.7"
-msgid "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā."
-msgstr "A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future."
+msgid "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā. "
+msgstr "A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. "
 
 msgctxt "sn41.7:6.8"
-msgid "Yāvatā kho, bhante, ākiñcaññā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati."
-msgstr "The unshakable heart’s release is said to be the best kind of heart’s release through nothingness."
+msgid "Yāvatā kho, bhante, ākiñcaññā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati. "
+msgstr "The unshakable heart’s release is said to be the best kind of heart’s release through nothingness. "
 
 msgctxt "sn41.7:6.9"
-msgid "Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena."
-msgstr "That unshakable heart’s release is empty of greed, hate, and delusion."
+msgid "Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena. "
+msgstr "That unshakable heart’s release is empty of greed, hate, and delusion. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn41.7:6.10"
-msgid "Rāgo kho, bhante, nimittakaraṇo, doso nimittakaraṇo, moho nimittakaraṇo."
-msgstr "Greed, hate, and delusion are makers of signs."
+msgid "Rāgo kho, bhante, nimittakaraṇo, doso nimittakaraṇo, moho nimittakaraṇo. "
+msgstr "Greed, hate, and delusion are makers of signs. "
 
 msgctxt "sn41.7:6.11"
-msgid "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā."
-msgstr "A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future."
+msgid "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā. "
+msgstr "A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. "
 
 msgctxt "sn41.7:6.12"
-msgid "Yāvatā kho, bhante, animittā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati."
-msgstr "The unshakable heart’s release is said to be the best kind of signless heart’s release."
+msgid "Yāvatā kho, bhante, animittā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati. "
+msgstr "The unshakable heart’s release is said to be the best kind of signless heart’s release. "
 
 msgctxt "sn41.7:6.13"
-msgid "Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena."
-msgstr "That unshakable heart’s release is empty of greed, hate, and delusion."
+msgid "Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena. "
+msgstr "That unshakable heart’s release is empty of greed, hate, and delusion. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn41.7:6.14"
-msgid "Ayaṃ kho, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nānan”ti."
-msgstr "This is the way in which they mean the same thing, and differ only in the phrasing.”"
+msgid "Ayaṃ kho, bhante, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nānan”ti. "
+msgstr "This is the way in which they mean the same thing, and differ only in the phrasing.” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn41.7:6.15"
-msgid "“Lābhā te, gahapati, suladdhaṃ te, gahapati."
-msgstr "“You’re fortunate, householder, so very fortunate,"
+msgid "“Lābhā te, gahapati, suladdhaṃ te, gahapati. "
+msgstr "“You’re fortunate, householder, so very fortunate, "
 
 msgctxt "sn41.7:6.16"
-msgid "Yassa te gambhīre buddhavacane paññācakkhu kamatī”ti."
-msgstr "to traverse the Buddha’s deep teachings with the eye of wisdom.”"
+msgid "Yassa te gambhīre buddhavacane paññācakkhu kamatī”ti. "
+msgstr "to traverse the Buddha’s deep teachings with the eye of wisdom.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn41.7:6.17"
-msgid "Sattamaṃ."
+msgid "Sattamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

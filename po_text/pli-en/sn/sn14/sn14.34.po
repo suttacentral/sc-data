@@ -2,87 +2,88 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn14.34"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn14.34"><article><div class="hgroup"><p class="division">
 msgctxt "sn14.34:0.1"
-msgid "Saṃyutta Nikāya 14"
-msgstr "Linked Discourses 14"
+msgid "Saṃyutta Nikāya 14 "
+msgstr "Linked Discourses 14 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn14.34:0.2"
-msgid "4. Catutthavagga"
-msgstr "4. The Fourth Chapter"
+msgid "4. Catutthavagga "
+msgstr "4. The Fourth Chapter "
 
-# BB has suffering for dukkha here. But note that the phrase ekantadukkha usually, probably always in fact, refers to painful feelings.
-#. </p><h1>
+# NOTE: BB has suffering for dukkha here. But note that the phrase ekantadukkha usually, probably always in fact, refers to painful feelings.
+#. HTML: </p><h1>
 #. VAR: 34. Ekantadukkhasutta → dukkhalaṅkaṇasuttaṃ (bj) | dukkha (pts1-2)
 msgctxt "sn14.34:0.3"
-msgid "34. Ekantadukkhasutta"
-msgstr "34. Exclusively Painful"
+msgid "34. Ekantadukkhasutta "
+msgstr "34. Exclusively Painful "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn14.34:1.1"
-msgid "Sāvatthiyaṃ viharati."
-msgstr "At Sāvatthī."
+msgid "Sāvatthiyaṃ viharati. "
+msgstr "At Sāvatthī. "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 #. VAR: Pathavīdhātu ce → paṭhavīdhātu ca (bj) | paṭhavīdhātuñca (s1-3)
 msgctxt "sn14.34:1.2"
-msgid "“Pathavīdhātu ce hidaṃ, bhikkhave, ekantadukkhā abhavissa dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, nayidaṃ sattā pathavīdhātuyā sārajjeyyuṃ."
-msgstr "“Mendicants, if the earth element were exclusively painful—soaked and steeped in pain and not steeped in pleasure—sentient beings wouldn’t love it."
+msgid "“Pathavīdhātu ce hidaṃ, bhikkhave, ekantadukkhā abhavissa dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, nayidaṃ sattā pathavīdhātuyā sārajjeyyuṃ. "
+msgstr "“Mendicants, if the earth element were exclusively painful—soaked and steeped in pain and not steeped in pleasure—sentient beings wouldn’t love it. "
 
 msgctxt "sn14.34:1.3"
-msgid "Yasmā ca kho, bhikkhave, pathavīdhātu sukhā sukhānupatitā sukhāvakkantā anavakkantā dukkhena, tasmā sattā pathavīdhātuyā sārajjanti."
-msgstr "But because the earth element is pleasurable—soaked and steeped in pleasure and not steeped in pain—sentient beings do love it."
+msgid "Yasmā ca kho, bhikkhave, pathavīdhātu sukhā sukhānupatitā sukhāvakkantā anavakkantā dukkhena, tasmā sattā pathavīdhātuyā sārajjanti. "
+msgstr "But because the earth element is pleasurable—soaked and steeped in pleasure and not steeped in pain—sentient beings do love it. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.174"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.174, sc2
 msgctxt "sn14.34:2.1"
-msgid "Āpodhātu ce hidaṃ, bhikkhave … pe …"
-msgstr "If the water element …"
+msgid "Āpodhātu ce hidaṃ, bhikkhave … pe … "
+msgstr "If the water element … "
 
 msgctxt "sn14.34:2.2"
-msgid "tejodhātu ce hidaṃ, bhikkhave …"
-msgstr "If the fire element …"
+msgid "tejodhātu ce hidaṃ, bhikkhave … "
+msgstr "If the fire element … "
 
 msgctxt "sn14.34:2.3"
-msgid "vāyodhātu ce hidaṃ, bhikkhave, ekantadukkhā abhavissa dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, nayidaṃ sattā vāyodhātuyā sārajjeyyuṃ."
-msgstr "If the air element …"
+msgid "vāyodhātu ce hidaṃ, bhikkhave, ekantadukkhā abhavissa dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, nayidaṃ sattā vāyodhātuyā sārajjeyyuṃ. "
+msgstr "If the air element … "
 
 msgctxt "sn14.34:2.4"
-msgid "Yasmā ca kho, bhikkhave, vāyodhātu sukhā sukhānupatitā sukhāvakkantā anavakkantā dukkhena, tasmā sattā vāyodhātuyā sārajjanti."
-msgstr ""
+msgid "Yasmā ca kho, bhikkhave, vāyodhātu sukhā sukhānupatitā sukhāvakkantā anavakkantā dukkhena, tasmā sattā vāyodhātuyā sārajjanti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn14.34:3.1"
-msgid "Pathavīdhātu ce hidaṃ, bhikkhave, ekantasukhā abhavissa sukhānupatitā sukhāvakkantā anavakkantā dukkhena, nayidaṃ sattā pathavīdhātuyā nibbindeyyuṃ."
-msgstr "If the earth element were exclusively pleasurable—soaked and steeped in pleasure and not steeped in pain—sentient beings wouldn’t grow disillusioned with it."
+msgid "Pathavīdhātu ce hidaṃ, bhikkhave, ekantasukhā abhavissa sukhānupatitā sukhāvakkantā anavakkantā dukkhena, nayidaṃ sattā pathavīdhātuyā nibbindeyyuṃ. "
+msgstr "If the earth element were exclusively pleasurable—soaked and steeped in pleasure and not steeped in pain—sentient beings wouldn’t grow disillusioned with it. "
 
 msgctxt "sn14.34:3.2"
-msgid "Yasmā ca kho, bhikkhave, pathavīdhātu dukkhā dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, tasmā sattā pathavīdhātuyā nibbindanti."
-msgstr "But because the earth element is painful—soaked and steeped in pain and not steeped in pleasure—sentient beings do grow disillusioned with it."
+msgid "Yasmā ca kho, bhikkhave, pathavīdhātu dukkhā dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, tasmā sattā pathavīdhātuyā nibbindanti. "
+msgstr "But because the earth element is painful—soaked and steeped in pain and not steeped in pleasure—sentient beings do grow disillusioned with it. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn14.34:4.1"
-msgid "Āpodhātu ce hidaṃ, bhikkhave … pe …"
-msgstr "If the water element …"
+msgid "Āpodhātu ce hidaṃ, bhikkhave … pe … "
+msgstr "If the water element … "
 
 msgctxt "sn14.34:4.2"
-msgid "tejodhātu ce hidaṃ, bhikkhave …"
-msgstr "If the fire element …"
+msgid "tejodhātu ce hidaṃ, bhikkhave … "
+msgstr "If the fire element … "
 
 msgctxt "sn14.34:4.3"
-msgid "vāyodhātu ce hidaṃ, bhikkhave, ekantasukhā abhavissa sukhānupatitā sukhāvakkantā anavakkantā dukkhena, nayidaṃ sattā vāyodhātuyā nibbindeyyuṃ."
-msgstr "If the air element were exclusively pleasurable—soaked and steeped in pleasure and not steeped in pain—sentient beings wouldn’t grow disillusioned with it."
+msgid "vāyodhātu ce hidaṃ, bhikkhave, ekantasukhā abhavissa sukhānupatitā sukhāvakkantā anavakkantā dukkhena, nayidaṃ sattā vāyodhātuyā nibbindeyyuṃ. "
+msgstr "If the air element were exclusively pleasurable—soaked and steeped in pleasure and not steeped in pain—sentient beings wouldn’t grow disillusioned with it. "
 
 msgctxt "sn14.34:4.4"
-msgid "Yasmā ca kho, bhikkhave, vāyodhātu dukkhā dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, tasmā sattā vāyodhātuyā nibbindantī”ti."
-msgstr "But because the air element is painful—soaked and steeped in pain and not steeped in pleasure—sentient beings do grow disillusioned with it.”"
+msgid "Yasmā ca kho, bhikkhave, vāyodhātu dukkhā dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, tasmā sattā vāyodhātuyā nibbindantī”ti. "
+msgstr "But because the air element is painful—soaked and steeped in pain and not steeped in pleasure—sentient beings do grow disillusioned with it.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn14.34:4.5"
-msgid "Pañcamaṃ."
+msgid "Pañcamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

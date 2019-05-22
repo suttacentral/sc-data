@@ -2,86 +2,89 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn4.7"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn4.7"><article><div class="hgroup"><p class="division">
 msgctxt "sn4.7:0.1"
-msgid "Saṃyutta Nikāya 4"
-msgstr "Linked Discourses 4"
+msgid "Saṃyutta Nikāya 4 "
+msgstr "Linked Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn4.7:0.2"
-msgid "1. Paṭhamavagga"
-msgstr "1. Life Span"
+msgid "1. Paṭhamavagga "
+msgstr "1. Life Span "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 7. Supatisutta → soppasisuttaṃ (bj) | suppatisuttaṃ (s1-3) | suppati (pts1)
 msgctxt "sn4.7:0.3"
-msgid "7. Supatisutta"
-msgstr "7. Sleeping"
+msgid "7. Supatisutta "
+msgstr "7. Sleeping "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn4.7:1.1"
-msgid "Ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
-msgstr "At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground."
+msgid "Ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. "
+msgstr "At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn4.7:1.2"
 msgid "Atha kho bhagavā bahudevarattiṃ abbhokāse caṅkamitvā rattiyā paccūsasamayaṃ pāde pakkhāletvā vihāraṃ pavisitvā "
 msgstr "He spent most of the night practicing walking meditation in the open. At the crack of dawn he washed his feet and entered his dwelling. "
 
 msgctxt "sn4.7:1.3"
-msgid "dakkhiṇena passena sīhaseyyaṃ kappesi pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasi karitvā."
-msgstr "He laid down in the lion’s posture—on the right side, placing one foot on top of the other—mindful and aware, and focused on the time of getting up."
+msgid "dakkhiṇena passena sīhaseyyaṃ kappesi pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasi karitvā. "
+msgstr "He laid down in the lion’s posture—on the right side, placing one foot on top of the other—mindful and aware, and focused on the time of getting up. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn4.7:1.4"
-msgid "Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:"
-msgstr "Then Māra the Wicked went up to the Buddha and addressed him in verse:"
+msgid "Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi: "
+msgstr "Then Māra the Wicked went up to the Buddha and addressed him in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="pts2ed" id="pts2ed1.240"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: pts2ed1.240, sc2
 msgctxt "sn4.7:2.1"
-msgid "“Kiṃ soppasi kiṃ nu soppasi,"
-msgstr "“What, you’re asleep? Really, you’re asleep?"
+msgid "“Kiṃ soppasi kiṃ nu soppasi, "
+msgstr "“What, you’re asleep? Really, you’re asleep? "
 
 #. <br>
 #. VAR: dubbhago → dubbhato (s1-3, km) | dubbhayo (pts1-2)
 msgctxt "sn4.7:2.2"
-msgid "Kimidaṃ soppasi dubbhago viya;"
-msgstr "You sleep like a loser—what’s up with that?"
+msgid "Kimidaṃ soppasi dubbhago viya; "
+msgstr "You sleep like a loser—what’s up with that? "
 
 #. <br>
 msgctxt "sn4.7:2.3"
-msgid "Suññamagāranti soppasi,"
-msgstr "You sleep, thinking that the hut is empty."
+msgid "Suññamagāranti soppasi, "
+msgstr "You sleep, thinking that the hut is empty. "
 
 #. <br>
 msgctxt "sn4.7:2.4"
-msgid "Kimidaṃ soppasi sūriye uggate”ti."
-msgstr "You sleep when the sun has come up—what’s up with that?”"
+msgid "Kimidaṃ soppasi sūriye uggate”ti. "
+msgstr "You sleep when the sun has come up—what’s up with that?” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn4.7:3.1"
-msgid "“Yassa jālinī visattikā,"
+msgid "“Yassa jālinī visattikā, "
 msgstr "“For them there is no craving—"
 
 #. <br>
 msgctxt "sn4.7:3.2"
-msgid "Taṇhā natthi kuhiñci netave;"
-msgstr "the weaver, the clinger—to lead them anywhere."
+msgid "Taṇhā natthi kuhiñci netave; "
+msgstr "the weaver, the clinger—to lead them anywhere. "
 
 #. <br>
 msgctxt "sn4.7:3.3"
-msgid "Sabbūpadhiparikkhayā buddho,"
-msgstr "With the ending of all attachments the awakened Buddha sleeps."
+msgid "Sabbūpadhiparikkhayā buddho, "
+msgstr "With the ending of all attachments the awakened Buddha sleeps. "
 
 #. <br>
 msgctxt "sn4.7:3.4"
-msgid "Soppati kiṃ tavettha mārā”ti."
-msgstr "What’s that got to do with you, Māra?”"
+msgid "Soppati kiṃ tavettha mārā”ti. "
+msgstr "What’s that got to do with you, Māra?” "
 
-#. </p></blockquote><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p></blockquote><p>
+#. REF: sc4
 msgctxt "sn4.7:4.1"
-msgid "Atha kho māro pāpimā … pe … tatthevantaradhāyīti."
+msgid "Atha kho māro pāpimā … pe … tatthevantaradhāyīti. "
 msgstr "Then Māra … vanished right there."
+
+#. HTML: </p></article></section></body></html>

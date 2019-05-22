@@ -2,98 +2,100 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn9.8"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn9.8"><article><div class="hgroup"><p class="division">
 msgctxt "sn9.8:0.1"
-msgid "Saṃyutta Nikāya 9"
-msgstr "Linked Discourses 9"
+msgid "Saṃyutta Nikāya 9 "
+msgstr "Linked Discourses 9 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn9.8:0.2"
-msgid "1. Vanavagga"
-msgstr "1. In the Woods"
+msgid "1. Vanavagga "
+msgstr "1. In the Woods "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn9.8:0.3"
-msgid "8. Kulagharaṇīsutta"
-msgstr "8. The Mistress of the House"
+msgid "8. Kulagharaṇīsutta "
+msgstr "8. The Mistress of the House "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn9.8:1.1"
-msgid "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe."
-msgstr "At one time one of the monks was staying in the land of the Kosalans in a certain forest grove."
+msgid "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. "
+msgstr "At one time one of the monks was staying in the land of the Kosalans in a certain forest grove. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn9.8:1.2"
-msgid "Tena kho pana samayena so bhikkhu aññatarasmiṃ kule ativelaṃ ajjhogāḷhappatto viharati."
-msgstr "Now at that time that monk had become too closely involved in the affairs of a certain family."
+msgid "Tena kho pana samayena so bhikkhu aññatarasmiṃ kule ativelaṃ ajjhogāḷhappatto viharati. "
+msgstr "Now at that time that monk had become too closely involved in the affairs of a certain family. "
 
 msgctxt "sn9.8:1.3"
-msgid "Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yā tasmiṃ kule kulagharaṇī, tassā vaṇṇaṃ abhinimminitvā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi:"
-msgstr "The deity haunting that forest had compassion for that monk, wanting what’s best for him. So, wanting to stir him up, they manifested in the appearance of the mistress of that family, approached the monk, and addressed him in verse:"
+msgid "Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yā tasmiṃ kule kulagharaṇī, tassā vaṇṇaṃ abhinimminitvā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi: "
+msgstr "The deity haunting that forest had compassion for that monk, wanting what’s best for him. So, wanting to stir him up, they manifested in the appearance of the mistress of that family, approached the monk, and addressed him in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "sn9.8:2.1"
-msgid "“Nadītīresu saṇṭhāne,"
-msgstr "“On the banks of the rivers and in the guest houses,"
+msgid "“Nadītīresu saṇṭhāne, "
+msgstr "“On the banks of the rivers and in the guest houses, "
 
 #. <br>
 msgctxt "sn9.8:2.2"
-msgid "sabhāsu rathiyāsu ca;"
-msgstr "in meeting halls and highways,"
+msgid "sabhāsu rathiyāsu ca; "
+msgstr "in meeting halls and highways, "
 
 #. <br>
 msgctxt "sn9.8:2.3"
-msgid "Janā saṅgamma mantenti,"
-msgstr "people come together and gossip:"
+msgid "Janā saṅgamma mantenti, "
+msgstr "people come together and gossip: "
 
 #. <br>
 #. VAR: tañca → tvañca (mr)
 msgctxt "sn9.8:2.4"
-msgid "mañca tañca kimantaran”ti."
-msgstr "what’s going on between you and me?”"
+msgid "mañca tañca kimantaran”ti. "
+msgstr "what’s going on between you and me?” "
 
-# See http://sanskritdictionary.com/?iencoding=iast&q=praty%C5%ABha&lang=sans&action=Search
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.434"></a>
-#. <a class="sc" id="sc3"></a>
+# NOTE: See http://sanskritdictionary.com/?iencoding=iast&q=praty%C5%ABha&lang=sans&action=Search
+#. HTML: </p><p>
+#. REF: pts2ed1.434, sc3
 msgctxt "sn9.8:3.1"
-msgid "“Bahūhi saddā paccūhā,"
-msgstr "“There are lots of annoying sounds"
+msgid "“Bahūhi saddā paccūhā, "
+msgstr "“There are lots of annoying sounds "
 
 #. <br>
 msgctxt "sn9.8:3.2"
-msgid "khamitabbā tapassinā;"
-msgstr "that an austere ascetic must endure."
+msgid "khamitabbā tapassinā; "
+msgstr "that an austere ascetic must endure. "
 
 #. <br>
 msgctxt "sn9.8:3.3"
-msgid "Na tena maṅku hotabbaṃ,"
-msgstr "But they mustn’t be dismayed by that,"
+msgid "Na tena maṅku hotabbaṃ, "
+msgstr "But they mustn’t be dismayed by that, "
 
 #. <br>
 msgctxt "sn9.8:3.4"
-msgid "na hi tena kilissati."
-msgstr "for that’s not what defiles you."
+msgid "na hi tena kilissati. "
+msgstr "for that’s not what defiles you. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn9.8:4.1"
-msgid "Yo ca saddaparittāsī,"
-msgstr "If you’re startled by every little sound,"
+msgid "Yo ca saddaparittāsī, "
+msgstr "If you’re startled by every little sound, "
 
-# vatamiga is evidently a mythical beast renowned for its flightiness; it only occurs in Ja 14 and Tha-ap 482, both in legendary stories of the past.
+# NOTE: vatamiga is evidently a mythical beast renowned for its flightiness; it only occurs in Ja 14 and Tha-ap 482, both in legendary stories of the past.
 #. <br>
 msgctxt "sn9.8:4.2"
-msgid "vane vātamigo yathā;"
-msgstr "like a wind-deer in the wood,"
+msgid "vane vātamigo yathā; "
+msgstr "like a wind-deer in the wood, "
 
 #. <br>
 msgctxt "sn9.8:4.3"
-msgid "Lahucittoti taṃ āhu,"
-msgstr "they’ll call you ‘flighty minded’;"
+msgid "Lahucittoti taṃ āhu, "
+msgstr "they’ll call you ‘flighty minded’; "
 
 #. <br>
 msgctxt "sn9.8:4.4"
-msgid "nāssa sampajjate vatan”ti."
+msgid "nāssa sampajjate vatan”ti. "
 msgstr "and your practice won’t succeed.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

@@ -2,134 +2,135 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn11.25"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn11.25"><article><div class="hgroup"><p class="division">
 msgctxt "sn11.25:0.1"
-msgid "Saṃyutta Nikāya 11"
-msgstr "Linked Discourses 11"
+msgid "Saṃyutta Nikāya 11 "
+msgstr "Linked Discourses 11 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn11.25:0.2"
-msgid "3. Tatiyavagga"
-msgstr "3. The Third Chapter"
+msgid "3. Tatiyavagga "
+msgstr "3. The Third Chapter "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 25. Akkodhasutta → akodho (avihiṃsā) (pts1)
 msgctxt "sn11.25:0.3"
-msgid "25. Akkodhasutta"
-msgstr "25. Don’t Be Angry"
+msgid "25. Akkodhasutta "
+msgstr "25. Don’t Be Angry "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: sc1
 msgctxt "sn11.25:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn11.25:1.2"
-msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn11.25:1.3"
-msgid "Tatra kho bhagavā bhikkhū … pe … bhagavā etadavoca:"
-msgstr "There the Buddha addressed the mendicants:"
+msgid "Tatra kho bhagavā bhikkhū … pe … bhagavā etadavoca: "
+msgstr "There the Buddha addressed the mendicants: "
 
+#. HTML: </p><p class="added">
 msgctxt "sn11.25:1.4"
-msgid "“bhūtapubbaṃ, bhikkhave, sakko devānamindo sudhammāyaṃ sabhāyaṃ deve tāvatiṃse anunayamāno tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi:"
-msgstr "“Once upon a time, mendicants, Sakka, lord of gods, guiding the gods of the Thirty-Three, recited this verse:"
+msgid "“bhūtapubbaṃ, bhikkhave, sakko devānamindo sudhammāyaṃ sabhāyaṃ deve tāvatiṃse anunayamāno tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi: "
+msgstr "“Once upon a time, mendicants, Sakka, lord of gods, guiding the gods of the Thirty-Three, recited this verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="pts2ed" id="pts2ed1.515"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: pts2ed1.515, sc2
 msgctxt "sn11.25:2.1"
-msgid "‘Mā vo kodho ajjhabhavi,"
-msgstr "“Don’t let anger be your master,"
+msgid "‘Mā vo kodho ajjhabhavi, "
+msgstr "“Don’t let anger be your master, "
 
 #. <br>
 msgctxt "sn11.25:2.2"
-msgid "mā ca kujjhittha kujjhataṃ;"
-msgstr "don’t get angry at angry people."
+msgid "mā ca kujjhittha kujjhataṃ; "
+msgstr "don’t get angry at angry people. "
 
 #. <br>
 msgctxt "sn11.25:2.3"
-msgid "Akkodho avihiṃsā ca,"
-msgstr "Kindness and harmlessness"
+msgid "Akkodho avihiṃsā ca, "
+msgstr "Kindness and harmlessness "
 
 #. <br>
 #. VAR: ca paṭipadā → vasati sadā (bj, pts1) | vasatī sadā (s1-3, km, pts2)
 msgctxt "sn11.25:2.4"
-msgid "ariyesu ca paṭipadā;"
-msgstr "are always present in the noble ones."
+msgid "ariyesu ca paṭipadā; "
+msgstr "are always present in the noble ones. "
 
 #. <br>
 msgctxt "sn11.25:2.5"
-msgid "Atha pāpajanaṃ kodho,"
-msgstr "For anger crushes bad people"
+msgid "Atha pāpajanaṃ kodho, "
+msgstr "For anger crushes bad people "
 
 #. <br>
 msgctxt "sn11.25:2.6"
-msgid "pabbatovābhimaddatī’”ti."
-msgstr "like a mountain.’”"
+msgid "pabbatovābhimaddatī’”ti. "
+msgstr "like a mountain.’” "
 
-#. </p></blockquote><p class="endsection">
+#. HTML: </p></blockquote><p class="endsection">
 msgctxt "sn11.25:2.7"
-msgid "Tatiyo vaggo."
-msgstr ""
+msgid "Tatiyo vaggo. "
+msgstr " "
 
-#. </p><blockquote class="uddanagatha"><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: sc3
 msgctxt "sn11.25:3.1"
-msgid "Chetvā dubbaṇṇiya māyā,"
-msgstr ""
+msgid "Chetvā dubbaṇṇiya māyā, "
+msgstr " "
 
 #. <br>
 msgctxt "sn11.25:3.2"
-msgid "accayena akodhano;"
-msgstr ""
+msgid "accayena akodhano; "
+msgstr " "
 
 #. <br>
 msgctxt "sn11.25:3.3"
-msgid "Desitaṃ buddhaseṭṭhena,"
-msgstr ""
+msgid "Desitaṃ buddhaseṭṭhena, "
+msgstr " "
 
 #. <br>
 msgctxt "sn11.25:3.4"
-msgid "idañhi sakkapañcakanti."
-msgstr ""
+msgid "idañhi sakkapañcakanti. "
+msgstr " "
 
-#. </p></blockquote><p class="endsutta">
+#. HTML: </p></blockquote><p class="endsutta">
 msgctxt "sn11.25:3.5"
-msgid "Sakkasaṃyuttaṃ samattaṃ."
-msgstr "The Linked Discourses with Sakka are complete."
+msgid "Sakkasaṃyuttaṃ samattaṃ. "
+msgstr "The Linked Discourses with Sakka are complete. "
 
-#. </p><p class="endsutta">
+#. HTML: </p><p class="endsutta">
 msgctxt "sn11.25:3.6"
-msgid "Sagāthāvaggo paṭhamo."
-msgstr ""
+msgid "Sagāthāvaggo paṭhamo. "
+msgstr " "
 
-#. </p><blockquote class="uddanagatha"><p>
-#. <a class="pts2ed" id="pts2ed1.516"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: pts2ed1.516, sc4
 msgctxt "sn11.25:4.1"
-msgid "Devatā devaputto ca,"
-msgstr ""
+msgid "Devatā devaputto ca, "
+msgstr " "
 
 #. <br>
 msgctxt "sn11.25:4.2"
-msgid "rājā māro ca bhikkhunī;"
-msgstr ""
+msgid "rājā māro ca bhikkhunī; "
+msgstr " "
 
 #. <br>
 msgctxt "sn11.25:4.3"
-msgid "Brahmā brāhmaṇa vaṅgīso,"
-msgstr ""
+msgid "Brahmā brāhmaṇa vaṅgīso, "
+msgstr " "
 
 #. <br>
 msgctxt "sn11.25:4.4"
-msgid "vanayakkhena vāsavoti."
-msgstr ""
+msgid "vanayakkhena vāsavoti. "
+msgstr " "
 
-#. </p></blockquote><p class="endbook">
+#. HTML: </p></blockquote><p class="endbook">
 msgctxt "sn11.25:4.5"
-msgid "Sagāthāvaggasaṃyuttapāḷi niṭṭhitā."
+msgid "Sagāthāvaggasaṃyuttapāḷi niṭṭhitā. "
 msgstr "The Book With Verses is finished."
+
+#. HTML: </p></article></section></body></html>

@@ -2,132 +2,133 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn12.34"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn12.34"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.34:0.1"
-msgid "Saṃyutta Nikāya 12"
-msgstr "Linked Discourses 12"
+msgid "Saṃyutta Nikāya 12 "
+msgstr "Linked Discourses 12 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn12.34:0.2"
-msgid "4. Kaḷārakhattiyavagga"
-msgstr "4. Kaḷāra the Aristocrat"
+msgid "4. Kaḷārakhattiyavagga "
+msgstr "4. Kaḷāra the Aristocrat "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn12.34:0.3"
-msgid "34. Dutiyañāṇavatthusutta"
-msgstr "34. Grounds for Knowledge (2nd)"
+msgid "34. Dutiyañāṇavatthusutta "
+msgstr "34. Grounds for Knowledge (2nd) "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn12.34:1.1"
-msgid "Sāvatthiyaṃ viharati."
-msgstr "At Sāvatthī."
+msgid "Sāvatthiyaṃ viharati. "
+msgstr "At Sāvatthī. "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn12.34:1.2"
-msgid "“Sattasattari vo, bhikkhave, ñāṇavatthūni desessāmi."
-msgstr "“Mendicants, I will teach seventy-seven grounds for knowledge."
+msgid "“Sattasattari vo, bhikkhave, ñāṇavatthūni desessāmi. "
+msgstr "“Mendicants, I will teach seventy-seven grounds for knowledge. "
 
 msgctxt "sn12.34:1.3"
-msgid "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti."
-msgstr "Listen and pay close attention, I will speak.”"
+msgid "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti. "
+msgstr "Listen and pay close attention, I will speak.” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn12.34:1.4"
-msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ."
-msgstr "“Yes, sir,” they replied."
+msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. "
+msgstr "“Yes, sir,” they replied. "
 
 msgctxt "sn12.34:1.5"
-msgid "Bhagavā etadavoca:"
-msgstr "The Buddha said this:"
+msgid "Bhagavā etadavoca: "
+msgstr "The Buddha said this: "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.60"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.60, sc2
 msgctxt "sn12.34:2.1"
-msgid "“Katamāni, bhikkhave, sattasattari ñāṇavatthūni?"
-msgstr "“And what are the seventy-seven grounds for knowledge?"
+msgid "“Katamāni, bhikkhave, sattasattari ñāṇavatthūni? "
+msgstr "“And what are the seventy-seven grounds for knowledge? "
 
 msgctxt "sn12.34:2.2"
-msgid "Jātipaccayā jarāmaraṇanti ñāṇaṃ;"
-msgstr "The knowledge that rebirth is a condition for old age and death,"
+msgid "Jātipaccayā jarāmaraṇanti ñāṇaṃ; "
+msgstr "The knowledge that rebirth is a condition for old age and death, "
 
 msgctxt "sn12.34:2.3"
-msgid "asati jātiyā natthi jarāmaraṇanti ñāṇaṃ;"
-msgstr "and the knowledge that when rebirth doesn’t exist, there is no old age and death."
+msgid "asati jātiyā natthi jarāmaraṇanti ñāṇaṃ; "
+msgstr "and the knowledge that when rebirth doesn’t exist, there is no old age and death. "
 
-# I find it unusual that the text doesn’t adapt the tenses here as it usually does in similar contexts. Perhaps there’s nothing to it, but I don’t feel confident about changing the tenses.
+# NOTE: I find it unusual that the text doesn’t adapt the tenses here as it usually does in similar contexts. Perhaps there’s nothing to it, but I don’t feel confident about changing the tenses.
 msgctxt "sn12.34:2.4"
-msgid "atītampi addhānaṃ jātipaccayā jarāmaraṇanti ñāṇaṃ, asati jātiyā natthi jarāmaraṇanti ñāṇaṃ;"
-msgstr "Also regarding the past: the knowledge that rebirth is a condition for old age and death, and the knowledge that when rebirth doesn’t exist, there is no old age and death."
+msgid "atītampi addhānaṃ jātipaccayā jarāmaraṇanti ñāṇaṃ, asati jātiyā natthi jarāmaraṇanti ñāṇaṃ; "
+msgstr "Also regarding the past: the knowledge that rebirth is a condition for old age and death, and the knowledge that when rebirth doesn’t exist, there is no old age and death. "
 
 msgctxt "sn12.34:2.5"
-msgid "anāgatampi addhānaṃ jātipaccayā jarāmaraṇanti ñāṇaṃ, asati jātiyā natthi jarāmaraṇanti ñāṇaṃ;"
-msgstr "Also regarding the future: the knowledge that rebirth is a condition for old age and death, and the knowledge that when rebirth doesn’t exist, there is no old age and death."
+msgid "anāgatampi addhānaṃ jātipaccayā jarāmaraṇanti ñāṇaṃ, asati jātiyā natthi jarāmaraṇanti ñāṇaṃ; "
+msgstr "Also regarding the future: the knowledge that rebirth is a condition for old age and death, and the knowledge that when rebirth doesn’t exist, there is no old age and death. "
 
 msgctxt "sn12.34:2.6"
-msgid "yampissa taṃ dhammaṭṭhitiñāṇaṃ tampi khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammanti ñāṇaṃ."
-msgstr "And also their knowledge that even this knowledge of the stability of natural principles is liable to end, vanish, fade away, and cease."
+msgid "yampissa taṃ dhammaṭṭhitiñāṇaṃ tampi khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammanti ñāṇaṃ. "
+msgstr "And also their knowledge that even this knowledge of the stability of natural principles is liable to end, vanish, fade away, and cease. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn12.34:3.1"
-msgid "Bhavapaccayā jātīti ñāṇaṃ … pe …"
-msgstr "The knowledge that continued existence is a condition for rebirth …"
+msgid "Bhavapaccayā jātīti ñāṇaṃ … pe … "
+msgstr "The knowledge that continued existence is a condition for rebirth … "
 
 msgctxt "sn12.34:3.2"
-msgid "upādānapaccayā bhavoti ñāṇaṃ …"
-msgstr ""
+msgid "upādānapaccayā bhavoti ñāṇaṃ … "
+msgstr " "
 
 msgctxt "sn12.34:3.3"
-msgid "taṇhāpaccayā upādānanti ñāṇaṃ …"
-msgstr ""
+msgid "taṇhāpaccayā upādānanti ñāṇaṃ … "
+msgstr " "
 
 msgctxt "sn12.34:3.4"
-msgid "vedanāpaccayā taṇhāti ñāṇaṃ …"
-msgstr ""
+msgid "vedanāpaccayā taṇhāti ñāṇaṃ … "
+msgstr " "
 
 msgctxt "sn12.34:3.5"
-msgid "phassapaccayā vedanāti ñāṇaṃ …"
-msgstr ""
+msgid "phassapaccayā vedanāti ñāṇaṃ … "
+msgstr " "
 
 msgctxt "sn12.34:3.6"
-msgid "saḷāyatanapaccayā phassoti ñāṇaṃ …"
-msgstr ""
+msgid "saḷāyatanapaccayā phassoti ñāṇaṃ … "
+msgstr " "
 
 msgctxt "sn12.34:3.7"
-msgid "nāmarūpapaccayā saḷāyatananti ñāṇaṃ …"
-msgstr ""
+msgid "nāmarūpapaccayā saḷāyatananti ñāṇaṃ … "
+msgstr " "
 
 msgctxt "sn12.34:3.8"
-msgid "viññāṇapaccayā nāmarūpanti ñāṇaṃ …"
-msgstr ""
+msgid "viññāṇapaccayā nāmarūpanti ñāṇaṃ … "
+msgstr " "
 
 msgctxt "sn12.34:3.9"
-msgid "saṅkhārapaccayā viññāṇanti ñāṇaṃ;"
-msgstr ""
+msgid "saṅkhārapaccayā viññāṇanti ñāṇaṃ; "
+msgstr " "
 
 msgctxt "sn12.34:3.10"
-msgid "avijjāpaccayā saṅkhārāti ñāṇaṃ, asati avijjāya natthi saṅkhārāti ñāṇaṃ;"
-msgstr "The knowledge that ignorance is a condition for choices, and the knowledge that when ignorance doesn’t exist, there are no choices."
+msgid "avijjāpaccayā saṅkhārāti ñāṇaṃ, asati avijjāya natthi saṅkhārāti ñāṇaṃ; "
+msgstr "The knowledge that ignorance is a condition for choices, and the knowledge that when ignorance doesn’t exist, there are no choices. "
 
 msgctxt "sn12.34:3.11"
-msgid "atītampi addhānaṃ avijjāpaccayā saṅkhārāti ñāṇaṃ, asati avijjāya natthi saṅkhārāti ñāṇaṃ;"
-msgstr "Also regarding the past: the knowledge that ignorance is a condition for choices, and the knowledge that when ignorance doesn’t exist, there are no choices."
+msgid "atītampi addhānaṃ avijjāpaccayā saṅkhārāti ñāṇaṃ, asati avijjāya natthi saṅkhārāti ñāṇaṃ; "
+msgstr "Also regarding the past: the knowledge that ignorance is a condition for choices, and the knowledge that when ignorance doesn’t exist, there are no choices. "
 
 msgctxt "sn12.34:3.12"
-msgid "anāgatampi addhānaṃ avijjāpaccayā saṅkhārāti ñāṇaṃ, asati avijjāya natthi saṅkhārāti ñāṇaṃ;"
-msgstr "Also regarding the future: the knowledge that ignorance is a condition for choices, and the knowledge that when ignorance doesn’t exist, there are no choices."
+msgid "anāgatampi addhānaṃ avijjāpaccayā saṅkhārāti ñāṇaṃ, asati avijjāya natthi saṅkhārāti ñāṇaṃ; "
+msgstr "Also regarding the future: the knowledge that ignorance is a condition for choices, and the knowledge that when ignorance doesn’t exist, there are no choices. "
 
 msgctxt "sn12.34:3.13"
-msgid "yampissa taṃ dhammaṭṭhitiñāṇaṃ tampi khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammanti ñāṇaṃ."
-msgstr "And also their knowledge that even this knowledge of the stability of natural principles is liable to end, vanish, fade away, and cease."
+msgid "yampissa taṃ dhammaṭṭhitiñāṇaṃ tampi khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammanti ñāṇaṃ. "
+msgstr "And also their knowledge that even this knowledge of the stability of natural principles is liable to end, vanish, fade away, and cease. "
 
 msgctxt "sn12.34:3.14"
-msgid "Imāni vuccanti, bhikkhave, sattasattari ñāṇavatthūnī”ti."
-msgstr "These are called the seventy-seven grounds for knowledge.”"
+msgid "Imāni vuccanti, bhikkhave, sattasattari ñāṇavatthūnī”ti. "
+msgstr "These are called the seventy-seven grounds for knowledge.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn12.34:3.15"
-msgid "Catutthaṃ."
+msgid "Catutthaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

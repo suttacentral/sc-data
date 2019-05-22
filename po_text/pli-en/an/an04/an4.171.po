@@ -2,102 +2,100 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.171"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.171"><article><div class="hgroup"><p class="division">
 msgctxt "an4.171:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 #. VAR: sañcetanikavagga (pts1)
 msgctxt "an4.171:0.2"
-msgid "18. Sañcetaniyavagga"
-msgstr "18. Intention"
+msgid "18. Sañcetaniyavagga "
+msgstr "18. Intention "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: sañcetanāsuttaṃ (bj)
 msgctxt "an4.171:0.3"
-msgid "171. Cetanāsutta"
-msgstr "171. Intention"
+msgid "171. Cetanāsutta "
+msgstr "171. Intention "
 
-# I find BB’s “bodily intention” obscure. Does it means, “the body’s own intention” (which is how it seems to be used in psychology)? Or does it mean “intention expressed via the body”? Since cetana is always a mental factor in Buddhism it must be the latter. My rendering follows the Tika: kāyasañcetanāhetūti kāyakammanimittaṃ, kāyikassa kammassa kaṭattā upacitattāti attho
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.158"></a>
-#. <a class="sc" id="sc1"></a>
+# NOTE: I find BB’s “bodily intention” obscure. Does it means, “the body’s own intention” (which is how it seems to be used in psychology)? Or does it mean “intention expressed via the body”? Since cetana is always a mental factor in Buddhism it must be the latter. My rendering follows the Tika: kāyasañcetanāhetūti kāyakammanimittaṃ, kāyikassa kammassa kaṭattā upacitattāti attho
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli2.158, sc1
 msgctxt "an4.171:1.1"
-msgid "“Kāye vā, bhikkhave, sati kāyasañcetanāhetu uppajjati ajjhattaṃ sukhadukkhaṃ."
-msgstr "“Mendicants, as long as there’s a body, the intention that gives rise to bodily action causes pleasure and pain to arise in oneself."
+msgid "“Kāye vā, bhikkhave, sati kāyasañcetanāhetu uppajjati ajjhattaṃ sukhadukkhaṃ. "
+msgstr "“Mendicants, as long as there’s a body, the intention that gives rise to bodily action causes pleasure and pain to arise in oneself. "
 
 msgctxt "an4.171:1.2"
-msgid "Vācāya vā, bhikkhave, sati vacīsañcetanāhetu uppajjati ajjhattaṃ sukhadukkhaṃ."
-msgstr "As long as there’s a voice, the intention that gives rise to verbal action causes pleasure and pain to arise in oneself."
+msgid "Vācāya vā, bhikkhave, sati vacīsañcetanāhetu uppajjati ajjhattaṃ sukhadukkhaṃ. "
+msgstr "As long as there’s a voice, the intention that gives rise to verbal action causes pleasure and pain to arise in oneself. "
 
 msgctxt "an4.171:1.3"
-msgid "Mane vā, bhikkhave, sati manosañcetanāhetu uppajjati ajjhattaṃ sukhadukkhaṃ avijjāpaccayāva."
-msgstr "As long as there’s a mind, the intention that gives rise to mental action causes pleasure and pain to arise in oneself. But these only apply when conditioned by ignorance."
+msgid "Mane vā, bhikkhave, sati manosañcetanāhetu uppajjati ajjhattaṃ sukhadukkhaṃ avijjāpaccayāva. "
+msgstr "As long as there’s a mind, the intention that gives rise to mental action causes pleasure and pain to arise in oneself. But these only apply when conditioned by ignorance. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an4.171:2.1"
-msgid "Sāmaṃ vā taṃ, bhikkhave, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ."
-msgstr "By oneself one makes the choice that gives rise to bodily, verbal, and mental action, conditioned by which that pleasure and pain arise in oneself."
+msgid "Sāmaṃ vā taṃ, bhikkhave, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ. "
+msgstr "By oneself one makes the choice that gives rise to bodily, verbal, and mental action, conditioned by which that pleasure and pain arise in oneself. "
 
 #. VAR: Pare vāssa → pare vā tassa (mr)
 msgctxt "an4.171:2.2"
-msgid "Pare vāssa taṃ, bhikkhave, kāyasaṅkhāraṃ abhisaṅkharonti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ."
-msgstr "Or else others make the choice …"
+msgid "Pare vāssa taṃ, bhikkhave, kāyasaṅkhāraṃ abhisaṅkharonti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ. "
+msgstr "Or else others make the choice … "
 
-# In this context sampajana doesn’t mean “clear comprehension” as a part of practice. It’s clearly defined in the Vinaya rule for sampajanamusavada: before speaking you know, I will lie, during you know, I am lying, and after you know, I did lie.
+# NOTE: In this context sampajana doesn’t mean “clear comprehension” as a part of practice. It’s clearly defined in the Vinaya rule for sampajanamusavada: before speaking you know, I will lie, during you know, I am lying, and after you know, I did lie.
 msgctxt "an4.171:2.3"
-msgid "Sampajāno vā taṃ, bhikkhave, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ."
-msgstr "One consciously makes the choice …"
+msgid "Sampajāno vā taṃ, bhikkhave, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ. "
+msgstr "One consciously makes the choice … "
 
 msgctxt "an4.171:2.4"
-msgid "Asampajāno vā taṃ, bhikkhave, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ."
-msgstr "Or else one unconsciously makes the choice …"
+msgid "Asampajāno vā taṃ, bhikkhave, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ. "
+msgstr "Or else one unconsciously makes the choice … "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an4.171:3.1"
-msgid "Sāmaṃ vā taṃ, bhikkhave, vacīsaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ;"
-msgstr ""
+msgid "Sāmaṃ vā taṃ, bhikkhave, vacīsaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ; "
+msgstr " "
 
 msgctxt "an4.171:3.2"
-msgid "pare vāssa taṃ, bhikkhave, vacīsaṅkhāraṃ abhisaṅkharonti;"
-msgstr ""
+msgid "pare vāssa taṃ, bhikkhave, vacīsaṅkhāraṃ abhisaṅkharonti; "
+msgstr " "
 
 msgctxt "an4.171:3.3"
-msgid "yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ;"
-msgstr ""
+msgid "yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ; "
+msgstr " "
 
 msgctxt "an4.171:3.4"
-msgid "sampajāno vā taṃ, bhikkhave, vacīsaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ;"
-msgstr ""
+msgid "sampajāno vā taṃ, bhikkhave, vacīsaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ; "
+msgstr " "
 
 msgctxt "an4.171:3.5"
-msgid "asampajāno vā taṃ, bhikkhave, vacīsaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ."
-msgstr ""
+msgid "asampajāno vā taṃ, bhikkhave, vacīsaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ. "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "an4.171:4.1"
-msgid "Sāmaṃ vā taṃ, bhikkhave, manosaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ;"
-msgstr ""
+msgid "Sāmaṃ vā taṃ, bhikkhave, manosaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ; "
+msgstr " "
 
 msgctxt "an4.171:4.2"
-msgid "pare vāssa taṃ, bhikkhave, manosaṅkhāraṃ abhisaṅkharonti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ;"
-msgstr ""
+msgid "pare vāssa taṃ, bhikkhave, manosaṅkhāraṃ abhisaṅkharonti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ; "
+msgstr " "
 
 msgctxt "an4.171:4.3"
-msgid "sampajāno vā taṃ, bhikkhave, manosaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ;"
-msgstr ""
+msgid "sampajāno vā taṃ, bhikkhave, manosaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ; "
+msgstr " "
 
 msgctxt "an4.171:4.4"
-msgid "asampajāno vā taṃ, bhikkhave, manosaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ."
-msgstr ""
+msgid "asampajāno vā taṃ, bhikkhave, manosaṅkhāraṃ abhisaṅkharoti, yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.159"></a>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.159, sc5
 msgctxt "an4.171:5.1"
 msgid "Imesu, bhikkhave, dhammesu avijjā anupatitā, "
 msgstr "Ignorance is included in all these things. "
@@ -108,129 +106,135 @@ msgstr "But when ignorance fades away and ceases with nothing left over, there i
 
 #. VAR: vatthu taṃ → vatthuṃ taṃ (bj, pts1) | vatthuntaṃ (s1-3)
 msgctxt "an4.171:5.3"
-msgid "khettaṃ taṃ na hoti … pe … vatthu taṃ na hoti … pe … āyatanaṃ taṃ na hoti … pe … adhikaraṇaṃ taṃ na hoti yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhanti."
-msgstr "There is no field, no ground, no scope, and no basis, conditioned by which that pleasure and pain arise in oneself."
+msgid "khettaṃ taṃ na hoti … pe … vatthu taṃ na hoti … pe … āyatanaṃ taṃ na hoti … pe … adhikaraṇaṃ taṃ na hoti yaṃpaccayāssa taṃ uppajjati ajjhattaṃ sukhadukkhanti. "
+msgstr "There is no field, no ground, no scope, and no basis, conditioned by which that pleasure and pain arise in oneself. "
 
-# See CPD: attabhāva-paṭi-lābha, m., the becoming reborn as an individual; Vin II 185,25 = AN III 122,24 (= sarīra-patilābha,
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+# NOTE: See CPD: attabhāva-paṭi-lābha, m., the becoming reborn as an individual; Vin II 185,25 = AN III 122,24 (= sarīra-patilābha,
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "an4.171:6.1"
-msgid "Cattārome, bhikkhave, attabhāvapaṭilābhā."
-msgstr "Mendicants, there are four kinds of reincarnation."
+msgid "Cattārome, bhikkhave, attabhāvapaṭilābhā. "
+msgstr "Mendicants, there are four kinds of reincarnation. "
 
 msgctxt "an4.171:6.2"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
+#. HTML: </p><ol><li>
 msgctxt "an4.171:6.3"
-msgid "Atthi, bhikkhave, attabhāvapaṭilābho, yasmiṃ attabhāvapaṭilābhe attasañcetanā kamati, no parasañcetanā."
-msgstr "There is a reincarnation where one’s own intention is effective, not that of others."
+msgid "Atthi, bhikkhave, attabhāvapaṭilābho, yasmiṃ attabhāvapaṭilābhe attasañcetanā kamati, no parasañcetanā. "
+msgstr "There is a reincarnation where one’s own intention is effective, not that of others. "
 
+#. HTML: </li><li>
 msgctxt "an4.171:6.4"
-msgid "Atthi, bhikkhave, attabhāvapaṭilābho, yasmiṃ attabhāvapaṭilābhe parasañcetanā kamati, no attasañcetanā."
-msgstr "There is a reincarnation where the intention of others is effective, not one’s own."
+msgid "Atthi, bhikkhave, attabhāvapaṭilābho, yasmiṃ attabhāvapaṭilābhe parasañcetanā kamati, no attasañcetanā. "
+msgstr "There is a reincarnation where the intention of others is effective, not one’s own. "
 
+#. HTML: </li><li>
 msgctxt "an4.171:6.5"
-msgid "Atthi, bhikkhave, attabhāvapaṭilābho, yasmiṃ attabhāvapaṭilābhe attasañcetanā ca kamati parasañcetanā ca."
-msgstr "There is a reincarnation where both one’s own and others’ intentions are effective."
+msgid "Atthi, bhikkhave, attabhāvapaṭilābho, yasmiṃ attabhāvapaṭilābhe attasañcetanā ca kamati parasañcetanā ca. "
+msgstr "There is a reincarnation where both one’s own and others’ intentions are effective. "
 
+#. HTML: </li><li>
 msgctxt "an4.171:6.6"
-msgid "Atthi, bhikkhave, attabhāvapaṭilābho, yasmiṃ attabhāvapaṭilābhe nevattasañcetanā kamati, no parasañcetanā."
-msgstr "There is a reincarnation where neither one’s own nor others’ intentions are effective."
+msgid "Atthi, bhikkhave, attabhāvapaṭilābho, yasmiṃ attabhāvapaṭilābhe nevattasañcetanā kamati, no parasañcetanā. "
+msgstr "There is a reincarnation where neither one’s own nor others’ intentions are effective. "
 
+#. HTML: </li></ol><p class="added">
 msgctxt "an4.171:6.7"
-msgid "Ime kho, bhikkhave, cattāro attabhāvapaṭilābhā”ti."
-msgstr "These are the four kinds of reincarnation.”"
+msgid "Ime kho, bhikkhave, cattāro attabhāvapaṭilābhā”ti. "
+msgstr "These are the four kinds of reincarnation.” "
 
-#. </p><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: sc7
 msgctxt "an4.171:7.1"
-msgid "Evaṃ vutte, āyasmā sāriputto bhagavantaṃ etadavoca:"
-msgstr "When he said this, Venerable Sāriputta said to the Buddha:"
+msgid "Evaṃ vutte, āyasmā sāriputto bhagavantaṃ etadavoca: "
+msgstr "When he said this, Venerable Sāriputta said to the Buddha: "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an4.171:7.2"
-msgid "“imassa kho ahaṃ, bhante, bhagavatā saṅkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmi:"
-msgstr "“Sir, this is how I understand the detailed meaning of the Buddha’s brief statement."
+msgid "“imassa kho ahaṃ, bhante, bhagavatā saṅkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmi: "
+msgstr "“Sir, this is how I understand the detailed meaning of the Buddha’s brief statement. "
 
 msgctxt "an4.171:7.3"
-msgid "‘tatra, bhante, yāyaṃ attabhāvapaṭilābho yasmiṃ attabhāvapaṭilābhe attasañcetanā kamati no parasañcetanā, attasañcetanāhetu tesaṃ sattānaṃ tamhā kāyā cuti hoti."
-msgstr "Take the case of the reincarnation where one’s own intention is effective, not that of others. Those sentient beings pass away from that realm due to their own intention."
+msgid "‘tatra, bhante, yāyaṃ attabhāvapaṭilābho yasmiṃ attabhāvapaṭilābhe attasañcetanā kamati no parasañcetanā, attasañcetanāhetu tesaṃ sattānaṃ tamhā kāyā cuti hoti. "
+msgstr "Take the case of the reincarnation where one’s own intention is effective, not that of others. Those sentient beings pass away from that realm due to their own intention. "
 
 msgctxt "an4.171:7.4"
-msgid "Tatra, bhante, yāyaṃ attabhāvapaṭilābho yasmiṃ attabhāvapaṭilābhe parasañcetanā kamati no attasañcetanā, parasañcetanāhetu tesaṃ sattānaṃ tamhā kāyā cuti hoti."
-msgstr "Take the case of the reincarnation where the intention of others is effective, not one’s own. Those sentient beings pass away from that realm due to the intention of others."
+msgid "Tatra, bhante, yāyaṃ attabhāvapaṭilābho yasmiṃ attabhāvapaṭilābhe parasañcetanā kamati no attasañcetanā, parasañcetanāhetu tesaṃ sattānaṃ tamhā kāyā cuti hoti. "
+msgstr "Take the case of the reincarnation where the intention of others is effective, not one’s own. Those sentient beings pass away from that realm due to the intention of others. "
 
 msgctxt "an4.171:7.5"
-msgid "Tatra, bhante, yāyaṃ attabhāvapaṭilābho yasmiṃ attabhāvapaṭilābhe attasañcetanā ca kamati parasañcetanā ca, attasañcetanā ca parasañcetanā ca hetu tesaṃ sattānaṃ tamhā kāyā cuti hoti."
-msgstr "Take the case of the reincarnation where both one’s own and others’ intentions are effective. Those sentient beings pass away from that realm due to both their own and others’ intentions."
+msgid "Tatra, bhante, yāyaṃ attabhāvapaṭilābho yasmiṃ attabhāvapaṭilābhe attasañcetanā ca kamati parasañcetanā ca, attasañcetanā ca parasañcetanā ca hetu tesaṃ sattānaṃ tamhā kāyā cuti hoti. "
+msgstr "Take the case of the reincarnation where both one’s own and others’ intentions are effective. Those sentient beings pass away from that realm due to both their own and others’ intentions. "
 
 msgctxt "an4.171:7.6"
-msgid "Tatra, bhante, yāyaṃ attabhāvapaṭilābho yasmiṃ attabhāvapaṭilābhe neva attasañcetanā kamati no parasañcetanā, katame tena devā daṭṭhabbā’”ti?"
-msgstr "But sir, in the case of the reincarnation where neither one’s own nor others’ intentions are effective, what kind of gods does this refer to?”"
+msgid "Tatra, bhante, yāyaṃ attabhāvapaṭilābho yasmiṃ attabhāvapaṭilābhe neva attasañcetanā kamati no parasañcetanā, katame tena devā daṭṭhabbā’”ti? "
+msgstr "But sir, in the case of the reincarnation where neither one’s own nor others’ intentions are effective, what kind of gods does this refer to?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an4.171:7.7"
-msgid "“Nevasaññānāsaññāyatanūpagā, sāriputta, devā tena daṭṭhabbā”ti."
-msgstr "“Sāriputta, it refers to the gods reborn in the dimension of neither perception nor non-perception.”"
+msgid "“Nevasaññānāsaññāyatanūpagā, sāriputta, devā tena daṭṭhabbā”ti. "
+msgstr "“Sāriputta, it refers to the gods reborn in the dimension of neither perception nor non-perception.” "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.160"></a>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.160, sc8
 msgctxt "an4.171:8.1"
-msgid "“Ko nu kho, bhante, hetu ko paccayo, yena m’idhekacce sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ?"
-msgstr "“What is the cause, sir, what is the reason why some sentient beings pass away from that realm as returners who come back to this state of existence,"
+msgid "“Ko nu kho, bhante, hetu ko paccayo, yena m’idhekacce sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ? "
+msgstr "“What is the cause, sir, what is the reason why some sentient beings pass away from that realm as returners who come back to this state of existence, "
 
 msgctxt "an4.171:8.2"
-msgid "Ko pana, bhante, hetu ko paccayo, yena m’idhekacce sattā tamhā kāyā cutā anāgāmino honti anāgantāro itthattan”ti?"
-msgstr "while others are non-returners who don’t come back?”"
+msgid "Ko pana, bhante, hetu ko paccayo, yena m’idhekacce sattā tamhā kāyā cutā anāgāmino honti anāgantāro itthattan”ti? "
+msgstr "while others are non-returners who don’t come back?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an4.171:8.3"
-msgid "“Idha, sāriputta, ekaccassa puggalassa orambhāgiyāni saṃyojanāni appahīnāni honti, so diṭṭheva dhamme nevasaññānāsaññāyatanaṃ upasampajja viharati."
-msgstr "“Sāriputta, take a person who hasn’t given up the lower fetters. In the present life they enter and abide in the dimension of neither perception nor non-perception."
+msgid "“Idha, sāriputta, ekaccassa puggalassa orambhāgiyāni saṃyojanāni appahīnāni honti, so diṭṭheva dhamme nevasaññānāsaññāyatanaṃ upasampajja viharati. "
+msgstr "“Sāriputta, take a person who hasn’t given up the lower fetters. In the present life they enter and abide in the dimension of neither perception nor non-perception. "
 
 msgctxt "an4.171:8.4"
-msgid "So tadassādeti, taṃ nikāmeti, tena ca vittiṃ āpajjati;"
-msgstr "They enjoy it and like it and find it satisfying."
+msgid "So tadassādeti, taṃ nikāmeti, tena ca vittiṃ āpajjati; "
+msgstr "They enjoy it and like it and find it satisfying. "
 
 msgctxt "an4.171:8.5"
-msgid "tattha ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṃ kurumāno nevasaññānāsaññāyatanūpagānaṃ devānaṃ sahabyataṃ upapajjati."
-msgstr "If they abide in that, are committed to it, and meditate on it often without losing it, when they die they’re reborn in the company of the gods of the dimension of neither perception nor non-perception."
+msgid "tattha ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṃ kurumāno nevasaññānāsaññāyatanūpagānaṃ devānaṃ sahabyataṃ upapajjati. "
+msgstr "If they abide in that, are committed to it, and meditate on it often without losing it, when they die they’re reborn in the company of the gods of the dimension of neither perception nor non-perception. "
 
 msgctxt "an4.171:8.6"
-msgid "So tato cuto āgāmī hoti āgantā itthattaṃ."
-msgstr "When they pass away from there, they’re a returner, who comes back to this state of existence."
+msgid "So tato cuto āgāmī hoti āgantā itthattaṃ. "
+msgstr "When they pass away from there, they’re a returner, who comes back to this state of existence. "
 
-#. </p><p>
-#. <a class="sc" id="sc9"></a>
+#. HTML: </p><p>
+#. REF: sc9
 msgctxt "an4.171:9.1"
-msgid "Idha pana, sāriputta, ekaccassa puggalassa orambhāgiyāni saṃyojanāni pahīnāni honti, so diṭṭheva dhamme nevasaññānāsaññāyatanaṃ upasampajja viharati."
-msgstr "Sāriputta, take a person who has given up the lower fetters. In the present life they enter and abide in the dimension of neither perception nor non-perception."
+msgid "Idha pana, sāriputta, ekaccassa puggalassa orambhāgiyāni saṃyojanāni pahīnāni honti, so diṭṭheva dhamme nevasaññānāsaññāyatanaṃ upasampajja viharati. "
+msgstr "Sāriputta, take a person who has given up the lower fetters. In the present life they enter and abide in the dimension of neither perception nor non-perception. "
 
 msgctxt "an4.171:9.2"
-msgid "So tadassādeti, taṃ nikāmeti, tena ca vittiṃ āpajjati;"
-msgstr "They enjoy it and like it and find it satisfying."
+msgid "So tadassādeti, taṃ nikāmeti, tena ca vittiṃ āpajjati; "
+msgstr "They enjoy it and like it and find it satisfying. "
 
 msgctxt "an4.171:9.3"
-msgid "tattha ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṃ kurumāno nevasaññānāsaññāyatanūpagānaṃ devānaṃ sahabyataṃ upapajjati."
-msgstr "If they abide in that, are committed to it, and meditate on it often without losing it, when they die they’re reborn in the company of the gods of the dimension of neither perception nor non-perception."
+msgid "tattha ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṃ kurumāno nevasaññānāsaññāyatanūpagānaṃ devānaṃ sahabyataṃ upapajjati. "
+msgstr "If they abide in that, are committed to it, and meditate on it often without losing it, when they die they’re reborn in the company of the gods of the dimension of neither perception nor non-perception. "
 
 msgctxt "an4.171:9.4"
-msgid "So tato cuto anāgāmī hoti anāgantā itthattaṃ."
-msgstr "When they pass away from there, they’re a non-returner, not coming back to this state of existence."
+msgid "So tato cuto anāgāmī hoti anāgantā itthattaṃ. "
+msgstr "When they pass away from there, they’re a non-returner, not coming back to this state of existence. "
 
-#. </p><p>
-#. <a class="sc" id="sc10"></a>
+#. HTML: </p><p>
+#. REF: sc10
 msgctxt "an4.171:10.1"
-msgid "Ayaṃ kho, sāriputta, hetu ayaṃ paccayo, yena m’idhekacce sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ."
-msgstr "This is the cause, this is the reason why some sentient beings pass away from that realm as returners who come back to this state of existence,"
+msgid "Ayaṃ kho, sāriputta, hetu ayaṃ paccayo, yena m’idhekacce sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ. "
+msgstr "This is the cause, this is the reason why some sentient beings pass away from that realm as returners who come back to this state of existence, "
 
 msgctxt "an4.171:10.2"
-msgid "Ayaṃ pana, sāriputta, hetu ayaṃ paccayo, yena m’idhekacce sattā tamhā kāyā cutā anāgāmino honti anāgantāro itthattan”ti."
-msgstr "while others are non-returners who don’t come back.”"
+msgid "Ayaṃ pana, sāriputta, hetu ayaṃ paccayo, yena m’idhekacce sattā tamhā kāyā cutā anāgāmino honti anāgantāro itthattan”ti. "
+msgstr "while others are non-returners who don’t come back.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an4.171:10.3"
-msgid "Paṭhamaṃ."
+msgid "Paṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

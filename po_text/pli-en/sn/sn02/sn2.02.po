@@ -2,49 +2,52 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn2.2"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn2.2"><article><div class="hgroup"><p class="division">
 msgctxt "sn2.2:0.1"
-msgid "Saṃyutta Nikāya 2"
-msgstr "Linked Discourses 2"
+msgid "Saṃyutta Nikāya 2 "
+msgstr "Linked Discourses 2 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn2.2:0.2"
-msgid "1. Paṭhamavagga"
-msgstr "1. The First Chapter"
+msgid "1. Paṭhamavagga "
+msgstr "1. The First Chapter "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn2.2:0.3"
-msgid "2. Dutiyakassapasutta"
-msgstr "2. With Kassapa (2nd)"
+msgid "2. Dutiyakassapasutta "
+msgstr "2. With Kassapa (2nd) "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn2.2:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn2.2:1.2"
-msgid "Ekamantaṃ ṭhito kho kassapo devaputto bhagavato santike imaṃ gāthaṃ abhāsi:"
-msgstr "Standing to one side, the god Kassapa recited this verse in the Buddha’s presence:"
+msgid "Ekamantaṃ ṭhito kho kassapo devaputto bhagavato santike imaṃ gāthaṃ abhāsi: "
+msgstr "Standing to one side, the god Kassapa recited this verse in the Buddha’s presence: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "sn2.2:2.1"
-msgid "“Bhikkhu siyā jhāyī vimuttacitto,"
-msgstr "“Suppose a mendicant is a meditator, freed in mind."
+msgid "“Bhikkhu siyā jhāyī vimuttacitto, "
+msgstr "“Suppose a mendicant is a meditator, freed in mind. "
 
-# I take the phrase as a poetic abbreviation of the stock hadayassa santi
+# NOTE: I take the phrase as a poetic abbreviation of the stock hadayassa santi
 #. <br>
 msgctxt "sn2.2:2.2"
-msgid "Ākaṅkhe ce hadayassānupattiṃ;"
-msgstr "If they want to reach the heart’s peace,"
+msgid "Ākaṅkhe ce hadayassānupattiṃ; "
+msgstr "If they want to reach the heart’s peace, "
 
 #. <br>
 msgctxt "sn2.2:2.3"
-msgid "Lokassa ñatvā udayabbayañca,"
-msgstr "having known the arising and passing of the world,"
+msgid "Lokassa ñatvā udayabbayañca, "
+msgstr "having known the arising and passing of the world, "
 
 #. <br>
 msgctxt "sn2.2:2.4"
-msgid "Sucetaso anissito tadānisaṃso”ti."
+msgid "Sucetaso anissito tadānisaṃso”ti. "
 msgstr "healthy-minded, independent, that is their reward.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

@@ -2,201 +2,205 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an3.20"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an3.20"><article><div class="hgroup"><p class="division">
 msgctxt "an3.20:0.1"
-msgid "Aṅguttara Nikāya 3"
-msgstr "Numbered Discourses 3"
+msgid "Aṅguttara Nikāya 3 "
+msgstr "Numbered Discourses 3 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an3.20:0.2"
-msgid "2. Rathakāravagga"
-msgstr "2. The Chariot-maker"
+msgid "2. Rathakāravagga "
+msgstr "2. The Chariot-maker "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an3.20:0.3"
-msgid "20. Dutiyapāpaṇikasutta"
-msgstr "20. A Shopkeeper (2nd)"
+msgid "20. Dutiyapāpaṇikasutta "
+msgstr "20. A Shopkeeper (2nd) "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 #. VAR: mahattaṃ vepullattaṃ → mahantattaṃ vepullattaṃ (bj, s1-3) | mahantattaṃ vā vepullattaṃ vā (pts1, mr)
 msgctxt "an3.20:1.1"
-msgid "“Tīhi, bhikkhave, aṅgehi samannāgato pāpaṇiko nacirasseva mahattaṃ vepullattaṃ pāpuṇāti bhogesu."
-msgstr "“Mendicants, a shopkeeper who has three factors soon acquires great and abundant wealth."
+msgid "“Tīhi, bhikkhave, aṅgehi samannāgato pāpaṇiko nacirasseva mahattaṃ vepullattaṃ pāpuṇāti bhogesu. "
+msgstr "“Mendicants, a shopkeeper who has three factors soon acquires great and abundant wealth. "
 
 msgctxt "an3.20:1.2"
-msgid "Katamehi tīhi?"
-msgstr "What three?"
+msgid "Katamehi tīhi? "
+msgstr "What three? "
 
 msgctxt "an3.20:1.3"
-msgid "Idha, bhikkhave, pāpaṇiko cakkhumā ca hoti vidhuro ca nissayasampanno ca."
-msgstr "It’s when a shopkeeper sees clearly, is responsible, and has supporters."
+msgid "Idha, bhikkhave, pāpaṇiko cakkhumā ca hoti vidhuro ca nissayasampanno ca. "
+msgstr "It’s when a shopkeeper sees clearly, is responsible, and has supporters. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.20:1.4"
-msgid "Kathañca, bhikkhave, pāpaṇiko cakkhumā hoti?"
-msgstr "And how does a shopkeeper see clearly?"
+msgid "Kathañca, bhikkhave, pāpaṇiko cakkhumā hoti? "
+msgstr "And how does a shopkeeper see clearly? "
 
 msgctxt "an3.20:1.5"
-msgid "Idha, bhikkhave, pāpaṇiko paṇiyaṃ jānāti:"
-msgstr "It’s when a shopkeeper knows of a product:"
+msgid "Idha, bhikkhave, pāpaṇiko paṇiyaṃ jānāti: "
+msgstr "It’s when a shopkeeper knows of a product: "
 
 #. VAR: vikkayamānaṃ → vikkīyamānaṃ (?)
 #. VAR: udayo’ti → uddayoti (si)
 msgctxt "an3.20:1.6"
-msgid "‘idaṃ paṇiyaṃ evaṃ kītaṃ, evaṃ vikkayamānaṃ, ettakaṃ mūlaṃ bhavissati, ettako udayo’ti."
-msgstr "‘This product is bought at this price and is selling at this price. With this much investment, it’ll bring this much profit.’"
+msgid "‘idaṃ paṇiyaṃ evaṃ kītaṃ, evaṃ vikkayamānaṃ, ettakaṃ mūlaṃ bhavissati, ettako udayo’ti. "
+msgstr "‘This product is bought at this price and is selling at this price. With this much investment, it’ll bring this much profit.’ "
 
 msgctxt "an3.20:1.7"
-msgid "Evaṃ kho, bhikkhave, pāpaṇiko cakkhumā hoti."
-msgstr "That’s how a shopkeeper sees clearly."
+msgid "Evaṃ kho, bhikkhave, pāpaṇiko cakkhumā hoti. "
+msgstr "That’s how a shopkeeper sees clearly. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an3.20:2.1"
-msgid "Kathañca, bhikkhave, pāpaṇiko vidhuro hoti?"
-msgstr "And how is a shopkeeper responsible?"
+msgid "Kathañca, bhikkhave, pāpaṇiko vidhuro hoti? "
+msgstr "And how is a shopkeeper responsible? "
 
 msgctxt "an3.20:2.2"
-msgid "Idha, bhikkhave, pāpaṇiko kusalo hoti paṇiyaṃ ketuñca vikketuñca."
-msgstr "It’s when a shopkeeper is a skilled in buying and selling products."
+msgid "Idha, bhikkhave, pāpaṇiko kusalo hoti paṇiyaṃ ketuñca vikketuñca. "
+msgstr "It’s when a shopkeeper is a skilled in buying and selling products. "
 
 msgctxt "an3.20:2.3"
-msgid "Evaṃ kho, bhikkhave, pāpaṇiko vidhuro hoti."
-msgstr "That’s how a shopkeeper is responsible."
+msgid "Evaṃ kho, bhikkhave, pāpaṇiko vidhuro hoti. "
+msgstr "That’s how a shopkeeper is responsible. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.117"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli1.117, sc3
 msgctxt "an3.20:3.1"
-msgid "Kathañca, bhikkhave, pāpaṇiko nissayasampanno hoti?"
-msgstr "And how does a shopkeeper have supporters?"
+msgid "Kathañca, bhikkhave, pāpaṇiko nissayasampanno hoti? "
+msgstr "And how does a shopkeeper have supporters? "
 
 msgctxt "an3.20:3.2"
-msgid "Idha, bhikkhave, pāpaṇikaṃ ye te gahapatī vā gahapatiputtā vā aḍḍhā mahaddhanā mahābhogā te evaṃ jānanti:"
-msgstr "It’s when rich, affluent, and wealthy householders or householders’ children know of him:"
+msgid "Idha, bhikkhave, pāpaṇikaṃ ye te gahapatī vā gahapatiputtā vā aḍḍhā mahaddhanā mahābhogā te evaṃ jānanti: "
+msgstr "It’s when rich, affluent, and wealthy householders or householders’ children know of him: "
 
-# BB usually translates puttadāra and "wife and children". However when the compound is resolved, dāra is usually in plural, "wives". I render with the gender-neutral "partner" except where the context is gendered. Also note that notions of marriage have always been more flexible in English than in Christian lands, and arrangements that we might consider defacto partnerships might also be known by the same terms.
+# NOTE: BB usually translates puttadāra and "wife and children". However when the compound is resolved, dāra is usually in plural, "wives". I render with the gender-neutral "partner" except where the context is gendered. Also note that notions of marriage have always been more flexible in English than in Christian lands, and arrangements that we might consider defacto partnerships might also be known by the same terms.
 msgctxt "an3.20:3.3"
-msgid "‘ayaṃ kho bhavaṃ pāpaṇiko cakkhumā vidhuro ca paṭibalo puttadārañca posetuṃ, amhākañca kālena kālaṃ anuppadātun’ti."
-msgstr "‘This good shopkeeper keeps an eye out and is responsible. They are capable of providing for their wives and children, and paying us back from time to time.’"
+msgid "‘ayaṃ kho bhavaṃ pāpaṇiko cakkhumā vidhuro ca paṭibalo puttadārañca posetuṃ, amhākañca kālena kālaṃ anuppadātun’ti. "
+msgstr "‘This good shopkeeper keeps an eye out and is responsible. They are capable of providing for their wives and children, and paying us back from time to time.’ "
 
 msgctxt "an3.20:3.4"
-msgid "Te naṃ bhogehi nipatanti:"
-msgstr "They deposit money with the shopkeeper, saying:"
+msgid "Te naṃ bhogehi nipatanti: "
+msgstr "They deposit money with the shopkeeper, saying: "
 
 #. VAR: karitvā → haritvā (bj, s1-3, km)
 msgctxt "an3.20:3.5"
-msgid "‘ito, samma pāpaṇika, bhoge karitvā puttadārañca posehi, amhākañca kālena kālaṃ anuppadehī’ti."
-msgstr "‘With this, friend shopkeeper, earn money to raise your wives and children, and pay us back from time to time.’"
+msgid "‘ito, samma pāpaṇika, bhoge karitvā puttadārañca posehi, amhākañca kālena kālaṃ anuppadehī’ti. "
+msgstr "‘With this, friend shopkeeper, earn money to raise your wives and children, and pay us back from time to time.’ "
 
 msgctxt "an3.20:3.6"
-msgid "Evaṃ kho, bhikkhave, pāpaṇiko nissayasampanno hoti."
-msgstr "That’s how a shopkeeper has supporters."
+msgid "Evaṃ kho, bhikkhave, pāpaṇiko nissayasampanno hoti. "
+msgstr "That’s how a shopkeeper has supporters. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.20:3.7"
-msgid "Imehi kho, bhikkhave, tīhi aṅgehi samannāgato pāpaṇiko nacirasseva mahattaṃ vepullattaṃ pāpuṇāti bhogesu."
-msgstr "A shopkeeper who has these three factors soon acquires great and abundant wealth."
+msgid "Imehi kho, bhikkhave, tīhi aṅgehi samannāgato pāpaṇiko nacirasseva mahattaṃ vepullattaṃ pāpuṇāti bhogesu. "
+msgstr "A shopkeeper who has these three factors soon acquires great and abundant wealth. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "an3.20:4.1"
-msgid "Evamevaṃ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu nacirasseva mahattaṃ vepullattaṃ pāpuṇāti kusalesu dhammesu."
-msgstr "In the same way, a mendicant who has three factors soon acquires great and abundant qualities."
+msgid "Evamevaṃ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu nacirasseva mahattaṃ vepullattaṃ pāpuṇāti kusalesu dhammesu. "
+msgstr "In the same way, a mendicant who has three factors soon acquires great and abundant skillful qualities. "
 
 msgctxt "an3.20:4.2"
-msgid "Katamehi tīhi?"
-msgstr "What three?"
+msgid "Katamehi tīhi? "
+msgstr "What three? "
 
 msgctxt "an3.20:4.3"
-msgid "Idha, bhikkhave, bhikkhu cakkhumā ca hoti vidhuro ca nissayasampanno ca."
-msgstr "It’s when a mendicant sees clearly, is responsible, and has supporters."
+msgid "Idha, bhikkhave, bhikkhu cakkhumā ca hoti vidhuro ca nissayasampanno ca. "
+msgstr "It’s when a mendicant sees clearly, is responsible, and has supporters. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.20:4.4"
-msgid "Kathañca, bhikkhave, bhikkhu cakkhumā hoti?"
-msgstr "And how does a mendicant see clearly?"
+msgid "Kathañca, bhikkhave, bhikkhu cakkhumā hoti? "
+msgstr "And how does a mendicant see clearly? "
 
 msgctxt "an3.20:4.5"
-msgid "Idha, bhikkhave, bhikkhu ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti."
-msgstr "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+msgid "Idha, bhikkhave, bhikkhu ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. "
+msgstr "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. "
 
 msgctxt "an3.20:4.6"
-msgid "Evaṃ kho, bhikkhave, bhikkhu cakkhumā hoti."
-msgstr "That’s how a mendicant sees clearly."
+msgid "Evaṃ kho, bhikkhave, bhikkhu cakkhumā hoti. "
+msgstr "That’s how a mendicant sees clearly. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "an3.20:5.1"
-msgid "Kathañca, bhikkhave, bhikkhu vidhuro hoti?"
-msgstr "And how is a mendicant responsible?"
+msgid "Kathañca, bhikkhave, bhikkhu vidhuro hoti? "
+msgstr "And how is a mendicant responsible? "
 
 msgctxt "an3.20:5.2"
-msgid "Idha, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
-msgstr "It’s when a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities."
+msgid "Idha, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. "
+msgstr "It’s when a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. "
 
 msgctxt "an3.20:5.3"
-msgid "Evaṃ kho, bhikkhave, bhikkhu vidhuro hoti."
-msgstr "That’s how a mendicant is responsible."
+msgid "Evaṃ kho, bhikkhave, bhikkhu vidhuro hoti. "
+msgstr "That’s how a mendicant is responsible. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.118"></a>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli1.118, sc6
 msgctxt "an3.20:6.1"
-msgid "Kathañca, bhikkhave, bhikkhu nissayasampanno hoti?"
-msgstr "And how does a mendicant have supporters?"
+msgid "Kathañca, bhikkhave, bhikkhu nissayasampanno hoti? "
+msgstr "And how does a mendicant have supporters? "
 
 msgctxt "an3.20:6.2"
-msgid "Idha, bhikkhave, bhikkhu ye te bhikkhū bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā te kālena kālaṃ upasaṅkamitvā paripucchati paripañhati:"
-msgstr "It’s when from time to time a mendicant goes up to those mendicants who are very learned—knowledgeable in the scriptures, who have memorized the teachings, the texts on monastic training, and the outlines—and asks them questions:"
+msgid "Idha, bhikkhave, bhikkhu ye te bhikkhū bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā te kālena kālaṃ upasaṅkamitvā paripucchati paripañhati: "
+msgstr "It’s when from time to time a mendicant goes up to those mendicants who are very learned—knowledgeable in the scriptures, who have memorized the teachings, the texts on monastic training, and the outlines—and asks them questions: "
 
 msgctxt "an3.20:6.3"
-msgid "‘idaṃ, bhante, kathaṃ, imassa ko attho’ti?"
-msgstr "‘Why, sir, does it say this? What does that mean?’"
+msgid "‘idaṃ, bhante, kathaṃ, imassa ko attho’ti? "
+msgstr "‘Why, sir, does it say this? What does that mean?’ "
 
 msgctxt "an3.20:6.4"
-msgid "Tassa te āyasmanto avivaṭañceva vivaranti, anuttānīkatañca uttānīkaronti, anekavihitesu ca kaṅkhāṭhāniyesu dhammesu kaṅkhaṃ paṭivinodenti."
-msgstr "Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters."
+msgid "Tassa te āyasmanto avivaṭañceva vivaranti, anuttānīkatañca uttānīkaronti, anekavihitesu ca kaṅkhāṭhāniyesu dhammesu kaṅkhaṃ paṭivinodenti. "
+msgstr "Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters. "
 
 msgctxt "an3.20:6.5"
-msgid "Evaṃ kho, bhikkhave, bhikkhu nissayasampanno hoti."
-msgstr "That’s how a mendicant has supporters."
+msgid "Evaṃ kho, bhikkhave, bhikkhu nissayasampanno hoti. "
+msgstr "That’s how a mendicant has supporters. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.20:6.6"
-msgid "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu nacirasseva mahattaṃ vepullattaṃ pāpuṇāti kusalesu dhammesū”ti."
-msgstr "A mendicant who has these three factors soon acquires great and abundant qualities.”"
+msgid "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu nacirasseva mahattaṃ vepullattaṃ pāpuṇāti kusalesu dhammesū”ti. "
+msgstr "A mendicant who has these three factors soon acquires great and abundant skillful qualities.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an3.20:6.7"
-msgid "Dasamaṃ."
-msgstr ""
+msgid "Dasamaṃ. "
+msgstr " "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an3.20:6.8"
-msgid "Rathakāravaggo dutiyo."
-msgstr ""
+msgid "Rathakāravaggo dutiyo. "
+msgstr " "
 
 #. <br>
 msgctxt "an3.20:6.9"
-msgid "Paṭhamabhāṇavāro niṭṭhito."
-msgstr "The first recitation section is finished."
+msgid "Paṭhamabhāṇavāro niṭṭhito. "
+msgstr "The first recitation section is finished. "
 
-#. </p><blockquote class="uddanagatha"><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: sc7
 #. VAR: Ñāto → ñātako (s1-3, km)
 msgctxt "an3.20:7.1"
-msgid "Ñāto sāraṇīyo bhikkhu,"
-msgstr ""
+msgid "Ñāto sāraṇīyo bhikkhu, "
+msgstr " "
 
 #. <br>
 msgctxt "an3.20:7.2"
-msgid "cakkavattī sacetano;"
-msgstr ""
+msgid "cakkavattī sacetano; "
+msgstr " "
 
 #. <br>
 msgctxt "an3.20:7.3"
-msgid "Apaṇṇakattā devo ca,"
-msgstr ""
+msgid "Apaṇṇakattā devo ca, "
+msgstr " "
 
 #. <br>
 msgctxt "an3.20:7.4"
-msgid "duve pāpaṇikena cāti."
+msgid "duve pāpaṇikena cāti. "
 msgstr ""
+
+#. HTML: </p></blockquote></article></section></body></html>

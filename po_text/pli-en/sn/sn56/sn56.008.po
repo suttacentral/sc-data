@@ -2,64 +2,65 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn56.8"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn56.8"><article><div class="hgroup"><p class="division">
 msgctxt "sn56.8:0.1"
-msgid "Saṃyutta Nikāya 56"
-msgstr "Linked Discourses 56"
+msgid "Saṃyutta Nikāya 56 "
+msgstr "Linked Discourses 56 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn56.8:0.2"
-msgid "1. Samādhivagga"
-msgstr "1. Immersion"
+msgid "1. Samādhivagga "
+msgstr "1. Immersion "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 8. Cintasutta → cintāsuttaṃ (bj)
 msgctxt "sn56.8:0.3"
-msgid "8. Cintasutta"
-msgstr "8. Thought"
+msgid "8. Cintasutta "
+msgstr "8. Thought "
 
-# While this phrase is on the whole clearly a synonym for the previous sutta, the phrasing is interestingly different. The use of singular shows that citta here means “mind state”, not “thought”; but since we are concerned with theories, we use “idea”. Cinteti straddles the meaning of vitakketi and ceteti “intends”, which is quite nicely represented by the English idiom “(to) think (something) up”.
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+# NOTE: While this phrase is on the whole clearly a synonym for the previous sutta, the phrasing is interestingly different. The use of singular shows that citta here means “mind state”, not “thought”; but since we are concerned with theories, we use “idea”. Cinteti straddles the meaning of vitakketi and ceteti “intends”, which is quite nicely represented by the English idiom “(to) think (something) up”.
+#. HTML: </h1></div><p>
+#. REF: sc1
 #. VAR: cinteyyātha → cintetha (bj, s1-3, km)
 msgctxt "sn56.8:1.1"
-msgid "“Mā, bhikkhave, pāpakaṃ akusalaṃ cittaṃ cinteyyātha:"
-msgstr "“Mendicants, don’t think up a bad, unskillful idea."
+msgid "“Mā, bhikkhave, pāpakaṃ akusalaṃ cittaṃ cinteyyātha: "
+msgstr "“Mendicants, don’t think up a bad, unskillful idea. "
 
 msgctxt "sn56.8:1.2"
-msgid "‘sassato loko’ti vā ‘asassato loko’ti vā, ‘antavā loko’ti vā ‘anantavā loko’ti vā, ‘taṃ jīvaṃ taṃ sarīran’ti vā ‘aññaṃ jīvaṃ aññaṃ sarīran’ti vā, ‘hoti tathāgato paraṃ maraṇā’ti vā ‘na hoti tathāgato paraṃ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti vā."
-msgstr "For example: the world is eternal, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist."
+msgid "‘sassato loko’ti vā ‘asassato loko’ti vā, ‘antavā loko’ti vā ‘anantavā loko’ti vā, ‘taṃ jīvaṃ taṃ sarīran’ti vā ‘aññaṃ jīvaṃ aññaṃ sarīran’ti vā, ‘hoti tathāgato paraṃ maraṇā’ti vā ‘na hoti tathāgato paraṃ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti vā. "
+msgstr "For example: the world is eternal, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. "
 
 msgctxt "sn56.8:1.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "sn56.8:1.4"
-msgid "Nesā, bhikkhave, cintā atthasaṃhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati."
-msgstr "Because those thoughts aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment."
+msgid "Nesā, bhikkhave, cintā atthasaṃhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati. "
+msgstr "Because those thoughts aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli5.419"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli5.419, sc2
 msgctxt "sn56.8:2.1"
-msgid "Cintentā ca kho tumhe, bhikkhave, ‘idaṃ dukkhan’ti cinteyyātha, ‘ayaṃ dukkhasamudayo’ti cinteyyātha, ‘ayaṃ dukkhanirodho’ti cinteyyātha, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti cinteyyātha."
-msgstr "When you think something up, you should think: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+msgid "Cintentā ca kho tumhe, bhikkhave, ‘idaṃ dukkhan’ti cinteyyātha, ‘ayaṃ dukkhasamudayo’ti cinteyyātha, ‘ayaṃ dukkhanirodho’ti cinteyyātha, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti cinteyyātha. "
+msgstr "When you think something up, you should think: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. "
 
 msgctxt "sn56.8:2.2"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "sn56.8:2.3"
-msgid "Esā, bhikkhave, cintā atthasaṃhitā, esā ādibrahmacariyakā, esā nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati."
-msgstr "Because those thoughts are beneficial and relevant to the fundamentals of the spiritual life. They lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment."
+msgid "Esā, bhikkhave, cintā atthasaṃhitā, esā ādibrahmacariyakā, esā nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. "
+msgstr "Because those thoughts are beneficial and relevant to the fundamentals of the spiritual life. They lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn56.8:3.1"
-msgid "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti."
-msgstr "That’s why you should practice meditation …”"
+msgid "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. "
+msgstr "That’s why you should practice meditation …” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn56.8:3.2"
-msgid "Aṭṭhamaṃ."
+msgid "Aṭṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

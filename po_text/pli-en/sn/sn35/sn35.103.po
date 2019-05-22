@@ -2,183 +2,187 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn35.103"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn35.103"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.103:0.1"
-msgid "Saṃyutta Nikāya 35"
-msgstr "Linked Discourses 35"
+msgid "Saṃyutta Nikāya 35 "
+msgstr "Linked Discourses 35 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn35.103:0.2"
-msgid "10. Saḷavagga"
-msgstr "10. The Sixes"
+msgid "10. Saḷavagga "
+msgstr "10. The Sixes "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 103. Udakasutta → uddakasuttaṃ (bj) | uddako (pts1)
 msgctxt "sn35.103:0.3"
-msgid "103. Udakasutta"
-msgstr "103. About Uddaka"
+msgid "103. Udakasutta "
+msgstr "103. About Uddaka "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.83"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli4.83, sc1
 #. VAR: Udako → uddako (bj, pts1)
 msgctxt "sn35.103:1.1"
-msgid "“Udako sudaṃ, bhikkhave, rāmaputto evaṃ vācaṃ bhāsati:"
-msgstr "“Mendicants, Uddaka, son of Rāma, used to say:"
+msgid "“Udako sudaṃ, bhikkhave, rāmaputto evaṃ vācaṃ bhāsati: "
+msgstr "“Mendicants, Uddaka, son of Rāma, used to say: "
 
-# This should be marked up as verse.
+# NOTE: This should be marked up as verse.
 #. VAR: sabbajī → pabbaji (s1-3) | sabbaji (pts1)
 msgctxt "sn35.103:1.2"
-msgid "‘idaṃ jātu vedagū, idaṃ jātu sabbajī, idaṃ jātu apalikhataṃ gaṇḍamūlaṃ palikhaṇin’ti."
-msgstr "‘This for sure is the knowledge master! This for sure is the conqueror of all! This for sure is the boil’s root dug out, never dug out before!’"
+msgid "‘idaṃ jātu vedagū, idaṃ jātu sabbajī, idaṃ jātu apalikhataṃ gaṇḍamūlaṃ palikhaṇin’ti. "
+msgstr "‘This for sure is the knowledge master! This for sure is the conqueror of all! This for sure is the boil’s root dug out, never dug out before!’ "
 
+#. HTML: </p><p class="added">
 msgctxt "sn35.103:1.3"
-msgid "Taṃ kho panetaṃ, bhikkhave, udako rāmaputto avedagūyeva samāno ‘vedagūsmī’ti bhāsati, asabbajīyeva samāno ‘sabbajīsmī’ti bhāsati, apalikhataṃyeva gaṇḍamūlaṃ palikhataṃ me ‘gaṇḍamūlan’ti bhāsati."
-msgstr "Even though Uddaka, son of Rāma, was no knowledge master, he said ‘I’m a knowledge master.’ Though he was no conqueror of all, he said ‘I’m conqueror of all.’ And though the boil’s root was not dug out, he said ‘I’ve dug out the boil’s root.’"
+msgid "Taṃ kho panetaṃ, bhikkhave, udako rāmaputto avedagūyeva samāno ‘vedagūsmī’ti bhāsati, asabbajīyeva samāno ‘sabbajīsmī’ti bhāsati, apalikhataṃyeva gaṇḍamūlaṃ palikhataṃ me ‘gaṇḍamūlan’ti bhāsati. "
+msgstr "Even though Uddaka, son of Rāma, was no knowledge master, he said ‘I’m a knowledge master.’ Though he was no conqueror of all, he said ‘I’m conqueror of all.’ And though the boil’s root was not dug out, he said ‘I’ve dug out the boil’s root.’ "
 
+#. HTML: </p><p class="added">
 msgctxt "sn35.103:1.4"
-msgid "Idha kho taṃ, bhikkhave, bhikkhu sammā vadamāno vadeyya:"
-msgstr "Here’s how a mendicant would rightly say:"
+msgid "Idha kho taṃ, bhikkhave, bhikkhu sammā vadamāno vadeyya: "
+msgstr "Here’s how a mendicant would rightly say: "
 
 msgctxt "sn35.103:1.5"
-msgid "‘idaṃ jātu vedagū, idaṃ jātu sabbajī, idaṃ jātu apalikhataṃ gaṇḍamūlaṃ palikhaṇin’ti."
-msgstr "‘Here’s the thing: the knowledge master! Here’s the thing: the conqueror of all! Here’s the thing: the boil’s root has been dug out, which was never dug out before!’"
+msgid "‘idaṃ jātu vedagū, idaṃ jātu sabbajī, idaṃ jātu apalikhataṃ gaṇḍamūlaṃ palikhaṇin’ti. "
+msgstr "‘Here’s the thing: the knowledge master! Here’s the thing: the conqueror of all! Here’s the thing: the boil’s root has been dug out, which was never dug out before!’ "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn35.103:2.1"
-msgid "Kathañca, bhikkhave, vedagū hoti?"
-msgstr "And how is someone a knowledge master?"
+msgid "Kathañca, bhikkhave, vedagū hoti? "
+msgstr "And how is someone a knowledge master? "
 
 msgctxt "sn35.103:2.2"
-msgid "Yato kho, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti;"
-msgstr "It’s when a mendicant truly understands the six fields of contact’s origin, ending, gratification, drawback, and escape."
+msgid "Yato kho, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti; "
+msgstr "It’s when a mendicant truly understands the six fields of contact’s origin, ending, gratification, drawback, and escape. "
 
 msgctxt "sn35.103:2.3"
-msgid "evaṃ kho, bhikkhave, bhikkhu vedagū hoti."
-msgstr "That’s how a mendicant is a knowledge master."
+msgid "evaṃ kho, bhikkhave, bhikkhu vedagū hoti. "
+msgstr "That’s how a mendicant is a knowledge master. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn35.103:3.1"
-msgid "Kathañca, bhikkhave, bhikkhu sabbajī hoti?"
-msgstr "And how is a mendicant a conqueror of all?"
+msgid "Kathañca, bhikkhave, bhikkhu sabbajī hoti? "
+msgstr "And how is a mendicant a conqueror of all? "
 
 msgctxt "sn35.103:3.2"
-msgid "Yato kho, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādāvimutto hoti;"
-msgstr "It’s when a mendicant comes to be freed by not grasping after truly understanding these six sense fields’ origin, ending, gratification, drawback, and escape."
+msgid "Yato kho, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādāvimutto hoti; "
+msgstr "It’s when a mendicant comes to be freed by not grasping after truly understanding these six sense fields’ origin, ending, gratification, drawback, and escape. "
 
 msgctxt "sn35.103:3.3"
-msgid "evaṃ kho, bhikkhave, bhikkhu sabbajī hoti."
-msgstr "That’s how a mendicant is a conqueror of all."
+msgid "evaṃ kho, bhikkhave, bhikkhu sabbajī hoti. "
+msgstr "That’s how a mendicant is a conqueror of all. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.84"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli4.84, sc4
 msgctxt "sn35.103:4.1"
-msgid "Kathañca, bhikkhave, bhikkhuno apalikhataṃ gaṇḍamūlaṃ palikhataṃ hoti?"
-msgstr "And how has a mendicant dug out the boil’s root, which was never dug out before?"
+msgid "Kathañca, bhikkhave, bhikkhuno apalikhataṃ gaṇḍamūlaṃ palikhataṃ hoti? "
+msgstr "And how has a mendicant dug out the boil’s root, which was never dug out before? "
 
 msgctxt "sn35.103:4.2"
-msgid "Gaṇḍoti kho, bhikkhave, imassetaṃ cātumahābhūtikassa kāyassa adhivacanaṃ mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādanaparimaddanabhedanaviddhaṃsanadhammassa."
-msgstr "‘Boil’ is a term for this body made up of the four primary elements, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction."
+msgid "Gaṇḍoti kho, bhikkhave, imassetaṃ cātumahābhūtikassa kāyassa adhivacanaṃ mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādanaparimaddanabhedanaviddhaṃsanadhammassa. "
+msgstr "‘Boil’ is a term for this body made up of the four primary elements, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction. "
 
 msgctxt "sn35.103:4.3"
-msgid "Gaṇḍamūlanti kho, bhikkhave, taṇhāyetaṃ adhivacanaṃ."
-msgstr "‘Boil’s root’ is a term for craving."
+msgid "Gaṇḍamūlanti kho, bhikkhave, taṇhāyetaṃ adhivacanaṃ. "
+msgstr "‘Boil’s root’ is a term for craving. "
 
 msgctxt "sn35.103:4.4"
-msgid "Yato kho, bhikkhave, bhikkhuno taṇhā pahīnā hoti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā;"
-msgstr "It’s when a mendicant has given up craving, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future."
+msgid "Yato kho, bhikkhave, bhikkhuno taṇhā pahīnā hoti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā; "
+msgstr "It’s when a mendicant has given up craving, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. "
 
 msgctxt "sn35.103:4.5"
-msgid "evaṃ kho, bhikkhave, bhikkhuno apalikhataṃ gaṇḍamūlaṃ palikhataṃ hoti."
-msgstr "That’s how a mendicant has dug out the boil’s root, which was never dug out before."
+msgid "evaṃ kho, bhikkhave, bhikkhuno apalikhataṃ gaṇḍamūlaṃ palikhataṃ hoti. "
+msgstr "That’s how a mendicant has dug out the boil’s root, which was never dug out before. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "sn35.103:5.1"
-msgid "Udako sudaṃ, bhikkhave, rāmaputto evaṃ vācaṃ bhāsati:"
-msgstr "Uddaka, son of Rāma, used to say:"
+msgid "Udako sudaṃ, bhikkhave, rāmaputto evaṃ vācaṃ bhāsati: "
+msgstr "Uddaka, son of Rāma, used to say: "
 
 msgctxt "sn35.103:5.2"
-msgid "‘idaṃ jātu vedagū, idaṃ jātu sabbajī, idaṃ jātu apalikhataṃ gaṇḍamūlaṃ palikhaṇin’ti."
-msgstr "‘This for sure is the knowledge master! This for sure is the conqueror of all! This for sure is the boil’s root dug out, never dug out before!’"
+msgid "‘idaṃ jātu vedagū, idaṃ jātu sabbajī, idaṃ jātu apalikhataṃ gaṇḍamūlaṃ palikhaṇin’ti. "
+msgstr "‘This for sure is the knowledge master! This for sure is the conqueror of all! This for sure is the boil’s root dug out, never dug out before!’ "
 
+#. HTML: </p><p class="added">
 msgctxt "sn35.103:5.3"
-msgid "Taṃ kho panetaṃ, bhikkhave, udako rāmaputto avedagūyeva samāno ‘vedagūsmī’ti bhāsati, asabbajīyeva samāno ‘sabbajīsmī’ti bhāsati;"
-msgstr "Even though Uddaka, son of Rāma, was no knowledge master, he said ‘I’m a knowledge master.’ Though he was no conqueror of all, he said ‘I’m conqueror of all.’ And though the boil’s root was not dug out, he said ‘I’ve dug out the boil’s root.’"
+msgid "Taṃ kho panetaṃ, bhikkhave, udako rāmaputto avedagūyeva samāno ‘vedagūsmī’ti bhāsati, asabbajīyeva samāno ‘sabbajīsmī’ti bhāsati; "
+msgstr "Even though Uddaka, son of Rāma, was no knowledge master, he said ‘I’m a knowledge master.’ Though he was no conqueror of all, he said ‘I’m conqueror of all.’ And though the boil’s root was not dug out, he said ‘I’ve dug out the boil’s root.’ "
 
 msgctxt "sn35.103:5.4"
-msgid "apalikhataṃyeva gaṇḍamūlaṃ ‘palikhataṃ me gaṇḍamūlan’ti bhāsati."
-msgstr ""
+msgid "apalikhataṃyeva gaṇḍamūlaṃ ‘palikhataṃ me gaṇḍamūlan’ti bhāsati. "
+msgstr " "
 
+#. HTML: </p><p class="added">
 msgctxt "sn35.103:5.5"
-msgid "Idha kho taṃ, bhikkhave, bhikkhu sammā vadamāno vadeyya:"
-msgstr "But that’s how a mendicant would rightly say:"
+msgid "Idha kho taṃ, bhikkhave, bhikkhu sammā vadamāno vadeyya: "
+msgstr "But that’s how a mendicant would rightly say: "
 
 msgctxt "sn35.103:5.6"
-msgid "‘idaṃ jātu vedagū, idaṃ jātu sabbajī, idaṃ jātu apalikhataṃ gaṇḍamūlaṃ palikhaṇin’”ti."
-msgstr "‘This for sure is the knowledge master! This for sure is the conqueror of all! This for sure is the boil’s root dug out, never dug out before!’”"
+msgid "‘idaṃ jātu vedagū, idaṃ jātu sabbajī, idaṃ jātu apalikhataṃ gaṇḍamūlaṃ palikhaṇin’”ti. "
+msgstr "‘This for sure is the knowledge master! This for sure is the conqueror of all! This for sure is the boil’s root dug out, never dug out before!’” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn35.103:5.7"
-msgid "Dasamaṃ."
-msgstr ""
+msgid "Dasamaṃ. "
+msgstr " "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn35.103:5.8"
-msgid "Saḷavaggo pañcamo."
-msgstr ""
+msgid "Saḷavaggo pañcamo. "
+msgstr " "
 
-#. </p><blockquote class="uddanagatha"><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: sc6
 msgctxt "sn35.103:6.1"
-msgid "Dve saṅgayhā parihānaṃ,"
-msgstr ""
+msgid "Dve saṅgayhā parihānaṃ, "
+msgstr " "
 
 #. <br>
 msgctxt "sn35.103:6.2"
-msgid "Pamādavihārī ca saṃvaro;"
-msgstr ""
+msgid "Pamādavihārī ca saṃvaro; "
+msgstr " "
 
 #. <br>
 msgctxt "sn35.103:6.3"
-msgid "Samādhi paṭisallānaṃ,"
-msgstr ""
+msgid "Samādhi paṭisallānaṃ, "
+msgstr " "
 
 #. <br>
 msgctxt "sn35.103:6.4"
-msgid "Dve natumhākena uddakoti."
-msgstr ""
+msgid "Dve natumhākena uddakoti. "
+msgstr " "
 
-#. </p></blockquote><p class="endsection">
+#. HTML: </p></blockquote><p class="endsection">
 msgctxt "sn35.103:6.5"
-msgid "Saḷāyatanavagge dutiyapaṇṇāsako samatto."
-msgstr ""
+msgid "Saḷāyatanavagge dutiyapaṇṇāsako samatto. "
+msgstr " "
 
-#. </p><blockquote class="vagguddanagatha"><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><blockquote class="vagguddanagatha"><p>
+#. REF: sc7
 msgctxt "sn35.103:7.1"
-msgid "Avijjā migajālañca,"
-msgstr ""
+msgid "Avijjā migajālañca, "
+msgstr " "
 
 #. <br>
 msgctxt "sn35.103:7.2"
-msgid "Gilānaṃ channaṃ catutthakaṃ;"
-msgstr ""
+msgid "Gilānaṃ channaṃ catutthakaṃ; "
+msgstr " "
 
 #. <br>
 msgctxt "sn35.103:7.3"
-msgid "Saḷavaggena paññāsaṃ,"
-msgstr ""
+msgid "Saḷavaggena paññāsaṃ, "
+msgstr " "
 
 #. <br>
 msgctxt "sn35.103:7.4"
-msgid "Dutiyo paṇṇāsako ayanti."
+msgid "Dutiyo paṇṇāsako ayanti. "
+msgstr " "
+
+#. HTML: </p></blockquote><p class="endsection">
+msgctxt "sn35.103:7.5"
+msgid "Paṭhamasatakaṃ. "
 msgstr ""
 
-#. </p></blockquote><p class="endsection">
-msgctxt "sn35.103:7.5"
-msgid "Paṭhamasatakaṃ."
-msgstr ""
+#. HTML: </p></article></section></body></html>

@@ -2,76 +2,80 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn35.160"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn35.160"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.160:0.1"
-msgid "Saṃyutta Nikāya 35"
-msgstr "Linked Discourses 35"
+msgid "Saṃyutta Nikāya 35 "
+msgstr "Linked Discourses 35 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn35.160:0.2"
-msgid "16. Nandikkhayavagga"
-msgstr "16. The End of Relishing"
+msgid "16. Nandikkhayavagga "
+msgstr "16. The End of Relishing "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 160. Jīvakambavanasamādhisutta → samādhisuttaṃ (bj) | jīvakambavane 1 (pts1)
 msgctxt "sn35.160:0.3"
-msgid "160. Jīvakambavanasamādhisutta"
-msgstr "160. On Immersion at Jīvaka’s Mango Grove"
+msgid "160. Jīvakambavanasamādhisutta "
+msgstr "160. On Immersion at Jīvaka’s Mango Grove "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.144"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli4.144, sc1
 msgctxt "sn35.160:1.1"
-msgid "Ekaṃ samayaṃ bhagavā rājagahe viharati jīvakambavane."
-msgstr "At one time the Buddha was staying near Rājagaha in Jīvaka’s Mango Grove."
+msgid "Ekaṃ samayaṃ bhagavā rājagahe viharati jīvakambavane. "
+msgstr "At one time the Buddha was staying near Rājagaha in Jīvaka’s Mango Grove. "
 
 msgctxt "sn35.160:1.2"
-msgid "Tatra kho bhagavā bhikkhū āmantesi:"
-msgstr "There the Buddha addressed the mendicants:"
+msgid "Tatra kho bhagavā bhikkhū āmantesi: "
+msgstr "There the Buddha addressed the mendicants: "
 
 msgctxt "sn35.160:1.3"
-msgid "“bhikkhavo”ti … pe …"
-msgstr ""
+msgid "“bhikkhavo”ti … pe … "
+msgstr " "
 
-#. </p><p class="added">
-msgctxt "sn35.160:1.4
-msgid "“samādhiṃ, bhikkhave, bhāvetha."
-msgstr "“Mendicants, develop immersion."
+#. HTML: </p><p class="added">
+msgctxt "sn35.160:1.4"
+msgid "“samādhiṃ, bhikkhave, bhāvetha. "
+msgstr "“Mendicants, develop immersion. "
 
-# Note: PTS dict for okkayati is wrong.
+# NOTE: Note: PTS dict for okkayati is wrong.
 msgctxt "sn35.160:1.5"
-msgid "Samāhitassa, bhikkhave, bhikkhuno yathābhūtaṃ okkhāyati."
-msgstr "For a mendicant with immersion, things become truly clear."
+msgid "Samāhitassa, bhikkhave, bhikkhuno yathābhūtaṃ okkhāyati. "
+msgstr "For a mendicant with immersion, things become truly clear. "
 
 msgctxt "sn35.160:1.6"
-msgid "Kiñca yathābhūtaṃ okkhāyati?"
-msgstr "And what becomes truly clear?"
+msgid "Kiñca yathābhūtaṃ okkhāyati? "
+msgstr "And what becomes truly clear? "
 
+#. HTML: </p><p class="added">
 msgctxt "sn35.160:1.7"
-msgid "Cakkhuṃ aniccanti yathābhūtaṃ okkhāyati, rūpā aniccāti yathābhūtaṃ okkhāyati, cakkhuviññāṇaṃ aniccanti yathābhūtaṃ okkhāyati, cakkhusamphasso aniccoti yathābhūtaṃ okkhāyati, yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccanti yathābhūtaṃ okkhāyati … pe …"
-msgstr "It becomes truly clear that the eye, sights, eye consciousness, and eye contact are impermanent. And it also becomes truly clear that the painful, pleasant, or neutral feeling that arises conditioned by eye contact is impermanent."
+msgid "Cakkhuṃ aniccanti yathābhūtaṃ okkhāyati, rūpā aniccāti yathābhūtaṃ okkhāyati, cakkhuviññāṇaṃ aniccanti yathābhūtaṃ okkhāyati, cakkhusamphasso aniccoti yathābhūtaṃ okkhāyati, yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccanti yathābhūtaṃ okkhāyati … pe … "
+msgstr "It becomes truly clear that the eye, sights, eye consciousness, and eye contact are impermanent. And it also becomes truly clear that the painful, pleasant, or neutral feeling that arises conditioned by eye contact is impermanent. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn35.160:1.8"
-msgid "jivhā aniccāti yathābhūtaṃ okkhāyati … pe …"
-msgstr "It becomes truly clear that the ear … nose … tongue … body …"
+msgid "jivhā aniccāti yathābhūtaṃ okkhāyati … pe … "
+msgstr "It becomes truly clear that the ear … nose … tongue … body … "
 
 msgctxt "sn35.160:1.9"
-msgid "mano aniccoti yathābhūtaṃ okkhāyati, dhammā aniccāti yathābhūtaṃ okkhāyati … pe …"
-msgstr "mind, thoughts, mind consciousness, and mind contact are impermanent."
+msgid "mano aniccoti yathābhūtaṃ okkhāyati, dhammā aniccāti yathābhūtaṃ okkhāyati … pe … "
+msgstr "mind, thoughts, mind consciousness, and mind contact are impermanent. "
 
 msgctxt "sn35.160:1.10"
-msgid "yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccanti yathābhūtaṃ okkhāyati."
-msgstr "And it also becomes truly clear that the painful, pleasant, or neutral feeling that arises conditioned by mind contact is impermanent."
+msgid "yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccanti yathābhūtaṃ okkhāyati. "
+msgstr "And it also becomes truly clear that the painful, pleasant, or neutral feeling that arises conditioned by mind contact is impermanent. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn35.160:1.11"
-msgid "Samādhiṃ, bhikkhave, bhāvetha."
-msgstr "Mendicants, develop immersion."
+msgid "Samādhiṃ, bhikkhave, bhāvetha. "
+msgstr "Mendicants, develop immersion. "
 
 msgctxt "sn35.160:1.12"
-msgid "Samāhitassa, bhikkhave, bhikkhuno yathābhūtaṃ okkhāyatī”ti."
-msgstr "For a mendicant with immersion, things become truly clear.”"
+msgid "Samāhitassa, bhikkhave, bhikkhuno yathābhūtaṃ okkhāyatī”ti. "
+msgstr "For a mendicant with immersion, things become truly clear.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn35.160:1.13"
-msgid "Pañcamaṃ."
+msgid "Pañcamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

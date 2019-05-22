@@ -2,148 +2,152 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an3.119"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an3.119"><article><div class="hgroup"><p class="division">
 msgctxt "an3.119:0.1"
-msgid "Aṅguttara Nikāya 3"
-msgstr "Numbered Discourses 3"
+msgid "Aṅguttara Nikāya 3 "
+msgstr "Numbered Discourses 3 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an3.119:0.2"
-msgid "12. Āpāyikavagga"
-msgstr "12. Bound for Loss"
+msgid "12. Āpāyikavagga "
+msgstr "12. Bound for Loss "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an3.119:0.3"
-msgid "119. Kammantasutta"
-msgstr "119. Action"
+msgid "119. Kammantasutta "
+msgstr "119. Action "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "an3.119:1.1"
-msgid "“Tisso imā, bhikkhave, vipattiyo."
-msgstr "“Mendicants, there are three failures."
+msgid "“Tisso imā, bhikkhave, vipattiyo. "
+msgstr "“Mendicants, there are three failures. "
 
 msgctxt "an3.119:1.2"
-msgid "Katamā tisso?"
-msgstr "What three?"
+msgid "Katamā tisso? "
+msgstr "What three? "
 
 msgctxt "an3.119:1.3"
-msgid "Kammantavipatti, ājīvavipatti, diṭṭhivipatti."
-msgstr "Failure in action, livelihood, and view."
+msgid "Kammantavipatti, ājīvavipatti, diṭṭhivipatti. "
+msgstr "Failure in action, livelihood, and view. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.119:1.4"
-msgid "Katamā ca, bhikkhave, kammantavipatti?"
-msgstr "And what is failure in action?"
+msgid "Katamā ca, bhikkhave, kammantavipatti? "
+msgstr "And what is failure in action? "
 
 msgctxt "an3.119:1.5"
-msgid "Idha, bhikkhave, ekacco pāṇātipātī hoti … pe … samphappalāpī hoti."
-msgstr "It’s when someone kills living creatures, steals, commits sexual misconduct, and uses speech that’s false, divisive, harsh, or nonsensical."
+msgid "Idha, bhikkhave, ekacco pāṇātipātī hoti … pe … samphappalāpī hoti. "
+msgstr "It’s when someone kills living creatures, steals, commits sexual misconduct, and uses speech that’s false, divisive, harsh, or nonsensical. "
 
 msgctxt "an3.119:1.6"
-msgid "Ayaṃ vuccati, bhikkhave, kammantavipatti."
-msgstr "This is called ‘failure in action’."
+msgid "Ayaṃ vuccati, bhikkhave, kammantavipatti. "
+msgstr "This is called ‘failure in action’. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an3.119:2.1"
-msgid "Katamā ca, bhikkhave, ājīvavipatti?"
-msgstr "And what is failure in livelihood?"
+msgid "Katamā ca, bhikkhave, ājīvavipatti? "
+msgstr "And what is failure in livelihood? "
 
 #. VAR: jīvikaṃ → jīvitaṃ (s1-3, km, mr)
 msgctxt "an3.119:2.2"
-msgid "Idha, bhikkhave, ekacco micchāājīvo hoti, micchāājīvena jīvikaṃ kappeti."
-msgstr "It’s when a noble disciple has wrong livelihood and earns a living by wrong livelihood."
+msgid "Idha, bhikkhave, ekacco micchāājīvo hoti, micchāājīvena jīvikaṃ kappeti. "
+msgstr "It’s when a noble disciple has wrong livelihood and earns a living by wrong livelihood. "
 
 msgctxt "an3.119:2.3"
-msgid "Ayaṃ vuccati, bhikkhave, ājīvavipatti."
-msgstr "This is called ‘failure in livelihood’."
+msgid "Ayaṃ vuccati, bhikkhave, ājīvavipatti. "
+msgstr "This is called ‘failure in livelihood’. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.271"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli1.271, sc3
 msgctxt "an3.119:3.1"
-msgid "Katamā ca, bhikkhave, diṭṭhivipatti?"
-msgstr "And what is failure in view?"
+msgid "Katamā ca, bhikkhave, diṭṭhivipatti? "
+msgstr "And what is failure in view? "
 
 msgctxt "an3.119:3.2"
-msgid "Idha, bhikkhave, ekacco micchādiṭṭhiko hoti viparītadassano:"
-msgstr "It’s when someone has wrong view, a distorted perspective, such as:"
+msgid "Idha, bhikkhave, ekacco micchādiṭṭhiko hoti viparītadassano: "
+msgstr "It’s when someone has wrong view, a distorted perspective, such as: "
 
 msgctxt "an3.119:3.3"
-msgid "‘natthi dinnaṃ, natthi yiṭṭhaṃ … pe … ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti."
-msgstr "‘There’s no meaning in giving, sacrifice, or offerings. There’s no fruit or result of good and bad deeds. There’s no afterlife. There’s no obligation to mother and father. No beings are reborn spontaneously. And there’s no ascetic or brahmin who is well attained and practiced, and who describes the afterlife after realizing it with their own insight.’"
+msgid "‘natthi dinnaṃ, natthi yiṭṭhaṃ … pe … ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti. "
+msgstr "‘There’s no meaning in giving, sacrifice, or offerings. There’s no fruit or result of good and bad deeds. There’s no afterlife. There’s no obligation to mother and father. No beings are reborn spontaneously. And there’s no ascetic or brahmin who is well attained and practiced, and who describes the afterlife after realizing it with their own insight.’ "
 
 msgctxt "an3.119:3.4"
-msgid "Ayaṃ vuccati, bhikkhave, diṭṭhivipatti."
-msgstr "This is called ‘failure in view’."
+msgid "Ayaṃ vuccati, bhikkhave, diṭṭhivipatti. "
+msgstr "This is called ‘failure in view’. "
 
 msgctxt "an3.119:3.5"
-msgid "Imā kho, bhikkhave, tisso vipattiyoti."
-msgstr "These are the three failures."
+msgid "Imā kho, bhikkhave, tisso vipattiyoti. "
+msgstr "These are the three failures. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "an3.119:4.1"
-msgid "Tisso imā, bhikkhave, sampadā."
-msgstr "There are three accomplishments."
+msgid "Tisso imā, bhikkhave, sampadā. "
+msgstr "There are three accomplishments. "
 
 msgctxt "an3.119:4.2"
-msgid "Katamā tisso?"
-msgstr "What three?"
+msgid "Katamā tisso? "
+msgstr "What three? "
 
 msgctxt "an3.119:4.3"
-msgid "Kammantasampadā, ājīvasampadā, diṭṭhisampadā."
-msgstr "Accomplishment in action, livelihood, and view."
+msgid "Kammantasampadā, ājīvasampadā, diṭṭhisampadā. "
+msgstr "Accomplishment in action, livelihood, and view. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.119:4.4"
-msgid "Katamā ca, bhikkhave, kammantasampadā?"
-msgstr "And what is accomplishment in action?"
+msgid "Katamā ca, bhikkhave, kammantasampadā? "
+msgstr "And what is accomplishment in action? "
 
 msgctxt "an3.119:4.5"
-msgid "Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti … pe … samphappalāpā paṭivirato hoti."
-msgstr "It’s when someone doesn’t kill living creatures, steal, commit sexual misconduct, or use speech that’s false, divisive, harsh, or nonsensical."
+msgid "Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti … pe … samphappalāpā paṭivirato hoti. "
+msgstr "It’s when someone doesn’t kill living creatures, steal, commit sexual misconduct, or use speech that’s false, divisive, harsh, or nonsensical. "
 
 msgctxt "an3.119:4.6"
-msgid "Ayaṃ vuccati, bhikkhave, kammantasampadā."
-msgstr "This is called ‘accomplishment in action’."
+msgid "Ayaṃ vuccati, bhikkhave, kammantasampadā. "
+msgstr "This is called ‘accomplishment in action’. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "an3.119:5.1"
-msgid "Katamā ca, bhikkhave, ājīvasampadā?"
-msgstr "And what is accomplishment in livelihood?"
+msgid "Katamā ca, bhikkhave, ājīvasampadā? "
+msgstr "And what is accomplishment in livelihood? "
 
 msgctxt "an3.119:5.2"
-msgid "Idha, bhikkhave, ekacco sammāājīvo hoti, sammāājīvena jīvikaṃ kappeti."
-msgstr "It’s when a noble disciple has right livelihood and earns a living by right livelihood."
+msgid "Idha, bhikkhave, ekacco sammāājīvo hoti, sammāājīvena jīvikaṃ kappeti. "
+msgstr "It’s when a noble disciple has right livelihood and earns a living by right livelihood. "
 
 msgctxt "an3.119:5.3"
-msgid "Ayaṃ vuccati, bhikkhave, ājīvasampadā."
-msgstr "This is called ‘accomplishment in livelihood’."
+msgid "Ayaṃ vuccati, bhikkhave, ājīvasampadā. "
+msgstr "This is called ‘accomplishment in livelihood’. "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "an3.119:6.1"
-msgid "Katamā ca, bhikkhave, diṭṭhisampadā?"
-msgstr "And what is accomplishment in view?"
+msgid "Katamā ca, bhikkhave, diṭṭhisampadā? "
+msgstr "And what is accomplishment in view? "
 
 msgctxt "an3.119:6.2"
-msgid "Idha, bhikkhave, ekacco sammādiṭṭhiko hoti aviparītadassano:"
-msgstr "It’s when someone has right view, an undistorted perspective, such as:"
+msgid "Idha, bhikkhave, ekacco sammādiṭṭhiko hoti aviparītadassano: "
+msgstr "It’s when someone has right view, an undistorted perspective, such as: "
 
 msgctxt "an3.119:6.3"
-msgid "‘atthi dinnaṃ, atthi yiṭṭhaṃ … pe … ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti."
-msgstr "‘There is meaning in giving, sacrifice, and offerings. There are fruits and results of good and bad deeds. There is an afterlife. There is obligation to mother and father. There are beings reborn spontaneously. And there are ascetics and brahmins who are well attained and practiced, and who describe the afterlife after realizing it with their own insight.’"
+msgid "‘atthi dinnaṃ, atthi yiṭṭhaṃ … pe … ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti. "
+msgstr "‘There is meaning in giving, sacrifice, and offerings. There are fruits and results of good and bad deeds. There is an afterlife. There is obligation to mother and father. There are beings reborn spontaneously. And there are ascetics and brahmins who are well attained and practiced, and who describe the afterlife after realizing it with their own insight.’ "
 
 msgctxt "an3.119:6.4"
-msgid "Ayaṃ vuccati, bhikkhave, diṭṭhisampadā."
-msgstr "This is called ‘accomplishment in view’."
+msgid "Ayaṃ vuccati, bhikkhave, diṭṭhisampadā. "
+msgstr "This is called ‘accomplishment in view’. "
 
+#. HTML: </p><p class="added">
 msgctxt "an3.119:6.5"
-msgid "Imā kho, bhikkhave, tisso sampadā”ti."
-msgstr "These are the three accomplishments.”"
+msgid "Imā kho, bhikkhave, tisso sampadā”ti. "
+msgstr "These are the three accomplishments.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an3.119:6.6"
-msgid "Sattamaṃ."
+msgid "Sattamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

@@ -2,139 +2,138 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn4.1"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn4.1"><article><div class="hgroup"><p class="division">
 msgctxt "sn4.1:0.1"
-msgid "Saṃyutta Nikāya 4"
-msgstr "Linked Discourses 4"
+msgid "Saṃyutta Nikāya 4 "
+msgstr "Linked Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 #. VAR: 1. Paṭhamavagga → āyuvaggo (bj) | āyuvaggo paṭhamo (pts2)
 msgctxt "sn4.1:0.2"
-msgid "1. Paṭhamavagga"
-msgstr "1. Life Span"
+msgid "1. Paṭhamavagga "
+msgstr "1. Life Span "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn4.1:0.3"
-msgid "1. Tapokammasutta"
-msgstr "1. Mortification"
+msgid "1. Tapokammasutta "
+msgstr "1. Mortification "
 
-#. </h1></div><p>
-#. <a class="pts1ed" id="pts1ed1.103"></a>
-#. <a class="pts2ed" id="pts2ed1.231"></a>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: pts1ed1.103, pts2ed1.231, sc1
 msgctxt "sn4.1:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn4.1:1.2"
-msgid "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho."
-msgstr "At one time, when he was first awakened, the Buddha was staying near Uruvelā at the root of the goatherd’s banyan tree on the bank of the Nerañjarā River."
+msgid "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho. "
+msgstr "At one time, when he was first awakened, the Buddha was staying near Uruvelā at the root of the goatherd’s banyan tree on the bank of the Nerañjarā River. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn4.1:1.3"
-msgid "Atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi:"
-msgstr "Then as he was in private retreat this thought came to his mind:"
+msgid "Atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: "
+msgstr "Then as he was in private retreat this thought came to his mind, "
 
-#. </p><p class="added">
 msgctxt "sn4.1:1.4"
-msgid "“mutto vatamhi tāya dukkarakārikāya."
-msgstr "“I am truly freed from that grueling work!"
+msgid "“mutto vatamhi tāya dukkarakārikāya. "
+msgstr "“I am truly freed from that grueling work! "
 
 msgctxt "sn4.1:1.5"
-msgid "Sādhu mutto vatamhi tāya anatthasaṃhitāya dukkarakārikāya."
-msgstr "Thank goodness I’m freed from that pointless grueling work."
+msgid "Sādhu mutto vatamhi tāya anatthasaṃhitāya dukkarakārikāya. "
+msgstr "Thank goodness I’m freed from that pointless grueling work. "
 
-# I follow BB in adopting Bj reading; it is the Lectio difficilior
+# NOTE: I follow BB in adopting Bj reading; it is the Lectio difficilior
 #. VAR: Sādhu vatamhi mutto bodhiṃ samajjhagan”ti → sādhu ṭhito sato bodhiṃ samajjhaganti (bj, pts1-2) | sādhu vatamhi satto bodhisamajjhagūti (s1-3, km)
 msgctxt "sn4.1:1.6"
-msgid "Sādhu vatamhi mutto bodhiṃ samajjhagan”ti."
-msgstr "Thank goodness that, steadfast and mindful, I have attained awakening.”"
+msgid "Sādhu vatamhi mutto bodhiṃ samajjhagan”ti. "
+msgstr "Thank goodness that, steadfast and mindful, I have attained awakening.” "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn4.1:2.1"
-msgid "Atha kho māro pāpimā bhagavato cetasā cetoparivitakkamaññāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:"
-msgstr "And then Māra the Wicked, knowing what the Buddha was thinking, went up to him and addressed him in verse:"
+msgid "Atha kho māro pāpimā bhagavato cetasā cetoparivitakkamaññāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi: "
+msgstr "And then Māra the Wicked, knowing what the Buddha was thinking, went up to him and addressed him in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="pts2ed" id="pts2ed1.232"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: pts2ed1.232, sc3
 msgctxt "sn4.1:3.1"
-msgid "“Tapokammā apakkamma,"
-msgstr "“You’ve departed from the practice of mortification"
+msgid "“Tapokammā apakkamma, "
+msgstr "“You’ve departed from the practice of mortification "
 
-# Read yena, duh.
+# NOTE: Read yena, duh.
 #. <br>
 msgctxt "sn4.1:3.2"
-msgid "ye na sujjhanti māṇavā;"
-msgstr "by which humans purify themselves."
+msgid "ye na sujjhanti māṇavā; "
+msgstr "by which humans purify themselves. "
 
 #. <br>
 msgctxt "sn4.1:3.3"
-msgid "Asuddho maññasi suddho,"
-msgstr "You’re impure, but think yourself pure;"
+msgid "Asuddho maññasi suddho, "
+msgstr "You’re impure, but think yourself pure; "
 
 #. <br>
 #. VAR: suddhimaggā aparaddho → suddhimaggamaparaddho (bj, pts1-2) | suddhimaggaṃ aparaddho (s1-3, km)
 msgctxt "sn4.1:3.4"
-msgid "suddhimaggā aparaddho”ti."
-msgstr "you’ve strayed from the path of purity.”"
+msgid "suddhimaggā aparaddho”ti. "
+msgstr "you’ve strayed from the path of purity.” "
 
-#. </p></blockquote><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p></blockquote><p class="added">
+#. REF: sc4
 msgctxt "sn4.1:4.1"
-msgid "Atha kho bhagavā “māro ayaṃ pāpimā” iti viditvā māraṃ pāpimantaṃ gāthāhi ajjhabhāsi:"
-msgstr "Then the Buddha, knowing that this was Māra the Wicked, replied to him in verse:"
+msgid "Atha kho bhagavā “māro ayaṃ pāpimā”
+ iti viditvā māraṃ pāpimantaṃ gāthāhi ajjhabhāsi: "
+msgstr "Then the Buddha, knowing that this was Māra the Wicked, replied to him in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc5
 msgctxt "sn4.1:5.1"
-msgid "“Anatthasaṃhitaṃ ñatvā,"
-msgstr "“I realized that it’s pointless;"
+msgid "“Anatthasaṃhitaṃ ñatvā, "
+msgstr "“I realized that it’s pointless; "
 
-# This phrase occurs thrice. here, Thag 3.1, and Snp.252 at Snp 3.2. There we have “Ye vāpi loke amarā bahū tapā” which I can’t help feeling would make better sense if amara meant “endless”. However, i will retain the accepted meaning.
+# NOTE: This phrase occurs thrice. here, Thag 3.1, and Snp.252 at Snp 3.2. There we have “Ye vāpi loke amarā bahū tapā” which I can’t help feeling would make better sense if amara meant “endless”. However, i will retain the accepted meaning.
 #. <br>
 #. VAR: amaraṃ tapaṃ → aparaṃ tapaṃ (s1-3, pts1-2, mr)
 msgctxt "sn4.1:5.2"
-msgid "yaṃ kiñci amaraṃ tapaṃ;"
-msgstr "all that mortification in search of immortality"
+msgid "yaṃ kiñci amaraṃ tapaṃ; "
+msgstr "all that mortification in search of immortality "
 
 #. <br>
 msgctxt "sn4.1:5.3"
-msgid "Sabbaṃ natthāvahaṃ hoti,"
-msgstr "is as futile"
+msgid "Sabbaṃ natthāvahaṃ hoti, "
+msgstr "is as futile "
 
-# See BB for readings.
+# NOTE: See BB for readings.
 #. <br>
 #. VAR: dhammani → dhammaniṃ (pts1) | phiyārittaṃ vajahmani (pts2) | jammaniṃ (mr)
 msgctxt "sn4.1:5.4"
-msgid "phiyārittaṃva dhammani."
-msgstr "as oars and rudder on dry land."
+msgid "phiyārittaṃva dhammani. "
+msgstr "as oars and rudder on dry land. "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "sn4.1:6.1"
-msgid "Sīlaṃ samādhi paññañca,"
-msgstr "Ethics, immersion, and wisdom:"
+msgid "Sīlaṃ samādhi paññañca, "
+msgstr "Ethics, immersion, and wisdom: "
 
 #. <br>
 msgctxt "sn4.1:6.2"
-msgid "Maggaṃ bodhāya bhāvayaṃ;"
-msgstr "by developing this path to awakening"
+msgid "Maggaṃ bodhāya bhāvayaṃ; "
+msgstr "by developing this path to awakening "
 
 #. <br>
 msgctxt "sn4.1:6.3"
-msgid "Pattosmi paramaṃ suddhiṃ,"
-msgstr "I attained ultimate purity."
+msgid "Pattosmi paramaṃ suddhiṃ, "
+msgstr "I attained ultimate purity. "
 
 #. <br>
 msgctxt "sn4.1:6.4"
-msgid "Nihato tvamasi antakā”ti."
-msgstr "You’re beaten, terminator!”"
+msgid "Nihato tvamasi antakā”ti. "
+msgstr "You’re beaten, terminator!” "
 
-#. </p></blockquote><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p></blockquote><p>
+#. REF: sc7
 msgctxt "sn4.1:7.1"
-msgid "Atha kho māro pāpimā “jānāti maṃ bhagavā, jānāti maṃ sugato”ti, dukkhī dummano tatthevantaradhāyīti."
+msgid "Atha kho māro pāpimā “jānāti maṃ bhagavā, jānāti maṃ sugato”ti, dukkhī dummano tatthevantaradhāyīti. "
 msgstr "Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there."
+
+#. HTML: </p></article></section></body></html>

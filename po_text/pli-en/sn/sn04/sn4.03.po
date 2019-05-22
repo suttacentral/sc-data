@@ -2,93 +2,98 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn4.3"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn4.3"><article><div class="hgroup"><p class="division">
 msgctxt "sn4.3:0.1"
-msgid "Saṃyutta Nikāya 4"
-msgstr "Linked Discourses 4"
+msgid "Saṃyutta Nikāya 4 "
+msgstr "Linked Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn4.3:0.2"
-msgid "1. Paṭhamavagga"
-msgstr "1. Life Span"
+msgid "1. Paṭhamavagga "
+msgstr "1. Life Span "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn4.3:0.3"
-msgid "3. Subhasutta"
-msgstr "3. Beautiful"
+msgid "3. Subhasutta "
+msgstr "3. Beautiful "
 
-#. </h1></div><p>
-#. <a class="pts2ed" id="pts2ed1.234"></a>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: pts2ed1.234, sc1
 msgctxt "sn4.3:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn4.3:1.2"
-msgid "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho."
-msgstr "At one time, when he was first awakened, the Buddha was staying near Uruvelā at the root of the goatherd’s banyan tree on the bank of the Nerañjarā River."
+msgid "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho. "
+msgstr "At one time, when he was first awakened, the Buddha was staying near Uruvelā at the root of the goatherd’s banyan tree on the bank of the Nerañjarā River. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn4.3:1.3"
-msgid "Tena kho pana samayena bhagavā rattandhakāratimisāyaṃ abbhokāse nisinno hoti, devo ca ekamekaṃ phusāyati."
-msgstr "Now at that time the Buddha was meditating in the open during the dark of night, while a gentle rain drizzled down."
+msgid "Tena kho pana samayena bhagavā rattandhakāratimisāyaṃ abbhokāse nisinno hoti, devo ca ekamekaṃ phusāyati. "
+msgstr "Now at that time the Buddha was meditating in the open during the dark of night, while a gentle rain drizzled down. "
 
-# The phrase is identical with SN 2.29, and i don’t see why we should follow BB in using “color” there and “shape” here for vanna.
+#. HTML: </p><p class="added">
+# NOTE: The phrase is identical with SN 2.29, and i don’t see why we should follow BB in using “color” there and “shape” here for vanna.
 msgctxt "sn4.3:1.4"
-msgid "Atha kho māro pāpimā, bhagavato bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo, yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato avidūre uccāvacā vaṇṇanibhā upadaṃseti, subhā ceva asubhā ca."
-msgstr "Then Māra the Wicked, wanting to make the Buddha feel fear, terror, and goosebumps, approached him, and while not far away generated a rainbow of bright colors, both beautiful and ugly."
+msgid "Atha kho māro pāpimā, bhagavato bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo, yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato avidūre uccāvacā vaṇṇanibhā upadaṃseti, subhā ceva asubhā ca. "
+msgstr "Then Māra the Wicked, wanting to make the Buddha feel fear, terror, and goosebumps, approached him, and while not far away generated a rainbow of bright colors, both beautiful and ugly. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn4.3:1.5"
-msgid "Atha kho bhagavā “māro ayaṃ pāpimā” iti viditvā māraṃ pāpimantaṃ gāthāhi ajjhabhāsi:"
-msgstr "Then the Buddha, knowing that this was Māra the Wicked, replied to him in verse:"
+msgid "Atha kho bhagavā “māro ayaṃ pāpimā”
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+ iti viditvā māraṃ pāpimantaṃ gāthāhi ajjhabhāsi: "
+msgstr "Then the Buddha, knowing that this was Māra the Wicked, replied to him in verse: "
+
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "sn4.3:2.1"
-msgid "“Saṃsaraṃ dīghamaddhānaṃ,"
-msgstr "“Transmigrating for such a long time,"
+msgid "“Saṃsaraṃ dīghamaddhānaṃ, "
+msgstr "“Transmigrating for such a long time, "
 
 #. <br>
 msgctxt "sn4.3:2.2"
-msgid "vaṇṇaṃ katvā subhāsubhaṃ;"
-msgstr "you’ve made forms beautiful and ugly."
+msgid "vaṇṇaṃ katvā subhāsubhaṃ; "
+msgstr "you’ve made forms beautiful and ugly. "
 
 #. <br>
 msgctxt "sn4.3:2.3"
-msgid "Alaṃ te tena pāpima,"
-msgstr "Enough of this, Wicked One!"
+msgid "Alaṃ te tena pāpima, "
+msgstr "Enough of this, Wicked One! "
 
 #. <br>
 msgctxt "sn4.3:2.4"
-msgid "nihato tvamasi antaka."
-msgstr "You’re beaten, terminator."
+msgid "nihato tvamasi antaka. "
+msgstr "You’re beaten, terminator. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn4.3:3.1"
-msgid "Ye ca kāyena vācāya,"
-msgstr "Those who are well restrained"
+msgid "Ye ca kāyena vācāya, "
+msgstr "Those who are well restrained "
 
 #. <br>
 msgctxt "sn4.3:3.2"
-msgid "manasā ca susaṃvutā;"
-msgstr "in body, speech, and mind"
+msgid "manasā ca susaṃvutā; "
+msgstr "in body, speech, and mind "
 
 #. <br>
 msgctxt "sn4.3:3.3"
-msgid "Na te māravasānugā,"
-msgstr "don’t fall under Māra’s sway,"
+msgid "Na te māravasānugā, "
+msgstr "don’t fall under Māra’s sway, "
 
-# See BB for reading.
+# NOTE: See BB for reading.
 #. <br>
 #. VAR: baddhagū → paccagū (si, s1-3, km, pts1) | paddhagūti (pts2) | baddhabhū (mr)
 msgctxt "sn4.3:3.4"
-msgid "na te mārassa baddhagū”ti."
-msgstr "they don’t become your footmen.”"
+msgid "na te mārassa baddhagū”ti. "
+msgstr "they don’t become your footmen.” "
 
-#. </p></blockquote><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p></blockquote><p>
+#. REF: sc4
 msgctxt "sn4.3:4.1"
-msgid "Atha kho māro … pe … tatthevantaradhāyīti."
+msgid "Atha kho māro … pe … tatthevantaradhāyīti. "
 msgstr "Then Māra … vanished right there."
+
+#. HTML: </p></article></section></body></html>

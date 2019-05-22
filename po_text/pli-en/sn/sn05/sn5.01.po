@@ -2,141 +2,140 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn5.1"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn5.1"><article><div class="hgroup"><p class="division">
 msgctxt "sn5.1:0.1"
-msgid "Saṃyutta Nikāya 5"
-msgstr "Linked Discourses 5"
+msgid "Saṃyutta Nikāya 5 "
+msgstr "Linked Discourses 5 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn5.1:0.2"
-msgid "1. Bhikkhunīvagga"
-msgstr "1. Nuns"
+msgid "1. Bhikkhunīvagga "
+msgstr "1. Nuns "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn5.1:0.3"
-msgid "1. Āḷavikāsutta"
-msgstr "1. With Āḷavikā"
+msgid "1. Āḷavikāsutta "
+msgstr "1. With Āḷavikā "
 
-#. </h1></div><p>
-#. <a class="pts1ed" id="pts1ed1.128"></a>
-#. <a class="pts2ed" id="pts2ed1.281"></a>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: pts1ed1.128, pts2ed1.281, sc1
 msgctxt "sn5.1:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn5.1:1.2"
-msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn5.1:1.3"
-msgid "Atha kho āḷavikā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi."
-msgstr "Then the nun Āḷavikā robed up in the morning and, taking her bowl and robe, entered Sāvatthī for alms."
+msgid "Atha kho āḷavikā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. "
+msgstr "Then the nun Āḷavikā robed up in the morning and, taking her bowl and robe, entered Sāvatthī for alms. "
 
-# This is apparently the only occurrence of vivekatthini (or its male counterpart). Subsequent texts use the standard divāvihārāya. Might this be a remnant of a bhikkhuni text? (Cp. pavattini, sahajivini, vutthana)
+# NOTE: This is apparently the only occurrence of vivekatthini (or its male counterpart). Subsequent texts use the standard divāvihārāya. Might this be a remnant of a bhikkhuni text? (Cp. pavattini, sahajivini, vutthana)
 msgctxt "sn5.1:1.4"
-msgid "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami vivekatthinī."
-msgstr "She wandered for alms in Sāvatthī. After the meal, on her return from alms-round, she went to the Dark Forest seeking seclusion."
+msgid "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami vivekatthinī. "
+msgstr "She wandered for alms in Sāvatthī. After the meal, on her return from alms-round, she went to the Dark Forest seeking seclusion. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn5.1:1.5"
-msgid "Atha kho māro pāpimā āḷavikāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo vivekamhā cāvetukāmo yena āḷavikā bhikkhunī tenupasaṅkami; upasaṅkamitvā āḷavikaṃ bhikkhuniṃ gāthāya ajjhabhāsi:"
-msgstr "Then Māra the Wicked, wanting to make the nun Āḷavikā feel fear, terror, and goosebumps, wanting to make her fall away from seclusion, went up to her and addressed her in verse:"
+msgid "Atha kho māro pāpimā āḷavikāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo vivekamhā cāvetukāmo yena āḷavikā bhikkhunī tenupasaṅkami; upasaṅkamitvā āḷavikaṃ bhikkhuniṃ gāthāya ajjhabhāsi: "
+msgstr "Then Māra the Wicked, wanting to make the nun Āḷavikā feel fear, terror, and goosebumps, wanting to make her fall away from seclusion, went up to her and addressed her in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "sn5.1:2.1"
-msgid "“Natthi nissaraṇaṃ loke,"
-msgstr "“There’s no escape in the world,"
+msgid "“Natthi nissaraṇaṃ loke, "
+msgstr "“There’s no escape in the world, "
 
 #. <br>
 msgctxt "sn5.1:2.2"
-msgid "kiṃ vivekena kāhasi;"
-msgstr "so what will seclusion do for you?"
+msgid "kiṃ vivekena kāhasi; "
+msgstr "so what will seclusion do for you? "
 
 #. <br>
 msgctxt "sn5.1:2.3"
-msgid "Bhuñjassu kāmaratiyo,"
-msgstr "Enjoy the delights of sensual pleasure;"
+msgid "Bhuñjassu kāmaratiyo, "
+msgstr "Enjoy the delights of sensual pleasure; "
 
 #. <br>
 msgctxt "sn5.1:2.4"
-msgid "māhu pacchānutāpinī”ti."
-msgstr "don’t regret it later.”"
+msgid "māhu pacchānutāpinī”ti. "
+msgstr "don’t regret it later.” "
 
-#. </p></blockquote><p>
-#. <a class="pts2ed" id="pts2ed1.282"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p></blockquote><p>
+#. REF: pts2ed1.282, sc3
 msgctxt "sn5.1:3.1"
-msgid "Atha kho āḷavikāya bhikkhuniyā etadahosi:"
-msgstr "Then the nun Āḷavikā thought:"
+msgid "Atha kho āḷavikāya bhikkhuniyā etadahosi: "
+msgstr "Then the nun Āḷavikā thought, "
 
-#. </p><p class="added">
 msgctxt "sn5.1:3.2"
-msgid "“ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī”ti?"
-msgstr "“Who’s speaking this verse, a human or a non-human?”"
+msgid "“ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī”ti? "
+msgstr "“Who’s speaking this verse, a human or a non-human?” "
 
+#. HTML: </p><p class="added">
 msgctxt "sn5.1:3.3"
-msgid "Atha kho āḷavikāya bhikkhuniyā etadahosi:"
-msgstr "Then she thought:"
+msgid "Atha kho āḷavikāya bhikkhuniyā etadahosi: "
+msgstr "Then she thought, "
 
-#. </p><p class="added">
 msgctxt "sn5.1:3.4"
-msgid "“māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo vivekamhā cāvetukāmo gāthaṃ bhāsatī”ti."
-msgstr "“This is Māra the Wicked, wanting to make me feel fear, terror, and goosebumps, wanting to make me fall away from seclusion!”"
+msgid "“māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo vivekamhā cāvetukāmo gāthaṃ bhāsatī”ti. "
+msgstr "“This is Māra the Wicked, wanting to make me feel fear, terror, and goosebumps, wanting to make me fall away from seclusion!” "
 
+#. HTML: </p><p class="added">
 msgctxt "sn5.1:3.5"
-msgid "Atha kho āḷavikā bhikkhunī “māro ayaṃ pāpimā” iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi:"
-msgstr "Then Āḷavikā, knowing that this was Māra the Wicked, replied to him in verse:"
+msgid "Atha kho āḷavikā bhikkhunī “māro ayaṃ pāpimā” iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi: "
+msgstr "Then Āḷavikā, knowing that this was Māra the Wicked, replied to him in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc4
 msgctxt "sn5.1:4.1"
-msgid "“Atthi nissaraṇaṃ loke,"
-msgstr "“There is an escape in the world,"
+msgid "“Atthi nissaraṇaṃ loke, "
+msgstr "“There is an escape in the world, "
 
 #. <br>
 #. VAR: suphussitaṃ → suphassitaṃ (bj)
 msgctxt "sn5.1:4.2"
-msgid "paññāya me suphussitaṃ;"
-msgstr "and I’ve personally experienced it with wisdom."
+msgid "paññāya me suphussitaṃ; "
+msgstr "and I’ve personally experienced it with wisdom. "
 
 #. <br>
 msgctxt "sn5.1:4.3"
-msgid "Pamattabandhu pāpima,"
-msgstr "O Wicked One, kinsman of the negligent,"
+msgid "Pamattabandhu pāpima, "
+msgstr "O Wicked One, kinsman of the negligent, "
 
-# More idiomatically: you don’t know what you’re talking about.
+# NOTE: More idiomatically: you don’t know what you’re talking about.
 #. <br>
 msgctxt "sn5.1:4.4"
-msgid "na tvaṃ jānāsi taṃ padaṃ."
-msgstr "you don’t know that place."
+msgid "na tvaṃ jānāsi taṃ padaṃ. "
+msgstr "you don’t know that place. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "sn5.1:5.1"
-msgid "Sattisūlūpamā kāmā,"
-msgstr "Sensual pleasures are like swords and stakes;"
+msgid "Sattisūlūpamā kāmā, "
+msgstr "Sensual pleasures are like swords and stakes; "
 
 #. <br>
 msgctxt "sn5.1:5.2"
-msgid "khandhāsaṃ adhikuṭṭanā;"
-msgstr "the aggregates are their chopping block."
+msgid "khandhāsaṃ adhikuṭṭanā; "
+msgstr "the aggregates are their chopping block. "
 
 #. <br>
 msgctxt "sn5.1:5.3"
-msgid "Yaṃ tvaṃ kāmaratiṃ brūsi,"
-msgstr "What you call sensual delight"
+msgid "Yaṃ tvaṃ kāmaratiṃ brūsi, "
+msgstr "What you call sensual delight "
 
 #. <br>
 msgctxt "sn5.1:5.4"
-msgid "arati mayha sā ahū”ti."
-msgstr "has become no delight for me.”"
+msgid "arati mayha sā ahū”ti. "
+msgstr "has become no delight for me.” "
 
-#. </p></blockquote><p>
-#. <a class="pts1ed" id="pts1ed1.129"></a>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p></blockquote><p>
+#. REF: pts1ed1.129, sc6
 msgctxt "sn5.1:6.1"
-msgid "Atha kho māro pāpimā “jānāti maṃ āḷavikā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti."
+msgid "Atha kho māro pāpimā “jānāti maṃ āḷavikā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. "
 msgstr "Then Māra the Wicked, thinking, “The nun Āḷavikā knows me!” miserable and sad, vanished right there."
+
+#. HTML: </p></article></section></body></html>

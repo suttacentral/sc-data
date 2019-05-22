@@ -2,204 +2,205 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn21.3"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn21.3"><article><div class="hgroup"><p class="division">
 msgctxt "sn21.3:0.1"
-msgid "Saṃyutta Nikāya 21"
-msgstr "Linked Discourses 21"
+msgid "Saṃyutta Nikāya 21 "
+msgstr "Linked Discourses 21 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn21.3:0.2"
-msgid "1. Bhikkhuvagga"
-msgstr "1. Monks"
+msgid "1. Bhikkhuvagga "
+msgstr "1. Monks "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 3. Ghaṭasutta → mahānāgasuttaṃ (bj)
 msgctxt "sn21.3:0.3"
-msgid "3. Ghaṭasutta"
-msgstr "3. A Mound of Salt"
+msgid "3. Ghaṭasutta "
+msgstr "3. A Mound of Salt "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: sc1
 msgctxt "sn21.3:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn21.3:1.2"
-msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:1.3"
-msgid "Tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno rājagahe viharanti veḷuvane kalandakanivāpe ekavihāre."
-msgstr "At that time Venerables Sāriputta and Moggallāna were staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground."
+msgid "Tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno rājagahe viharanti veḷuvane kalandakanivāpe ekavihāre. "
+msgstr "At that time Venerables Sāriputta and Moggallāna were staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground. "
 
 msgctxt "sn21.3:1.4"
-msgid "Atha kho āyasmā sāriputto sāyanhasamayaṃ paṭisallānā vuṭṭhito yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahāmoggallānena saddhiṃ sammodi."
-msgstr "Then in the late afternoon, Venerable Sāriputta came out of retreat, went to Venerable Moggallāna, and exchanged greetings with him."
+msgid "Atha kho āyasmā sāriputto sāyanhasamayaṃ paṭisallānā vuṭṭhito yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahāmoggallānena saddhiṃ sammodi. "
+msgstr "Then in the late afternoon, Venerable Sāriputta came out of retreat, went to Venerable Moggallāna, and exchanged greetings with him. "
 
 msgctxt "sn21.3:1.5"
-msgid "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā sāriputto āyasmantaṃ mahāmoggallānaṃ etadavoca:"
-msgstr "When the greetings and polite conversation were over, Sāriputta sat down to one side, and said to Mahāmoggallāna:"
+msgid "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā sāriputto āyasmantaṃ mahāmoggallānaṃ etadavoca: "
+msgstr "When the greetings and polite conversation were over, Sāriputta sat down to one side, and said to Mahāmoggallāna: "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.276"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.276, sc2
 msgctxt "sn21.3:2.1"
-msgid "“Vippasannāni kho te, āvuso moggallāna, indriyāni;"
-msgstr "“Reverend Moggallāna, your faculties are so very clear, and your complexion is pure and bright."
+msgid "“Vippasannāni kho te, āvuso moggallāna, indriyāni; "
+msgstr "“Reverend Moggallāna, your faculties are so very clear, and your complexion is pure and bright. "
 
 msgctxt "sn21.3:2.2"
-msgid "parisuddho mukhavaṇṇo pariyodāto santena nūnāyasmā mahāmoggallāno ajja vihārena vihāsī”ti."
-msgstr "Have you spent the day in a peaceful meditation?”"
+msgid "parisuddho mukhavaṇṇo pariyodāto santena nūnāyasmā mahāmoggallāno ajja vihārena vihāsī”ti. "
+msgstr "Have you spent the day in a peaceful meditation?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:2.3"
-msgid "“Oḷārikena khvāhaṃ, āvuso, ajja vihārena vihāsiṃ."
-msgstr "“Reverend, I’ve spent the day in a coarse meditation."
+msgid "“Oḷārikena khvāhaṃ, āvuso, ajja vihārena vihāsiṃ. "
+msgstr "“Reverend, I’ve spent the day in a coarse meditation. "
 
 msgctxt "sn21.3:2.4"
-msgid "Api ca me ahosi dhammī kathā”ti."
-msgstr "But I have had some Dhamma talk.”"
+msgid "Api ca me ahosi dhammī kathā”ti. "
+msgstr "But I have had some Dhamma talk.” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:2.5"
-msgid "“Kena saddhiṃ panāyasmato mahāmoggallānassa ahosi dhammī kathā”ti?"
-msgstr "“Who did you have a Dhamma talk with?”"
+msgid "“Kena saddhiṃ panāyasmato mahāmoggallānassa ahosi dhammī kathā”ti? "
+msgstr "“Who did you have a Dhamma talk with?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:2.6"
-msgid "“Bhagavatā kho me, āvuso, saddhiṃ ahosi dhammī kathā”ti."
-msgstr "“With the Buddha.”"
+msgid "“Bhagavatā kho me, āvuso, saddhiṃ ahosi dhammī kathā”ti. "
+msgstr "“With the Buddha.” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:2.7"
-msgid "“Dūre kho, āvuso, bhagavā etarahi sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr "“But Reverend, the Buddha is far away. He’s staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+msgid "“Dūre kho, āvuso, bhagavā etarahi sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
+msgstr "“But Reverend, the Buddha is far away. He’s staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
 msgctxt "sn21.3:2.8"
-msgid "Kiṃ nu kho āyasmā mahāmoggallāno bhagavantaṃ iddhiyā upasaṅkami;"
-msgstr "Did you go to him with your psychic power,"
+msgid "Kiṃ nu kho āyasmā mahāmoggallāno bhagavantaṃ iddhiyā upasaṅkami; "
+msgstr "Did you go to him with your psychic power, "
 
 msgctxt "sn21.3:2.9"
-msgid "udāhu bhagavā āyasmantaṃ mahāmoggallānaṃ iddhiyā upasaṅkamī”ti?"
-msgstr "or did he come to you?”"
+msgid "udāhu bhagavā āyasmantaṃ mahāmoggallānaṃ iddhiyā upasaṅkamī”ti? "
+msgstr "or did he come to you?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:2.10"
-msgid "“Na khvāhaṃ, āvuso, bhagavantaṃ iddhiyā upasaṅkamiṃ;"
-msgstr "“No reverend, I didn’t go to him with my psychic power,"
+msgid "“Na khvāhaṃ, āvuso, bhagavantaṃ iddhiyā upasaṅkamiṃ; "
+msgstr "“No reverend, I didn’t go to him with my psychic power, "
 
 msgctxt "sn21.3:2.11"
-msgid "napi maṃ bhagavā iddhiyā upasaṅkami."
-msgstr "nor did he come to me."
+msgid "napi maṃ bhagavā iddhiyā upasaṅkami. "
+msgstr "nor did he come to me. "
 
 msgctxt "sn21.3:2.12"
-msgid "Api ca me yāvatā bhagavā ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātu."
-msgstr "Rather, the Buddha cleared his clairvoyance and clairaudience towards me,"
+msgid "Api ca me yāvatā bhagavā ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātu. "
+msgstr "Rather, the Buddha cleared his clairvoyance and clairaudience towards me, "
 
 msgctxt "sn21.3:2.13"
-msgid "Bhagavatopi yāvatāhaṃ ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātū”ti."
-msgstr "and I cleared my clairvoyance and clairaudience towards him.”"
+msgid "Bhagavatopi yāvatāhaṃ ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātū”ti. "
+msgstr "and I cleared my clairvoyance and clairaudience towards him.” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:2.14"
-msgid "“Yathākathaṃ panāyasmato mahāmoggallānassa bhagavatā saddhiṃ ahosi dhammī kathā”ti?"
-msgstr "“But what manner of Dhamma talk did you have together?”"
+msgid "“Yathākathaṃ panāyasmato mahāmoggallānassa bhagavatā saddhiṃ ahosi dhammī kathā”ti? "
+msgstr "“But what manner of Dhamma talk did you have together?” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn21.3:3.1"
-msgid "“Idhāhaṃ, āvuso, bhagavantaṃ etadavocaṃ:"
-msgstr "“Well, reverend, I said to the Buddha:"
+msgid "“Idhāhaṃ, āvuso, bhagavantaṃ etadavocaṃ: "
+msgstr "“Well, reverend, I said to the Buddha, "
 
 msgctxt "sn21.3:3.2"
-msgid "‘āraddhavīriyo āraddhavīriyoti, bhante, vuccati."
-msgstr "‘Sir, they speak of one who is energetic."
+msgid "‘āraddhavīriyo āraddhavīriyoti, bhante, vuccati. "
+msgstr "‘Sir, they speak of one who is energetic. "
 
 msgctxt "sn21.3:3.3"
-msgid "Kittāvatā nu kho, bhante, āraddhavīriyo hotī’ti?"
-msgstr "How is an energetic person defined?’"
+msgid "Kittāvatā nu kho, bhante, āraddhavīriyo hotī’ti? "
+msgstr "How is an energetic person defined?’ "
 
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:3.4"
-msgid "Evaṃ vutte, maṃ, āvuso, bhagavā etadavoca:"
-msgstr "When I said this, the Buddha said:"
+msgid "Evaṃ vutte, maṃ, āvuso, bhagavā etadavoca: "
+msgstr "When I said this, the Buddha said, "
 
 msgctxt "sn21.3:3.5"
 msgid "‘idha, moggallāna, bhikkhu āraddhavīriyo viharati—"
-msgstr "‘Moggallāna, it’s when a mendicant lives with energy roused up:"
+msgstr "‘Moggallāna, it’s when a mendicant lives with energy roused up: "
 
-#. </p><p class="added">
 msgctxt "sn21.3:3.6"
-msgid "kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṃsalohitaṃ, yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatīti."
-msgstr "“Gladly, let only skin, sinews, and bones remain! Let the flesh and blood waste away in my body! I will not stop trying until I have achieved what is possible by manly strength, energy, and vigor.”"
+msgid "kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṃsalohitaṃ, yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatīti. "
+msgstr "“Gladly, let only skin, sinews, and bones remain! Let the flesh and blood waste away in my body! I will not stop trying until I have achieved what is possible by manly strength, energy, and vigor.” "
 
 msgctxt "sn21.3:3.7"
-msgid "Evaṃ kho, moggallāna, āraddhavīriyo hotī’ti."
-msgstr "That’s how a person is energetic.’"
+msgid "Evaṃ kho, moggallāna, āraddhavīriyo hotī’ti. "
+msgstr "That’s how a person is energetic.’ "
 
+#. HTML: </p><p class="added">
 msgctxt "sn21.3:3.8"
-msgid "Evaṃ kho me, āvuso, bhagavatā saddhiṃ ahosi dhammī kathā”ti."
-msgstr "That’s the Dhamma talk I had together with the Buddha.”"
+msgid "Evaṃ kho me, āvuso, bhagavatā saddhiṃ ahosi dhammī kathā”ti. "
+msgstr "That’s the Dhamma talk I had together with the Buddha.” "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn21.3:4.1"
-msgid "“Seyyathāpi, āvuso, himavato pabbatarājassa parittā pāsāṇasakkharā yāvadeva upanikkhepanamattāya;"
-msgstr "“Reverend, next to Venerable Mahāmoggallāna I’m like a few pieces of gravel next to the Himalayas, the king of mountains."
+msgid "“Seyyathāpi, āvuso, himavato pabbatarājassa parittā pāsāṇasakkharā yāvadeva upanikkhepanamattāya; "
+msgstr "“Reverend, next to Venerable Mahāmoggallāna I’m like a few pieces of gravel next to the Himalayas, the king of mountains. "
 
 msgctxt "sn21.3:4.2"
-msgid "evameva kho mayaṃ āyasmato mahāmoggallānassa yāvadeva upanikkhepanamattāya."
-msgstr ""
+msgid "evameva kho mayaṃ āyasmato mahāmoggallānassa yāvadeva upanikkhepanamattāya. "
+msgstr " "
 
 msgctxt "sn21.3:4.3"
-msgid "Āyasmā hi mahāmoggallāno mahiddhiko mahānubhāvo ākaṅkhamāno kappaṃ tiṭṭheyyā”ti."
-msgstr "Venerable Mahāmoggallāna is so mighty and powerful he could, if he wished, live on for the eon.”"
+msgid "Āyasmā hi mahāmoggallāno mahiddhiko mahānubhāvo ākaṅkhamāno kappaṃ tiṭṭheyyā”ti. "
+msgstr "Venerable Mahāmoggallāna is so mighty and powerful he could, if he wished, live on for the eon.” "
 
-# Ghata means either “pot “or” heap, mass”. BB prefers the former, but I find it gives a somewhat weak simile. I think Moggallana was referring something more like this (http://c8.alamy.com/comp/FMYC1W/picture-made-available-on-15-june-2010-showing-an-indian-salt-worker-FMYC1W.jpg) than like this (http://www.eatonvillenews.net/images/Bob/BOB%20FILTER%20PLANT%20TOUR%20SALT%20BARREL%20%20(OP)%20JAN.%2013,%2007%20012.jpg)
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.277"></a>
-#. <a class="sc" id="sc5"></a>
+# NOTE: Ghata means either “pot “or” heap, mass”. BB prefers the former, but I find it gives a somewhat weak simile. I think Moggallana was referring something more like this (http://c8.alamy.com/comp/FMYC1W/picture-made-available-on-15-june-2010-showing-an-indian-salt-worker-FMYC1W.jpg) than like this (http://www.eatonvillenews.net/images/Bob/BOB%20FILTER%20PLANT%20TOUR%20SALT%20BARREL%20%20(OP)%20JAN.%2013,%2007%20012.jpg)
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.277, sc5
 msgctxt "sn21.3:5.1"
-msgid "“Seyyathāpi, āvuso, mahatiyā loṇaghaṭāya parittā loṇasakkharāya yāvadeva upanikkhepanamattāya;"
-msgstr "“Reverend, next to Venerable Sāriputta I’m like a few grains of salt next to a mound of salt."
+msgid "“Seyyathāpi, āvuso, mahatiyā loṇaghaṭāya parittā loṇasakkharāya yāvadeva upanikkhepanamattāya; "
+msgstr "“Reverend, next to Venerable Sāriputta I’m like a few grains of salt next to a mound of salt. "
 
 msgctxt "sn21.3:5.2"
-msgid "evameva kho mayaṃ āyasmato sāriputtassa yāvadeva upanikkhepanamattāya."
-msgstr ""
+msgid "evameva kho mayaṃ āyasmato sāriputtassa yāvadeva upanikkhepanamattāya. "
+msgstr " "
 
 msgctxt "sn21.3:5.3"
-msgid "Āyasmā hi sāriputto bhagavatā anekapariyāyena thomito vaṇṇito pasattho:"
-msgstr "Venerable Sāriputta has been commended, complimented, and praised by the Buddha:"
+msgid "Āyasmā hi sāriputto bhagavatā anekapariyāyena thomito vaṇṇito pasattho: "
+msgstr "Venerable Sāriputta has been commended, complimented, and praised by the Buddha: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc6
 msgctxt "sn21.3:6.1"
-msgid "‘Sāriputtova paññāya,"
-msgstr "‘In wisdom,"
+msgid "‘Sāriputtova paññāya, "
+msgstr "‘In wisdom, "
 
 #. <br>
 msgctxt "sn21.3:6.2"
-msgid "sīlena upasamena ca;"
-msgstr "ethics, and peace,"
+msgid "sīlena upasamena ca; "
+msgstr "ethics, and peace, "
 
 #. <br>
 msgctxt "sn21.3:6.3"
-msgid "Yopi pāraṅgato bhikkhu,"
-msgstr "any mendicant who has crossed over"
+msgid "Yopi pāraṅgato bhikkhu, "
+msgstr "any mendicant who has crossed over "
 
 #. <br>
 msgctxt "sn21.3:6.4"
-msgid "etāvaparamo siyā’”ti."
-msgstr "can at best equal Sāriputta.’”"
+msgid "etāvaparamo siyā’”ti. "
+msgstr "can at best equal Sāriputta.’” "
 
-#. </p></blockquote><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p></blockquote><p>
+#. REF: sc7
 msgctxt "sn21.3:7.1"
-msgid "Itiha te ubho mahānāgā aññamaññassa subhāsitaṃ sulapitaṃ samanumodiṃsūti."
-msgstr "And so these two spiritual giants agreed with each others’ fine words."
+msgid "Itiha te ubho mahānāgā aññamaññassa subhāsitaṃ sulapitaṃ samanumodiṃsūti. "
+msgstr "And so these two spiritual giants agreed with each others’ fine words. "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn21.3:7.2"
-msgid "Tatiyaṃ."
+msgid "Tatiyaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

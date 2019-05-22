@@ -2,54 +2,61 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.232"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.232"><article><div class="hgroup"><p class="division">
 msgctxt "an4.232:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an4.232:0.2"
-msgid "24. Kammavagga"
-msgstr "24. Deeds"
+msgid "24. Kammavagga "
+msgstr "24. Deeds "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: paṭhamakammasuttaṃ (bj)
 msgctxt "an4.232:0.3"
-msgid "232. Saṅkhittasutta"
-msgstr "232. Deeds In Brief"
+msgid "232. Saṅkhittasutta "
+msgstr "232. Deeds In Brief "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "an4.232:1.1"
-msgid "“Cattārimāni, bhikkhave, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni."
-msgstr "“Mendicants, I declare these four kinds of deeds, having realized them with my own insight."
+msgid "“Cattārimāni, bhikkhave, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni. "
+msgstr "“Mendicants, I declare these four kinds of deeds, having realized them with my own insight. "
 
 msgctxt "an4.232:1.2"
-msgid "Katamāni cattāri?"
-msgstr "What four?"
+msgid "Katamāni cattāri? "
+msgstr "What four? "
 
+#. HTML: </p><ol><li>
 msgctxt "an4.232:1.3"
-msgid "Atthi, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ;"
-msgstr "There are dark deeds with dark results."
+msgid "Atthi, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ; "
+msgstr "There are dark deeds with dark results. "
 
+#. HTML: </li><li>
 msgctxt "an4.232:1.4"
-msgid "atthi, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ;"
-msgstr "There are bright deeds with bright results."
+msgid "atthi, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ; "
+msgstr "There are bright deeds with bright results. "
 
+#. HTML: </li><li>
 msgctxt "an4.232:1.5"
-msgid "atthi, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ;"
-msgstr "There are dark and bright deeds with dark and bright results."
+msgid "atthi, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ; "
+msgstr "There are dark and bright deeds with dark and bright results. "
 
+#. HTML: </li><li>
 #. VAR: akaṇhaasukkaṃ → akaṇhaṃ asukkaṃ (s1-3) | akaṇhamasukkaṃ (pts1)
 msgctxt "an4.232:1.6"
-msgid "atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati."
-msgstr "There are neither dark nor bright deeds with neither dark nor bright results, which lead to the ending of deeds."
+msgid "atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. "
+msgstr "There are neither dark nor bright deeds with neither dark nor bright results, which lead to the ending of deeds. "
 
+#. HTML: </li></ol><p class="added">
 msgctxt "an4.232:1.7"
-msgid "Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī”ti."
-msgstr "These are the four kinds of deeds that I declare, having realized them with my own insight.”"
+msgid "Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī”ti. "
+msgstr "These are the four kinds of deeds that I declare, having realized them with my own insight.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an4.232:1.8"
-msgid "Paṭhamaṃ."
+msgid "Paṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

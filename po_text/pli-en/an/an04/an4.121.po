@@ -2,155 +2,156 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.121"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.121"><article><div class="hgroup"><p class="division">
 msgctxt "an4.121:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an4.121:0.2"
-msgid "13. Bhayavagga"
-msgstr "13. Fears"
+msgid "13. Bhayavagga "
+msgstr "13. Fears "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: bhayasuttaṃ (bj)
 msgctxt "an4.121:0.3"
-msgid "121. Attānuvādasutta"
-msgstr "121. Guilt"
+msgid "121. Attānuvādasutta "
+msgstr "121. Guilt "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "an4.121:1.1"
-msgid "“Cattārimāni, bhikkhave, bhayāni."
-msgstr "“Mendicants, there are these four fears."
+msgid "“Cattārimāni, bhikkhave, bhayāni. "
+msgstr "“Mendicants, there are these four fears. "
 
 msgctxt "an4.121:1.2"
-msgid "Katamāni cattāri?"
-msgstr "What four?"
+msgid "Katamāni cattāri? "
+msgstr "What four? "
 
 msgctxt "an4.121:1.3"
-msgid "Attānuvādabhayaṃ, parānuvādabhayaṃ, daṇḍabhayaṃ, duggatibhayaṃ."
-msgstr "The fears of guilt, shame, punishment, and going to a bad place."
+msgid "Attānuvādabhayaṃ, parānuvādabhayaṃ, daṇḍabhayaṃ, duggatibhayaṃ. "
+msgstr "The fears of guilt, shame, punishment, and going to a bad place. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an4.121:2.1"
-msgid "Katamañca, bhikkhave, attānuvādabhayaṃ?"
-msgstr "And what, mendicants, is the fear of guilt?"
+msgid "Katamañca, bhikkhave, attānuvādabhayaṃ? "
+msgstr "And what, mendicants, is the fear of guilt? "
 
 msgctxt "an4.121:2.2"
-msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati:"
-msgstr "It’s when someone reflects:"
+msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati: "
+msgstr "It’s when someone reflects: "
 
 #. VAR: ahañceva → ahañce (?)
 #. VAR: kiñca taṃ yaṃ maṃ → kiñca taṃ maṃ (bj) | kiñca maṃ (s1-3, km) | kiñca taṃ kammaṃ (pts1, mr)
 msgctxt "an4.121:2.3"
-msgid "‘ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ, manasā duccaritaṃ careyyaṃ, kiñca taṃ yaṃ maṃ attā sīlato na upavadeyyā’ti."
-msgstr "‘If I were to do bad things by way of body, speech, and mind, wouldn’t I blame myself for my conduct?’"
+msgid "‘ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ, manasā duccaritaṃ careyyaṃ, kiñca taṃ yaṃ maṃ attā sīlato na upavadeyyā’ti. "
+msgstr "‘If I were to do bad things by way of body, speech, and mind, wouldn’t I blame myself for my conduct?’ "
 
 msgctxt "an4.121:2.4"
-msgid "So attānuvādabhayassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati."
-msgstr "Being afraid of guilt, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure."
+msgid "So attānuvādabhayassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati. "
+msgstr "Being afraid of guilt, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. "
 
 msgctxt "an4.121:2.5"
-msgid "Idaṃ vuccati, bhikkhave, attānuvādabhayaṃ."
-msgstr "This is called the fear of guilt."
+msgid "Idaṃ vuccati, bhikkhave, attānuvādabhayaṃ. "
+msgstr "This is called the fear of guilt. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.122"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.122, sc3
 msgctxt "an4.121:3.1"
-msgid "Katamañca, bhikkhave, parānuvādabhayaṃ?"
-msgstr "And what, mendicants, is the fear of shame?"
+msgid "Katamañca, bhikkhave, parānuvādabhayaṃ? "
+msgstr "And what, mendicants, is the fear of shame? "
 
 msgctxt "an4.121:3.2"
-msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati:"
-msgstr "It’s when someone reflects:"
+msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati: "
+msgstr "It’s when someone reflects: "
 
 msgctxt "an4.121:3.3"
-msgid "‘ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ, manasā duccaritaṃ careyyaṃ, kiñca taṃ yaṃ maṃ pare sīlato na upavadeyyun’ti."
-msgstr "‘If I were to do bad things by way of body, speech, and mind, wouldn’t others blame me for my conduct?’"
+msgid "‘ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ, manasā duccaritaṃ careyyaṃ, kiñca taṃ yaṃ maṃ pare sīlato na upavadeyyun’ti. "
+msgstr "‘If I were to do bad things by way of body, speech, and mind, wouldn’t others blame me for my conduct?’ "
 
 msgctxt "an4.121:3.4"
-msgid "So parānuvādabhayassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati."
-msgstr "Being afraid of shame, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure."
+msgid "So parānuvādabhayassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati. "
+msgstr "Being afraid of shame, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. "
 
 msgctxt "an4.121:3.5"
-msgid "Idaṃ vuccati, bhikkhave, parānuvādabhayaṃ."
-msgstr "This is called the fear of shame."
+msgid "Idaṃ vuccati, bhikkhave, parānuvādabhayaṃ. "
+msgstr "This is called the fear of shame. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "an4.121:4.1"
-msgid "Katamañca, bhikkhave, daṇḍabhayaṃ?"
-msgstr "And what, mendicants, is the fear of punishment?"
+msgid "Katamañca, bhikkhave, daṇḍabhayaṃ? "
+msgstr "And what, mendicants, is the fear of punishment? "
 
 msgctxt "an4.121:4.2"
 msgid "Idha, bhikkhave, ekacco passati coraṃ āgucāriṃ, rājāno gahetvā vividhā kammakāraṇā kārente, "
 msgstr "It’s when someone sees that the kings have arrested a bandit, a criminal, and subjected them to various punishments—"
 
 msgctxt "an4.121:4.3"
-msgid "kasāhipi tāḷente, vettehipi tāḷente, addhadaṇḍakehipi tāḷente, hatthampi chindante, pādampi chindante, hatthapādampi chindante, kaṇṇampi chindante, nāsampi chindante, kaṇṇanāsampi chindante, bilaṅgathālikampi karonte, saṅkhamuṇḍikampi karonte, rāhumukhampi karonte, jotimālikampi karonte, hatthapajjotikampi karonte, erakavattikampi karonte, cīrakavāsikampi karonte, eṇeyyakampi karonte, balisamaṃsikampi karonte, kahāpaṇakampi karonte, khārāpatacchikampi karonte, palighaparivattikampi karonte, palālapīṭhakampi karonte, tattenapi telena osiñcante, sunakhehipi khādāpente, jīvantampi sūle uttāsente, asināpi sīsaṃ chindante."
-msgstr "whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded."
+msgid "kasāhipi tāḷente, vettehipi tāḷente, addhadaṇḍakehipi tāḷente, hatthampi chindante, pādampi chindante, hatthapādampi chindante, kaṇṇampi chindante, nāsampi chindante, kaṇṇanāsampi chindante, bilaṅgathālikampi karonte, saṅkhamuṇḍikampi karonte, rāhumukhampi karonte, jotimālikampi karonte, hatthapajjotikampi karonte, erakavattikampi karonte, cīrakavāsikampi karonte, eṇeyyakampi karonte, balisamaṃsikampi karonte, kahāpaṇakampi karonte, khārāpatacchikampi karonte, palighaparivattikampi karonte, palālapīṭhakampi karonte, tattenapi telena osiñcante, sunakhehipi khādāpente, jīvantampi sūle uttāsente, asināpi sīsaṃ chindante. "
+msgstr "whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "an4.121:5.1"
-msgid "Tassa evaṃ hoti:"
-msgstr "They think:"
+msgid "Tassa evaṃ hoti: "
+msgstr "They think: "
 
 msgctxt "an4.121:5.2"
-msgid "‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārenti, kasāhipi tāḷenti … pe … asināpi sīsaṃ chindanti, ahañceva kho pana evarūpaṃ pāpakammaṃ kareyyaṃ, mampi rājāno gahetvā evarūpā vividhā kammakāraṇā kāreyyuṃ, kasāhipi tāḷeyyuṃ, vettehipi tāḷeyyuṃ, addhadaṇḍakehipi tāḷeyyuṃ, hatthampi chindeyyuṃ, pādampi chindeyyuṃ, hatthapādampi chindeyyuṃ, kaṇṇampi chindeyyuṃ, nāsampi chindeyyuṃ, kaṇṇanāsampi chindeyyuṃ, bilaṅgathālikampi kareyyuṃ, saṅkhamuṇḍikampi kareyyuṃ;"
-msgstr "‘If I were to do the same kind of bad deed, the kings would punish me in the same way.’ …"
+msgid "‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārenti, kasāhipi tāḷenti … pe … asināpi sīsaṃ chindanti, ahañceva kho pana evarūpaṃ pāpakammaṃ kareyyaṃ, mampi rājāno gahetvā evarūpā vividhā kammakāraṇā kāreyyuṃ, kasāhipi tāḷeyyuṃ, vettehipi tāḷeyyuṃ, addhadaṇḍakehipi tāḷeyyuṃ, hatthampi chindeyyuṃ, pādampi chindeyyuṃ, hatthapādampi chindeyyuṃ, kaṇṇampi chindeyyuṃ, nāsampi chindeyyuṃ, kaṇṇanāsampi chindeyyuṃ, bilaṅgathālikampi kareyyuṃ, saṅkhamuṇḍikampi kareyyuṃ; "
+msgstr "‘If I were to do the same kind of bad deed, the kings would punish me in the same way.’ … "
 
 msgctxt "an4.121:5.3"
-msgid "rāhumukhampi kareyyuṃ, jotimālikampi kareyyuṃ, hatthapajjotikampi kareyyuṃ, erakavattikampi kareyyuṃ, cīrakavāsikampi kareyyuṃ, eṇeyyakampi kareyyuṃ, balisamaṃsikampi kareyyuṃ, kahāpaṇakampi kareyyuṃ, khārāpatacchikampi kareyyuṃ, palighaparivattikampi kareyyuṃ, palālapīṭhakampi kareyyuṃ, tattenapi telena osiñceyyuṃ, sunakhehipi khādāpeyyuṃ, jīvantampi sūle uttāseyyuṃ, asināpi sīsaṃ chindeyyun’ti."
-msgstr ""
+msgid "rāhumukhampi kareyyuṃ, jotimālikampi kareyyuṃ, hatthapajjotikampi kareyyuṃ, erakavattikampi kareyyuṃ, cīrakavāsikampi kareyyuṃ, eṇeyyakampi kareyyuṃ, balisamaṃsikampi kareyyuṃ, kahāpaṇakampi kareyyuṃ, khārāpatacchikampi kareyyuṃ, palighaparivattikampi kareyyuṃ, palālapīṭhakampi kareyyuṃ, tattenapi telena osiñceyyuṃ, sunakhehipi khādāpeyyuṃ, jīvantampi sūle uttāseyyuṃ, asināpi sīsaṃ chindeyyun’ti. "
+msgstr " "
 
 msgctxt "an4.121:5.4"
-msgid "So daṇḍabhayassa bhīto na paresaṃ pābhataṃ vilumpanto carati."
-msgstr "Being afraid of punishment, they don’t steal the belongings of others."
+msgid "So daṇḍabhayassa bhīto na paresaṃ pābhataṃ vilumpanto carati. "
+msgstr "Being afraid of punishment, they don’t steal the belongings of others. "
 
 msgctxt "an4.121:5.5"
-msgid "Kāyaduccaritaṃ pahāya … pe … suddhaṃ attānaṃ pariharati."
-msgstr "They give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure."
+msgid "Kāyaduccaritaṃ pahāya … pe … suddhaṃ attānaṃ pariharati. "
+msgstr "They give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. "
 
 msgctxt "an4.121:5.6"
-msgid "Idaṃ vuccati, bhikkhave, daṇḍabhayaṃ."
-msgstr "This is called the fear of punishment."
+msgid "Idaṃ vuccati, bhikkhave, daṇḍabhayaṃ. "
+msgstr "This is called the fear of punishment. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.123"></a>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.123, sc6
 msgctxt "an4.121:6.1"
-msgid "Katamañca, bhikkhave, duggatibhayaṃ?"
-msgstr "And what, mendicants, is the fear of rebirth in a bad place?"
+msgid "Katamañca, bhikkhave, duggatibhayaṃ? "
+msgstr "And what, mendicants, is the fear of rebirth in a bad place? "
 
 msgctxt "an4.121:6.2"
-msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati:"
-msgstr "It’s when someone reflects:"
+msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati: "
+msgstr "It’s when someone reflects: "
 
 msgctxt "an4.121:6.3"
-msgid "‘kāyaduccaritassa kho pāpako vipāko abhisamparāyaṃ, vacīduccaritassa pāpako vipāko abhisamparāyaṃ, manoduccaritassa pāpako vipāko abhisamparāyaṃ."
-msgstr "‘Bad conduct of body, speech, or mind has a bad result in the next life."
+msgid "‘kāyaduccaritassa kho pāpako vipāko abhisamparāyaṃ, vacīduccaritassa pāpako vipāko abhisamparāyaṃ, manoduccaritassa pāpako vipāko abhisamparāyaṃ. "
+msgstr "‘Bad conduct of body, speech, or mind has a bad result in the next life. "
 
 msgctxt "an4.121:6.4"
-msgid "Ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ, manasā duccaritaṃ careyyaṃ, kiñca taṃ yāhaṃ na kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyyan’ti."
-msgstr "If I were to do such bad things, when my body breaks up, after death, I’d be reborn in a place of loss, a bad place, the underworld, hell.’"
+msgid "Ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ, manasā duccaritaṃ careyyaṃ, kiñca taṃ yāhaṃ na kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyyan’ti. "
+msgstr "If I were to do such bad things, when my body breaks up, after death, I’d be reborn in a place of loss, a bad place, the underworld, hell.’ "
 
 msgctxt "an4.121:6.5"
-msgid "So duggatibhayassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati."
-msgstr "Being afraid of rebirth in a bad place, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure."
+msgid "So duggatibhayassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati. "
+msgstr "Being afraid of rebirth in a bad place, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. "
 
 msgctxt "an4.121:6.6"
-msgid "Idaṃ vuccati, bhikkhave, duggatibhayaṃ."
-msgstr "This is called the fear of rebirth in a bad place."
+msgid "Idaṃ vuccati, bhikkhave, duggatibhayaṃ. "
+msgstr "This is called the fear of rebirth in a bad place. "
 
+#. HTML: </p><p class="added">
 msgctxt "an4.121:6.7"
-msgid "Imāni kho, bhikkhave, cattāri bhayānī”ti."
-msgstr "These are the four fears.”"
+msgid "Imāni kho, bhikkhave, cattāri bhayānī”ti. "
+msgstr "These are the four fears.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an4.121:6.8"
-msgid "Paṭhamaṃ."
+msgid "Paṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

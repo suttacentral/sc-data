@@ -2,92 +2,95 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn45.7"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn45.7"><article><div class="hgroup"><p class="division">
 msgctxt "sn45.7:0.1"
-msgid "Saṃyutta Nikāya 45"
-msgstr "Linked Discourses 45"
+msgid "Saṃyutta Nikāya 45 "
+msgstr "Linked Discourses 45 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn45.7:0.2"
-msgid "1. Avijjāvagga"
-msgstr "1. Ignorance"
+msgid "1. Avijjāvagga "
+msgstr "1. Ignorance "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 7. Dutiyaaññatarabhikkhusutta → dutiyabhikkhusuttaṃ (bj) | aññataro bhikkhu 2 (pts1)
 msgctxt "sn45.7:0.3"
-msgid "7. Dutiyaaññatarabhikkhusutta"
-msgstr "7. A Mendicant (2nd)"
+msgid "7. Dutiyaaññatarabhikkhusutta "
+msgstr "7. A Mendicant (2nd) "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn45.7:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn45.7:1.2"
-msgid "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami … pe … ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:"
-msgstr "Then a mendicant went up to the Buddha … and said to him:"
+msgid "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami … pe … ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca: "
+msgstr "Then a mendicant went up to the Buddha … and said to him: "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn45.7:2.1"
-msgid "“‘Rāgavinayo dosavinayo mohavinayo’ti, bhante, vuccati."
-msgstr "“Sir, they speak of ‘the removal of greed, hate, and delusion’."
+msgid "“‘Rāgavinayo dosavinayo mohavinayo’ti, bhante, vuccati. "
+msgstr "“Sir, they speak of ‘the removal of greed, hate, and delusion’. "
 
 msgctxt "sn45.7:2.2"
-msgid "Kissa nu kho etaṃ, bhante, adhivacanaṃ:"
-msgstr "What is this a term for?”"
+msgid "Kissa nu kho etaṃ, bhante, adhivacanaṃ: "
+msgstr "What is this a term for?” "
 
 msgctxt "sn45.7:2.3"
-msgid "‘rāgavinayo dosavinayo mohavinayo’”ti?"
-msgstr ""
+msgid "‘rāgavinayo dosavinayo mohavinayo’”ti? "
+msgstr " "
 
-#. </p><p class="added">
-msgctxt "sn45.7:2.4
-msgid "“Nibbānadhātuyā kho etaṃ, bhikkhu, adhivacanaṃ:"
-msgstr "“Mendicant, the removal of greed, hate, and delusion is a term for the natural principle of extinguishment."
+#. HTML: </p><p class="added">
+msgctxt "sn45.7:2.4"
+msgid "“Nibbānadhātuyā kho etaṃ, bhikkhu, adhivacanaṃ: "
+msgstr "“Mendicant, the removal of greed, hate, and delusion is a term for the natural principle of extinguishment. "
 
 msgctxt "sn45.7:2.5"
-msgid "‘rāgavinayo dosavinayo mohavinayo’ti."
-msgstr ""
+msgid "‘rāgavinayo dosavinayo mohavinayo’ti. "
+msgstr " "
 
 msgctxt "sn45.7:2.6"
-msgid "Āsavānaṃ khayo tena vuccatī”ti."
-msgstr "It’s used to speak of the ending of defilements.”"
+msgid "Āsavānaṃ khayo tena vuccatī”ti. "
+msgstr "It’s used to speak of the ending of defilements.” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn45.7:3.1"
-msgid "Evaṃ vutte, so bhikkhu bhagavantaṃ etadavoca:"
-msgstr "When he said this, the mendicant said to the Buddha:"
+msgid "Evaṃ vutte, so bhikkhu bhagavantaṃ etadavoca: "
+msgstr "When he said this, the mendicant said to the Buddha: "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn45.7:3.2"
-msgid "“‘amataṃ, amatan’ti, bhante, vuccati."
-msgstr "“Sir, they speak of ‘the deathless’."
+msgid "“‘amataṃ, amatan’ti, bhante, vuccati. "
+msgstr "“Sir, they speak of ‘the deathless’. "
 
 msgctxt "sn45.7:3.3"
-msgid "Katamaṃ nu kho, bhante, amataṃ, katamo amatagāmimaggo”ti?"
-msgstr "What is the deathless? And what is the path that leads to the deathless?”"
+msgid "Katamaṃ nu kho, bhante, amataṃ, katamo amatagāmimaggo”ti? "
+msgstr "What is the deathless? And what is the path that leads to the deathless?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn45.7:3.4"
 msgid "“Yo kho, bhikkhu, rāgakkhayo dosakkhayo mohakkhayo—"
-msgstr "“The ending of greed, hate, and delusion."
+msgstr "“The ending of greed, hate, and delusion. "
 
 msgctxt "sn45.7:3.5"
-msgid "idaṃ vuccati amataṃ."
-msgstr "This is called the deathless."
+msgid "idaṃ vuccati amataṃ. "
+msgstr "This is called the deathless. "
 
 msgctxt "sn45.7:3.6"
 msgid "Ayameva ariyo aṭṭhaṅgiko maggo amatagāmimaggo, seyyathidaṃ—"
-msgstr "The path that leads to the deathless is simply this noble eightfold path, that is:"
+msgstr "The path that leads to the deathless is simply this noble eightfold path, that is: "
 
 msgctxt "sn45.7:3.7"
-msgid "sammādiṭṭhi … pe … sammāsamādhī”ti."
-msgstr "right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.”"
+msgid "sammādiṭṭhi … pe … sammāsamādhī”ti. "
+msgstr "right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn45.7:3.8"
-msgid "Sattamaṃ."
+msgid "Sattamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

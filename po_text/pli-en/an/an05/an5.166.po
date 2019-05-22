@@ -2,367 +2,371 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an5.166"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an5.166"><article><div class="hgroup"><p class="division">
 msgctxt "an5.166:0.1"
-msgid "Aṅguttara Nikāya 5"
-msgstr "Numbered Discourses 5"
+msgid "Aṅguttara Nikāya 5 "
+msgstr "Numbered Discourses 5 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an5.166:0.2"
-msgid "17. Āghātavagga"
-msgstr "17. Resentment"
+msgid "17. Āghātavagga "
+msgstr "17. Resentment "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an5.166:0.3"
-msgid "166. Nirodhasutta"
-msgstr "166. Cessation"
+msgid "166. Nirodhasutta "
+msgstr "166. Cessation "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 #. VAR: samāpajjeyyāpi vuṭṭhaheyyāpi → samāpajjeyyapi vuṭṭhaheyyapi (bj, s1-3, km, pts1)
 msgctxt "an5.166:1.1"
-msgid "Tatra kho āyasmā sāriputto bhikkhū āmantesi … pe … “idhāvuso, bhikkhu sīlasampanno samādhisampanno paññāsampanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "There Venerable Sāriputta addressed the mendicants: … “Reverends, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling."
+msgid "Tatra kho āyasmā sāriputto bhikkhū āmantesi … pe … "
+msgstr "There Venerable Sāriputta addressed the mendicants: "
 
+#. HTML: </p><p>
 msgctxt "an5.166:1.2"
-msgid "atthetaṃ ṭhānaṃ."
-msgstr "That is possible."
+msgid "“idhāvuso, bhikkhu sīlasampanno samādhisampanno paññāsampanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
+msgstr "“Reverends, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. "
 
-# The phrase manomayaṃ kāyaṃ upapanno is difficult. manomayaṃ kāyaṃ normally means “mind-made body”, but kāyaṃ upapanno means “reborn in a order (of gods), i.e. realm.” BB translates inconsistently, using “group of mind-made [deities]” here, but “in a mind-made body” at AN 11.13.
-#. VAR: kabaḷīkārāhārabhakkhānaṃ → kabaḷiṃkārāhārabhakkhānaṃ (bj, s1, km, pts1) | kabaliṃ kārāhārabhakkhānaṃ (s2, s3)
 msgctxt "an5.166:1.3"
-msgid "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "If they don’t reach enlightenment in this very life, then, surpassing the company of gods that consume solid food, they’re reborn in a certain host of mind-made gods. There they might enter into and emerge from the cessation of perception and feeling."
+msgid "atthetaṃ ṭhānaṃ. "
+msgstr "That is possible. "
 
+# NOTE: The phrase manomayaṃ kāyaṃ upapanno is difficult. manomayaṃ kāyaṃ normally means “mind-made body”, but kāyaṃ upapanno means “reborn in a order (of gods), i.e. realm.” BB translates inconsistently, using “group of mind-made [deities]” here, but “in a mind-made body” at AN 11.13.
+#. VAR: kabaḷīkārāhārabhakkhānaṃ → kabaḷiṃkārāhārabhakkhānaṃ (bj, s1, km, pts1) | kabaliṃ kārāhārabhakkhānaṃ (s2, s3)
 msgctxt "an5.166:1.4"
-msgid "atthetaṃ ṭhānan”ti."
-msgstr "That is possible.”"
+msgid "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
+msgstr "If they don’t reach enlightenment in this very life, then, surpassing the company of gods that consume solid food, they’re reborn in a certain host of mind-made gods. There they might enter into and emerge from the cessation of perception and feeling. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+msgctxt "an5.166:1.5"
+msgid "atthetaṃ ṭhānan”ti. "
+msgstr "That is possible.” "
+
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an5.166:2.1"
-msgid "Evaṃ vutte, āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca:"
-msgstr "When he said this, Venerable Udāyī said to him:"
+msgid "Evaṃ vutte, āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca: "
+msgstr "When he said this, Venerable Udāyī said to him, "
 
-#. </p><p class="added">
 msgctxt "an5.166:2.2"
 msgid "“aṭṭhānaṃ kho etaṃ, āvuso sāriputta, anavakāso yaṃ so bhikkhu atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "“This is not possible, Reverend Sāriputta, it cannot happen!”"
+msgstr "“This is not possible, Reverend Sāriputta, it cannot happen!” "
 
 msgctxt "an5.166:2.3"
-msgid "natthetaṃ ṭhānan”ti."
-msgstr ""
+msgid "natthetaṃ ṭhānan”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.193"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli3.193, sc3
 msgctxt "an5.166:3.1"
-msgid "Dutiyampi kho … pe … tatiyampi kho āyasmā sāriputto bhikkhū āmantesi:"
-msgstr "But for a second … and a third time Sāriputta repeated his statement."
+msgid "Dutiyampi kho … pe … tatiyampi kho āyasmā sāriputto bhikkhū āmantesi: "
+msgstr "But for a second … and a third time Sāriputta repeated his statement. "
 
 msgctxt "an5.166:3.2"
 msgid "“idhāvuso, bhikkhu sīlasampanno samādhisampanno paññāsampanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr ""
+msgstr " "
 
 msgctxt "an5.166:3.3"
-msgid "atthetaṃ ṭhānaṃ."
-msgstr ""
+msgid "atthetaṃ ṭhānaṃ. "
+msgstr " "
 
 msgctxt "an5.166:3.4"
 msgid "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr ""
+msgstr " "
 
 msgctxt "an5.166:3.5"
-msgid "atthetaṃ ṭhānan”ti."
-msgstr ""
+msgid "atthetaṃ ṭhānan”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "an5.166:4.1"
-msgid "Tatiyampi kho āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca:"
-msgstr "And for a third time, Udāyī said to him:"
+msgid "Tatiyampi kho āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca: "
+msgstr "And for a third time, Udāyī said to him, "
 
-#. </p><p class="added">
 msgctxt "an5.166:4.2"
 msgid "“aṭṭhānaṃ kho etaṃ, āvuso sāriputta, anavakāso yaṃ so bhikkhu atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "“This is not possible, Reverend Sāriputta, it cannot happen!”"
+msgstr "“This is not possible, Reverend Sāriputta, it cannot happen!” "
 
 msgctxt "an5.166:4.3"
-msgid "natthetaṃ ṭhānan”ti."
-msgstr ""
+msgid "natthetaṃ ṭhānan”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "an5.166:5.1"
-msgid "Atha kho āyasmato sāriputtassa etadahosi:"
-msgstr "Then Venerable Sāriputta thought:"
+msgid "Atha kho āyasmato sāriputtassa etadahosi: "
+msgstr "Then Venerable Sāriputta thought, "
 
-#. </p><p class="added">
 #. VAR: yāvatatiyakampi → yāvatatiyampi (bj, s1-3, pts1)
 msgctxt "an5.166:5.2"
-msgid "“yāvatatiyakampi kho me āyasmā udāyī paṭikkosati, na ca me koci bhikkhu anumodati."
-msgstr "“Venerable Udāyī disagrees with me three times, and not one mendicant agrees with me."
+msgid "“yāvatatiyakampi kho me āyasmā udāyī paṭikkosati, na ca me koci bhikkhu anumodati. "
+msgstr "“Venerable Udāyī disagrees with me three times, and not one mendicant agrees with me. "
 
 msgctxt "an5.166:5.3"
-msgid "Yannūnāhaṃ yena bhagavā tenupasaṅkameyyan”ti."
-msgstr "Why don’t I go to see the Buddha?”"
+msgid "Yannūnāhaṃ yena bhagavā tenupasaṅkameyyan”ti. "
+msgstr "Why don’t I go to see the Buddha?” "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:5.4"
-msgid "Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi."
-msgstr "Then Sāriputta went up to the Buddha, bowed, sat down to one side,"
+msgid "Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. "
+msgstr "Then Sāriputta went up to the Buddha, bowed, sat down to one side, "
 
 msgctxt "an5.166:5.5"
-msgid "Ekamantaṃ nisinno kho āyasmā sāriputto bhikkhū āmantesi:"
-msgstr "and said to the mendicants:"
+msgid "Ekamantaṃ nisinno kho āyasmā sāriputto bhikkhū āmantesi: "
+msgstr "and said to the mendicants: "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an5.166:5.6"
 msgid "“idhāvuso, bhikkhu sīlasampanno samādhisampanno paññāsampanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "“Reverends, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling."
+msgstr "“Reverends, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. "
 
 msgctxt "an5.166:5.7"
-msgid "atthetaṃ ṭhānaṃ."
-msgstr "There is such a possibility."
+msgid "atthetaṃ ṭhānaṃ. "
+msgstr "There is such a possibility. "
 
 msgctxt "an5.166:5.8"
 msgid "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling."
+msgstr "If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling. "
 
 msgctxt "an5.166:5.9"
-msgid "atthetaṃ ṭhānan”ti."
-msgstr "That is possible.”"
+msgid "atthetaṃ ṭhānan”ti. "
+msgstr "That is possible.” "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "an5.166:6.1"
-msgid "Evaṃ vutte, āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca:"
-msgstr "When he said this, Udāyī said to him:"
+msgid "Evaṃ vutte, āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca: "
+msgstr "When he said this, Udāyī said to him, "
 
-#. </p><p class="added">
 msgctxt "an5.166:6.2"
 msgid "“aṭṭhānaṃ kho etaṃ, āvuso sāriputta, anavakāso yaṃ so bhikkhu atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "“This is not possible, Reverend Sāriputta, it cannot happen!”"
+msgstr "“This is not possible, Reverend Sāriputta, it cannot happen!” "
 
 msgctxt "an5.166:6.3"
-msgid "natthetaṃ ṭhānan”ti."
-msgstr ""
+msgid "natthetaṃ ṭhānan”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.194"></a>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli3.194, sc7
 msgctxt "an5.166:7.1"
-msgid "Dutiyampi kho … pe … tatiyampi kho āyasmā sāriputto bhikkhū āmantesi:"
-msgstr "But for a second … and a third time Sāriputta repeated his statement."
+msgid "Dutiyampi kho … pe … tatiyampi kho āyasmā sāriputto bhikkhū āmantesi: "
+msgstr "But for a second … and a third time Sāriputta repeated his statement. "
 
 msgctxt "an5.166:7.2"
 msgid "“idhāvuso, bhikkhu sīlasampanno samādhisampanno paññāsampanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr ""
+msgstr " "
 
 msgctxt "an5.166:7.3"
-msgid "atthetaṃ ṭhānaṃ."
-msgstr ""
+msgid "atthetaṃ ṭhānaṃ. "
+msgstr " "
 
 msgctxt "an5.166:7.4"
 msgid "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr ""
+msgstr " "
 
 msgctxt "an5.166:7.5"
-msgid "atthetaṃ ṭhānan”ti."
-msgstr ""
+msgid "atthetaṃ ṭhānan”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </p><p>
+#. REF: sc8
 msgctxt "an5.166:8.1"
-msgid "Tatiyampi kho āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca:"
-msgstr "And for a third time, Udāyī said to him:"
+msgid "Tatiyampi kho āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca: "
+msgstr "And for a third time, Udāyī said to him, "
 
-#. </p><p class="added">
 msgctxt "an5.166:8.2"
 msgid "“aṭṭhānaṃ kho etaṃ, āvuso sāriputta, anavakāso yaṃ so bhikkhu atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "“This is not possible, Reverend Sāriputta, it cannot happen!”"
+msgstr "“This is not possible, Reverend Sāriputta, it cannot happen!” "
 
 msgctxt "an5.166:8.3"
-msgid "natthetaṃ ṭhānan”ti."
-msgstr ""
+msgid "natthetaṃ ṭhānan”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc9"></a>
+#. HTML: </p><p>
+#. REF: sc9
 msgctxt "an5.166:9.1"
-msgid "Atha kho āyasmato sāriputtassa etadahosi:"
-msgstr "Then Venerable Sāriputta thought:"
+msgid "Atha kho āyasmato sāriputtassa etadahosi: "
+msgstr "Then Venerable Sāriputta thought, "
 
-#. </p><p class="added">
 msgctxt "an5.166:9.2"
-msgid "“bhagavatopi kho me sammukhā āyasmā udāyī yāvatatiyakaṃ paṭikkosati, na ca me koci bhikkhu anumodati."
-msgstr "“Even in front of the Buddha Venerable Udāyī disagrees with me three times, and not one mendicant agrees with me."
+msgid "“bhagavatopi kho me sammukhā āyasmā udāyī yāvatatiyakaṃ paṭikkosati, na ca me koci bhikkhu anumodati. "
+msgstr "“Even in front of the Buddha Venerable Udāyī disagrees with me three times, and not one mendicant agrees with me. "
 
 msgctxt "an5.166:9.3"
-msgid "Yannūnāhaṃ tuṇhī assan”ti."
-msgstr "I’d better stay silent.”"
+msgid "Yannūnāhaṃ tuṇhī assan”ti. "
+msgstr "I’d better stay silent.” "
 
 msgctxt "an5.166:9.4"
-msgid "Atha kho āyasmā sāriputto tuṇhī ahosi."
-msgstr "Then Sāriputta fell silent."
+msgid "Atha kho āyasmā sāriputto tuṇhī ahosi. "
+msgstr "Then Sāriputta fell silent. "
 
-#. </p><p>
-#. <a class="sc" id="sc10"></a>
+#. HTML: </p><p>
+#. REF: sc10
 msgctxt "an5.166:10.1"
-msgid "Atha kho bhagavā āyasmantaṃ udāyiṃ āmantesi:"
-msgstr "Then the Buddha said to Venerable Udāyī:"
+msgid "Atha kho bhagavā āyasmantaṃ udāyiṃ āmantesi: "
+msgstr "Then the Buddha said to Venerable Udāyī, "
 
-#. </p><p class="added">
 msgctxt "an5.166:10.2"
-msgid "“kaṃ pana tvaṃ, udāyi, manomayaṃ kāyaṃ paccesī”ti?"
-msgstr "“But Udāyī, do you believe in a mind-made body?”"
+msgid "“kaṃ pana tvaṃ, udāyi, manomayaṃ kāyaṃ paccesī”ti? "
+msgstr "“But Udāyī, do you believe in a mind-made body?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an5.166:10.3"
-msgid "“Ye te, bhante, devā arūpino saññāmayā”ti."
-msgstr "“Those gods, sir, who are formless, made of perception.”"
+msgid "“Ye te, bhante, devā arūpino saññāmayā”ti. "
+msgstr "“For those gods, sir, who are formless, made of perception.” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an5.166:10.4"
-msgid "“Kiṃ nu kho tuyhaṃ, udāyi, bālassa abyattassa bhaṇitena."
-msgstr "“Udāyī, what has an incompetent fool like you got to say?"
+msgid "“Kiṃ nu kho tuyhaṃ, udāyi, bālassa abyattassa bhaṇitena. "
+msgstr "“Udāyī, what has an incompetent fool like you got to say? "
 
 msgctxt "an5.166:10.5"
-msgid "Tvampi nāma bhaṇitabbaṃ maññasī”ti."
-msgstr "How on earth could you imagine you’ve got something worth saying!”"
+msgid "Tvampi nāma bhaṇitabbaṃ maññasī”ti. "
+msgstr "How on earth could you imagine you’ve got something worth saying!” "
 
-#. </p><p>
-#. <a class="sc" id="sc11"></a>
+#. HTML: </p><p>
+#. REF: sc11
 msgctxt "an5.166:11.1"
-msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi:"
-msgstr "Then the Buddha said to Venerable Ānanda:"
+msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi: "
+msgstr "Then the Buddha said to Venerable Ānanda, "
 
 msgctxt "an5.166:11.2"
-msgid "“atthi nāma, ānanda, theraṃ bhikkhuṃ vihesiyamānaṃ ajjhupekkhissatha."
-msgstr "“Ānanda! There’s a senior mendicant being harassed, and you just watch it happening."
+msgid "“atthi nāma, ānanda, theraṃ bhikkhuṃ vihesiyamānaṃ ajjhupekkhissatha. "
+msgstr "“Ānanda! There’s a senior mendicant being harassed, and you just watch it happening. "
 
 #. VAR: theramhi → byattamhi (s1-3, km, mr)
 msgctxt "an5.166:11.3"
-msgid "Na hi nāma, ānanda, kāruññampi bhavissati theramhi bhikkhumhi vihesiyamānamhī”ti."
-msgstr "Don’t you have any compassion for a senior mendicant who is being harassed?”"
+msgid "Na hi nāma, ānanda, kāruññampi bhavissati theramhi bhikkhumhi vihesiyamānamhī”ti. "
+msgstr "Don’t you have any compassion for a senior mendicant who is being harassed?” "
 
-#. </p><p>
-#. <a class="sc" id="sc12"></a>
+#. HTML: </p><p>
+#. REF: sc12
 msgctxt "an5.166:12.1"
-msgid "Atha kho bhagavā bhikkhū āmantesi:"
-msgstr "Then the Buddha addressed the mendicants:"
+msgid "Atha kho bhagavā bhikkhū āmantesi: "
+msgstr "Then the Buddha addressed the mendicants: "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:12.2"
 msgid "“idha, bhikkhave, bhikkhu sīlasampanno samādhisampanno paññāsampanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "“Mendicants, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling."
+msgstr "“Mendicants, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. "
 
 msgctxt "an5.166:12.3"
-msgid "atthetaṃ ṭhānaṃ."
-msgstr "That is possible."
+msgid "atthetaṃ ṭhānaṃ. "
+msgstr "That is possible. "
 
 msgctxt "an5.166:12.4"
 msgid "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—"
-msgstr "If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling."
+msgstr "If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling. "
 
 msgctxt "an5.166:12.5"
-msgid "atthetaṃ ṭhānan”ti."
-msgstr "That is possible.”"
+msgid "atthetaṃ ṭhānan”ti. "
+msgstr "That is possible.” "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:12.6"
-msgid "Idamavoca bhagavā."
-msgstr "That is what the Buddha said."
+msgid "Idamavoca bhagavā. "
+msgstr "That is what the Buddha said. "
 
 msgctxt "an5.166:12.7"
-msgid "Idaṃ vatvāna sugato uṭṭhāyāsanā vihāraṃ pāvisi."
-msgstr "When he had spoken, the Holy One got up from his seat and entered his dwelling."
+msgid "Idaṃ vatvāna sugato uṭṭhāyāsanā vihāraṃ pāvisi. "
+msgstr "When he had spoken, the Holy One got up from his seat and entered his dwelling. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.195"></a>
-#. <a class="sc" id="sc13"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli3.195, sc13
 msgctxt "an5.166:13.1"
-msgid "Atha kho āyasmā ānando acirapakkantassa bhagavato yenāyasmā upavāṇo tenupasaṅkami; upasaṅkamitvā āyasmantaṃ upavāṇaṃ etadavoca:"
-msgstr "Then, not long after the Buddha had left, Venerable Ānanda went to Venerable Upavāṇa and said to him:"
+msgid "Atha kho āyasmā ānando acirapakkantassa bhagavato yenāyasmā upavāṇo tenupasaṅkami; upasaṅkamitvā āyasmantaṃ upavāṇaṃ etadavoca: "
+msgstr "Then, not long after the Buddha had left, Venerable Ānanda went to Venerable Upavāṇa and said to him, "
 
-#. </p><p class="added">
 msgctxt "an5.166:13.2"
-msgid "“idhāvuso upavāṇa, aññe there bhikkhū vihesenti."
-msgstr "“Reverend Upavāṇa, they’ve been harassing other senior mendicants,"
+msgid "“idhāvuso upavāṇa, aññe there bhikkhū vihesenti. "
+msgstr "“Reverend Upavāṇa, they’ve been harassing other senior mendicants, "
 
-# reading pucchama, see BB.
+# NOTE: reading pucchama, see BB.
 msgctxt "an5.166:13.3"
-msgid "Mayaṃ tena na muccāma."
-msgstr "but I didn’t question them."
+msgid "Mayaṃ tena na muccāma. "
+msgstr "but I didn’t question them. "
 
 msgctxt "an5.166:13.4"
-msgid "Anacchariyaṃ kho, panetaṃ āvuso upavāṇa, yaṃ bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito etadeva ārabbha udāhareyya yathā āyasmantaṃyevettha upavāṇaṃ paṭibhāseyya."
-msgstr "I wouldn’t be surprised if the Buddha makes a statement about this when he comes out of retreat later this afternoon. He might even call upon Venerable Upavāṇa himself."
+msgid "Anacchariyaṃ kho, panetaṃ āvuso upavāṇa, yaṃ bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito etadeva ārabbha udāhareyya yathā āyasmantaṃyevettha upavāṇaṃ paṭibhāseyya. "
+msgstr "I wouldn’t be surprised if the Buddha makes a statement about this when he comes out of retreat later this afternoon. He might even call upon Venerable Upavāṇa himself. "
 
 msgctxt "an5.166:13.5"
-msgid "Idāneva amhākaṃ sārajjaṃ okkantan”ti."
-msgstr "And right now I feel timid.”"
+msgid "Idāneva amhākaṃ sārajjaṃ okkantan”ti. "
+msgstr "And right now I feel timid.” "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:13.6"
-msgid "Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā āyasmantaṃ upavāṇaṃ etadavoca:"
-msgstr "Then in the late afternoon, the Buddha came out of retreat and went to the assembly hall, where he sat on the seat spread out, and said to Upavāṇa:"
+msgid "Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā āyasmantaṃ upavāṇaṃ etadavoca: "
+msgstr "Then in the late afternoon, the Buddha came out of retreat and went to the assembly hall, where he sat on the seat spread out, and said to Upavāṇa, "
 
-#. </p><p>
-#. <a class="sc" id="sc14"></a>
+#. REF: sc14
 msgctxt "an5.166:14.1"
-msgid "“Katihi nu kho, upavāṇa, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti?"
-msgstr "“Upavāṇa, how many qualities should a senior mendicant have to be dear and beloved to their spiritual companions, respected and admired?”"
+msgid "“Katihi nu kho, upavāṇa, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti? "
+msgstr "“Upavāṇa, how many qualities should a senior mendicant have to be dear and beloved to their spiritual companions, respected and admired?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "an5.166:14.2"
-msgid "“Pañcahi, bhante, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca."
-msgstr "“Sir, a senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired."
+msgid "“Pañcahi, bhante, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca. "
+msgstr "“Sir, a senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired. "
 
 msgctxt "an5.166:14.3"
-msgid "Katamehi pañcahi?"
-msgstr "What five?"
+msgid "Katamehi pañcahi? "
+msgstr "What five? "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:14.4"
-msgid "Idha, bhante, thero bhikkhu sīlavā hoti … pe … samādāya sikkhati sikkhāpadesu;"
-msgstr "It’s when a mendicant is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
+msgid "Idha, bhante, thero bhikkhu sīlavā hoti … pe … samādāya sikkhati sikkhāpadesu; "
+msgstr "It’s when a mendicant is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:14.5"
-msgid "bahussuto hoti … pe … diṭṭhiyā suppaṭividdhā;"
-msgstr "They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s totally full and pure. They are very learned in such teachings, remembering them, reciting them, mentally scrutinizing them, and understanding them with right view."
+msgid "bahussuto hoti … pe … diṭṭhiyā suppaṭividdhā; "
+msgstr "They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s totally full and pure. They are very learned in such teachings, remembering them, reciting them, mentally scrutinizing them, and understanding them with right view. "
 
+#. HTML: </p><p class="added">
 #. VAR: anelagalāya → anelagaḷāya (s1-3, km)
 msgctxt "an5.166:14.6"
-msgid "kalyāṇavāco hoti kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagalāya atthassa viññāpaniyā;"
-msgstr "They’re a good speaker, with a polished, clear, and articulate voice that expresses the meaning."
+msgid "kalyāṇavāco hoti kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagalāya atthassa viññāpaniyā; "
+msgstr "They’re a good speaker, with a polished, clear, and articulate voice that expresses the meaning. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:14.7"
-msgid "catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī;"
-msgstr "They get the four absorptions—blissful meditations in the present life that belong to the higher mind—when they want, without trouble or difficulty."
+msgid "catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī; "
+msgstr "They get the four absorptions—blissful meditations in the present life that belong to the higher mind—when they want, without trouble or difficulty. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:14.8"
-msgid "āsavānaṃ khayā … pe … sacchikatvā upasampajja viharati."
-msgstr "They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements."
+msgid "āsavānaṃ khayā … pe … sacchikatvā upasampajja viharati. "
+msgstr "They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.166:14.9"
-msgid "Imehi kho, bhante, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti."
-msgstr "A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”"
+msgid "Imehi kho, bhante, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti. "
+msgstr "A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.” "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.196"></a>
-#. <a class="sc" id="sc15"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli3.196, sc15
 msgctxt "an5.166:15.1"
-msgid "“Sādhu sādhu, upavāṇa."
-msgstr "“Good, good, Upavāṇa!"
+msgid "“Sādhu sādhu, upavāṇa. "
+msgstr "“Good, good, Upavāṇa! "
 
 msgctxt "an5.166:15.2"
-msgid "Imehi kho, upavāṇa, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca."
-msgstr "A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired."
+msgid "Imehi kho, upavāṇa, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca. "
+msgstr "A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired. "
 
 msgctxt "an5.166:15.3"
-msgid "Ime ce, upavāṇa, pañca dhammā therassa bhikkhuno na saṃvijjeyyuṃ, taṃ sabrahmacārī na sakkareyyuṃ na garuṃ kareyyuṃ na māneyyuṃ na pūjeyyuṃ khaṇḍiccena pāliccena valittacatāya."
-msgstr "If these five qualities are not found in a senior mendicant, why would their spiritual companions honor, respect, revere, or venerate them? Because of their broken teeth, gray hair, and wrinkled skin?"
+msgid "Ime ce, upavāṇa, pañca dhammā therassa bhikkhuno na saṃvijjeyyuṃ, taṃ sabrahmacārī na sakkareyyuṃ na garuṃ kareyyuṃ na māneyyuṃ na pūjeyyuṃ khaṇḍiccena pāliccena valittacatāya. "
+msgstr "If these five qualities are not found in a senior mendicant, why would their spiritual companions honor, respect, revere, or venerate them? Because of their broken teeth, gray hair, and wrinkled skin? "
 
 msgctxt "an5.166:15.4"
-msgid "Yasmā ca kho, upavāṇa, ime pañca dhammā therassa bhikkhuno saṃvijjanti, tasmā taṃ sabrahmacārī sakkaronti garuṃ karonti mānenti pūjentī”ti."
-msgstr "But since these five qualities are found in a senior mendicant, their spiritual companions honor, respect, revere, or venerate them.”"
+msgid "Yasmā ca kho, upavāṇa, ime pañca dhammā therassa bhikkhuno saṃvijjanti, tasmā taṃ sabrahmacārī sakkaronti garuṃ karonti mānenti pūjentī”ti. "
+msgstr "But since these five qualities are found in a senior mendicant, their spiritual companions honor, respect, revere, or venerate them.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an5.166:15.5"
-msgid "Chaṭṭhaṃ."
+msgid "Chaṭṭhaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

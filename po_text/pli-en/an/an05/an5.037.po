@@ -2,105 +2,112 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an5.37"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an5.37"><article><div class="hgroup"><p class="division">
 msgctxt "an5.37:0.1"
-msgid "Aṅguttara Nikāya 5"
-msgstr "Numbered Discourses 5"
+msgid "Aṅguttara Nikāya 5 "
+msgstr "Numbered Discourses 5 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an5.37:0.2"
-msgid "4. Sumanavagga"
-msgstr "4. With Sumanā"
+msgid "4. Sumanavagga "
+msgstr "4. With Sumanā "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an5.37:0.3"
-msgid "37. Bhojanasutta"
-msgstr "37. Food"
+msgid "37. Bhojanasutta "
+msgstr "37. Food "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.42"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli3.42, sc1
 msgctxt "an5.37:1.1"
-msgid "“Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ pañca ṭhānāni deti."
-msgstr "“Mendicants, when a giver gives food, they give the recipients five things."
+msgid "“Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ pañca ṭhānāni deti. "
+msgstr "“Mendicants, when a giver gives food, they give the recipients five things. "
 
 msgctxt "an5.37:1.2"
-msgid "Katamāni pañca?"
-msgstr "What five?"
+msgid "Katamāni pañca? "
+msgstr "What five? "
 
 #. VAR: paṭibhānaṃ → paṭibhāṇaṃ (bj, s1-3)
 msgctxt "an5.37:1.3"
-msgid "Āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti, paṭibhānaṃ deti."
-msgstr "Long life, beauty, happiness, strength, and eloquence."
+msgid "Āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti, paṭibhānaṃ deti. "
+msgstr "Long life, beauty, happiness, strength, and eloquence. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.37:1.4"
-msgid "Āyuṃ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā;"
-msgstr "Giving long life, they have long life as a god or human."
+msgid "Āyuṃ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā; "
+msgstr "Giving long life, they have long life as a god or human. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.37:1.5"
-msgid "vaṇṇaṃ datvā vaṇṇassa bhāgī hoti dibbassa vā mānusassa vā;"
-msgstr "Giving beauty, they have beauty as a god or human."
+msgid "vaṇṇaṃ datvā vaṇṇassa bhāgī hoti dibbassa vā mānusassa vā; "
+msgstr "Giving beauty, they have beauty as a god or human. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.37:1.6"
-msgid "sukhaṃ datvā sukhassa bhāgī hoti dibbassa vā mānusassa vā;"
-msgstr "Giving happiness, they have happiness as a god or human."
+msgid "sukhaṃ datvā sukhassa bhāgī hoti dibbassa vā mānusassa vā; "
+msgstr "Giving happiness, they have happiness as a god or human. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.37:1.7"
-msgid "balaṃ datvā balassa bhāgī hoti dibbassa vā mānusassa vā;"
-msgstr "Giving strength, they have strength as a god or human."
+msgid "balaṃ datvā balassa bhāgī hoti dibbassa vā mānusassa vā; "
+msgstr "Giving strength, they have strength as a god or human. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.37:1.8"
-msgid "paṭibhānaṃ datvā paṭibhānassa bhāgī hoti dibbassa vā mānusassa vā."
-msgstr "Giving eloquence, they are eloquent as a god or human."
+msgid "paṭibhānaṃ datvā paṭibhānassa bhāgī hoti dibbassa vā mānusassa vā. "
+msgstr "Giving eloquence, they are eloquent as a god or human. "
 
+#. HTML: </p><p class="added">
 msgctxt "an5.37:1.9"
-msgid "Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ imāni pañca ṭhānāni detīti."
-msgstr "When a giver gives food, they give the recipients five things."
+msgid "Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ imāni pañca ṭhānāni detīti. "
+msgstr "When a giver gives food, they give the recipients five things. "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "an5.37:2.1"
-msgid "Āyudo balado dhīro,"
-msgstr "A wise one is a giver of life, strength,"
+msgid "Āyudo balado dhīro, "
+msgstr "A wise one is a giver of life, strength, "
 
 #. <br>
 msgctxt "an5.37:2.2"
-msgid "vaṇṇado paṭibhānado;"
-msgstr "beauty, and eloquence."
+msgid "vaṇṇado paṭibhānado; "
+msgstr "beauty, and eloquence. "
 
 #. <br>
 msgctxt "an5.37:2.3"
-msgid "Sukhassa dātā medhāvī,"
-msgstr "An intelligent giver of happiness"
+msgid "Sukhassa dātā medhāvī, "
+msgstr "An intelligent giver of happiness "
 
 #. <br>
 msgctxt "an5.37:2.4"
-msgid "sukhaṃ so adhigacchati."
-msgstr "gains happiness in return."
+msgid "sukhaṃ so adhigacchati. "
+msgstr "gains happiness in return. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an5.37:3.1"
-msgid "Āyuṃ datvā balaṃ vaṇṇaṃ,"
-msgstr "Giving life, strength, beauty,"
+msgid "Āyuṃ datvā balaṃ vaṇṇaṃ, "
+msgstr "Giving life, strength, beauty, "
 
 #. <br>
 #. VAR: paṭibhānakaṃ → paṭibhāṇakaṃ (bj) | paṭibhānado (s1-3, km, pts1, mr)
 msgctxt "an5.37:3.2"
-msgid "sukhañca paṭibhānakaṃ;"
-msgstr "happiness, and eloquence,"
+msgid "sukhañca paṭibhānakaṃ; "
+msgstr "happiness, and eloquence, "
 
 #. <br>
 msgctxt "an5.37:3.3"
-msgid "Dīghāyu yasavā hoti,"
-msgstr "they’re long-lived and famous"
+msgid "Dīghāyu yasavā hoti, "
+msgstr "they’re long-lived and famous "
 
 #. <br>
 msgctxt "an5.37:3.4"
-msgid "yattha yatthūpapajjatī”ti."
-msgstr "wherever they’re reborn.”"
+msgid "yattha yatthūpapajjatī”ti. "
+msgstr "wherever they’re reborn.” "
 
-#. </p></blockquote><p class="endsection">
+#. HTML: </p></blockquote><p class="endsection">
 msgctxt "an5.37:3.5"
-msgid "Sattamaṃ."
+msgid "Sattamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

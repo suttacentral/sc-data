@@ -2,71 +2,73 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn17.1"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn17.1"><article><div class="hgroup"><p class="division">
 msgctxt "sn17.1:0.1"
-msgid "Saṃyutta Nikāya 17"
-msgstr "Linked Discourses 17"
+msgid "Saṃyutta Nikāya 17 "
+msgstr "Linked Discourses 17 "
 
-#. </p><p>
+#. HTML: </p><p>
 #. VAR: 1. Paṭhamavagga → dāruṇavaggo (bj)
 msgctxt "sn17.1:0.2"
-msgid "1. Paṭhamavagga"
-msgstr "1. The First Chapter"
+msgid "1. Paṭhamavagga "
+msgstr "1. The First Chapter "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn17.1:0.3"
-msgid "1. Dāruṇasutta"
-msgstr "1. Brutal"
+msgid "1. Dāruṇasutta "
+msgstr "1. Brutal "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.226"></a>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: pts-vp-pli2.226, sc1
 msgctxt "sn17.1:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn17.1:1.2"
-msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
 msgctxt "sn17.1:1.3"
-msgid "Tatra kho bhagavā bhikkhū āmantesi:"
-msgstr "There the Buddha addressed the mendicants:"
+msgid "Tatra kho bhagavā bhikkhū āmantesi: "
+msgstr "There the Buddha addressed the mendicants, "
 
 msgctxt "sn17.1:1.4"
-msgid "“bhikkhavo”ti."
-msgstr "“Mendicants!”"
+msgid "“bhikkhavo”ti. "
+msgstr "“Mendicants!” "
 
+#. HTML: </p><p class="added">
 msgctxt "sn17.1:1.5"
-msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
-msgstr "“Venerable sir,” they replied."
+msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ. "
+msgstr "“Venerable sir,” they replied. "
 
 msgctxt "sn17.1:1.6"
-msgid "Bhagavā etadavoca:"
-msgstr "The Buddha said this:"
+msgid "Bhagavā etadavoca: "
+msgstr "The Buddha said this: "
 
-# BB has dreadful, bitter and vile for daruna, katuka, and pharusa. But the three words are in meaning and metaphor similar in Pali and completely unrelated in English. The underlying sense is not of “causing fear” although they certainly do that. It is of “hard (daru=wood), harsh, unyielding, rough”, and more metaphorically, “vicious, violent, brutal”. In other words, they are qualities of the damage things can do, not of the emotions they can arouse.
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+# NOTE: BB has dreadful, bitter and vile for daruna, katuka, and pharusa. But the three words are in meaning and metaphor similar in Pali and completely unrelated in English. The underlying sense is not of “causing fear” although they certainly do that. It is of “hard (daru=wood), harsh, unyielding, rough”, and more metaphorically, “vicious, violent, brutal”. In other words, they are qualities of the damage things can do, not of the emotions they can arouse.
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn17.1:2.1"
-msgid "“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya."
-msgstr "“Possessions, honor, and popularity are brutal, bitter, and harsh. They’re an obstacle to reaching the supreme sanctuary."
+msgid "“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. "
+msgstr "“Possessions, honor, and popularity are brutal, bitter, and harsh. They’re an obstacle to reaching the supreme sanctuary. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn17.1:2.2"
-msgid "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:"
-msgstr "So you should train like this:"
+msgid "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: "
+msgstr "So you should train like this: "
 
 msgctxt "sn17.1:2.3"
-msgid "‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti."
-msgstr "‘We will give up arisen possessions, honor, and popularity, and we won’t let them occupy our minds.’"
+msgid "‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. "
+msgstr "‘We will give up arisen possessions, honor, and popularity, and we won’t let them occupy our minds.’ "
 
 msgctxt "sn17.1:2.4"
-msgid "Evañhi vo, bhikkhave, sikkhitabban”ti."
-msgstr "That’s how you should train.”"
+msgid "Evañhi vo, bhikkhave, sikkhitabban”ti. "
+msgstr "That’s how you should train.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn17.1:2.5"
-msgid "Paṭhamaṃ."
+msgid "Paṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

@@ -2,71 +2,74 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn1.13"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn1.13"><article><div class="hgroup"><p class="division">
 msgctxt "sn1.13:0.1"
-msgid "Saṃyutta Nikāya 1"
-msgstr "Linked Discourses 1"
+msgid "Saṃyutta Nikāya 1 "
+msgstr "Linked Discourses 1 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn1.13:0.2"
-msgid "2. Nandanavagga"
-msgstr "2. The Garden of Delight"
+msgid "2. Nandanavagga "
+msgstr "2. The Garden of Delight "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 13. Natthiputtasamasutta → natthiputtasuttaṃ (bj) | natthiputtasamasuttaṃ (pts2)
 msgctxt "sn1.13:0.3"
-msgid "13. Natthiputtasamasutta"
-msgstr "13. There’s Nothing Like a Child"
+msgid "13. Natthiputtasamasutta "
+msgstr "13. There’s Nothing Like a Child "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn1.13:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p class="added">
 msgctxt "sn1.13:1.2"
-msgid "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:"
-msgstr "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+msgid "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi: "
+msgstr "Standing to one side, that deity recited this verse in the Buddha’s presence: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "sn1.13:2.1"
-msgid "“Natthi puttasamaṃ pemaṃ,"
-msgstr "“There’s no love like that for a child,"
+msgid "“Natthi puttasamaṃ pemaṃ, "
+msgstr "“There’s no love like that for a child, "
 
 #. <br>
 msgctxt "sn1.13:2.2"
-msgid "natthi gosamitaṃ dhanaṃ;"
-msgstr "no wealth equal to cattle,"
+msgid "natthi gosamitaṃ dhanaṃ; "
+msgstr "no wealth equal to cattle, "
 
 #. <br>
 #. VAR: sūriyasamā → suriyasamā (bj, s1-3, km, pts1-2)
 msgctxt "sn1.13:2.3"
-msgid "Natthi sūriyasamā ābhā,"
-msgstr "no light like that of the sun,"
+msgid "Natthi sūriyasamā ābhā, "
+msgstr "no light like that of the sun, "
 
 #. <br>
 msgctxt "sn1.13:2.4"
-msgid "samuddaparamā sarā”ti."
-msgstr "and of waters the ocean is paramount.”"
+msgid "samuddaparamā sarā”ti. "
+msgstr "and of waters the ocean is paramount.” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn1.13:3.1"
-msgid "“Natthi attasamaṃ pemaṃ,"
-msgstr "“There’s no love like that for oneself,"
+msgid "“Natthi attasamaṃ pemaṃ, "
+msgstr "“There’s no love like that for oneself, "
 
 #. <br>
 msgctxt "sn1.13:3.2"
-msgid "natthi dhaññasamaṃ dhanaṃ;"
-msgstr "no wealth equal to grain,"
+msgid "natthi dhaññasamaṃ dhanaṃ; "
+msgstr "no wealth equal to grain, "
 
 #. <br>
 msgctxt "sn1.13:3.3"
-msgid "Natthi paññāsamā ābhā,"
-msgstr "no light like that of wisdom,"
+msgid "Natthi paññāsamā ābhā, "
+msgstr "no light like that of wisdom, "
 
 #. <br>
 msgctxt "sn1.13:3.4"
-msgid "vuṭṭhi ve paramā sarā”ti."
+msgid "vuṭṭhi ve paramā sarā”ti. "
 msgstr "and of waters the rain is paramount.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

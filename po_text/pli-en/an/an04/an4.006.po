@@ -2,247 +2,250 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.6"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.6"><article><div class="hgroup"><p class="division">
 msgctxt "an4.6:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an4.6:0.2"
-msgid "1. Bhaṇḍagāmavagga"
-msgstr "1. At Bhaṇḍa Village"
+msgid "1. Bhaṇḍagāmavagga "
+msgstr "1. At Bhaṇḍa Village "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an4.6:0.3"
-msgid "6. Appassutasutta"
-msgstr "6. A Little Learning"
+msgid "6. Appassutasutta "
+msgstr "6. A Little Learning "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.7"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli2.7, sc1
 msgctxt "an4.6:1.1"
-msgid "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ."
-msgstr "“Mendicants, these four people are found in the world."
+msgid "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. "
+msgstr "“Mendicants, these four people are found in the world. "
 
 msgctxt "an4.6:1.2"
-msgid "Katame cattāro?"
-msgstr "What four? A person may have:"
+msgid "Katame cattāro? "
+msgstr "What four? A person may have: "
 
+#. HTML: </p><ol>
 msgctxt "an4.6:1.3"
-msgid "Appassuto sutena anupapanno, appassuto sutena upapanno, bahussuto sutena anupapanno, bahussuto sutena upapanno."
-msgstr "~Little learning and not get the point of learning. ~Little learning but get the point of learning. ~Much learning but not get the point of learning. ~Much learning and get the point of learning."
+msgid "Appassuto sutena anupapanno, appassuto sutena upapanno, bahussuto sutena anupapanno, bahussuto sutena upapanno. "
+msgstr "~Little learning and not get the point of learning. ~Little learning but get the point of learning. ~Much learning but not get the point of learning. ~Much learning and get the point of learning. "
 
+#. HTML: </ol><p class="added">
 msgctxt "an4.6:1.4"
-msgid "Kathañca, bhikkhave, puggalo appassuto hoti sutena anupapanno?"
-msgstr "And how has a person learned little and not got the point of learning?"
+msgid "Kathañca, bhikkhave, puggalo appassuto hoti sutena anupapanno? "
+msgstr "And how has a person learned little and not got the point of learning? "
 
 msgctxt "an4.6:1.5"
 msgid "Idha, bhikkhave, ekaccassa puggalassa appakaṃ sutaṃ hoti—"
-msgstr "It’s when a person has learned little of the"
+msgstr "It’s when a person has learned little of the "
 
-# I discussed these in some detail in A History of Mindfulness. SUTTA=statement: Normally all of these fall within the Suttas, so clearly sutta here has a narrower meaning. In Indic use generally it means “short doctrinal statement, epitome”, and that use is found in Buddhism too, eg the patimokkha is called the sutta. GEYYA=song: The comm explains as mixed prose and vers, hence BB’s trans. May well be correct, but the word can only mean “song”. VEYYAKARANA: the normal meaning of vyakarana is “answer”, and discourses in Q&A format are very common, in fact almost everything longer than a basic “statement” is in this form. BB’s “exposition” is misleading, as an exposition is essentially a long monologue, which is quite rare, and in any case it’s not what vyakarana means. GATHA: Thera-Theri, etc UDANA: possibly includes Dhammapada ITIVUTTAKA: BB has “quotation”, which is literal. But i suspect it actually means “legend”, i.e tales of the past, “so it was said…”. cf. itihāsa JATAKA and ABBHUTADHAMMA are uncontroversial. VEDALLA: BB has Q&A, but there are only a couple of explicit Vedallas, and lots of Q&As. Anyway, vyakarana literally means answer, while vedalla means “vi-dala”, to split apart, i.e to analyse.
+# NOTE: I discussed these in some detail in A History of Mindfulness. SUTTA=statement: Normally all of these fall within the Suttas, so clearly sutta here has a narrower meaning. In Indic use generally it means “short doctrinal statement, epitome”, and that use is found in Buddhism too, eg the patimokkha is called the sutta. GEYYA=song: The comm explains as mixed prose and vers, hence BB’s trans. May well be correct, but the word can only mean “song”. VEYYAKARANA: the normal meaning of vyakarana is “answer”, and discourses in Q&A format are very common, in fact almost everything longer than a basic “statement” is in this form. BB’s “exposition” is misleading, as an exposition is essentially a long monologue, which is quite rare, and in any case it’s not what vyakarana means. GATHA: Thera-Theri, etc UDANA: possibly includes Dhammapada ITIVUTTAKA: BB has “quotation”, which is literal. But i suspect it actually means “legend”, i.e tales of the past, “so it was said…”. cf. itihāsa JATAKA and ABBHUTADHAMMA are uncontroversial. VEDALLA: BB has Q&A, but there are only a couple of explicit Vedallas, and lots of Q&As. Anyway, vyakarana literally means answer, while vedalla means “vi-dala”, to split apart, i.e to analyse.
 msgctxt "an4.6:1.6"
-msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ."
-msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications."
+msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. "
+msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. "
 
 #. VAR: dhammamaññāya → na dhammamaññāya (bj, pts1, mr)
 #. VAR: dhammānudhammappaṭipanno → na dhammānudhammapaṭipanno (bj)
 msgctxt "an4.6:1.7"
-msgid "So tassa appakassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti."
-msgstr "And with the little they’ve learned, they understand neither the meaning nor the text, nor do they practice in line with the teaching."
+msgid "So tassa appakassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. "
+msgstr "And with the little they’ve learned, they understand neither the meaning nor the text, nor do they practice in line with the teaching. "
 
 msgctxt "an4.6:1.8"
-msgid "Evaṃ kho, bhikkhave, puggalo appassuto hoti sutena anupapanno."
-msgstr "That’s how a person has learned little and not got the point of learning."
+msgid "Evaṃ kho, bhikkhave, puggalo appassuto hoti sutena anupapanno. "
+msgstr "That’s how a person has learned little and not got the point of learning. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an4.6:2.1"
-msgid "Kathañca, bhikkhave, puggalo appassuto hoti sutena upapanno?"
-msgstr "And how has a person learned little but has got the point of learning?"
+msgid "Kathañca, bhikkhave, puggalo appassuto hoti sutena upapanno? "
+msgstr "And how has a person learned little but has got the point of learning? "
 
 msgctxt "an4.6:2.2"
 msgid "Idha, bhikkhave, ekaccassa puggalassa appakaṃ sutaṃ hoti—"
-msgstr "It’s when a person has learned little of the"
+msgstr "It’s when a person has learned little of the "
 
 msgctxt "an4.6:2.3"
-msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ."
-msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications."
+msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. "
+msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. "
 
 msgctxt "an4.6:2.4"
-msgid "So tassa appakassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti."
-msgstr "But with the little they’ve learned, they understand the meaning and the text, and they practice in line with the teaching."
+msgid "So tassa appakassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. "
+msgstr "But with the little they’ve learned, they understand the meaning and the text, and they practice in line with the teaching. "
 
 msgctxt "an4.6:2.5"
-msgid "Evaṃ kho, bhikkhave, puggalo appassuto hoti sutena upapanno."
-msgstr "That’s how a person has learned little but has got the point of learning."
+msgid "Evaṃ kho, bhikkhave, puggalo appassuto hoti sutena upapanno. "
+msgstr "That’s how a person has learned little but has got the point of learning. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an4.6:3.1"
-msgid "Kathañca, bhikkhave, puggalo bahussuto hoti sutena anupapanno?"
-msgstr "And how has a person learned much but hasn't got the point of learning?"
+msgid "Kathañca, bhikkhave, puggalo bahussuto hoti sutena anupapanno? "
+msgstr "And how has a person learned much but hasn't got the point of learning? "
 
 msgctxt "an4.6:3.2"
 msgid "Idha, bhikkhave, ekaccassa puggalassa bahukaṃ sutaṃ hoti—"
-msgstr "It’s when a person has learned much of the"
+msgstr "It’s when a person has learned much of the "
 
 msgctxt "an4.6:3.3"
-msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ."
-msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications."
+msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. "
+msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. "
 
 #. VAR: dhammamaññāya → na dhammamaññāya (bj, pts1)
 msgctxt "an4.6:3.4"
-msgid "So tassa bahukassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti."
-msgstr "But even though they’ve learned much, they understand neither the meaning nor the text, nor do they practice in line with the teaching."
+msgid "So tassa bahukassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. "
+msgstr "But even though they’ve learned much, they understand neither the meaning nor the text, nor do they practice in line with the teaching. "
 
 msgctxt "an4.6:3.5"
-msgid "Evaṃ kho, bhikkhave, puggalo bahussuto hoti sutena anupapanno."
-msgstr "That’s how a person has learned much but hasn't got the point of learning."
+msgid "Evaṃ kho, bhikkhave, puggalo bahussuto hoti sutena anupapanno. "
+msgstr "That’s how a person has learned much but hasn't got the point of learning. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "an4.6:4.1"
-msgid "Kathañca, bhikkhave, puggalo bahussuto hoti sutena upapanno?"
-msgstr "And how has a person learned much and has got the point of learning?"
+msgid "Kathañca, bhikkhave, puggalo bahussuto hoti sutena upapanno? "
+msgstr "And how has a person learned much and has got the point of learning? "
 
 msgctxt "an4.6:4.2"
 msgid "Idha, bhikkhave, ekaccassa puggalassa bahukaṃ sutaṃ hoti—"
-msgstr "It’s when a person has learned much of the"
+msgstr "It’s when a person has learned much of the "
 
 msgctxt "an4.6:4.3"
-msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ."
-msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications."
+msgid "suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. "
+msgstr "statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. "
 
 msgctxt "an4.6:4.4"
-msgid "So tassa bahukassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti."
-msgstr "And with the large amount they’ve learned, they understand the meaning and the text, and they practice in line with the teaching."
+msgid "So tassa bahukassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. "
+msgstr "And with the large amount they’ve learned, they understand the meaning and the text, and they practice in line with the teaching. "
 
 msgctxt "an4.6:4.5"
-msgid "Evaṃ kho, bhikkhave, puggalo bahussuto hoti sutena upapanno."
-msgstr "That’s how a person has learned much and has got the point of learning."
+msgid "Evaṃ kho, bhikkhave, puggalo bahussuto hoti sutena upapanno. "
+msgstr "That’s how a person has learned much and has got the point of learning. "
 
+#. HTML: </p><p class="added">
 msgctxt "an4.6:4.6"
-msgid "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasminti."
-msgstr "These are the four people found in the world."
+msgid "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasminti. "
+msgstr "These are the four people found in the world. "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc5
 msgctxt "an4.6:5.1"
-msgid "Appassutopi ce hoti,"
-msgstr "If you don’t learn much,"
+msgid "Appassutopi ce hoti, "
+msgstr "If you don’t learn much, "
 
 #. <br>
 msgctxt "an4.6:5.2"
-msgid "sīlesu asamāhito;"
-msgstr "and aren’t steady in ethics,"
+msgid "sīlesu asamāhito; "
+msgstr "and aren’t steady in ethics, "
 
 #. <br>
 msgctxt "an4.6:5.3"
-msgid "Ubhayena naṃ garahanti,"
-msgstr "they’ll criticize you on both counts,"
+msgid "Ubhayena naṃ garahanti, "
+msgstr "they’ll criticize you on both counts, "
 
 #. <br>
 msgctxt "an4.6:5.4"
-msgid "sīlato ca sutena ca."
-msgstr "for your ethics and your learning."
+msgid "sīlato ca sutena ca. "
+msgstr "for your ethics and your learning. "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "an4.6:6.1"
-msgid "Appassutopi ce hoti,"
-msgstr "If you don’t learn much,"
+msgid "Appassutopi ce hoti, "
+msgstr "If you don’t learn much, "
 
 #. <br>
 msgctxt "an4.6:6.2"
-msgid "sīlesu susamāhito;"
-msgstr "and you are steady in ethics,"
+msgid "sīlesu susamāhito; "
+msgstr "and you are steady in ethics, "
 
 #. <br>
 msgctxt "an4.6:6.3"
-msgid "Sīlato naṃ pasaṃsanti,"
-msgstr "they’ll praise your ethical conduct,"
+msgid "Sīlato naṃ pasaṃsanti, "
+msgstr "they’ll praise your ethical conduct, "
 
 #. <br>
 msgctxt "an4.6:6.4"
-msgid "tassa sampajjate sutaṃ."
-msgstr "since your learning has succeeded."
+msgid "tassa sampajjate sutaṃ. "
+msgstr "since your learning has succeeded. "
 
-#. </p><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: sc7
 msgctxt "an4.6:7.1"
-msgid "Bahussutopi ce hoti,"
-msgstr "If you learn much,"
+msgid "Bahussutopi ce hoti, "
+msgstr "If you learn much, "
 
 #. <br>
 msgctxt "an4.6:7.2"
-msgid "sīlesu asamāhito;"
-msgstr "but aren’t steady in ethics,"
+msgid "sīlesu asamāhito; "
+msgstr "but aren’t steady in ethics, "
 
 #. <br>
 msgctxt "an4.6:7.3"
-msgid "Sīlato naṃ garahanti,"
-msgstr "they’ll criticize your ethical conduct,"
+msgid "Sīlato naṃ garahanti, "
+msgstr "they’ll criticize your ethical conduct, "
 
 #. <br>
 msgctxt "an4.6:7.4"
-msgid "nāssa sampajjate sutaṃ."
-msgstr "for your learning hasn’t succeeded."
+msgid "nāssa sampajjate sutaṃ. "
+msgstr "for your learning hasn’t succeeded. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.8"></a>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.8, sc8
 msgctxt "an4.6:8.1"
-msgid "Bahussutopi ce hoti,"
-msgstr "If you learn much,"
+msgid "Bahussutopi ce hoti, "
+msgstr "If you learn much, "
 
 #. <br>
 msgctxt "an4.6:8.2"
-msgid "sīlesu susamāhito;"
-msgstr "and you are steady in ethics,"
+msgid "sīlesu susamāhito; "
+msgstr "and you are steady in ethics, "
 
 #. <br>
 msgctxt "an4.6:8.3"
-msgid "Ubhayena naṃ pasaṃsanti,"
-msgstr "they’ll praise you on both counts,"
+msgid "Ubhayena naṃ pasaṃsanti, "
+msgstr "they’ll praise you on both counts, "
 
 #. <br>
 msgctxt "an4.6:8.4"
-msgid "sīlato ca sutena ca."
-msgstr "for your ethics and your learning."
+msgid "sīlato ca sutena ca. "
+msgstr "for your ethics and your learning. "
 
-#. </p><p>
-#. <a class="sc" id="sc9"></a>
+#. HTML: </p><p>
+#. REF: sc9
 msgctxt "an4.6:9.1"
-msgid "Bahussutaṃ dhammadharaṃ,"
-msgstr "A wise disciple of the Buddha"
+msgid "Bahussutaṃ dhammadharaṃ, "
+msgstr "A wise disciple of the Buddha "
 
 #. <br>
 msgctxt "an4.6:9.2"
-msgid "sappaññaṃ buddhasāvakaṃ;"
-msgstr "who has much learning, and has memorized the teachings,"
+msgid "sappaññaṃ buddhasāvakaṃ; "
+msgstr "who has much learning, and has memorized the teachings, "
 
 #. <br>
 msgctxt "an4.6:9.3"
-msgid "Nekkhaṃ jambonadasseva,"
-msgstr "is like a coin of mountain gold."
+msgid "Nekkhaṃ jambonadasseva, "
+msgstr "is like a coin of mountain gold. "
 
 #. <br>
 msgctxt "an4.6:9.4"
-msgid "ko taṃ ninditumarahati;"
-msgstr "Who is worthy of criticizing them?"
+msgid "ko taṃ ninditumarahati; "
+msgstr "Who is worthy of criticizing them? "
 
 #. <br>
 msgctxt "an4.6:9.5"
-msgid "Devāpi naṃ pasaṃsanti,"
-msgstr "Even the gods praise them,"
+msgid "Devāpi naṃ pasaṃsanti, "
+msgstr "Even the gods praise them, "
 
 #. <br>
 msgctxt "an4.6:9.6"
-msgid "brahmunāpi pasaṃsito”ti."
-msgstr "and by Brahmā, too, they’re praised.”"
+msgid "brahmunāpi pasaṃsito”ti. "
+msgstr "and by Brahmā, too, they’re praised.” "
 
-#. </p></blockquote><p class="endsection">
+#. HTML: </p></blockquote><p class="endsection">
 msgctxt "an4.6:9.7"
-msgid "Chaṭṭhaṃ."
+msgid "Chaṭṭhaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

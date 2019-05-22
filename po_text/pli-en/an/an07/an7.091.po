@@ -2,30 +2,32 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an7.91"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an7.91"><article><div class="hgroup"><p class="division">
 msgctxt "an7.91:0.1"
-msgid "Aṅguttara Nikāya 7"
-msgstr "Numbered Discourses 7"
+msgid "Aṅguttara Nikāya 7 "
+msgstr "Numbered Discourses 7 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an7.91:0.2"
-msgid "9. Samaṇavagga"
-msgstr "9. An Ascetic"
+msgid "9. Samaṇavagga "
+msgstr "9. An Ascetic "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an7.91:0.3"
-msgid "91. Ariyasutta"
-msgstr "91. A Noble One"
+msgid "91. Ariyasutta "
+msgstr "91. A Noble One "
 
-# Contra BB, i read this and the next as the same. As far as I can tell, it is the standard reading, as eg at MN 39.
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+# NOTE: Contra BB, i read this and the next as the same. As far as I can tell, it is the standard reading, as eg at MN 39.
+#. HTML: </h1></div><p>
+#. REF: sc1
 #. VAR: Ārakattā → arahattā (bj) | arī hatattā (pts1, mr)
 msgctxt "an7.91:1.1"
-msgid "“… Ārakattā ariyo hoti … pe …."
-msgstr "“Mendicants, it’s because seven foes have been slain that you become a noble one …”"
+msgid "“… Ārakattā ariyo hoti … pe …. "
+msgstr "“Mendicants, it’s because seven foes have been slain that you become a noble one …” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an7.91:1.2"
-msgid "Sattamaṃ."
+msgid "Sattamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

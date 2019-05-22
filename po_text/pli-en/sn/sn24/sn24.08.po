@@ -2,208 +2,210 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn24.8"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn24.8"><article><div class="hgroup"><p class="division">
 msgctxt "sn24.8:0.1"
-msgid "Saṃyutta Nikāya 24"
-msgstr "Linked Discourses 24"
+msgid "Saṃyutta Nikāya 24 "
+msgstr "Linked Discourses 24 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn24.8:0.2"
-msgid "1. Sotāpattivagga"
-msgstr "1. Stream-Entry"
+msgid "1. Sotāpattivagga "
+msgstr "1. Stream-Entry "
 
-# Maha here refers to the long explanation of the view, not to its “greatness”.
-#. </p><h1>
+# NOTE: Maha here refers to the long explanation of the view, not to its “greatness”.
+#. HTML: </p><h1>
 msgctxt "sn24.8:0.3"
-msgid "8. Mahādiṭṭhisutta"
-msgstr "8. The Extensive View"
+msgid "8. Mahādiṭṭhisutta "
+msgstr "8. The Extensive View "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.212"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli3.212, sc1
 msgctxt "sn24.8:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn24.8:1.2"
-msgid "“Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati:"
-msgstr "“Mendicants, when what exists, because of grasping what and insisting on what, does the view arise:"
+msgid "“Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati: "
+msgstr "“Mendicants, when what exists, because of grasping what and insisting on what, does the view arise: "
 
-# Best to translate kaya according to sense in such philosophical contexts. For akatavidha, the idea here is that the “10,000 things” of the world are derived from these fundamental substances.
+# NOTE: Best to translate kaya according to sense in such philosophical contexts. For akatavidha, the idea here is that the “10,000 things” of the world are derived from these fundamental substances.
 msgctxt "sn24.8:1.3"
-msgid "‘sattime kāyā akaṭā, akaṭavidhā, animmitā, animmātā, vañjhā, kūṭaṭṭhā, esikaṭṭhāyiṭṭhitā;"
-msgstr "‘There are these seven substances that are not made, not derived, not created, without a creator, barren, steady as a mountain peak, standing firm like a pillar."
+msgid "‘sattime kāyā akaṭā, akaṭavidhā, animmitā, animmātā, vañjhā, kūṭaṭṭhā, esikaṭṭhāyiṭṭhitā; "
+msgstr "‘There are these seven substances that are not made, not derived, not created, without a creator, barren, steady as a mountain peak, standing firm like a pillar. "
 
-# BB’s rendering “to others” allows the interpretation that they can’t cause pain to things outside the seven. But the meaning is as I state.
+# NOTE: BB’s rendering “to others” allows the interpretation that they can’t cause pain to things outside the seven. But the meaning is as I state.
 #. VAR: na vipariṇamanti → na viparinamanti (bj) | na vipariṇāmenti (pts1, mr)
 msgctxt "sn24.8:1.4"
-msgid "te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti; nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā."
-msgstr "They don’t move or deteriorate or obstruct each other. They’re unable to cause pleasure, pain, or neutral feeling to each other."
+msgid "te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti; nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā. "
+msgstr "They don’t move or deteriorate or obstruct each other. They’re unable to cause pleasure, pain, or neutral feeling to each other. "
 
 msgctxt "sn24.8:1.5"
-msgid "Katame satta?"
-msgstr "What seven?"
+msgid "Katame satta? "
+msgstr "What seven? "
 
 msgctxt "sn24.8:1.6"
-msgid "Pathavīkāyo, āpokāyo, tejokāyo, vāyokāyo, sukhe, dukkhe, jīve sattame."
-msgstr "The substances of earth, water, fire, air; pleasure, pain, and the soul is the seventh."
+msgid "Pathavīkāyo, āpokāyo, tejokāyo, vāyokāyo, sukhe, dukkhe, jīve sattame. "
+msgstr "The substances of earth, water, fire, air; pleasure, pain, and the soul is the seventh. "
 
 #. VAR: satta → jīve. sattime (bahūsu)
 msgctxt "sn24.8:1.7"
-msgid "Ime satta kāyā akaṭā, akaṭavidhā, animmitā, animmātā, vañjhā, kūṭaṭṭhā esikaṭṭhāyiṭṭhitā;"
-msgstr "These seven substances are not made, not derived, not created, without a creator, barren, steady as a mountain peak, standing firm like a pillar."
+msgid "Ime satta kāyā akaṭā, akaṭavidhā, animmitā, animmātā, vañjhā, kūṭaṭṭhā esikaṭṭhāyiṭṭhitā; "
+msgstr "These seven substances are not made, not derived, not created, without a creator, barren, steady as a mountain peak, standing firm like a pillar. "
 
 msgctxt "sn24.8:1.8"
-msgid "te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti; nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā."
-msgstr "They don’t move or deteriorate or obstruct each other. They’re unable to cause pleasure, pain, or neutral feeling to each other."
+msgid "te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti; nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā. "
+msgstr "They don’t move or deteriorate or obstruct each other. They’re unable to cause pleasure, pain, or neutral feeling to each other. "
 
 #. VAR: na sopi kañci → na koci kañci (bj, s1-3, km) | na koci taṃ (pts1, mr)
 msgctxt "sn24.8:1.9"
-msgid "Yopi tiṇhena satthena sīsaṃ chindati, na sopi kañci jīvitā voropeti;"
-msgstr "If you chop off someone’s head with a sharp sword, you don’t take anyone’s life."
+msgid "Yopi tiṇhena satthena sīsaṃ chindati, na sopi kañci jīvitā voropeti; "
+msgstr "If you chop off someone’s head with a sharp sword, you don’t take anyone’s life. "
 
 msgctxt "sn24.8:1.10"
-msgid "sattannaṃ tveva kāyānamantarena satthaṃ vivaramanupavisati."
-msgstr "The sword simply passes through the gap between the seven substances."
+msgid "sattannaṃ tveva kāyānamantarena satthaṃ vivaramanupavisati. "
+msgstr "The sword simply passes through the gap between the seven substances. "
 
-# I note a few places my interpretation differs from BB’s. For the ajivakasatani, etc., I find it implausible that anyone would classify so many types of wanderers. On the other hand, we know that the Jains maintained a census of the numbers of their following, and something similar is found in the EBTs, too. So I think this should be a census of their population. Similar problems occur throughout, so I play it safe by not specifying “kind of”. In addition, given the context, I think nāgavāsa is a corruption of naggavāsa, and translate accordingly. For -gabbha, I take this as somewhat similar to the Buddha’s teaching about those who arise in the womb either mindful or not. For pavuta, and its variants, this is extremely dubious. However, from the context i think it’s likely to refer to some geoform. I take it from pa+vāta.
+# NOTE: I note a few places my interpretation differs from BB’s. For the ajivakasatani, etc., I find it implausible that anyone would classify so many types of wanderers. On the other hand, we know that the Jains maintained a census of the numbers of their following, and something similar is found in the EBTs, too. So I think this should be a census of their population. Similar problems occur throughout, so I play it safe by not specifying “kind of”. In addition, given the context, I think nāgavāsa is a corruption of naggavāsa, and translate accordingly. For -gabbha, I take this as somewhat similar to the Buddha’s teaching about those who arise in the womb either mindful or not. For pavuta, and its variants, this is extremely dubious. However, from the context i think it’s likely to refer to some geoform. I take it from pa+vāta.
 #. VAR: pavuṭā → pavudhā (bj, pts1) | pamuṭā (si) | sapuṭā (mr)
 #. VAR: mahākappino → mahākappuno (bj, pts1)
 msgctxt "sn24.8:1.11"
-msgid "Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni, tīṇi ca kammāni, kamme ca aḍḍhakamme ca dvaṭṭhipaṭipadā, dvaṭṭhantarakappā, chaḷābhijātiyo, aṭṭha purisabhūmiyo, ekūnapaññāsa ājīvakasate, ekūnapaññāsa paribbājakasate, ekūnapaññāsa nāgavāsasate, vīse indriyasate, tiṃse nirayasate, chattiṃsarajodhātuyo, satta saññīgabbhā, satta asaññīgabbhā, satta nigaṇṭhigabbhā, satta devā, satta mānusā, satta pesācā, satta sarā, satta pavuṭā, satta papātā, satta ca papātasatāni, satta supinā, satta supinasatāni, cullāsīti mahākappino satasahassāni, yāni bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissanti."
-msgstr "There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 <i>Ājīvaka</i> ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. There are seven percipient embryos, seven non-percipient embryos, and seven embryos without attachments. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven winds, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons through which the foolish and the astute transmigrate before making an end of suffering."
+msgid "Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni, tīṇi ca kammāni, kamme ca aḍḍhakamme ca dvaṭṭhipaṭipadā, dvaṭṭhantarakappā, chaḷābhijātiyo, aṭṭha purisabhūmiyo, ekūnapaññāsa ājīvakasate, ekūnapaññāsa paribbājakasate, ekūnapaññāsa nāgavāsasate, vīse indriyasate, tiṃse nirayasate, chattiṃsarajodhātuyo, satta saññīgabbhā, satta asaññīgabbhā, satta nigaṇṭhigabbhā, satta devā, satta mānusā, satta pesācā, satta sarā, satta pavuṭā, satta papātā, satta ca papātasatāni, satta supinā, satta supinasatāni, cullāsīti mahākappino satasahassāni, yāni bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissanti. "
+msgstr "There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 <i>Ājīvaka</i> ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. There are seven percipient embryos, seven non-percipient embryos, and seven embryos without attachments. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven winds, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons through which the foolish and the astute transmigrate before making an end of suffering. "
 
 msgctxt "sn24.8:1.12"
-msgid "Tattha natthi imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā aparipakkaṃ vā kammaṃ paripācessāmi;"
-msgstr "And here there is no such thing as this: “By this precept or observance or mortification or spiritual life I shall force unripened deeds to bear their fruit, or eliminate old deeds by experiencing their results little by little”—for that cannot be."
+msgid "Tattha natthi imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā aparipakkaṃ vā kammaṃ paripācessāmi; "
+msgstr "And here there is no such thing as this: “By this precept or observance or mortification or spiritual life I shall force unripened deeds to bear their fruit, or eliminate old deeds by experiencing their results little by little”—for that cannot be. "
 
 msgctxt "sn24.8:1.13"
-msgid "paripakkaṃ vā kammaṃ phussa phussa byantīkarissāmīti hevaṃ natthi doṇamite sukhadukkhe pariyantakate saṃsāre, natthi hāyanavaḍḍhane, natthi ukkaṃsāvakaṃse."
-msgstr "Pleasure and pain are allotted. Transmigration lasts only for a limited period, so there’s no increase or decrease, no getting better or worse."
+msgid "paripakkaṃ vā kammaṃ phussa phussa byantīkarissāmīti hevaṃ natthi doṇamite sukhadukkhe pariyantakate saṃsāre, natthi hāyanavaḍḍhane, natthi ukkaṃsāvakaṃse. "
+msgstr "Pleasure and pain are allotted. Transmigration lasts only for a limited period, so there’s no increase or decrease, no getting better or worse. "
 
 msgctxt "sn24.8:1.14"
-msgid "Seyyathāpi nāma suttaguḷe khitte nibbeṭhiyamānameva paleti;"
-msgstr "It’s like how, when you toss a ball of string, it rolls away unraveling."
+msgid "Seyyathāpi nāma suttaguḷe khitte nibbeṭhiyamānameva paleti; "
+msgstr "It’s like how, when you toss a ball of string, it rolls away unraveling. "
 
-# The SN reading seems to me corrupt, and I adopt the reading as found in DN and MN.
+# NOTE: The SN reading seems to me corrupt, and I adopt the reading as found in DN and MN.
 msgctxt "sn24.8:1.15"
-msgid "evameva bāle ca paṇḍite ca nibbeṭhiyamānā sukhadukkhaṃ palentī’”ti?"
-msgstr "In the same way, after transmigrating the foolish and the astute will make an end of suffering’?”"
+msgid "evameva bāle ca paṇḍite ca nibbeṭhiyamānā sukhadukkhaṃ palentī’”ti? "
+msgstr "In the same way, after transmigrating the foolish and the astute will make an end of suffering’?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn24.8:1.16"
-msgid "“Bhagavaṃmūlakā no, bhante, dhammā … pe …"
-msgstr "“Our teachings are rooted in the Buddha. …”"
+msgid "“Bhagavaṃmūlakā no, bhante, dhammā … pe … "
+msgstr "“Our teachings are rooted in the Buddha. …” "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn24.8:2.1"
-msgid "“Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati:"
-msgstr "“When form exists, because of grasping form and insisting on form, the view arises:"
+msgid "“Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati: "
+msgstr "“When form exists, because of grasping form and insisting on form, the view arises: "
 
 msgctxt "sn24.8:2.2"
-msgid "‘sattime kāyā akaṭā, akaṭavidhā … pe …"
-msgstr "‘There are these seven substances that are not made …"
+msgid "‘sattime kāyā akaṭā, akaṭavidhā … pe … "
+msgstr "‘There are these seven substances that are not made … "
 
 msgctxt "sn24.8:2.3"
-msgid "sukhadukkhaṃ palentī’ti."
-msgstr "the foolish and the astute will make an end of suffering.’"
+msgid "sukhadukkhaṃ palentī’ti. "
+msgstr "the foolish and the astute will make an end of suffering.’ "
 
 msgctxt "sn24.8:2.4"
-msgid "Vedanāya sati … pe …"
-msgstr "When feeling …"
+msgid "Vedanāya sati … pe … "
+msgstr "When feeling … "
 
 msgctxt "sn24.8:2.5"
-msgid "saññāya sati …"
-msgstr "perception …"
+msgid "saññāya sati … "
+msgstr "perception … "
 
 msgctxt "sn24.8:2.6"
-msgid "saṅkhāresu sati …"
-msgstr "choices …"
+msgid "saṅkhāresu sati … "
+msgstr "choices … "
 
 msgctxt "sn24.8:2.7"
-msgid "viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati:"
-msgstr "consciousness exists, because of grasping consciousness and insisting on consciousness, the view arises:"
+msgid "viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati: "
+msgstr "consciousness exists, because of grasping consciousness and insisting on consciousness, the view arises: "
 
 msgctxt "sn24.8:2.8"
-msgid "‘sattime kāyā akaṭā, akaṭavidhā … pe …"
-msgstr "‘There are these seven substances that are not made …"
+msgid "‘sattime kāyā akaṭā, akaṭavidhā … pe … "
+msgstr "‘There are these seven substances that are not made … "
 
 msgctxt "sn24.8:2.9"
-msgid "sukhadukkhaṃ palentī’ti."
-msgstr "the foolish and the astute will make an end of suffering.’"
+msgid "sukhadukkhaṃ palentī’ti. "
+msgstr "the foolish and the astute will make an end of suffering.’ "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.213"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli3.213, sc3
 msgctxt "sn24.8:3.1"
 msgid "Taṃ kiṃ maññatha, bhikkhave, "
 msgstr "What do you think, mendicants? "
 
 msgctxt "sn24.8:3.2"
-msgid "rūpaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "Is form permanent or impermanent?”"
+msgid "rūpaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "Is form permanent or impermanent?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn24.8:3.3"
-msgid "“Aniccaṃ, bhante” … pe …"
-msgstr "“Impermanent, sir.” …"
+msgid "“Aniccaṃ, bhante” … pe … "
+msgstr "“Impermanent, sir.” … "
 
+#. HTML: </p><p class="added">
 msgctxt "sn24.8:3.4"
-msgid "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya:"
-msgstr ""
+msgid "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya: "
+msgstr " "
 
 msgctxt "sn24.8:3.5"
-msgid "‘sattime kāyā akaṭā akaṭavidhā … pe …"
-msgstr ""
+msgid "‘sattime kāyā akaṭā akaṭavidhā … pe … "
+msgstr " "
 
 msgctxt "sn24.8:3.6"
-msgid "sukhadukkhaṃ palentī’”ti?"
-msgstr ""
+msgid "sukhadukkhaṃ palentī’”ti? "
+msgstr " "
 
 msgctxt "sn24.8:3.7"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
-#. </p><p class="added">
-msgctxt "sn24.8:3.8
-msgid "“Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā”ti?"
-msgstr "“That which is seen, heard, thought, known, sought, and explored by the mind: is that permanent or impermanent?”"
+#. HTML: </p><p class="added">
+msgctxt "sn24.8:3.8"
+msgid "“Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā”ti? "
+msgstr "“That which is seen, heard, thought, known, sought, and explored by the mind: is that permanent or impermanent?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "sn24.8:3.9"
-msgid "“Aniccaṃ, bhante … pe …"
-msgstr "“Impermanent, sir.” …"
+msgid "“Aniccaṃ, bhante … pe … "
+msgstr "“Impermanent, sir.” … "
 
+#. HTML: </p><p class="added">
 msgctxt "sn24.8:3.10"
-msgid "api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya:"
-msgstr "“But by not grasping what’s impermanent, suffering, and perishable, would such a view arise?”"
+msgid "api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya: "
+msgstr "“But by not grasping what’s impermanent, suffering, and perishable, would such a view arise?” "
 
 msgctxt "sn24.8:3.11"
-msgid "‘sattime kāyā akaṭā akaṭavidhā … pe …"
-msgstr ""
+msgid "‘sattime kāyā akaṭā akaṭavidhā … pe … "
+msgstr " "
 
 msgctxt "sn24.8:3.12"
-msgid "nibbeṭhiyamānā sukhadukkhaṃ palentī’”ti?"
-msgstr ""
+msgid "nibbeṭhiyamānā sukhadukkhaṃ palentī’”ti? "
+msgstr " "
 
-#. </p><p class="added">
-msgctxt "sn24.8:3.13
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir.”"
+#. HTML: </p><p class="added">
+msgctxt "sn24.8:3.13"
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir.” "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn24.8:4.1"
 msgid "“Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti … pe … dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—"
-msgstr "“When a noble disciple has given up doubt in these six cases, and has given up doubt in suffering, its origin, its cessation, and the practice that leads to its cessation,"
+msgstr "“When a noble disciple has given up doubt in these six cases, and has given up doubt in suffering, its origin, its cessation, and the practice that leads to its cessation, "
 
 msgctxt "sn24.8:4.2"
-msgid "ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti."
-msgstr "they’re called a noble disciple who is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.”"
+msgid "ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti. "
+msgstr "they’re called a noble disciple who is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn24.8:4.3"
-msgid "Aṭṭhamaṃ."
+msgid "Aṭṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

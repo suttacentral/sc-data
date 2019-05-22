@@ -2,292 +2,276 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="dn29"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="dn29"><article><div class="hgroup"><p class="division">
 msgctxt "dn29:0.1"
-msgid "Dīgha Nikāya 29"
-msgstr "Long Discourses 29"
+msgid "Dīgha Nikāya 29 "
+msgstr "Long Discourses 29 "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "dn29:0.2"
-msgid "Pāsādikasutta"
-msgstr "An Impressive Discourse"
+msgid "Pāsādikasutta "
+msgstr "An Impressive Discourse "
 
-#. </h1></div><p>
-#. <a class="pts-cs" id="pts-cs1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.117"></a>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: pts-cs1, pts-vp-pli3.117, sc1
 msgctxt "dn29:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
-#. </span>
+#. HTML: </span>
 msgctxt "dn29:1.2"
-msgid "ekaṃ samayaṃ bhagavā sakkesu viharati vedhaññā nāma sakyā, tesaṃ ambavane pāsāde."
-msgstr "At one time the Buddha was staying in the land of the Sakyans in a stilt longhouse in a mango grove belonging to the Sakyan family named Vedhañña."
+msgid "ekaṃ samayaṃ bhagavā sakkesu viharati vedhaññā nāma sakyā, tesaṃ ambavane pāsāde. "
+msgstr "At one time the Buddha was staying in the land of the Sakyans in a stilt longhouse in a mango grove belonging to the Sakyan family named Vedhañña. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs2"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.118"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: pts-cs2, pts-vp-pli3.118, sc2
 #. VAR: nāṭaputto → nātaputto (bj) | nāthaputto (pts1)
 msgctxt "dn29:2.1"
-msgid "Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṃ adhunākālaṅkato hoti."
-msgstr "Now at that time the Nigaṇṭha Nātaputta had recently passed away at Pāvā."
+msgid "Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṃ adhunākālaṅkato hoti. "
+msgstr "Now at that time the Nigaṇṭha Nātaputta had recently passed away at Pāvā. "
 
 msgctxt "dn29:2.2"
-msgid "Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti:"
-msgstr "With his passing the Jain ascetics split, dividing into two factions, arguing, quarreling, and fighting, continually wounding each other with barbed words:"
+msgid "Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti: "
+msgstr "With his passing the Jain ascetics split, dividing into two factions, arguing, quarreling, and fighting, continually wounding each other with barbed words: "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "dn29:2.3"
-msgid "“na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi? Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṃ me, asahitaṃ te. Purevacanīyaṃ pacchā avaca, pacchāvacanīyaṃ pure avaca. Adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti."
-msgstr "“You don’t understand this teaching and training. I understand this teaching and training. What, you understand this teaching and training? You’re practicing wrong. I’m practicing right. I stay on topic, you don’t. You said last what you should have said first. You said first what you should have said last. What you’ve thought so much about has been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re trapped; get yourself out of this—if you can!”"
+msgid "“na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi? Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṃ me, asahitaṃ te. Purevacanīyaṃ pacchā avaca, pacchāvacanīyaṃ pure avaca. Adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti. "
+msgstr "“You don’t understand this teaching and training. I understand this teaching and training. What, you understand this teaching and training? You’re practicing wrong. I’m practicing right. I stay on topic, you don’t. You said last what you should have said first. You said first what you should have said last. What you’ve thought so much about has been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re trapped; get yourself out of this—if you can!” "
 
+#. HTML: </p><p class="added">
 #. VAR: Vadhoyeva kho → vadhoyeveko (mr)
 #. VAR: vattati → anuvattati (s1-3, mr)
 msgctxt "dn29:2.4"
-msgid "Vadhoyeva kho maññe nigaṇṭhesu nāṭaputtiyesu vattati."
-msgstr "You’d think there was nothing but slaughter going on among the Jain ascetics."
+msgid "Vadhoyeva kho maññe nigaṇṭhesu nāṭaputtiyesu vattati. "
+msgstr "You’d think there was nothing but slaughter going on among the Jain ascetics. "
 
 #. VAR: tepi → te tesu (mr)
 #. VAR: nibbinnarūpā → nibiṇṇarūpā (pts1) | nibbindarūpā (mr)
 msgctxt "dn29:2.5"
-msgid "Yepi nigaṇṭhassa nāṭaputtassa sāvakā gihī odātavasanā, tepi nigaṇṭhesu nāṭaputtiyesu nibbinnarūpā virattarūpā paṭivānarūpā, yathā taṃ durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite bhinnathūpe appaṭisaraṇe."
-msgstr "And the Nigaṇṭha Nātaputta’s white-clothed lay disciples were disillusioned, dismayed, and disappointed in the Jain ascetics. They were equally disappointed with a teaching and training so poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha, with broken monument and without a refuge."
+msgid "Yepi nigaṇṭhassa nāṭaputtassa sāvakā gihī odātavasanā, tepi nigaṇṭhesu nāṭaputtiyesu nibbinnarūpā virattarūpā paṭivānarūpā, yathā taṃ durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite bhinnathūpe appaṭisaraṇe. "
+msgstr "And the Nigaṇṭha Nātaputta’s white-clothed lay disciples were disillusioned, dismayed, and disappointed in the Jain ascetics. They were equally disappointed with a teaching and training so poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha, with broken monument and without a refuge. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs3"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts-cs3, sc3
 #. VAR: vassaṃvuṭṭho → vassaṃ vuttho (bj, s1-3, pts1)
 msgctxt "dn29:3.1"
-msgid "Atha kho cundo samaṇuddeso pāvāyaṃ vassaṃvuṭṭho yena sāmagāmo, yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho cundo samaṇuddeso āyasmantaṃ ānandaṃ etadavoca:"
-msgstr "And then, after completing the rainy season residence near Pāvā, the novice Cunda went to see Venerable Ānanda at Sāma village. He bowed, sat down to one side, and told him what had happened."
+msgid "Atha kho cundo samaṇuddeso pāvāyaṃ vassaṃvuṭṭho yena sāmagāmo, yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho cundo samaṇuddeso āyasmantaṃ ānandaṃ etadavoca: "
+msgstr "And then, after completing the rainy season residence near Pāvā, the novice Cunda went to see Venerable Ānanda at Sāma village. He bowed, sat down to one side, and told him what had happened. "
 
 msgctxt "dn29:3.2"
-msgid "“nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato."
-msgstr ""
+msgid "“nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato. "
+msgstr " "
 
 msgctxt "dn29:3.3"
-msgid "Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā … pe … bhinnathūpe appaṭisaraṇe”ti."
-msgstr ""
+msgid "Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā … pe … bhinnathūpe appaṭisaraṇe”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs4"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts-cs4, sc4
 msgctxt "dn29:4.1"
-msgid "Evaṃ vutte, āyasmā ānando cundaṃ samaṇuddesaṃ etadavoca:"
-msgstr "Ānanda said to him:"
+msgid "Evaṃ vutte, āyasmā ānando cundaṃ samaṇuddesaṃ etadavoca: "
+msgstr "Ānanda said to him, "
 
 msgctxt "dn29:4.2"
-msgid "“atthi kho idaṃ, āvuso cunda, kathāpābhataṃ bhagavantaṃ dassanāya."
-msgstr "“Reverend Cunda, we should see the Buddha about this matter."
+msgid "“atthi kho idaṃ, āvuso cunda, kathāpābhataṃ bhagavantaṃ dassanāya. "
+msgstr "“Reverend Cunda, we should see the Buddha about this matter. "
 
 #. VAR: bhagavato ārocessāmā”ti → āroceyyāmāti (s1-3)
 msgctxt "dn29:4.3"
-msgid "Āyāmāvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṃ bhagavato ārocessāmā”ti."
-msgstr "Come, let’s go to the Buddha and tell him about this.”"
+msgid "Āyāmāvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṃ bhagavato ārocessāmā”ti. "
+msgstr "Come, let’s go to the Buddha and tell him about this.” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "dn29:4.4"
-msgid "“Evaṃ, bhante”ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi."
-msgstr "“Yes, sir,” replied Cunda."
+msgid "“Evaṃ, bhante”ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi. "
+msgstr "“Yes, sir,” replied Cunda. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs5"></a>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: pts-cs5, sc5
 msgctxt "dn29:5.1"
-msgid "Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:"
-msgstr "Then Ānanda and Cunda went to the Buddha, bowed, sat down to one side, and told him what had happened."
+msgid "Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca: "
+msgstr "Then Ānanda and Cunda went to the Buddha, bowed, sat down to one side, and told him what had happened. "
 
 msgctxt "dn29:5.2"
 msgid "“ayaṃ, bhante, cundo samaṇuddeso evamāha, ‘nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato, "
-msgstr ""
+msgstr " "
 
 msgctxt "dn29:5.3"
-msgid "tassa kālaṅkiriyāya bhinnā nigaṇṭhā … pe … bhinnathūpe appaṭisaraṇe’”ti."
-msgstr ""
+msgid "tassa kālaṅkiriyāya bhinnā nigaṇṭhā … pe … bhinnathūpe appaṭisaraṇe’”ti. "
+msgstr " "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:5.4"
-msgid "1. Asammāsambuddhappaveditadhammavinaya"
-msgstr "1. The Teaching of the Unawakened"
+msgid "1. Asammāsambuddhappaveditadhammavinaya "
+msgstr "1. The Teaching of the Unawakened "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.119"></a>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs6, pts-vp-pli3.119, sc6
 msgctxt "dn29:6.1"
-msgid "“Evaṃ hetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite."
-msgstr "“That’s what happens, Cunda, when a teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
+msgid "“Evaṃ hetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite. "
+msgstr "“That’s what happens, Cunda, when a teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "dn29:6.2"
 msgid "Idha, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito, "
-msgstr "Take the case where a teacher is not awakened, and the teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
+msgstr "Take the case where a teacher is not awakened, and the teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
 msgctxt "dn29:6.3"
-msgid "sāvako ca tasmiṃ dhamme na dhammānudhammappaṭipanno viharati na sāmīcippaṭipanno na anudhammacārī, vokkamma ca tamhā dhammā vattati."
-msgstr "A disciple in that teaching does not practice in line with the teachings, does not practice following that procedure, does not live in line with the teaching. They proceed having turned away from that teaching."
+msgid "sāvako ca tasmiṃ dhamme na dhammānudhammappaṭipanno viharati na sāmīcippaṭipanno na anudhammacārī, vokkamma ca tamhā dhammā vattati. "
+msgstr "A disciple in that teaching does not practice in line with the teachings, does not practice following that procedure, does not live in line with the teaching. They proceed having turned away from that teaching. "
 
 msgctxt "dn29:6.4"
-msgid "So evamassa vacanīyo:"
-msgstr "You should say this to them:"
+msgid "So evamassa vacanīyo: "
+msgstr "You should say this to them, "
 
 msgctxt "dn29:6.5"
 msgid "‘tassa te, āvuso, lābhā, tassa te suladdhaṃ, "
 msgstr "‘You’re fortunate, reverend, you’re so very fortunate! "
 
 msgctxt "dn29:6.6"
-msgid "satthā ca te asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito."
-msgstr "For your teacher is not awakened, and their teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
+msgid "satthā ca te asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito. "
+msgstr "For your teacher is not awakened, and their teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
 msgctxt "dn29:6.7"
-msgid "Tvañca tasmiṃ dhamme na dhammānudhammappaṭipanno viharasi, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattasī’ti."
-msgstr "But you don’t practice in line with that teaching, you don’t practice following that procedure, you don’t live in line with the teaching. You proceed having turned away from that teaching.’"
+msgid "Tvañca tasmiṃ dhamme na dhammānudhammappaṭipanno viharasi, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattasī’ti. "
+msgstr "But you don’t practice in line with that teaching, you don’t practice following that procedure, you don’t live in line with the teaching. You proceed having turned away from that teaching.’ "
 
 msgctxt "dn29:6.8"
-msgid "Iti kho, cunda, satthāpi tattha gārayho, dhammopi tattha gārayho, sāvako ca tattha evaṃ pāsaṃso."
-msgstr "In such a case the teacher and the teaching are to blame, but the disciple deserves praise."
+msgid "Iti kho, cunda, satthāpi tattha gārayho, dhammopi tattha gārayho, sāvako ca tattha evaṃ pāsaṃso. "
+msgstr "In such a case the teacher and the teaching are to blame, but the disciple deserves praise. "
 
 msgctxt "dn29:6.9"
-msgid "Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya:"
-msgstr "Suppose someone was to say to such a disciple:"
+msgid "Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya: "
+msgstr "Suppose someone was to say to such a disciple, "
 
 msgctxt "dn29:6.10"
-msgid "‘etāyasmā tathā paṭipajjatu, yathā te satthārā dhammo desito paññatto’ti."
-msgstr "‘Come on, venerable, practice as taught and pointed out by your teacher.’"
+msgid "‘etāyasmā tathā paṭipajjatu, yathā te satthārā dhammo desito paññatto’ti. "
+msgstr "‘Come on, venerable, practice as taught and pointed out by your teacher.’ "
 
-# Cp. AN 1.320
+# NOTE: Cp. AN 1.320
 msgctxt "dn29:6.11"
-msgid "Yo ca samādapeti, yañca samādapeti, yo ca samādapito tathattāya paṭipajjati. Sabbe te bahuṃ apuññaṃ pasavanti."
-msgstr "The one who encourages, the one who they encourage, and the one who practices accordingly all make much bad karma."
+msgid "Yo ca samādapeti, yañca samādapeti, yo ca samādapito tathattāya paṭipajjati. Sabbe te bahuṃ apuññaṃ pasavanti. "
+msgstr "The one who encourages, the one who they encourage, and the one who practices accordingly all make much bad karma. "
 
 msgctxt "dn29:6.12"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:6.13"
-msgid "Evaṃ hetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite."
-msgstr "It’s because that teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
+msgid "Evaṃ hetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite. "
+msgstr "It’s because that teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs7"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.120"></a>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: pts-cs7, pts-vp-pli3.120, sc7
 msgctxt "dn29:7.1"
-msgid "Idha pana, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito,"
-msgstr "Take the case where a teacher is not awakened, and the teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
+msgid "Idha pana, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito, "
+msgstr "Take the case where a teacher is not awakened, and the teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
 msgctxt "dn29:7.2"
-msgid "sāvako ca tasmiṃ dhamme dhammānudhammappaṭipanno viharati sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattati."
-msgstr "A disciple in that teaching practices in line with the teachings, practices following that procedure, lives in line with the teaching. They proceed having undertaken that teaching."
+msgid "sāvako ca tasmiṃ dhamme dhammānudhammappaṭipanno viharati sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattati. "
+msgstr "A disciple in that teaching practices in line with the teachings, practices following that procedure, lives in line with the teaching. They proceed having undertaken that teaching. "
 
 msgctxt "dn29:7.3"
-msgid "So evamassa vacanīyo:"
-msgstr "You should say this to them:"
+msgid "So evamassa vacanīyo: "
+msgstr "You should say this to them, "
 
 msgctxt "dn29:7.4"
-msgid "‘tassa te, āvuso, alābhā, tassa te dulladdhaṃ, satthā ca te asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito."
-msgstr "‘It’s your loss, reverend, it’s your misfortune! For your teacher is not awakened, and their teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
+msgid "‘tassa te, āvuso, alābhā, tassa te dulladdhaṃ, satthā ca te asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito. "
+msgstr "‘It’s your loss, reverend, it’s your misfortune! For your teacher is not awakened, and their teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
 msgctxt "dn29:7.5"
-msgid "Tvañca tasmiṃ dhamme dhammānudhammappaṭipanno viharasi sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattasī’ti."
-msgstr "And you practice in line with that teaching, you practice following that procedure, you live in line with the teaching. You proceed having undertaken that teaching.’"
+msgid "Tvañca tasmiṃ dhamme dhammānudhammappaṭipanno viharasi sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattasī’ti. "
+msgstr "And you practice in line with that teaching, you practice following that procedure, you live in line with the teaching. You proceed having undertaken that teaching.’ "
 
 msgctxt "dn29:7.6"
-msgid "Iti kho, cunda, satthāpi tattha gārayho, dhammopi tattha gārayho, sāvakopi tattha evaṃ gārayho."
-msgstr "In such a case the teacher, the teaching, and the disciple are all to blame."
+msgid "Iti kho, cunda, satthāpi tattha gārayho, dhammopi tattha gārayho, sāvakopi tattha evaṃ gārayho. "
+msgstr "In such a case the teacher, the teaching, and the disciple are all to blame. "
 
 msgctxt "dn29:7.7"
-msgid "Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya:"
-msgstr "Suppose someone was to say to such a disciple:"
+msgid "Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya: "
+msgstr "Suppose someone was to say to such a disciple, "
 
 msgctxt "dn29:7.8"
-msgid "‘addhāyasmā ñāyappaṭipanno ñāyamārādhessatī’ti."
-msgstr "‘Clearly the venerable is practicing following the method and will succeed in completing that method.’"
+msgid "‘addhāyasmā ñāyappaṭipanno ñāyamārādhessatī’ti. "
+msgstr "‘Clearly the venerable is practicing methodically and will succeed in completing that method.’ "
 
 msgctxt "dn29:7.9"
-msgid "Yo ca pasaṃsati, yañca pasaṃsati, yo ca pasaṃsito bhiyyoso mattāya vīriyaṃ ārabhati. Sabbe te bahuṃ apuññaṃ pasavanti."
-msgstr "The one who praises, the one who they praise, and the one who, being praised, rouses up even more energy all make much bad karma."
+msgid "Yo ca pasaṃsati, yañca pasaṃsati, yo ca pasaṃsito bhiyyoso mattāya vīriyaṃ ārabhati. Sabbe te bahuṃ apuññaṃ pasavanti. "
+msgstr "The one who praises, the one who they praise, and the one who, being praised, rouses up even more energy all make much bad karma. "
 
 msgctxt "dn29:7.10"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:7.11"
-msgid "Evañhetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite."
-msgstr "It’s because that teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha."
+msgid "Evañhetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite. "
+msgstr "It’s because that teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:7.12"
-msgid "2. Sammāsambuddhappaveditadhammavinaya"
-msgstr "2. The Teaching of the Awakened"
+msgid "2. Sammāsambuddhappaveditadhammavinaya "
+msgstr "2. The Teaching of the Awakened "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs8"></a>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs8, sc8
 msgctxt "dn29:8.1"
-msgid "Idha pana, cunda, satthā ca hoti sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito,"
-msgstr "Take the case where a teacher is awakened, and the teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha."
+msgid "Idha pana, cunda, satthā ca hoti sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, "
+msgstr "Take the case where a teacher is awakened, and the teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha. "
 
 msgctxt "dn29:8.2"
-msgid "sāvako ca tasmiṃ dhamme na dhammānudhammappaṭipanno viharati, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattati."
-msgstr "A disciple in that teaching does not practice in line with the teachings, does not practice following that procedure, does not live in line with the teaching. They proceed having turned away from that teaching."
+msgid "sāvako ca tasmiṃ dhamme na dhammānudhammappaṭipanno viharati, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattati. "
+msgstr "A disciple in that teaching does not practice in line with the teachings, does not practice following that procedure, does not live in line with the teaching. They proceed having turned away from that teaching. "
 
 msgctxt "dn29:8.3"
-msgid "So evamassa vacanīyo:"
-msgstr "You should say this to them:"
+msgid "So evamassa vacanīyo: "
+msgstr "You should say this to them, "
 
 msgctxt "dn29:8.4"
-msgid "‘tassa te, āvuso, alābhā, tassa te dulladdhaṃ, satthā ca te sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito."
-msgstr "‘It’s your loss, reverend, it’s your misfortune! For your teacher is awakened, and their teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha."
+msgid "‘tassa te, āvuso, alābhā, tassa te dulladdhaṃ, satthā ca te sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. "
+msgstr "‘It’s your loss, reverend, it’s your misfortune! For your teacher is awakened, and their teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha. "
 
 msgctxt "dn29:8.5"
-msgid "Tvañca tasmiṃ dhamme na dhammānudhammappaṭipanno viharasi, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattasī’ti."
-msgstr "But you don’t practice in line with that teaching, you don’t practice following that procedure, you don’t live in line with the teaching. You proceed having turned away from that teaching.’"
+msgid "Tvañca tasmiṃ dhamme na dhammānudhammappaṭipanno viharasi, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattasī’ti. "
+msgstr "But you don’t practice in line with that teaching, you don’t practice following that procedure, you don’t live in line with the teaching. You proceed having turned away from that teaching.’ "
 
 msgctxt "dn29:8.6"
-msgid "Iti kho, cunda, satthāpi tattha pāsaṃso, dhammopi tattha pāsaṃso, sāvako ca tattha evaṃ gārayho."
-msgstr "In such a case the teacher and the teaching deserve praise, but the disciple is to blame."
+msgid "Iti kho, cunda, satthāpi tattha pāsaṃso, dhammopi tattha pāsaṃso, sāvako ca tattha evaṃ gārayho. "
+msgstr "In such a case the teacher and the teaching deserve praise, but the disciple is to blame. "
 
 msgctxt "dn29:8.7"
-msgid "Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya:"
-msgstr "Suppose someone was to say to such a disciple:"
+msgid "Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya: "
+msgstr "Suppose someone was to say to such a disciple, "
 
 msgctxt "dn29:8.8"
-msgid "‘etāyasmā tathā paṭipajjatu yathā te satthārā dhammo desito paññatto’ti."
-msgstr "‘Come on, venerable, practice as taught and pointed out by your teacher.’"
+msgid "‘etāyasmā tathā paṭipajjatu yathā te satthārā dhammo desito paññatto’ti. "
+msgstr "‘Come on, venerable, practice as taught and pointed out by your teacher.’ "
 
 msgctxt "dn29:8.9"
-msgid "Yo ca samādapeti, yañca samādapeti, yo ca samādapito tathattāya paṭipajjati. Sabbe te bahuṃ puññaṃ pasavanti."
-msgstr "The one who encourages, the one who they encourage, and the one who practices accordingly all make much merit."
+msgid "Yo ca samādapeti, yañca samādapeti, yo ca samādapito tathattāya paṭipajjati. Sabbe te bahuṃ puññaṃ pasavanti. "
+msgstr "The one who encourages, the one who they encourage, and the one who practices accordingly all make much merit. "
 
 msgctxt "dn29:8.10"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:8.11"
-msgid "Evañhetaṃ, cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike upasamasaṃvattanike sammāsambuddhappavedite."
-msgstr "It’s because that teaching and training is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha."
+msgid "Evañhetaṃ, cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike upasamasaṃvattanike sammāsambuddhappavedite. "
+msgstr "It’s because that teaching and training is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs9"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.121"></a>
-#. <a class="sc" id="sc9"></a>
+#. HTML: </p><p>
+#. REF: pts-cs9, pts-vp-pli3.121, sc9
 msgctxt "dn29:9.1"
-msgid "Idha pana, cunda, satthā ca hoti sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito,"
-msgstr "Take the case where a teacher is awakened, and the teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha."
+msgid "Idha pana, cunda, satthā ca hoti sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, "
+msgstr "Take the case where a teacher is awakened, and the teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha. "
 
 msgctxt "dn29:9.2"
-msgid "sāvako ca tasmiṃ dhamme dhammānudhammappaṭipanno viharati sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattati."
-msgstr "A disciple in that teaching practices in line with the teachings, practices following that procedure, lives in line with the teaching. They proceed having undertaken that teaching."
+msgid "sāvako ca tasmiṃ dhamme dhammānudhammappaṭipanno viharati sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattati. "
+msgstr "A disciple in that teaching practices in line with the teachings, practices following that procedure, lives in line with the teaching. They proceed having undertaken that teaching. "
 
 msgctxt "dn29:9.3"
-msgid "So evamassa vacanīyo:"
-msgstr "You should say this to them:"
+msgid "So evamassa vacanīyo: "
+msgstr "You should say this to them, "
 
 msgctxt "dn29:9.4"
 msgid "‘tassa te, āvuso, lābhā, tassa te suladdhaṃ, "
@@ -295,1841 +279,1786 @@ msgstr "‘You’re fortunate, reverend, you’re so very fortunate! "
 
 #. VAR: satthā ca te → satthā ca te arahaṃ (s1-3, pts1)
 msgctxt "dn29:9.5"
-msgid "satthā ca te sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito."
-msgstr "For your teacher is awakened, and their teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha."
+msgid "satthā ca te sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. "
+msgstr "For your teacher is awakened, and their teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha. "
 
 msgctxt "dn29:9.6"
-msgid "Tvañca tasmiṃ dhamme dhammānudhammappaṭipanno viharasi sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattasī’ti."
-msgstr "And you practice in line with that teaching, you practice following that procedure, you live in line with the teaching. You proceed having undertaken that teaching.’"
+msgid "Tvañca tasmiṃ dhamme dhammānudhammappaṭipanno viharasi sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattasī’ti. "
+msgstr "And you practice in line with that teaching, you practice following that procedure, you live in line with the teaching. You proceed having undertaken that teaching.’ "
 
 msgctxt "dn29:9.7"
-msgid "Iti kho, cunda, satthāpi tattha pāsaṃso, dhammopi tattha pāsaṃso, sāvakopi tattha evaṃ pāsaṃso."
-msgstr "In such a case the teacher, the teaching, and the disciple all deserve praise."
+msgid "Iti kho, cunda, satthāpi tattha pāsaṃso, dhammopi tattha pāsaṃso, sāvakopi tattha evaṃ pāsaṃso. "
+msgstr "In such a case the teacher, the teaching, and the disciple all deserve praise. "
 
 msgctxt "dn29:9.8"
-msgid "Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya:"
-msgstr "Suppose someone was to say to such a disciple:"
+msgid "Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya: "
+msgstr "Suppose someone was to say to such a disciple, "
 
 msgctxt "dn29:9.9"
-msgid "‘addhāyasmā ñāyappaṭipanno ñāyamārādhessatī’ti."
-msgstr "‘Clearly the venerable is practicing following the method and will succeed in completing that method.’"
+msgid "‘addhāyasmā ñāyappaṭipanno ñāyamārādhessatī’ti. "
+msgstr "‘Clearly the venerable is practicing methodically and will succeed in completing that method.’ "
 
 #. VAR: pasaṃsito → pasattho (s1-3, pts1)
 msgctxt "dn29:9.10"
-msgid "Yo ca pasaṃsati, yañca pasaṃsati, yo ca pasaṃsito bhiyyoso mattāya vīriyaṃ ārabhati. Sabbe te bahuṃ puññaṃ pasavanti."
-msgstr "The one who praises, the one who they praise, and the one who, being praised, rouses up even more energy all make much merit."
+msgid "Yo ca pasaṃsati, yañca pasaṃsati, yo ca pasaṃsito bhiyyoso mattāya vīriyaṃ ārabhati. Sabbe te bahuṃ puññaṃ pasavanti. "
+msgstr "The one who praises, the one who they praise, and the one who, being praised, rouses up even more energy all make much merit. "
 
 msgctxt "dn29:9.11"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:9.12"
-msgid "Evañhetaṃ, cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike upasamasaṃvattanike sammāsambuddhappavedite."
-msgstr "It’s because that teaching and training is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha."
+msgid "Evañhetaṃ, cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike upasamasaṃvattanike sammāsambuddhappavedite. "
+msgstr "It’s because that teaching and training is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha. "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:9.13"
-msgid "3. Sāvakānutappasatthu"
-msgstr "3. When Disciples Have Regrets"
+msgid "3. Sāvakānutappasatthu "
+msgstr "3. When Disciples Have Regrets "
 
-# Comm: aviññāpitatthāti abodhitatthā. I think this is a mistake. it is to be understood in line with the Buddha inviting the monks to question him on his deathbed. viññāpita is used in the sense “asked about or for”.
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs10"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.122"></a>
-#. <a class="sc" id="sc10"></a>
+# NOTE: Comm: aviññāpitatthāti abodhitatthā. I think this is a mistake. it is to be understood in line with the Buddha inviting the monks to question him on his deathbed. viññāpita is used in the sense “asked about or for”.
+#. HTML: </h2><p>
+#. REF: pts-cs10, pts-vp-pli3.122, sc10
 msgctxt "dn29:10.1"
-msgid "Idha pana, cunda, satthā ca loke udapādi arahaṃ sammāsambuddho,  dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, "
+msgid "Idha pana, cunda, satthā ca loke udapādi arahaṃ sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, "
 msgstr "Take the case where a teacher arises in the world who is perfected, a fully awakened Buddha. The teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is fully awakened. "
 
 msgctxt "dn29:10.2"
-msgid "aviññāpitatthā cassa honti sāvakā saddhamme, na ca tesaṃ kevalaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ."
-msgstr "But the disciples haven’t inquired about the meaning of that good teaching. And the spiritual practice that’s entirely full and pure has not been disclosed and revealed to them with all its collected sayings, with its demonstrable basis, well proclaimed wherever there are gods and humans."
+msgid "aviññāpitatthā cassa honti sāvakā saddhamme, na ca tesaṃ kevalaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. "
+msgstr "But the disciples haven’t inquired about the meaning of that good teaching. And the spiritual practice that’s entirely full and pure has not been disclosed and revealed to them with all its collected sayings, with its demonstrable basis, well proclaimed wherever there are gods and humans. "
 
 msgctxt "dn29:10.3"
-msgid "Atha nesaṃ satthuno antaradhānaṃ hoti."
-msgstr "And then their teacher passes away."
+msgid "Atha nesaṃ satthuno antaradhānaṃ hoti. "
+msgstr "And then their teacher passes away. "
 
 msgctxt "dn29:10.4"
-msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato anutappo hoti."
-msgstr "When such a teacher has passed away the disciples are tormented by regrets."
+msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato anutappo hoti. "
+msgstr "When such a teacher has passed away the disciples are tormented by regrets. "
 
 msgctxt "dn29:10.5"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:10.6"
-msgid "‘Satthā ca no loke udapādi arahaṃ sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, aviññāpitatthā camha saddhamme, na ca no kevalaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ."
-msgstr "They think: ‘Our teacher was perfected, a fully awakened Buddha. His teaching was well explained, but we didn’t inquire about the meaning, and the spiritual practice was not fully disclosed to us."
+msgid "‘Satthā ca no loke udapādi arahaṃ sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, aviññāpitatthā camha saddhamme, na ca no kevalaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. "
+msgstr "They think: ‘Our teacher was perfected, a fully awakened Buddha. His teaching was well explained, but we didn’t inquire about the meaning, and the spiritual practice was not fully disclosed to us. "
 
 msgctxt "dn29:10.7"
-msgid "Atha no satthuno antaradhānaṃ hotī’ti."
-msgstr "And then our teacher passed away.’"
+msgid "Atha no satthuno antaradhānaṃ hotī’ti. "
+msgstr "And then our teacher passed away.’ "
 
 msgctxt "dn29:10.8"
-msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato anutappo hoti."
-msgstr "When such a teacher has passed away the disciples are tormented by regrets."
+msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato anutappo hoti. "
+msgstr "When such a teacher has passed away the disciples are tormented by regrets. "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:10.9"
-msgid "4. Sāvakānanutappasatthu"
-msgstr "4. When Disciples Have No Regrets"
+msgid "4. Sāvakānanutappasatthu "
+msgstr "4. When Disciples Have No Regrets "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs11"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.123"></a>
-#. <a class="sc" id="sc11"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs11, pts-vp-pli3.123, sc11
 msgctxt "dn29:11.1"
-msgid "Idha pana, cunda, satthā ca loke udapādi arahaṃ sammāsambuddho. Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito."
-msgstr "Take the case where a teacher arises in the world who is perfected, a fully awakened Buddha. The teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is fully awakened."
+msgid "Idha pana, cunda, satthā ca loke udapādi arahaṃ sammāsambuddho. Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. "
+msgstr "Take the case where a teacher arises in the world who is perfected, a fully awakened Buddha. The teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is fully awakened. "
 
 msgctxt "dn29:11.2"
-msgid "Viññāpitatthā cassa honti sāvakā saddhamme, kevalañca tesaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ."
-msgstr "The disciples have inquired about the meaning of that good teaching. And the spiritual practice that’s entirely full and pure has been disclosed and revealed to them with all its collected sayings, with its demonstrable basis, well proclaimed wherever there are gods and humans."
+msgid "Viññāpitatthā cassa honti sāvakā saddhamme, kevalañca tesaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. "
+msgstr "The disciples have inquired about the meaning of that good teaching. And the spiritual practice that’s entirely full and pure has been disclosed and revealed to them with all its collected sayings, with its demonstrable basis, well proclaimed wherever there are gods and humans. "
 
 msgctxt "dn29:11.3"
-msgid "Atha nesaṃ satthuno antaradhānaṃ hoti."
-msgstr "And then their teacher passes away."
+msgid "Atha nesaṃ satthuno antaradhānaṃ hoti. "
+msgstr "And then their teacher passes away. "
 
 msgctxt "dn29:11.4"
-msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato ananutappo hoti."
-msgstr "When such a teacher has passed away the disciples are free of regrets."
+msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato ananutappo hoti. "
+msgstr "When such a teacher has passed away the disciples are free of regrets. "
 
 msgctxt "dn29:11.5"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:11.6"
-msgid "‘Satthā ca no loke udapādi arahaṃ sammāsambuddho."
-msgstr "They think: ‘Our teacher was perfected, a fully awakened Buddha."
+msgid "‘Satthā ca no loke udapādi arahaṃ sammāsambuddho. "
+msgstr "They think: ‘Our teacher was perfected, a fully awakened Buddha. "
 
 msgctxt "dn29:11.7"
-msgid "Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito."
-msgstr "His teaching was well explained,"
+msgid "Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. "
+msgstr "His teaching was well explained, "
 
 msgctxt "dn29:11.8"
-msgid "Viññāpitatthā camha saddhamme, kevalañca no paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ."
-msgstr "we inquired about the meaning, and the spiritual practice was fully disclosed to us."
+msgid "Viññāpitatthā camha saddhamme, kevalañca no paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. "
+msgstr "we inquired about the meaning, and the spiritual practice was fully disclosed to us. "
 
 msgctxt "dn29:11.9"
-msgid "Atha no satthuno antaradhānaṃ hotī’ti."
-msgstr "And then our teacher passed away.’"
+msgid "Atha no satthuno antaradhānaṃ hotī’ti. "
+msgstr "And then our teacher passed away.’ "
 
 msgctxt "dn29:11.10"
-msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato ananutappo hoti."
-msgstr "When such a teacher has passed away the disciples are free of regrets."
+msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato ananutappo hoti. "
+msgstr "When such a teacher has passed away the disciples are free of regrets. "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:11.11"
-msgid "5. Brahmacariyaaparipūrādikathā"
-msgstr "5. On the Incomplete Spiritual Path, Etc."
+msgid "5. Brahmacariyaaparipūrādikathā "
+msgstr "5. On the Incomplete Spiritual Path, Etc. "
 
-# Both RD and MW seem to take this as referring to a monk. But it refers to the Buddha, as is made clear in the recapitulation.
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs12"></a>
-#. <a class="sc" id="sc12"></a>
+# NOTE: Both RD and MW seem to take this as referring to a monk. But it refers to the Buddha, as is made clear in the recapitulation.
+#. HTML: </h2><p>
+#. REF: pts-cs12, sc12
 msgctxt "dn29:12.1"
-msgid "Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, no ca kho satthā hoti thero rattaññū cirapabbajito addhagato vayoanuppatto."
-msgstr "Now suppose, Cunda, that a spiritual path possesses those factors. But the teacher is not senior, long standing, long gone forth, advanced in years, and reached the final stage of life."
+msgid "Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, no ca kho satthā hoti thero rattaññū cirapabbajito addhagato vayoanuppatto. "
+msgstr "Now suppose, Cunda, that a spiritual path possesses those factors. But the teacher is not senior, long standing, long gone forth, advanced in years, and reached the final stage of life. "
 
 msgctxt "dn29:12.2"
-msgid "Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena."
-msgstr "Then that spiritual path is incomplete in that respect."
+msgid "Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena. "
+msgstr "Then that spiritual path is incomplete in that respect. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs13"></a>
-#. <a class="sc" id="sc13"></a>
+#. HTML: </p><p>
+#. REF: pts-cs13, sc13
 msgctxt "dn29:13.1"
-msgid "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto."
-msgstr "But when a spiritual path possesses those factors and the teacher is senior,"
+msgid "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto. "
+msgstr "But when a spiritual path possesses those factors and the teacher is senior, "
 
 msgctxt "dn29:13.2"
-msgid "Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena."
-msgstr "then that spiritual path is complete in that respect."
+msgid "Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena. "
+msgstr "then that spiritual path is complete in that respect. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs14"></a>
-#. <a class="sc" id="sc14"></a>
+#. HTML: </p><p>
+#. REF: pts-cs14, sc14
 msgctxt "dn29:14.1"
-msgid "Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, no ca khvassa therā bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
-msgstr "Now suppose that a spiritual path possesses those factors and the teacher is senior. But there are no senior monk disciples who are competent, educated, assured, have attained sanctuary,"
+msgid "Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, no ca khvassa therā bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. "
+msgstr "Now suppose that a spiritual path possesses those factors and the teacher is senior. But there are no senior monk disciples who are competent, educated, assured, have attained sanctuary, "
 
 msgctxt "dn29:14.2"
-msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ."
-msgstr "who can rightly explain the true teaching, and who can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis."
+msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. "
+msgstr "who can rightly explain the true teaching, and who can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis. "
 
 msgctxt "dn29:14.3"
-msgid "Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena."
-msgstr "Then that spiritual path is incomplete in that respect."
+msgid "Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena. "
+msgstr "Then that spiritual path is incomplete in that respect. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs15"></a>
-#. <a class="sc" id="sc15"></a>
+#. HTML: </p><p>
+#. REF: pts-cs15, sc15
 msgctxt "dn29:15.1"
-msgid "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
-msgstr "But when a spiritual path possesses those factors and the teacher is senior and there are competent senior monks,"
+msgid "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. "
+msgstr "But when a spiritual path possesses those factors and the teacher is senior and there are competent senior monks, "
 
 msgctxt "dn29:15.2"
-msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ."
-msgstr ""
+msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. "
+msgstr " "
 
 msgctxt "dn29:15.3"
-msgid "Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena."
-msgstr "then that spiritual path is complete in that respect."
+msgid "Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena. "
+msgstr "then that spiritual path is complete in that respect. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs16"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.124"></a>
-#. <a class="sc" id="sc16"></a>
+#. HTML: </p><p>
+#. REF: pts-cs16, pts-vp-pli3.124, sc16
 msgctxt "dn29:16.1"
-msgid "Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
-msgstr "Now suppose that a spiritual path possesses those factors and the teacher is senior and there are competent senior monks."
+msgid "Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. "
+msgstr "Now suppose that a spiritual path possesses those factors and the teacher is senior and there are competent senior monks. "
 
 msgctxt "dn29:16.2"
-msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ."
-msgstr ""
+msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. "
+msgstr " "
 
 msgctxt "dn29:16.3"
-msgid "No ca khvassa majjhimā bhikkhū sāvakā honti … pe …"
-msgstr "But there are no competent middle monks,"
+msgid "No ca khvassa majjhimā bhikkhū sāvakā honti … pe … "
+msgstr "But there are no competent middle monks, "
 
 msgctxt "dn29:16.4"
-msgid "majjhimā cassa bhikkhū sāvakā honti, no ca khvassa navā bhikkhū sāvakā honti … pe …"
-msgstr "junior monks,"
+msgid "majjhimā cassa bhikkhū sāvakā honti, no ca khvassa navā bhikkhū sāvakā honti … pe … "
+msgstr "junior monks, "
 
 msgctxt "dn29:16.5"
-msgid "navā cassa bhikkhū sāvakā honti, no ca khvassa therā bhikkhuniyo sāvikā honti … pe …"
-msgstr "senior nuns,"
+msgid "navā cassa bhikkhū sāvakā honti, no ca khvassa therā bhikkhuniyo sāvikā honti … pe … "
+msgstr "senior nuns, "
 
 msgctxt "dn29:16.6"
-msgid "therā cassa bhikkhuniyo sāvikā honti, no ca khvassa majjhimā bhikkhuniyo sāvikā honti … pe …"
-msgstr "middle nuns,"
+msgid "therā cassa bhikkhuniyo sāvikā honti, no ca khvassa majjhimā bhikkhuniyo sāvikā honti … pe … "
+msgstr "middle nuns, "
 
 msgctxt "dn29:16.7"
-msgid "majjhimā cassa bhikkhuniyo sāvikā honti, no ca khvassa navā bhikkhuniyo sāvikā honti … pe …"
-msgstr "junior nuns,"
+msgid "majjhimā cassa bhikkhuniyo sāvikā honti, no ca khvassa navā bhikkhuniyo sāvikā honti … pe … "
+msgstr "junior nuns, "
 
 msgctxt "dn29:16.8"
-msgid "navā cassa bhikkhuniyo sāvikā honti, no ca khvassa upāsakā sāvakā honti gihī odātavasanā brahmacārino … pe …"
-msgstr "celibate white-clothed laymen,"
+msgid "navā cassa bhikkhuniyo sāvikā honti, no ca khvassa upāsakā sāvakā honti gihī odātavasanā brahmacārino … pe … "
+msgstr "celibate white-clothed laymen, "
 
 msgctxt "dn29:16.9"
-msgid "upāsakā cassa sāvakā honti gihī odātavasanā brahmacārino, no ca khvassa upāsakā sāvakā honti gihī odātavasanā kāmabhogino … pe …"
-msgstr "white-clothed laymen enjoying sensual pleasures,"
+msgid "upāsakā cassa sāvakā honti gihī odātavasanā brahmacārino, no ca khvassa upāsakā sāvakā honti gihī odātavasanā kāmabhogino … pe … "
+msgstr "white-clothed laymen enjoying sensual pleasures, "
 
 msgctxt "dn29:16.10"
-msgid "upāsakā cassa sāvakā honti gihī odātavasanā kāmabhogino, no ca khvassa upāsikā sāvikā honti gihiniyo odātavasanā brahmacāriniyo … pe …"
-msgstr "celibate white-clothed laywomen,"
+msgid "upāsakā cassa sāvakā honti gihī odātavasanā kāmabhogino, no ca khvassa upāsikā sāvikā honti gihiniyo odātavasanā brahmacāriniyo … pe … "
+msgstr "celibate white-clothed laywomen, "
 
 msgctxt "dn29:16.11"
-msgid "upāsikā cassa sāvikā honti gihiniyo odātavasanā brahmacāriniyo, no ca khvassa upāsikā sāvikā honti gihiniyo odātavasanā kāmabhoginiyo … pe …"
-msgstr "white-clothed laywomen enjoying sensual pleasures. …"
+msgid "upāsikā cassa sāvikā honti gihiniyo odātavasanā brahmacāriniyo, no ca khvassa upāsikā sāvikā honti gihiniyo odātavasanā kāmabhoginiyo … pe … "
+msgstr "white-clothed laywomen enjoying sensual pleasures. … "
 
 msgctxt "dn29:16.12"
-msgid "upāsikā cassa sāvikā honti gihiniyo odātavasanā kāmabhoginiyo, no ca khvassa brahmacariyaṃ hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ … pe …"
-msgstr "There are white-clothed laywomen enjoying sensual pleasures, but the spiritual path is not successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans …"
+msgid "upāsikā cassa sāvikā honti gihiniyo odātavasanā kāmabhoginiyo, no ca khvassa brahmacariyaṃ hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ … pe … "
+msgstr "There are white-clothed laywomen enjoying sensual pleasures, but the spiritual path is not successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans … "
 
 msgctxt "dn29:16.13"
-msgid "brahmacariyañcassa hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ, no ca kho lābhaggayasaggappattaṃ."
-msgstr "the spiritual path is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans, but it has not reached the peak of material possessions and fame."
+msgid "brahmacariyañcassa hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ, no ca kho lābhaggayasaggappattaṃ. "
+msgstr "the spiritual path is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans, but it has not reached the peak of material possessions and fame. "
 
 msgctxt "dn29:16.14"
-msgid "Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena."
-msgstr "Then that spiritual path is incomplete in that respect."
+msgid "Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena. "
+msgstr "Then that spiritual path is incomplete in that respect. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs17"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.125"></a>
-#. <a class="sc" id="sc17"></a>
+#. HTML: </p><p>
+#. REF: pts-cs17, pts-vp-pli3.125, sc17
 msgctxt "dn29:17.1"
-msgid "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
-msgstr "But when a spiritual path possesses those factors and the teacher is senior and there are competent senior monks,"
+msgid "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. "
+msgstr "But when a spiritual path possesses those factors and the teacher is senior and there are competent senior monks, "
 
 msgctxt "dn29:17.2"
-msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ."
-msgstr ""
+msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. "
+msgstr " "
 
 msgctxt "dn29:17.3"
-msgid "Majjhimā cassa bhikkhū sāvakā honti …"
-msgstr "middle monks,"
+msgid "Majjhimā cassa bhikkhū sāvakā honti … "
+msgstr "middle monks, "
 
 msgctxt "dn29:17.4"
-msgid "navā cassa bhikkhū sāvakā honti …"
-msgstr "junior monks,"
+msgid "navā cassa bhikkhū sāvakā honti … "
+msgstr "junior monks, "
 
 msgctxt "dn29:17.5"
-msgid "therā cassa bhikkhuniyo sāvikā honti …"
-msgstr "senior nuns,"
+msgid "therā cassa bhikkhuniyo sāvikā honti … "
+msgstr "senior nuns, "
 
 msgctxt "dn29:17.6"
-msgid "majjhimā cassa bhikkhuniyo sāvikā honti …"
-msgstr "middle nuns,"
+msgid "majjhimā cassa bhikkhuniyo sāvikā honti … "
+msgstr "middle nuns, "
 
 msgctxt "dn29:17.7"
-msgid "navā cassa bhikkhuniyo sāvikā honti …"
-msgstr "junior nuns,"
+msgid "navā cassa bhikkhuniyo sāvikā honti … "
+msgstr "junior nuns, "
 
 msgctxt "dn29:17.8"
-msgid "upāsakā cassa sāvakā honti … gihī odātavasanā brahmacārino."
-msgstr "celibate laymen,"
+msgid "upāsakā cassa sāvakā honti … gihī odātavasanā brahmacārino. "
+msgstr "celibate laymen, "
 
 msgctxt "dn29:17.9"
-msgid "Upāsakā cassa sāvakā honti gihī odātavasanā kāmabhogino …"
-msgstr "laymen enjoying sensual pleasures,"
+msgid "Upāsakā cassa sāvakā honti gihī odātavasanā kāmabhogino … "
+msgstr "laymen enjoying sensual pleasures, "
 
 msgctxt "dn29:17.10"
-msgid "upāsikā cassa sāvikā honti gihiniyo odātavasanā brahmacāriniyo …"
-msgstr "celibate laywomen,"
+msgid "upāsikā cassa sāvikā honti gihiniyo odātavasanā brahmacāriniyo … "
+msgstr "celibate laywomen, "
 
 msgctxt "dn29:17.11"
-msgid "upāsikā cassa sāvikā honti gihiniyo odātavasanā kāmabhoginiyo …"
-msgstr "laywomen enjoying sensual pleasures,"
+msgid "upāsikā cassa sāvikā honti gihiniyo odātavasanā kāmabhoginiyo … "
+msgstr "laywomen enjoying sensual pleasures, "
 
 msgctxt "dn29:17.12"
-msgid "brahmacariyañcassa hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ, lābhaggappattañca yasaggappattañca."
-msgstr "and the spiritual path is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans, and it has reached the peak of material possessions and fame,"
+msgid "brahmacariyañcassa hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ, lābhaggappattañca yasaggappattañca. "
+msgstr "and the spiritual path is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans, and it has reached the peak of material possessions and fame, "
 
 msgctxt "dn29:17.13"
-msgid "Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena."
-msgstr "then that spiritual path is complete in that respect."
+msgid "Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena. "
+msgstr "then that spiritual path is complete in that respect. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs18"></a>
-#. <a class="sc" id="sc18"></a>
+#. HTML: </p><p>
+#. REF: pts-cs18, sc18
 msgctxt "dn29:18.1"
-msgid "Ahaṃ kho pana, cunda, etarahi satthā loke uppanno arahaṃ sammāsambuddho."
-msgstr "I, Cunda, am a teacher who has arisen in the world today, perfected and fully awakened."
+msgid "Ahaṃ kho pana, cunda, etarahi satthā loke uppanno arahaṃ sammāsambuddho. "
+msgstr "I, Cunda, am a teacher who has arisen in the world today, perfected and fully awakened. "
 
 msgctxt "dn29:18.2"
-msgid "Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito."
-msgstr "The teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is fully awakened."
+msgid "Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. "
+msgstr "The teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is fully awakened. "
 
 msgctxt "dn29:18.3"
-msgid "Viññāpitatthā ca me sāvakā saddhamme, kevalañca tesaṃ paripūraṃ brahmacariyaṃ āvikataṃ uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ."
-msgstr "My disciples have inquired about the meaning of that good teaching. And the spiritual practice that’s entirely full and pure has been disclosed and revealed to them with all its collected sayings, with its demonstrable basis, well proclaimed wherever there are gods and humans."
+msgid "Viññāpitatthā ca me sāvakā saddhamme, kevalañca tesaṃ paripūraṃ brahmacariyaṃ āvikataṃ uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. "
+msgstr "My disciples have inquired about the meaning of that good teaching. And the spiritual practice that’s entirely full and pure has been disclosed and revealed to them with all its collected sayings, with its demonstrable basis, well proclaimed wherever there are gods and humans. "
 
 msgctxt "dn29:18.4"
-msgid "Ahaṃ kho pana, cunda, etarahi satthā thero rattaññū cirapabbajito addhagato vayoanuppatto."
-msgstr "I am a teacher today who is senior, long standing, long gone forth, advanced in years, and have reached the final stage of life."
+msgid "Ahaṃ kho pana, cunda, etarahi satthā thero rattaññū cirapabbajito addhagato vayoanuppatto. "
+msgstr "I am a teacher today who is senior, long standing, long gone forth, advanced in years, and have reached the final stage of life. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs19"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.126"></a>
-#. <a class="sc" id="sc19"></a>
+#. HTML: </p><p>
+#. REF: pts-cs19, pts-vp-pli3.126, sc19
 msgctxt "dn29:19.1"
-msgid "Santi kho pana me, cunda, etarahi therā bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
-msgstr "I have today disciples who are competent senior monks,"
+msgid "Santi kho pana me, cunda, etarahi therā bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. "
+msgstr "I have today disciples who are competent senior monks, "
 
 msgctxt "dn29:19.2"
-msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ."
-msgstr ""
+msgid "Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. "
+msgstr " "
 
 msgctxt "dn29:19.3"
-msgid "Santi kho pana me, cunda, etarahi majjhimā bhikkhū sāvakā …"
-msgstr "middle monks,"
+msgid "Santi kho pana me, cunda, etarahi majjhimā bhikkhū sāvakā … "
+msgstr "middle monks, "
 
 msgctxt "dn29:19.4"
-msgid "santi kho pana me, cunda, etarahi navā bhikkhū sāvakā …"
-msgstr "junior monks,"
+msgid "santi kho pana me, cunda, etarahi navā bhikkhū sāvakā … "
+msgstr "junior monks, "
 
 msgctxt "dn29:19.5"
-msgid "santi kho pana me, cunda, etarahi therā bhikkhuniyo sāvikā …"
-msgstr "senior nuns,"
+msgid "santi kho pana me, cunda, etarahi therā bhikkhuniyo sāvikā … "
+msgstr "senior nuns, "
 
 msgctxt "dn29:19.6"
-msgid "santi kho pana me, cunda, etarahi majjhimā bhikkhuniyo sāvikā …"
-msgstr "middle nuns,"
+msgid "santi kho pana me, cunda, etarahi majjhimā bhikkhuniyo sāvikā … "
+msgstr "middle nuns, "
 
 msgctxt "dn29:19.7"
-msgid "santi kho pana me, cunda, etarahi navā bhikkhuniyo sāvikā …"
-msgstr "junior nuns,"
+msgid "santi kho pana me, cunda, etarahi navā bhikkhuniyo sāvikā … "
+msgstr "junior nuns, "
 
 msgctxt "dn29:19.8"
-msgid "santi kho pana me, cunda, etarahi upāsakā sāvakā gihī odātavasanā brahmacārino …"
-msgstr "celibate laymen,"
+msgid "santi kho pana me, cunda, etarahi upāsakā sāvakā gihī odātavasanā brahmacārino … "
+msgstr "celibate laymen, "
 
 msgctxt "dn29:19.9"
-msgid "santi kho pana me, cunda, etarahi upāsakā sāvakā gihī odātavasanā kāmabhogino …"
-msgstr "laymen enjoying sensual pleasures,"
+msgid "santi kho pana me, cunda, etarahi upāsakā sāvakā gihī odātavasanā kāmabhogino … "
+msgstr "laymen enjoying sensual pleasures, "
 
 msgctxt "dn29:19.10"
-msgid "santi kho pana me, cunda, etarahi upāsikā sāvikā gihiniyo odātavasanā brahmacāriniyo …"
-msgstr "celibate laywomen,"
+msgid "santi kho pana me, cunda, etarahi upāsikā sāvikā gihiniyo odātavasanā brahmacāriniyo … "
+msgstr "celibate laywomen, "
 
 msgctxt "dn29:19.11"
-msgid "santi kho pana me, cunda, etarahi upāsikā sāvikā gihiniyo odātavasanā kāmabhoginiyo …"
-msgstr "and laywomen enjoying sensual pleasures."
+msgid "santi kho pana me, cunda, etarahi upāsikā sāvikā gihiniyo odātavasanā kāmabhoginiyo … "
+msgstr "and laywomen enjoying sensual pleasures. "
 
 msgctxt "dn29:19.12"
-msgid "etarahi kho pana me, cunda, brahmacariyaṃ iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ."
-msgstr "Today my spiritual life is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans."
+msgid "etarahi kho pana me, cunda, brahmacariyaṃ iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ. "
+msgstr "Today my spiritual life is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs20"></a>
-#. <a class="sc" id="sc20"></a>
+#. HTML: </p><p>
+#. REF: pts-cs20, sc20
 msgctxt "dn29:20.1"
-msgid "Yāvatā kho, cunda, etarahi satthāro loke uppannā, nāhaṃ, cunda, aññaṃ ekasatthārampi samanupassāmi evaṃlābhaggayasaggappattaṃ yatharivāhaṃ."
-msgstr "Of all the teachers in the world today, Cunda, I don’t see even a single one who has reached the peak of material possessions and fame like me."
+msgid "Yāvatā kho, cunda, etarahi satthāro loke uppannā, nāhaṃ, cunda, aññaṃ ekasatthārampi samanupassāmi evaṃlābhaggayasaggappattaṃ yatharivāhaṃ. "
+msgstr "Of all the teachers in the world today, Cunda, I don’t see even a single one who has reached the peak of material possessions and fame like me. "
 
 msgctxt "dn29:20.2"
-msgid "Yāvatā kho pana, cunda, etarahi saṅgho vā gaṇo vā loke uppanno;"
-msgstr "Of all the spiritual communities and groups in the world today, Cunda, I don’t see even a single one who has reached the pinnacle of material possessions and fame like the mendicant Saṅgha."
+msgid "Yāvatā kho pana, cunda, etarahi saṅgho vā gaṇo vā loke uppanno; "
+msgstr "Of all the spiritual communities and groups in the world today, Cunda, I don’t see even a single one who has reached the pinnacle of material possessions and fame like the mendicant Saṅgha. "
 
 msgctxt "dn29:20.3"
-msgid "nāhaṃ, cunda, aññaṃ ekasaṅghampi samanupassāmi evaṃlābhaggayasaggappattaṃ yatharivāyaṃ, cunda, bhikkhusaṅgho."
-msgstr ""
+msgid "nāhaṃ, cunda, aññaṃ ekasaṅghampi samanupassāmi evaṃlābhaggayasaggappattaṃ yatharivāyaṃ, cunda, bhikkhusaṅgho. "
+msgstr " "
 
 msgctxt "dn29:20.4"
-msgid "Yaṃ kho taṃ, cunda, sammā vadamāno vadeyya:"
-msgstr "And if there’s any spiritual path of which it may be rightly said that"
+msgid "Yaṃ kho taṃ, cunda, sammā vadamāno vadeyya: "
+msgstr "And if there’s any spiritual path of which it may be rightly said that "
 
 msgctxt "dn29:20.5"
-msgid "‘sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsitan’ti."
-msgstr "it’s endowed with all good qualities, complete in all good qualities, neither too little nor too much, well explained, whole, full, and well propounded,"
+msgid "‘sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsitan’ti. "
+msgstr "it’s endowed with all good qualities, complete in all good qualities, neither too little nor too much, well explained, whole, full, and well propounded, "
 
 msgctxt "dn29:20.6"
-msgid "Idameva taṃ sammā vadamāno vadeyya:"
-msgstr "it’s of this spiritual path that this should be said."
+msgid "Idameva taṃ sammā vadamāno vadeyya: "
+msgstr "it’s of this spiritual path that this should be said. "
 
 msgctxt "dn29:20.7"
-msgid "‘sabbākārasampannaṃ … pe … suppakāsitan’ti."
-msgstr ""
+msgid "‘sabbākārasampannaṃ … pe … suppakāsitan’ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs21"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.127"></a>
-#. <a class="sc" id="sc21"></a>
+#. HTML: </p><p>
+#. REF: pts-cs21, pts-vp-pli3.127, sc21
 #. VAR: Udako → uddako (bj, s1-3, pts1)
 msgctxt "dn29:21.1"
-msgid "Udako sudaṃ, cunda, rāmaputto evaṃ vācaṃ bhāsati:"
-msgstr "Uddaka, son of Rāma, used to say:"
+msgid "Udako sudaṃ, cunda, rāmaputto evaṃ vācaṃ bhāsati: "
+msgstr "Uddaka, son of Rāma, used to say: "
 
 msgctxt "dn29:21.2"
-msgid "‘passaṃ na passatī’ti."
-msgstr "‘Seeing, one does not see.’"
+msgid "‘passaṃ na passatī’ti. "
+msgstr "‘Seeing, one does not see.’ "
 
 msgctxt "dn29:21.3"
-msgid "Kiñca passaṃ na passatīti?"
-msgstr "But seeing what does one not see?"
+msgid "Kiñca passaṃ na passatīti? "
+msgstr "But seeing what does one not see? "
 
 #. VAR: na passati → na passatīti (s1-3, mr)
 msgctxt "dn29:21.4"
-msgid "Khurassa sādhunisitassa talamassa passati, dhārañca khvassa na passati."
-msgstr "You can see the blade of a well-sharpened razor, but not the edge."
+msgid "Khurassa sādhunisitassa talamassa passati, dhārañca khvassa na passati. "
+msgstr "You can see the blade of a well-sharpened razor, but not the edge. "
 
 msgctxt "dn29:21.5"
-msgid "Idaṃ vuccati:"
-msgstr "Thus it is said:"
+msgid "Idaṃ vuccati: "
+msgstr "Thus it is said: "
 
 msgctxt "dn29:21.6"
-msgid "‘passaṃ na passatī’ti."
-msgstr "‘Seeing, one does not see.’"
+msgid "‘passaṃ na passatī’ti. "
+msgstr "‘Seeing, one does not see.’ "
 
 msgctxt "dn29:21.7"
-msgid "Yaṃ kho panetaṃ, cunda, udakena rāmaputtena bhāsitaṃ hīnaṃ gammaṃ pothujjanikaṃ anariyaṃ anatthasaṃhitaṃ khurameva sandhāya."
-msgstr "But that saying of Uddaka’s is low, crude, ordinary, ignoble, and pointless, as it’s only concerning a razor."
+msgid "Yaṃ kho panetaṃ, cunda, udakena rāmaputtena bhāsitaṃ hīnaṃ gammaṃ pothujjanikaṃ anariyaṃ anatthasaṃhitaṃ khurameva sandhāya. "
+msgstr "But that saying of Uddaka’s is low, crude, ordinary, ignoble, and pointless, as it’s only concerning a razor. "
 
 #. VAR: Yañca taṃ → yañcetaṃ (bj, s1-3, mr)
 msgctxt "dn29:21.8"
-msgid "Yañca taṃ, cunda, sammā vadamāno vadeyya:"
-msgstr "If there’s anything of which it may be rightly said:"
+msgid "Yañca taṃ, cunda, sammā vadamāno vadeyya: "
+msgstr "If there’s anything of which it may be rightly said: "
 
 #. VAR: idameva taṃ → idamevetaṃ (bj, mr)
 msgctxt "dn29:21.9"
-msgid "‘passaṃ na passatī’ti, idameva taṃ sammā vadamāno vadeyya:"
-msgstr "‘Seeing, one does not see,’ it’s of this that it should be said."
+msgid "‘passaṃ na passatī’ti, idameva taṃ sammā vadamāno vadeyya: "
+msgstr "‘Seeing, one does not see,’ it’s of this that it should be said. "
 
 msgctxt "dn29:21.10"
-msgid "‘passaṃ na passatī’ti."
-msgstr ""
+msgid "‘passaṃ na passatī’ti. "
+msgstr " "
 
 msgctxt "dn29:21.11"
-msgid "Kiñca passaṃ na passatīti?"
-msgstr "Seeing what does one not see?"
+msgid "Kiñca passaṃ na passatīti? "
+msgstr "Seeing what does one not see? "
 
 #. VAR: paripūraṃ → pari­suddha­taraṃ (bj, s1-3, mr) | paripūrataraṃ (?)
 #. VAR: hetaṃ passati → na passatīti (s1-3, mr)
 msgctxt "dn29:21.12"
-msgid "Evaṃ sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsitanti, iti hetaṃ passati."
-msgstr "One sees this: a spiritual path endowed with all good qualities, complete in all good qualities, neither too little nor too much, well explained, whole, full, and well propounded."
+msgid "Evaṃ sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsitanti, iti hetaṃ passati. "
+msgstr "One sees this: a spiritual path endowed with all good qualities, complete in all good qualities, neither too little nor too much, well explained, whole, full, and well propounded. "
 
 msgctxt "dn29:21.13"
-msgid "Idamettha apakaḍḍheyya, evaṃ taṃ parisuddhataraṃ assāti, iti hetaṃ na passati."
-msgstr "One does not see this: anything that, were it to be removed, would make it purer."
+msgid "Idamettha apakaḍḍheyya, evaṃ taṃ parisuddhataraṃ assāti, iti hetaṃ na passati. "
+msgstr "One does not see this: anything that, were it to be removed, would make it purer. "
 
 msgctxt "dn29:21.14"
-msgid "Idamettha upakaḍḍheyya, evaṃ taṃ paripūraṃ assāti, iti hetaṃ na passati."
-msgstr "One does not see this: anything that, were it to be added, would make it more complete."
+msgid "Idamettha upakaḍḍheyya, evaṃ taṃ paripūraṃ assāti, iti hetaṃ na passati. "
+msgstr "One does not see this: anything that, were it to be added, would make it more complete. "
 
 msgctxt "dn29:21.15"
-msgid "Idaṃ vuccati, cunda:"
-msgstr "Thus it is rightly said:"
+msgid "Idaṃ vuccati, cunda: "
+msgstr "Thus it is rightly said: "
 
 msgctxt "dn29:21.16"
-msgid "‘passaṃ na passatī’ti."
-msgstr "‘Seeing, one does not see.’"
+msgid "‘passaṃ na passatī’ti. "
+msgstr "‘Seeing, one does not see.’ "
 
 msgctxt "dn29:21.17"
-msgid "Yaṃ kho taṃ, cunda, sammā vadamāno vadeyya:"
-msgstr ""
+msgid "Yaṃ kho taṃ, cunda, sammā vadamāno vadeyya: "
+msgstr " "
 
 msgctxt "dn29:21.18"
-msgid "‘sabbākārasampannaṃ … pe …"
-msgstr ""
+msgid "‘sabbākārasampannaṃ … pe … "
+msgstr " "
 
 msgctxt "dn29:21.19"
-msgid "brahmacariyaṃ suppakāsitan’ti."
-msgstr ""
+msgid "brahmacariyaṃ suppakāsitan’ti. "
+msgstr " "
 
 msgctxt "dn29:21.20"
-msgid "Idameva taṃ sammā vadamāno vadeyya:"
-msgstr ""
+msgid "Idameva taṃ sammā vadamāno vadeyya: "
+msgstr " "
 
 msgctxt "dn29:21.21"
-msgid "‘sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsitan’ti."
-msgstr ""
+msgid "‘sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsitan’ti. "
+msgstr " "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:21.22"
-msgid "6. Saṅgāyitabbadhamma"
-msgstr "6. Teachings Should be Recited in Concert"
+msgid "6. Saṅgāyitabbadhamma "
+msgstr "6. Teachings Should be Recited in Concert "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs22"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.128"></a>
-#. <a class="sc" id="sc22"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs22, pts-vp-pli3.128, sc22
 msgctxt "dn29:22.1"
-msgid "Tasmātiha, cunda, ye vo mayā dhammā abhiññā desitā, tattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ."
-msgstr "So, Cunda, you should all come together and recite in concert, without disputing, those things I have taught you from my direct knowledge, comparing meaning with meaning and phrasing with phrasing, so that this spiritual path may last for a long time. That would be for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans."
+msgid "Tasmātiha, cunda, ye vo mayā dhammā abhiññā desitā, tattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ. "
+msgstr "So, Cunda, you should all come together and recite in concert, without disputing, those things I have taught you from my direct knowledge, comparing meaning with meaning and phrasing with phrasing, so that this spiritual path may last for a long time. That would be for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. "
 
 msgctxt "dn29:22.2"
-msgid "Katame ca te, cunda, dhammā mayā abhiññā desitā, yattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ?"
-msgstr "And what are those things I have taught from my direct knowledge?"
+msgid "Katame ca te, cunda, dhammā mayā abhiññā desitā, yattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ? "
+msgstr "And what are those things I have taught from my direct knowledge? "
 
 msgctxt "dn29:22.3"
-msgid "Seyyathidaṃ—cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo."
-msgstr "They are the four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path."
+msgid "Seyyathidaṃ—cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo. "
+msgstr "They are the four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path. "
 
 msgctxt "dn29:22.4"
-msgid "Ime kho te, cunda, dhammā mayā abhiññā desitā."
-msgstr "These are the things I have taught from my own direct knowledge."
+msgid "Ime kho te, cunda, dhammā mayā abhiññā desitā. "
+msgstr "These are the things I have taught from my own direct knowledge. "
 
 msgctxt "dn29:22.5"
-msgid "Yattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ."
-msgstr ""
+msgid "Yattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ. "
+msgstr " "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:22.6"
-msgid "7. Saññāpetabbavidhi"
-msgstr "7. Reaching Agreement"
+msgid "7. Saññāpetabbavidhi "
+msgstr "7. Reaching Agreement "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs23"></a>
-#. <a class="sc" id="sc23"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs23, sc23
 #. VAR: sikkhataṃ → sikkhitabbaṃ (bahūsu)
 msgctxt "dn29:23.1"
-msgid "Tesañca vo, cunda, samaggānaṃ sammodamānānaṃ avivadamānānaṃ sikkhataṃ aññataro sabrahmacārī saṃghe dhammaṃ bhāseyya."
-msgstr "Suppose one of those spiritual companions who is training in harmony and mutual appreciation, without fighting, were to recite the teaching in the Saṅgha."
+msgid "Tesañca vo, cunda, samaggānaṃ sammodamānānaṃ avivadamānānaṃ sikkhataṃ aññataro sabrahmacārī saṃghe dhammaṃ bhāseyya. "
+msgstr "Suppose one of those spiritual companions who is training in harmony and mutual appreciation, without fighting, were to recite the teaching in the Saṅgha. "
 
 msgctxt "dn29:23.2"
-msgid "Tatra ce tumhākaṃ evamassa:"
-msgstr "Now, you might think:"
+msgid "Tatra ce tumhākaṃ evamassa: "
+msgstr "Now, you might think, "
 
 #. VAR: ceva → yo ceva (s1-3, pts1) | yañceva (mr)
 msgctxt "dn29:23.3"
-msgid "‘ayaṃ kho āyasmā atthañceva micchā gaṇhāti, byañjanāni ca micchā ropetī’ti."
-msgstr "‘This venerable misconstrues the meaning and mistakes the phrasing.’"
+msgid "‘ayaṃ kho āyasmā atthañceva micchā gaṇhāti, byañjanāni ca micchā ropetī’ti. "
+msgstr "‘This venerable misconstrues the meaning and mistakes the phrasing.’ "
 
 msgctxt "dn29:23.4"
-msgid "Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo:"
-msgstr "You should neither approve nor dismiss them, but say:"
+msgid "Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo: "
+msgstr "You should neither approve nor dismiss them, but say, "
 
 #. VAR: imesañca → imesaṃ (sabbattha)
 msgctxt "dn29:23.5"
-msgid "‘imassa nu kho, āvuso, atthassa imāni vā byañjanāni etāni vā byañjanāni katamāni opāyikatarāni, imesañca byañjanānaṃ ayaṃ vā attho eso vā attho katamo opāyikataro’ti?"
-msgstr "‘Reverend, if this is the meaning, the phrasing may either be this or that: which is more fitting? And if this is the phrasing, the meaning may be either this or that: which is more fitting?’"
+msgid "‘imassa nu kho, āvuso, atthassa imāni vā byañjanāni etāni vā byañjanāni katamāni opāyikatarāni, imesañca byañjanānaṃ ayaṃ vā attho eso vā attho katamo opāyikataro’ti? "
+msgstr "‘Reverend, if this is the meaning, the phrasing may either be this or that: which is more fitting? And if this is the phrasing, the meaning may be either this or that: which is more fitting?’ "
 
 msgctxt "dn29:23.6"
-msgid "So ce evaṃ vadeyya:"
-msgstr "Suppose they reply:"
+msgid "So ce evaṃ vadeyya: "
+msgstr "Suppose they reply, "
 
 msgctxt "dn29:23.7"
-msgid "‘imassa kho, āvuso, atthassa imāneva byañjanāni opāyikatarāni, yā ceva etāni; imesañca byañjanānaṃ ayameva attho opāyikataro, yā ceva eso’ti."
-msgstr "‘This phrasing fits the meaning better than that. And this meaning fits the phrasing better than that.’"
+msgid "‘imassa kho, āvuso, atthassa imāneva byañjanāni opāyikatarāni, yā ceva etāni; imesañca byañjanānaṃ ayameva attho opāyikataro, yā ceva eso’ti. "
+msgstr "‘This phrasing fits the meaning better than that. And this meaning fits the phrasing better than that.’ "
 
 msgctxt "dn29:23.8"
-msgid "So neva ussādetabbo na apasādetabbo, anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tassa ca atthassa tesañca byañjanānaṃ nisantiyā."
-msgstr "Without flattering or rebuking them, you should carefully convince them by examining that meaning and that phrasing."
+msgid "So neva ussādetabbo na apasādetabbo, anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tassa ca atthassa tesañca byañjanānaṃ nisantiyā. "
+msgstr "Without flattering or rebuking them, you should carefully convince them by examining that meaning and that phrasing. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs24"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.129"></a>
-#. <a class="sc" id="sc24"></a>
+#. HTML: </p><p>
+#. REF: pts-cs24, pts-vp-pli3.129, sc24
 msgctxt "dn29:24.1"
-msgid "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya."
-msgstr "Suppose another spiritual companion were to recite the teaching in the Saṅgha."
+msgid "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya. "
+msgstr "Suppose another spiritual companion were to recite the teaching in the Saṅgha. "
 
 msgctxt "dn29:24.2"
-msgid "Tatra ce tumhākaṃ evamassa:"
-msgstr "Now, you might think:"
+msgid "Tatra ce tumhākaṃ evamassa: "
+msgstr "Now, you might think, "
 
 msgctxt "dn29:24.3"
-msgid "‘ayaṃ kho āyasmā atthañhi kho micchā gaṇhāti byañjanāni sammā ropetī’ti."
-msgstr "‘This venerable misconstrues the meaning but gets the phrasing right.’"
+msgid "‘ayaṃ kho āyasmā atthañhi kho micchā gaṇhāti byañjanāni sammā ropetī’ti. "
+msgstr "‘This venerable misconstrues the meaning but gets the phrasing right.’ "
 
 msgctxt "dn29:24.4"
-msgid "Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo:"
-msgstr "You should neither approve nor dismiss them, but say:"
+msgid "Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo: "
+msgstr "You should neither approve nor dismiss them, but say, "
 
 msgctxt "dn29:24.5"
-msgid "‘imesaṃ nu kho, āvuso, byañjanānaṃ ayaṃ vā attho eso vā attho katamo opāyikataro’ti?"
-msgstr "‘Reverend, if this is the phrasing, the meaning may be either this or that: which is more fitting?’"
+msgid "‘imesaṃ nu kho, āvuso, byañjanānaṃ ayaṃ vā attho eso vā attho katamo opāyikataro’ti? "
+msgstr "‘Reverend, if this is the phrasing, the meaning may be either this or that: which is more fitting?’ "
 
 msgctxt "dn29:24.6"
-msgid "So ce evaṃ vadeyya:"
-msgstr "Suppose they reply:"
+msgid "So ce evaṃ vadeyya: "
+msgstr "Suppose they reply, "
 
 msgctxt "dn29:24.7"
-msgid "‘imesaṃ kho, āvuso, byañjanānaṃ ayameva attho opāyikataro, yā ceva eso’ti."
-msgstr "‘This meaning fits the phrasing better than that.’"
+msgid "‘imesaṃ kho, āvuso, byañjanānaṃ ayameva attho opāyikataro, yā ceva eso’ti. "
+msgstr "‘This meaning fits the phrasing better than that.’ "
 
 msgctxt "dn29:24.8"
-msgid "So neva ussādetabbo na apasādetabbo, anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tasseva atthassa nisantiyā."
-msgstr "Without flattering or rebuking, you should carefully convince them by examining that meaning."
+msgid "So neva ussādetabbo na apasādetabbo, anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tasseva atthassa nisantiyā. "
+msgstr "Without flattering or rebuking, you should carefully convince them by examining that meaning. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs25"></a>
-#. <a class="sc" id="sc25"></a>
+#. HTML: </p><p>
+#. REF: pts-cs25, sc25
 msgctxt "dn29:25.1"
-msgid "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya."
-msgstr "Suppose another spiritual companion were to recite the teaching in the Saṅgha."
+msgid "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya. "
+msgstr "Suppose another spiritual companion were to recite the teaching in the Saṅgha. "
 
 msgctxt "dn29:25.2"
-msgid "Tatra ce tumhākaṃ evamassa:"
-msgstr "Now, you might think:"
+msgid "Tatra ce tumhākaṃ evamassa: "
+msgstr "Now, you might think, "
 
 msgctxt "dn29:25.3"
-msgid "‘ayaṃ kho āyasmā atthañhi kho sammā gaṇhāti byañjanāni micchā ropetī’ti."
-msgstr "‘This venerable construes the meaning correctly but mistakes the phrasing.’"
+msgid "‘ayaṃ kho āyasmā atthañhi kho sammā gaṇhāti byañjanāni micchā ropetī’ti. "
+msgstr "‘This venerable construes the meaning correctly but mistakes the phrasing.’ "
 
 msgctxt "dn29:25.4"
-msgid "Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ; anabhinanditvā appaṭikkositvā so evamassa vacanīyo:"
-msgstr "You should neither approve nor dismiss them, but say:"
+msgid "Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ; anabhinanditvā appaṭikkositvā so evamassa vacanīyo: "
+msgstr "You should neither approve nor dismiss them, but say, "
 
 msgctxt "dn29:25.5"
-msgid "‘imassa nu kho, āvuso, atthassa imāni vā byañjanāni etāni vā byañjanāni katamāni opāyikatarānī’ti?"
-msgstr "‘Reverend, if this is the meaning, the phrasing may be either this or that: which is more fitting?’"
+msgid "‘imassa nu kho, āvuso, atthassa imāni vā byañjanāni etāni vā byañjanāni katamāni opāyikatarānī’ti? "
+msgstr "‘Reverend, if this is the meaning, the phrasing may be either this or that: which is more fitting?’ "
 
 msgctxt "dn29:25.6"
-msgid "So ce evaṃ vadeyya:"
-msgstr "Suppose they reply:"
+msgid "So ce evaṃ vadeyya: "
+msgstr "Suppose they reply, "
 
 msgctxt "dn29:25.7"
-msgid "‘imassa kho, āvuso, atthassa imāneva byañjanāni opayikatarāni, yā ceva etānī’ti."
-msgstr "‘This phrasing fits the meaning better than that.’"
+msgid "‘imassa kho, āvuso, atthassa imāneva byañjanāni opayikatarāni, yā ceva etānī’ti. "
+msgstr "‘This phrasing fits the meaning better than that.’ "
 
 msgctxt "dn29:25.8"
-msgid "So neva ussādetabbo na apasādetabbo; anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tesaññeva byañjanānaṃ nisantiyā."
-msgstr "Without flattering or rebuking, you should carefully convince them by examining that phrasing."
+msgid "So neva ussādetabbo na apasādetabbo; anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tesaññeva byañjanānaṃ nisantiyā. "
+msgstr "Without flattering or rebuking, you should carefully convince them by examining that phrasing. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs26"></a>
-#. <a class="sc" id="sc26"></a>
+#. HTML: </p><p>
+#. REF: pts-cs26, sc26
 msgctxt "dn29:26.1"
-msgid "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya."
-msgstr "Suppose another spiritual companion were to recite the teaching in the Saṅgha."
+msgid "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya. "
+msgstr "Suppose another spiritual companion were to recite the teaching in the Saṅgha. "
 
 msgctxt "dn29:26.2"
-msgid "Tatra ce tumhākaṃ evamassa:"
-msgstr "Now, you might think:"
+msgid "Tatra ce tumhākaṃ evamassa: "
+msgstr "Now, you might think, "
 
 msgctxt "dn29:26.3"
-msgid "‘ayaṃ kho āyasmā atthañceva sammā gaṇhāti byañjanāni ca sammā ropetī’ti."
-msgstr "‘This venerable construes the meaning correctly and gets the phrasing right.’"
+msgid "‘ayaṃ kho āyasmā atthañceva sammā gaṇhāti byañjanāni ca sammā ropetī’ti. "
+msgstr "‘This venerable construes the meaning correctly and gets the phrasing right.’ "
 
 msgctxt "dn29:26.4"
-msgid "Tassa ‘sādhū’ti bhāsitaṃ abhinanditabbaṃ anumoditabbaṃ;"
-msgstr "Saying ‘Good!’ you should applaud and cheer that mendicant’s statement,"
+msgid "Tassa ‘sādhū’ti bhāsitaṃ abhinanditabbaṃ anumoditabbaṃ; "
+msgstr "Saying ‘Good!’ you should applaud and cheer that mendicant’s statement, "
 
 msgctxt "dn29:26.5"
-msgid "tassa ‘sādhū’ti bhāsitaṃ abhinanditvā anumoditvā so evamassa vacanīyo:"
-msgstr "and then say to them:"
+msgid "tassa ‘sādhū’ti bhāsitaṃ abhinanditvā anumoditvā so evamassa vacanīyo: "
+msgstr "and then say to them, "
 
 msgctxt "dn29:26.6"
 msgid "‘lābhā no, āvuso, suladdhaṃ no, āvuso, "
 msgstr "‘We are fortunate, reverend, so very fortunate "
 
 msgctxt "dn29:26.7"
-msgid "ye mayaṃ āyasmantaṃ tādisaṃ sabrahmacāriṃ passāma evaṃ atthupetaṃ byañjanupetan’ti."
-msgstr "to see a venerable such as yourself, so well-versed in the meaning and the phrasing, as one of our spiritual companions!’"
+msgid "ye mayaṃ āyasmantaṃ tādisaṃ sabrahmacāriṃ passāma evaṃ atthupetaṃ byañjanupetan’ti. "
+msgstr "to see a venerable such as yourself, so well-versed in the meaning and the phrasing, as one of our spiritual companions!’ "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:26.8"
-msgid "8. Paccayānuññātakāraṇa"
-msgstr "8. The Reasons for Allowing Requisites"
+msgid "8. Paccayānuññātakāraṇa "
+msgstr "8. The Reasons for Allowing Requisites "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs27"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.130"></a>
-#. <a class="sc" id="sc27"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs27, pts-vp-pli3.130, sc27
 msgctxt "dn29:27.1"
-msgid "Na vo ahaṃ, cunda, diṭṭhadhammikānaṃyeva āsavānaṃ saṃvarāya dhammaṃ desemi."
-msgstr "Cunda, I do not teach you solely for restraining defilements that affect the present life."
+msgid "Na vo ahaṃ, cunda, diṭṭhadhammikānaṃyeva āsavānaṃ saṃvarāya dhammaṃ desemi. "
+msgstr "Cunda, I do not teach you solely for restraining defilements that affect the present life. "
 
 msgctxt "dn29:27.2"
-msgid "Na panāhaṃ, cunda, samparāyikānaṃyeva āsavānaṃ paṭighātāya dhammaṃ desemi."
-msgstr "Nor do I teach solely for protecting against defilements that affect lives to come."
+msgid "Na panāhaṃ, cunda, samparāyikānaṃyeva āsavānaṃ paṭighātāya dhammaṃ desemi. "
+msgstr "Nor do I teach solely for protecting against defilements that affect lives to come. "
 
 msgctxt "dn29:27.3"
-msgid "Diṭṭhadhammikānaṃ cevāhaṃ, cunda, āsavānaṃ saṃvarāya dhammaṃ desemi;"
-msgstr "I teach both for restraining defilements that affect the present life and"
+msgid "Diṭṭhadhammikānaṃ cevāhaṃ, cunda, āsavānaṃ saṃvarāya dhammaṃ desemi; "
+msgstr "I teach both for restraining defilements that affect the present life and "
 
 #. VAR: ca → cāti (bahūsu)
 msgctxt "dn29:27.4"
-msgid "samparāyikānañca āsavānaṃ paṭighātāya."
-msgstr "protecting against defilements that affect lives to come."
+msgid "samparāyikānañca āsavānaṃ paṭighātāya. "
+msgstr "protecting against defilements that affect lives to come. "
 
-# Both MW and RD have optative mod here, but it is not justified.
+#. HTML: </p><p class="added">
+# NOTE: Both MW and RD have optative mod here, but it is not justified.
 msgctxt "dn29:27.5"
-msgid "Tasmātiha, cunda, yaṃ vo mayā cīvaraṃ anuññātaṃ, alaṃ vo taṃ"
-msgstr "And that’s why I have allowed robes for you that suffice"
+msgid "Tasmātiha, cunda, yaṃ vo mayā cīvaraṃ anuññātaṃ, alaṃ vo taṃ "
+msgstr "And that’s why I have allowed robes for you that suffice "
 
 msgctxt "dn29:27.6"
-msgid "yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṃsamakasavātātapasarīsapasamphassānaṃ paṭighātāya, yāvadeva hirikopīnapaṭicchādanatthaṃ."
-msgstr "only for the sake of warding off cold and heat; for warding off the touch of flies, mosquitoes, wind, sun, and reptiles; and for covering up the private parts."
+msgid "yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṃsamakasavātātapasarīsapasamphassānaṃ paṭighātāya, yāvadeva hirikopīnapaṭicchādanatthaṃ. "
+msgstr "only for the sake of warding off cold and heat; for warding off the touch of flies, mosquitoes, wind, sun, and reptiles; and for covering up the private parts. "
 
 msgctxt "dn29:27.7"
 msgid "Yo vo mayā piṇḍapāto anuññāto, alaṃ vo so "
 msgstr "I have allowed alms-food for you that suffices "
 
 msgctxt "dn29:27.8"
-msgid "yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro ca."
-msgstr "only to continue and sustain this body, avoid harm, and support spiritual practice; so that you will put an end to old discomfort and not give rise to new discomfort, and will keep on living blamelessly and at ease."
+msgid "yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro ca. "
+msgstr "only to continue and sustain this body, avoid harm, and support spiritual practice; so that you will put an end to old discomfort and not give rise to new discomfort, and will keep on living blamelessly and at ease. "
 
 msgctxt "dn29:27.9"
-msgid "Yaṃ vo mayā senāsanaṃ anuññātaṃ, alaṃ vo taṃ"
-msgstr "I have allowed lodgings for you that suffice"
+msgid "Yaṃ vo mayā senāsanaṃ anuññātaṃ, alaṃ vo taṃ "
+msgstr "I have allowed lodgings for you that suffice "
 
 msgctxt "dn29:27.10"
-msgid "yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṃsamakasavātātapasarīsapasamphassānaṃ paṭighātāya, yāvadeva utuparissayavinodanapaṭisallānārāmatthaṃ."
-msgstr "only for the sake of warding off cold and heat; for warding off the touch of flies, mosquitoes, wind, sun, and reptiles; to shelter from harsh weather and to enjoy retreat."
+msgid "yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṃsamakasavātātapasarīsapasamphassānaṃ paṭighātāya, yāvadeva utuparissayavinodanapaṭisallānārāmatthaṃ. "
+msgstr "only for the sake of warding off cold and heat; for warding off the touch of flies, mosquitoes, wind, sun, and reptiles; to shelter from harsh weather and to enjoy retreat. "
 
 msgctxt "dn29:27.11"
 msgid "Yo vo mayā gilānapaccayabhesajjaparikkhāro anuññāto, alaṃ vo so "
 msgstr "I have allowed medicines and supplies for the sick for you that suffice "
 
 msgctxt "dn29:27.12"
-msgid "yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjaparamatāya."
-msgstr "only for the sake of warding off the pains of illness and to promote good health."
+msgid "yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjaparamatāya. "
+msgstr "only for the sake of warding off the pains of illness and to promote good health. "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:27.13"
-msgid "9. Sukhallikānuyoga"
-msgstr "9. Indulgence in Pleasure"
+msgid "9. Sukhallikānuyoga "
+msgstr "9. Indulgence in Pleasure "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs28"></a>
-#. <a class="sc" id="sc28"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs28, sc28
 msgctxt "dn29:28.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "It’s possible that wanderers who follow other paths might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "It’s possible that wanderers who follow other paths might say, "
 
 msgctxt "dn29:28.2"
-msgid "‘sukhallikānuyogamanuyuttā samaṇā sakyaputtiyā viharantī’ti."
-msgstr "‘The ascetics who follow the Sakyan live indulging in pleasure.’"
+msgid "‘sukhallikānuyogamanuyuttā samaṇā sakyaputtiyā viharantī’ti. "
+msgstr "‘The ascetics who follow the Sakyan live indulging in pleasure.’ "
 
 #. VAR: Evaṃvādino → … vadamānā (s1-3)
 msgctxt "dn29:28.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:28.4"
-msgid "‘katamo so, āvuso, sukhallikānuyogo?"
-msgstr "‘What is that indulgence in pleasure?"
+msgid "‘katamo so, āvuso, sukhallikānuyogo? "
+msgstr "‘What is that indulgence in pleasure? "
 
 msgctxt "dn29:28.5"
-msgid "Sukhallikānuyogā hi bahū anekavihitā nānappakārakā’ti."
-msgstr "For there are many different kinds of indulgence in pleasure.’"
+msgid "Sukhallikānuyogā hi bahū anekavihitā nānappakārakā’ti. "
+msgstr "For there are many different kinds of indulgence in pleasure.’ "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs29"></a>
-#. <a class="sc" id="sc29"></a>
+#. HTML: </p><p>
+#. REF: pts-cs29, sc29
 msgctxt "dn29:29.1"
-msgid "Cattārome, cunda, sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṃhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattanti."
-msgstr "These four kinds of indulgence in pleasure, Cunda, are low, crude, ordinary, ignoble, and pointless. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment."
+msgid "Cattārome, cunda, sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṃhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattanti. "
+msgstr "These four kinds of indulgence in pleasure, Cunda, are low, crude, ordinary, ignoble, and pointless. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. "
 
 msgctxt "dn29:29.2"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs30"></a>
-#. <a class="sc" id="sc30"></a>
+#. HTML: </p><p>
+#. REF: pts-cs30, sc30
 msgctxt "dn29:30.1"
-msgid "Idha, cunda, ekacco bālo pāṇe vadhitvā vadhitvā attānaṃ sukheti pīṇeti."
-msgstr "It’s when some fool makes themselves happy and pleased by killing living creatures."
+msgid "Idha, cunda, ekacco bālo pāṇe vadhitvā vadhitvā attānaṃ sukheti pīṇeti. "
+msgstr "It’s when some fool makes themselves happy and pleased by killing living creatures. "
 
 msgctxt "dn29:30.2"
-msgid "Ayaṃ paṭhamo sukhallikānuyogo."
-msgstr "This is the first kind of indulgence in pleasure."
+msgid "Ayaṃ paṭhamo sukhallikānuyogo. "
+msgstr "This is the first kind of indulgence in pleasure. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs31"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.131"></a>
-#. <a class="sc" id="sc31"></a>
+#. HTML: </p><p>
+#. REF: pts-cs31, pts-vp-pli3.131, sc31
 msgctxt "dn29:31.1"
-msgid "Puna caparaṃ, cunda, idhekacco adinnaṃ ādiyitvā ādiyitvā attānaṃ sukheti pīṇeti."
-msgstr "Furthermore, someone makes themselves happy and pleased by theft."
+msgid "Puna caparaṃ, cunda, idhekacco adinnaṃ ādiyitvā ādiyitvā attānaṃ sukheti pīṇeti. "
+msgstr "Furthermore, someone makes themselves happy and pleased by theft. "
 
 msgctxt "dn29:31.2"
-msgid "Ayaṃ dutiyo sukhallikānuyogo."
-msgstr "This is the second kind of indulgence in pleasure."
+msgid "Ayaṃ dutiyo sukhallikānuyogo. "
+msgstr "This is the second kind of indulgence in pleasure. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs32"></a>
-#. <a class="sc" id="sc32"></a>
+#. HTML: </p><p>
+#. REF: pts-cs32, sc32
 msgctxt "dn29:32.1"
-msgid "Puna caparaṃ, cunda, idhekacco musā bhaṇitvā bhaṇitvā attānaṃ sukheti pīṇeti."
-msgstr "Furthermore, someone makes themselves happy and pleased by lying."
+msgid "Puna caparaṃ, cunda, idhekacco musā bhaṇitvā bhaṇitvā attānaṃ sukheti pīṇeti. "
+msgstr "Furthermore, someone makes themselves happy and pleased by lying. "
 
 msgctxt "dn29:32.2"
-msgid "Ayaṃ tatiyo sukhallikānuyogo."
-msgstr "This is the third kind of indulgence in pleasure."
+msgid "Ayaṃ tatiyo sukhallikānuyogo. "
+msgstr "This is the third kind of indulgence in pleasure. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs33"></a>
-#. <a class="sc" id="sc33"></a>
+#. HTML: </p><p>
+#. REF: pts-cs33, sc33
 msgctxt "dn29:33.1"
-msgid "Puna caparaṃ, cunda, idhekacco pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti."
-msgstr "Furthermore, someone amuses themselves, supplied and provided with the five kinds of sensual stimulation."
+msgid "Puna caparaṃ, cunda, idhekacco pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti. "
+msgstr "Furthermore, someone amuses themselves, supplied and provided with the five kinds of sensual stimulation. "
 
 msgctxt "dn29:33.2"
-msgid "Ayaṃ catuttho sukhallikānuyogo."
-msgstr "This is the fourth kind of indulgence in pleasure."
+msgid "Ayaṃ catuttho sukhallikānuyogo. "
+msgstr "This is the fourth kind of indulgence in pleasure. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs34"></a>
-#. <a class="sc" id="sc34"></a>
+#. HTML: </p><p>
+#. REF: pts-cs34, sc34
 msgctxt "dn29:34.1"
-msgid "Ime kho, cunda, cattāro sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṃhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattanti."
-msgstr "These are the four kinds of indulgence in pleasure that are low, crude, ordinary, ignoble, and pointless. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment."
+msgid "Ime kho, cunda, cattāro sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṃhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattanti. "
+msgstr "These are the four kinds of indulgence in pleasure that are low, crude, ordinary, ignoble, and pointless. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs35"></a>
-#. <a class="sc" id="sc35"></a>
+#. HTML: </p><p>
+#. REF: pts-cs35, sc35
 msgctxt "dn29:35.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "It’s possible that wanderers who follow other paths might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "It’s possible that wanderers who follow other paths might say, "
 
-# RD and MW phrase this as a question, which is unjustified.
+# NOTE: RD and MW phrase this as a question, which is unjustified.
 msgctxt "dn29:35.2"
-msgid "‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti."
-msgstr "‘The ascetics who follow the Sakyan live indulging in pleasure in these four ways.’"
+msgid "‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti. "
+msgstr "‘The ascetics who follow the Sakyan live indulging in pleasure in these four ways.’ "
 
 #. VAR: vo → te (pts1)
 msgctxt "dn29:35.3"
-msgid "Te vo ‘mā hevaṃ’ tissu vacanīyā."
-msgstr "They should be told, ‘Not so!’"
+msgid "Te vo ‘mā hevaṃ’ tissu vacanīyā. "
+msgstr "They should be told, ‘Not so!’ "
 
 msgctxt "dn29:35.4"
-msgid "Na te vo sammā vadamānā vadeyyuṃ, abbhācikkheyyuṃ asatā abhūtena."
-msgstr "It isn’t right to say that about you; it misrepresents you with an untruth."
+msgid "Na te vo sammā vadamānā vadeyyuṃ, abbhācikkheyyuṃ asatā abhūtena. "
+msgstr "It isn’t right to say that about you; it misrepresents you with an untruth. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs36"></a>
-#. <a class="sc" id="sc36"></a>
+#. HTML: </p><p>
+#. REF: pts-cs36, sc36
 msgctxt "dn29:36.1"
-msgid "Cattārome, cunda, sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti."
-msgstr "These four kinds of indulgence in pleasure, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment."
+msgid "Cattārome, cunda, sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti. "
+msgstr "These four kinds of indulgence in pleasure, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. "
 
 msgctxt "dn29:36.2"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs37"></a>
-#. <a class="sc" id="sc37"></a>
+#. HTML: </p><p>
+#. REF: pts-cs37, sc37
 msgctxt "dn29:37.1"
-msgid "Idha, cunda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati."
-msgstr "It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+msgid "Idha, cunda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. "
+msgstr "It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. "
 
 msgctxt "dn29:37.2"
-msgid "Ayaṃ paṭhamo sukhallikānuyogo."
-msgstr "This is the first kind of indulgence in pleasure."
+msgid "Ayaṃ paṭhamo sukhallikānuyogo. "
+msgstr "This is the first kind of indulgence in pleasure. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs38"></a>
-#. <a class="sc" id="sc38"></a>
+#. HTML: </p><p>
+#. REF: pts-cs38, sc38
 msgctxt "dn29:38.1"
-msgid "Puna caparaṃ, cunda, bhikkhu vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ jhānaṃ upasampajja viharati."
-msgstr "Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption. It has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected."
+msgid "Puna caparaṃ, cunda, bhikkhu vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ jhānaṃ upasampajja viharati. "
+msgstr "Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption. It has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected. "
 
 msgctxt "dn29:38.2"
-msgid "Ayaṃ dutiyo sukhallikānuyogo."
-msgstr "This is the second kind of indulgence in pleasure."
+msgid "Ayaṃ dutiyo sukhallikānuyogo. "
+msgstr "This is the second kind of indulgence in pleasure. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs39"></a>
-#. <a class="sc" id="sc39"></a>
+#. HTML: </p><p>
+#. REF: pts-cs39, sc39
 msgctxt "dn29:39.1"
-msgid "Puna caparaṃ, cunda, bhikkhu pītiyā ca virāgā … pe … tatiyaṃ jhānaṃ upasampajja viharati."
-msgstr "Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption. They meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’"
+msgid "Puna caparaṃ, cunda, bhikkhu pītiyā ca virāgā … pe … tatiyaṃ jhānaṃ upasampajja viharati. "
+msgstr "Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption. They meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ "
 
 msgctxt "dn29:39.2"
-msgid "Ayaṃ tatiyo sukhallikānuyogo."
-msgstr "This is the third kind of indulgence in pleasure."
+msgid "Ayaṃ tatiyo sukhallikānuyogo. "
+msgstr "This is the third kind of indulgence in pleasure. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs40"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.132"></a>
-#. <a class="sc" id="sc40"></a>
+#. HTML: </p><p>
+#. REF: pts-cs40, pts-vp-pli3.132, sc40
 msgctxt "dn29:40.1"
-msgid "Puna caparaṃ, cunda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā … pe … catutthaṃ jhānaṃ upasampajja viharati."
-msgstr "Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth absorption. It is without pleasure or pain, with pure equanimity and mindfulness."
+msgid "Puna caparaṃ, cunda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā … pe … catutthaṃ jhānaṃ upasampajja viharati. "
+msgstr "Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth absorption. It is without pleasure or pain, with pure equanimity and mindfulness. "
 
 msgctxt "dn29:40.2"
-msgid "Ayaṃ catuttho sukhallikānuyogo."
-msgstr "This is the fourth kind of indulgence in pleasure."
+msgid "Ayaṃ catuttho sukhallikānuyogo. "
+msgstr "This is the fourth kind of indulgence in pleasure. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs41"></a>
-#. <a class="sc" id="sc41"></a>
+#. HTML: </p><p>
+#. REF: pts-cs41, sc41
 msgctxt "dn29:41.1"
-msgid "Ime kho, cunda, cattāro sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti."
-msgstr "These are the four kinds of indulgence in pleasure which, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment."
+msgid "Ime kho, cunda, cattāro sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti. "
+msgstr "These are the four kinds of indulgence in pleasure which, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs42"></a>
-#. <a class="sc" id="sc42"></a>
+#. HTML: </p><p>
+#. REF: pts-cs42, sc42
 msgctxt "dn29:42.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "It’s possible that wanderers who follow other paths might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "It’s possible that wanderers who follow other paths might say, "
 
 msgctxt "dn29:42.2"
-msgid "‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti."
-msgstr "‘The ascetics who follow the Sakyan live indulging in pleasure in these four ways.’"
+msgid "‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti. "
+msgstr "‘The ascetics who follow the Sakyan live indulging in pleasure in these four ways.’ "
 
 msgctxt "dn29:42.3"
-msgid "Te vo ‘evaṃ’ tissu vacanīyā."
-msgstr "They should be told, ‘Exactly so!’"
+msgid "Te vo ‘evaṃ’ tissu vacanīyā. "
+msgstr "They should be told, ‘Exactly so!’ "
 
 msgctxt "dn29:42.4"
-msgid "Sammā te vo vadamānā vadeyyuṃ, na te vo abbhācikkheyyuṃ asatā abhūtena."
-msgstr "It’s right to say that about you; it doesn’t misrepresent you with an untruth."
+msgid "Sammā te vo vadamānā vadeyyuṃ, na te vo abbhācikkheyyuṃ asatā abhūtena. "
+msgstr "It’s right to say that about you; it doesn’t misrepresent you with an untruth. "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:42.5"
-msgid "10. Sukhallikānuyogānisaṃsa"
-msgstr "10. The Benefits of Indulgence in Pleasure"
+msgid "10. Sukhallikānuyogānisaṃsa "
+msgstr "10. The Benefits of Indulgence in Pleasure "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs43"></a>
-#. <a class="sc" id="sc43"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs43, sc43
 msgctxt "dn29:43.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "It’s possible that wanderers who follow other paths might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "It’s possible that wanderers who follow other paths might say, "
 
 msgctxt "dn29:43.2"
-msgid "‘ime panāvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ kati phalāni katānisaṃsā pāṭikaṅkhā’ti?"
-msgstr "‘How many fruits and benefits may be expected by those who live indulging in pleasure in these four ways?’"
+msgid "‘ime panāvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ kati phalāni katānisaṃsā pāṭikaṅkhā’ti? "
+msgstr "‘How many fruits and benefits may be expected by those who live indulging in pleasure in these four ways?’ "
 
 msgctxt "dn29:43.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:43.4"
-msgid "‘ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ cattāri phalāni cattāro ānisaṃsā pāṭikaṅkhā."
-msgstr "‘Four benefits may be expected by those who live indulging in pleasure in these four ways."
+msgid "‘ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ cattāri phalāni cattāro ānisaṃsā pāṭikaṅkhā. "
+msgstr "‘Four benefits may be expected by those who live indulging in pleasure in these four ways. "
 
 msgctxt "dn29:43.5"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:43.6"
-msgid "Idhāvuso, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo."
-msgstr "Firstly, with the ending of three fetters a mendicant becomes a stream-enterer, not liable to be reborn in the underworld, bound for awakening."
+msgid "Idhāvuso, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo. "
+msgstr "Firstly, with the ending of three fetters a mendicant becomes a stream-enterer, not liable to be reborn in the underworld, bound for awakening. "
 
 msgctxt "dn29:43.7"
-msgid "Idaṃ paṭhamaṃ phalaṃ, paṭhamo ānisaṃso."
-msgstr "This is the first fruit and benefit."
+msgid "Idaṃ paṭhamaṃ phalaṃ, paṭhamo ānisaṃso. "
+msgstr "This is the first fruit and benefit. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:43.8"
-msgid "Puna caparaṃ, āvuso, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmī hoti, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karoti."
-msgstr "Furthermore, a mendicant—with the ending of three fetters, and the weakening of greed, hate, and delusion—becomes a once-returner. They come back to this world once only, then make an end of suffering."
+msgid "Puna caparaṃ, āvuso, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmī hoti, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karoti. "
+msgstr "Furthermore, a mendicant—with the ending of three fetters, and the weakening of greed, hate, and delusion—becomes a once-returner. They come back to this world once only, then make an end of suffering. "
 
 msgctxt "dn29:43.9"
-msgid "Idaṃ dutiyaṃ phalaṃ, dutiyo ānisaṃso."
-msgstr "This is the second fruit and benefit."
+msgid "Idaṃ dutiyaṃ phalaṃ, dutiyo ānisaṃso. "
+msgstr "This is the second fruit and benefit. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:43.10"
-msgid "Puna caparaṃ, āvuso, bhikkhu pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti, tattha parinibbāyī anāvattidhammo tasmā lokā."
-msgstr "Furthermore, with the ending of the five lower fetters, a mendicant is reborn spontaneously and will become extinguished there, not liable to return from that world."
+msgid "Puna caparaṃ, āvuso, bhikkhu pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti, tattha parinibbāyī anāvattidhammo tasmā lokā. "
+msgstr "Furthermore, with the ending of the five lower fetters, a mendicant is reborn spontaneously and will become extinguished there, not liable to return from that world. "
 
 msgctxt "dn29:43.11"
-msgid "Idaṃ tatiyaṃ phalaṃ, tatiyo ānisaṃso."
-msgstr "This is the third fruit and benefit."
+msgid "Idaṃ tatiyaṃ phalaṃ, tatiyo ānisaṃso. "
+msgstr "This is the third fruit and benefit. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:43.12"
-msgid "Puna caparaṃ, āvuso, bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati."
-msgstr "Furthermore, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements."
+msgid "Puna caparaṃ, āvuso, bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. "
+msgstr "Furthermore, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements. "
 
 msgctxt "dn29:43.13"
-msgid "Idaṃ catutthaṃ phalaṃ catuttho ānisaṃso."
-msgstr "This is the fourth fruit and benefit."
+msgid "Idaṃ catutthaṃ phalaṃ catuttho ānisaṃso. "
+msgstr "This is the fourth fruit and benefit. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:43.14"
-msgid "Ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ imāni cattāri phalāni, cattāro ānisaṃsā pāṭikaṅkhā’ti."
-msgstr "These four benefits may be expected by those who live indulging in pleasure in these four ways.’"
+msgid "Ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ imāni cattāri phalāni, cattāro ānisaṃsā pāṭikaṅkhā’ti. "
+msgstr "These four benefits may be expected by those who live indulging in pleasure in these four ways.’ "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:43.15"
-msgid "11. Khīṇāsavaabhabbaṭhāna"
-msgstr "11. Things Impossible for the Perfected"
+msgid "11. Khīṇāsavaabhabbaṭhāna "
+msgstr "11. Things Impossible for the Perfected "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs44"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.133"></a>
-#. <a class="sc" id="sc44"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs44, pts-vp-pli3.133, sc44
 msgctxt "dn29:44.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "It’s possible that wanderers who follow other paths might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "It’s possible that wanderers who follow other paths might say, "
 
-# Both RD and MW take dhamma in (at)thitadhamma here as “doctrine”, but it is at AN 8.19 in the same context, but of the ocean, where it just means “stable”. Both places are glossed as ṭhitasabhāvā. Incidentally, the context here shows that PTS dict’s “eternal” for AN 8.19 is wrong.
+# NOTE: Both RD and MW take dhamma in (at)thitadhamma here as “doctrine”, but it is at AN 8.19 in the same context, but of the ocean, where it just means “stable”. Both places are glossed as ṭhitasabhāvā. Incidentally, the context here shows that PTS dict’s “eternal” for AN 8.19 is wrong.
 msgctxt "dn29:44.2"
-msgid "‘aṭṭhitadhammā samaṇā sakyaputtiyā viharantī’ti."
-msgstr "‘The ascetics who follow the Sakyan are inconsistent.’"
+msgid "‘aṭṭhitadhammā samaṇā sakyaputtiyā viharantī’ti. "
+msgstr "‘The ascetics who follow the Sakyan are inconsistent.’ "
 
 msgctxt "dn29:44.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:44.4"
-msgid "‘atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṃ dhammā desitā paññattā yāvajīvaṃ anatikkamanīyā."
-msgstr "‘Reverends, these things have been taught and pointed out for his disciples by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha, not to be transgressed so long as life lasts."
+msgid "‘atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṃ dhammā desitā paññattā yāvajīvaṃ anatikkamanīyā. "
+msgstr "‘Reverends, these things have been taught and pointed out for his disciples by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha, not to be transgressed so long as life lasts. "
 
 msgctxt "dn29:44.5"
-msgid "Seyyathāpi, āvuso, indakhīlo vā ayokhīlo vā gambhīranemo sunikhāto acalo asampavedhī;"
-msgstr "Suppose there was a boundary pillar or an iron pillar with deep foundations, firmly embedded, imperturbable and unshakable."
+msgid "Seyyathāpi, āvuso, indakhīlo vā ayokhīlo vā gambhīranemo sunikhāto acalo asampavedhī; "
+msgstr "Suppose there was a boundary pillar or an iron pillar with deep foundations, firmly embedded, imperturbable and unshakable. "
 
 msgctxt "dn29:44.6"
-msgid "evameva kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṃ dhammā desitā paññattā yāvajīvaṃ anatikkamanīyā."
-msgstr "In the same way, these things have been taught and pointed out for his disciples by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha, not to be transgressed so long as life lasts."
+msgid "evameva kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṃ dhammā desitā paññattā yāvajīvaṃ anatikkamanīyā. "
+msgstr "In the same way, these things have been taught and pointed out for his disciples by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha, not to be transgressed so long as life lasts. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:44.7"
-msgid "Yo so, āvuso, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññāvimutto, abhabbo so nava ṭhānāni ajjhācarituṃ."
-msgstr "A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—can’t transgress in nine respects."
+msgid "Yo so, āvuso, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññāvimutto, abhabbo so nava ṭhānāni ajjhācarituṃ. "
+msgstr "A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—can’t transgress in nine respects. "
 
 msgctxt "dn29:44.8"
-msgid "Abhabbo, āvuso, khīṇāsavo bhikkhu sañcicca pāṇaṃ jīvitā voropetuṃ; abhabbo khīṇāsavo bhikkhu adinnaṃ theyyasaṅkhātaṃ ādiyituṃ; abhabbo khīṇāsavo bhikkhu methunaṃ dhammaṃ paṭisevituṃ; abhabbo khīṇāsavo bhikkhu sampajānamusā bhāsituṃ; abhabbo khīṇāsavo bhikkhu sannidhikārakaṃ kāme paribhuñjituṃ, seyyathāpi pubbe āgārikabhūto; abhabbo khīṇāsavo bhikkhu chandāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu dosāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu mohāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu bhayāgatiṃ gantuṃ."
-msgstr "A mendicant with defilements ended can’t deliberately take the life of a living creature, take something with the intention to steal, have sex, tell a deliberate lie, or store up goods for their own enjoyment like they did as a lay person. And they can’t make decisions prejudiced by favoritism, hostility, stupidity, or cowardice."
+msgid "Abhabbo, āvuso, khīṇāsavo bhikkhu sañcicca pāṇaṃ jīvitā voropetuṃ; abhabbo khīṇāsavo bhikkhu adinnaṃ theyyasaṅkhātaṃ ādiyituṃ; abhabbo khīṇāsavo bhikkhu methunaṃ dhammaṃ paṭisevituṃ; abhabbo khīṇāsavo bhikkhu sampajānamusā bhāsituṃ; abhabbo khīṇāsavo bhikkhu sannidhikārakaṃ kāme paribhuñjituṃ, seyyathāpi pubbe āgārikabhūto; abhabbo khīṇāsavo bhikkhu chandāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu dosāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu mohāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu bhayāgatiṃ gantuṃ. "
+msgstr "A mendicant with defilements ended can’t deliberately take the life of a living creature, take something with the intention to steal, have sex, tell a deliberate lie, or store up goods for their own enjoyment like they did as a lay person. And they can’t make decisions prejudiced by favoritism, hostility, stupidity, or cowardice. "
 
 msgctxt "dn29:44.9"
-msgid "Yo so, āvuso, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññāvimutto, abhabbo so imāni nava ṭhānāni ajjhācaritun’ti."
-msgstr "A mendicant who is perfected can’t transgress in these nine respects.’"
+msgid "Yo so, āvuso, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññāvimutto, abhabbo so imāni nava ṭhānāni ajjhācaritun’ti. "
+msgstr "A mendicant who is perfected can’t transgress in these nine respects.’ "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:44.10"
-msgid "12. Pañhābyākaraṇa"
-msgstr "12. Questions and Answers"
+msgid "12. Pañhābyākaraṇa "
+msgstr "12. Questions and Answers "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs45"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.134"></a>
-#. <a class="sc" id="sc45"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs45, pts-vp-pli3.134, sc45
 msgctxt "dn29:45.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "It’s possible that wanderers who follow other paths might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "It’s possible that wanderers who follow other paths might say, "
 
 msgctxt "dn29:45.2"
-msgid "‘atītaṃ kho addhānaṃ ārabbha samaṇo gotamo atīrakaṃ ñāṇadassanaṃ paññapeti, no ca kho anāgataṃ addhānaṃ ārabbha atīrakaṃ ñāṇadassanaṃ paññapeti, tayidaṃ kiṃsu tayidaṃ kathaṃsū’ti?"
-msgstr "‘The ascetic Gotama demonstrates boundless knowledge and vision of the past, but not of the future. What’s up with that?’"
+msgid "‘atītaṃ kho addhānaṃ ārabbha samaṇo gotamo atīrakaṃ ñāṇadassanaṃ paññapeti, no ca kho anāgataṃ addhānaṃ ārabbha atīrakaṃ ñāṇadassanaṃ paññapeti, tayidaṃ kiṃsu tayidaṃ kathaṃsū’ti? "
+msgstr "‘The ascetic Gotama demonstrates boundless knowledge and vision of the past, but not of the future. What’s up with that?’ "
 
 msgctxt "dn29:45.3"
-msgid "Te ca aññatitthiyā paribbājakā aññavihitakena ñāṇadassanena aññavihitakaṃ ñāṇadassanaṃ paññapetabbaṃ maññanti yathariva bālā abyattā."
-msgstr "Those wanderers, like incompetent fools, seem to imagine that one kind of knowledge and vision can be demonstrated by means of another kind of knowledge and vision."
+msgid "Te ca aññatitthiyā paribbājakā aññavihitakena ñāṇadassanena aññavihitakaṃ ñāṇadassanaṃ paññapetabbaṃ maññanti yathariva bālā abyattā. "
+msgstr "Those wanderers, like incompetent fools, seem to imagine that one kind of knowledge and vision can be demonstrated by means of another kind of knowledge and vision. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:45.4"
-msgid "Atītaṃ kho, cunda, addhānaṃ ārabbha tathāgatassa satānusāriñāṇaṃ hoti;"
-msgstr "Regarding the past, the Realized One has knowledge stemming from memory."
+msgid "Atītaṃ kho, cunda, addhānaṃ ārabbha tathāgatassa satānusāriñāṇaṃ hoti; "
+msgstr "Regarding the past, the Realized One has knowledge stemming from memory. "
 
 msgctxt "dn29:45.5"
-msgid "so yāvatakaṃ ākaṅkhati tāvatakaṃ anussarati."
-msgstr "He recollects as far as he wants."
+msgid "so yāvatakaṃ ākaṅkhati tāvatakaṃ anussarati. "
+msgstr "He recollects as far as he wants. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:45.6"
-msgid "Anāgatañca kho addhānaṃ ārabbha tathāgatassa bodhijaṃ ñāṇaṃ uppajjati:"
-msgstr "Regarding the future, the Realized One has the knowledge born of awakening:"
+msgid "Anāgatañca kho addhānaṃ ārabbha tathāgatassa bodhijaṃ ñāṇaṃ uppajjati: "
+msgstr "Regarding the future, the Realized One has the knowledge born of awakening: "
 
 msgctxt "dn29:45.7"
-msgid "‘ayamantimā jāti, natthi dāni punabbhavo’ti."
-msgstr "‘This is my last rebirth. Now there are no more future lives.’"
+msgid "‘ayamantimā jāti, natthi dāni punabbhavo’ti. "
+msgstr "‘This is my last rebirth. Now there are no more future lives.’ "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:45.8"
-msgid "Atītañcepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti."
-msgstr "If a question about the past is untrue, false, and pointless, the Realized One does not reply."
+msgid "Atītañcepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti. "
+msgstr "If a question about the past is untrue, false, and pointless, the Realized One does not reply. "
 
 msgctxt "dn29:45.9"
-msgid "Atītañcepi, cunda, hoti bhūtaṃ tacchaṃ anatthasaṃhitaṃ, tampi tathāgato na byākaroti."
-msgstr "If a question about the past is true and substantive, but pointless, he does not reply."
+msgid "Atītañcepi, cunda, hoti bhūtaṃ tacchaṃ anatthasaṃhitaṃ, tampi tathāgato na byākaroti. "
+msgstr "If a question about the past is true and substantive, but pointless, he does not reply. "
 
 msgctxt "dn29:45.10"
-msgid "Atītañcepi, cunda, hoti bhūtaṃ tacchaṃ atthasaṃhitaṃ, tatra kālaññū tathāgato hoti tassa pañhassa veyyākaraṇāya."
-msgstr "If a question about the past is true, substantive, and beneficial, he knows the right time to reply."
+msgid "Atītañcepi, cunda, hoti bhūtaṃ tacchaṃ atthasaṃhitaṃ, tatra kālaññū tathāgato hoti tassa pañhassa veyyākaraṇāya. "
+msgstr "If a question about the past is true, substantive, and beneficial, he knows the right time to reply. "
 
 msgctxt "dn29:45.11"
-msgid "Anāgatañcepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti … pe … tassa pañhassa veyyākaraṇāya."
-msgstr "And the Realized One replies to questions about the future or the present in the same way."
+msgid "Anāgatañcepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti … pe … tassa pañhassa veyyākaraṇāya. "
+msgstr "And the Realized One replies to questions about the future or the present in the same way. "
 
 msgctxt "dn29:45.12"
-msgid "Paccuppannañcepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti."
-msgstr ""
+msgid "Paccuppannañcepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti. "
+msgstr " "
 
 msgctxt "dn29:45.13"
-msgid "Paccuppannañcepi, cunda, hoti bhūtaṃ tacchaṃ anatthasaṃhitaṃ, tampi tathāgato na byākaroti."
-msgstr ""
+msgid "Paccuppannañcepi, cunda, hoti bhūtaṃ tacchaṃ anatthasaṃhitaṃ, tampi tathāgato na byākaroti. "
+msgstr " "
 
 msgctxt "dn29:45.14"
-msgid "Paccuppannañcepi, cunda, hoti bhūtaṃ tacchaṃ atthasaṃhitaṃ, tatra kālaññū tathāgato hoti tassa pañhassa veyyākaraṇāya."
-msgstr ""
+msgid "Paccuppannañcepi, cunda, hoti bhūtaṃ tacchaṃ atthasaṃhitaṃ, tatra kālaññū tathāgato hoti tassa pañhassa veyyākaraṇāya. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs46"></a>
-#. <a class="sc" id="sc46"></a>
+#. HTML: </p><p>
+#. REF: pts-cs46, sc46
 #. VAR: tathāgato kālavādī → kālavādī saccavādī (s1-3)
 msgctxt "dn29:46.1"
-msgid "Iti kho, cunda, atītānāgatapaccuppannesu dhammesu tathāgato kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, tasmā ‘tathāgato’ti vuccati."
-msgstr "And so the Realized One has speech that’s well-timed, true, meaningful, in line with the teaching and training. That’s why he’s called the ‘Realized One’."
+msgid "Iti kho, cunda, atītānāgatapaccuppannesu dhammesu tathāgato kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, tasmā ‘tathāgato’ti vuccati. "
+msgstr "And so the Realized One has speech that’s well-timed, true, meaningful, in line with the teaching and training. That’s why he’s called the ‘Realized One’. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:46.2"
 msgid "Yañca kho, cunda, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, sabbaṃ tathāgatena abhisambuddhaṃ, "
 msgstr "In this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—whatever is seen, heard, thought, known, sought, and explored by the mind, all that has been understood by the Realized One. "
 
 msgctxt "dn29:46.3"
-msgid "tasmā ‘tathāgato’ti vuccati."
-msgstr "That’s why he’s called the ‘Realized One’."
+msgid "tasmā ‘tathāgato’ti vuccati. "
+msgstr "That’s why he’s called the ‘Realized One’. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:46.4"
-msgid "Yañca, cunda, rattiṃ tathāgato anuttaraṃ sammāsambodhiṃ abhisambujjhati, yañca rattiṃ anupādisesāya nibbānadhātuyā parinibbāyati, yaṃ etasmiṃ antare bhāsati lapati niddisati. Sabbaṃ taṃ tatheva hoti no aññathā,"
-msgstr "From the night when the Realized One understands the supreme perfect awakening until the night he becomes fully extinguished—through the natural principle of extinguishment, without anything left over—everything he speaks, says, and expresses is real, not otherwise."
+msgid "Yañca, cunda, rattiṃ tathāgato anuttaraṃ sammāsambodhiṃ abhisambujjhati, yañca rattiṃ anupādisesāya nibbānadhātuyā parinibbāyati, yaṃ etasmiṃ antare bhāsati lapati niddisati. Sabbaṃ taṃ tatheva hoti no aññathā, "
+msgstr "From the night when the Realized One understands the supreme perfect awakening until the night he becomes fully extinguished—through the natural principle of extinguishment, without anything left over—everything he speaks, says, and expresses is real, not otherwise. "
 
 msgctxt "dn29:46.5"
-msgid "tasmā ‘tathāgato’ti vuccati."
-msgstr "That’s why he’s called the ‘Realized One’."
+msgid "tasmā ‘tathāgato’ti vuccati. "
+msgstr "That’s why he’s called the ‘Realized One’. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:46.6"
-msgid "Yathāvādī, cunda, tathāgato tathākārī, yathākārī tathāvādī."
-msgstr "The Realized One does as he says, and says as he does."
+msgid "Yathāvādī, cunda, tathāgato tathākārī, yathākārī tathāvādī. "
+msgstr "The Realized One does as he says, and says as he does. "
 
 msgctxt "dn29:46.7"
-msgid "Iti yathāvādī tathākārī, yathākārī tathāvādī, tasmā ‘tathāgato’ti vuccati."
-msgstr "Since this is so, that’s why he’s called the ‘Realized One’."
+msgid "Iti yathāvādī tathākārī, yathākārī tathāvādī, tasmā ‘tathāgato’ti vuccati. "
+msgstr "Since this is so, that’s why he’s called the ‘Realized One’. "
 
 msgctxt "dn29:46.8"
-msgid "Sadevake loke, cunda, samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya tathāgato abhibhū anabhibhūto aññadatthudaso vasavattī, tasmā ‘tathāgato’ti vuccati."
-msgstr "In this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—the Realized One is the undefeated, the champion, the universal seer, the wielder of power."
+msgid "Sadevake loke, cunda, samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya tathāgato abhibhū anabhibhūto aññadatthudaso vasavattī, tasmā ‘tathāgato’ti vuccati. "
+msgstr "In this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—the Realized One is the undefeated, the champion, the universal seer, the wielder of power. "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:46.9"
-msgid "13. Abyākataṭṭhāna"
-msgstr "13. The Undeclared Points"
+msgid "13. Abyākataṭṭhāna "
+msgstr "13. The Undeclared Points "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs47"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.136"></a>
-#. <a class="sc" id="sc47"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs47, pts-vp-pli3.136, sc47
 msgctxt "dn29:47.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "It’s possible that wanderers who follow other paths might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "It’s possible that wanderers who follow other paths might say, "
 
 msgctxt "dn29:47.2"
-msgid "‘kiṃ nu kho, āvuso, hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti?"
-msgstr "‘Is this your view: “A Realized One exists after death. This is the only truth, other ideas are silly”?’"
+msgid "‘kiṃ nu kho, āvuso, hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti? "
+msgstr "‘Is this your view: “A Realized One exists after death. This is the only truth, other ideas are silly”?’ "
 
 msgctxt "dn29:47.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:47.4"
-msgid "‘abyākataṃ kho etaṃ, āvuso, bhagavatā:"
-msgstr "‘Reverend, this has not been declared by the Buddha.’"
+msgid "‘abyākataṃ kho etaṃ, āvuso, bhagavatā: "
+msgstr "‘Reverend, this has not been declared by the Buddha.’ "
 
 msgctxt "dn29:47.5"
-msgid "“hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”’ti."
-msgstr ""
+msgid "“hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”’ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs48"></a>
-#. <a class="sc" id="sc48"></a>
+#. HTML: </p><p>
+#. REF: pts-cs48, sc48
 msgctxt "dn29:48.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "The wanderers might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "The wanderers might say, "
 
 msgctxt "dn29:48.2"
-msgid "‘kiṃ panāvuso, na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti?"
-msgstr "‘Then is this your view: “A Realized One doesn’t exist after death. This is the only truth, other ideas are silly”?’"
+msgid "‘kiṃ panāvuso, na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti? "
+msgstr "‘Then is this your view: “A Realized One doesn’t exist after death. This is the only truth, other ideas are silly”?’ "
 
 msgctxt "dn29:48.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:48.4"
-msgid "‘etampi kho, āvuso, bhagavatā abyākataṃ:"
-msgstr "‘This too has not been declared by the Buddha.’"
+msgid "‘etampi kho, āvuso, bhagavatā abyākataṃ: "
+msgstr "‘This too has not been declared by the Buddha.’ "
 
 msgctxt "dn29:48.5"
-msgid "“na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”’ti."
-msgstr ""
+msgid "“na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”’ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs49"></a>
-#. <a class="sc" id="sc49"></a>
+#. HTML: </p><p>
+#. REF: pts-cs49, sc49
 msgctxt "dn29:49.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "The wanderers might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "The wanderers might say, "
 
 msgctxt "dn29:49.2"
-msgid "‘kiṃ panāvuso, hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti?"
-msgstr "‘Then is this your view: “A Realized One both exists and doesn’t exist after death. This is the only truth, other ideas are silly”?’"
+msgid "‘kiṃ panāvuso, hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti? "
+msgstr "‘Then is this your view: “A Realized One both exists and doesn’t exist after death. This is the only truth, other ideas are silly”?’ "
 
 msgctxt "dn29:49.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:49.4"
-msgid "‘abyākataṃ kho etaṃ, āvuso, bhagavatā:"
-msgstr "‘This too has not been declared by the Buddha.’"
+msgid "‘abyākataṃ kho etaṃ, āvuso, bhagavatā: "
+msgstr "‘This too has not been declared by the Buddha.’ "
 
 msgctxt "dn29:49.5"
-msgid "“hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”’ti."
-msgstr ""
+msgid "“hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”’ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs50"></a>
-#. <a class="sc" id="sc50"></a>
+#. HTML: </p><p>
+#. REF: pts-cs50, sc50
 msgctxt "dn29:50.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "The wanderers might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "The wanderers might say, "
 
 msgctxt "dn29:50.2"
-msgid "‘kiṃ panāvuso, neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti?"
-msgstr "‘Then is this your view: “A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are silly”?’"
+msgid "‘kiṃ panāvuso, neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti? "
+msgstr "‘Then is this your view: “A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are silly”?’ "
 
 msgctxt "dn29:50.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:50.4"
-msgid "‘etampi kho, āvuso, bhagavatā abyākataṃ:"
-msgstr "‘This too has not been declared by the Buddha.’"
+msgid "‘etampi kho, āvuso, bhagavatā abyākataṃ: "
+msgstr "‘This too has not been declared by the Buddha.’ "
 
 msgctxt "dn29:50.5"
-msgid "“neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”’ti."
-msgstr ""
+msgid "“neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”’ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs51"></a>
-#. <a class="sc" id="sc51"></a>
+#. HTML: </p><p>
+#. REF: pts-cs51, sc51
 msgctxt "dn29:51.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "The wanderers might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "The wanderers might say, "
 
 msgctxt "dn29:51.2"
-msgid "‘kasmā panetaṃ, āvuso, samaṇena gotamena abyākatan’ti?"
-msgstr "‘But why has this not been declared by the ascetic Gotama?’"
+msgid "‘kasmā panetaṃ, āvuso, samaṇena gotamena abyākatan’ti? "
+msgstr "‘But why has this not been declared by the ascetic Gotama?’ "
 
 msgctxt "dn29:51.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:51.4"
-msgid "‘na hetaṃ, āvuso, atthasaṃhitaṃ na dhammasaṃhitaṃ na ādibrahmacariyakaṃ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati, tasmā taṃ bhagavatā abyākatan’ti."
-msgstr "‘Because it’s not beneficial or relevant to the fundamentals of the spiritual life. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why it hasn’t been declared by the Buddha.’"
+msgid "‘na hetaṃ, āvuso, atthasaṃhitaṃ na dhammasaṃhitaṃ na ādibrahmacariyakaṃ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati, tasmā taṃ bhagavatā abyākatan’ti. "
+msgstr "‘Because it’s not beneficial or relevant to the fundamentals of the spiritual life. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why it hasn’t been declared by the Buddha.’ "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:51.5"
-msgid "14. Byākataṭṭhāna"
-msgstr "14. The Declared Points"
+msgid "14. Byākataṭṭhāna "
+msgstr "14. The Declared Points "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs52"></a>
-#. <a class="sc" id="sc52"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs52, sc52
 msgctxt "dn29:52.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "It’s possible that wanderers who follow other paths might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "It’s possible that wanderers who follow other paths might say, "
 
 msgctxt "dn29:52.2"
-msgid "‘kiṃ panāvuso, samaṇena gotamena byākatan’ti?"
-msgstr "‘But what has been declared by the ascetic Gotama?’"
+msgid "‘kiṃ panāvuso, samaṇena gotamena byākatan’ti? "
+msgstr "‘But what has been declared by the ascetic Gotama?’ "
 
 msgctxt "dn29:52.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:52.4"
-msgid "‘idaṃ dukkhanti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhasamudayoti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhanirodhoti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhanirodhagāminī paṭipadāti kho, āvuso, bhagavatā byākatan’ti."
-msgstr "‘What has been declared by the Buddha is this: “This is suffering”—“This is the origin of suffering”—“This is the cessation of suffering”—“This is the practice that leads to the cessation of suffering.”’"
+msgid "‘idaṃ dukkhanti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhasamudayoti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhanirodhoti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhanirodhagāminī paṭipadāti kho, āvuso, bhagavatā byākatan’ti. "
+msgstr "‘What has been declared by the Buddha is this: “This is suffering”—“This is the origin of suffering”—“This is the cessation of suffering”—“This is the practice that leads to the cessation of suffering.”’ "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs53"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.137"></a>
-#. <a class="sc" id="sc53"></a>
+#. HTML: </p><p>
+#. REF: pts-cs53, pts-vp-pli3.137, sc53
 msgctxt "dn29:53.1"
-msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ:"
-msgstr "The wanderers might say:"
+msgid "Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ: "
+msgstr "The wanderers might say, "
 
 msgctxt "dn29:53.2"
-msgid "‘kasmā panetaṃ, āvuso, samaṇena gotamena byākatan’ti?"
-msgstr "‘But why has this been declared by the ascetic Gotama?’"
+msgid "‘kasmā panetaṃ, āvuso, samaṇena gotamena byākatan’ti? "
+msgstr "‘But why has this been declared by the ascetic Gotama?’ "
 
 msgctxt "dn29:53.3"
-msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
-msgstr "You should say to them:"
+msgid "Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā: "
+msgstr "You should say to them, "
 
 msgctxt "dn29:53.4"
-msgid "‘etañhi, āvuso, atthasaṃhitaṃ, etaṃ dhammasaṃhitaṃ, etaṃ ādibrahmacariyakaṃ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. Tasmā taṃ bhagavatā byākatan’ti."
-msgstr "‘Because it’s beneficial and relevant to the fundamentals of the spiritual life. It leads to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why it has been declared by the Buddha.’"
+msgid "‘etañhi, āvuso, atthasaṃhitaṃ, etaṃ dhammasaṃhitaṃ, etaṃ ādibrahmacariyakaṃ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. Tasmā taṃ bhagavatā byākatan’ti. "
+msgstr "‘Because it’s beneficial and relevant to the fundamentals of the spiritual life. It leads to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why it has been declared by the Buddha.’ "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:53.5"
-msgid "15. Pubbantasahagatadiṭṭhinissaya"
-msgstr "15. Views of the Past"
+msgid "15. Pubbantasahagatadiṭṭhinissaya "
+msgstr "15. Views of the Past "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs54"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.138"></a>
-#. <a class="sc" id="sc54"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs54, pts-vp-pli3.138, sc54
 #. VAR: vo → te (s2, s3)
 msgctxt "dn29:54.1"
-msgid "Yepi te, cunda, pubbantasahagatā diṭṭhinissayā, tepi vo mayā byākatā, yathā te byākātabbā."
-msgstr "Cunda, I have explained to you as they should be explained the views that some rely on regarding the past."
+msgid "Yepi te, cunda, pubbantasahagatā diṭṭhinissayā, tepi vo mayā byākatā, yathā te byākātabbā. "
+msgstr "Cunda, I have explained to you as they should be explained the views that some rely on regarding the past. "
 
 #. VAR: tathā → tattha (bj, s1-3, mr)
 #. VAR: byākātabbā, kiṃ vo ahaṃ te → kiṃ te ahante aññatitthiye (s2, s3) | kiṃ no ahaṃ (pts1)
 msgctxt "dn29:54.2"
-msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi?"
-msgstr "Shall I explain them to you in the wrong way?"
+msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? "
+msgstr "Shall I explain them to you in the wrong way? "
 
 msgctxt "dn29:54.3"
-msgid "Yepi te, cunda, aparantasahagatā diṭṭhinissayā, tepi vo mayā byākatā, yathā te byākātabbā."
-msgstr "I have explained to you as they should be explained the views that some rely on regarding the future."
+msgid "Yepi te, cunda, aparantasahagatā diṭṭhinissayā, tepi vo mayā byākatā, yathā te byākātabbā. "
+msgstr "I have explained to you as they should be explained the views that some rely on regarding the future. "
 
 msgctxt "dn29:54.4"
-msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi?"
-msgstr "Shall I explain them to you in the wrong way?"
+msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? "
+msgstr "Shall I explain them to you in the wrong way? "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:54.5"
-msgid "Katame ca te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā."
-msgstr "What are the views that some rely on regarding the past?"
+msgid "Katame ca te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. "
+msgstr "What are the views that some rely on regarding the past? "
 
 msgctxt "dn29:54.6"
-msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi?"
-msgstr ""
+msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? "
+msgstr " "
 
 msgctxt "dn29:54.7"
-msgid "Santi kho, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
-msgstr "There are some ascetics and brahmins who have this doctrine and view:"
+msgid "Santi kho, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
+msgstr "There are some ascetics and brahmins who have this doctrine and view: "
 
 msgctxt "dn29:54.8"
-msgid "‘sassato attā ca loko ca, idameva saccaṃ moghamaññan’ti."
-msgstr "‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’"
+msgid "‘sassato attā ca loko ca, idameva saccaṃ moghamaññan’ti. "
+msgstr "‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ "
 
 msgctxt "dn29:54.9"
-msgid "Santi pana, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
-msgstr "There are some ascetics and brahmins who have this doctrine and view:"
+msgid "Santi pana, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
+msgstr "There are some ascetics and brahmins who have this doctrine and view: "
 
 msgctxt "dn29:54.10"
-msgid "‘asassato attā ca loko ca … pe …"
-msgstr "‘The self and the cosmos are not eternal,"
+msgid "‘asassato attā ca loko ca … pe … "
+msgstr "‘The self and the cosmos are not eternal, "
 
 msgctxt "dn29:54.11"
-msgid "sassato ca asassato ca attā ca loko ca …"
-msgstr "or both eternal and not eternal,"
+msgid "sassato ca asassato ca attā ca loko ca … "
+msgstr "or both eternal and not eternal, "
 
 msgctxt "dn29:54.12"
-msgid "neva sassato nāsassato attā ca loko ca …"
-msgstr "or neither eternal nor not eternal."
+msgid "neva sassato nāsassato attā ca loko ca … "
+msgstr "or neither eternal nor not eternal. "
 
 msgctxt "dn29:54.13"
-msgid "sayaṃkato attā ca loko ca …"
-msgstr "The self and the cosmos are made by oneself,"
+msgid "sayaṃkato attā ca loko ca … "
+msgstr "The self and the cosmos are made by oneself, "
 
 msgctxt "dn29:54.14"
-msgid "paraṃkato attā ca loko ca …"
-msgstr "or made by another,"
+msgid "paraṃkato attā ca loko ca … "
+msgstr "or made by another, "
 
 msgctxt "dn29:54.15"
-msgid "sayaṃkato ca paraṃkato ca attā ca loko ca …"
-msgstr "or made by both oneself and another,"
+msgid "sayaṃkato ca paraṃkato ca attā ca loko ca … "
+msgstr "or made by both oneself and another, "
 
 msgctxt "dn29:54.16"
-msgid "asayaṅkāro aparaṅkāro adhiccasamuppanno attā ca loko ca, idameva saccaṃ moghamaññan’ti."
-msgstr "or they have arisen by chance, not made by oneself or another."
+msgid "asayaṅkāro aparaṅkāro adhiccasamuppanno attā ca loko ca, idameva saccaṃ moghamaññan’ti. "
+msgstr "or they have arisen by chance, not made by oneself or another. "
 
 msgctxt "dn29:54.17"
-msgid "‘Sassataṃ sukhadukkhaṃ …"
-msgstr "Pleasure and pain are eternal,"
+msgid "‘Sassataṃ sukhadukkhaṃ … "
+msgstr "Pleasure and pain are eternal, "
 
 msgctxt "dn29:54.18"
-msgid "asassataṃ sukhadukkhaṃ …"
-msgstr "or not eternal,"
+msgid "asassataṃ sukhadukkhaṃ … "
+msgstr "or not eternal, "
 
 msgctxt "dn29:54.19"
-msgid "sassatañca asassatañca sukhadukkhaṃ …"
-msgstr "or both eternal and not eternal,"
+msgid "sassatañca asassatañca sukhadukkhaṃ … "
+msgstr "or both eternal and not eternal, "
 
 msgctxt "dn29:54.20"
-msgid "nevasassataṃ nāsassataṃ sukhadukkhaṃ …"
-msgstr "or neither eternal nor not eternal."
+msgid "nevasassataṃ nāsassataṃ sukhadukkhaṃ … "
+msgstr "or neither eternal nor not eternal. "
 
 msgctxt "dn29:54.21"
-msgid "sayaṃkataṃ sukhadukkhaṃ …"
-msgstr "Pleasure and pain are made by oneself,"
+msgid "sayaṃkataṃ sukhadukkhaṃ … "
+msgstr "Pleasure and pain are made by oneself, "
 
 msgctxt "dn29:54.22"
-msgid "paraṃkataṃ sukhadukkhaṃ …"
-msgstr "or made by another,"
+msgid "paraṃkataṃ sukhadukkhaṃ … "
+msgstr "or made by another, "
 
 msgctxt "dn29:54.23"
-msgid "sayaṃkatañca paraṃkatañca sukhadukkhaṃ …"
-msgstr "or made by both oneself and another,"
+msgid "sayaṃkatañca paraṃkatañca sukhadukkhaṃ … "
+msgstr "or made by both oneself and another, "
 
 msgctxt "dn29:54.24"
-msgid "asayaṃkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ, idameva saccaṃ moghamaññan’ti."
-msgstr "or they have arisen by chance, not made by oneself or another. This is the only truth, other ideas are silly.’"
+msgid "asayaṃkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ, idameva saccaṃ moghamaññan’ti. "
+msgstr "or they have arisen by chance, not made by oneself or another. This is the only truth, other ideas are silly.’ "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs55"></a>
-#. <a class="sc" id="sc55"></a>
+#. HTML: </p><p>
+#. REF: pts-cs55, sc55
 msgctxt "dn29:55.1"
-msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
-msgstr "Regarding this, I go up to the ascetics and brahmins whose view is that"
+msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
+msgstr "Regarding this, I go up to the ascetics and brahmins whose view is that "
 
 msgctxt "dn29:55.2"
-msgid "‘sassato attā ca loko ca, idameva saccaṃ moghamaññan’ti."
-msgstr "the self and the cosmos are eternal,"
+msgid "‘sassato attā ca loko ca, idameva saccaṃ moghamaññan’ti. "
+msgstr "the self and the cosmos are eternal, "
 
 msgctxt "dn29:55.3"
-msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
-msgstr "and say:"
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi: "
+msgstr "and say, "
 
 msgctxt "dn29:55.4"
-msgid "‘atthi nu kho idaṃ, āvuso, vuccati:"
-msgstr "‘Reverends, is this what you say:"
+msgid "‘atthi nu kho idaṃ, āvuso, vuccati: "
+msgstr "‘Reverends, is this what you say, "
 
-#. </p><p class="added">
 msgctxt "dn29:55.5"
-msgid "“sassato attā ca loko cā”’ti?"
-msgstr "“The self and the cosmos are eternal”?’"
+msgid "“sassato attā ca loko cā”’ti? "
+msgstr "“The self and the cosmos are eternal”?’ "
 
 msgctxt "dn29:55.6"
-msgid "Yañca kho te evamāhaṃsu:"
-msgstr "But when they say: ‘Yes!"
+msgid "Yañca kho te evamāhaṃsu: "
+msgstr "But when they say, ‘Yes! "
 
 msgctxt "dn29:55.7"
-msgid "‘idameva saccaṃ moghamaññan’ti."
-msgstr "This is the only truth, other ideas are silly,’"
+msgid "‘idameva saccaṃ moghamaññan’ti. "
+msgstr "This is the only truth, other ideas are silly,’ "
 
 msgctxt "dn29:55.8"
-msgid "Taṃ tesaṃ nānujānāmi."
-msgstr "I don’t acknowledge that."
+msgid "Taṃ tesaṃ nānujānāmi. "
+msgstr "I don’t acknowledge that. "
 
 msgctxt "dn29:55.9"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:55.10"
-msgid "Aññathāsaññinopi hettha, cunda, santeke sattā."
-msgstr "Because there are beings who have different opinions on this topic."
+msgid "Aññathāsaññinopi hettha, cunda, santeke sattā. "
+msgstr "Because there are beings who have different opinions on this topic. "
 
 msgctxt "dn29:55.11"
-msgid "Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo."
-msgstr "I don’t see any such expositions that are equal to my own, still less superior."
+msgid "Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo. "
+msgstr "I don’t see any such expositions that are equal to my own, still less superior. "
 
 msgctxt "dn29:55.12"
-msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti."
-msgstr "Rather, I am the one who is superior when it comes to the higher exposition."
+msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti. "
+msgstr "Rather, I am the one who is superior when it comes to the higher exposition. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs56"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.139"></a>
-#. <a class="sc" id="sc56"></a>
+#. HTML: </p><p>
+#. REF: pts-cs56, pts-vp-pli3.139, sc56
 msgctxt "dn29:56.1"
-msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
-msgstr "Regarding this, I go up to the ascetics and brahmins who assert all the other views as described above."
+msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
+msgstr "Regarding this, I go up to the ascetics and brahmins who assert all the other views as described above. "
 
 msgctxt "dn29:56.2"
-msgid "‘asassato attā ca loko ca …"
-msgstr ""
+msgid "‘asassato attā ca loko ca … "
+msgstr " "
 
 msgctxt "dn29:56.3"
-msgid "sassato ca asassato ca attā ca loko ca …"
-msgstr ""
+msgid "sassato ca asassato ca attā ca loko ca … "
+msgstr " "
 
 msgctxt "dn29:56.4"
-msgid "nevasassato nāsassato attā ca loko ca …"
-msgstr ""
+msgid "nevasassato nāsassato attā ca loko ca … "
+msgstr " "
 
 msgctxt "dn29:56.5"
-msgid "sayaṃkato attā ca loko ca …"
-msgstr ""
+msgid "sayaṃkato attā ca loko ca … "
+msgstr " "
 
 msgctxt "dn29:56.6"
-msgid "paraṃkato attā ca loko ca …"
-msgstr ""
+msgid "paraṃkato attā ca loko ca … "
+msgstr " "
 
 msgctxt "dn29:56.7"
-msgid "sayaṃkato ca paraṃkato ca attā ca loko ca …"
-msgstr ""
+msgid "sayaṃkato ca paraṃkato ca attā ca loko ca … "
+msgstr " "
 
 msgctxt "dn29:56.8"
-msgid "asayaṅkāro aparaṅkāro adhiccasamuppanno attā ca loko ca …"
-msgstr ""
+msgid "asayaṅkāro aparaṅkāro adhiccasamuppanno attā ca loko ca … "
+msgstr " "
 
 msgctxt "dn29:56.9"
-msgid "sassataṃ sukhadukkhaṃ …"
-msgstr ""
+msgid "sassataṃ sukhadukkhaṃ … "
+msgstr " "
 
 msgctxt "dn29:56.10"
-msgid "asassataṃ sukhadukkhaṃ …"
-msgstr ""
+msgid "asassataṃ sukhadukkhaṃ … "
+msgstr " "
 
 msgctxt "dn29:56.11"
-msgid "sassatañca asassatañca sukhadukkhaṃ …"
-msgstr ""
+msgid "sassatañca asassatañca sukhadukkhaṃ … "
+msgstr " "
 
 msgctxt "dn29:56.12"
-msgid "nevasassataṃ nāsassataṃ sukhadukkhaṃ …"
-msgstr ""
+msgid "nevasassataṃ nāsassataṃ sukhadukkhaṃ … "
+msgstr " "
 
 msgctxt "dn29:56.13"
-msgid "sayaṃkataṃ sukhadukkhaṃ …"
-msgstr ""
+msgid "sayaṃkataṃ sukhadukkhaṃ … "
+msgstr " "
 
 msgctxt "dn29:56.14"
-msgid "paraṃkataṃ sukhadukkhaṃ …"
-msgstr ""
+msgid "paraṃkataṃ sukhadukkhaṃ … "
+msgstr " "
 
 msgctxt "dn29:56.15"
-msgid "sayaṃkatañca paraṃkatañca sukhadukkhaṃ …"
-msgstr ""
+msgid "sayaṃkatañca paraṃkatañca sukhadukkhaṃ … "
+msgstr " "
 
 msgctxt "dn29:56.16"
-msgid "asayaṃkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ, idameva saccaṃ moghamaññan’ti."
-msgstr ""
+msgid "asayaṃkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ, idameva saccaṃ moghamaññan’ti. "
+msgstr " "
 
 msgctxt "dn29:56.17"
-msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
-msgstr ""
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi: "
+msgstr " "
 
 msgctxt "dn29:56.18"
-msgid "‘atthi nu kho idaṃ, āvuso, vuccati:"
-msgstr ""
+msgid "‘atthi nu kho idaṃ, āvuso, vuccati: "
+msgstr " "
 
 msgctxt "dn29:56.19"
-msgid "“asayaṃkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ sukhadukkhan”’ti?"
-msgstr ""
+msgid "“asayaṃkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ sukhadukkhan”’ti? "
+msgstr " "
 
 msgctxt "dn29:56.20"
-msgid "Yañca kho te evamāhaṃsu:"
-msgstr ""
+msgid "Yañca kho te evamāhaṃsu: "
+msgstr " "
 
 msgctxt "dn29:56.21"
-msgid "‘idameva saccaṃ moghamaññan’ti."
-msgstr ""
+msgid "‘idameva saccaṃ moghamaññan’ti. "
+msgstr " "
 
 msgctxt "dn29:56.22"
-msgid "Taṃ tesaṃ nānujānāmi."
-msgstr "And in each case, I don’t acknowledge that."
+msgid "Taṃ tesaṃ nānujānāmi. "
+msgstr "And in each case, I don’t acknowledge that. "
 
 msgctxt "dn29:56.23"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:56.24"
-msgid "Aññathāsaññinopi hettha, cunda, santeke sattā."
-msgstr "Because there are beings who have different opinions on this topic."
+msgid "Aññathāsaññinopi hettha, cunda, santeke sattā. "
+msgstr "Because there are beings who have different opinions on this topic. "
 
 msgctxt "dn29:56.25"
-msgid "Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo."
-msgstr "I don’t see any such expositions that are equal to my own, still less superior."
+msgid "Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo. "
+msgstr "I don’t see any such expositions that are equal to my own, still less superior. "
 
 msgctxt "dn29:56.26"
-msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti."
-msgstr "Rather, I am the one who is superior when it comes to the higher exposition."
+msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti. "
+msgstr "Rather, I am the one who is superior when it comes to the higher exposition. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:56.27"
-msgid "Ime kho te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā."
-msgstr "These are the views that some rely on regarding the past."
+msgid "Ime kho te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. "
+msgstr "These are the views that some rely on regarding the past. "
 
 #. VAR: tathā → tattha (bj, s2, s3, pts1)
 #. VAR: byākarissāmi → byākarissāmīti (bj, c1) | vyākarissāmi (pts1)
 msgctxt "dn29:56.28"
-msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi?"
-msgstr ""
+msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? "
+msgstr " "
 
-#. </p><h2>
+#. HTML: </p><h2>
 msgctxt "dn29:56.29"
-msgid "16. Aparantasahagatadiṭṭhinissaya"
-msgstr "16. Views of the Future"
+msgid "16. Aparantasahagatadiṭṭhinissaya "
+msgstr "16. Views of the Future "
 
-#. </h2><p>
-#. <a class="pts-cs" id="pts-cs57"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.140"></a>
-#. <a class="sc" id="sc57"></a>
+#. HTML: </h2><p>
+#. REF: pts-cs57, pts-vp-pli3.140, sc57
 msgctxt "dn29:57.1"
-msgid "Katame ca te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā."
-msgstr "What are the views that some rely on regarding the future?"
+msgid "Katame ca te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. "
+msgstr "What are the views that some rely on regarding the future? "
 
 #. VAR: byākātabbā, kiṃ vo ahaṃ te tathā → kiṃ vo ahaṃ te tattha (bj) | kiṃ te ahaṃ te tattha (s2, s3)
 msgctxt "dn29:57.2"
-msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi?"
-msgstr ""
+msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? "
+msgstr " "
 
 msgctxt "dn29:57.3"
-msgid "Santi, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
-msgstr "There are some ascetics and brahmins who have this doctrine and view:"
+msgid "Santi, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
+msgstr "There are some ascetics and brahmins who have this doctrine and view: "
 
 msgctxt "dn29:57.4"
-msgid "‘rūpī attā hoti arogo paraṃ maraṇā, idameva saccaṃ moghamaññan’ti."
-msgstr "‘The self is physical and sound after death,"
+msgid "‘rūpī attā hoti arogo paraṃ maraṇā, idameva saccaṃ moghamaññan’ti. "
+msgstr "‘The self is physical and sound after death, "
 
 msgctxt "dn29:57.5"
-msgid "Santi pana, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
-msgstr ""
+msgid "Santi pana, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
+msgstr " "
 
 msgctxt "dn29:57.6"
-msgid "‘arūpī attā hoti …"
-msgstr "or it is non-physical,"
+msgid "‘arūpī attā hoti … "
+msgstr "or it is non-physical, "
 
 msgctxt "dn29:57.7"
-msgid "rūpī ca arūpī ca attā hoti …"
-msgstr "or both physical and non-physical,"
+msgid "rūpī ca arūpī ca attā hoti … "
+msgstr "or both physical and non-physical, "
 
 msgctxt "dn29:57.8"
-msgid "nevarūpī nārūpī attā hoti …"
-msgstr "or neither physical nor non-physical,"
+msgid "nevarūpī nārūpī attā hoti … "
+msgstr "or neither physical nor non-physical, "
 
 msgctxt "dn29:57.9"
-msgid "saññī attā hoti …"
-msgstr "or percipient,"
+msgid "saññī attā hoti … "
+msgstr "or percipient, "
 
 msgctxt "dn29:57.10"
-msgid "asaññī attā hoti …"
-msgstr "or non-percipient,"
+msgid "asaññī attā hoti … "
+msgstr "or non-percipient, "
 
 msgctxt "dn29:57.11"
-msgid "nevasaññīnāsaññī attā hoti …"
-msgstr "or neither percipient nor non-percipient,"
+msgid "nevasaññīnāsaññī attā hoti … "
+msgstr "or neither percipient nor non-percipient, "
 
 msgctxt "dn29:57.12"
-msgid "attā ucchijjati vinassati na hoti paraṃ maraṇā, idameva saccaṃ moghamaññan’ti."
-msgstr "or the self is annihilated and destroyed when the body breaks up, and doesn’t exist after death. This is the only truth, other ideas are silly.’"
+msgid "attā ucchijjati vinassati na hoti paraṃ maraṇā, idameva saccaṃ moghamaññan’ti. "
+msgstr "or the self is annihilated and destroyed when the body breaks up, and doesn’t exist after death. This is the only truth, other ideas are silly.’ "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:57.13"
-msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
-msgstr "Regarding this, I go up to the ascetics and brahmins whose view is that"
+msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
+msgstr "Regarding this, I go up to the ascetics and brahmins whose view is that "
 
 msgctxt "dn29:57.14"
-msgid "‘rūpī attā hoti arogo paraṃ maraṇā, idameva saccaṃ moghamaññan’ti."
-msgstr "the self is physical and sound after death,"
+msgid "‘rūpī attā hoti arogo paraṃ maraṇā, idameva saccaṃ moghamaññan’ti. "
+msgstr "the self is physical and sound after death, "
 
 msgctxt "dn29:57.15"
-msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
-msgstr "and say:"
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi: "
+msgstr "and say, "
 
 msgctxt "dn29:57.16"
-msgid "‘atthi nu kho idaṃ, āvuso, vuccati:"
-msgstr "‘Reverends, is this what you say:"
+msgid "‘atthi nu kho idaṃ, āvuso, vuccati: "
+msgstr "‘Reverends, is this what you say, "
 
-#. </p><p class="added">
 msgctxt "dn29:57.17"
-msgid "“rūpī attā hoti arogo paraṃ maraṇā”’ti?"
-msgstr "“The self is physical and sound after death”?’"
+msgid "“rūpī attā hoti arogo paraṃ maraṇā”’ti? "
+msgstr "“The self is physical and sound after death”?’ "
 
 msgctxt "dn29:57.18"
-msgid "Yañca kho te evamāhaṃsu:"
-msgstr "But when they say: ‘Yes!"
+msgid "Yañca kho te evamāhaṃsu: "
+msgstr "But when they say, ‘Yes! "
 
 msgctxt "dn29:57.19"
-msgid "‘idameva saccaṃ moghamaññan’ti."
-msgstr "This is the only truth, other ideas are silly,’"
+msgid "‘idameva saccaṃ moghamaññan’ti. "
+msgstr "This is the only truth, other ideas are silly,’ "
 
 msgctxt "dn29:57.20"
-msgid "Taṃ tesaṃ nānujānāmi."
-msgstr "I don’t acknowledge that."
+msgid "Taṃ tesaṃ nānujānāmi. "
+msgstr "I don’t acknowledge that. "
 
 msgctxt "dn29:57.21"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:57.22"
-msgid "Aññathāsaññinopi hettha, cunda, santeke sattā."
-msgstr "Because there are beings who have different opinions on this topic."
+msgid "Aññathāsaññinopi hettha, cunda, santeke sattā. "
+msgstr "Because there are beings who have different opinions on this topic. "
 
 msgctxt "dn29:57.23"
-msgid "Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo."
-msgstr "I don’t see any such expositions that are equal to my own, still less superior."
+msgid "Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo. "
+msgstr "I don’t see any such expositions that are equal to my own, still less superior. "
 
 msgctxt "dn29:57.24"
-msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti."
-msgstr "Rather, I am the one who is superior when it comes to the higher exposition."
+msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti. "
+msgstr "Rather, I am the one who is superior when it comes to the higher exposition. "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs58"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.141"></a>
-#. <a class="sc" id="sc58"></a>
+#. HTML: </p><p>
+#. REF: pts-cs58, pts-vp-pli3.141, sc58
 msgctxt "dn29:58.1"
-msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
-msgstr "Regarding this, I go up to the ascetics and brahmins who assert all the other views as described above."
+msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
+msgstr "Regarding this, I go up to the ascetics and brahmins who assert all the other views as described above. "
 
 msgctxt "dn29:58.2"
-msgid "‘arūpī attā hoti …"
-msgstr ""
+msgid "‘arūpī attā hoti … "
+msgstr " "
 
 msgctxt "dn29:58.3"
-msgid "rūpī ca arūpī ca attā hoti …"
-msgstr ""
+msgid "rūpī ca arūpī ca attā hoti … "
+msgstr " "
 
 msgctxt "dn29:58.4"
-msgid "nevarūpīnārūpī attā hoti …"
-msgstr ""
+msgid "nevarūpīnārūpī attā hoti … "
+msgstr " "
 
 msgctxt "dn29:58.5"
-msgid "saññī attā hoti …"
-msgstr ""
+msgid "saññī attā hoti … "
+msgstr " "
 
 msgctxt "dn29:58.6"
-msgid "asaññī attā hoti …"
-msgstr ""
+msgid "asaññī attā hoti … "
+msgstr " "
 
 msgctxt "dn29:58.7"
-msgid "nevasaññīnāsaññī attā hoti …"
-msgstr ""
+msgid "nevasaññīnāsaññī attā hoti … "
+msgstr " "
 
 msgctxt "dn29:58.8"
-msgid "attā ucchijjati vinassati na hoti paraṃ maraṇā, idameva saccaṃ moghamaññan’ti."
-msgstr ""
+msgid "attā ucchijjati vinassati na hoti paraṃ maraṇā, idameva saccaṃ moghamaññan’ti. "
+msgstr " "
 
 msgctxt "dn29:58.9"
-msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
-msgstr ""
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi: "
+msgstr " "
 
 msgctxt "dn29:58.10"
-msgid "‘atthi nu kho idaṃ, āvuso, vuccati:"
-msgstr ""
+msgid "‘atthi nu kho idaṃ, āvuso, vuccati: "
+msgstr " "
 
 msgctxt "dn29:58.11"
-msgid "“attā ucchijjati vinassati na hoti paraṃ maraṇā”’ti?"
-msgstr ""
+msgid "“attā ucchijjati vinassati na hoti paraṃ maraṇā”’ti? "
+msgstr " "
 
 msgctxt "dn29:58.12"
-msgid "Yañca kho te, cunda, evamāhaṃsu:"
-msgstr ""
+msgid "Yañca kho te, cunda, evamāhaṃsu: "
+msgstr " "
 
 msgctxt "dn29:58.13"
-msgid "‘idameva saccaṃ moghamaññan’ti."
-msgstr ""
+msgid "‘idameva saccaṃ moghamaññan’ti. "
+msgstr " "
 
 msgctxt "dn29:58.14"
-msgid "Taṃ tesaṃ nānujānāmi."
-msgstr "And in each case, I don’t acknowledge that."
+msgid "Taṃ tesaṃ nānujānāmi. "
+msgstr "And in each case, I don’t acknowledge that. "
 
 msgctxt "dn29:58.15"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "dn29:58.16"
-msgid "Aññathāsaññinopi hettha, cunda, santeke sattā."
-msgstr "Because there are beings who have different opinions on this topic."
+msgid "Aññathāsaññinopi hettha, cunda, santeke sattā. "
+msgstr "Because there are beings who have different opinions on this topic. "
 
 msgctxt "dn29:58.17"
-msgid "Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi, kuto bhiyyo."
-msgstr "I don’t see any such expositions that are equal to my own, still less superior."
+msgid "Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi, kuto bhiyyo. "
+msgstr "I don’t see any such expositions that are equal to my own, still less superior. "
 
 msgctxt "dn29:58.18"
-msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti."
-msgstr "Rather, I am the one who is superior when it comes to the higher exposition."
+msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti. "
+msgstr "Rather, I am the one who is superior when it comes to the higher exposition. "
 
+#. HTML: </p><p class="added">
 msgctxt "dn29:58.19"
-msgid "Ime kho te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā."
-msgstr "These are the views that some rely on regarding the future, which I have explained to you as they should be explained."
+msgid "Ime kho te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. "
+msgstr "These are the views that some rely on regarding the future, which I have explained to you as they should be explained. "
 
 #. VAR: byākarissāmi → byākarissāmīti (bj, c1)
 msgctxt "dn29:58.20"
-msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi?"
-msgstr "Shall I explain them to you in the wrong way?"
+msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? "
+msgstr "Shall I explain them to you in the wrong way? "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs59"></a>
-#. <a class="sc" id="sc59"></a>
+#. HTML: </p><p>
+#. REF: pts-cs59, sc59
 msgctxt "dn29:59.1"
-msgid "Imesañca, cunda, pubbantasahagatānaṃ diṭṭhinissayānaṃ imesañca aparantasahagatānaṃ diṭṭhinissayānaṃ pahānāya samatikkamāya evaṃ mayā cattāro satipaṭṭhānā desitā paññattā."
-msgstr "I have taught and pointed out the four kinds of mindfulness meditation for giving up and going beyond all these views of the past and the future."
+msgid "Imesañca, cunda, pubbantasahagatānaṃ diṭṭhinissayānaṃ imesañca aparantasahagatānaṃ diṭṭhinissayānaṃ pahānāya samatikkamāya evaṃ mayā cattāro satipaṭṭhānā desitā paññattā. "
+msgstr "I have taught and pointed out the four kinds of mindfulness meditation for giving up and going beyond all these views of the past and the future. "
 
 msgctxt "dn29:59.2"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
 msgctxt "dn29:59.3"
-msgid "Idha, cunda, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ."
-msgstr "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+msgid "Idha, cunda, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. "
+msgstr "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world. "
 
 msgctxt "dn29:59.4"
-msgid "Vedanāsu vedanānupassī … pe …"
-msgstr "They meditate observing an aspect of feelings …"
+msgid "Vedanāsu vedanānupassī … pe … "
+msgstr "They meditate observing an aspect of feelings … "
 
 msgctxt "dn29:59.5"
-msgid "citte cittānupassī … pe …"
-msgstr "mind …"
+msgid "citte cittānupassī … pe … "
+msgstr "mind … "
 
 msgctxt "dn29:59.6"
-msgid "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ."
-msgstr "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+msgid "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ. "
+msgstr "principles—keen, aware, and mindful, rid of desire and aversion for the world. "
 
 msgctxt "dn29:59.7"
-msgid "Imesañca, cunda, pubbantasahagatānaṃ diṭṭhinissayānaṃ imesañca aparantasahagatānaṃ diṭṭhinissayānaṃ pahānāya samatikkamāya. Evaṃ mayā ime cattāro satipaṭṭhānā desitā paññattā”ti."
-msgstr "These are the four kinds of mindfulness meditation that I have taught for giving up and going beyond all these views of the past and the future.”"
+msgid "Imesañca, cunda, pubbantasahagatānaṃ diṭṭhinissayānaṃ imesañca aparantasahagatānaṃ diṭṭhinissayānaṃ pahānāya samatikkamāya. Evaṃ mayā ime cattāro satipaṭṭhānā desitā paññattā”ti. "
+msgstr "These are the four kinds of mindfulness meditation that I have taught for giving up and going beyond all these views of the past and the future.” "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs60"></a>
-#. <a class="sc" id="sc60"></a>
+#. HTML: </p><p>
+#. REF: pts-cs60, sc60
 msgctxt "dn29:60.1"
-msgid "Tena kho pana samayena āyasmā upavāṇo bhagavato piṭṭhito ṭhito hoti bhagavantaṃ bījayamāno."
-msgstr "Now at that time Venerable Upavāṇa was standing behind the Buddha fanning him."
+msgid "Tena kho pana samayena āyasmā upavāṇo bhagavato piṭṭhito ṭhito hoti bhagavantaṃ bījayamāno. "
+msgstr "Now at that time Venerable Upavāṇa was standing behind the Buddha fanning him. "
 
 msgctxt "dn29:60.2"
-msgid "Atha kho āyasmā upavāṇo bhagavantaṃ etadavoca:"
-msgstr "He said to the Buddha:"
+msgid "Atha kho āyasmā upavāṇo bhagavantaṃ etadavoca: "
+msgstr "He said to the Buddha, "
 
-#. </p><p class="added">
 msgctxt "dn29:60.3"
-msgid "“acchariyaṃ, bhante, abbhutaṃ, bhante."
-msgstr "“It’s incredible, sir, it’s amazing!"
+msgid "“acchariyaṃ, bhante, abbhutaṃ, bhante. "
+msgstr "“It’s incredible, sir, it’s amazing! "
 
 msgctxt "dn29:60.4"
-msgid "Pāsādiko vatāyaṃ, bhante, dhammapariyāyo;"
-msgstr "This exposition of the teaching is impressive, sir,"
+msgid "Pāsādiko vatāyaṃ, bhante, dhammapariyāyo; "
+msgstr "This exposition of the teaching is impressive, sir, "
 
 msgctxt "dn29:60.5"
-msgid "supāsādiko vatāyaṃ, bhante, dhammapariyāyo, ko nāmāyaṃ, bhante, dhammapariyāyo”ti?"
-msgstr "it is very impressive. Sir, what is the name of this exposition of the teaching?”"
+msgid "supāsādiko vatāyaṃ, bhante, dhammapariyāyo, ko nāmāyaṃ, bhante, dhammapariyāyo”ti? "
+msgstr "it is very impressive. Sir, what is the name of this exposition of the teaching?” "
 
-#. </p><p class="added">
+#. HTML: </p><p class="added">
 msgctxt "dn29:60.6"
-msgid "“Tasmātiha tvaṃ, upavāṇa, imaṃ dhammapariyāyaṃ ‘pāsādiko’ tveva naṃ dhārehī”ti."
-msgstr "“Well, Upavāṇa, you may remember this exposition of the teaching as ‘The Impressive Discourse’.”"
+msgid "“Tasmātiha tvaṃ, upavāṇa, imaṃ dhammapariyāyaṃ ‘pāsādiko’ tveva naṃ dhārehī”ti. "
+msgstr "“Well, Upavāṇa, you may remember this exposition of the teaching as ‘The Impressive Discourse’.” "
 
-#. </p><p>
-#. <a class="pts-cs" id="pts-cs61"></a>
-#. <a class="sc" id="sc61"></a>
+#. HTML: </p><p>
+#. REF: pts-cs61, sc61
 msgctxt "dn29:61.1"
-msgid "Idamavoca bhagavā."
-msgstr "That is what the Buddha said."
+msgid "Idamavoca bhagavā. "
+msgstr "That is what the Buddha said. "
 
 msgctxt "dn29:61.2"
-msgid "Attamano āyasmā upavāṇo bhagavato bhāsitaṃ abhinandīti."
-msgstr "Satisfied, Venerable Upavāṇa was happy with what the Buddha said."
+msgid "Attamano āyasmā upavāṇo bhagavato bhāsitaṃ abhinandīti. "
+msgstr "Satisfied, Venerable Upavāṇa was happy with what the Buddha said. "
 
-#. </p><p class="endsutta">
+#. HTML: </p><p class="endsutta">
 msgctxt "dn29:61.3"
-msgid "Pāsādikasuttaṃ niṭṭhitaṃ chaṭṭhaṃ."
+msgid "Pāsādikasuttaṃ niṭṭhitaṃ chaṭṭhaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>
