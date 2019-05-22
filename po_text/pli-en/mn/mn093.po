@@ -23,7 +23,7 @@ msgctxt "mn93:1.2"
 msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
 msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya2
 msgctxt "mn93:2.1"
 msgid "Tena kho pana samayena nānāverajjakānaṃ brāhmaṇānaṃ pañcamattāni brāhmaṇasatāni sāvatthiyaṃ paṭivasanti kenacideva karaṇīyena. "
@@ -42,13 +42,13 @@ msgid "Ko nu kho pahoti samaṇena gotamena saddhiṃ asmiṃ vacane paṭimante
 msgstr "Who is capable of having a dialogue with him about this?” "
 
 # NOTE: vuttasira only occurs here and in identical passages. The contrast with the normal brahmanical abuse of the muṇḍaka is noteworthy. Also note that in the counterpart passage for old brahmins, a series of words for the age is found here. We thus should find that vuttasira doesn’t just mean shaven, but refers to a specific time of life. According to Manu 2.65, the ceremony of kesanta signifying Vedic studentship is to be given to brahmins at 16, so this must be meant here.
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya3
 msgctxt "mn93:3.1"
 msgid "Tena kho pana samayena assalāyano nāma māṇavo sāvatthiyaṃ paṭivasati daharo, vuttasiro, soḷasavassuddesiko jātiyā, tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo. "
 msgstr "Now at that time the brahmin student Assalāyana was residing in Sāvatthī. He was young, newly tonsured; he was sixteen years old. He had mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knew philology and grammar, and was well versed in cosmology and the marks of a great man. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:3.2"
 msgid "Atha kho tesaṃ brāhmaṇānaṃ etadahosi: "
 msgstr "Then those brahmins thought, "
@@ -188,7 +188,7 @@ msgctxt "mn93:5.2"
 msgid "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho assalāyano māṇavo bhagavantaṃ etadavoca: "
 msgstr "When the greetings and polite conversation were over, he sat down to one side and said to the Buddha: "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:5.3"
 msgid "“brāhmaṇā, bho gotama, evamāhaṃsu: "
 msgstr "“Master Gotama, the brahmins say: "
@@ -213,7 +213,7 @@ msgctxt "mn93:5.8"
 msgid "Idha bhavaṃ gotamo kimāhā”ti? "
 msgstr "What do you say about this?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. VAR: Dissanti → dissante (bj, s1-3, km, pts1)
 msgctxt "mn93:5.9"
 msgid "“Dissanti kho pana, assalāyana, brāhmaṇānaṃ brāhmaṇiyo utuniyopi gabbhiniyopi vijāyamānāpi pāyamānāpi. "
@@ -239,7 +239,7 @@ msgctxt "mn93:5.14"
 msgid "brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’”ti. "
 msgstr "Only brahmins are Brahmā’s rightful sons, born of his mouth, born of Brahmā, created by Brahmā, heirs of Brahmā.’” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya6
 msgctxt "mn93:6.1"
 msgid "“Kiñcāpi bhavaṃ gotamo evamāha, atha khvettha brāhmaṇā evametaṃ maññanti: "
@@ -263,12 +263,12 @@ msgctxt "mn93:6.5"
 msgid "sutaṃ te: ‘yonakambojesu aññesu ca paccantimesu janapadesu dveva vaṇṇā—ayyo ceva dāso ca; ayyo hutvā dāso hoti, dāso hutvā ayyo hotī’”ti? "
 msgstr "Have you heard that in Greece and Persia and other foreign lands there are only two classes, masters and bonded servants; and that masters may become servants, and servants masters?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:6.6"
 msgid "“Evaṃ, bho, sutaṃ taṃ me: ‘yonakambojesu aññesu ca paccantimesu janapadesu dveva vaṇṇā—ayyo ceva dāso ca; ayyo hutvā dāso hoti, dāso hutvā ayyo hotī’”ti. "
 msgstr "“Yes, I have heard that.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:6.7"
 msgid "“Ettha, assalāyana, brāhmaṇānaṃ kiṃ balaṃ, ko assāso yadettha brāhmaṇā evamāhaṃsu: "
 msgstr "“Then what is the source of the brahmins’ self-confidence and forcefulness in this matter that they make this claim?” "
@@ -281,7 +281,7 @@ msgctxt "mn93:6.9"
 msgid "brahmadāyādā’”ti? "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya7
 msgctxt "mn93:7.1"
 msgid "“Kiñcāpi bhavaṃ gotamo evamāha, atha khvettha brāhmaṇā evametaṃ maññanti: "
@@ -313,7 +313,7 @@ msgctxt "mn93:7.7"
 msgid "suddova nu kho pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya, no brāhmaṇo”ti? "
 msgstr "or a worker were to act in the same way. Would that result befall only a merchant or a worker, and not to a brahmin?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:7.8"
 msgid "“No hidaṃ, bho gotama. "
 msgstr "“No, Master Gotama. "
@@ -338,7 +338,7 @@ msgctxt "mn93:7.13"
 msgid "sabbepi hi, bho gotama, cattāro vaṇṇā pāṇātipātino adinnādāyino kāmesumicchācārino musāvādino pisuṇavācā pharusavācā samphappalāpino abhijjhālū byāpannacittā micchādiṭṭhī kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyyun”ti. "
 msgstr "For if any of the four classes were to kill living creatures, steal, and commit sexual misconduct; to use speech that’s false, divisive, harsh, or nonsensical; and to be covetous, malicious, with wrong view, then, when their body breaks up, after death, they’d be reborn in a place of loss, a bad place, the underworld, hell.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:7.14"
 msgid "“Ettha, assalāyana, brāhmaṇānaṃ kiṃ balaṃ, ko assāso yadettha brāhmaṇā evamāhaṃsu: "
 msgstr "“Then what is the source of the brahmins’ self-confidence and forcefulness in this matter that they make this claim?” "
@@ -351,7 +351,7 @@ msgctxt "mn93:7.16"
 msgid "brahmadāyādā’”ti? "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya8
 msgctxt "mn93:8.1"
 msgid "“Kiñcāpi bhavaṃ gotamo evamāha, atha khvettha brāhmaṇā evametaṃ maññanti: "
@@ -376,7 +376,7 @@ msgctxt "mn93:8.5"
 msgid "brāhmaṇova nu kho pāṇātipātā paṭivirato adinnādānā paṭivirato kāmesumicchācārā paṭivirato musāvādā paṭivirato pisuṇāya vācāya paṭivirato pharusāya vācāya paṭivirato samphappalāpā paṭivirato anabhijjhālu abyāpannacitto sammādiṭṭhi kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya, no khattiyo, no vesso, no suddo”ti? "
 msgstr "Suppose a brahmin were to refrain from killing living creatures, stealing, and committing sexual misconduct; from using speech that’s false, divisive, harsh, or nonsensical; and from covetousness, malice, and wrong view. When their body breaks up, after death, they’d be reborn in a good place, a heavenly realm. Would this happen only to an brahmin, and not to an aristocrat, a merchant, or a worker?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:8.6"
 msgid "“No hidaṃ, bho gotama. "
 msgstr "“No, Master Gotama. "
@@ -401,7 +401,7 @@ msgctxt "mn93:8.11"
 msgid "sabbepi hi, bho gotama, cattāro vaṇṇā pāṇātipātā paṭiviratā adinnādānā paṭiviratā kāmesumicchācārā paṭiviratā musāvādā paṭiviratā pisuṇāya vācāya paṭiviratā pharusāya vācāya paṭiviratā samphappalāpā paṭiviratā anabhijjhālū abyāpannacittā sammādiṭṭhī kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyyun”ti. "
 msgstr "For if any of the four classes were to refrain from killing living creatures, stealing, and committing sexual misconduct; from using speech that’s false, divisive, harsh, or nonsensical; and from covetousness, malice, and wrong view, then, when their body breaks up, after death, they’d be reborn in a good place, a heavenly realm.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:8.12"
 msgid "“Ettha, assalāyana, brāhmaṇānaṃ kiṃ balaṃ, ko assāso yadettha brāhmaṇā evamāhaṃsu: "
 msgstr "“Then what is the source of the brahmins’ self-confidence and forcefulness in this matter that they make this claim?” "
@@ -414,7 +414,7 @@ msgctxt "mn93:8.14"
 msgid "brahmadāyādā’”ti? "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya9
 msgctxt "mn93:9.1"
 msgid "“Kiñcāpi bhavaṃ gotamo evamāha, atha khvettha brāhmaṇā evametaṃ maññanti: "
@@ -438,7 +438,7 @@ msgctxt "mn93:9.5"
 msgid "brāhmaṇova nu kho pahoti asmiṃ padese averaṃ abyābajjhaṃ mettacittaṃ bhāvetuṃ, no khattiyo, no vesso, no suddo”ti? "
 msgstr "Is only a brahmin capable of developing a heart of love, free of enmity and ill will for this region, and not an aristocrat, merchant, or worker?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:9.6"
 msgid "“No hidaṃ, bho gotama. "
 msgstr "“No, Master Gotama. "
@@ -463,7 +463,7 @@ msgctxt "mn93:9.11"
 msgid "sabbepi hi, bho gotama, cattāro vaṇṇā pahonti asmiṃ padese averaṃ abyābajjhaṃ mettacittaṃ bhāvetun”ti. "
 msgstr "For all four classes are capable of developing a heart of love, free of enmity and ill will for this region.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:9.12"
 msgid "“Ettha, assalāyana, brāhmaṇānaṃ kiṃ balaṃ, ko assāso yadettha brāhmaṇā evamāhaṃsu: "
 msgstr "“Then what is the source of the brahmins’ self-confidence and forcefulness in this matter that they make this claim?” "
@@ -476,7 +476,7 @@ msgctxt "mn93:9.14"
 msgid "brahmadāyādā’”ti? "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya10
 msgctxt "mn93:10.1"
 msgid "“Kiñcāpi bhavaṃ gotamo evamāha, atha khvettha brāhmaṇā evametaṃ maññanti: "
@@ -500,7 +500,7 @@ msgctxt "mn93:10.5"
 msgid "brāhmaṇova nu kho pahoti sottisināniṃ ādāya nadiṃ gantvā rajojallaṃ pavāhetuṃ, no khattiyo, no vesso, no suddo”ti? "
 msgstr "Is only a brahmin capable of taking some bathing paste of powdered shell, going to the river, and washing off dust and dirt, and not an aristocrat, merchant, or worker?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:10.6"
 msgid "“No hidaṃ, bho gotama. "
 msgstr "“No, Master Gotama. "
@@ -521,7 +521,7 @@ msgctxt "mn93:10.10"
 msgid "sabbepi hi, bho gotama, cattāro vaṇṇā pahonti sottisināniṃ ādāya nadiṃ gantvā rajojallaṃ pavāhetun”ti. "
 msgstr "All four classes are capable of doing this.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:10.11"
 msgid "“Ettha, assalāyana, brāhmaṇānaṃ kiṃ balaṃ, ko assāso yadettha brāhmaṇā evamāhaṃsu: "
 msgstr "“Then what is the source of the brahmins’ self-confidence and forcefulness in this matter that they make this claim?” "
@@ -534,7 +534,7 @@ msgctxt "mn93:10.13"
 msgid "brahmadāyādā’”ti? "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya11
 msgctxt "mn93:11.1"
 msgid "“Kiñcāpi bhavaṃ gotamo evamāha, atha khvettha brāhmaṇā evametaṃ maññanti: "
@@ -587,7 +587,7 @@ msgctxt "mn93:11.10"
 msgid "yo pana so caṇḍālakulā nesādakulā venakulā rathakārakulā pukkusakulā uppannehi sāpānadoṇiyā vā sūkaradoṇiyā vā rajakadoṇiyā vā eraṇḍakaṭṭhassa vā uttarāraṇiṃ ādāya aggi abhinibbatto, tejo pātukato svāssa aggi na ceva accimā na ca vaṇṇavā na ca pabhassaro, na ca tena sakkā agginā aggikaraṇīyaṃ kātun”ti? "
 msgstr "and not the fire produced by the low class people with poor quality wood?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:11.11"
 msgid "“No hidaṃ, bho gotama. "
 msgstr "“No, Master Gotama. "
@@ -605,7 +605,7 @@ msgctxt "mn93:11.14"
 msgid "Sabbopi hi, bho gotama, aggi accimā ceva vaṇṇavā ca pabhassaro ca, sabbenapi sakkā agginā aggikaraṇīyaṃ kātun”ti. "
 msgstr "For all fire has flames, color, and radiance, and is usable as fire.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:11.15"
 msgid "“Ettha, assalāyana, brāhmaṇānaṃ kiṃ balaṃ, ko assāso yadettha brāhmaṇā evamāhaṃsu: "
 msgstr "“Then what is the source of the brahmins’ self-confidence and forcefulness in this matter that they make this claim?” "
@@ -626,7 +626,7 @@ msgctxt "mn93:11.19"
 msgid "brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’”ti? "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya12
 msgctxt "mn93:12.1"
 msgid "“Kiñcāpi bhavaṃ gotamo evamāha, atha khvettha brāhmaṇā evametaṃ maññanti: "
@@ -654,7 +654,7 @@ msgctxt "mn93:12.6"
 msgid "yo so khattiyakumārena brāhmaṇakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti? "
 msgstr "Would that child be called an aristocrat after the father or a brahmin after the mother?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:12.7"
 msgid "“Yo so, bho gotama, khattiyakumārena brāhmaṇakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti. "
 msgstr "“They could be called either.” "
@@ -673,7 +673,7 @@ msgctxt "mn93:13.3"
 msgid "yo so brāhmaṇakumārena khattiyakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti? "
 msgstr "Would that child be called an aristocrat after the mother or a brahmin after the father?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:13.4"
 msgid "“Yo so, bho gotama, brāhmaṇakumārena khattiyakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti. "
 msgstr "“They could be called either.” "
@@ -693,7 +693,7 @@ msgctxt "mn93:14.3"
 msgid "yo so vaḷavāya gadrabhena kisoro uppanno, siyā so mātupi sadiso pitupi sadiso, ‘asso’tipi vattabbo ‘gadrabho’tipi vattabbo”ti? "
 msgstr "Would that mule be called a horse after the mother or a donkey after the father?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. VAR: Kuṇḍañhi so → vekurañjāya hi so (bj, pts1) | so kumāraṇḍupi so (s1-3, km) | vekulajo hi so (?)
 msgctxt "mn93:14.4"
 msgid "“Kuṇḍañhi so, bho gotama, assataro hoti. "
@@ -722,7 +722,7 @@ msgctxt "mn93:15.3"
 msgid "Kamettha brāhmaṇā paṭhamaṃ bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti? "
 msgstr "Who would the brahmins feed first at an offering of food for ancestors, an offering of a dish of milk-rice, a sacrifice, or a feast for guests?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:15.4"
 msgid "“Yo so, bho gotama, māṇavako ajjhāyako upanīto tamettha brāhmaṇā paṭhamaṃ bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā. "
 msgstr "“They’d first feed the student who was educated, a reciter. "
@@ -745,7 +745,7 @@ msgctxt "mn93:16.3"
 msgid "Kamettha brāhmaṇā paṭhamaṃ bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti? "
 msgstr "Who would the brahmins feed first?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:16.4"
 msgid "“Yo so, bho gotama, māṇavako anajjhāyako anupanīto sīlavā kalyāṇadhammo tamettha brāhmaṇā paṭhamaṃ bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā. "
 msgstr "“They’d first feed the student who was uneducated and not a reciter, but was ethical and of good character. "
@@ -783,7 +783,7 @@ msgctxt "mn93:18.1"
 msgid "Atha kho bhagavā assalāyanaṃ māṇavaṃ tuṇhībhūtaṃ maṅkubhūtaṃ pattakkhandhaṃ adhomukhaṃ pajjhāyantaṃ appaṭibhānaṃ viditvā assalāyanaṃ māṇavaṃ etadavoca: "
 msgstr "Knowing this, the Buddha said to him: "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.2"
 msgid "“bhūtapubbaṃ, assalāyana, sattannaṃ brāhmaṇisīnaṃ araññāyatane paṇṇakuṭīsu sammantānaṃ evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ hoti: "
 msgstr "“Once upon a time, Assalāyana, seven brahmin hermits settled in leaf huts in a wilderness region. They had the following harmful misconception: "
@@ -800,7 +800,7 @@ msgctxt "mn93:18.5"
 msgid "brahmadāyādā’ti. "
 msgstr "Only brahmins are Brahmā’s rightful sons, born of his mouth, born of Brahmā, created by Brahmā, heirs of Brahmā.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.6"
 msgid "Assosi kho, assalāyana, asito devalo isi: "
 msgstr "The hermit Devala the Dark heard about this. "
@@ -835,7 +835,7 @@ msgctxt "mn93:18.13"
 msgid "handa ko nu kho ime bhavanto brāhmaṇisayo gatā’ti? "
 msgstr "Where, oh where have those brahmin hermits gone?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.14"
 msgid "Atha kho, assalāyana, sattannaṃ brāhmaṇisīnaṃ etadahosi: "
 msgstr "Then those brahmin hermits said, "
@@ -856,7 +856,7 @@ msgctxt "mn93:18.18"
 msgid "Handa naṃ abhisapāmā”’ti. "
 msgstr "Let’s curse him!’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.19"
 msgid "Atha kho, assalāyana, satta brāhmaṇisayo asitaṃ devalaṃ isiṃ abhisapiṃsu: "
 msgstr "So they cursed Devala the Dark, "
@@ -874,7 +874,7 @@ msgctxt "mn93:18.22"
 msgid "Yathā yathā kho, assalāyana, satta brāhmaṇisayo asitaṃ devalaṃ isiṃ abhisapiṃsu tathā tathā asito devalo isi abhirūpataro ceva hoti dassanīyataro ca pāsādikataro ca. "
 msgstr "But the more the hermits cursed him, the more attractive, good-looking, and lovely Devala the Dark became. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.23"
 msgid "Atha kho, assalāyana, sattannaṃ brāhmaṇisīnaṃ etadahosi: "
 msgstr "Then those brahmin hermits said, "
@@ -899,7 +899,7 @@ msgctxt "mn93:18.28"
 msgid "Imaṃ pana mayaṃ yathā yathā abhisapāma tathā tathā abhirūpataro ceva hoti dassanīyataro ca pāsādikataro cā’ti. "
 msgstr "But the more we curse this one, the more attractive, good-looking, and lovely he becomes.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.29"
 msgid "‘Na bhavantānaṃ moghaṃ tapo, nāphalaṃ brahmacariyaṃ. "
 msgstr "‘Gentlemen, your austerities are not in vain; your spiritual path is not fruitless. "
@@ -908,7 +908,7 @@ msgctxt "mn93:18.30"
 msgid "Iṅgha bhavanto, yo mayi manopadoso taṃ pajahathā’ti. "
 msgstr "Please let go of your malevolence towards me.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.31"
 msgid "‘Yo bhavati manopadoso taṃ pajahāma. "
 msgstr "‘We let go of our malevolence towards you. "
@@ -917,7 +917,7 @@ msgctxt "mn93:18.32"
 msgid "Ko nu bhavaṃ hotī’ti? "
 msgstr "But who are you, sir?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.33"
 msgid "‘Suto nu bhavataṃ—"
 msgstr "‘Have you heard of "
@@ -926,12 +926,12 @@ msgctxt "mn93:18.34"
 msgid "asito devalo isī’ti? "
 msgstr "the hermit Devala the Dark?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.35"
 msgid "‘Evaṃ, bho’. "
 msgstr "‘Yes, sir.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.36"
 msgid "‘So khvāhaṃ, bho, homī’ti. "
 msgstr "‘I am he, sirs.’ "
@@ -966,7 +966,7 @@ msgctxt "mn93:18.43"
 msgid "brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. "
 msgstr "Only brahmins are Brahmā’s rightful sons, born of his mouth, born of Brahmā, created by Brahmā, heirs of Brahmā.”’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.44"
 msgid "‘Evaṃ, bho’. "
 msgstr "‘That’s right, sir.’ "
@@ -982,7 +982,7 @@ msgctxt "mn93:18.46"
 msgid "yā janikā mātā brāhmaṇaṃyeva agamāsi, no abrāhmaṇan’ti? "
 msgstr "whether your birth mother only had relations with a brahmin and not with a non-brahmin?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.47"
 msgid "‘No hidaṃ, bho’. "
 msgstr "‘We don’t know that.’ "
@@ -998,7 +998,7 @@ msgctxt "mn93:18.49"
 msgid "yā janikāmātu mātā yāva sattamā mātumātāmahayugā brāhmaṇaṃyeva agamāsi, no abrāhmaṇan’ti? "
 msgstr "whether your birth mother’s mothers back to the seventh generation only had relations with brahmins and not with non-brahmins?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.50"
 msgid "‘No hidaṃ, bho’. "
 msgstr "‘We don’t know that.’ "
@@ -1014,7 +1014,7 @@ msgctxt "mn93:18.52"
 msgid "yo janako pitā brāhmaṇiṃyeva agamāsi, no abrāhmaṇin’ti? "
 msgstr "whether your birth father only had relations with a brahmin woman and not with a non-brahmin?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.53"
 msgid "‘No hidaṃ, bho’. "
 msgstr "‘We don’t know that.’ "
@@ -1030,7 +1030,7 @@ msgctxt "mn93:18.55"
 msgid "yo janakapitu pitā yāva sattamā pitupitāmahayugā brāhmaṇiṃyeva agamāsi, no abrāhmaṇin’ti? "
 msgstr "whether your birth father’s fathers back to the seventh generation only had relations with brahmins and not with non-brahmins?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.56"
 msgid "‘No hidaṃ, bho’. "
 msgstr "‘We don’t know that.’ "
@@ -1045,7 +1045,7 @@ msgctxt "mn93:18.58"
 msgid "yathā gabbhassa avakkanti hotī’ti? "
 msgstr "how an embryo is conceived?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.59"
 msgid "‘Jānāma mayaṃ, bho—"
 msgstr "‘We do know that, sir. "
@@ -1069,7 +1069,7 @@ msgctxt "mn93:18.63"
 msgid "taggha, so gandhabbo khattiyo vā brāhmaṇo vā vesso vā suddo vā’ti? "
 msgstr "for sure whether that spirit is an aristocrat, a brahmin, a merchant, or a worker?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.64"
 msgid "‘Na mayaṃ, bho, jānāma—"
 msgstr "‘We don’t know that.’ "
@@ -1078,7 +1078,7 @@ msgctxt "mn93:18.65"
 msgid "taggha so gandhabbo khattiyo vā brāhmaṇo vā vesso vā suddo vā’ti. "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.66"
 msgid "‘Evaṃ sante, bho, jānātha—"
 msgstr "‘In that case, sirs, don’t you know "
@@ -1087,7 +1087,7 @@ msgctxt "mn93:18.67"
 msgid "ke tumhe hothā’ti? "
 msgstr "what you are?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.68"
 msgid "‘Evaṃ sante, bho, na mayaṃ jānāma—"
 msgstr "‘In that case, sir, we don’t know "
@@ -1096,7 +1096,7 @@ msgctxt "mn93:18.69"
 msgid "ke mayaṃ homā’ti. "
 msgstr "what we are.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn93:18.70"
 msgid "Te hi nāma, assalāyana, satta brāhmaṇisayo asitena devalena isinā sake jātivāde samanuyuñjīyamānā samanuggāhīyamānā samanubhāsīyamānā na sampāyissanti; "
 msgstr "So even those seven brahmin hermits were stumped when pursued, pressed, and grilled by the seer Devala on their own doctrine of ancestry. "

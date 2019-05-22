@@ -29,30 +29,30 @@ msgctxt "dn18:1.2"
 msgid "ekaṃ samayaṃ bhagavā nātike viharati giñjakāvasathe. "
 msgstr "At one time the Buddha was staying at Nādika in the brick house. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. VAR: cetivaṃsesu → cetiyavaṃsesu (mr)
 msgctxt "dn18:1.3"
 msgid "Tena kho pana samayena bhagavā parito parito janapadesu paricārake abbhatīte kālaṅkate upapattīsu byākaroti kāsikosalesu vajjimallesu cetivaṃsesu kurupañcālesu majjhasūrasenesu: "
 msgstr "Now at that time the Buddha was explaining the rebirths of devotees all over the nations; the Kāsis and Kosalans, Vajjis and Mallas, Cetīs and Vaṁsas, Kurus and Pañcālas, Macchas and Sūrasenas: "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. VAR: upapanno → uppanno (pts1) | upapannoti (mr)
 msgctxt "dn18:1.4"
 msgid "“asu amutra upapanno, asu amutra upapanno. "
 msgstr "“This one was reborn here, while that one was reborn there. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:1.5"
 msgid "Paropaññāsa nātikiyā paricārakā abbhatītā kālaṅkatā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā. "
 msgstr "Over fifty devotees in Nādika have passed away having ended the five lower fetters. They’ve been reborn spontaneously, and will be extinguished there, not liable to return from that world. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. VAR: sakideva → sakiṃdeva (mr)
 msgctxt "dn18:1.6"
 msgid "Sādhikā navuti nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmino, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karissanti. "
 msgstr "More than ninety devotees in Nādika have passed away having ended three fetters, and weakened greed, hate, and delusion. They’re once-returners, who will come back to this world once only, then make an end of suffering. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:1.7"
 msgid "Sātirekāni pañcasatāni nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā”ti. "
 msgstr "In excess of five hundred devotees in Nādika have passed away having ended three fetters. They’re stream-enterers, not liable to be reborn in the underworld, bound for awakening.” "
@@ -149,7 +149,7 @@ msgctxt "dn18:4.6"
 msgid "tesampissa sādhu veyyākaraṇaṃ, bahujano pasīdeyya, tato gaccheyya sugatiṃ. "
 msgstr "It would be good to do so, for many people would gain confidence, and so be reborn in a good place. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:4.7"
 msgid "Ayaṃ kho panāpi ahosi rājā māgadho seniyo bimbisāro dhammiko dhammarājā hito brāhmaṇagahapatikānaṃ negamānañceva jānapadānañca. "
 msgstr "That King Seniya Bimbisāra of Magadha was a just and principled king who benefited the brahmins and householders of town and country. "
@@ -183,7 +183,7 @@ msgctxt "dn18:4.14"
 msgid "Tassapissa sādhu veyyākaraṇaṃ bahujano pasīdeyya, tato gaccheyya sugatiṃ. "
 msgstr "It would be good to do so, for many people would gain confidence, and so be reborn in a good place. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:4.15"
 msgid "Bhagavato kho pana sambodhi magadhesu. "
 msgstr "Besides, the Buddha was awakened in Magadha; "
@@ -334,7 +334,7 @@ msgctxt "dn18:7.5"
 msgid "“yaṃgatikā te bhavanto yaṃabhisamparāyā”ti. "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:7.6"
 msgid "Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito giñjakāvasathā nikkhamitvā vihārapacchāyāyaṃ paññatte āsane nisīdi. "
 msgstr "Then in the late afternoon, the Buddha came out of retreat. Emerging from the brick house, he sat on the seat spread out in the shade of the porch. "
@@ -408,7 +408,7 @@ msgid "‘na hi nūna so orako yakkho bhavissati yadidaṃ evarūpaṃ nāmadhey
 msgstr "‘This must be no ordinary spirit to bear such an exalted name as Janavasabha.’” "
 
 # NOTE: Note, ularavanna doesn’t in and of itself mean some kind of celestial phenomenon. At MN 96 it occurs of regular beautiful people, see my not there.
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: pts-cs10
 msgctxt "dn18:10.1"
 msgid "“Anantarā kho, ānanda, saddapātubhāvā uḷāravaṇṇo me yakkho sammukhe pāturahosi. "
@@ -467,12 +467,12 @@ msgid "“Acchariyamidaṃ āyasmato janavasabhassa yakkhassa, abbhutamidaṃ ā
 msgstr "‘It’s incredible and amazing that you, the venerable spirit Janavasabha, should say: "
 
 # NOTE: Note that in this idiom, the verb varies from sañjānāti, jānāti, pajānāti, and sampajānāti.
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:10.12"
 msgid "‘Dīgharattaṃ kho ahaṃ, bhante, avinipāto avinipātaṃ sañjānāmī’ti ca vadesi, ‘āsā ca pana me santiṭṭhati sakadāgāmitāyā’ti ca vadesi, kutonidānaṃ panāyasmā janavasabho yakkho evarūpaṃ uḷāraṃ visesādhigamaṃ sañjānātī”ti? "
 msgstr "“For a long time I’ve been aware that I won’t be reborn in the underworld” and also “But I still hope to become a once-returner.” But from what source do you know that you’ve achieved such a high distinction?’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 # NOTE: Cp SN 2.24 where a similar phrase answers a similar question.
 #. VAR: aññatra → aññattha (bj, pts1)
 #. REF: pts-cs11
@@ -530,7 +530,7 @@ msgctxt "dn18:12.2"
 msgid "Mahatī ca dibbaparisā samantato nisinnā honti, cattāro ca mahārājāno catuddisā nisinnā honti. "
 msgstr "A large assembly of gods was sitting all around, and the Four Great Kings were there. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:12.3"
 msgid "Puratthimāya disāya dhataraṭṭho mahārājā pacchimābhimukho nisinno hoti deve purakkhatvā; "
 msgstr "The Great King Dhataraṭṭha was seated to the east, facing west, in front of his gods. "
@@ -555,7 +555,7 @@ msgctxt "dn18:12.8"
 msgid "atha pacchā amhākaṃ āsanaṃ hoti. "
 msgstr "After that come our seats. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:12.9"
 msgid "Ye te, bhante, devā bhagavati brahmacariyaṃ caritvā adhunūpapannā tāvatiṃsakāyaṃ, te aññe deve atirocanti vaṇṇena ceva yasasā ca. "
 msgstr "Sir, those gods who had been recently reborn in the company of the Thirty-Three after leading the spiritual life under the Buddha outshone the other gods in beauty and glory. "
@@ -568,7 +568,7 @@ msgctxt "dn18:12.11"
 msgid "“dibbā vata bho kāyā paripūrenti, hāyanti asurakāyā”ti. "
 msgstr "“The heavenly hosts swell, while the demon hosts dwindle!” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: pts-cs13
 msgctxt "dn18:13.1"
 msgid "Atha kho, bhante, sakko devānamindo devānaṃ tāvatiṃsānaṃ sampasādaṃ viditvā imāhi gāthāhi anumodi: "
@@ -670,7 +670,7 @@ msgctxt "dn18:13.19"
 msgid "“dibbā vata, bho, kāyā paripūrenti, hāyanti asurakāyā”ti. "
 msgstr "“The heavenly hosts swell, while the demon hosts dwindle!” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: pts-cs14
 #. VAR: vuttavacanāpi taṃ → vuttavacanā nāmidaṃ (mr)
 msgctxt "dn18:14.1"
@@ -764,7 +764,7 @@ msgctxt "dn18:16.4"
 msgid "“obhāsametaṃ ñassāma yaṃvipāko bhavissati, sacchikatvāva naṃ gamissāmā”ti. "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:16.5"
 msgid "Idaṃ sutvā devā tāvatiṃsā ekaggā samāpajjiṃsu: "
 msgstr "Hearing that, the gods of the Thirty-Three agreed in unison, "
@@ -798,7 +798,7 @@ msgctxt "dn18:17.5"
 msgid "evameva kho, bhante, yadā brahmā sanaṅkumāro devānaṃ tāvatiṃsānaṃ pātubhavati, so aññe deve atirocati vaṇṇena ceva yasasā ca. "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:17.6"
 msgid "Yadā, bhante, brahmā sanaṅkumāro devānaṃ tāvatiṃsānaṃ pātubhavati, na tassaṃ parisāyaṃ koci devo abhivādeti vā paccuṭṭheti vā āsanena vā nimanteti. "
 msgstr "When Brahmā Sanaṅkumāra appears to the gods of the Thirty-Three, not a single god in that assembly greets him by bowing down or rising up or inviting him to a seat. "
@@ -825,7 +825,7 @@ msgctxt "dn18:18.2"
 msgid "evameva kho, bhante, yassa devassa brahmā sanaṅkumāro pallaṅke nisīdati, uḷāraṃ so labhati devo vedapaṭilābhaṃ, uḷāraṃ so labhati devo somanassapaṭilābhaṃ. "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. VAR: kumāravaṇṇī → kumāravaṇṇo (s1-3, mr)
 msgctxt "dn18:18.3"
 msgid "Atha, bhante, brahmā sanaṅkumāro oḷārikaṃ attabhāvaṃ abhinimminitvā kumāravaṇṇī hutvā pañcasikho devānaṃ tāvatiṃsānaṃ pāturahosi. "
@@ -1083,17 +1083,17 @@ msgctxt "dn18:22.13"
 msgid "Passanti no, bhonto devā tāvatiṃsā, mamapimaṃ evarūpaṃ iddhānubhāvan”ti? "
 msgstr "gentlemen, do you see such psychic might and power in me?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:22.14"
 msgid "“Evaṃ, mahābrahme”ti. "
 msgstr "“Yes, Great Brahmā.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:22.15"
 msgid "“Ahampi kho bho imesaṃyeva catunnañca iddhipādānaṃ bhāvitattā bahulīkatattā evaṃ mahiddhiko evaṃmahānubhāvo”ti. "
 msgstr "“I too became so mighty and powerful by developing and cultivating these four bases of psychic power.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: pts-cs23
 msgctxt "dn18:23.1"
 msgid "Imamatthaṃ, bhante, brahmā sanaṅkumāro bhāsittha. "
@@ -1118,7 +1118,7 @@ msgctxt "dn18:23.5"
 msgid "Katame tayo? "
 msgstr "What three? "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:23.6"
 msgid "Idha bho ekacco saṃsaṭṭho viharati kāmehi saṃsaṭṭho akusalehi dhammehi. "
 msgstr "First, take someone who lives mixed up with sensual pleasures and unskillful qualities. "
@@ -1220,12 +1220,12 @@ msgctxt "dn18:25.10"
 msgid "Ayaṃ kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena tatiyo okāsādhigamo anubuddho sukhassādhigamāya. "
 msgstr "This is the third opportunity for achieving happiness. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:25.11"
 msgid "Ime kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena tayo okāsādhigamā anubuddhā sukhassādhigamāyā”ti. "
 msgstr "These are the three opportunities for achieving happiness that have been understood by the Buddha.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: pts-cs26
 msgctxt "dn18:26.1"
 msgid "Imamatthaṃ, bhante, brahmā sanaṅkumāro bhāsittha, "
@@ -1250,7 +1250,7 @@ msgctxt "dn18:26.5"
 msgid "Katame cattāro? "
 msgstr "What four? "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:26.6"
 msgid "Idha, bho, bhikkhu ajjhattaṃ kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. "
 msgstr "It’s when a mendicant meditates by observing an aspect of the body internally—keen, aware, and mindful, rid of desire and aversion for the world. "
@@ -1263,7 +1263,7 @@ msgctxt "dn18:26.8"
 msgid "So tattha sammā samāhito sammā vippasanno bahiddhā parakāye ñāṇadassanaṃ abhinibbatteti. "
 msgstr "Then they give rise to knowledge and vision of other people’s bodies externally. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:26.9"
 msgid "Ajjhattaṃ vedanāsu vedanānupassī viharati … pe … "
 msgstr "They meditate observing an aspect of feelings internally … "
@@ -1272,7 +1272,7 @@ msgctxt "dn18:26.10"
 msgid "bahiddhā paravedanāsu ñāṇadassanaṃ abhinibbatteti. "
 msgstr "Then they give rise to knowledge and vision of other people’s feelings externally. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:26.11"
 msgid "Ajjhattaṃ citte cittānupassī viharati … pe … "
 msgstr "They meditate observing an aspect of the mind internally … "
@@ -1281,7 +1281,7 @@ msgctxt "dn18:26.12"
 msgid "bahiddhā paracitte ñāṇadassanaṃ abhinibbatteti. "
 msgstr "Then they give rise to knowledge and vision of other people’s minds externally. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:26.13"
 msgid "Ajjhattaṃ dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. "
 msgstr "They meditate observing an aspect of principles internally—keen, aware, and mindful, rid of desire and aversion for the world. "
@@ -1294,12 +1294,12 @@ msgctxt "dn18:26.15"
 msgid "So tattha sammā samāhito sammā vippasanno bahiddhā paradhammesu ñāṇadassanaṃ abhinibbatteti. "
 msgstr "Then they give rise to knowledge and vision of other people’s principles externally. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:26.16"
 msgid "Ime kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro satipaṭṭhānā paññattā kusalassādhigamāyā”ti. "
 msgstr "These are the four kinds of mindfulness meditation that the Buddha has clearly described for achieving what is skillful.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: pts-cs27
 msgctxt "dn18:27.1"
 msgid "Imamatthaṃ, bhante, brahmā sanaṅkumāro bhāsittha. "
@@ -1333,12 +1333,12 @@ msgctxt "dn18:27.7"
 msgid "Yā kho, bho, imehi sattahaṅgehi cittassa ekaggatā parikkhatā, ayaṃ vuccati, bho, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipi. "
 msgstr "Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its vital conditions’ and ‘with its prerequisites’. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:27.8"
 msgid "Sammādiṭṭhissa, bho, sammāsaṅkappo pahoti, sammāsaṅkappassa sammāvācā pahoti, sammāvācassa sammākammanto pahoti. Sammākammantassa sammāājīvo pahoti, sammāājīvassa sammāvāyāmo pahoti, sammāvāyāmassa sammāsati pahoti, sammāsatissa sammāsamādhi pahoti, sammāsamādhissa sammāñāṇaṃ pahoti, sammāñāṇassa sammāvimutti pahoti. "
 msgstr "Right view gives rise to right thought. Right thought gives rise to right speech. Right speech gives rise to right action. Right action gives rise to right livelihood. Right livelihood gives rise to right effort. Right effort gives rise to right mindfulness. Right mindfulness gives rise to right immersion. Right immersion gives rise to right knowledge. Right knowledge gives rise to right freedom. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:27.9"
 msgid "Yañhi taṃ, bho, sammā vadamāno vadeyya: "
 msgstr "If anything should be rightly described as "
@@ -1394,7 +1394,7 @@ msgctxt "dn18:28.2"
 msgid "“acchariyaṃ vata bho, abbhutaṃ vata bho, evarūpopi nāma uḷāro satthā bhavissati, evarūpaṃ uḷāraṃ dhammakkhānaṃ, evarūpā uḷārā visesādhigamā paññāyissantī”ti. "
 msgstr "“It’s incredible, it’s amazing! That there should be such a magnificent Teacher, and such a magnificent exposition of the teaching! And that such achievements of high distinction should be made known!” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn18:28.3"
 msgid "Atha, bhante, brahmā sanaṅkumāro vessavaṇassa mahārājassa cetasā cetoparivitakkamaññāya vessavaṇaṃ mahārājānaṃ etadavoca: "
 msgstr "And then Brahmā Sanaṅkumāra, knowing what the great king Vessavaṇa was thinking, said to him, "

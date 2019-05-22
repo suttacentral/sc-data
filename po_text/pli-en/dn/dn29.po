@@ -34,12 +34,12 @@ msgctxt "dn29:2.2"
 msgid "Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti: "
 msgstr "With his passing the Jain ascetics split, dividing into two factions, arguing, quarreling, and fighting, continually wounding each other with barbed words: "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:2.3"
 msgid "“na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi? Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṃ me, asahitaṃ te. Purevacanīyaṃ pacchā avaca, pacchāvacanīyaṃ pure avaca. Adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti. "
 msgstr "“You don’t understand this teaching and training. I understand this teaching and training. What, you understand this teaching and training? You’re practicing wrong. I’m practicing right. I stay on topic, you don’t. You said last what you should have said first. You said first what you should have said last. What you’ve thought so much about has been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re trapped; get yourself out of this—if you can!” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. VAR: Vadhoyeva kho → vadhoyeveko (mr)
 #. VAR: vattati → anuvattati (s1-3, mr)
 msgctxt "dn29:2.4"
@@ -82,7 +82,7 @@ msgctxt "dn29:4.3"
 msgid "Āyāmāvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṃ bhagavato ārocessāmā”ti. "
 msgstr "Come, let’s go to the Buddha and tell him about this.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:4.4"
 msgid "“Evaṃ, bhante”ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi. "
 msgstr "“Yes, sir,” replied Cunda. "
@@ -112,7 +112,7 @@ msgctxt "dn29:6.1"
 msgid "“Evaṃ hetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite. "
 msgstr "“That’s what happens, Cunda, when a teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:6.2"
 msgid "Idha, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito, "
 msgstr "Take the case where a teacher is not awakened, and the teaching is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
@@ -945,7 +945,7 @@ msgctxt "dn29:27.4"
 msgid "samparāyikānañca āsavānaṃ paṭighātāya. "
 msgstr "protecting against defilements that affect lives to come. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 # NOTE: Both MW and RD have optative mod here, but it is not justified.
 msgctxt "dn29:27.5"
 msgid "Tasmātiha, cunda, yaṃ vo mayā cīvaraṃ anuññātaṃ, alaṃ vo taṃ "
@@ -1184,7 +1184,7 @@ msgctxt "dn29:43.5"
 msgid "Katame cattāro? "
 msgstr "What four? "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:43.6"
 msgid "Idhāvuso, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo. "
 msgstr "Firstly, with the ending of three fetters a mendicant becomes a stream-enterer, not liable to be reborn in the underworld, bound for awakening. "
@@ -1193,7 +1193,7 @@ msgctxt "dn29:43.7"
 msgid "Idaṃ paṭhamaṃ phalaṃ, paṭhamo ānisaṃso. "
 msgstr "This is the first fruit and benefit. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:43.8"
 msgid "Puna caparaṃ, āvuso, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmī hoti, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karoti. "
 msgstr "Furthermore, a mendicant—with the ending of three fetters, and the weakening of greed, hate, and delusion—becomes a once-returner. They come back to this world once only, then make an end of suffering. "
@@ -1202,7 +1202,7 @@ msgctxt "dn29:43.9"
 msgid "Idaṃ dutiyaṃ phalaṃ, dutiyo ānisaṃso. "
 msgstr "This is the second fruit and benefit. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:43.10"
 msgid "Puna caparaṃ, āvuso, bhikkhu pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti, tattha parinibbāyī anāvattidhammo tasmā lokā. "
 msgstr "Furthermore, with the ending of the five lower fetters, a mendicant is reborn spontaneously and will become extinguished there, not liable to return from that world. "
@@ -1211,7 +1211,7 @@ msgctxt "dn29:43.11"
 msgid "Idaṃ tatiyaṃ phalaṃ, tatiyo ānisaṃso. "
 msgstr "This is the third fruit and benefit. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:43.12"
 msgid "Puna caparaṃ, āvuso, bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. "
 msgstr "Furthermore, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements. "
@@ -1220,7 +1220,7 @@ msgctxt "dn29:43.13"
 msgid "Idaṃ catutthaṃ phalaṃ catuttho ānisaṃso. "
 msgstr "This is the fourth fruit and benefit. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:43.14"
 msgid "Ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ imāni cattāri phalāni, cattāro ānisaṃsā pāṭikaṅkhā’ti. "
 msgstr "These four benefits may be expected by those who live indulging in pleasure in these four ways.’ "
@@ -1257,7 +1257,7 @@ msgctxt "dn29:44.6"
 msgid "evameva kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṃ dhammā desitā paññattā yāvajīvaṃ anatikkamanīyā. "
 msgstr "In the same way, these things have been taught and pointed out for his disciples by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha, not to be transgressed so long as life lasts. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:44.7"
 msgid "Yo so, āvuso, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññāvimutto, abhabbo so nava ṭhānāni ajjhācarituṃ. "
 msgstr "A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—can’t transgress in nine respects. "
@@ -1289,7 +1289,7 @@ msgctxt "dn29:45.3"
 msgid "Te ca aññatitthiyā paribbājakā aññavihitakena ñāṇadassanena aññavihitakaṃ ñāṇadassanaṃ paññapetabbaṃ maññanti yathariva bālā abyattā. "
 msgstr "Those wanderers, like incompetent fools, seem to imagine that one kind of knowledge and vision can be demonstrated by means of another kind of knowledge and vision. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:45.4"
 msgid "Atītaṃ kho, cunda, addhānaṃ ārabbha tathāgatassa satānusāriñāṇaṃ hoti; "
 msgstr "Regarding the past, the Realized One has knowledge stemming from memory. "
@@ -1298,7 +1298,7 @@ msgctxt "dn29:45.5"
 msgid "so yāvatakaṃ ākaṅkhati tāvatakaṃ anussarati. "
 msgstr "He recollects as far as he wants. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:45.6"
 msgid "Anāgatañca kho addhānaṃ ārabbha tathāgatassa bodhijaṃ ñāṇaṃ uppajjati: "
 msgstr "Regarding the future, the Realized One has the knowledge born of awakening: "
@@ -1307,7 +1307,7 @@ msgctxt "dn29:45.7"
 msgid "‘ayamantimā jāti, natthi dāni punabbhavo’ti. "
 msgstr "‘This is my last rebirth. Now there are no more future lives.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:45.8"
 msgid "Atītañcepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti. "
 msgstr "If a question about the past is untrue, false, and pointless, the Realized One does not reply. "
@@ -1343,7 +1343,7 @@ msgctxt "dn29:46.1"
 msgid "Iti kho, cunda, atītānāgatapaccuppannesu dhammesu tathāgato kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, tasmā ‘tathāgato’ti vuccati. "
 msgstr "And so the Realized One has speech that’s well-timed, true, meaningful, in line with the teaching and training. That’s why he’s called the ‘Realized One’. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:46.2"
 msgid "Yañca kho, cunda, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, sabbaṃ tathāgatena abhisambuddhaṃ, "
 msgstr "In this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—whatever is seen, heard, thought, known, sought, and explored by the mind, all that has been understood by the Realized One. "
@@ -1352,7 +1352,7 @@ msgctxt "dn29:46.3"
 msgid "tasmā ‘tathāgato’ti vuccati. "
 msgstr "That’s why he’s called the ‘Realized One’. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:46.4"
 msgid "Yañca, cunda, rattiṃ tathāgato anuttaraṃ sammāsambodhiṃ abhisambujjhati, yañca rattiṃ anupādisesāya nibbānadhātuyā parinibbāyati, yaṃ etasmiṃ antare bhāsati lapati niddisati. Sabbaṃ taṃ tatheva hoti no aññathā, "
 msgstr "From the night when the Realized One understands the supreme perfect awakening until the night he becomes fully extinguished—through the natural principle of extinguishment, without anything left over—everything he speaks, says, and expresses is real, not otherwise. "
@@ -1361,7 +1361,7 @@ msgctxt "dn29:46.5"
 msgid "tasmā ‘tathāgato’ti vuccati. "
 msgstr "That’s why he’s called the ‘Realized One’. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:46.6"
 msgid "Yathāvādī, cunda, tathāgato tathākārī, yathākārī tathāvādī. "
 msgstr "The Realized One does as he says, and says as he does. "
@@ -1552,7 +1552,7 @@ msgctxt "dn29:54.4"
 msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? "
 msgstr "Shall I explain them to you in the wrong way? "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:54.5"
 msgid "Katame ca te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. "
 msgstr "What are the views that some rely on regarding the past? "
@@ -1789,7 +1789,7 @@ msgctxt "dn29:56.26"
 msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti. "
 msgstr "Rather, I am the one who is superior when it comes to the higher exposition. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:56.27"
 msgid "Ime kho te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. "
 msgstr "These are the views that some rely on regarding the past. "
@@ -1856,7 +1856,7 @@ msgctxt "dn29:57.12"
 msgid "attā ucchijjati vinassati na hoti paraṃ maraṇā, idameva saccaṃ moghamaññan’ti. "
 msgstr "or the self is annihilated and destroyed when the body breaks up, and doesn’t exist after death. This is the only truth, other ideas are silly.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:57.13"
 msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: "
 msgstr "Regarding this, I go up to the ascetics and brahmins whose view is that "
@@ -1979,7 +1979,7 @@ msgctxt "dn29:58.18"
 msgid "Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti. "
 msgstr "Rather, I am the one who is superior when it comes to the higher exposition. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:58.19"
 msgid "Ime kho te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. "
 msgstr "These are the views that some rely on regarding the future, which I have explained to you as they should be explained. "
@@ -2041,7 +2041,7 @@ msgctxt "dn29:60.5"
 msgid "supāsādiko vatāyaṃ, bhante, dhammapariyāyo, ko nāmāyaṃ, bhante, dhammapariyāyo”ti? "
 msgstr "it is very impressive. Sir, what is the name of this exposition of the teaching?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "dn29:60.6"
 msgid "“Tasmātiha tvaṃ, upavāṇa, imaṃ dhammapariyāyaṃ ‘pāsādiko’ tveva naṃ dhārehī”ti. "
 msgstr "“Well, Upavāṇa, you may remember this exposition of the teaching as ‘The Impressive Discourse’.” "

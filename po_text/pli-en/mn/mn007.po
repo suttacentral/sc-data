@@ -32,7 +32,7 @@ msgctxt "mn7:1.4"
 msgid "“bhikkhavo”ti. "
 msgstr "“Mendicants!” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn7:1.5"
 msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ. "
 msgstr "“Venerable sir,” they replied. "
@@ -60,7 +60,7 @@ msgctxt "mn7:2.4"
 msgid "Aparisuddhattā, bhikkhave, vatthassa. "
 msgstr "Because of the impurity of the cloth. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn7:2.5"
 msgid "Evameva kho, bhikkhave, citte saṃkiliṭṭhe, duggati pāṭikaṅkhā. "
 msgstr "In the same way, when the mind is corrupt, a bad destiny is to be expected. "
@@ -81,7 +81,7 @@ msgctxt "mn7:2.9"
 msgid "Parisuddhattā, bhikkhave, vatthassa. "
 msgstr "Because of the purity of the cloth. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn7:2.10"
 msgid "Evameva kho, bhikkhave, citte asaṃkiliṭṭhe, sugati pāṭikaṅkhā. "
 msgstr "In the same way, when the mind isn’t corrupt, a good destiny is to be expected. "
@@ -358,7 +358,7 @@ msgctxt "mn7:5.33"
 msgid "‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti; "
 msgstr "‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya6
 msgctxt "mn7:6.1"
 msgid "dhamme aveccappasādena samannāgato hoti: "
@@ -368,7 +368,7 @@ msgctxt "mn7:6.2"
 msgid "‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’ti; "
 msgstr "‘The teaching is well explained by the Buddha—visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya7
 msgctxt "mn7:7.1"
 msgid "saṅghe aveccappasādena samannāgato hoti: "
@@ -448,7 +448,7 @@ msgctxt "mn7:17.1"
 msgid "So ‘atthi idaṃ, atthi hīnaṃ, atthi paṇītaṃ, atthi imassa saññāgatassa uttari nissaraṇan’ti pajānāti. "
 msgstr "They understand: ‘There is this, there is what is worse than this, there is what is better than this, and there is an escape beyond the scope of perception.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya18
 msgctxt "mn7:18.1"
 msgid "Tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati. "
@@ -458,7 +458,7 @@ msgctxt "mn7:18.2"
 msgid "Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. "
 msgstr "When they’re freed, they know they’re freed. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn7:18.3"
 msgid "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti. "
 msgstr "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ "
@@ -485,7 +485,7 @@ msgctxt "mn7:19.3"
 msgid "“gacchati pana bhavaṃ gotamo bāhukaṃ nadiṃ sināyitun”ti? "
 msgstr "“But does Master Gotama go to the river Bāhuka to bathe?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn7:19.4"
 msgid "“Kiṃ, brāhmaṇa, bāhukāya nadiyā? "
 msgstr "“Brahmin, why go to the river Bāhuka? "
@@ -495,13 +495,13 @@ msgid "Kiṃ bāhukā nadī karissatī”ti? "
 msgstr "What can the river Bāhuka do?” "
 
 # NOTE: BB has “liberation”, obviously following PTS in reading “mokkhasammata”. This reading is supported by MA 93, which has 度相. (The other Chinese parallel at T 51 doesn’t have a close parallel with this phrase.) However the comm evidently reads lokkha: Tattha lokkhasammatāti lūkhabhāvasammatā, lūkhabhāvanti cokkhabhāvaṃ, visuddhibhāvaṃ detīti evaṃ sammatāti vuttaṃ hoti. The problem is that lokkha gives the exact opposite sense: rough or dirty. Nor does there appear to be any supporting sense in Sanskrit. The PTS dict suggests reading cokkha=clean here: https://suttacentral.net/define/cokkha, and I think this is the best reading. Liberation doesn’t fit the imagery of the text. Nor, so far as I know, was it generally held among the brahmins that liberation came from bathing alone. On the contrary, it is precisely those brahmins who developed the notion of liberation who insisted on the inner understanding. I suspect the Chinese translation, therefore, is a normalization, as is the reading mokkha in the Pali.
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. VAR: Lokkhasammatā → lokhyasammatā (bj) | lokasammatā (s1-3) | mokkhasammatā (pts1)
 msgctxt "mn7:19.6"
 msgid "“Lokkhasammatā hi, bho gotama, bāhukā nadī bahujanassa, puññasammatā hi, bho gotama, bāhukā nadī bahujanassa, bāhukāya pana nadiyā bahujano pāpakammaṃ kataṃ pavāhetī”ti. "
 msgstr "“Many people agree that the river Bāhuka bestows cleanliness and merit. And many people wash off their bad deeds in the river Bāhuka.” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya20
 msgctxt "mn7:20.1"
 msgid "Atha kho bhagavā sundarikabhāradvājaṃ brāhmaṇaṃ gāthāhi ajjhabhāsi: "
@@ -646,7 +646,7 @@ msgctxt "mn7:21.5"
 msgid "Labheyyāhaṃ bhoto gotamassa santike pabbajjaṃ, labheyyaṃ upasampadan”ti. "
 msgstr "Sir, may I receive the going forth, the ordination in the Buddha’s presence?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya22
 msgctxt "mn7:22.1"
 msgid "Alattha kho sundarikabhāradvājo brāhmaṇo bhagavato santike pabbajjaṃ, alattha upasampadaṃ. "
@@ -656,7 +656,7 @@ msgctxt "mn7:22.2"
 msgid "Acirūpasampanno kho panāyasmā bhāradvājo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. "
 msgstr "Not long after his ordination, Venerable Bhāradvāja, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme end of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn7:22.3"
 msgid "“Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti abbhaññāsi. "
 msgstr "He understood: “Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.” "

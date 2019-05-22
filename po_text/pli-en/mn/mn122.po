@@ -23,7 +23,7 @@ msgctxt "mn122:1.2"
 msgid "ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme. "
 msgstr "At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya2
 msgctxt "mn122:2.1"
 msgid "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya kapilavatthuṃ piṇḍāya pāvisi. "
@@ -33,7 +33,7 @@ msgctxt "mn122:2.2"
 msgid "Kapilavatthusmiṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena kāḷakhemakassa sakkassa vihāro tenupasaṅkami divāvihārāya. "
 msgstr "He wandered for alms in Kapilavatthu. After the meal, on his return from alms-round, he went to the dwelling of Kāḷakhemaka the Sakyan for the day’s meditation. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn122:2.3"
 msgid "Tena kho pana samayena kāḷakhemakassa sakkassa vihāre sambahulāni senāsanāni paññattāni honti. "
 msgstr "Now at that time several resting places had been spread out at Kāḷakhemaka’s dwelling. "
@@ -76,12 +76,12 @@ msgctxt "mn122:2.12"
 msgid "Sambahulā nu kho ettha bhikkhū viharantī”ti? "
 msgstr "are several mendicants living there?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn122:2.13"
 msgid "“Sambahulāni, bhante, kāḷakhemakassa sakkassa vihāre senāsanāni paññattāni. "
 msgstr " "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn122:2.14"
 msgid "Sambahulā bhikkhū ettha viharanti. "
 msgstr "“Indeed there are, sir. "
@@ -143,7 +143,7 @@ msgctxt "mn122:6.4"
 msgid "Tatrānanda, tathāgato vivekaninneneva cittena vivekapoṇena vivekapabbhārena vūpakaṭṭhena nekkhammābhiratena byantībhūtena sabbaso āsavaṭṭhānīyehi dhammehi aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti. "
 msgstr "In that case, with a mind slanting, sloping, and inclining to seclusion, withdrawn, and loving renunciation, he invariably gives each of them a talk emphasizing the topic of dismissal. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya7
 msgctxt "mn122:7.1"
 msgid "Tasmātihānanda, bhikkhu cepi ākaṅkheyya: "
@@ -160,7 +160,7 @@ msgctxt "mn122:7.3"
 msgid "Kathañcānanda, bhikkhu ajjhattameva cittaṃ saṇṭhapeti sannisādeti ekodiṃ karoti samādahati? "
 msgstr "And how does a mendicant still, settle, unify, and immerse their mind in samādhi internally? "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya8
 msgctxt "mn122:8.1"
 msgid "Idhānanda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi … pe … paṭhamaṃ jhānaṃ upasampajja viharati … pe … "
@@ -182,7 +182,7 @@ msgctxt "mn122:8.5"
 msgid "Evaṃ kho, ānanda, bhikkhu ajjhattameva cittaṃ saṇṭhapeti sannisādeti ekodiṃ karoti samādahati. "
 msgstr "That’s how a mendicant stills, settles, unifies, and immerses their mind in samādhi internally. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya9
 msgctxt "mn122:9.1"
 msgid "So ajjhattaṃ suññataṃ manasi karoti. "
@@ -417,7 +417,7 @@ msgctxt "mn122:14.8"
 msgid "ime kho, ānanda, pañca kāmaguṇā. "
 msgstr "These are the five kinds of sensual stimulation. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya15
 msgctxt "mn122:15.1"
 msgid "Yattha bhikkhunā abhikkhaṇaṃ sakaṃ cittaṃ paccavekkhitabbaṃ: "
@@ -494,7 +494,7 @@ msgctxt "mn122:16.6"
 msgid "iti viññāṇaṃ iti viññāṇassa samudayo iti viññāṇassa atthaṅgamo’ti. "
 msgstr "Such is consciousness, such is the origin of consciousness, such is the ending of consciousness.’ "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya17
 msgctxt "mn122:17.1"
 msgid "Tassa imesu pañcasu upādānakkhandhesu udayabbayānupassino viharato yo pañcasu upādānakkhandhesu asmimāno so pahīyati. "
@@ -512,14 +512,14 @@ msgctxt "mn122:17.4"
 msgid "Itiha tattha sampajāno hoti. "
 msgstr "In this way they are aware of the situation. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya18
 #. VAR: dhammā ekantakusalā kusalāyātikā → dhammā ekan­ta­kusa­lā­yatikā (bj, s1-3, km, pts1) | dhammā ekan­ta­kusa­lā­yātikā (si)
 msgctxt "mn122:18.1"
 msgid "Ime kho te, ānanda, dhammā ekantakusalā kusalāyātikā ariyā lokuttarā anavakkantā pāpimatā. "
 msgstr "These principles are entirely skillful, with skillful outcomes; they are noble, transcendent, and inaccessible to the Wicked One. "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 #. REF: nya19
 msgctxt "mn122:19.1"
 msgid "Taṃ kiṃ maññasi, ānanda, "
@@ -530,7 +530,7 @@ msgctxt "mn122:19.2"
 msgid "kaṃ atthavasaṃ sampassamāno arahati sāvako satthāraṃ anubandhituṃ api paṇujjamāno”ti? "
 msgstr "For what reason would a disciple value following the Teacher, even if sent away?” "
 
-#. HTML: </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn122:19.3"
 msgid "“Bhagavaṃmūlakā no, bhante, dhammā bhagavaṃnettikā bhagavaṃpaṭisaraṇā. Sādhu vata, bhante, bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. Bhagavato sutvā bhikkhū dhāressantī”ti. "
 msgstr "“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.” "
