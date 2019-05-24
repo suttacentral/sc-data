@@ -2,62 +2,64 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn1.54"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn1.54"><article><div class="hgroup"><p class="division">
 msgctxt "sn1.54:0.1"
-msgid "Saṃyutta Nikāya 1"
-msgstr "Linked Discourses 1"
+msgid "Saṃyutta Nikāya 1 "
+msgstr "Linked Discourses 1 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn1.54:0.2"
-msgid "6. Jarāvagga"
-msgstr "6. Old Age"
+msgid "6. Jarāvagga "
+msgstr "6. Old Age "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn1.54:0.3"
-msgid "54. Vatthusutta"
-msgstr "54. Grounds"
+msgid "54. Vatthusutta "
+msgstr "54. Grounds "
 
-# I think the underlying metaphor here is more concrete than “support”: it is a person’s lands, their property, which is their support and legacy. As usual, the Buddha’s response aims to upend conventional values.
-#. </h1></div><blockquote class="gatha"><p>
-#. <a class="sc" id="sc1"></a>
+# NOTE: I think the underlying metaphor here is more concrete than “support”: it is a person’s lands, their property, which is their support and legacy. As usual, the Buddha’s response aims to upend conventional values.
+#. HTML: </h1></div><blockquote class="gatha"><p>
+#. REF: sc1
 msgctxt "sn1.54:1.1"
-msgid "“Kiṃsu vatthu manussānaṃ,"
-msgstr "“What is the ground of human beings?"
+msgid "“Kiṃsu vatthu manussānaṃ, "
+msgstr "“What is the ground of human beings? "
 
 #. <br>
 msgctxt "sn1.54:1.2"
-msgid "kiṃsūdha paramo sakhā;"
-msgstr "What is the best companion here?"
+msgid "kiṃsūdha paramo sakhā; "
+msgstr "What is the best companion here? "
 
 #. <br>
 msgctxt "sn1.54:1.3"
-msgid "Kiṃsu bhūtā upajīvanti,"
-msgstr "By what do the creatures who live off the earth"
+msgid "Kiṃsu bhūtā upajīvanti, "
+msgstr "By what do the creatures who live off the earth "
 
 #. <br>
 #. VAR: pathavissitā”ti → paṭhaviṃ sitāti (bj, s1-3, km, pts2) | pathaviṃ sitāti (pts1)
 msgctxt "sn1.54:1.4"
-msgid "ye pāṇā pathavissitā”ti."
-msgstr "sustain their life?”"
+msgid "ye pāṇā pathavissitā”ti. "
+msgstr "sustain their life?” "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn1.54:2.1"
-msgid "“Puttā vatthu manussānaṃ,"
-msgstr "“Children are the ground of human beings."
+msgid "“Puttā vatthu manussānaṃ, "
+msgstr "“Children are the ground of human beings. "
 
 #. <br>
 #. VAR: bhariyā ca → bhariyāva (bj, pts2) | bhariyā (s1-3, km)
 msgctxt "sn1.54:2.2"
-msgid "bhariyā ca paramo sakhā;"
-msgstr "A wife is the best companion."
+msgid "bhariyā ca paramo sakhā; "
+msgstr "A wife is the best companion. "
 
 #. <br>
 msgctxt "sn1.54:2.3"
-msgid "Vuṭṭhiṃ bhūtā upajīvanti,"
-msgstr "The creatures who live off the earth"
+msgid "Vuṭṭhiṃ bhūtā upajīvanti, "
+msgstr "The creatures who live off the earth "
 
 #. <br>
 msgctxt "sn1.54:2.4"
-msgid "ye pāṇā pathavissitā”ti."
+msgid "ye pāṇā pathavissitā”ti. "
 msgstr "sustain their life by rain.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

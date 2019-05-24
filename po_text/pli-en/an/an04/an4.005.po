@@ -2,183 +2,186 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.5"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.5"><article><div class="hgroup"><p class="division">
 msgctxt "an4.5:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an4.5:0.2"
-msgid "1. Bhaṇḍagāmavagga"
-msgstr "1. At Bhaṇḍa Village"
+msgid "1. Bhaṇḍagāmavagga "
+msgstr "1. At Bhaṇḍa Village "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an4.5:0.3"
-msgid "5. Anusotasutta"
-msgstr "5. With the Stream"
+msgid "5. Anusotasutta "
+msgstr "5. With the Stream "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "an4.5:1.1"
-msgid "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ."
-msgstr "“These four people are found in the world."
+msgid "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. "
+msgstr "“These four people are found in the world. "
 
 msgctxt "an4.5:1.2"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
 #. VAR: pāraṅgato → pāragato (bj, s1-3, km)
 msgctxt "an4.5:1.3"
-msgid "Anusotagāmī puggalo, paṭisotagāmī puggalo, ṭhitatto puggalo, tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo."
-msgstr "A person who goes with the stream; a person who goes against the stream; a steadfast person; and a brahmin who has crossed over and stands on the far shore."
+msgid "Anusotagāmī puggalo, paṭisotagāmī puggalo, ṭhitatto puggalo, tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo. "
+msgstr "A person who goes with the stream; a person who goes against the stream; a steadfast person; and a brahmin who has crossed over and stands on the far shore. "
 
+#. HTML: </p><p>
 msgctxt "an4.5:1.4"
-msgid "Katamo ca, bhikkhave, anusotagāmī puggalo?"
-msgstr "And who is the person who goes with the stream?"
+msgid "Katamo ca, bhikkhave, anusotagāmī puggalo? "
+msgstr "And who is the person who goes with the stream? "
 
 msgctxt "an4.5:1.5"
-msgid "Idha, bhikkhave, ekacco puggalo kāme ca paṭisevati, pāpañca kammaṃ karoti."
-msgstr "It’s a person who takes part in sensual pleasures and does bad deeds."
+msgid "Idha, bhikkhave, ekacco puggalo kāme ca paṭisevati, pāpañca kammaṃ karoti. "
+msgstr "It’s a person who takes part in sensual pleasures and does bad deeds. "
 
 msgctxt "an4.5:1.6"
-msgid "Ayaṃ vuccati, bhikkhave, anusotagāmī puggalo."
-msgstr "This is called a person who goes with the stream."
+msgid "Ayaṃ vuccati, bhikkhave, anusotagāmī puggalo. "
+msgstr "This is called a person who goes with the stream. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an4.5:2.1"
-msgid "Katamo ca, bhikkhave, paṭisotagāmī puggalo?"
-msgstr "And who is the person who goes against the stream?"
+msgid "Katamo ca, bhikkhave, paṭisotagāmī puggalo? "
+msgstr "And who is the person who goes against the stream? "
 
-# BB has “even” for -pli here, but the parallel phrasing at MN 46 shows that it just means “also”
+# NOTE: BB has “even” for -pli here, but the parallel phrasing at MN 46 shows that it just means “also”
 msgctxt "an4.5:2.2"
-msgid "Idha, bhikkhave, ekacco puggalo kāme ca nappaṭisevati, pāpañca kammaṃ na karoti, sahāpi dukkhena sahāpi domanassena assumukhopi rudamāno paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati."
-msgstr "It’s a person who doesn’t take part in sensual pleasures or do bad deeds. They live the full and pure spiritual life in pain and sadness, weeping, with tearful faces."
+msgid "Idha, bhikkhave, ekacco puggalo kāme ca nappaṭisevati, pāpañca kammaṃ na karoti, sahāpi dukkhena sahāpi domanassena assumukhopi rudamāno paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati. "
+msgstr "It’s a person who doesn’t take part in sensual pleasures or do bad deeds. They live the full and pure spiritual life in pain and sadness, weeping, with tearful faces. "
 
 msgctxt "an4.5:2.3"
-msgid "Ayaṃ vuccati, bhikkhave, paṭisotagāmī puggalo."
-msgstr "This is called a person who goes against the stream."
+msgid "Ayaṃ vuccati, bhikkhave, paṭisotagāmī puggalo. "
+msgstr "This is called a person who goes against the stream. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an4.5:3.1"
-msgid "Katamo ca, bhikkhave, ṭhitatto puggalo?"
-msgstr "And who is the steadfast person?"
+msgid "Katamo ca, bhikkhave, ṭhitatto puggalo? "
+msgstr "And who is the steadfast person? "
 
 msgctxt "an4.5:3.2"
-msgid "Idha, bhikkhave, ekacco puggalo pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā."
-msgstr "It’s a person who, with the ending of the five lower fetters, is reborn spontaneously. They’re extinguished there, and are not liable to return from that world."
+msgid "Idha, bhikkhave, ekacco puggalo pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā. "
+msgstr "It’s a person who, with the ending of the five lower fetters, is reborn spontaneously. They’re extinguished there, and are not liable to return from that world. "
 
 msgctxt "an4.5:3.3"
-msgid "Ayaṃ vuccati, bhikkhave, ṭhitatto puggalo."
-msgstr "This is called a steadfast person."
+msgid "Ayaṃ vuccati, bhikkhave, ṭhitatto puggalo. "
+msgstr "This is called a steadfast person. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.6"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.6, sc4
 msgctxt "an4.5:4.1"
-msgid "Katamo ca, bhikkhave, puggalo tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo?"
-msgstr "And who is a brahmin who has crossed over and stands on the far shore?"
+msgid "Katamo ca, bhikkhave, puggalo tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo? "
+msgstr "And who is a brahmin who has crossed over and stands on the far shore? "
 
 msgctxt "an4.5:4.2"
-msgid "Idha, bhikkhave, ekacco puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati."
-msgstr "It’s a person who realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements."
+msgid "Idha, bhikkhave, ekacco puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. "
+msgstr "It’s a person who realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. "
 
 msgctxt "an4.5:4.3"
-msgid "Ayaṃ vuccati, bhikkhave, puggalo tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo."
-msgstr "This is called a brahmin who has crossed over and stands on the far shore."
+msgid "Ayaṃ vuccati, bhikkhave, puggalo tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo. "
+msgstr "This is called a brahmin who has crossed over and stands on the far shore. "
 
+#. HTML: </p><p>
 msgctxt "an4.5:4.4"
-msgid "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasminti."
-msgstr "These are the four people found in the world."
+msgid "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasminti. "
+msgstr "These are the four people found in the world. "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc5
 msgctxt "an4.5:5.1"
-msgid "Ye keci kāmesu asaññatā janā,"
-msgstr "All those people with uncontrolled sensuality,"
+msgid "Ye keci kāmesu asaññatā janā, "
+msgstr "All those people with uncontrolled sensuality, "
 
 #. <br>
 msgctxt "an4.5:5.2"
-msgid "Avītarāgā idha kāmabhogino;"
-msgstr "not free of lust, enjoying sensual pleasures in this life:"
+msgid "Avītarāgā idha kāmabhogino; "
+msgstr "not free of lust, enjoying sensual pleasures in this life: "
 
 #. <br>
 #. VAR: jātijarūpagāmi te → jātijarūpagāhino (bj) | jātijarūpagā hi te (s1-3, km) | jātijarūpagāmī te (pts1)
 msgctxt "an4.5:5.3"
-msgid "Punappunaṃ jātijarūpagāmi te,"
-msgstr "again and again, they return to birth and old age;"
+msgid "Punappunaṃ jātijarūpagāmi te, "
+msgstr "again and again, they return to birth and old age; "
 
 #. <br>
 msgctxt "an4.5:5.4"
-msgid "Taṇhādhipannā anusotagāmino."
-msgstr "those who go with the stream are sunk in craving."
+msgid "Taṇhādhipannā anusotagāmino. "
+msgstr "those who go with the stream are sunk in craving. "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "an4.5:6.1"
-msgid "Tasmā hi dhīro idhupaṭṭhitassatī,"
-msgstr "So a wise one in this life, with mindfulness established,"
+msgid "Tasmā hi dhīro idhupaṭṭhitassatī, "
+msgstr "So a wise one in this life, with mindfulness established, "
 
 #. <br>
 msgctxt "an4.5:6.2"
-msgid "Kāme ca pāpe ca asevamāno;"
-msgstr "doesn’t take part in sensual pleasures and bad deeds."
+msgid "Kāme ca pāpe ca asevamāno; "
+msgstr "doesn’t take part in sensual pleasures and bad deeds. "
 
 #. <br>
 msgctxt "an4.5:6.3"
-msgid "Sahāpi dukkhena jaheyya kāme,"
-msgstr "In pain they’d give up sensual pleasures:"
+msgid "Sahāpi dukkhena jaheyya kāme, "
+msgstr "In pain they’d give up sensual pleasures: "
 
 #. <br>
 msgctxt "an4.5:6.4"
-msgid "Paṭisotagāmīti tamāhu puggalaṃ."
-msgstr "they call that person ‘one who goes against the stream’."
+msgid "Paṭisotagāmīti tamāhu puggalaṃ. "
+msgstr "they call that person ‘one who goes against the stream’. "
 
-#. </p><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: sc7
 msgctxt "an4.5:7.1"
-msgid "Yo ve kilesāni pahāya pañca,"
-msgstr "Someone who’s given up five corruptions,"
+msgid "Yo ve kilesāni pahāya pañca, "
+msgstr "Someone who’s given up five corruptions, "
 
 #. <br>
 msgctxt "an4.5:7.2"
-msgid "Paripuṇṇasekho aparihānadhammo;"
-msgstr "a perfect trainee, not liable to decline,"
+msgid "Paripuṇṇasekho aparihānadhammo; "
+msgstr "a perfect trainee, not liable to decline, "
 
 #. <br>
 msgctxt "an4.5:7.3"
-msgid "Cetovasippatto samāhitindriyo,"
-msgstr "who’s mastered their mind, with faculties immersed in samādhi,"
+msgid "Cetovasippatto samāhitindriyo, "
+msgstr "who’s mastered their mind, with faculties immersed in samādhi, "
 
 #. <br>
 msgctxt "an4.5:7.4"
-msgid "Sa ve ṭhitattoti naro pavuccati."
-msgstr "that’s called ‘a steadfast person’."
+msgid "Sa ve ṭhitattoti naro pavuccati. "
+msgstr "that’s called ‘a steadfast person’. "
 
-#. </p><p>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </p><p>
+#. REF: sc8
 msgctxt "an4.5:8.1"
-msgid "Paroparā yassa samecca dhammā,"
-msgstr "The sage who has comprehended all things, high and low,"
+msgid "Paroparā yassa samecca dhammā, "
+msgstr "The sage who has comprehended all things, high and low, "
 
 #. <br>
 msgctxt "an4.5:8.2"
-msgid "Vidhūpitā atthagatā na santi;"
-msgstr "cleared them and ended them, so they are no more;"
+msgid "Vidhūpitā atthagatā na santi; "
+msgstr "cleared them and ended them, so they are no more; "
 
 #. <br>
 #. VAR: Sa ve muni → sa vedagū (bj, s1-3, km, pts1)
 msgctxt "an4.5:8.3"
-msgid "Sa ve muni vusitabrahmacariyo,"
-msgstr "they’ve completed the spiritual journey, and gone to the end of the world,"
+msgid "Sa ve muni vusitabrahmacariyo, "
+msgstr "they’ve completed the spiritual journey, and gone to the end of the world, "
 
 #. <br>
 msgctxt "an4.5:8.4"
-msgid "Lokantagū pāragatoti vuccatī”ti."
-msgstr "they’re called ‘one who has gone beyond’.”"
+msgid "Lokantagū pāragatoti vuccatī”ti. "
+msgstr "they’re called ‘one who has gone beyond’.” "
 
-#. </p></blockquote><p class="endsection">
+#. HTML: </p></blockquote><p class="endsection">
 msgctxt "an4.5:8.5"
-msgid "Pañcamaṃ."
+msgid "Pañcamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

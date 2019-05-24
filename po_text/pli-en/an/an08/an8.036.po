@@ -2,188 +2,189 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an8.36"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an8.36"><article><div class="hgroup"><p class="division">
 msgctxt "an8.36:0.1"
-msgid "Aṅguttara Nikāya 8"
-msgstr "Numbered Discourses 8"
+msgid "Aṅguttara Nikāya 8 "
+msgstr "Numbered Discourses 8 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an8.36:0.2"
-msgid "4. Dānavagga"
-msgstr "4. Giving"
+msgid "4. Dānavagga "
+msgstr "4. Giving "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an8.36:0.3"
-msgid "36. Puññakiriyavatthusutta"
-msgstr "36. Grounds for Making Merit"
+msgid "36. Puññakiriyavatthusutta "
+msgstr "36. Grounds for Making Merit "
 
-# Normally I try to avoid using “make merit” for punnam karoti, to avoid the modern materialist slant on it. But here the context suggests that this is just what the Buddha had in mind. the term is adapted from the Brahmins (MN 99). I think the point of the group of three is, “you don’t just make merit by giving (which was the highest form recognized by the brahmins) but also by ethics, and hey, even meditation!. So here I think it’s best to use “meditation” by bhavana, even if the scope is actually somewhat broader than that; it doubtless refers to the 37 bodhipakkhiyas. Further, I think we should avoid over-literal translations.” basis for meritorious activity consisting in …"may be English, but not as we know it.<a class="sc" id="sc1"></a>
-#. </h1></div><p>
+# NOTE: Normally I try to avoid using “make merit” for punnam karoti, to avoid the modern materialist slant on it. But here the context suggests that this is just what the Buddha had in mind. the term is adapted from the Brahmins (MN 99). I think the point of the group of three is, “you don’t just make merit by giving (which was the highest form recognized by the brahmins) but also by ethics, and hey, even meditation!. So here I think it’s best to use “meditation” by bhavana, even if the scope is actually somewhat broader than that; it doubtless refers to the 37 bodhipakkhiyas. Further, I think we should avoid over-literal translations.” basis for meritorious activity consisting in …"may be English, but not as we know it.sc1
+#. HTML: </h1></div><p>
 msgctxt "an8.36:0.4"
-msgid "“Tīṇimāni, bhikkhave, puññakiriyavatthūni."
-msgstr "“Mendicants, there are these three grounds for making merit."
+msgid "“Tīṇimāni, bhikkhave, puññakiriyavatthūni. "
+msgstr "“Mendicants, there are these three grounds for making merit. "
 
 msgctxt "an8.36:0.5"
-msgid "Katamāni tīṇi?"
-msgstr "What three?"
+msgid "Katamāni tīṇi? "
+msgstr "What three? "
 
 #. VAR: puññakiriyavatthu → puññakiriyāvatthu (s1-3) | puññakiriyavatthuṃ (pts1)
 msgctxt "an8.36:0.6"
-msgid "Dānamayaṃ puññakiriyavatthu, sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu."
-msgstr "Giving, ethical conduct, and meditation are all grounds for making merit."
+msgid "Dānamayaṃ puññakiriyavatthu, sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu. "
+msgstr "Giving, ethical conduct, and meditation are all grounds for making merit. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 #. VAR: puññakiriyavatthuṃ → puññakiriyavatthu (bj) | puññakiriyāvatthu (s1-3)
 msgctxt "an8.36:2.1"
-msgid "Idha, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu parittaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu parittaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti."
-msgstr "First, someone has practiced a little giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit."
+msgid "Idha, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu parittaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu parittaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. "
+msgstr "First, someone has practiced a little giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. "
 
 msgctxt "an8.36:2.2"
-msgid "So kāyassa bhedā paraṃ maraṇā manussadobhagyaṃ upapajjati. (1)"
-msgstr "When their body breaks up, after death, they’re reborn among disadvantaged humans."
+msgid "So kāyassa bhedā paraṃ maraṇā manussadobhagyaṃ upapajjati. (1) "
+msgstr "When their body breaks up, after death, they’re reborn among disadvantaged humans. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an8.36:3.1"
-msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu mattaso kataṃ hoti, sīlamayaṃ puññakiriyavatthu mattaso kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti."
-msgstr "Next, someone has practiced a moderate amount of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit."
+msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu mattaso kataṃ hoti, sīlamayaṃ puññakiriyavatthu mattaso kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. "
+msgstr "Next, someone has practiced a moderate amount of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. "
 
 msgctxt "an8.36:3.2"
-msgid "So kāyassa bhedā paraṃ maraṇā manussasobhagyaṃ upapajjati. (2)"
-msgstr "When their body breaks up, after death, they’re reborn among well-off humans."
+msgid "So kāyassa bhedā paraṃ maraṇā manussasobhagyaṃ upapajjati. (2) "
+msgstr "When their body breaks up, after death, they’re reborn among well-off humans. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.242"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli4.242, sc4
 msgctxt "an8.36:4.1"
-msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti."
-msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit."
+msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. "
+msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. "
 
 msgctxt "an8.36:4.2"
-msgid "So kāyassa bhedā paraṃ maraṇā cātumahārājikānaṃ devānaṃ sahabyataṃ upapajjati."
-msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods of the Four Great Kings."
+msgid "So kāyassa bhedā paraṃ maraṇā cātumahārājikānaṃ devānaṃ sahabyataṃ upapajjati. "
+msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods of the Four Great Kings. "
 
 msgctxt "an8.36:4.3"
 msgid "Tatra, bhikkhave, cattāro mahārājāno dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, cātumahārājike deve dasahi ṭhānehi adhigaṇhanti—"
-msgstr "There, the Four Great Kings themselves have practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So they surpass them in ten respects:"
+msgstr "There, the Four Great Kings themselves have practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So they surpass them in ten respects: "
 
 msgctxt "an8.36:4.4"
-msgid "dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehi. (3)"
-msgstr "divine life span, beauty, happiness, glory, sovereignty, sights, sounds, smells, tastes, and touches."
+msgid "dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehi. (3) "
+msgstr "divine life span, beauty, happiness, glory, sovereignty, sights, sounds, smells, tastes, and touches. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "an8.36:5.1"
-msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti."
-msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit."
+msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. "
+msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. "
 
 msgctxt "an8.36:5.2"
-msgid "So kāyassa bhedā paraṃ maraṇā tāvatiṃsānaṃ devānaṃ sahabyataṃ upapajjati."
-msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods of the Thirty Three."
+msgid "So kāyassa bhedā paraṃ maraṇā tāvatiṃsānaṃ devānaṃ sahabyataṃ upapajjati. "
+msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods of the Thirty Three. "
 
 msgctxt "an8.36:5.3"
 msgid "Tatra, bhikkhave, sakko devānamindo dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā tāvatiṃse deve dasahi ṭhānehi adhigaṇhāti—"
-msgstr "There, Sakka, lord of gods, has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
+msgstr "There, Sakka, lord of gods, has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects … "
 
 msgctxt "an8.36:5.4"
-msgid "dibbena āyunā … pe …"
-msgstr ""
+msgid "dibbena āyunā … pe … "
+msgstr " "
 
 msgctxt "an8.36:5.5"
-msgid "dibbehi phoṭṭhabbehi. (4)"
-msgstr ""
+msgid "dibbehi phoṭṭhabbehi. (4) "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "an8.36:6.1"
-msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti."
-msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit."
+msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. "
+msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. "
 
 msgctxt "an8.36:6.2"
-msgid "So kāyassa bhedā paraṃ maraṇā yāmānaṃ devānaṃ sahabyataṃ upapajjati."
-msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods of Yama."
+msgid "So kāyassa bhedā paraṃ maraṇā yāmānaṃ devānaṃ sahabyataṃ upapajjati. "
+msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods of Yama. "
 
 msgctxt "an8.36:6.3"
 msgid "Tatra, bhikkhave, suyāmo devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, yāme deve dasahi ṭhānehi adhigaṇhāti—"
-msgstr "There, the god Suyāma has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
+msgstr "There, the god Suyāma has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects … "
 
 msgctxt "an8.36:6.4"
-msgid "dibbena āyunā … pe …"
-msgstr ""
+msgid "dibbena āyunā … pe … "
+msgstr " "
 
 msgctxt "an8.36:6.5"
-msgid "dibbehi phoṭṭhabbehi. (5)"
-msgstr ""
+msgid "dibbehi phoṭṭhabbehi. (5) "
+msgstr " "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.243"></a>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli4.243, sc7
 msgctxt "an8.36:7.1"
-msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti."
-msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit."
+msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. "
+msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. "
 
 msgctxt "an8.36:7.2"
-msgid "So kāyassa bhedā paraṃ maraṇā tusitānaṃ devānaṃ sahabyataṃ upapajjati."
-msgstr "When their body breaks up, after death, they’re reborn in the company of the Joyful Gods."
+msgid "So kāyassa bhedā paraṃ maraṇā tusitānaṃ devānaṃ sahabyataṃ upapajjati. "
+msgstr "When their body breaks up, after death, they’re reborn in the company of the Joyful Gods. "
 
 msgctxt "an8.36:7.3"
 msgid "Tatra, bhikkhave, santusito devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, tusite deve dasahi ṭhānehi adhigaṇhāti—"
-msgstr "There, the god Santusita has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
+msgstr "There, the god Santusita has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects … "
 
 msgctxt "an8.36:7.4"
-msgid "dibbena āyunā … pe …"
-msgstr ""
+msgid "dibbena āyunā … pe … "
+msgstr " "
 
 msgctxt "an8.36:7.5"
-msgid "dibbehi phoṭṭhabbehi. (6)"
-msgstr ""
+msgid "dibbehi phoṭṭhabbehi. (6) "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </p><p>
+#. REF: sc8
 msgctxt "an8.36:8.1"
-msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti."
-msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit."
+msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. "
+msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. "
 
 msgctxt "an8.36:8.2"
-msgid "So kāyassa bhedā paraṃ maraṇā nimmānaratīnaṃ devānaṃ sahabyataṃ upapajjati."
-msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods Who Love to Create."
+msgid "So kāyassa bhedā paraṃ maraṇā nimmānaratīnaṃ devānaṃ sahabyataṃ upapajjati. "
+msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods Who Love to Create. "
 
 msgctxt "an8.36:8.3"
 msgid "Tatra, bhikkhave, sunimmito devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, nimmānaratīdeve dasahi ṭhānehi adhigaṇhāti—"
-msgstr "There, the god Sunimmita has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
+msgstr "There, the god Sunimmita has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects … "
 
 msgctxt "an8.36:8.4"
-msgid "dibbena āyunā … pe …"
-msgstr ""
+msgid "dibbena āyunā … pe … "
+msgstr " "
 
 msgctxt "an8.36:8.5"
-msgid "dibbehi phoṭṭhabbehi. (7)"
-msgstr ""
+msgid "dibbehi phoṭṭhabbehi. (7) "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc9"></a>
+#. HTML: </p><p>
+#. REF: sc9
 msgctxt "an8.36:9.1"
-msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti."
-msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit."
+msgid "Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. "
+msgstr "Next, someone has practiced a lot of giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. "
 
 msgctxt "an8.36:9.2"
-msgid "So kāyassa bhedā paraṃ maraṇā paranimmitavasavattīnaṃ devānaṃ sahabyataṃ upapajjati."
-msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods Who Control the Creations of Others."
+msgid "So kāyassa bhedā paraṃ maraṇā paranimmitavasavattīnaṃ devānaṃ sahabyataṃ upapajjati. "
+msgstr "When their body breaks up, after death, they’re reborn in the company of the Gods Who Control the Creations of Others. "
 
 msgctxt "an8.36:9.3"
 msgid "Tatra, bhikkhave, vasavattī devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, paranimmitavasavattīdeve dasahi ṭhānehi adhigaṇhāti—"
-msgstr "There, the god Vasavattī has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects:"
+msgstr "There, the god Vasavattī has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects: "
 
 msgctxt "an8.36:9.4"
-msgid "dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehi."
-msgstr "divine life span, beauty, happiness, glory, sovereignty, sights, sounds, smells, tastes, and touches."
+msgid "dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehi. "
+msgstr "divine life span, beauty, happiness, glory, sovereignty, sights, sounds, smells, tastes, and touches. "
 
+#. HTML: </p><p>
 msgctxt "an8.36:9.5"
-msgid "Imāni kho, bhikkhave, tīṇi puññakiriyavatthūnī”ti. (8)"
-msgstr "These are the three grounds for making merit.”"
+msgid "Imāni kho, bhikkhave, tīṇi puññakiriyavatthūnī”ti. (8) "
+msgstr "These are the three grounds for making merit.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an8.36:9.6"
-msgid "Chaṭṭhaṃ."
+msgid "Chaṭṭhaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

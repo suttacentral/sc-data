@@ -2,115 +2,118 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn48.11"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn48.11"><article><div class="hgroup"><p class="division">
 msgctxt "sn48.11:0.1"
-msgid "Saṃyutta Nikāya 48"
-msgstr "Linked Discourses 48"
+msgid "Saṃyutta Nikāya 48 "
+msgstr "Linked Discourses 48 "
 
-#. </p><p>
+#. HTML: </p><p>
 #. VAR: 2. Mudutaravagga → mudataravaggo (pts1)
 msgctxt "sn48.11:0.2"
-msgid "2. Mudutaravagga"
-msgstr "2. Weaker"
+msgid "2. Mudutaravagga "
+msgstr "2. Weaker "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn48.11:0.3"
-msgid "11. Paṭilābhasutta"
-msgstr "11. Gain"
+msgid "11. Paṭilābhasutta "
+msgstr "11. Gain "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn48.11:1.1"
-msgid "“Pañcimāni, bhikkhave, indriyāni."
-msgstr "“Mendicants, there are these five faculties."
+msgid "“Pañcimāni, bhikkhave, indriyāni. "
+msgstr "“Mendicants, there are these five faculties. "
 
 msgctxt "sn48.11:1.2"
-msgid "Katamāni pañca?"
-msgstr "What five?"
+msgid "Katamāni pañca? "
+msgstr "What five? "
 
 msgctxt "sn48.11:1.3"
-msgid "Saddhindriyaṃ … pe … paññindriyaṃ … pe …."
-msgstr "The faculties of faith, energy, mindfulness, immersion, and wisdom."
+msgid "Saddhindriyaṃ … pe … paññindriyaṃ … pe …. "
+msgstr "The faculties of faith, energy, mindfulness, immersion, and wisdom. "
 
+#. HTML: </p><p>
 msgctxt "sn48.11:1.4"
-msgid "Katamañca, bhikkhave, saddhindriyaṃ?"
-msgstr "And what is the faculty of faith?"
+msgid "Katamañca, bhikkhave, saddhindriyaṃ? "
+msgstr "And what is the faculty of faith? "
 
 msgctxt "sn48.11:1.5"
-msgid "Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ:"
-msgstr "It’s when a noble disciple has faith in the Realized One’s awakening:"
+msgid "Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ: "
+msgstr "It’s when a noble disciple has faith in the Realized One’s awakening: "
 
 msgctxt "sn48.11:1.6"
 msgid "‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti—"
-msgstr "‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’"
+msgstr "‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ "
 
 msgctxt "sn48.11:1.7"
-msgid "idaṃ vuccati, bhikkhave, saddhindriyaṃ."
-msgstr "This is called the faculty of faith."
+msgid "idaṃ vuccati, bhikkhave, saddhindriyaṃ. "
+msgstr "This is called the faculty of faith. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn48.11:2.1"
-msgid "Katamañca, bhikkhave, vīriyindriyaṃ?"
-msgstr "And what is the faculty of energy?"
+msgid "Katamañca, bhikkhave, vīriyindriyaṃ? "
+msgstr "And what is the faculty of energy? "
 
-# I don’t see how the Comm’s parsing of arabbha as paticca, followed by BB, makes sense. Energy is not based on the four efforts, it is them. Surely the point here, rather, that it is not just any old kind of energy but specifically that to do with the path.
+# NOTE: I don’t see how the Comm’s parsing of arabbha as paticca, followed by BB, makes sense. Energy is not based on the four efforts, it is them. Surely the point here, rather, that it is not just any old kind of energy but specifically that to do with the path.
 msgctxt "sn48.11:2.2"
 msgid "Yaṃ kho, bhikkhave, cattāro sammappadhāne ārabbha vīriyaṃ paṭilabhati—"
-msgstr "The energy that’s gained in connection with the four right efforts."
+msgstr "The energy that’s gained in connection with the four right efforts. "
 
 msgctxt "sn48.11:2.3"
-msgid "idaṃ vuccati, bhikkhave, vīriyindriyaṃ."
-msgstr "This is called the faculty of energy."
+msgid "idaṃ vuccati, bhikkhave, vīriyindriyaṃ. "
+msgstr "This is called the faculty of energy. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli5.200"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli5.200, sc3
 msgctxt "sn48.11:3.1"
-msgid "Katamañca, bhikkhave, satindriyaṃ?"
-msgstr "And what is the faculty of mindfulness?"
+msgid "Katamañca, bhikkhave, satindriyaṃ? "
+msgstr "And what is the faculty of mindfulness? "
 
 msgctxt "sn48.11:3.2"
 msgid "Yaṃ kho, bhikkhave, cattāro satipaṭṭhāne ārabbha satiṃ paṭilabhati—"
-msgstr "The mindfulness that’s gained in connection with the four kinds of mindfulness meditation."
+msgstr "The mindfulness that’s gained in connection with the four kinds of mindfulness meditation. "
 
 msgctxt "sn48.11:3.3"
-msgid "idaṃ vuccati, bhikkhave, satindriyaṃ."
-msgstr "This is called the faculty of mindfulness."
+msgid "idaṃ vuccati, bhikkhave, satindriyaṃ. "
+msgstr "This is called the faculty of mindfulness. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn48.11:4.1"
-msgid "Katamañca, bhikkhave, samādhindriyaṃ?"
-msgstr "And what is the faculty of immersion?"
+msgid "Katamañca, bhikkhave, samādhindriyaṃ? "
+msgstr "And what is the faculty of immersion? "
 
 msgctxt "sn48.11:4.2"
 msgid "Idha, bhikkhave, ariyasāvako vossaggārammaṇaṃ karitvā labhati samādhiṃ, labhati cittassa ekaggataṃ—"
-msgstr "It’s when a noble disciple, relying on letting go, gains immersion, gains unification of mind."
+msgstr "It’s when a noble disciple, relying on letting go, gains immersion, gains unification of mind. "
 
 msgctxt "sn48.11:4.3"
-msgid "idaṃ vuccati, bhikkhave, samādhindriyaṃ."
-msgstr "This is called the faculty of immersion."
+msgid "idaṃ vuccati, bhikkhave, samādhindriyaṃ. "
+msgstr "This is called the faculty of immersion. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "sn48.11:5.1"
-msgid "Katamañca, bhikkhave, paññindriyaṃ?"
-msgstr "And what is the faculty of wisdom?"
+msgid "Katamañca, bhikkhave, paññindriyaṃ? "
+msgstr "And what is the faculty of wisdom? "
 
 msgctxt "sn48.11:5.2"
 msgid "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā—"
-msgstr "It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering."
+msgstr "It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. "
 
 msgctxt "sn48.11:5.3"
-msgid "idaṃ vuccati, bhikkhave, paññindriyaṃ."
-msgstr "This is called the faculty of wisdom."
+msgid "idaṃ vuccati, bhikkhave, paññindriyaṃ. "
+msgstr "This is called the faculty of wisdom. "
 
+#. HTML: </p><p>
 msgctxt "sn48.11:5.4"
-msgid "Imāni kho, bhikkhave, pañcindriyānī”ti."
-msgstr "These are the five faculties.”"
+msgid "Imāni kho, bhikkhave, pañcindriyānī”ti. "
+msgstr "These are the five faculties.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn48.11:5.5"
-msgid "Paṭhamaṃ."
+msgid "Paṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

@@ -2,38 +2,41 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn19.20"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn19.20"><article><div class="hgroup"><p class="division">
 msgctxt "sn19.20:0.1"
-msgid "Saṃyutta Nikāya 19"
-msgstr "Linked Discourses 19"
+msgid "Saṃyutta Nikāya 19 "
+msgstr "Linked Discourses 19 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn19.20:0.2"
-msgid "2. Dutiyavagga"
-msgstr "2. The Second Chapter"
+msgid "2. Dutiyavagga "
+msgstr "2. The Second Chapter "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 20. Pāpasāmaṇerasutta → sāmaṇerasuttaṃ (bj) | sāmaṇera (pts1-2)
 msgctxt "sn19.20:0.3"
-msgid "20. Pāpasāmaṇerasutta"
-msgstr "20. A Bad Novice Monk"
+msgid "20. Pāpasāmaṇerasutta "
+msgstr "20. A Bad Novice Monk "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn19.20:1.1"
-msgid "“Addasaṃ sāmaṇeraṃ vehāsaṃ gacchantaṃ."
-msgstr "“I saw a novice monk flying through the air."
+msgid "“Addasaṃ sāmaṇeraṃ vehāsaṃ gacchantaṃ. "
+msgstr "“I saw a novice monk flying through the air. "
 
-# Normally samaneras don’t have sanghatis …
+# NOTE: Normally samaneras don’t have sanghatis …
 msgctxt "sn19.20:1.2"
-msgid "Tassa saṅghāṭipi ādittā … pe …"
-msgstr "His outer robe was burning …” …"
+msgid "Tassa saṅghāṭipi ādittā … pe … "
+msgstr "His outer robe was burning …” … "
 
+#. HTML: </p><p>
 msgctxt "sn19.20:1.3"
-msgid "pāpasāmaṇero ahosi … pe …."
-msgstr "“He used to be a bad novice monk …”"
+msgid "pāpasāmaṇero ahosi … pe …. "
+msgstr "“He used to be a bad novice monk …” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn19.20:1.4"
-msgid "Dasamaṃ."
+msgid "Dasamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

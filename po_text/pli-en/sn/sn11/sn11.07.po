@@ -2,97 +2,100 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn11.7"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn11.7"><article><div class="hgroup"><p class="division">
 msgctxt "sn11.7:0.1"
-msgid "Saṃyutta Nikāya 11"
-msgstr "Linked Discourses 11"
+msgid "Saṃyutta Nikāya 11 "
+msgstr "Linked Discourses 11 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn11.7:0.2"
-msgid "1. Paṭhamavagga"
-msgstr "1. The First Chapter"
+msgid "1. Paṭhamavagga "
+msgstr "1. The First Chapter "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn11.7:0.3"
-msgid "7. Nadubbhiyasutta"
-msgstr "7. Not Betray"
+msgid "7. Nadubbhiyasutta "
+msgstr "7. Not Betray "
 
-#. </h1></div><p>
-#. <a class="pts2ed" id="pts2ed1.485"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts2ed1.485, sc1
 msgctxt "sn11.7:1.1"
-msgid "Sāvatthiyaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthiyaṃ. "
+msgstr "At Sāvatthī. "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn11.7:1.2"
-msgid "“Bhūtapubbaṃ, bhikkhave, sakkassa devānamindassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi:"
-msgstr "“Once upon a time, mendicants, as Sakka, lord of gods, was in private retreat this thought came to his mind:"
+msgid "“Bhūtapubbaṃ, bhikkhave, sakkassa devānamindassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: "
+msgstr "“Once upon a time, mendicants, as Sakka, lord of gods, was in private retreat this thought came to his mind, "
 
-# BB’s “Transgress against” seems vague and weak, especially when referring to someone you’re in constant war against. The root is the same as mittadduno.
+# NOTE: BB’s “Transgress against” seems vague and weak, especially when referring to someone you’re in constant war against. The root is the same as mittadduno.
 msgctxt "sn11.7:1.3"
-msgid "‘yopi me assa supaccatthiko tassapāhaṃ na dubbheyyan’ti."
-msgstr "‘I should never betray even a sworn enemy.’"
+msgid "‘yopi me assa supaccatthiko tassapāhaṃ na dubbheyyan’ti. "
+msgstr "‘I should never betray even a sworn enemy.’ "
 
+#. HTML: </p><p>
 msgctxt "sn11.7:1.4"
-msgid "Atha kho, bhikkhave, vepacitti asurindo sakkassa devānamindassa cetasā cetoparivitakkamaññāya yena sakko devānamindo tenupasaṅkami."
-msgstr "And then Vepacitti, lord of demons, knowing what Sakka was thinking, approached him."
+msgid "Atha kho, bhikkhave, vepacitti asurindo sakkassa devānamindassa cetasā cetoparivitakkamaññāya yena sakko devānamindo tenupasaṅkami. "
+msgstr "And then Vepacitti, lord of demons, knowing what Sakka was thinking, approached him. "
 
+#. HTML: </p><p>
 msgctxt "sn11.7:1.5"
-msgid "Addasā kho, bhikkhave, sakko devānamindo vepacittiṃ asurindaṃ dūratova āgacchantaṃ."
-msgstr "Sakka saw Vepacitti coming off in the distance,"
+msgid "Addasā kho, bhikkhave, sakko devānamindo vepacittiṃ asurindaṃ dūratova āgacchantaṃ. "
+msgstr "Sakka saw Vepacitti coming off in the distance, "
 
 msgctxt "sn11.7:1.6"
-msgid "Disvāna vepacittiṃ asurindaṃ etadavoca:"
-msgstr "and said to him:"
+msgid "Disvāna vepacittiṃ asurindaṃ etadavoca: "
+msgstr "and said to him, "
 
 msgctxt "sn11.7:1.7"
-msgid "‘tiṭṭha, vepacitti, gahitosī’ti."
-msgstr "‘Stop, Vepacitti, you’re caught!’"
+msgid "‘tiṭṭha, vepacitti, gahitosī’ti. "
+msgstr "‘Stop, Vepacitti, you’re caught!’ "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 #. VAR: tadeva tvaṃ mā pajahāsī’ti → tadeva tvaṃ mārisa pahāsīti (bj) | tadeva tvaṃ mārisa jahāsīti (s1-3, km) | tad eva tvam mā pahāsīti (pts1)
 msgctxt "sn11.7:2.1"
-msgid "‘Yadeva te, mārisa, pubbe cittaṃ, tadeva tvaṃ mā pajahāsī’ti."
-msgstr "‘Dear sir, don’t give up the idea you just had!’"
+msgid "‘Yadeva te, mārisa, pubbe cittaṃ, tadeva tvaṃ mā pajahāsī’ti. "
+msgstr "‘Dear sir, don’t give up the idea you just had!’ "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 #. VAR: adubbhāyā’ti → adrubbhāya (mr)
 msgctxt "sn11.7:3.1"
-msgid "‘Sapassu ca me, vepacitti, adubbhāyā’ti."
-msgstr "‘Swear, Vepacitti, that you won’t betray me.’"
+msgid "‘Sapassu ca me, vepacitti, adubbhāyā’ti. "
+msgstr "‘Swear, Vepacitti, that you won’t betray me.’ "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc4
 msgctxt "sn11.7:4.1"
-msgid "‘Yaṃ musā bhaṇato pāpaṃ,"
-msgstr "‘Whatever bad things happen to a liar,"
+msgid "‘Yaṃ musā bhaṇato pāpaṃ, "
+msgstr "‘Whatever bad things happen to a liar, "
 
 #. <br>
 msgctxt "sn11.7:4.2"
-msgid "Yaṃ pāpaṃ ariyūpavādino;"
-msgstr "or to someone who slanders the noble ones,"
+msgid "Yaṃ pāpaṃ ariyūpavādino; "
+msgstr "or to someone who slanders the noble ones, "
 
 #. <br>
 msgctxt "sn11.7:4.3"
-msgid "Mittadduno ca yaṃ pāpaṃ,"
-msgstr "or to someone who betrays a friend,"
+msgid "Mittadduno ca yaṃ pāpaṃ, "
+msgstr "or to someone who betrays a friend, "
 
 #. <br>
 msgctxt "sn11.7:4.4"
-msgid "Yaṃ pāpaṃ akataññuno;"
-msgstr "or to someone who’s ungrateful:"
+msgid "Yaṃ pāpaṃ akataññuno; "
+msgstr "or to someone who’s ungrateful, "
 
 #. <br>
 #. VAR: phusatu → phusati (bj, pts1-2)
 msgctxt "sn11.7:4.5"
-msgid "Tameva pāpaṃ phusatu,"
-msgstr "the same bad things impact"
+msgid "Tameva pāpaṃ phusatu, "
+msgstr "the same bad things impact "
 
-# Vepacitti is reminding Sakka of their family connection.
+# NOTE: Vepacitti is reminding Sakka of their family connection.
 #. <br>
 msgctxt "sn11.7:4.6"
-msgid "Yo te dubbhe sujampatī’”ti."
+msgid "Yo te dubbhe sujampatī’”ti. "
 msgstr "anyone who betrays you, Sujā’s husband.’”"
+
+#. HTML: </p></blockquote></article></section></body></html>

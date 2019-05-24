@@ -2,140 +2,141 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn5.6"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn5.6"><article><div class="hgroup"><p class="division">
 msgctxt "sn5.6:0.1"
-msgid "Saṃyutta Nikāya 5"
-msgstr "Linked Discourses 5"
+msgid "Saṃyutta Nikāya 5 "
+msgstr "Linked Discourses 5 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn5.6:0.2"
-msgid "1. Bhikkhunīvagga"
-msgstr "1. Nuns"
+msgid "1. Bhikkhunīvagga "
+msgstr "1. Nuns "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn5.6:0.3"
-msgid "6. Cālāsutta"
-msgstr "6. With Cālā"
+msgid "6. Cālāsutta "
+msgstr "6. With Cālā "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn5.6:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p>
 msgctxt "sn5.6:1.2"
-msgid "Atha kho cālā bhikkhunī pubbaṇhasamayaṃ nivāsetvā … pe …"
-msgstr "Then the nun Cālā robed up in the morning …"
+msgid "Atha kho cālā bhikkhunī pubbaṇhasamayaṃ nivāsetvā … pe … "
+msgstr "Then the nun Cālā robed up in the morning … "
 
 msgctxt "sn5.6:1.3"
-msgid "aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi."
-msgstr "and sat at the root of a tree for the day’s meditation."
+msgid "aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. "
+msgstr "and sat at the root of a tree for the day’s meditation. "
 
+#. HTML: </p><p>
 msgctxt "sn5.6:1.4"
-msgid "Atha kho māro pāpimā yena cālā bhikkhunī tenupasaṅkami; upasaṅkamitvā cālaṃ bhikkhuniṃ etadavoca:"
-msgstr "Then Māra the Wicked went up to Cālā and said to her:"
+msgid "Atha kho māro pāpimā yena cālā bhikkhunī tenupasaṅkami; upasaṅkamitvā cālaṃ bhikkhuniṃ etadavoca: "
+msgstr "Then Māra the Wicked went up to Cālā and said to her, "
 
-#. </p><p class="added">
 msgctxt "sn5.6:1.5"
-msgid "“kiṃ nu tvaṃ, bhikkhuni, na rocesī”ti?"
-msgstr "“Nun, what don’t you approve of?”"
+msgid "“kiṃ nu tvaṃ, bhikkhuni, na rocesī”ti? "
+msgstr "“Nun, what don’t you approve of?” "
 
-# Often roceti comes closest to the english idea of “believe”, in the sense of both an intellectual assent to and an emotional connection with. I’ve translated in that way elsewhere, but here obviously to “believe in” rebirth would convey something rather different.
-#. </p><p class="added">
+# NOTE: Often roceti comes closest to the english idea of “believe”, in the sense of both an intellectual assent to and an emotional connection with. I’ve translated in that way elsewhere, but here obviously to “believe in” rebirth would convey something rather different.
+#. HTML: </p><p>
 msgctxt "sn5.6:1.6"
-msgid "“Jātiṃ khvāhaṃ, āvuso, na rocemī”ti."
-msgstr "“I don’t approve of rebirth, sir.”"
+msgid "“Jātiṃ khvāhaṃ, āvuso, na rocemī”ti. "
+msgstr "“I don’t approve of rebirth, sir.” "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "sn5.6:2.1"
-msgid "“Kiṃ nu jātiṃ na rocesi,"
-msgstr "“Why don’t you approve of rebirth?"
+msgid "“Kiṃ nu jātiṃ na rocesi, "
+msgstr "“Why don’t you approve of rebirth? "
 
 #. <br>
 msgctxt "sn5.6:2.2"
-msgid "jāto kāmāni bhuñjati;"
-msgstr "When you’re born, you get to enjoy sensual pleasures."
+msgid "jāto kāmāni bhuñjati; "
+msgstr "When you’re born, you get to enjoy sensual pleasures. "
 
 #. <br>
 msgctxt "sn5.6:2.3"
-msgid "Ko nu taṃ idamādapayi,"
-msgstr "Who put this idea in your head:"
+msgid "Ko nu taṃ idamādapayi, "
+msgstr "Who put this idea in your head: "
 
 #. <br>
 #. VAR: roca → mā rocesi (si, pts1)
 msgctxt "sn5.6:2.4"
-msgid "jātiṃ mā roca bhikkhunī”ti."
-msgstr "‘Nun, don’t approve of rebirth’?”"
+msgid "jātiṃ mā roca bhikkhunī”ti. "
+msgstr "‘Nun, don’t approve of rebirth’?” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn5.6:3.1"
-msgid "“Jātassa maraṇaṃ hoti,"
-msgstr "“Death comes to those who are born,"
+msgid "“Jātassa maraṇaṃ hoti, "
+msgstr "“Death comes to those who are born, "
 
 #. <br>
 #. VAR: phussati → passati (si, s1-3, pts1)
 msgctxt "sn5.6:3.2"
-msgid "jāto dukkhāni phussati;"
+msgid "jāto dukkhāni phussati; "
 msgstr "when you’re born you undergo sufferings—"
 
 #. <br>
 msgctxt "sn5.6:3.3"
-msgid "Bandhaṃ vadhaṃ pariklesaṃ,"
+msgid "Bandhaṃ vadhaṃ pariklesaṃ, "
 msgstr "killing, caging, misery—"
 
 #. <br>
 msgctxt "sn5.6:3.4"
-msgid "tasmā jātiṃ na rocaye."
-msgstr "that’s why you shouldn’t approve of rebirth."
+msgid "tasmā jātiṃ na rocaye. "
+msgstr "that’s why you shouldn’t approve of rebirth. "
 
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.291"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts2ed1.291, sc4
 msgctxt "sn5.6:4.1"
-msgid "Buddho dhammamadesesi,"
-msgstr "The Buddha taught me the Dhamma"
+msgid "Buddho dhammamadesesi, "
+msgstr "The Buddha taught me the Dhamma "
 
 #. <br>
 msgctxt "sn5.6:4.2"
-msgid "jātiyā samatikkamaṃ;"
-msgstr "for passing beyond rebirth,"
+msgid "jātiyā samatikkamaṃ; "
+msgstr "for passing beyond rebirth, "
 
 #. <br>
 msgctxt "sn5.6:4.3"
-msgid "Sabbadukkhappahānāya,"
-msgstr "for giving up all suffering;"
+msgid "Sabbadukkhappahānāya, "
+msgstr "for giving up all suffering; "
 
 #. <br>
 msgctxt "sn5.6:4.4"
-msgid "so maṃ sacce nivesayi."
-msgstr "he settled me in the truth."
+msgid "so maṃ sacce nivesayi. "
+msgstr "he settled me in the truth. "
 
-#. </p><p>
-#. <a class="pts1ed" id="pts1ed1.133"></a>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: pts1ed1.133, sc5
 msgctxt "sn5.6:5.1"
-msgid "Ye ca rūpūpagā sattā,"
-msgstr "There are beings in the realm of luminous form,"
+msgid "Ye ca rūpūpagā sattā, "
+msgstr "There are beings in the realm of luminous form, "
 
 #. <br>
 msgctxt "sn5.6:5.2"
-msgid "ye ca arūpaṭṭhāyino;"
-msgstr "and others established in the formless."
+msgid "ye ca arūpaṭṭhāyino; "
+msgstr "and others established in the formless. "
 
 #. <br>
 msgctxt "sn5.6:5.3"
-msgid "Nirodhaṃ appajānantā,"
-msgstr "Not understanding cessation,"
+msgid "Nirodhaṃ appajānantā, "
+msgstr "Not understanding cessation, "
 
 #. <br>
 msgctxt "sn5.6:5.4"
-msgid "āgantāro punabbhavan”ti."
-msgstr "they come back in future lives.”"
+msgid "āgantāro punabbhavan”ti. "
+msgstr "they come back in future lives.” "
 
-#. </p></blockquote><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p></blockquote><p>
+#. REF: sc6
 msgctxt "sn5.6:6.1"
-msgid "Atha kho māro pāpimā “jānāti maṃ cālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti."
+msgid "Atha kho māro pāpimā “jānāti maṃ cālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. "
 msgstr "Then Māra the Wicked, thinking, “The nun Cālā knows me!” miserable and sad, vanished right there."
+
+#. HTML: </p></article></section></body></html>

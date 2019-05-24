@@ -2,48 +2,49 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an10.32"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an10.32"><article><div class="hgroup"><p class="division">
 msgctxt "an10.32:0.1"
-msgid "Aṅguttara Nikāya 10"
-msgstr "Numbered Discourses 10"
+msgid "Aṅguttara Nikāya 10 "
+msgstr "Numbered Discourses 10 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an10.32:0.2"
-msgid "4. Upālivagga"
-msgstr "4. With Upāli"
+msgid "4. Upālivagga "
+msgstr "4. With Upāli "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 32. Pātimokkhaṭṭhapanāsutta → pāṭimokkhaṭṭhāpanasuttaṃ (bj)
 msgctxt "an10.32:0.3"
-msgid "32. Pātimokkhaṭṭhapanāsutta"
-msgstr "32. Suspending the Recitation of the Monastic Code"
+msgid "32. Pātimokkhaṭṭhapanāsutta "
+msgstr "32. Suspending the Recitation of the Monastic Code "
 
-# BB has “suspend the patimokkha”, which, although literal, gives quite the wrong impression. It is the recital that is suspended, not the rules!
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli5.71"></a>
-#. <a class="sc" id="sc1"></a>
+# NOTE: BB has “suspend the patimokkha”, which, although literal, gives quite the wrong impression. It is the recital that is suspended, not the rules!
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli5.71, sc1
 msgctxt "an10.32:1.1"
-msgid "“Kati nu kho, bhante, pātimokkhaṭṭhapanā”ti?"
-msgstr "“Sir, how many grounds are there to suspend the recitation of the monastic code?”"
+msgid "“Kati nu kho, bhante, pātimokkhaṭṭhapanā”ti? "
+msgstr "“Sir, how many grounds are there to suspend the recitation of the monastic code?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "an10.32:1.2"
-msgid "“Dasa kho, upāli, pātimokkhaṭṭhapanā."
-msgstr "“Upāli, there are ten grounds to suspend the recitation of the monastic code."
+msgid "“Dasa kho, upāli, pātimokkhaṭṭhapanā. "
+msgstr "“Upāli, there are ten grounds to suspend the recitation of the monastic code. "
 
 msgctxt "an10.32:1.3"
-msgid "Katame dasa?"
-msgstr "What ten?"
+msgid "Katame dasa? "
+msgstr "What ten? "
 
 msgctxt "an10.32:1.4"
 msgid "Pārājiko tassaṃ parisāyaṃ nisinno hoti, pārājikakathā vippakatā hoti, anupasampanno tassaṃ parisāyaṃ nisinno hoti, anupasampannakathā vippakatā hoti, sikkhaṃ paccakkhātako tassaṃ parisāyaṃ nisinno hoti, sikkhaṃ paccakkhātakakathā vippakatā hoti, paṇḍako tassaṃ parisāyaṃ nisinno hoti, paṇḍakakathā vippakatā hoti, bhikkhunidūsako tassaṃ parisāyaṃ nisinno hoti, bhikkhunidūsakakathā vippakatā hoti—"
-msgstr "A mendicant who has committed an expulsion offense is sitting in the assembly. A discussion about whether someone has committed an expulsion offense is unfinished. A person who is not fully ordained is sitting in the assembly. A discussion about whether someone is fully ordained or not is unfinished. Someone who has rejected the training is sitting in the assembly. A discussion about whether someone has rejected the training or not is unfinished. A eunuch is sitting in the assembly. A discussion about whether someone is a eunuch is unfinished. A raper of nuns is sitting in the assembly. A discussion about whether or not someone is a raper of nuns is unfinished."
+msgstr "A mendicant who has committed an expulsion offense is sitting in the assembly. A discussion about whether someone has committed an expulsion offense is unfinished. A person who is not fully ordained is sitting in the assembly. A discussion about whether someone is fully ordained or not is unfinished. Someone who has rejected the training is sitting in the assembly. A discussion about whether someone has rejected the training or not is unfinished. A eunuch is sitting in the assembly. A discussion about whether someone is a eunuch is unfinished. A raper of nuns is sitting in the assembly. A discussion about whether or not someone is a raper of nuns is unfinished. "
 
 msgctxt "an10.32:1.5"
-msgid "ime kho, upāli, dasa pātimokkhaṭṭhapanā”ti."
-msgstr "These are the ten grounds to suspend the recitation of the monastic code.”"
+msgid "ime kho, upāli, dasa pātimokkhaṭṭhapanā”ti. "
+msgstr "These are the ten grounds to suspend the recitation of the monastic code.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an10.32:1.6"
-msgid "Dutiyaṃ."
+msgid "Dutiyaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

@@ -2,138 +2,142 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn22.26"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn22.26"><article><div class="hgroup"><p class="division">
 msgctxt "sn22.26:0.1"
-msgid "Saṃyutta Nikāya 22"
-msgstr "Linked Discourses 22"
+msgid "Saṃyutta Nikāya 22 "
+msgstr "Linked Discourses 22 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn22.26:0.2"
-msgid "3. Bhāravagga"
-msgstr "3. The Burden"
+msgid "3. Bhāravagga "
+msgstr "3. The Burden "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn22.26:0.3"
-msgid "26. Assādasutta"
-msgstr "26. Gratification"
+msgid "26. Assādasutta "
+msgstr "26. Gratification "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.28"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli3.28, sc1
 msgctxt "sn22.26:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 #. VAR: Pubbeva → pubbe (pts1, mr)
 #. VAR: bodhisattasseva → bodhisattassa (pts1, mr)
 msgctxt "sn22.26:1.2"
-msgid "“Pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi:"
-msgstr "“Mendicants, before my awakening—when I was still unawakened but intent on awakening—I thought:"
+msgid "“Pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: "
+msgstr "“Mendicants, before my awakening—when I was still unawakened but intent on awakening—I thought: "
 
 msgctxt "sn22.26:1.3"
-msgid "‘ko nu kho rūpassa assādo, ko ādīnavo, kiṃ nissaraṇaṃ?"
-msgstr "‘What’s the gratification, the drawback, and the escape when it comes to form …"
+msgid "‘ko nu kho rūpassa assādo, ko ādīnavo, kiṃ nissaraṇaṃ? "
+msgstr "‘What’s the gratification, the drawback, and the escape when it comes to form … "
 
 msgctxt "sn22.26:1.4"
-msgid "Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇaṃ?"
-msgstr "feeling …"
+msgid "Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇaṃ? "
+msgstr "feeling … "
 
 msgctxt "sn22.26:1.5"
-msgid "Ko saññāya assādo, ko ādīnavo, kiṃ nissaraṇaṃ?"
-msgstr "perception …"
+msgid "Ko saññāya assādo, ko ādīnavo, kiṃ nissaraṇaṃ? "
+msgstr "perception … "
 
 msgctxt "sn22.26:1.6"
-msgid "Ko saṅkhārānaṃ assādo, ko ādīnavo, kiṃ nissaraṇaṃ?"
-msgstr "choices …"
+msgid "Ko saṅkhārānaṃ assādo, ko ādīnavo, kiṃ nissaraṇaṃ? "
+msgstr "choices … "
 
 msgctxt "sn22.26:1.7"
-msgid "Ko viññāṇassa assādo, ko ādīnavo, kiṃ nissaraṇan’ti?"
-msgstr "and consciousness?’"
+msgid "Ko viññāṇassa assādo, ko ādīnavo, kiṃ nissaraṇan’ti? "
+msgstr "and consciousness?’ "
 
+#. HTML: </p><p>
 msgctxt "sn22.26:1.8"
-msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
-msgstr "Then it occurred to me:"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi: "
+msgstr "Then it occurred to me: "
 
 msgctxt "sn22.26:1.9"
-msgid "‘yaṃ kho rūpaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ rūpassa assādo."
-msgstr "‘The pleasure and happiness that arise from form: this is its gratification."
+msgid "‘yaṃ kho rūpaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ rūpassa assādo. "
+msgstr "‘The pleasure and happiness that arise from form: this is its gratification. "
 
 msgctxt "sn22.26:1.10"
-msgid "Yaṃ rūpaṃ aniccaṃ dukkhaṃ vipariṇāmadhammaṃ, ayaṃ rūpassa ādīnavo."
-msgstr "That form is impermanent, suffering, and perishable: this is its drawback."
+msgid "Yaṃ rūpaṃ aniccaṃ dukkhaṃ vipariṇāmadhammaṃ, ayaṃ rūpassa ādīnavo. "
+msgstr "That form is impermanent, suffering, and perishable: this is its drawback. "
 
 msgctxt "sn22.26:1.11"
-msgid "Yo rūpasmiṃ chandarāgavinayo chandarāgappahānaṃ, idaṃ rūpassa nissaraṇaṃ."
-msgstr "Removing and giving up desire and greed for form: this is its escape."
+msgid "Yo rūpasmiṃ chandarāgavinayo chandarāgappahānaṃ, idaṃ rūpassa nissaraṇaṃ. "
+msgstr "Removing and giving up desire and greed for form: this is its escape. "
 
 msgctxt "sn22.26:1.12"
-msgid "Yaṃ vedanaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ vedanāya assādo."
-msgstr "The pleasure and happiness that arise from feeling …"
+msgid "Yaṃ vedanaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ vedanāya assādo. "
+msgstr "The pleasure and happiness that arise from feeling … "
 
 #. VAR: Yaṃ → yā (mr)
 msgctxt "sn22.26:1.13"
-msgid "Yaṃ vedanā aniccā dukkhā vipariṇāmadhammā, ayaṃ vedanāya ādīnavo."
-msgstr ""
+msgid "Yaṃ vedanā aniccā dukkhā vipariṇāmadhammā, ayaṃ vedanāya ādīnavo. "
+msgstr " "
 
 msgctxt "sn22.26:1.14"
-msgid "Yo vedanāya chandarāgavinayo chandarāgappahānaṃ, idaṃ vedanāya nissaraṇaṃ."
-msgstr ""
+msgid "Yo vedanāya chandarāgavinayo chandarāgappahānaṃ, idaṃ vedanāya nissaraṇaṃ. "
+msgstr " "
 
 msgctxt "sn22.26:1.15"
-msgid "Yaṃ saññaṃ paṭicca uppajjati … pe …"
-msgstr "perception …"
+msgid "Yaṃ saññaṃ paṭicca uppajjati … pe … "
+msgstr "perception … "
 
 msgctxt "sn22.26:1.16"
-msgid "yaṃ saṅkhāre paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ saṅkhārānaṃ assādo."
-msgstr "choices …"
+msgid "yaṃ saṅkhāre paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ saṅkhārānaṃ assādo. "
+msgstr "choices … "
 
 #. VAR: Yaṃ → ye (bj, s1-3, mr)
 msgctxt "sn22.26:1.17"
-msgid "Yaṃ saṅkhārā aniccā dukkhā vipariṇāmadhammā, ayaṃ saṅkhārānaṃ ādīnavo."
-msgstr ""
+msgid "Yaṃ saṅkhārā aniccā dukkhā vipariṇāmadhammā, ayaṃ saṅkhārānaṃ ādīnavo. "
+msgstr " "
 
 msgctxt "sn22.26:1.18"
-msgid "Yo saṅkhāresu chandarāgavinayo chandarāgappahānaṃ, idaṃ saṅkhārānaṃ nissaraṇaṃ."
-msgstr ""
+msgid "Yo saṅkhāresu chandarāgavinayo chandarāgappahānaṃ, idaṃ saṅkhārānaṃ nissaraṇaṃ. "
+msgstr " "
 
 msgctxt "sn22.26:1.19"
-msgid "Yaṃ viññāṇaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ viññāṇassa assādo."
-msgstr "consciousness: this is its gratification."
+msgid "Yaṃ viññāṇaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ viññāṇassa assādo. "
+msgstr "consciousness: this is its gratification. "
 
 msgctxt "sn22.26:1.20"
-msgid "Yaṃ viññāṇaṃ aniccaṃ dukkhaṃ vipariṇāmadhammaṃ, ayaṃ viññāṇassa ādīnavo."
-msgstr "That consciousness is impermanent, suffering, and perishable: this is its drawback."
+msgid "Yaṃ viññāṇaṃ aniccaṃ dukkhaṃ vipariṇāmadhammaṃ, ayaṃ viññāṇassa ādīnavo. "
+msgstr "That consciousness is impermanent, suffering, and perishable: this is its drawback. "
 
 msgctxt "sn22.26:1.21"
-msgid "Yo viññāṇasmiṃ chandarāgavinayo chandarāgappahānaṃ, idaṃ viññāṇassa nissaraṇaṃ’."
-msgstr "Removing and giving up desire and greed for consciousness: this is its escape.’"
+msgid "Yo viññāṇasmiṃ chandarāgavinayo chandarāgappahānaṃ, idaṃ viññāṇassa nissaraṇaṃ’. "
+msgstr "Removing and giving up desire and greed for consciousness: this is its escape.’ "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 #. VAR: abhisambuddho’ti → abhisambuddho (si, s1-3)
 msgctxt "sn22.26:2.1"
-msgid "Yāvakīvañcāhaṃ, bhikkhave, imesaṃ pañcannaṃ upādānakkhandhānaṃ evaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ nābbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, ‘sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ."
-msgstr "As long as I didn’t truly understand these five grasping aggregates’ gratification, drawback, and escape in this way for what they are, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans."
+msgid "Yāvakīvañcāhaṃ, bhikkhave, imesaṃ pañcannaṃ upādānakkhandhānaṃ evaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ nābbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, ‘sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ. "
+msgstr "As long as I didn’t truly understand these five grasping aggregates’ gratification, drawback, and escape in this way for what they are, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans. "
 
+#. HTML: </p><p>
 msgctxt "sn22.26:2.2"
-msgid "Yato ca khvāhaṃ, bhikkhave, imesaṃ pañcannaṃ upādānakkhandhānaṃ evaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ abbhaññāsiṃ;"
-msgstr "But when I did truly understand these five grasping aggregates’ gratification, drawback, and escape in this way for what they are, I announced my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans."
+msgid "Yato ca khvāhaṃ, bhikkhave, imesaṃ pañcannaṃ upādānakkhandhānaṃ evaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ abbhaññāsiṃ; "
+msgstr "But when I did truly understand these five grasping aggregates’ gratification, drawback, and escape in this way for what they are, I announced my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans. "
 
 msgctxt "sn22.26:2.3"
-msgid "athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ."
-msgstr ""
+msgid "athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ. "
+msgstr " "
 
+#. HTML: </p><p>
 msgctxt "sn22.26:2.4"
-msgid "Ñāṇañca pana me dassanaṃ udapādi:"
-msgstr "Knowledge and vision arose in me:"
+msgid "Ñāṇañca pana me dassanaṃ udapādi: "
+msgstr "Knowledge and vision arose in me: "
 
 #. VAR: vimutti → cetovimutti (bj, pts1, mr)
 msgctxt "sn22.26:2.5"
-msgid "‘akuppā me vimutti; ayamantimā jāti; natthi dāni punabbhavo’”ti."
-msgstr "‘My freedom is unshakable; this is my last rebirth; now there are no more future lives.’”"
+msgid "‘akuppā me vimutti; ayamantimā jāti; natthi dāni punabbhavo’”ti. "
+msgstr "‘My freedom is unshakable; this is my last rebirth; now there are no more future lives.’” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn22.26:2.6"
-msgid "Pañcamaṃ."
+msgid "Pañcamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>
