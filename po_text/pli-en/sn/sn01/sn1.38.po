@@ -2,250 +2,240 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn1.38"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn1.38"><article><div class="hgroup"><p class="division">
 msgctxt "sn1.38:0.1"
-msgid "Saṃyutta Nikāya 1"
-msgstr "Linked Discourses 1"
+msgid "Saṃyutta Nikāya 1 "
+msgstr "Linked Discourses 1 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn1.38:0.2"
-msgid "4. Satullapakāyikavagga"
-msgstr "4. The Satullapa Group"
+msgid "4. Satullapakāyikavagga "
+msgstr "4. The Satullapa Group "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn1.38:0.3"
-msgid "38. Sakalikasutta"
-msgstr "38. A Splinter"
+msgid "38. Sakalikasutta "
+msgstr "38. A Splinter "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: sc1
 msgctxt "sn1.38:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn1.38:1.2"
-msgid "ekaṃ samayaṃ bhagavā rājagahe viharati maddakucchismiṃ migadāye."
-msgstr "At one time the Buddha was staying near Rājagaha in the Maddakucchi deer park."
+msgid "ekaṃ samayaṃ bhagavā rājagahe viharati maddakucchismiṃ migadāye. "
+msgstr "At one time the Buddha was staying near Rājagaha in the Maddakucchi deer park. "
 
-# BB has “stone splinter”, but in fact sakalika usually refers to wood. In his notes BB draws the connection between this passage Devadatta’s assault in Kd 17, and this where the “stone” comes from. However the texts don’t make it explicit that this is the same event. There, the splinter is referred to as papatikā, not sakalika, there is no mention of maddakucchi, nor is there a mention that the Buddha was seriously injured. In fact, in the next passage he’s walking for alms in Rajagaha. None of this shows that they were different events, but they do question whether we can rely on it as a fact. There is nothing implausible about the idea that the Buddha might have been injured twice. Anyway, I feel it’s better to avoid specifying “stone”, which is not demanded by the text.
+#. HTML: </p><p>
+# NOTE: BB has “stone splinter”, but in fact sakalika usually refers to wood. In his notes BB draws the connection between this passage Devadatta’s assault in Kd 17, and this where the “stone” comes from. However the texts don’t make it explicit that this is the same event. There, the splinter is referred to as papatikā, not sakalika, there is no mention of maddakucchi, nor is there a mention that the Buddha was seriously injured. In fact, in the next passage he’s walking for alms in Rajagaha. None of this shows that they were different events, but they do question whether we can rely on it as a fact. There is nothing implausible about the idea that the Buddha might have been injured twice. Anyway, I feel it’s better to avoid specifying “stone”, which is not demanded by the text.
 #. VAR: sakalikāya → sakkhalikāya (mr)
 msgctxt "sn1.38:1.3"
-msgid "Tena kho pana samayena bhagavato pādo sakalikāya khato hoti."
-msgstr "Now at that time the Buddha’s foot had been cut by a splinter."
+msgid "Tena kho pana samayena bhagavato pādo sakalikāya khato hoti. "
+msgstr "Now at that time the Buddha’s foot had been cut by a splinter. "
 
 #. VAR: tibbā → tippā (s1-3, km)
 msgctxt "sn1.38:1.4"
-msgid "Bhusā sudaṃ bhagavato vedanā vattanti sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā;"
-msgstr "The Buddha was stricken by harrowing pains; physical feelings that were painful, sharp, severe, acute, unpleasant, and disagreeable."
+msgid "Bhusā sudaṃ bhagavato vedanā vattanti sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā; "
+msgstr "The Buddha was stricken by harrowing pains; physical feelings that were painful, sharp, severe, acute, unpleasant, and disagreeable. "
 
 msgctxt "sn1.38:1.5"
-msgid "tā sudaṃ bhagavā sato sampajāno adhivāseti avihaññamāno."
-msgstr "But he endured with mindfulness and situational awareness, without worrying."
+msgid "tā sudaṃ bhagavā sato sampajāno adhivāseti avihaññamāno. "
+msgstr "But he endured with mindfulness and situational awareness, without worrying. "
 
 msgctxt "sn1.38:1.6"
-msgid "Atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññāpetvā dakkhiṇena passena sīhaseyyaṃ kappeti pāde pādaṃ accādhāya sato sampajāno."
-msgstr "And then he spread out his outer robe folded in four and laid down in the lion’s posture—on the right side, placing one foot on top of the other—mindful and aware."
+msgid "Atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññāpetvā dakkhiṇena passena sīhaseyyaṃ kappeti pāde pādaṃ accādhāya sato sampajāno. "
+msgstr "And then he spread out his outer robe folded in four and laid down in the lion’s posture—on the right side, placing one foot on top of the other—mindful and aware. "
 
-#. </p><p>
-#. <a class="pts1ed" id="pts1ed1.28"></a>
-#. <a class="pts2ed" id="pts2ed1.58"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: pts1ed1.28, pts2ed1.58, sc2
 msgctxt "sn1.38:2.1"
-msgid "Atha kho sattasatā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ maddakucchiṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu."
-msgstr "Then, late at night, several glorious deities of the Satullapa Group, lighting up the entire Maddukucchi, went up to the Buddha, bowed, and stood to one side."
+msgid "Atha kho sattasatā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ maddakucchiṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. "
+msgstr "Then, late at night, several glorious deities of the Satullapa Group, lighting up the entire Maddukucchi, went up to the Buddha, bowed, and stood to one side. "
 
+#. HTML: </p><p>
 msgctxt "sn1.38:2.2"
-msgid "Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ udānaṃ udānesi:"
-msgstr "Standing to one side, one deity was inspired to exclaim in the Buddha’s presence:"
+msgid "Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ udānaṃ udānesi: "
+msgstr "Standing to one side, one deity was inspired to exclaim in the Buddha’s presence: "
 
-#. </p><p class="added">
 msgctxt "sn1.38:2.3"
-msgid "“nāgo vata, bho, samaṇo gotamo;"
-msgstr "“The ascetic Gotama is such an elephant, sir!"
+msgid "“nāgo vata, bho, samaṇo gotamo; "
+msgstr "“The ascetic Gotama is such an elephant, sir! "
 
-# BB discusses several possible ways to construe this phrase, none of which I find particularly compelling. I translate according to the apparent sense.
+# NOTE: BB discusses several possible ways to construe this phrase, none of which I find particularly compelling. I translate according to the apparent sense.
 msgctxt "sn1.38:2.4"
-msgid "nāgavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
-msgstr "And as an elephant, he endures painful physical feelings that have come up—sharp, severe, acute, unpleasant, and disagreeable—with mindfulness and situational awareness, without worrying.”"
+msgid "nāgavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti. "
+msgstr "And as an elephant, he endures painful physical feelings that have come up—sharp, severe, acute, unpleasant, and disagreeable—with mindfulness and situational awareness, without worrying.” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn1.38:3.1"
-msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
-msgstr "Then another deity was inspired to exclaim in the Buddha’s presence:"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi: "
+msgstr "Then another deity was inspired to exclaim in the Buddha’s presence: "
 
-#. </p><p class="added">
 msgctxt "sn1.38:3.2"
-msgid "“sīho vata, bho, samaṇo gotamo;"
-msgstr "“The ascetic Gotama is such a lion, sir!"
+msgid "“sīho vata, bho, samaṇo gotamo; "
+msgstr "“The ascetic Gotama is such a lion, sir! "
 
 msgctxt "sn1.38:3.3"
-msgid "sīhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
-msgstr "And as a lion, he endures painful physical feelings … without worrying.”"
+msgid "sīhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti. "
+msgstr "And as a lion, he endures painful physical feelings … without worrying.” "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn1.38:4.1"
-msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
-msgstr "Then another deity was inspired to exclaim in the Buddha’s presence:"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi: "
+msgstr "Then another deity was inspired to exclaim in the Buddha’s presence: "
 
-#. </p><p class="added">
 msgctxt "sn1.38:4.2"
-msgid "“ājānīyo vata, bho, samaṇo gotamo;"
-msgstr "“The ascetic Gotama is such a thoroughbred, sir!"
+msgid "“ājānīyo vata, bho, samaṇo gotamo; "
+msgstr "“The ascetic Gotama is such a thoroughbred, sir! "
 
 msgctxt "sn1.38:4.3"
-msgid "ājānīyavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
-msgstr "And as a thoroughbred, he endures painful physical feelings … without worrying.”"
+msgid "ājānīyavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti. "
+msgstr "And as a thoroughbred, he endures painful physical feelings … without worrying.” "
 
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.59"></a>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: pts2ed1.59, sc5
 msgctxt "sn1.38:5.1"
-msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
-msgstr "Then another deity was inspired to exclaim in the Buddha’s presence:"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi: "
+msgstr "Then another deity was inspired to exclaim in the Buddha’s presence: "
 
-#. </p><p class="added">
 msgctxt "sn1.38:5.2"
-msgid "“nisabho vata, bho, samaṇo gotamo;"
-msgstr "“The ascetic Gotama is such a chief bull, sir!"
+msgid "“nisabho vata, bho, samaṇo gotamo; "
+msgstr "“The ascetic Gotama is such a chief bull, sir! "
 
 msgctxt "sn1.38:5.3"
-msgid "nisabhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
-msgstr "And as a chief bull, he endures painful physical feelings … without worrying.”"
+msgid "nisabhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti. "
+msgstr "And as a chief bull, he endures painful physical feelings … without worrying.” "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "sn1.38:6.1"
-msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
-msgstr "Then another deity was inspired to exclaim in the Buddha’s presence:"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi: "
+msgstr "Then another deity was inspired to exclaim in the Buddha’s presence: "
 
-# BB uses the traditional rendering of dhorayha as “beast of burden”. But this doesn’t sound very nice in English. The main connotation is not that they are struggling under their load, but that they are powerful, (it’s paired with balasampanno). Behemoth, I think, works reasonably well.
-#. </p><p class="added">
+# NOTE: BB uses the traditional rendering of dhorayha as “beast of burden”. But this doesn’t sound very nice in English. The main connotation is not that they are struggling under their load, but that they are powerful, (it’s paired with balasampanno). Behemoth, I think, works reasonably well.
 msgctxt "sn1.38:6.2"
-msgid "“dhorayho vata, bho, samaṇo gotamo;"
-msgstr "“The ascetic Gotama is such a behemoth, sir!"
+msgid "“dhorayho vata, bho, samaṇo gotamo; "
+msgstr "“The ascetic Gotama is such a behemoth, sir! "
 
 msgctxt "sn1.38:6.3"
-msgid "dhorayhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
-msgstr "And as a behemoth, he endures painful physical feelings … without worrying.”"
+msgid "dhorayhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti. "
+msgstr "And as a behemoth, he endures painful physical feelings … without worrying.” "
 
-#. </p><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: sc7
 msgctxt "sn1.38:7.1"
-msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
-msgstr "Then another deity was inspired to exclaim in the Buddha’s presence:"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi: "
+msgstr "Then another deity was inspired to exclaim in the Buddha’s presence: "
 
-#. </p><p class="added">
 msgctxt "sn1.38:7.2"
-msgid "“danto vata, bho, samaṇo gotamo;"
-msgstr "“The ascetic Gotama is truly tamed, sir!"
+msgid "“danto vata, bho, samaṇo gotamo; "
+msgstr "“The ascetic Gotama is truly tamed, sir! "
 
 msgctxt "sn1.38:7.3"
-msgid "dantavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
-msgstr "And as someone tamed, he endures painful physical feelings … without worrying.”"
+msgid "dantavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno”ti. "
+msgstr "And as someone tamed, he endures painful physical feelings … without worrying.” "
 
-#. </p><p>
-#. <a class="pts1ed" id="pts1ed1.29"></a>
-#. <a class="pts2ed" id="pts2ed1.60"></a>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </p><p>
+#. REF: pts1ed1.29, pts2ed1.60, sc8
 msgctxt "sn1.38:8.1"
-msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
-msgstr "Then another deity was inspired to exclaim in the Buddha’s presence:"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi: "
+msgstr "Then another deity was inspired to exclaim in the Buddha’s presence: "
 
-#. </p><p class="added">
 #. VAR: sasaṅkhāraniggayhavāritagataṃ → sasaṅkhāraniggayhavāritavataṃ (bj, pts2) | sasaṅkhāraniggayha cāritavataṃ (s1-3, km, pts1) | sasaṅkhāraniggayhavārivāvataṃ (mr)
 msgctxt "sn1.38:8.2"
-msgid "“passa samādhiṃ subhāvitaṃ cittañca suvimuttaṃ, na cābhinataṃ na cāpanataṃ na ca sasaṅkhāraniggayhavāritagataṃ."
-msgstr "“See, his immersion is so well developed, and his mind is so well freed—not leaning forward or pulling back, and not held in place by forceful suppression."
+msgid "“passa samādhiṃ subhāvitaṃ cittañca suvimuttaṃ, na cābhinataṃ na cāpanataṃ na ca sasaṅkhāraniggayhavāritagataṃ. "
+msgstr "“See, his immersion is so well developed, and his mind is so well freed—not leaning forward or pulling back, and not held in place by forceful suppression. "
 
 msgctxt "sn1.38:8.3"
-msgid "Yo evarūpaṃ purisanāgaṃ purisasīhaṃ purisaājānīyaṃ purisanisabhaṃ purisadhorayhaṃ purisadantaṃ atikkamitabbaṃ maññeyya kimaññatra adassanā”ti."
-msgstr "If anyone imagines that they can overcome such an elephant of a man, a lion of a man, a thoroughbred of a man, a chief bull of a man, a behemoth of a man, a tamed man—what is that but a failure to see?”"
+msgid "Yo evarūpaṃ purisanāgaṃ purisasīhaṃ purisaājānīyaṃ purisanisabhaṃ purisadhorayhaṃ purisadantaṃ atikkamitabbaṃ maññeyya kimaññatra adassanā”ti. "
+msgstr "If anyone imagines that they can overcome such an elephant of a man, a lion of a man, a thoroughbred of a man, a chief bull of a man, a behemoth of a man, a tamed man—what is that but a failure to see?” "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc9"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc9
 msgctxt "sn1.38:9.1"
-msgid "“Pañcavedā sataṃ samaṃ,"
-msgstr "“Learned in the five Vedas, brahmins practice"
+msgid "“Pañcavedā sataṃ samaṃ, "
+msgstr "“Learned in the five Vedas, brahmins practice "
 
 #. <br>
 msgctxt "sn1.38:9.2"
-msgid "Tapassī brāhmaṇā caraṃ;"
-msgstr "mortification for a full century."
+msgid "Tapassī brāhmaṇā caraṃ; "
+msgstr "mortification for a full century. "
 
 #. <br>
 msgctxt "sn1.38:9.3"
-msgid "Cittañca nesaṃ na sammā vimuttaṃ,"
-msgstr "But their minds are not properly freed,"
+msgid "Cittañca nesaṃ na sammā vimuttaṃ, "
+msgstr "But their minds are not properly freed, "
 
 #. <br>
 msgctxt "sn1.38:9.4"
-msgid "Hīnattharūpā na pāraṅgamā te."
-msgstr "for those of base character don’t cross to the far shore."
+msgid "Hīnattharūpā na pāraṅgamā te. "
+msgstr "for those of base character don’t cross to the far shore. "
 
-#. </p><p>
-#. <a class="sc" id="sc10"></a>
+#. HTML: </p><p>
+#. REF: sc10
 msgctxt "sn1.38:10.1"
-msgid "Taṇhādhipannā vatasīlabaddhā,"
-msgstr "Seized by craving, attached to precepts and observances,"
+msgid "Taṇhādhipannā vatasīlabaddhā, "
+msgstr "Seized by craving, attached to precepts and observances, "
 
 #. <br>
 msgctxt "sn1.38:10.2"
-msgid "Lūkhaṃ tapaṃ vassasataṃ carantā;"
-msgstr "they practice rough mortification for a hundred years."
+msgid "Lūkhaṃ tapaṃ vassasataṃ carantā; "
+msgstr "they practice rough mortification for a hundred years. "
 
 #. <br>
 msgctxt "sn1.38:10.3"
-msgid "Cittañca nesaṃ na sammā vimuttaṃ,"
-msgstr "But their minds are not properly freed,"
+msgid "Cittañca nesaṃ na sammā vimuttaṃ, "
+msgstr "But their minds are not properly freed, "
 
 #. <br>
 msgctxt "sn1.38:10.4"
-msgid "Hīnattharūpā na pāraṅgamā te."
-msgstr "for those of base character don’t cross to the far shore."
+msgid "Hīnattharūpā na pāraṅgamā te. "
+msgstr "for those of base character don’t cross to the far shore. "
 
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.61"></a>
-#. <a class="sc" id="sc11"></a>
+#. HTML: </p><p>
+#. REF: pts2ed1.61, sc11
 msgctxt "sn1.38:11.1"
-msgid "Na mānakāmassa damo idhatthi,"
-msgstr "Someone who’s fond of conceit can’t be tamed,"
+msgid "Na mānakāmassa damo idhatthi, "
+msgstr "Someone who’s fond of conceit can’t be tamed, "
 
 #. <br>
 msgctxt "sn1.38:11.2"
-msgid "Na monamatthi asamāhitassa;"
-msgstr "and someone without immersion can’t be a sage."
+msgid "Na monamatthi asamāhitassa; "
+msgstr "and someone without immersion can’t be a sage. "
 
 #. <br>
 msgctxt "sn1.38:11.3"
-msgid "Eko araññe viharaṃ pamatto,"
-msgstr "Living negligent alone in the wilderness,"
+msgid "Eko araññe viharaṃ pamatto, "
+msgstr "Living negligent alone in the wilderness, "
 
 #. <br>
 msgctxt "sn1.38:11.4"
-msgid "Na maccudheyyassa tareyya pāran”ti."
-msgstr "they can’t pass beyond Death’s domain.”"
+msgid "Na maccudheyyassa tareyya pāran”ti. "
+msgstr "they can’t pass beyond Death’s domain.” "
 
-#. </p><p>
-#. <a class="sc" id="sc12"></a>
+#. HTML: </p><p>
+#. REF: sc12
 msgctxt "sn1.38:12.1"
-msgid "“Mānaṃ pahāya susamāhitatto,"
-msgstr "“Having given up conceit, serene within oneself,"
+msgid "“Mānaṃ pahāya susamāhitatto, "
+msgstr "“Having given up conceit, serene within oneself, "
 
 #. <br>
 msgctxt "sn1.38:12.2"
-msgid "Sucetaso sabbadhi vippamutto;"
-msgstr "with a healthy heart, everywhere released;"
+msgid "Sucetaso sabbadhi vippamutto; "
+msgstr "with a healthy heart, everywhere released; "
 
 #. <br>
 msgctxt "sn1.38:12.3"
-msgid "Eko araññe viharamappamatto,"
-msgstr "living diligent alone in the wilderness,"
+msgid "Eko araññe viharamappamatto, "
+msgstr "living diligent alone in the wilderness, "
 
 #. <br>
 msgctxt "sn1.38:12.4"
-msgid "Sa maccudheyyassa tareyya pāran”ti."
+msgid "Sa maccudheyyassa tareyya pāran”ti. "
 msgstr "they pass beyond Death’s domain.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

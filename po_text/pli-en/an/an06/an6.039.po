@@ -2,126 +2,127 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an6.39"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an6.39"><article><div class="hgroup"><p class="division">
 msgctxt "an6.39:0.1"
-msgid "Aṅguttara Nikāya 6"
-msgstr "Numbered Discourses 6"
+msgid "Aṅguttara Nikāya 6 "
+msgstr "Numbered Discourses 6 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an6.39:0.2"
-msgid "4. devatāvagga"
-msgstr "4. Deities"
+msgid "4. devatāvagga "
+msgstr "4. Deities "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 39. Nidānasutta → kammanidānasuttaṃ (bj)
 msgctxt "an6.39:0.3"
-msgid "39. Nidānasutta"
-msgstr "39. Sources"
+msgid "39. Nidānasutta "
+msgstr "39. Sources "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.339"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli3.339, sc1
 msgctxt "an6.39:1.1"
-msgid "“Tīṇimāni, bhikkhave, nidānāni kammānaṃ samudayāya."
-msgstr "“Mendicants, there are these three sources that give rise to deeds."
+msgid "“Tīṇimāni, bhikkhave, nidānāni kammānaṃ samudayāya. "
+msgstr "“Mendicants, there are these three sources that give rise to deeds. "
 
 msgctxt "an6.39:1.2"
-msgid "Katamāni tīṇi?"
-msgstr "What three?"
+msgid "Katamāni tīṇi? "
+msgstr "What three? "
 
 msgctxt "an6.39:1.3"
-msgid "Lobho nidānaṃ kammānaṃ samudayāya, doso nidānaṃ kammānaṃ samudayāya, moho nidānaṃ kammānaṃ samudayāya."
-msgstr "Greed, hate, and delusion are sources that give rise to deeds."
+msgid "Lobho nidānaṃ kammānaṃ samudayāya, doso nidānaṃ kammānaṃ samudayāya, moho nidānaṃ kammānaṃ samudayāya. "
+msgstr "Greed, hate, and delusion are sources that give rise to deeds. "
 
 msgctxt "an6.39:1.4"
-msgid "Na, bhikkhave, lobhā alobho samudeti;"
-msgstr "Greed doesn’t give rise to contentment."
+msgid "Na, bhikkhave, lobhā alobho samudeti; "
+msgstr "Greed doesn’t give rise to contentment. "
 
 msgctxt "an6.39:1.5"
-msgid "atha kho, bhikkhave, lobhā lobhova samudeti."
-msgstr "Rather, greed just gives rise to greed."
+msgid "atha kho, bhikkhave, lobhā lobhova samudeti. "
+msgstr "Rather, greed just gives rise to greed. "
 
-# Note that this comes close to directly contradicting AN 4.193. Presumably the use of pema there implies something less pure than adosa or metta.
+# NOTE: Note that this comes close to directly contradicting AN 4.193. Presumably the use of pema there implies something less pure than adosa or metta.
 msgctxt "an6.39:1.6"
-msgid "Na, bhikkhave, dosā adoso samudeti;"
-msgstr "Hate doesn’t give rise to love."
+msgid "Na, bhikkhave, dosā adoso samudeti; "
+msgstr "Hate doesn’t give rise to love. "
 
 msgctxt "an6.39:1.7"
-msgid "atha kho, bhikkhave, dosā dosova samudeti."
-msgstr "Rather, hate just gives rise to hate."
+msgid "atha kho, bhikkhave, dosā dosova samudeti. "
+msgstr "Rather, hate just gives rise to hate. "
 
 msgctxt "an6.39:1.8"
-msgid "Na, bhikkhave, mohā amoho samudeti;"
-msgstr "Delusion doesn’t give rise to understanding."
+msgid "Na, bhikkhave, mohā amoho samudeti; "
+msgstr "Delusion doesn’t give rise to understanding. "
 
 msgctxt "an6.39:1.9"
-msgid "atha kho, bhikkhave, mohā mohova samudeti."
-msgstr "Rather, delusion just gives rise to delusion."
+msgid "atha kho, bhikkhave, mohā mohova samudeti. "
+msgstr "Rather, delusion just gives rise to delusion. "
 
-# Interesting to see this precursor of the Abhidhammic “ye vā pan’aññe” here.
+# NOTE: Interesting to see this precursor of the Abhidhammic “ye vā pan’aññe” here.
 msgctxt "an6.39:1.10"
-msgid "Na, bhikkhave, lobhajena kammena dosajena kammena mohajena kammena devā paññāyanti, manussā paññāyanti, yā vā panaññāpi kāci sugatiyo."
-msgstr "It’s not because of deeds born of greed, hate, and delusion that gods, humans, or those in any other good places are found."
+msgid "Na, bhikkhave, lobhajena kammena dosajena kammena mohajena kammena devā paññāyanti, manussā paññāyanti, yā vā panaññāpi kāci sugatiyo. "
+msgstr "It’s not because of deeds born of greed, hate, and delusion that gods, humans, or those in any other good places are found. "
 
 msgctxt "an6.39:1.11"
-msgid "Atha kho, bhikkhave, lobhajena kammena dosajena kammena mohajena kammena nirayo paññāyati tiracchānayoni paññāyati pettivisayo paññāyati, yā vā panaññāpi kāci duggatiyo."
-msgstr "Rather, it’s because of deeds born of greed, hate, and delusion that hell, the animal realm, the ghost realm, or any other bad places are found."
+msgid "Atha kho, bhikkhave, lobhajena kammena dosajena kammena mohajena kammena nirayo paññāyati tiracchānayoni paññāyati pettivisayo paññāyati, yā vā panaññāpi kāci duggatiyo. "
+msgstr "Rather, it’s because of deeds born of greed, hate, and delusion that hell, the animal realm, the ghost realm, or any other bad places are found. "
 
 msgctxt "an6.39:1.12"
-msgid "Imāni kho, bhikkhave, tīṇi nidānāni kammānaṃ samudayāya."
-msgstr "These are three sources that give rise to deeds."
+msgid "Imāni kho, bhikkhave, tīṇi nidānāni kammānaṃ samudayāya. "
+msgstr "These are three sources that give rise to deeds. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an6.39:2.1"
-msgid "Tīṇimāni, bhikkhave, nidānāni kammānaṃ samudayāya."
-msgstr "Mendicants, there are these three sources that give rise to deeds."
+msgid "Tīṇimāni, bhikkhave, nidānāni kammānaṃ samudayāya. "
+msgstr "Mendicants, there are these three sources that give rise to deeds. "
 
 msgctxt "an6.39:2.2"
-msgid "Katamāni tīṇi?"
-msgstr "What three?"
+msgid "Katamāni tīṇi? "
+msgstr "What three? "
 
 msgctxt "an6.39:2.3"
-msgid "Alobho nidānaṃ kammānaṃ samudayāya, adoso nidānaṃ kammānaṃ samudayāya, amoho nidānaṃ kammānaṃ samudayāya."
-msgstr "Contentment, love, and understanding are sources that give rise to deeds."
+msgid "Alobho nidānaṃ kammānaṃ samudayāya, adoso nidānaṃ kammānaṃ samudayāya, amoho nidānaṃ kammānaṃ samudayāya. "
+msgstr "Contentment, love, and understanding are sources that give rise to deeds. "
 
 msgctxt "an6.39:2.4"
-msgid "Na, bhikkhave, alobhā lobho samudeti;"
-msgstr "Contentment doesn’t give rise to greed."
+msgid "Na, bhikkhave, alobhā lobho samudeti; "
+msgstr "Contentment doesn’t give rise to greed. "
 
 msgctxt "an6.39:2.5"
-msgid "atha kho, bhikkhave, alobhā alobhova samudeti."
-msgstr "Rather, contentment just gives rise to contentment."
+msgid "atha kho, bhikkhave, alobhā alobhova samudeti. "
+msgstr "Rather, contentment just gives rise to contentment. "
 
 msgctxt "an6.39:2.6"
-msgid "Na, bhikkhave, adosā doso samudeti;"
-msgstr "Love doesn’t give rise to hate."
+msgid "Na, bhikkhave, adosā doso samudeti; "
+msgstr "Love doesn’t give rise to hate. "
 
 msgctxt "an6.39:2.7"
-msgid "atha kho, bhikkhave, adosā adosova samudeti."
-msgstr "Rather, love just gives rise to love."
+msgid "atha kho, bhikkhave, adosā adosova samudeti. "
+msgstr "Rather, love just gives rise to love. "
 
 msgctxt "an6.39:2.8"
-msgid "Na, bhikkhave, amohā moho samudeti;"
-msgstr "Understanding doesn’t give rise to delusion."
+msgid "Na, bhikkhave, amohā moho samudeti; "
+msgstr "Understanding doesn’t give rise to delusion. "
 
 msgctxt "an6.39:2.9"
-msgid "atha kho, bhikkhave, amohā amohova samudeti."
-msgstr "Rather, understanding just gives rise to understanding."
+msgid "atha kho, bhikkhave, amohā amohova samudeti. "
+msgstr "Rather, understanding just gives rise to understanding. "
 
 msgctxt "an6.39:2.10"
-msgid "Na, bhikkhave, alobhajena kammena adosajena kammena amohajena kammena nirayo paññāyati tiracchānayoni paññāyati pettivisayo paññāyati, yā vā panaññāpi kāci duggatiyo."
-msgstr "It’s not because of deeds born of contentment, love, and understanding that hell, the animal realm, the ghost realm, or any other bad places are found."
+msgid "Na, bhikkhave, alobhajena kammena adosajena kammena amohajena kammena nirayo paññāyati tiracchānayoni paññāyati pettivisayo paññāyati, yā vā panaññāpi kāci duggatiyo. "
+msgstr "It’s not because of deeds born of contentment, love, and understanding that hell, the animal realm, the ghost realm, or any other bad places are found. "
 
 msgctxt "an6.39:2.11"
-msgid "Atha kho, bhikkhave, alobhajena kammena adosajena kammena amohajena kammena devā paññāyanti, manussā paññāyanti, yā vā panaññāpi kāci sugatiyo."
-msgstr "Rather, it’s because of deeds born of contentment, love, and understanding that gods, humans, or those in any other good places are found."
+msgid "Atha kho, bhikkhave, alobhajena kammena adosajena kammena amohajena kammena devā paññāyanti, manussā paññāyanti, yā vā panaññāpi kāci sugatiyo. "
+msgstr "Rather, it’s because of deeds born of contentment, love, and understanding that gods, humans, or those in any other good places are found. "
 
 msgctxt "an6.39:2.12"
-msgid "Imāni kho, bhikkhave, tīṇi nidānāni kammānaṃ samudayāyā”ti."
-msgstr "These are three sources that give rise to deeds.”"
+msgid "Imāni kho, bhikkhave, tīṇi nidānāni kammānaṃ samudayāyā”ti. "
+msgstr "These are three sources that give rise to deeds.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an6.39:2.13"
-msgid "Navamaṃ."
+msgid "Navamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

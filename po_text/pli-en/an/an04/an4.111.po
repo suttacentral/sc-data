@@ -2,170 +2,172 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.111"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.111"><article><div class="hgroup"><p class="division">
 msgctxt "an4.111:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 #. VAR: kesīvaggo (s1-3)
 msgctxt "an4.111:0.2"
-msgid "12. Kesivagga"
-msgstr "12. With Kesi"
+msgid "12. Kesivagga "
+msgstr "12. With Kesi "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an4.111:0.3"
-msgid "111. Kesisutta"
-msgstr "111. With Kesi"
+msgid "111. Kesisutta "
+msgstr "111. With Kesi "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.112"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli2.112, sc1
 msgctxt "an4.111:1.1"
-msgid "Atha kho kesi assadammasārathi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho kesiṃ assadammasārathiṃ bhagavā etadavoca:"
-msgstr "Then Kesi the horse trainer went up to the Buddha, bowed, and sat down to one side. The Buddha said to him:"
+msgid "Atha kho kesi assadammasārathi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho kesiṃ assadammasārathiṃ bhagavā etadavoca: "
+msgstr "Then Kesi the horse trainer went up to the Buddha, bowed, and sat down to one side. The Buddha said to him, "
 
-#. </p><p class="added">
 #. VAR: tvaṃ khosi → tvañca khvāsi (bj, s1-3, pts1)
 #. VAR: paññāto assadammasārathīti → saññato assadammasārathi (bj, pts1) | saññāto assadammasārathi (s1-3, km)
 msgctxt "an4.111:1.2"
-msgid "“tvaṃ khosi, kesi, paññāto assadammasārathīti."
-msgstr "“Kesi, you’re known as a horse trainer."
+msgid "“tvaṃ khosi, kesi, paññāto assadammasārathīti. "
+msgstr "“Kesi, you’re known as a horse trainer. "
 
 msgctxt "an4.111:1.3"
-msgid "Kathaṃ pana tvaṃ, kesi, assadammaṃ vinesī”ti?"
-msgstr "Just how do you guide a horse in training?”"
+msgid "Kathaṃ pana tvaṃ, kesi, assadammaṃ vinesī”ti? "
+msgstr "Just how do you guide a horse in training?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "an4.111:1.4"
-msgid "“Ahaṃ kho, bhante, assadammaṃ saṇhenapi vinemi, pharusenapi vinemi, saṇhapharusenapi vinemī”ti."
-msgstr "“Sir, I guide a horse in training sometimes gently, sometimes harshly, and sometimes both gently and harshly.”"
+msgid "“Ahaṃ kho, bhante, assadammaṃ saṇhenapi vinemi, pharusenapi vinemi, saṇhapharusenapi vinemī”ti. "
+msgstr "“Sir, I guide a horse in training sometimes gently, sometimes harshly, and sometimes both gently and harshly.” "
 
-# Notice how BB’s tranl. first uses “discipline” (which implies punishment), then “submit” for upeti. The combination implies a forcefulness that’s absent in the Pali. Vinaya doesn’t imply punishment, so “guidance” is better; and upeti means more to “fit in, go along with, comply” rather than submit, which again implies force. The inappropriateness of this implication is heightened here, because of course some forms of guidance are specifically said to be “gentle”.
-#. </p><p class="added">
+# NOTE: Notice how BB’s tranl. first uses “discipline” (which implies punishment), then “submit” for upeti. The combination implies a forcefulness that’s absent in the Pali. Vinaya doesn’t imply punishment, so “guidance” is better; and upeti means more to “fit in, go along with, comply” rather than submit, which again implies force. The inappropriateness of this implication is heightened here, because of course some forms of guidance are specifically said to be “gentle”.
+#. HTML: </p><p>
 msgctxt "an4.111:1.5"
-msgid "“Sace te, kesi, assadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, kinti naṃ karosī”ti?"
-msgstr "“Kesi, what do you do with a horse in training that doesn’t follow these forms of training?”"
+msgid "“Sace te, kesi, assadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, kinti naṃ karosī”ti? "
+msgstr "“Kesi, what do you do with a horse in training that doesn’t follow these forms of training?” "
 
+#. HTML: </p><p>
 msgctxt "an4.111:1.6"
-msgid "“Sace me, bhante, assadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti;"
-msgstr ""
+msgid "“Sace me, bhante, assadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti; "
+msgstr " "
 
 msgctxt "an4.111:1.7"
-msgid "hanāmi naṃ, bhante."
-msgstr "“In that case, sir, I kill it."
+msgid "hanāmi naṃ, bhante. "
+msgstr "“In that case, sir, I kill it. "
 
 msgctxt "an4.111:1.8"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an4.111:1.9"
-msgid "‘Mā me ācariyakulassa avaṇṇo ahosī’ti."
-msgstr "So that I don’t disgrace my profession."
+msgid "‘Mā me ācariyakulassa avaṇṇo ahosī’ti. "
+msgstr "So that I don’t disgrace my profession. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an4.111:2.1"
-msgid "Bhagavā pana, bhante, anuttaro purisadammasārathi."
-msgstr "But sir, the Buddha is the supreme guide for those who wish to train."
+msgid "Bhagavā pana, bhante, anuttaro purisadammasārathi. "
+msgstr "But sir, the Buddha is the supreme guide for those who wish to train. "
 
 msgctxt "an4.111:2.2"
-msgid "Kathaṃ pana, bhante, bhagavā purisadammaṃ vinetī”ti?"
-msgstr "Just how do you guide a person in training?”"
+msgid "Kathaṃ pana, bhante, bhagavā purisadammaṃ vinetī”ti? "
+msgstr "Just how do you guide a person in training?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "an4.111:2.3"
-msgid "“Ahaṃ kho, kesi, purisadammaṃ saṇhenapi vinemi, pharusenapi vinemi, saṇhapharusenapi vinemi."
-msgstr "“Kesi, I guide a person in training sometimes gently, sometimes harshly, and sometimes both gently and harshly."
+msgid "“Ahaṃ kho, kesi, purisadammaṃ saṇhenapi vinemi, pharusenapi vinemi, saṇhapharusenapi vinemi. "
+msgstr "“Kesi, I guide a person in training sometimes gently, sometimes harshly, and sometimes both gently and harshly. "
 
+#. HTML: </p><p>
 msgctxt "an4.111:2.4"
 msgid "Tatridaṃ, kesi, saṇhasmiṃ—"
-msgstr "The gentle way is this:"
+msgstr "The gentle way is this: "
 
 msgctxt "an4.111:2.5"
-msgid "iti kāyasucaritaṃ iti kāyasucaritassa vipāko, iti vacīsucaritaṃ iti vacīsucaritassa vipāko, iti manosucaritaṃ iti manosucaritassa vipāko, iti devā, iti manussāti."
-msgstr "‘This is good conduct by way of body, speech, and mind. This is the result of good conduct by way of body, speech, and mind. This is life as a god. This is life as a human.’"
+msgid "iti kāyasucaritaṃ iti kāyasucaritassa vipāko, iti vacīsucaritaṃ iti vacīsucaritassa vipāko, iti manosucaritaṃ iti manosucaritassa vipāko, iti devā, iti manussāti. "
+msgstr "‘This is good conduct by way of body, speech, and mind. This is the result of good conduct by way of body, speech, and mind. This is life as a god. This is life as a human.’ "
 
+#. HTML: </p><p>
 msgctxt "an4.111:2.6"
 msgid "Tatridaṃ, kesi, pharusasmiṃ—"
-msgstr "The harsh way is this:"
+msgstr "The harsh way is this: "
 
 msgctxt "an4.111:2.7"
-msgid "iti kāyaduccaritaṃ iti kāyaduccaritassa vipāko, iti vacīduccaritaṃ iti vacīduccaritassa vipāko, iti manoduccaritaṃ iti manoduccaritassa vipāko, iti nirayo, iti tiracchānayoni, iti pettivisayoti."
-msgstr "‘This is bad conduct by way of body, speech, and mind. This is the result of bad conduct by way of body, speech, and mind. This is life in hell. This is life as an animal. This is life as a ghost.’"
+msgid "iti kāyaduccaritaṃ iti kāyaduccaritassa vipāko, iti vacīduccaritaṃ iti vacīduccaritassa vipāko, iti manoduccaritaṃ iti manoduccaritassa vipāko, iti nirayo, iti tiracchānayoni, iti pettivisayoti. "
+msgstr "‘This is bad conduct by way of body, speech, and mind. This is the result of bad conduct by way of body, speech, and mind. This is life in hell. This is life as an animal. This is life as a ghost.’ "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an4.111:3.1"
 msgid "Tatridaṃ, kesi, saṇhapharusasmiṃ—"
-msgstr "The both gentle and harsh way is this:"
+msgstr "The both gentle and harsh way is this: "
 
 msgctxt "an4.111:3.2"
-msgid "iti kāyasucaritaṃ iti kāyasucaritassa vipāko, iti kāyaduccaritaṃ iti kāyaduccaritassa vipāko, iti vacīsucaritaṃ iti vacīsucaritassa vipāko, iti vacīduccaritaṃ iti vacīduccaritassa vipāko, iti manosucaritaṃ iti manosucaritassa vipāko, iti manoduccaritaṃ iti manoduccaritassa vipāko, iti devā, iti manussā, iti nirayo, iti tiracchānayoni, iti pettivisayo”ti."
-msgstr "‘This is good conduct … this is bad conduct …’”"
+msgid "iti kāyasucaritaṃ iti kāyasucaritassa vipāko, iti kāyaduccaritaṃ iti kāyaduccaritassa vipāko, iti vacīsucaritaṃ iti vacīsucaritassa vipāko, iti vacīduccaritaṃ iti vacīduccaritassa vipāko, iti manosucaritaṃ iti manosucaritassa vipāko, iti manoduccaritaṃ iti manoduccaritassa vipāko, iti devā, iti manussā, iti nirayo, iti tiracchānayoni, iti pettivisayo”ti. "
+msgstr "‘This is good conduct … this is bad conduct …’” "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.113"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.113, sc4
 msgctxt "an4.111:4.1"
-msgid "“Sace te, bhante, purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, kinti naṃ bhagavā karotī”ti?"
-msgstr "“Sir, what do you do with a person in training who doesn’t follow these forms of training?”"
+msgid "“Sace te, bhante, purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, kinti naṃ bhagavā karotī”ti? "
+msgstr "“Sir, what do you do with a person in training who doesn’t follow these forms of training?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "an4.111:4.2"
-msgid "“Sace me, kesi, purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, hanāmi naṃ, kesī”ti."
-msgstr "“In that case, Kesi, I kill them.”"
+msgid "“Sace me, kesi, purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, hanāmi naṃ, kesī”ti. "
+msgstr "“In that case, Kesi, I kill them.” "
 
-# kappati in this sense is not common in the suttas. Compare SN 42.10. I’m not convinced that BB’s “allowable” is appropriate outside of a Vinaya context: who tells the Buddha what he’s “allowed” to do?
-#. </p><p class="added">
+# NOTE: kappati in this sense is not common in the suttas. Compare SN 42.10. I’m not convinced that BB’s “allowable” is appropriate outside of a Vinaya context: who tells the Buddha what he’s “allowed” to do?
+#. HTML: </p><p>
 msgctxt "an4.111:4.3"
-msgid "“Na kho, bhante, bhagavato pāṇātipāto kappati."
-msgstr "“Sir, it’s not appropriate for the Buddha to kill living creatures."
+msgid "“Na kho, bhante, bhagavato pāṇātipāto kappati. "
+msgstr "“Sir, it’s not appropriate for the Buddha to kill living creatures. "
 
 msgctxt "an4.111:4.4"
-msgid "Atha ca pana bhagavā evamāha:"
-msgstr "And yet you say"
+msgid "Atha ca pana bhagavā evamāha: "
+msgstr "And yet you say "
 
 msgctxt "an4.111:4.5"
-msgid "‘hanāmi naṃ, kesī’”ti."
-msgstr "you kill them.”"
+msgid "‘hanāmi naṃ, kesī’”ti. "
+msgstr "you kill them.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "an4.111:4.6"
-msgid "“Saccaṃ, kesi."
-msgstr "“It’s true, Kesi,"
+msgid "“Saccaṃ, kesi. "
+msgstr "“It’s true, Kesi, "
 
 msgctxt "an4.111:4.7"
-msgid "Na tathāgatassa pāṇātipāto kappati."
-msgstr "it’s not appropriate for a Realized One to kill living creatures."
+msgid "Na tathāgatassa pāṇātipāto kappati. "
+msgstr "it’s not appropriate for a Realized One to kill living creatures. "
 
 msgctxt "an4.111:4.8"
-msgid "Api ca yo purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, na taṃ tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññanti."
-msgstr "But when a person in training doesn’t follow any of these forms of training, the Realized One doesn’t think they’re worth advising or instructing, and neither do their sensible spiritual companions."
+msgid "Api ca yo purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, na taṃ tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññanti. "
+msgstr "But when a person in training doesn’t follow any of these forms of training, the Realized One doesn’t think they’re worth advising or instructing, and neither do their sensible spiritual companions. "
 
 msgctxt "an4.111:4.9"
 msgid "Vadho heso, kesi, ariyassa vinaye—"
-msgstr "For it is death in the training of the noble one"
+msgstr "For it is death in the training of the noble one "
 
 msgctxt "an4.111:4.10"
-msgid "yaṃ na tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññantī”ti."
-msgstr "when the Realized One doesn’t think they’re worth advising or instructing, and neither do their sensible spiritual companions.”"
+msgid "yaṃ na tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññantī”ti. "
+msgstr "when the Realized One doesn’t think they’re worth advising or instructing, and neither do their sensible spiritual companions.” "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "an4.111:5.1"
 msgid "“So hi nūna, bhante, suhato hoti—"
-msgstr "“Well, they’re definitely dead"
+msgstr "“Well, they’re definitely dead "
 
 msgctxt "an4.111:5.2"
-msgid "yaṃ na tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññantīti."
-msgstr "when the Realized One doesn’t think they’re worth advising or instructing, and neither do their sensible spiritual companions."
+msgid "yaṃ na tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññantīti. "
+msgstr "when the Realized One doesn’t think they’re worth advising or instructing, and neither do their sensible spiritual companions. "
 
 msgctxt "an4.111:5.3"
-msgid "Abhikkantaṃ, bhante, abhikkantaṃ, bhante … pe … upāsakaṃ maṃ, bhante, bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti."
-msgstr "Excellent, sir! … From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”"
+msgid "Abhikkantaṃ, bhante, abhikkantaṃ, bhante … pe … upāsakaṃ maṃ, bhante, bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti. "
+msgstr "Excellent, sir! … From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an4.111:5.4"
-msgid "Paṭhamaṃ."
+msgid "Paṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

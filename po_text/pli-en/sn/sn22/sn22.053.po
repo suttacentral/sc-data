@@ -2,106 +2,117 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn22.53"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn22.53"><article><div class="hgroup"><p class="division">
 msgctxt "sn22.53:0.1"
-msgid "Saṃyutta Nikāya 22"
-msgstr "Linked Discourses 22"
+msgid "Saṃyutta Nikāya 22 "
+msgstr "Linked Discourses 22 "
 
-#. </p><p>
+#. HTML: </p><p>
 #. VAR: 6. Upayavagga → upāyavaggo (s1-3, pts1)
 msgctxt "sn22.53:0.2"
-msgid "6. Upayavagga"
-msgstr "6. Involvement"
+msgid "6. Upayavagga "
+msgstr "6. Involvement "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn22.53:0.3"
-msgid "53. Upayasutta"
-msgstr "53. Involvement"
+msgid "53. Upayasutta "
+msgstr "53. Involvement "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn22.53:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 #. VAR: Upayo → upāyo (s1-3, km, pts1)
 msgctxt "sn22.53:1.2"
-msgid "“Upayo, bhikkhave, avimutto, anupayo vimutto."
-msgstr "“Mendicants, if you’re involved, you’re not free. If you’re not involved, you’re free."
+msgid "“Upayo, bhikkhave, avimutto, anupayo vimutto. "
+msgstr "“Mendicants, if you’re involved, you’re not free. If you’re not involved, you’re free. "
 
-# “Stands” is over literal. The point here is to differentiate between the consciousness that “remains” or “lasts”, continuing in samsara because of its supporting condition, or that which does not last. Thiti in its various forms, of course, frequently has this sense.
+#. HTML: </p><p>
+# NOTE: “Stands” is over literal. The point here is to differentiate between the consciousness that “remains” or “lasts”, continuing in samsara because of its supporting condition, or that which does not last. Thiti in its various forms, of course, frequently has this sense.
 #. VAR: Rūpupayaṃ → rūpūpāyaṃ (s1-3, km) | rūpupāyaṃ (pts1, mr)
 msgctxt "sn22.53:1.3"
-msgid "Rūpupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, rūpārammaṇaṃ rūpappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyya."
-msgstr "As long as consciousness remains, it would remain involved with form, supported by form, founded on form. And with a sprinkle of relishing, it would grow, increase, and mature."
+msgid "Rūpupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, rūpārammaṇaṃ rūpappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyya. "
+msgstr "As long as consciousness remains, it would remain involved with form, supported by form, founded on form. And with a sprinkle of relishing, it would grow, increase, and mature. "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:1.4"
-msgid "Vedanupayaṃ vā … pe …"
-msgstr "Or consciousness would remain involved with feeling …"
+msgid "Vedanupayaṃ vā … pe … "
+msgstr "Or consciousness would remain involved with feeling … "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:1.5"
-msgid "saññupayaṃ vā … pe …"
-msgstr "Or consciousness would remain involved with perception …"
+msgid "saññupayaṃ vā … pe … "
+msgstr "Or consciousness would remain involved with perception … "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:1.6"
-msgid "saṅkhārupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, saṅkhārārammaṇaṃ saṅkhārappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyya."
-msgstr "Or as long as consciousness remains, it would remain involved with choices, supported by choices, grounded on choices. And with a sprinkle of relishing, it would grow, increase, and mature."
+msgid "saṅkhārupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, saṅkhārārammaṇaṃ saṅkhārappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyya. "
+msgstr "Or as long as consciousness remains, it would remain involved with choices, supported by choices, grounded on choices. And with a sprinkle of relishing, it would grow, increase, and mature. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn22.53:2.1"
-msgid "Yo, bhikkhave, evaṃ vadeyya:"
-msgstr "Mendicants, suppose you say:"
+msgid "Yo, bhikkhave, evaṃ vadeyya: "
+msgstr "Mendicants, suppose you say: "
 
 msgctxt "sn22.53:2.2"
-msgid "‘ahamaññatra rūpā aññatra vedanāya aññatra saññāya aññatra saṅkhārehi viññāṇassa āgatiṃ vā gatiṃ vā cutiṃ vā upapattiṃ vā vuddhiṃ vā virūḷhiṃ vā vepullaṃ vā paññāpessāmī’ti, netaṃ ṭhānaṃ vijjati."
-msgstr "‘Apart from form, feeling, perception, and choices, I will describe the coming and going of consciousness, its passing away and reappearing, its growth, increase, and maturity.’ That is not possible."
+msgid "‘ahamaññatra rūpā aññatra vedanāya aññatra saññāya aññatra saṅkhārehi viññāṇassa āgatiṃ vā gatiṃ vā cutiṃ vā upapattiṃ vā vuddhiṃ vā virūḷhiṃ vā vepullaṃ vā paññāpessāmī’ti, netaṃ ṭhānaṃ vijjati. "
+msgstr "‘Apart from form, feeling, perception, and choices, I will describe the coming and going of consciousness, its passing away and reappearing, its growth, increase, and maturity.’ That is not possible. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.54"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli3.54, sc3
 msgctxt "sn22.53:3.1"
-msgid "Rūpadhātuyā ce, bhikkhave, bhikkhuno rāgo pahīno hoti."
-msgstr "If a mendicant has given up greed for the form element,"
+msgid "Rūpadhātuyā ce, bhikkhave, bhikkhuno rāgo pahīno hoti. "
+msgstr "If a mendicant has given up greed for the form element, "
 
 msgctxt "sn22.53:3.2"
-msgid "Rāgassa pahānā vocchijjatārammaṇaṃ patiṭṭhā viññāṇassa na hoti."
-msgstr "the support is cut off, and there is no foundation for consciousness."
+msgid "Rāgassa pahānā vocchijjatārammaṇaṃ patiṭṭhā viññāṇassa na hoti. "
+msgstr "the support is cut off, and there is no foundation for consciousness. "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:3.3"
-msgid "Vedanādhātuyā ce, bhikkhave …"
-msgstr "If a mendicant has given up greed for the feeling element …"
+msgid "Vedanādhātuyā ce, bhikkhave … "
+msgstr "If a mendicant has given up greed for the feeling element … "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:3.4"
-msgid "saññādhātuyā ce, bhikkhave …"
-msgstr "perception element …"
+msgid "saññādhātuyā ce, bhikkhave … "
+msgstr "perception element … "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:3.5"
-msgid "saṅkhāradhātuyā ce, bhikkhave …"
-msgstr "choices element …"
+msgid "saṅkhāradhātuyā ce, bhikkhave … "
+msgstr "choices element … "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:3.6"
-msgid "viññāṇadhātuyā ce, bhikkhave, bhikkhuno rāgo pahīno hoti."
-msgstr "consciousness element,"
+msgid "viññāṇadhātuyā ce, bhikkhave, bhikkhuno rāgo pahīno hoti. "
+msgstr "consciousness element, "
 
 msgctxt "sn22.53:3.7"
-msgid "Rāgassa pahānā vocchijjatārammaṇaṃ patiṭṭhā viññāṇassa na hoti."
-msgstr "the support is cut off, and there is no foundation for consciousness."
+msgid "Rāgassa pahānā vocchijjatārammaṇaṃ patiṭṭhā viññāṇassa na hoti. "
+msgstr "the support is cut off, and there is no foundation for consciousness. "
 
 msgctxt "sn22.53:3.8"
-msgid "Tadappatiṭṭhitaṃ viññāṇaṃ avirūḷhaṃ anabhisaṅkhacca vimuttaṃ."
-msgstr "Since that consciousness does not become established and does not grow, with no power to regenerate, it is freed."
+msgid "Tadappatiṭṭhitaṃ viññāṇaṃ avirūḷhaṃ anabhisaṅkhacca vimuttaṃ. "
+msgstr "Since that consciousness does not become established and does not grow, with no power to regenerate, it is freed. "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:3.9"
-msgid "Vimuttattā ṭhitaṃ. Ṭhitattā santusitaṃ. Santusitattā na paritassati. Aparitassaṃ paccattaññeva parinibbāyati."
-msgstr "Being free, it’s stable. Being stable, it’s content. Being content, they’re not anxious. Not being anxious, they personally become extinguished."
+msgid "Vimuttattā ṭhitaṃ. Ṭhitattā santusitaṃ. Santusitattā na paritassati. Aparitassaṃ paccattaññeva parinibbāyati. "
+msgstr "Being free, it’s stable. Being stable, it’s content. Being content, they’re not anxious. Not being anxious, they personally become extinguished. "
 
+#. HTML: </p><p>
 msgctxt "sn22.53:3.10"
-msgid "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti."
-msgstr "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’”"
+msgid "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti. "
+msgstr "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn22.53:3.11"
-msgid "Paṭhamaṃ."
+msgid "Paṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

@@ -2,115 +2,118 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.138"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.138"><article><div class="hgroup"><p class="division">
 msgctxt "an4.138:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an4.138:0.2"
-msgid "14. Puggalavagga"
-msgstr "14. Persons"
+msgid "14. Puggalavagga "
+msgstr "14. Persons "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: nikaṭṭhapuggalasuttaṃ (bj)
 msgctxt "an4.138:0.3"
-msgid "138. Nikaṭṭhasutta"
-msgstr "138. Retreat"
+msgid "138. Nikaṭṭhasutta "
+msgstr "138. Retreat "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "an4.138:1.1"
-msgid "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ."
-msgstr "“Mendicants, these four people are found in the world."
+msgid "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. "
+msgstr "“Mendicants, these four people are found in the world. "
 
 msgctxt "an4.138:1.2"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
+#. HTML: </p><ol>
 msgctxt "an4.138:1.3"
-msgid "Nikaṭṭhakāyo anikaṭṭhacitto, anikaṭṭhakāyo nikaṭṭhacitto, anikaṭṭhakāyo ca anikaṭṭhacitto ca, nikaṭṭhakāyo ca nikaṭṭhacitto ca."
-msgstr "~One is on retreat in body, but not mind; ~one is on retreat in mind, but not body; ~one is on retreat in neither body nor mind; and ~one is on retreat in both body and mind."
+msgid "Nikaṭṭhakāyo anikaṭṭhacitto, anikaṭṭhakāyo nikaṭṭhacitto, anikaṭṭhakāyo ca anikaṭṭhacitto ca, nikaṭṭhakāyo ca nikaṭṭhacitto ca. "
+msgstr "~One is on retreat in body, but not mind; ~one is on retreat in mind, but not body; ~one is on retreat in neither body nor mind; and ~one is on retreat in both body and mind. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </ol><p>
+#. REF: sc2
 msgctxt "an4.138:2.1"
-msgid "Kathañca, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto?"
-msgstr "And how is a person on retreat in body, but not mind?"
+msgid "Kathañca, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto? "
+msgstr "And how is a person on retreat in body, but not mind? "
 
 #. VAR: araññavanapatthāni → araññe vanapatthāni (bj, pts1)
 msgctxt "an4.138:2.2"
-msgid "Idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati."
-msgstr "It’s when a person frequents remote lodgings in the wilderness and the forest."
+msgid "Idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati. "
+msgstr "It’s when a person frequents remote lodgings in the wilderness and the forest. "
 
 msgctxt "an4.138:2.3"
-msgid "So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṃsāvitakkampi vitakketi."
-msgstr "But they think sensual, malicious, and cruel thoughts."
+msgid "So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṃsāvitakkampi vitakketi. "
+msgstr "But they think sensual, malicious, and cruel thoughts. "
 
 msgctxt "an4.138:2.4"
-msgid "Evaṃ kho, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto."
-msgstr "That’s how a person is on retreat in body, but not mind."
+msgid "Evaṃ kho, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto. "
+msgstr "That’s how a person is on retreat in body, but not mind. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an4.138:3.1"
-msgid "Kathañca, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto?"
-msgstr "And how is a person on retreat in mind, but not body?"
+msgid "Kathañca, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto? "
+msgstr "And how is a person on retreat in mind, but not body? "
 
 msgctxt "an4.138:3.2"
-msgid "Idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati."
-msgstr "It’s when a person doesn’t frequent remote lodgings in the wilderness and the forest."
+msgid "Idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati. "
+msgstr "It’s when a person doesn’t frequent remote lodgings in the wilderness and the forest. "
 
 msgctxt "an4.138:3.3"
-msgid "So tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṃsāvitakkampi vitakketi."
-msgstr "But they think thoughts of renunciation, good will, and harmlessness."
+msgid "So tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṃsāvitakkampi vitakketi. "
+msgstr "But they think thoughts of renunciation, good will, and harmlessness. "
 
 msgctxt "an4.138:3.4"
-msgid "Evaṃ kho, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto."
-msgstr "That’s how a person is on retreat in mind, but not body."
+msgid "Evaṃ kho, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto. "
+msgstr "That’s how a person is on retreat in mind, but not body. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.138"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.138, sc4
 msgctxt "an4.138:4.1"
-msgid "Kathañca, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca?"
-msgstr "And how is a person on retreat in neither body nor mind?"
+msgid "Kathañca, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca? "
+msgstr "And how is a person on retreat in neither body nor mind? "
 
 msgctxt "an4.138:4.2"
-msgid "Idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati."
-msgstr "It’s when a person doesn’t frequent remote lodgings in the wilderness and the forest."
+msgid "Idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati. "
+msgstr "It’s when a person doesn’t frequent remote lodgings in the wilderness and the forest. "
 
 msgctxt "an4.138:4.3"
-msgid "So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṃsāvitakkampi vitakketi."
-msgstr "And they think sensual, malicious, and cruel thoughts."
+msgid "So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṃsāvitakkampi vitakketi. "
+msgstr "And they think sensual, malicious, and cruel thoughts. "
 
 msgctxt "an4.138:4.4"
-msgid "Evaṃ kho, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca."
-msgstr "That’s how a person is on retreat in neither body nor mind."
+msgid "Evaṃ kho, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca. "
+msgstr "That’s how a person is on retreat in neither body nor mind. "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "an4.138:5.1"
-msgid "Kathañca, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca?"
-msgstr "And how is a person on retreat in both body and mind?"
+msgid "Kathañca, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca? "
+msgstr "And how is a person on retreat in both body and mind? "
 
 msgctxt "an4.138:5.2"
-msgid "Idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati."
-msgstr "It’s when a person frequents remote lodgings in the wilderness and the forest."
+msgid "Idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati. "
+msgstr "It’s when a person frequents remote lodgings in the wilderness and the forest. "
 
 msgctxt "an4.138:5.3"
-msgid "So tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṃsāvitakkampi vitakketi."
-msgstr "And they think thoughts of renunciation, good will, and harmlessness."
+msgid "So tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṃsāvitakkampi vitakketi. "
+msgstr "And they think thoughts of renunciation, good will, and harmlessness. "
 
 msgctxt "an4.138:5.4"
-msgid "Evaṃ kho, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca."
-msgstr "That’s how a person is on retreat in both body and mind."
+msgid "Evaṃ kho, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca. "
+msgstr "That’s how a person is on retreat in both body and mind. "
 
+#. HTML: </p><p>
 msgctxt "an4.138:5.5"
-msgid "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti."
-msgstr "These are the four people found in the world.”"
+msgid "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti. "
+msgstr "These are the four people found in the world.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an4.138:5.6"
-msgid "Aṭṭhamaṃ."
+msgid "Aṭṭhamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

@@ -2,73 +2,76 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn1.6"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn1.6"><article><div class="hgroup"><p class="division">
 msgctxt "sn1.6:0.1"
-msgid "Saṃyutta Nikāya 1"
-msgstr "Linked Discourses 1"
+msgid "Saṃyutta Nikāya 1 "
+msgstr "Linked Discourses 1 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn1.6:0.2"
-msgid "1. Naḷavagga"
-msgstr "1. A Reed"
+msgid "1. Naḷavagga "
+msgstr "1. A Reed "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn1.6:0.3"
-msgid "6. Jāgarasutta"
-msgstr "6. Awake"
+msgid "6. Jāgarasutta "
+msgstr "6. Awake "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn1.6:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p>
 msgctxt "sn1.6:1.2"
-msgid "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:"
-msgstr "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+msgid "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi: "
+msgstr "Standing to one side, that deity recited this verse in the Buddha’s presence: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "sn1.6:2.1"
-msgid "“Kati jāgarataṃ suttā,"
-msgstr "“How many sleep while others wake?"
+msgid "“Kati jāgarataṃ suttā, "
+msgstr "“How many sleep while others wake? "
 
 #. <br>
 msgctxt "sn1.6:2.2"
-msgid "kati suttesu jāgarā;"
-msgstr "How many wake among the sleeping?"
+msgid "kati suttesu jāgarā; "
+msgstr "How many wake among the sleeping? "
 
 #. <br>
 #. VAR: Katibhi → katīhi (bj, pts1-2)
 msgctxt "sn1.6:2.3"
-msgid "Katibhi rajamādeti,"
-msgstr "By how many do you gather dust?"
+msgid "Katibhi rajamādeti, "
+msgstr "By how many do you gather dust? "
 
 #. <br>
 #. VAR: katibhi → katīhi (bj, pts1-2)
 msgctxt "sn1.6:2.4"
-msgid "katibhi parisujjhatī”ti."
-msgstr "By how many are you cleansed?”"
+msgid "katibhi parisujjhatī”ti. "
+msgstr "By how many are you cleansed?” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn1.6:3.1"
-msgid "“Pañca jāgarataṃ suttā,"
-msgstr "“Five sleep while others wake."
+msgid "“Pañca jāgarataṃ suttā, "
+msgstr "“Five sleep while others wake. "
 
 #. <br>
 msgctxt "sn1.6:3.2"
-msgid "pañca suttesu jāgarā;"
-msgstr "Five wake among the sleeping."
+msgid "pañca suttesu jāgarā; "
+msgstr "Five wake among the sleeping. "
 
 #. <br>
 #. VAR: Pañcabhi → pañcahi (bj, pts1-2)
 msgctxt "sn1.6:3.3"
-msgid "Pañcabhi rajamādeti,"
-msgstr "By five you gather dust."
+msgid "Pañcabhi rajamādeti, "
+msgstr "By five you gather dust. "
 
 #. <br>
 #. VAR: pañcabhi → pañcahi (bj, pts1-2)
 msgctxt "sn1.6:3.4"
-msgid "pañcabhi parisujjhatī”ti."
+msgid "pañcabhi parisujjhatī”ti. "
 msgstr "By five you’re cleansed.”"
+
+#. HTML: </p></article></section></body></html>

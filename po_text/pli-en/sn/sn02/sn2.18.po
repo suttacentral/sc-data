@@ -2,173 +2,172 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn2.18"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn2.18"><article><div class="hgroup"><p class="division">
 msgctxt "sn2.18:0.1"
-msgid "Saṃyutta Nikāya 2"
-msgstr "Linked Discourses 2"
+msgid "Saṃyutta Nikāya 2 "
+msgstr "Linked Discourses 2 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn2.18:0.2"
-msgid "2. Anāthapiṇḍikavagga"
-msgstr "2. With Anāthapiṇḍika"
+msgid "2. Anāthapiṇḍikavagga "
+msgstr "2. With Anāthapiṇḍika "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn2.18:0.3"
-msgid "18. Kakudhasutta"
-msgstr "18. With Kakudha"
+msgid "18. Kakudhasutta "
+msgstr "18. With Kakudha "
 
-#. </h1></div><p>
-#. <a class="pts2ed" id="pts2ed1.124"></a>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: pts2ed1.124, sc1
 msgctxt "sn2.18:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn2.18:1.2"
-msgid "ekaṃ samayaṃ bhagavā sākete viharati añjanavane migadāye."
-msgstr "At one time the Buddha was staying near Sāketa in the deer park at the Añjana Wood."
+msgid "ekaṃ samayaṃ bhagavā sākete viharati añjanavane migadāye. "
+msgstr "At one time the Buddha was staying near Sāketa in the deer park at the Añjana Wood. "
 
+#. HTML: </p><p>
 msgctxt "sn2.18:1.3"
-msgid "Atha kho kakudho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ añjanavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho kakudho devaputto bhagavantaṃ etadavoca:"
-msgstr "Then, late at night, the glorious god Kakudha, lighting up the entire Añjana Wood, went up to the Buddha, bowed, stood to one side, and said to him:"
+msgid "Atha kho kakudho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ añjanavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho kakudho devaputto bhagavantaṃ etadavoca: "
+msgstr "Then, late at night, the glorious god Kakudha, lighting up the entire Añjana Wood, went up to the Buddha, bowed, stood to one side, and said to him, "
 
-#. </p><p class="added">
 msgctxt "sn2.18:1.4"
-msgid "“nandasi, samaṇā”ti?"
-msgstr "“Do you delight, ascetic?”"
+msgid "“nandasi, samaṇā”ti? "
+msgstr "“Do you delight, ascetic?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn2.18:1.5"
-msgid "“Kiṃ laddhā, āvuso”ti?"
-msgstr "“What have I got, sir?”"
+msgid "“Kiṃ laddhā, āvuso”ti? "
+msgstr "“What have I gained, sir?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn2.18:1.6"
-msgid "“Tena hi, samaṇa, socasī”ti?"
-msgstr "“Well then, ascetic, do you sorrow?”"
+msgid "“Tena hi, samaṇa, socasī”ti? "
+msgstr "“Well then, ascetic, do you sorrow?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn2.18:1.7"
-msgid "“Kiṃ jīyittha, āvuso”ti?"
-msgstr "“What have I lost, sir?”"
+msgid "“Kiṃ jīyittha, āvuso”ti? "
+msgstr "“What have I lost, sir?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 #. VAR: na ca → neva (bj, s1-3, km)
 msgctxt "sn2.18:1.8"
-msgid "“Tena hi, samaṇa, neva nandasi na ca socasī”ti?"
-msgstr "“Well then, ascetic, do you neither delight nor sorrow?”"
+msgid "“Tena hi, samaṇa, neva nandasi na ca socasī”ti? "
+msgstr "“Well then, ascetic, do you neither delight nor sorrow?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn2.18:1.9"
-msgid "“Evamāvuso”ti."
-msgstr "“Yes, sir.”"
+msgid "“Evamāvuso”ti. "
+msgstr "“Yes, sir.” "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 #. VAR: anagho → anigho (si, s1-3, pts1-2)
 msgctxt "sn2.18:2.1"
-msgid "“Kacci tvaṃ anagho bhikkhu,"
-msgstr "“I hope you’re untroubled, mendicant,"
+msgid "“Kacci tvaṃ anagho bhikkhu, "
+msgstr "“I hope you’re untroubled, mendicant, "
 
 #. <br>
 #. VAR: nandī → nandi (bj, s1-3, km, pts2)
 msgctxt "sn2.18:2.2"
-msgid "kacci nandī na vijjati;"
-msgstr "I hope that delight isn’t found in you."
+msgid "kacci nandī na vijjati; "
+msgstr "I hope that delight isn’t found in you. "
 
 #. <br>
 msgctxt "sn2.18:2.3"
-msgid "Kacci taṃ ekamāsīnaṃ,"
-msgstr "I hope that discontent doesn’t"
+msgid "Kacci taṃ ekamāsīnaṃ, "
+msgstr "I hope that discontent doesn’t "
 
 #. <br>
 msgctxt "sn2.18:2.4"
-msgid "aratī nābhikīratī”ti."
-msgstr "overwhelm you as you sit alone.”"
+msgid "aratī nābhikīratī”ti. "
+msgstr "overwhelm you as you sit alone.” "
 
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.125"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: pts2ed1.125, sc3
 msgctxt "sn2.18:3.1"
-msgid "“Anagho ve ahaṃ yakkha,"
-msgstr "“I’m genuinely untroubled, spirit,"
+msgid "“Anagho ve ahaṃ yakkha, "
+msgstr "“I’m genuinely untroubled, spirit, "
 
 #. <br>
 msgctxt "sn2.18:3.2"
-msgid "atho nandī na vijjati;"
-msgstr "and no delight is found in me."
+msgid "atho nandī na vijjati; "
+msgstr "and no delight is found in me. "
 
 #. <br>
 msgctxt "sn2.18:3.3"
-msgid "Atho maṃ ekamāsīnaṃ,"
-msgstr "And also discontent doesn’t"
+msgid "Atho maṃ ekamāsīnaṃ, "
+msgstr "And also discontent doesn’t "
 
 #. <br>
 msgctxt "sn2.18:3.4"
-msgid "aratī nābhikīratī”ti."
-msgstr "overwhelm me as I sit alone.”"
+msgid "aratī nābhikīratī”ti. "
+msgstr "overwhelm me as I sit alone.” "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn2.18:4.1"
-msgid "“Kathaṃ tvaṃ anagho bhikkhu,"
-msgstr "“How are you untroubled, mendicant?"
+msgid "“Kathaṃ tvaṃ anagho bhikkhu, "
+msgstr "“How are you untroubled, mendicant? "
 
 #. <br>
 msgctxt "sn2.18:4.2"
-msgid "kathaṃ nandī na vijjati;"
-msgstr "How is delight not found in you?"
+msgid "kathaṃ nandī na vijjati; "
+msgstr "How is delight not found in you? "
 
 #. <br>
 msgctxt "sn2.18:4.3"
-msgid "Kathaṃ taṃ ekamāsīnaṃ,"
-msgstr "How does discontent not"
+msgid "Kathaṃ taṃ ekamāsīnaṃ, "
+msgstr "How does discontent not "
 
 #. <br>
 msgctxt "sn2.18:4.4"
-msgid "aratī nābhikīratī”ti."
-msgstr "overwhelm you as you sit alone?”"
+msgid "aratī nābhikīratī”ti. "
+msgstr "overwhelm you as you sit alone?” "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "sn2.18:5.1"
-msgid "“Aghajātassa ve nandī,"
-msgstr "“Delight is born from misery,"
+msgid "“Aghajātassa ve nandī, "
+msgstr "“Delight is born from misery, "
 
 #. <br>
 msgctxt "sn2.18:5.2"
-msgid "nandījātassa ve aghaṃ;"
-msgstr "misery is born from delight;"
+msgid "nandījātassa ve aghaṃ; "
+msgstr "misery is born from delight; "
 
 #. <br>
 msgctxt "sn2.18:5.3"
-msgid "Anandī anagho bhikkhu,"
-msgstr "sir, you should know me as"
+msgid "Anandī anagho bhikkhu, "
+msgstr "sir, you should know me as "
 
 #. <br>
 msgctxt "sn2.18:5.4"
-msgid "evaṃ jānāhi āvuso”ti."
-msgstr "a mendicant free of delight and misery.”"
+msgid "evaṃ jānāhi āvuso”ti. "
+msgstr "a mendicant free of delight and misery.” "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "sn2.18:6.1"
-msgid "“Cirassaṃ vata passāmi,"
-msgstr "“After a long time I see"
+msgid "“Cirassaṃ vata passāmi, "
+msgstr "“After a long time I see "
 
 #. <br>
 msgctxt "sn2.18:6.2"
-msgid "brāhmaṇaṃ parinibbutaṃ;"
-msgstr "a brahmin extinguished."
+msgid "brāhmaṇaṃ parinibbutaṃ; "
+msgstr "a brahmin extinguished. "
 
 #. <br>
 msgctxt "sn2.18:6.3"
-msgid "Anandiṃ anaghaṃ bhikkhuṃ,"
-msgstr "A mendicant free of delight and misery,"
+msgid "Anandiṃ anaghaṃ bhikkhuṃ, "
+msgstr "A mendicant free of delight and misery, "
 
 #. <br>
 msgctxt "sn2.18:6.4"
-msgid "tiṇṇaṃ loke visattikan”ti."
+msgid "tiṇṇaṃ loke visattikan”ti. "
 msgstr "he has crossed over clinging to the world.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

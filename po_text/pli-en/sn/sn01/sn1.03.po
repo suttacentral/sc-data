@@ -2,70 +2,73 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn1.3"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn1.3"><article><div class="hgroup"><p class="division">
 msgctxt "sn1.3:0.1"
-msgid "Saṃyutta Nikāya 1"
-msgstr "Linked Discourses 1"
+msgid "Saṃyutta Nikāya 1 "
+msgstr "Linked Discourses 1 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn1.3:0.2"
-msgid "1. Naḷavagga"
-msgstr "1. A Reed"
+msgid "1. Naḷavagga "
+msgstr "1. A Reed "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 3. Upanīyasutta → upanīyatisuttaṃ (bj, pts2) | upaneyyasuttaṃ (s1-3) | upaneyyaṃ (pts1)
 msgctxt "sn1.3:0.3"
-msgid "3. Upanīyasutta"
-msgstr "3. Led On"
+msgid "3. Upanīyasutta "
+msgstr "3. Led On "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn1.3:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p>
 msgctxt "sn1.3:1.2"
-msgid "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:"
-msgstr "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+msgid "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi: "
+msgstr "Standing to one side, that deity recited this verse in the Buddha’s presence: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 msgctxt "sn1.3:2.1"
-msgid "“Upanīyati jīvitamappamāyu,"
-msgstr "“This life, so very short, is led onward;"
+msgid "“Upanīyati jīvitamappamāyu, "
+msgstr "“This life, so very short, is led onward; "
 
 #. <br>
 msgctxt "sn1.3:2.2"
-msgid "Jarūpanītassa na santi tāṇā;"
-msgstr "one led on to old age has no shelter."
+msgid "Jarūpanītassa na santi tāṇā; "
+msgstr "one led on to old age has no shelter. "
 
 #. <br>
 msgctxt "sn1.3:2.3"
-msgid "Etaṃ bhayaṃ maraṇe pekkhamāno,"
-msgstr "Seeing this peril in death,"
+msgid "Etaṃ bhayaṃ maraṇe pekkhamāno, "
+msgstr "Seeing this peril in death, "
 
 #. <br>
 msgctxt "sn1.3:2.4"
-msgid "Puññāni kayirātha sukhāvahānī”ti."
-msgstr "do good deeds that bring you to joy.”"
+msgid "Puññāni kayirātha sukhāvahānī”ti. "
+msgstr "do good deeds that bring you to joy.” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn1.3:3.1"
-msgid "“Upanīyati jīvitamappamāyu,"
-msgstr "“This life, so very short, is led onward;"
+msgid "“Upanīyati jīvitamappamāyu, "
+msgstr "“This life, so very short, is led onward; "
 
 #. <br>
 msgctxt "sn1.3:3.2"
-msgid "Jarūpanītassa na santi tāṇā;"
-msgstr "one led on to old age has no shelter."
+msgid "Jarūpanītassa na santi tāṇā; "
+msgstr "one led on to old age has no shelter. "
 
 #. <br>
 msgctxt "sn1.3:3.3"
-msgid "Etaṃ bhayaṃ maraṇe pekkhamāno,"
-msgstr "Seeing this peril in death,"
+msgid "Etaṃ bhayaṃ maraṇe pekkhamāno, "
+msgstr "Seeing this peril in death, "
 
 #. <br>
 msgctxt "sn1.3:3.4"
-msgid "Lokāmisaṃ pajahe santipekkho”ti."
+msgid "Lokāmisaṃ pajahe santipekkho”ti. "
 msgstr "a seeker of peace would drop the world’s bait.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

@@ -2,99 +2,98 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn10.2"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn10.2"><article><div class="hgroup"><p class="division">
 msgctxt "sn10.2:0.1"
-msgid "Saṃyutta Nikāya 10"
-msgstr "Linked Discourses 10"
+msgid "Saṃyutta Nikāya 10 "
+msgstr "Linked Discourses 10 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn10.2:0.2"
-msgid "1. Indakavagga"
-msgstr "1. With Indaka"
+msgid "1. Indakavagga "
+msgstr "1. With Indaka "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 2. Sakkanāmasutta → sakkasuttaṃ (bj, s1-3, pts1)
 msgctxt "sn10.2:0.3"
-msgid "2. Sakkanāmasutta"
-msgstr "2. With a Spirit Named Sakka"
+msgid "2. Sakkanāmasutta "
+msgstr "2. With a Spirit Named Sakka "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn10.2:1.1"
-msgid "Ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate."
-msgstr "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain."
+msgid "Ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. "
+msgstr "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. "
 
-# BB doesn’t comment on the name. A variant in the title says just Sakka, and he is addressed as Sakka by the Buddha. Perhaps he is called “named sakka” to differentiate him from THE Sakka.
+#. HTML: </p><p>
+# NOTE: BB doesn’t comment on the name. A variant in the title says just Sakka, and he is addressed as Sakka by the Buddha. Perhaps he is called “named sakka” to differentiate him from THE Sakka.
 msgctxt "sn10.2:1.2"
-msgid "Atha kho sakkanāmako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:"
-msgstr "Then a spirit named Sakka went up to the Buddha, and addressed him in verse:"
+msgid "Atha kho sakkanāmako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi: "
+msgstr "Then a spirit named Sakka went up to the Buddha, and addressed him in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
-#. <a class="verse-num-sc" id="verse-num-sc805"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2, verse-num-sc805
 msgctxt "sn10.2:2.1"
-msgid "“Sabbaganthappahīnassa,"
-msgstr "“You’ve given up all ties,"
+msgid "“Sabbaganthappahīnassa, "
+msgstr "“You’ve given up all ties, "
 
 #. <br>
 msgctxt "sn10.2:2.2"
-msgid "vippamuttassa te sato;"
-msgstr "and are fully freed."
+msgid "vippamuttassa te sato; "
+msgstr "and are fully freed. "
 
 #. <br>
 msgctxt "sn10.2:2.3"
-msgid "Samaṇassa na taṃ sādhu,"
-msgstr "It’s not a good idea for you, ascetic,"
+msgid "Samaṇassa na taṃ sādhu, "
+msgstr "It’s not a good idea for you, ascetic, "
 
 #. <br>
 #. VAR: yadaññamanusāsasī”ti → yadaññamanusāsatīti (bj, s1-3, km, pts1-2)
 msgctxt "sn10.2:2.4"
-msgid "yadaññamanusāsasī”ti."
-msgstr "to be instructing others.”"
+msgid "yadaññamanusāsasī”ti. "
+msgstr "to be instructing others.” "
 
-# https://discourse.suttacentral.net/t/teaching-from-compassion-and-attachment/3619
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
-#. <a class="verse-num-sc" id="verse-num-sc806"></a>
+# NOTE: https://discourse.suttacentral.net/t/teaching-from-compassion-and-attachment/3619
+#. HTML: </p><p>
+#. REF: sc3, verse-num-sc806
 msgctxt "sn10.2:3.1"
-msgid "“Yena kenaci vaṇṇena,"
-msgstr "“No matter what the apparent reason"
+msgid "“Yena kenaci vaṇṇena, "
+msgstr "“No matter what the apparent reason "
 
 #. <br>
 msgctxt "sn10.2:3.2"
-msgid "saṃvāso sakka jāyati;"
-msgstr "why people are together, Sakka,"
+msgid "saṃvāso sakka jāyati; "
+msgstr "why people are together, Sakka, "
 
 #. <br>
 msgctxt "sn10.2:3.3"
-msgid "Na taṃ arahati sappañño,"
-msgstr "it’s unworthy for a wise person"
+msgid "Na taṃ arahati sappañño, "
+msgstr "it’s unworthy for a wise person "
 
 #. <br>
 msgctxt "sn10.2:3.4"
-msgid "manasā anukampituṃ."
-msgstr "to not think of the other with compassion."
+msgid "manasā anukampituṃ. "
+msgstr "to not think of the other with compassion. "
 
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.445"></a>
-#. <a class="sc" id="sc4"></a>
-#. <a class="verse-num-sc" id="verse-num-sc807"></a>
+#. HTML: </p><p>
+#. REF: pts2ed1.445, sc4, verse-num-sc807
 msgctxt "sn10.2:4.1"
-msgid "Manasā ce pasannena,"
-msgstr "If you instruct others"
+msgid "Manasā ce pasannena, "
+msgstr "If you instruct others "
 
 #. <br>
 msgctxt "sn10.2:4.2"
-msgid "yadaññamanusāsati;"
-msgstr "with a mind clear and confident,"
+msgid "yadaññamanusāsati; "
+msgstr "with a mind clear and confident, "
 
 #. <br>
 msgctxt "sn10.2:4.3"
-msgid "Na tena hoti saṃyutto,"
-msgstr "your compassion and empathy"
+msgid "Na tena hoti saṃyutto, "
+msgstr "your compassion and empathy "
 
 #. <br>
 #. VAR: yānukampā → sānukampā (bj, pts1-2)
 msgctxt "sn10.2:4.4"
-msgid "yānukampā anuddayā”ti."
+msgid "yānukampā anuddayā”ti. "
 msgstr "don’t create attachments.”"
+
+#. HTML: </p></article></section></body></html>

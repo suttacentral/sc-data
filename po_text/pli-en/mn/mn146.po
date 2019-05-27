@@ -2,1539 +2,1514 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="mn146"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="mn146"><article><div class="hgroup"><p class="division">
 msgctxt "mn146:0.1"
-msgid "Majjhima Nikāya 146"
-msgstr "Middle Discourses 146"
+msgid "Majjhima Nikāya 146 "
+msgstr "Middle Discourses 146 "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "mn146:0.2"
-msgid "Nandakovādasutta"
-msgstr "Advice from Nandaka"
+msgid "Nandakovādasutta "
+msgstr "Advice from Nandaka "
 
-#. </h1></div><p>
-#. <a class="nya" id="nya1"></a>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: nya1, sc1
 msgctxt "mn146:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "mn146:1.2"
-msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
-msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
+msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
-#. <a class="nya" id="nya2"></a>
+#. HTML: </p><p>
+#. REF: nya2
 msgctxt "mn146:2.1"
-msgid "Atha kho mahāpajāpatigotamī pañcamattehi bhikkhunisatehi saddhiṃ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho mahāpajāpatigotamī bhagavantaṃ etadavoca:"
-msgstr "Then Mahāpajāpatī Gotamī together with around five hundred nuns approached the Buddha, bowed, stood to one side, and said to him:"
+msgid "Atha kho mahāpajāpatigotamī pañcamattehi bhikkhunisatehi saddhiṃ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho mahāpajāpatigotamī bhagavantaṃ etadavoca: "
+msgstr "Then Mahāpajāpatī Gotamī together with around five hundred nuns approached the Buddha, bowed, stood to one side, and said to him, "
 
-#. </p><p class="added">
 msgctxt "mn146:2.2"
-msgid "“ovadatu, bhante, bhagavā bhikkhuniyo;"
-msgstr "“Sir, may the Buddha please advise"
+msgid "“ovadatu, bhante, bhagavā bhikkhuniyo; "
+msgstr "“Sir, may the Buddha please advise "
 
 msgctxt "mn146:2.3"
-msgid "anusāsatu, bhante, bhagavā bhikkhuniyo;"
-msgstr "and instruct the nuns."
+msgid "anusāsatu, bhante, bhagavā bhikkhuniyo; "
+msgstr "and instruct the nuns. "
 
 #. VAR: dhammiṃ kathan”ti → dhammikathanti (s1-3, km, pts1, mr)
 msgctxt "mn146:2.4"
-msgid "karotu, bhante, bhagavā bhikkhunīnaṃ dhammiṃ kathan”ti."
-msgstr "Please give the nuns a Dhamma talk.”"
+msgid "karotu, bhante, bhagavā bhikkhunīnaṃ dhammiṃ kathan”ti. "
+msgstr "Please give the nuns a Dhamma talk.” "
 
-#. </p><p>
-#. <a class="nya" id="nya3"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: nya3, sc2
 msgctxt "mn146:3.1"
-msgid "Tena kho pana samayena therā bhikkhū bhikkhuniyo ovadanti pariyāyena."
-msgstr "Now at that time the senior monks were taking turns to advise the nuns."
+msgid "Tena kho pana samayena therā bhikkhū bhikkhuniyo ovadanti pariyāyena. "
+msgstr "Now at that time the senior monks were taking turns to advise the nuns. "
 
 msgctxt "mn146:3.2"
-msgid "Āyasmā nandako na icchati bhikkhuniyo ovadituṃ pariyāyena."
-msgstr "But Venerable Nandaka didn’t want to take his turn."
+msgid "Āyasmā nandako na icchati bhikkhuniyo ovadituṃ pariyāyena. "
+msgstr "But Venerable Nandaka didn’t want to take his turn. "
 
+#. HTML: </p><p>
 msgctxt "mn146:3.3"
-msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi:"
-msgstr "Then the Buddha said to Venerable Ānanda:"
+msgid "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi: "
+msgstr "Then the Buddha said to Venerable Ānanda, "
 
 msgctxt "mn146:3.4"
-msgid "“kassa nu kho, ānanda, ajja pariyāyo bhikkhuniyo ovadituṃ pariyāyenā”ti?"
-msgstr "“Ānanda, whose turn is it to advise the nuns today?”"
+msgid "“kassa nu kho, ānanda, ajja pariyāyo bhikkhuniyo ovadituṃ pariyāyenā”ti? "
+msgstr "“Ānanda, whose turn is it to advise the nuns today?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 #. VAR: Sabbeheva, bhante, kato → nandakassa bhante (bj, pts1)
 msgctxt "mn146:3.5"
-msgid "“Sabbeheva, bhante, kato pariyāyo bhikkhuniyo ovadituṃ pariyāyena."
-msgstr "“It’s Nandaka’s turn, sir,"
+msgid "“Sabbeheva, bhante, kato pariyāyo bhikkhuniyo ovadituṃ pariyāyena. "
+msgstr "“It’s Nandaka’s turn, sir, "
 
 msgctxt "mn146:3.6"
-msgid "Ayaṃ, bhante, āyasmā nandako na icchati bhikkhuniyo ovadituṃ pariyāyenā”ti."
-msgstr "but he doesn’t want to do it.”"
+msgid "Ayaṃ, bhante, āyasmā nandako na icchati bhikkhuniyo ovadituṃ pariyāyenā”ti. "
+msgstr "but he doesn’t want to do it.” "
 
-#. </p><p>
-#. <a class="nya" id="nya4"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.271"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: nya4, pts-vp-pli3.271, sc3
 msgctxt "mn146:4.1"
-msgid "Atha kho bhagavā āyasmantaṃ nandakaṃ āmantesi:"
-msgstr "Then the Buddha said to Nandaka:"
+msgid "Atha kho bhagavā āyasmantaṃ nandakaṃ āmantesi: "
+msgstr "Then the Buddha said to Nandaka, "
 
-#. </p><p class="added">
 msgctxt "mn146:4.2"
-msgid "“ovada, nandaka, bhikkhuniyo;"
-msgstr "“Nandaka, please advise"
+msgid "“ovada, nandaka, bhikkhuniyo; "
+msgstr "“Nandaka, please advise "
 
 msgctxt "mn146:4.3"
-msgid "anusāsa, nandaka, bhikkhuniyo;"
-msgstr "and instruct the nuns."
+msgid "anusāsa, nandaka, bhikkhuniyo; "
+msgstr "and instruct the nuns. "
 
 msgctxt "mn146:4.4"
-msgid "karohi tvaṃ, brāhmaṇa, bhikkhunīnaṃ dhammiṃ kathan”ti."
-msgstr "Please, brahmin, give the nuns a Dhamma talk.”"
+msgid "karohi tvaṃ, brāhmaṇa, bhikkhunīnaṃ dhammiṃ kathan”ti. "
+msgstr "Please, brahmin, give the nuns a Dhamma talk.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:4.5"
-msgid "“Evaṃ, bhante”ti kho āyasmā nandako bhagavato paṭissutvā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi."
-msgstr "“Yes, sir,” replied Nandaka. Then, in the morning, he robed up and, taking his bowl and robe, entered Sāvatthī for alms."
+msgid "“Evaṃ, bhante”ti kho āyasmā nandako bhagavato paṭissutvā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. "
+msgstr "“Yes, sir,” replied Nandaka. Then, in the morning, he robed up and, taking his bowl and robe, entered Sāvatthī for alms. "
 
-# The Royal monastery is also full of nuns at SN 55.11.
+# NOTE: The Royal monastery is also full of nuns at SN 55.11.
 msgctxt "mn146:4.6"
-msgid "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto attadutiyo yena rājakārāmo tenupasaṅkami."
-msgstr "He wandered for alms in Sāvatthī. After the meal, on his return from alms-round, he went to the Royal Monastery with a companion."
+msgid "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto attadutiyo yena rājakārāmo tenupasaṅkami. "
+msgstr "He wandered for alms in Sāvatthī. After the meal, on his return from alms-round, he went to the Royal Monastery with a companion. "
 
 msgctxt "mn146:4.7"
-msgid "Addasaṃsu kho tā bhikkhuniyo āyasmantaṃ nandakaṃ dūratova āgacchantaṃ."
-msgstr "Those nuns saw him coming off in the distance,"
+msgid "Addasaṃsu kho tā bhikkhuniyo āyasmantaṃ nandakaṃ dūratova āgacchantaṃ. "
+msgstr "Those nuns saw him coming off in the distance, "
 
 msgctxt "mn146:4.8"
-msgid "Disvāna āsanaṃ paññāpesuṃ, udakañca pādānaṃ upaṭṭhapesuṃ."
-msgstr "so they spread out a seat and placed water for washing the feet."
+msgid "Disvāna āsanaṃ paññāpesuṃ, udakañca pādānaṃ upaṭṭhapesuṃ. "
+msgstr "so they spread out a seat and placed water for washing the feet. "
 
 msgctxt "mn146:4.9"
-msgid "Nisīdi kho āyasmā nandako paññatte āsane."
-msgstr "Nandaka sat down on the seat spread out,"
+msgid "Nisīdi kho āyasmā nandako paññatte āsane. "
+msgstr "Nandaka sat down on the seat spread out, "
 
 msgctxt "mn146:4.10"
-msgid "Nisajja pāde pakkhālesi."
-msgstr "and washed his feet."
+msgid "Nisajja pāde pakkhālesi. "
+msgstr "and washed his feet. "
 
 msgctxt "mn146:4.11"
-msgid "Tāpi kho bhikkhuniyo āyasmantaṃ nandakaṃ abhivādetvā ekamantaṃ nisīdiṃsu."
-msgstr "Those nuns bowed, and sat down to one side."
+msgid "Tāpi kho bhikkhuniyo āyasmantaṃ nandakaṃ abhivādetvā ekamantaṃ nisīdiṃsu. "
+msgstr "Those nuns bowed, and sat down to one side. "
 
+#. HTML: </p><p>
 msgctxt "mn146:4.12"
-msgid "Ekamantaṃ nisinnā kho tā bhikkhuniyo āyasmā nandako etadavoca:"
-msgstr "Nandaka said to them:"
+msgid "Ekamantaṃ nisinnā kho tā bhikkhuniyo āyasmā nandako etadavoca: "
+msgstr "Nandaka said to them, "
 
-#. </p><p class="added">
-#. <a class="nya" id="nya5"></a>
+#. REF: nya5
 msgctxt "mn146:5.1"
-msgid "“paṭipucchakathā kho, bhaginiyo, bhavissati."
-msgstr "“Sisters, this talk shall be in the form of questions."
+msgid "“paṭipucchakathā kho, bhaginiyo, bhavissati. "
+msgstr "“Sisters, this talk shall be in the form of questions. "
 
 msgctxt "mn146:5.2"
-msgid "Tattha ājānantīhi: ‘ājānāmā’ tissa vacanīyaṃ, na ājānantīhi: ‘na ājānāmā’ tissa vacanīyaṃ."
-msgstr "When you understand, say so. When you don’t understand, say so."
+msgid "Tattha ājānantīhi: ‘ājānāmā’ tissa vacanīyaṃ, na ājānantīhi: ‘na ājānāmā’ tissa vacanīyaṃ. "
+msgstr "When you understand, say so. When you don’t understand, say so. "
 
 msgctxt "mn146:5.3"
-msgid "Yassā vā panassa kaṅkhā vā vimati vā ahameva tattha paṭipucchitabbo:"
-msgstr "If anyone has a doubt or uncertainty, ask me about it:"
+msgid "Yassā vā panassa kaṅkhā vā vimati vā ahameva tattha paṭipucchitabbo: "
+msgstr "If anyone has a doubt or uncertainty, ask me about it: "
 
 msgctxt "mn146:5.4"
-msgid "‘idaṃ, bhante, kathaṃ; imassa kvattho’”ti?"
-msgstr "‘Why, sir, does it say this? What does that mean?’”"
+msgid "‘idaṃ, bhante, kathaṃ; imassa kvattho’”ti? "
+msgstr "‘Why, sir, does it say this? What does that mean?’” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 #. VAR: abhiraddhā → abhinandāma (s1-3, km)
 msgctxt "mn146:5.5"
-msgid "“Ettakenapi mayaṃ, bhante, ayyassa nandakassa attamanā abhiraddhā yaṃ no ayyo nandako pavāretī”ti."
-msgstr "“We’re already delighted and satisfied with Venerable Nandaka, since he invites like this.”"
+msgid "“Ettakenapi mayaṃ, bhante, ayyassa nandakassa attamanā abhiraddhā yaṃ no ayyo nandako pavāretī”ti. "
+msgstr "“We’re already delighted and satisfied with Venerable Nandaka, since he invites us like this.” "
 
-#. </p><p>
-#. <a class="nya" id="nya6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.272"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: nya6, pts-vp-pli3.272, sc4
 msgctxt "mn146:6.1"
 msgid "“Taṃ kiṃ maññatha, bhaginiyo, "
 msgstr "“What do you think, sisters? "
 
 msgctxt "mn146:6.2"
-msgid "cakkhu niccaṃ vā aniccaṃ vā”ti?"
-msgstr "Is the eye permanent or impermanent?”"
+msgid "cakkhu niccaṃ vā aniccaṃ vā”ti? "
+msgstr "Is the eye permanent or impermanent?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.3"
-msgid "“Aniccaṃ, bhante”."
-msgstr "“Impermanent, sir.”"
+msgid "“Aniccaṃ, bhante”. "
+msgstr "“Impermanent, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.4"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr "“But if it’s impermanent, is it suffering or happiness?”"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr "“But if it’s impermanent, is it suffering or happiness?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.5"
-msgid "“Dukkhaṃ, bhante”."
-msgstr "“Suffering, sir.”"
+msgid "“Dukkhaṃ, bhante”. "
+msgstr "“Suffering, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.6"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus:"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: "
 
 msgctxt "mn146:6.7"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr "‘This is mine, I am this, this is my self’?”"
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr "‘This is mine, I am this, this is my self’?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.8"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir.”"
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.9"
 msgid "“Taṃ kiṃ maññatha, bhaginiyo, "
 msgstr "“What do you think, sisters? "
 
 msgctxt "mn146:6.10"
-msgid "sotaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "Is the ear …"
+msgid "sotaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "Is the ear … "
 
 msgctxt "mn146:6.11"
-msgid "“Aniccaṃ, bhante … pe …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … pe … "
+msgstr " "
 
 msgctxt "mn146:6.12"
-msgid "ghānaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "nose …"
+msgid "ghānaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "nose … "
 
 msgctxt "mn146:6.13"
-msgid "“Aniccaṃ, bhante” …"
-msgstr ""
+msgid "“Aniccaṃ, bhante” … "
+msgstr " "
 
 msgctxt "mn146:6.14"
-msgid "“jivhā niccā vā aniccā vā”ti?"
-msgstr "tongue …"
+msgid "“jivhā niccā vā aniccā vā”ti? "
+msgstr "tongue … "
 
 msgctxt "mn146:6.15"
-msgid "“Aniccā, bhante” …"
-msgstr ""
+msgid "“Aniccā, bhante” … "
+msgstr " "
 
 msgctxt "mn146:6.16"
-msgid "“kāyo nicco vā anicco vā”ti?"
-msgstr "body …"
+msgid "“kāyo nicco vā anicco vā”ti? "
+msgstr "body … "
 
 msgctxt "mn146:6.17"
-msgid "“Anicco, bhante” …"
-msgstr ""
+msgid "“Anicco, bhante” … "
+msgstr " "
 
 msgctxt "mn146:6.18"
-msgid "“mano nicco vā anicco vā”ti?"
-msgstr "mind permanent or impermanent?”"
+msgid "“mano nicco vā anicco vā”ti? "
+msgstr "mind permanent or impermanent?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.19"
-msgid "“Anicco, bhante”."
-msgstr "“Impermanent, sir.”"
+msgid "“Anicco, bhante”. "
+msgstr "“Impermanent, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.20"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr "“But if it’s impermanent, is it suffering or happiness?”"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr "“But if it’s impermanent, is it suffering or happiness?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.21"
-msgid "“Dukkhaṃ, bhante”."
-msgstr "“Suffering, sir.”"
+msgid "“Dukkhaṃ, bhante”. "
+msgstr "“Suffering, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.22"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus:"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: "
 
 msgctxt "mn146:6.23"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr "‘This is mine, I am this, this is my self’?”"
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr "‘This is mine, I am this, this is my self’?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.24"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir."
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir. "
 
 msgctxt "mn146:6.25"
-msgid "“Taṃ kissa hetu”?"
-msgstr "Why is that?"
+msgid "“Taṃ kissa hetu”? "
+msgstr "Why is that? "
 
 msgctxt "mn146:6.26"
-msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ:"
-msgstr "Because we have already truly seen this with right wisdom:"
+msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ: "
+msgstr "Because we have already truly seen this with right wisdom: "
 
 msgctxt "mn146:6.27"
-msgid "‘itipime cha ajjhattikā āyatanā aniccā’”ti."
-msgstr "‘So these six interior sense fields are impermanent.’”"
+msgid "‘itipime cha ajjhattikā āyatanā aniccā’”ti. "
+msgstr "‘So these six interior sense fields are impermanent.’” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:6.28"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr "“Good, good, sisters!"
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr "“Good, good, sisters! "
 
 msgctxt "mn146:6.29"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr "That’s how it is for a noble disciple who truly sees with right wisdom."
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr "That’s how it is for a noble disciple who truly sees with right wisdom. "
 
-#. </p><p>
-#. <a class="nya" id="nya7"></a>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: nya7, sc5
 msgctxt "mn146:7.1"
 msgid "Taṃ kiṃ maññatha, bhaginiyo, "
 msgstr "What do you think, sisters? "
 
 msgctxt "mn146:7.2"
-msgid "rūpā niccā vā aniccā vā”ti?"
-msgstr "Are sights permanent or impermanent?”"
+msgid "rūpā niccā vā aniccā vā”ti? "
+msgstr "Are sights permanent or impermanent?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.3"
-msgid "“Aniccā, bhante”."
-msgstr "“Impermanent, sir.”"
+msgid "“Aniccā, bhante”. "
+msgstr "“Impermanent, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.4"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr "“But if they're impermanent, are they suffering or happiness?”"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr "“But if they're impermanent, are they suffering or happiness?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.5"
-msgid "“Dukkhaṃ, bhante”."
-msgstr "“Suffering, sir.”"
+msgid "“Dukkhaṃ, bhante”. "
+msgstr "“Suffering, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.6"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr "“But if they're impermanent, suffering, and perishable, are they fit to be regarded thus:"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr "“But if they're impermanent, suffering, and perishable, are they fit to be regarded thus: "
 
 msgctxt "mn146:7.7"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr "‘This is mine, I am this, this is my self’?”"
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr "‘This is mine, I am this, this is my self’?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.8"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir.”"
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.9"
 msgid "“Taṃ kiṃ maññatha, bhaginiyo, "
 msgstr "“What do you think, sisters? "
 
 msgctxt "mn146:7.10"
-msgid "saddā niccā vā aniccā vā”ti?"
-msgstr "Are sounds …"
+msgid "saddā niccā vā aniccā vā”ti? "
+msgstr "Are sounds … "
 
 msgctxt "mn146:7.11"
-msgid "“Aniccā, bhante … pe …"
-msgstr ""
+msgid "“Aniccā, bhante … pe … "
+msgstr " "
 
 msgctxt "mn146:7.12"
-msgid "gandhā niccā vā aniccā vā”ti?"
-msgstr "smells …"
+msgid "gandhā niccā vā aniccā vā”ti? "
+msgstr "smells … "
 
 msgctxt "mn146:7.13"
-msgid "“Aniccā, bhante” …"
-msgstr ""
+msgid "“Aniccā, bhante” … "
+msgstr " "
 
 msgctxt "mn146:7.14"
-msgid "“rasā niccā vā aniccā vā”ti?"
-msgstr "tastes …"
+msgid "“rasā niccā vā aniccā vā”ti? "
+msgstr "tastes … "
 
 msgctxt "mn146:7.15"
-msgid "“Aniccā, bhante” …"
-msgstr ""
+msgid "“Aniccā, bhante” … "
+msgstr " "
 
 msgctxt "mn146:7.16"
-msgid "“phoṭṭhabbā niccā vā aniccā vā”ti?"
-msgstr "touches …"
+msgid "“phoṭṭhabbā niccā vā aniccā vā”ti? "
+msgstr "touches … "
 
 msgctxt "mn146:7.17"
-msgid "“Aniccā, bhante” …"
-msgstr ""
+msgid "“Aniccā, bhante” … "
+msgstr " "
 
 msgctxt "mn146:7.18"
-msgid "“dhammā niccā vā aniccā vā”ti?"
-msgstr "thoughts permanent or impermanent?”"
+msgid "“dhammā niccā vā aniccā vā”ti? "
+msgstr "thoughts permanent or impermanent?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.19"
-msgid "“Aniccā, bhante”."
-msgstr "“Impermanent, sir.”"
+msgid "“Aniccā, bhante”. "
+msgstr "“Impermanent, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.20"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr "“But if they're impermanent, are they suffering or happiness?”"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr "“But if they're impermanent, are they suffering or happiness?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.21"
-msgid "“Dukkhaṃ, bhante”."
-msgstr "“Suffering, sir.”"
+msgid "“Dukkhaṃ, bhante”. "
+msgstr "“Suffering, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.22"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr "“But if they're impermanent, suffering, and perishable, are they fit to be regarded thus:"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr "“But if they're impermanent, suffering, and perishable, are they fit to be regarded thus: "
 
 msgctxt "mn146:7.23"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr "‘This is mine, I am this, this is my self’?”"
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr "‘This is mine, I am this, this is my self’?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.24"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir."
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir. "
 
 msgctxt "mn146:7.25"
-msgid "“Taṃ kissa hetu”?"
-msgstr "Why is that?"
+msgid "“Taṃ kissa hetu”? "
+msgstr "Why is that? "
 
 msgctxt "mn146:7.26"
-msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ:"
-msgstr "Because we have already truly seen this with right wisdom:"
+msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ: "
+msgstr "Because we have already truly seen this with right wisdom: "
 
 msgctxt "mn146:7.27"
-msgid "‘itipime cha bāhirā āyatanā aniccā’”ti."
-msgstr "‘So these six exterior sense fields are impermanent.’”"
+msgid "‘itipime cha bāhirā āyatanā aniccā’”ti. "
+msgstr "‘So these six exterior sense fields are impermanent.’” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:7.28"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr "“Good, good, sisters!"
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr "“Good, good, sisters! "
 
 msgctxt "mn146:7.29"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr "That’s how it is for a noble disciple who truly sees with right wisdom."
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr "That’s how it is for a noble disciple who truly sees with right wisdom. "
 
-#. </p><p>
-#. <a class="nya" id="nya8"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.273"></a>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: nya8, pts-vp-pli3.273, sc6
 msgctxt "mn146:8.1"
 msgid "Taṃ kiṃ maññatha, bhaginiyo, "
 msgstr "What do you think, sisters? "
 
 msgctxt "mn146:8.2"
-msgid "cakkhuviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "Is eye consciousness …"
+msgid "cakkhuviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "Is eye consciousness … "
 
 msgctxt "mn146:8.3"
-msgid "“Aniccaṃ, bhante”."
-msgstr ""
+msgid "“Aniccaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:8.4"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:8.5"
-msgid "“Dukkhaṃ, bhante”."
-msgstr ""
+msgid "“Dukkhaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:8.6"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr " "
 
 msgctxt "mn146:8.7"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr ""
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr " "
 
 msgctxt "mn146:8.8"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:8.9"
-msgid "“Taṃ kiṃ maññatha, bhaginiyo, sotaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "ear consciousness …"
+msgid "“Taṃ kiṃ maññatha, bhaginiyo, sotaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "ear consciousness … "
 
 msgctxt "mn146:8.10"
-msgid "“Aniccaṃ, bhante … pe …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … pe … "
+msgstr " "
 
 msgctxt "mn146:8.11"
-msgid "ghānaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "nose consciousness …"
+msgid "ghānaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "nose consciousness … "
 
 msgctxt "mn146:8.12"
-msgid "“Aniccaṃ, bhante” …"
-msgstr ""
+msgid "“Aniccaṃ, bhante” … "
+msgstr " "
 
 msgctxt "mn146:8.13"
-msgid "“jivhāviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "tongue consciousness …"
+msgid "“jivhāviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "tongue consciousness … "
 
 msgctxt "mn146:8.14"
-msgid "“Aniccaṃ, bhante” …"
-msgstr ""
+msgid "“Aniccaṃ, bhante” … "
+msgstr " "
 
 msgctxt "mn146:8.15"
-msgid "“kāyaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "body consciousness …"
+msgid "“kāyaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "body consciousness … "
 
 msgctxt "mn146:8.16"
-msgid "“Aniccaṃ, bhante” …"
-msgstr ""
+msgid "“Aniccaṃ, bhante” … "
+msgstr " "
 
 msgctxt "mn146:8.17"
-msgid "“manoviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr "mind consciousness permanent or impermanent?”"
+msgid "“manoviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr "mind consciousness permanent or impermanent?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:8.18"
-msgid "“Aniccaṃ, bhante”."
-msgstr "“Impermanent, sir.”"
+msgid "“Aniccaṃ, bhante”. "
+msgstr "“Impermanent, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:8.19"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vāti”?"
-msgstr "“But if it’s impermanent, is it suffering or happiness?”"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vāti”? "
+msgstr "“But if it’s impermanent, is it suffering or happiness?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:8.20"
-msgid "“Dukkhaṃ, bhante”."
-msgstr "“Suffering, sir.”"
+msgid "“Dukkhaṃ, bhante”. "
+msgstr "“Suffering, sir.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:8.21"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus:"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: "
 
 msgctxt "mn146:8.22"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr "‘This is mine, I am this, this is my self’?”"
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr "‘This is mine, I am this, this is my self’?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:8.23"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir."
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir. "
 
 msgctxt "mn146:8.24"
-msgid "“Taṃ kissa hetu”?"
-msgstr "Why is that?"
+msgid "“Taṃ kissa hetu”? "
+msgstr "Why is that? "
 
 msgctxt "mn146:8.25"
-msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ:"
-msgstr "Because we have already truly seen this with right wisdom:"
+msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ: "
+msgstr "Because we have already truly seen this with right wisdom: "
 
 msgctxt "mn146:8.26"
-msgid "‘itipime cha viññāṇakāyā aniccā’”ti."
-msgstr "‘So these six classes of consciousness are impermanent.’”"
+msgid "‘itipime cha viññāṇakāyā aniccā’”ti. "
+msgstr "‘So these six classes of consciousness are impermanent.’” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:8.27"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr "“Good, good, sisters!"
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr "“Good, good, sisters! "
 
 msgctxt "mn146:8.28"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr "That’s how it is for a noble disciple who truly sees with right wisdom."
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr "That’s how it is for a noble disciple who truly sees with right wisdom. "
 
-#. </p><p>
-#. <a class="nya" id="nya9"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.274"></a>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: nya9, pts-vp-pli3.274, sc7
 msgctxt "mn146:9.1"
-msgid "Seyyathāpi, bhaginiyo, telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā, ābhāpi aniccā vipariṇāmadhammā."
-msgstr "Suppose there was an oil lamp burning. The oil, wick, flame, and light were all impermanent and perishable."
+msgid "Seyyathāpi, bhaginiyo, telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā, ābhāpi aniccā vipariṇāmadhammā. "
+msgstr "Suppose there was an oil lamp burning. The oil, wick, flame, and light were all impermanent and perishable. "
 
 msgctxt "mn146:9.2"
-msgid "Yo nu kho, bhaginiyo, evaṃ vadeyya:"
-msgstr "Now, suppose someone was to say:"
+msgid "Yo nu kho, bhaginiyo, evaṃ vadeyya: "
+msgstr "Now, suppose someone was to say: "
 
 msgctxt "mn146:9.3"
-msgid "‘amussa telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā;"
-msgstr "‘While this oil lamp is burning, the oil, the wick, and the flame are all impermanent and perishable."
+msgid "‘amussa telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā; "
+msgstr "‘While this oil lamp is burning, the oil, the wick, and the flame are all impermanent and perishable. "
 
 msgctxt "mn146:9.4"
-msgid "yā ca khvāssa ābhā sā niccā dhuvā sassatā avipariṇāmadhammā’ti;"
-msgstr "But the light is permanent, lasting, eternal, and imperishable.’"
+msgid "yā ca khvāssa ābhā sā niccā dhuvā sassatā avipariṇāmadhammā’ti; "
+msgstr "But the light is permanent, lasting, eternal, and imperishable.’ "
 
 msgctxt "mn146:9.5"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr "Would they be speaking rightly?”"
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr "Would they be speaking rightly?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:9.6"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir."
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir. "
 
 msgctxt "mn146:9.7"
-msgid "“Taṃ kissa hetu”?"
-msgstr "Why is that?"
+msgid "“Taṃ kissa hetu”? "
+msgstr "Why is that? "
 
 msgctxt "mn146:9.8"
-msgid "“Amussa hi, bhante, telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā;"
-msgstr "Because that oil lamp’s oil, wick, and flame are all impermanent and perishable,"
+msgid "“Amussa hi, bhante, telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā; "
+msgstr "Because that oil lamp’s oil, wick, and flame are all impermanent and perishable, "
 
 msgctxt "mn146:9.9"
-msgid "pagevassa ābhā aniccā vipariṇāmadhammā”ti."
-msgstr "let alone the light.”"
+msgid "pagevassa ābhā aniccā vipariṇāmadhammā”ti. "
+msgstr "let alone the light.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:9.10"
-msgid "“Evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya:"
-msgstr "“In the same way, suppose someone was to say:"
+msgid "“Evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya: "
+msgstr "“In the same way, suppose someone was to say: "
 
 #. VAR: ajjhattikā āyatanā aniccā → aniccā vipari­ṇāma­dhammā (?)
 msgctxt "mn146:9.11"
-msgid "‘cha khome ajjhattikā āyatanā aniccā;"
-msgstr "‘These six interior sense fields are impermanent."
+msgid "‘cha khome ajjhattikā āyatanā aniccā; "
+msgstr "‘These six interior sense fields are impermanent. "
 
 msgctxt "mn146:9.12"
-msgid "yañca kho cha ajjhattike āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti;"
-msgstr "But the feeling—whether pleasant, painful, or neutral—that I experience due to these six interior sense fields is permanent, lasting, eternal, and imperishable.’"
+msgid "yañca kho cha ajjhattike āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti; "
+msgstr "But the feeling—whether pleasant, painful, or neutral—that I experience due to these six interior sense fields is permanent, lasting, eternal, and imperishable.’ "
 
 msgctxt "mn146:9.13"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr "Would they be speaking rightly?”"
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr "Would they be speaking rightly?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:9.14"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir."
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir. "
 
 msgctxt "mn146:9.15"
-msgid "“Taṃ kissa hetu”?"
-msgstr "Why is that?"
+msgid "“Taṃ kissa hetu”? "
+msgstr "Why is that? "
 
 msgctxt "mn146:9.16"
-msgid "“Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti."
-msgstr "Because each kind of feeling arises dependent on the corresponding condition."
+msgid "“Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti. "
+msgstr "Because each kind of feeling arises dependent on the corresponding condition. "
 
 msgctxt "mn146:9.17"
-msgid "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti."
-msgstr "When the corresponding condition ceases, the appropriate feeling ceases.”"
+msgid "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti. "
+msgstr "When the corresponding condition ceases, the appropriate feeling ceases.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:9.18"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr "“Good, good, sisters!"
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr "“Good, good, sisters! "
 
 msgctxt "mn146:9.19"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr "That’s how it is for a noble disciple who truly sees with right wisdom."
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr "That’s how it is for a noble disciple who truly sees with right wisdom. "
 
-#. </p><p>
-#. <a class="nya" id="nya10"></a>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </p><p>
+#. REF: nya10, sc8
 msgctxt "mn146:10.1"
-msgid "Seyyathāpi, bhaginiyo, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ, chāyāpi aniccā vipariṇāmadhammā."
-msgstr "Suppose there was a large tree standing with heartwood. The roots, trunk, branches and leaves, and shadow were all impermanent and perishable."
+msgid "Seyyathāpi, bhaginiyo, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ, chāyāpi aniccā vipariṇāmadhammā. "
+msgstr "Suppose there was a large tree standing with heartwood. The roots, trunk, branches and leaves, and shadow were all impermanent and perishable. "
 
 msgctxt "mn146:10.2"
-msgid "Yo nu kho, bhaginiyo, evaṃ vadeyya:"
-msgstr "Now, suppose someone was to say:"
+msgid "Yo nu kho, bhaginiyo, evaṃ vadeyya: "
+msgstr "Now, suppose someone was to say: "
 
 msgctxt "mn146:10.3"
-msgid "‘amussa mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ, yā ca khvāssa chāyā sā niccā dhuvā sassatā avipariṇāmadhammā’ti;"
-msgstr "‘There’s a large tree standing with heartwood. The roots, trunk, and branches and leaves are all impermanent and perishable. But the shadow is permanent, lasting, eternal, and imperishable.’"
+msgid "‘amussa mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ, yā ca khvāssa chāyā sā niccā dhuvā sassatā avipariṇāmadhammā’ti; "
+msgstr "‘There’s a large tree standing with heartwood. The roots, trunk, and branches and leaves are all impermanent and perishable. But the shadow is permanent, lasting, eternal, and imperishable.’ "
 
 msgctxt "mn146:10.4"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr "Would they be speaking rightly?”"
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr "Would they be speaking rightly?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:10.5"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir."
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir. "
 
 msgctxt "mn146:10.6"
-msgid "“Taṃ kissa hetu”?"
-msgstr "Why is that?"
+msgid "“Taṃ kissa hetu”? "
+msgstr "Why is that? "
 
 msgctxt "mn146:10.7"
-msgid "“Amussa hi, bhante, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ;"
-msgstr "Because that large tree’s roots, trunk, and branches and leaves are all impermanent and perishable,"
+msgid "“Amussa hi, bhante, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ; "
+msgstr "Because that large tree’s roots, trunk, and branches and leaves are all impermanent and perishable, "
 
 msgctxt "mn146:10.8"
-msgid "pagevassa chāyā aniccā vipariṇāmadhammā”ti."
-msgstr "let alone the shadow.”"
+msgid "pagevassa chāyā aniccā vipariṇāmadhammā”ti. "
+msgstr "let alone the shadow.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:10.9"
-msgid "“Evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya:"
-msgstr "“In the same way, suppose someone was to say:"
+msgid "“Evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya: "
+msgstr "“In the same way, suppose someone was to say: "
 
 #. VAR: cha khome bāhirā āyatanā aniccā → aniccā vipari­ṇāma­dhammā (bj, pts1)
 msgctxt "mn146:10.10"
-msgid "‘cha khome bāhirā āyatanā aniccā."
-msgstr "‘These six exterior sense fields are impermanent."
+msgid "‘cha khome bāhirā āyatanā aniccā. "
+msgstr "‘These six exterior sense fields are impermanent. "
 
 msgctxt "mn146:10.11"
-msgid "Yañca kho cha bāhire āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti;"
-msgstr "But the feeling—whether pleasant, painful, or neutral—that I experience due to these six exterior sense fields is permanent, lasting, eternal, and imperishable.’"
+msgid "Yañca kho cha bāhire āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti; "
+msgstr "But the feeling—whether pleasant, painful, or neutral—that I experience due to these six exterior sense fields is permanent, lasting, eternal, and imperishable.’ "
 
 msgctxt "mn146:10.12"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr "Would they be speaking rightly?”"
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr "Would they be speaking rightly?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:10.13"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir."
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir. "
 
 msgctxt "mn146:10.14"
-msgid "“Taṃ kissa hetu”?"
-msgstr "Why is that?"
+msgid "“Taṃ kissa hetu”? "
+msgstr "Why is that? "
 
 msgctxt "mn146:10.15"
-msgid "“Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti."
-msgstr "Because each kind of feeling arises dependent on the corresponding condition."
+msgid "“Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti. "
+msgstr "Because each kind of feeling arises dependent on the corresponding condition. "
 
 msgctxt "mn146:10.16"
-msgid "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti."
-msgstr "When the corresponding condition ceases, the appropriate feeling ceases.”"
+msgid "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti. "
+msgstr "When the corresponding condition ceases, the appropriate feeling ceases.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:10.17"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr "“Good, good, sisters!"
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr "“Good, good, sisters! "
 
 msgctxt "mn146:10.18"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr "That’s how it is for a noble disciple who truly sees with right wisdom."
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr "That’s how it is for a noble disciple who truly sees with right wisdom. "
 
-#. </p><p>
-#. <a class="nya" id="nya11"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.275"></a>
-#. <a class="sc" id="sc9"></a>
+#. HTML: </p><p>
+#. REF: nya11, pts-vp-pli3.275, sc9
 msgctxt "mn146:11.1"
-msgid "Seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ."
-msgstr "Suppose a deft butcher or their apprentice was to kill a cow and carve it with a sharp meat cleaver. Without damaging the flesh inside or the hide outside,"
+msgid "Seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ. "
+msgstr "Suppose a deft butcher or their apprentice was to kill a cow and carve it with a sharp meat cleaver. Without damaging the flesh inside or the hide outside, "
 
-# Antara is “connecting”, not “inner”.
+# NOTE: Antara is “connecting”, not “inner”.
 #. VAR: vilimaṃsaṃ → vilīmaṃsaṃ (bj) | cilīmaṃ (pts1) | vilimaṃ (mr)
 msgctxt "mn146:11.2"
-msgid "Yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya."
-msgstr "they’d cut, carve, sever, and slice through the connecting tendons, sinews, and ligaments,"
+msgid "Yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya. "
+msgstr "they’d cut, carve, sever, and slice through the connecting tendons, sinews, and ligaments, "
 
 msgctxt "mn146:11.3"
-msgid "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā evaṃ vadeyya:"
-msgstr "and then peel off the outer hide. Then they’d wrap that cow up in that very same hide and say:"
+msgid "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā evaṃ vadeyya: "
+msgstr "and then peel off the outer hide. Then they’d wrap that cow up in that very same hide and say: "
 
 msgctxt "mn146:11.4"
-msgid "‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti;"
-msgstr "‘This cow is joined to its hide just like before.’"
+msgid "‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti; "
+msgstr "‘This cow is joined to its hide just like before.’ "
 
 msgctxt "mn146:11.5"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr "Would they be speaking rightly?”"
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr "Would they be speaking rightly?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:11.6"
-msgid "“No hetaṃ, bhante”."
-msgstr "“No, sir."
+msgid "“No hetaṃ, bhante”. "
+msgstr "“No, sir. "
 
 msgctxt "mn146:11.7"
-msgid "“Taṃ kissa hetu”?"
-msgstr "Why is that?"
+msgid "“Taṃ kissa hetu”? "
+msgstr "Why is that? "
 
 msgctxt "mn146:11.8"
-msgid "“Amu hi, bhante, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ."
-msgstr ""
+msgid "“Amu hi, bhante, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ. "
+msgstr " "
 
 msgctxt "mn146:11.9"
-msgid "Yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya."
-msgstr ""
+msgid "Yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya. "
+msgstr " "
 
 msgctxt "mn146:11.10"
-msgid "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā kiñcāpi so evaṃ vadeyya:"
-msgstr "Because even if they wrap that cow up in that very same hide and say:"
+msgid "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā kiñcāpi so evaṃ vadeyya: "
+msgstr "Because even if they wrap that cow up in that very same hide and say: "
 
 msgctxt "mn146:11.11"
-msgid "‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti;"
-msgstr "‘This cow is joined to its hide just like before,’"
+msgid "‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti; "
+msgstr "‘This cow is joined to its hide just like before,’ "
 
 msgctxt "mn146:11.12"
-msgid "atha kho sā gāvī visaṃyuttā teneva cammenā”ti."
-msgstr "still that cow is not joined to that hide.”"
+msgid "atha kho sā gāvī visaṃyuttā teneva cammenā”ti. "
+msgstr "still that cow is not joined to that hide.” "
 
-#. </p><p>
-#. <a class="nya" id="nya12"></a>
-#. <a class="sc" id="sc10"></a>
+#. HTML: </p><p>
+#. REF: nya12, sc10
 msgctxt "mn146:12.1"
-msgid "“Upamā kho me ayaṃ, bhaginiyo, katā atthassa viññāpanāya."
-msgstr "“I’ve made up this simile to make a point."
+msgid "“Upamā kho me ayaṃ, bhaginiyo, katā atthassa viññāpanāya. "
+msgstr "“I’ve made up this simile to make a point. "
 
 msgctxt "mn146:12.2"
-msgid "Ayamevettha attho;"
-msgstr "And this is the point."
+msgid "Ayamevettha attho; "
+msgstr "And this is the point. "
 
 msgctxt "mn146:12.3"
-msgid "‘antarā maṃsakāyo’ti kho, bhaginiyo, channetaṃ ajjhattikānaṃ āyatanānaṃ adhivacanaṃ;"
-msgstr "‘The inner flesh’ is a term for the six interior sense fields."
+msgid "‘antarā maṃsakāyo’ti kho, bhaginiyo, channetaṃ ajjhattikānaṃ āyatanānaṃ adhivacanaṃ; "
+msgstr "‘The inner flesh’ is a term for the six interior sense fields. "
 
 msgctxt "mn146:12.4"
-msgid "‘bāhiro cammakāyo’ti kho, bhaginiyo, channetaṃ bāhirānaṃ āyatanānaṃ adhivacanaṃ;"
-msgstr "‘The outer hide’ is a term for the six exterior sense fields."
+msgid "‘bāhiro cammakāyo’ti kho, bhaginiyo, channetaṃ bāhirānaṃ āyatanānaṃ adhivacanaṃ; "
+msgstr "‘The outer hide’ is a term for the six exterior sense fields. "
 
 msgctxt "mn146:12.5"
-msgid "‘antarā vilimaṃsaṃ, antarā nhāru, antarā bandhanan’ti kho, bhaginiyo, nandīrāgassetaṃ adhivacanaṃ;"
-msgstr "‘The connecting tendons, sinews, and ligaments’ is a term for desire with relishing."
+msgid "‘antarā vilimaṃsaṃ, antarā nhāru, antarā bandhanan’ti kho, bhaginiyo, nandīrāgassetaṃ adhivacanaṃ; "
+msgstr "‘The connecting tendons, sinews, and ligaments’ is a term for desire with relishing. "
 
 msgctxt "mn146:12.6"
-msgid "‘tiṇhaṃ govikantanan’ti kho, bhaginiyo, ariyāyetaṃ paññāya adhivacanaṃ;"
-msgstr "‘A sharp meat cleaver’ is a term for noble wisdom."
+msgid "‘tiṇhaṃ govikantanan’ti kho, bhaginiyo, ariyāyetaṃ paññāya adhivacanaṃ; "
+msgstr "‘A sharp meat cleaver’ is a term for noble wisdom. "
 
 msgctxt "mn146:12.7"
-msgid "yāyaṃ ariyā paññā antarā kilesaṃ antarā saṃyojanaṃ antarā bandhanaṃ sañchindati saṅkantati sampakantati samparikantati."
-msgstr "And it is that noble wisdom which cuts, carves, severs, and slices the connecting corruption, fetter, and bond."
+msgid "yāyaṃ ariyā paññā antarā kilesaṃ antarā saṃyojanaṃ antarā bandhanaṃ sañchindati saṅkantati sampakantati samparikantati. "
+msgstr "And it is that noble wisdom which cuts, carves, severs, and slices the connecting corruption, fetter, and bond. "
 
-#. </p><p>
-#. <a class="nya" id="nya13"></a>
-#. <a class="sc" id="sc11"></a>
+#. HTML: </p><p>
+#. REF: nya13, sc11
 msgctxt "mn146:13.1"
-msgid "Satta kho panime, bhaginiyo, bojjhaṅgā, yesaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati."
-msgstr "Sisters, by developing and cultivating these seven awakening factors, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements."
+msgid "Satta kho panime, bhaginiyo, bojjhaṅgā, yesaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. "
+msgstr "Sisters, by developing and cultivating these seven awakening factors, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. "
 
 msgctxt "mn146:13.2"
-msgid "Katame satta?"
-msgstr "What seven?"
+msgid "Katame satta? "
+msgstr "What seven? "
 
 msgctxt "mn146:13.3"
-msgid "Idha, bhaginiyo, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, dhammavicayasambojjhaṅgaṃ bhāveti … pe … vīriyasambojjhaṅgaṃ bhāveti … pītisambojjhaṅgaṃ bhāveti … passaddhisambojjhaṅgaṃ bhāveti … samādhisambojjhaṅgaṃ bhāveti … upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ."
-msgstr "It’s when a mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go."
+msgid "Idha, bhaginiyo, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, dhammavicayasambojjhaṅgaṃ bhāveti … pe … vīriyasambojjhaṅgaṃ bhāveti … pītisambojjhaṅgaṃ bhāveti … passaddhisambojjhaṅgaṃ bhāveti … samādhisambojjhaṅgaṃ bhāveti … upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. "
+msgstr "It’s when a mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. "
 
 msgctxt "mn146:13.4"
-msgid "Ime kho, bhaginiyo, satta bojjhaṅgā, yesaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti."
-msgstr "It is by developing and cultivating these seven awakening factors that a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.”"
+msgid "Ime kho, bhaginiyo, satta bojjhaṅgā, yesaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti. "
+msgstr "It is by developing and cultivating these seven awakening factors that a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.” "
 
-#. </p><p>
-#. <a class="nya" id="nya14"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.276"></a>
-#. <a class="sc" id="sc12"></a>
+#. HTML: </p><p>
+#. REF: nya14, pts-vp-pli3.276, sc12
 msgctxt "mn146:14.1"
-msgid "Atha kho āyasmā nandako tā bhikkhuniyo iminā ovādena ovaditvā uyyojesi:"
-msgstr "Then after giving this advice to the nuns, Nandaka dismissed them, saying:"
+msgid "Atha kho āyasmā nandako tā bhikkhuniyo iminā ovādena ovaditvā uyyojesi: "
+msgstr "Then after giving this advice to the nuns, Nandaka dismissed them, saying, "
 
-#. </p><p class="added">
 msgctxt "mn146:14.2"
-msgid "“gacchatha, bhaginiyo; kālo”ti."
-msgstr "“Go, sisters, it is time.”"
+msgid "“gacchatha, bhaginiyo; kālo”ti. "
+msgstr "“Go, sisters, it is time.” "
 
+#. HTML: </p><p>
 msgctxt "mn146:14.3"
-msgid "Atha kho tā bhikkhuniyo āyasmato nandakassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṃ nandakaṃ abhivādetvā padakkhiṇaṃ katvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho tā bhikkhuniyo bhagavā etadavoca:"
-msgstr "And then those nuns approved and agreed with what Nandaka had said. They got up from their seat, bowed, and respectfully circled him, keeping him on their right. Then they went up to the Buddha, bowed, and stood to one side. The Buddha said to them:"
+msgid "Atha kho tā bhikkhuniyo āyasmato nandakassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṃ nandakaṃ abhivādetvā padakkhiṇaṃ katvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho tā bhikkhuniyo bhagavā etadavoca: "
+msgstr "And then those nuns approved and agreed with what Nandaka had said. They got up from their seat, bowed, and respectfully circled him, keeping him on their right. Then they went up to the Buddha, bowed, and stood to one side. The Buddha said to them, "
 
-#. </p><p class="added">
 msgctxt "mn146:14.4"
-msgid "“gacchatha, bhikkhuniyo; kālo”ti."
-msgstr "“Go, nuns, it is time.”"
+msgid "“gacchatha, bhikkhuniyo; kālo”ti. "
+msgstr "“Go, nuns, it is time.” "
 
+#. HTML: </p><p>
 msgctxt "mn146:14.5"
-msgid "Atha kho tā bhikkhuniyo bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkamiṃsu."
-msgstr "Then those nuns bowed to the Buddha respectfully circled him, keeping him on their right, before departing."
+msgid "Atha kho tā bhikkhuniyo bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkamiṃsu. "
+msgstr "Then those nuns bowed to the Buddha respectfully circled him, keeping him on their right, before departing. "
 
-#. <a class="nya" id="nya15"></a>
+#. HTML: </p><p>
+#. REF: nya15
 msgctxt "mn146:15.1"
-msgid "Atha kho bhagavā acirapakkantīsu tāsu bhikkhunīsu bhikkhū āmantesi:"
-msgstr "Soon after those nuns had left, the Buddha addressed the mendicants:"
+msgid "Atha kho bhagavā acirapakkantīsu tāsu bhikkhunīsu bhikkhū āmantesi: "
+msgstr "Soon after those nuns had left, the Buddha addressed the mendicants: "
 
 msgctxt "mn146:15.2"
-msgid "“seyyathāpi, bhikkhave, tadahuposathe cātuddase na hoti bahuno janassa kaṅkhā vā vimati vā:"
-msgstr "“Suppose, mendicants, it was the sabbath of the fourteenth day. You wouldn’t get lots of people"
+msgid "“seyyathāpi, bhikkhave, tadahuposathe cātuddase na hoti bahuno janassa kaṅkhā vā vimati vā: "
+msgstr "“Suppose, mendicants, it was the sabbath of the fourteenth day. You wouldn’t get lots of people "
 
 msgctxt "mn146:15.3"
-msgid "‘ūno nu kho cando, puṇṇo nu kho cando’ti, atha kho ūno cando tveva hoti."
-msgstr "wondering whether the moon is full or not, since it is obviously not full."
+msgid "‘ūno nu kho cando, puṇṇo nu kho cando’ti, atha kho ūno cando tveva hoti. "
+msgstr "wondering whether the moon is full or not, since it is obviously not full. "
 
+#. HTML: </p><p>
 msgctxt "mn146:15.4"
-msgid "Evameva kho, bhikkhave, tā bhikkhuniyo nandakassa dhammadesanāya attamanā honti no ca kho paripuṇṇasaṅkappā”ti."
-msgstr "In the same way, those nuns were uplifted by Nandaka’s Dhamma teaching, but they still haven’t found what they’re looking for.”"
+msgid "Evameva kho, bhikkhave, tā bhikkhuniyo nandakassa dhammadesanāya attamanā honti no ca kho paripuṇṇasaṅkappā”ti. "
+msgstr "In the same way, those nuns were uplifted by Nandaka’s Dhamma teaching, but they still haven’t found what they’re looking for.” "
 
-#. </p><p>
-#. <a class="nya" id="nya16"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.277"></a>
-#. <a class="sc" id="sc13"></a>
+#. HTML: </p><p>
+#. REF: nya16, pts-vp-pli3.277, sc13
 msgctxt "mn146:16.1"
-msgid "Atha kho bhagavā āyasmantaṃ nandakaṃ āmantesi:"
-msgstr "Then the Buddha said to Nandaka:"
+msgid "Atha kho bhagavā āyasmantaṃ nandakaṃ āmantesi: "
+msgstr "Then the Buddha said to Nandaka, "
 
-#. </p><p class="added">
 msgctxt "mn146:16.2"
-msgid "“tena hi tvaṃ, nandaka, svepi tā bhikkhuniyo tenevovādena ovadeyyāsī”ti."
-msgstr "“Well, then, Nandaka, tomorrow you should give those nuns the same advice again.”"
+msgid "“tena hi tvaṃ, nandaka, svepi tā bhikkhuniyo tenevovādena ovadeyyāsī”ti. "
+msgstr "“Well then, Nandaka, tomorrow you should give those nuns the same advice again.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "mn146:16.3"
-msgid "“Evaṃ, bhante”ti kho āyasmā nandako bhagavato paccassosi."
-msgstr "“Yes, sir,” Nandaka replied."
+msgid "“Evaṃ, bhante”ti kho āyasmā nandako bhagavato paccassosi. "
+msgstr "“Yes, sir,” Nandaka replied. "
 
 msgctxt "mn146:16.4"
-msgid "Atha kho āyasmā nandako tassā rattiyā accayena pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi."
-msgstr "And the next day he went to those nuns, and all unfolded just like the previous day."
+msgid "Atha kho āyasmā nandako tassā rattiyā accayena pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. "
+msgstr "And the next day he went to those nuns, and all unfolded just like the previous day. "
 
 msgctxt "mn146:16.5"
-msgid "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto attadutiyo yena rājakārāmo tenupasaṅkami."
-msgstr ""
+msgid "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto attadutiyo yena rājakārāmo tenupasaṅkami. "
+msgstr " "
 
 msgctxt "mn146:16.6"
-msgid "Addasaṃsu kho tā bhikkhuniyo āyasmantaṃ nandakaṃ dūratova āgacchantaṃ."
-msgstr ""
+msgid "Addasaṃsu kho tā bhikkhuniyo āyasmantaṃ nandakaṃ dūratova āgacchantaṃ. "
+msgstr " "
 
 msgctxt "mn146:16.7"
-msgid "Disvāna āsanaṃ paññāpesuṃ, udakañca pādānaṃ upaṭṭhapesuṃ."
-msgstr ""
+msgid "Disvāna āsanaṃ paññāpesuṃ, udakañca pādānaṃ upaṭṭhapesuṃ. "
+msgstr " "
 
 msgctxt "mn146:16.8"
-msgid "Nisīdi kho āyasmā nandako paññatte āsane."
-msgstr ""
+msgid "Nisīdi kho āyasmā nandako paññatte āsane. "
+msgstr " "
 
 msgctxt "mn146:16.9"
-msgid "Nisajja pāde pakkhālesi."
-msgstr ""
+msgid "Nisajja pāde pakkhālesi. "
+msgstr " "
 
 msgctxt "mn146:16.10"
-msgid "Tāpi kho bhikkhuniyo āyasmantaṃ nandakaṃ abhivādetvā ekamantaṃ nisīdiṃsu."
-msgstr ""
+msgid "Tāpi kho bhikkhuniyo āyasmantaṃ nandakaṃ abhivādetvā ekamantaṃ nisīdiṃsu. "
+msgstr " "
 
 msgctxt "mn146:16.11"
-msgid "Ekamantaṃ nisinnā kho tā bhikkhuniyo āyasmā nandako etadavoca:"
-msgstr ""
+msgid "Ekamantaṃ nisinnā kho tā bhikkhuniyo āyasmā nandako etadavoca: "
+msgstr " "
 
 msgctxt "mn146:16.12"
-msgid "“paṭipucchakathā kho, bhaginiyo, bhavissati."
-msgstr ""
+msgid "“paṭipucchakathā kho, bhaginiyo, bhavissati. "
+msgstr " "
 
 msgctxt "mn146:16.13"
-msgid "Tattha ājānantīhi ‘ājānāmā’ tissa vacanīyaṃ, na ājānantīhi ‘na ājānāmā’ tissa vacanīyaṃ."
-msgstr ""
+msgid "Tattha ājānantīhi ‘ājānāmā’ tissa vacanīyaṃ, na ājānantīhi ‘na ājānāmā’ tissa vacanīyaṃ. "
+msgstr " "
 
 msgctxt "mn146:16.14"
-msgid "Yassā vā panassa kaṅkhā vā vimati vā, ahameva tattha paṭipucchitabbo:"
-msgstr ""
+msgid "Yassā vā panassa kaṅkhā vā vimati vā, ahameva tattha paṭipucchitabbo: "
+msgstr " "
 
 msgctxt "mn146:16.15"
-msgid "‘idaṃ, bhante, kathaṃ; imassa kvattho’”ti."
-msgstr ""
+msgid "‘idaṃ, bhante, kathaṃ; imassa kvattho’”ti. "
+msgstr " "
 
 msgctxt "mn146:16.16"
-msgid "“Ettakenapi mayaṃ, bhante, ayyassa nandakassa attamanā abhiraddhā yaṃ no ayyo nandako pavāretī”ti."
-msgstr ""
+msgid "“Ettakenapi mayaṃ, bhante, ayyassa nandakassa attamanā abhiraddhā yaṃ no ayyo nandako pavāretī”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="nya" id="nya17-18"></a>
-#. <a class="sc" id="sc14"></a>
+#. HTML: </p><p>
+#. REF: nya17-18, sc14
 msgctxt "mn146:17-18.1"
-msgid "“Taṃ kiṃ maññatha, bhaginiyo, cakkhu niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "“Taṃ kiṃ maññatha, bhaginiyo, cakkhu niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:17-18.2"
-msgid "“Aniccaṃ, bhante”."
-msgstr ""
+msgid "“Aniccaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:17-18.3"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:17-18.4"
-msgid "“Dukkhaṃ, bhante”."
-msgstr ""
+msgid "“Dukkhaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:17-18.5"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr " "
 
 msgctxt "mn146:17-18.6"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr ""
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr " "
 
 msgctxt "mn146:17-18.7"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:17-18.8"
-msgid "“Taṃ kiṃ maññatha, bhaginiyo, sotaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "“Taṃ kiṃ maññatha, bhaginiyo, sotaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:17-18.9"
-msgid "“Aniccaṃ, bhante … pe …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … pe … "
+msgstr " "
 
 msgctxt "mn146:17-18.10"
-msgid "ghānaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "ghānaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:17-18.11"
-msgid "“Aniccaṃ, bhante …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … "
+msgstr " "
 
 msgctxt "mn146:17-18.12"
-msgid "jivhā …"
-msgstr ""
+msgid "jivhā … "
+msgstr " "
 
 msgctxt "mn146:17-18.13"
-msgid "kāyo …"
-msgstr ""
+msgid "kāyo … "
+msgstr " "
 
 msgctxt "mn146:17-18.14"
-msgid "mano nicco vā anicco vā”ti?"
-msgstr ""
+msgid "mano nicco vā anicco vā”ti? "
+msgstr " "
 
 msgctxt "mn146:17-18.15"
-msgid "“Anicco, bhante”."
-msgstr ""
+msgid "“Anicco, bhante”. "
+msgstr " "
 
 msgctxt "mn146:17-18.16"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:17-18.17"
-msgid "“Dukkhaṃ, bhante”."
-msgstr ""
+msgid "“Dukkhaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:17-18.18"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr " "
 
 msgctxt "mn146:17-18.19"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr ""
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr " "
 
 msgctxt "mn146:17-18.20"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:17-18.21"
-msgid "“Taṃ kissa hetu”?"
-msgstr ""
+msgid "“Taṃ kissa hetu”? "
+msgstr " "
 
 msgctxt "mn146:17-18.22"
-msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ:"
-msgstr ""
+msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ: "
+msgstr " "
 
 msgctxt "mn146:17-18.23"
-msgid "‘itipime cha ajjhattikā āyatanā aniccā’”ti."
-msgstr ""
+msgid "‘itipime cha ajjhattikā āyatanā aniccā’”ti. "
+msgstr " "
 
 msgctxt "mn146:17-18.24"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr ""
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr " "
 
 msgctxt "mn146:17-18.25"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr ""
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr " "
 
-#. </p><p>
-#. <a class="nya" id="nya19-20"></a>
-#. <a class="sc" id="sc15"></a>
+#. HTML: </p><p>
+#. REF: nya19-20, sc15
 msgctxt "mn146:19-20.1"
-msgid "Taṃ kiṃ maññatha, bhaginiyo, rūpā niccā vā aniccā vā”ti?"
-msgstr ""
+msgid "Taṃ kiṃ maññatha, bhaginiyo, rūpā niccā vā aniccā vā”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.2"
-msgid "“Aniccā, bhante”."
-msgstr ""
+msgid "“Aniccā, bhante”. "
+msgstr " "
 
 msgctxt "mn146:19-20.3"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.4"
-msgid "“Dukkhaṃ, bhante”."
-msgstr ""
+msgid "“Dukkhaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:19-20.5"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr " "
 
 msgctxt "mn146:19-20.6"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr ""
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.7"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:19-20.8"
-msgid "“Taṃ kiṃ maññatha, bhaginiyo, saddā niccā vā aniccā vā”ti?"
-msgstr ""
+msgid "“Taṃ kiṃ maññatha, bhaginiyo, saddā niccā vā aniccā vā”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.9"
-msgid "“Aniccā, bhante … pe …"
-msgstr ""
+msgid "“Aniccā, bhante … pe … "
+msgstr " "
 
 msgctxt "mn146:19-20.10"
-msgid "gandhā niccā vā aniccā vā”ti?"
-msgstr ""
+msgid "gandhā niccā vā aniccā vā”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.11"
-msgid "“Aniccā, bhante …"
-msgstr ""
+msgid "“Aniccā, bhante … "
+msgstr " "
 
 msgctxt "mn146:19-20.12"
-msgid "rasā niccā vā aniccā vā”ti?"
-msgstr ""
+msgid "rasā niccā vā aniccā vā”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.13"
-msgid "“Aniccā, bhante …"
-msgstr ""
+msgid "“Aniccā, bhante … "
+msgstr " "
 
 msgctxt "mn146:19-20.14"
-msgid "phoṭṭhabbā niccā vā aniccā vā”ti?"
-msgstr ""
+msgid "phoṭṭhabbā niccā vā aniccā vā”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.15"
-msgid "“Aniccā, bhante …"
-msgstr ""
+msgid "“Aniccā, bhante … "
+msgstr " "
 
 msgctxt "mn146:19-20.16"
-msgid "dhammā niccā vā aniccā vā”ti?"
-msgstr ""
+msgid "dhammā niccā vā aniccā vā”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.17"
-msgid "“Aniccā, bhante”."
-msgstr ""
+msgid "“Aniccā, bhante”. "
+msgstr " "
 
 msgctxt "mn146:19-20.18"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.19"
-msgid "“Dukkhaṃ, bhante”."
-msgstr ""
+msgid "“Dukkhaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:19-20.20"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr " "
 
 msgctxt "mn146:19-20.21"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr ""
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr " "
 
 msgctxt "mn146:19-20.22"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:19-20.23"
-msgid "“Taṃ kissa hetu”?"
-msgstr ""
+msgid "“Taṃ kissa hetu”? "
+msgstr " "
 
 msgctxt "mn146:19-20.24"
-msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ:"
-msgstr ""
+msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ: "
+msgstr " "
 
 msgctxt "mn146:19-20.25"
-msgid "‘itipime cha bāhirā āyatanā aniccā’”ti."
-msgstr ""
+msgid "‘itipime cha bāhirā āyatanā aniccā’”ti. "
+msgstr " "
 
 msgctxt "mn146:19-20.26"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr ""
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr " "
 
 msgctxt "mn146:19-20.27"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr ""
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr " "
 
-#. </p><p>
-#. <a class="nya" id="nya21"></a>
-#. <a class="sc" id="sc16"></a>
+#. HTML: </p><p>
+#. REF: nya21, sc16
 msgctxt "mn146:21.1"
-msgid "Taṃ kiṃ maññatha, bhaginiyo, cakkhuviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "Taṃ kiṃ maññatha, bhaginiyo, cakkhuviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:21.2"
-msgid "“Aniccaṃ, bhante … pe …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … pe … "
+msgstr " "
 
 msgctxt "mn146:21.3"
-msgid "sotaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "sotaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:21.4"
-msgid "“Aniccaṃ, bhante …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … "
+msgstr " "
 
 msgctxt "mn146:21.5"
-msgid "ghānaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "ghānaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:21.6"
-msgid "“Aniccaṃ, bhante …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … "
+msgstr " "
 
 msgctxt "mn146:21.7"
-msgid "jivhāviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "jivhāviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:21.8"
-msgid "“Aniccaṃ, bhante …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … "
+msgstr " "
 
 msgctxt "mn146:21.9"
-msgid "kāyaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "kāyaviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:21.10"
-msgid "“Aniccaṃ, bhante …"
-msgstr ""
+msgid "“Aniccaṃ, bhante … "
+msgstr " "
 
 msgctxt "mn146:21.11"
-msgid "manoviññāṇaṃ niccaṃ vā aniccaṃ vā”ti?"
-msgstr ""
+msgid "manoviññāṇaṃ niccaṃ vā aniccaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:21.12"
-msgid "“Aniccaṃ, bhante”."
-msgstr ""
+msgid "“Aniccaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:21.13"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? "
+msgstr " "
 
 msgctxt "mn146:21.14"
-msgid "“Dukkhaṃ, bhante”."
-msgstr ""
+msgid "“Dukkhaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:21.15"
-msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
-msgstr ""
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: "
+msgstr " "
 
 msgctxt "mn146:21.16"
-msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
-msgstr ""
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti? "
+msgstr " "
 
 msgctxt "mn146:21.17"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:21.18"
-msgid "“Taṃ kissa hetu”?"
-msgstr ""
+msgid "“Taṃ kissa hetu”? "
+msgstr " "
 
 msgctxt "mn146:21.19"
-msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ:"
-msgstr ""
+msgid "“Pubbeva no etaṃ, bhante, yathābhūtaṃ sammappaññāya sudiṭṭhaṃ: "
+msgstr " "
 
 msgctxt "mn146:21.20"
-msgid "‘itipime cha viññāṇakāyā aniccā’”ti."
-msgstr ""
+msgid "‘itipime cha viññāṇakāyā aniccā’”ti. "
+msgstr " "
 
 msgctxt "mn146:21.21"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr ""
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr " "
 
 msgctxt "mn146:21.22"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr ""
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr " "
 
-#. </p><p>
-#. <a class="nya" id="nya22"></a>
-#. <a class="sc" id="sc17"></a>
+#. HTML: </p><p>
+#. REF: nya22, sc17
 msgctxt "mn146:22.1"
-msgid "Seyyathāpi, bhaginiyo, telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā, ābhāpi aniccā vipariṇāmadhammā."
-msgstr ""
+msgid "Seyyathāpi, bhaginiyo, telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā, ābhāpi aniccā vipariṇāmadhammā. "
+msgstr " "
 
 msgctxt "mn146:22.2"
-msgid "Yo nu kho, bhaginiyo, evaṃ vadeyya:"
-msgstr ""
+msgid "Yo nu kho, bhaginiyo, evaṃ vadeyya: "
+msgstr " "
 
 msgctxt "mn146:22.3"
-msgid "‘amussa telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā;"
-msgstr ""
+msgid "‘amussa telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā; "
+msgstr " "
 
 msgctxt "mn146:22.4"
-msgid "yā ca khvāssa ābhā sā niccā dhuvā sassatā avipariṇāmadhammā’ti;"
-msgstr ""
+msgid "yā ca khvāssa ābhā sā niccā dhuvā sassatā avipariṇāmadhammā’ti; "
+msgstr " "
 
 msgctxt "mn146:22.5"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr ""
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr " "
 
 msgctxt "mn146:22.6"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:22.7"
-msgid "“Taṃ kissa hetu”?"
-msgstr ""
+msgid "“Taṃ kissa hetu”? "
+msgstr " "
 
 msgctxt "mn146:22.8"
-msgid "“Amussa hi, bhante, telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā;"
-msgstr ""
+msgid "“Amussa hi, bhante, telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā; "
+msgstr " "
 
 msgctxt "mn146:22.9"
-msgid "pagevassa ābhā aniccā vipariṇāmadhammā”ti."
-msgstr ""
+msgid "pagevassa ābhā aniccā vipariṇāmadhammā”ti. "
+msgstr " "
 
 msgctxt "mn146:22.10"
-msgid "“Evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya:"
-msgstr ""
+msgid "“Evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya: "
+msgstr " "
 
 msgctxt "mn146:22.11"
-msgid "‘cha khome ajjhattikā āyatanā aniccā."
-msgstr ""
+msgid "‘cha khome ajjhattikā āyatanā aniccā. "
+msgstr " "
 
 msgctxt "mn146:22.12"
-msgid "Yañca kho cha ajjhattike āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti;"
-msgstr ""
+msgid "Yañca kho cha ajjhattike āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti; "
+msgstr " "
 
 msgctxt "mn146:22.13"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr ""
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr " "
 
 msgctxt "mn146:22.14"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:22.15"
-msgid "“Taṃ kissa hetu”?"
-msgstr ""
+msgid "“Taṃ kissa hetu”? "
+msgstr " "
 
 msgctxt "mn146:22.16"
-msgid "“Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti."
-msgstr ""
+msgid "“Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti. "
+msgstr " "
 
 msgctxt "mn146:22.17"
-msgid "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti."
-msgstr ""
+msgid "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti. "
+msgstr " "
 
 msgctxt "mn146:22.18"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr ""
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr " "
 
 msgctxt "mn146:22.19"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr ""
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr " "
 
-#. </p><p>
-#. <a class="nya" id="nya23"></a>
-#. <a class="sc" id="sc18"></a>
+#. HTML: </p><p>
+#. REF: nya23, sc18
 msgctxt "mn146:23.1"
-msgid "Seyyathāpi, bhaginiyo, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ, chāyāpi aniccā vipariṇāmadhammā."
-msgstr ""
+msgid "Seyyathāpi, bhaginiyo, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ, chāyāpi aniccā vipariṇāmadhammā. "
+msgstr " "
 
 msgctxt "mn146:23.2"
-msgid "Yo nu kho, bhaginiyo, evaṃ vadeyya:"
-msgstr ""
+msgid "Yo nu kho, bhaginiyo, evaṃ vadeyya: "
+msgstr " "
 
 msgctxt "mn146:23.3"
-msgid "‘amussa mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ;"
-msgstr ""
+msgid "‘amussa mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ; "
+msgstr " "
 
 msgctxt "mn146:23.4"
-msgid "yā ca khvāssa chāyā sā niccā dhuvā sassatā avipariṇāmadhammā’ti;"
-msgstr ""
+msgid "yā ca khvāssa chāyā sā niccā dhuvā sassatā avipariṇāmadhammā’ti; "
+msgstr " "
 
 msgctxt "mn146:23.5"
-msgid "sammā nu kho so bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr ""
+msgid "sammā nu kho so bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr " "
 
 msgctxt "mn146:23.6"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:23.7"
-msgid "“Taṃ kissa hetu”?"
-msgstr ""
+msgid "“Taṃ kissa hetu”? "
+msgstr " "
 
 msgctxt "mn146:23.8"
-msgid "“Amussa hi, bhante, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ;"
-msgstr ""
+msgid "“Amussa hi, bhante, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ; "
+msgstr " "
 
 msgctxt "mn146:23.9"
-msgid "pagevassa chāyā aniccā vipariṇāmadhammā”ti."
-msgstr ""
+msgid "pagevassa chāyā aniccā vipariṇāmadhammā”ti. "
+msgstr " "
 
 msgctxt "mn146:23.10"
-msgid "“Evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya:"
-msgstr ""
+msgid "“Evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya: "
+msgstr " "
 
 msgctxt "mn146:23.11"
-msgid "‘cha khome bāhirā āyatanā aniccā."
-msgstr ""
+msgid "‘cha khome bāhirā āyatanā aniccā. "
+msgstr " "
 
 msgctxt "mn146:23.12"
-msgid "Yañca kho bāhire āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti;"
-msgstr ""
+msgid "Yañca kho bāhire āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti; "
+msgstr " "
 
 msgctxt "mn146:23.13"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr ""
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr " "
 
 msgctxt "mn146:23.14"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:23.15"
-msgid "“Taṃ kissa hetu”?"
-msgstr ""
+msgid "“Taṃ kissa hetu”? "
+msgstr " "
 
 msgctxt "mn146:23.16"
-msgid "“Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti."
-msgstr ""
+msgid "“Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti. "
+msgstr " "
 
 msgctxt "mn146:23.17"
-msgid "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti."
-msgstr ""
+msgid "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti. "
+msgstr " "
 
 msgctxt "mn146:23.18"
-msgid "“Sādhu sādhu, bhaginiyo."
-msgstr ""
+msgid "“Sādhu sādhu, bhaginiyo. "
+msgstr " "
 
 msgctxt "mn146:23.19"
-msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato."
-msgstr ""
+msgid "Evañhetaṃ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṃ sammappaññāya passato. "
+msgstr " "
 
-#. </p><p>
-#. <a class="nya" id="nya24"></a>
-#. <a class="sc" id="sc19"></a>
+#. HTML: </p><p>
+#. REF: nya24, sc19
 msgctxt "mn146:24.1"
-msgid "Seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ."
-msgstr ""
+msgid "Seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ. "
+msgstr " "
 
 msgctxt "mn146:24.2"
-msgid "Yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya."
-msgstr ""
+msgid "Yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya. "
+msgstr " "
 
 msgctxt "mn146:24.3"
-msgid "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā evaṃ vadeyya:"
-msgstr ""
+msgid "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā evaṃ vadeyya: "
+msgstr " "
 
 msgctxt "mn146:24.4"
-msgid "‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti;"
-msgstr ""
+msgid "‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti; "
+msgstr " "
 
 msgctxt "mn146:24.5"
-msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
-msgstr ""
+msgid "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti? "
+msgstr " "
 
 msgctxt "mn146:24.6"
-msgid "“No hetaṃ, bhante”."
-msgstr ""
+msgid "“No hetaṃ, bhante”. "
+msgstr " "
 
 msgctxt "mn146:24.7"
-msgid "“Taṃ kissa hetu”?"
-msgstr ""
+msgid "“Taṃ kissa hetu”? "
+msgstr " "
 
 msgctxt "mn146:24.8"
-msgid "“Amu hi, bhante, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ."
-msgstr ""
+msgid "“Amu hi, bhante, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ. "
+msgstr " "
 
 msgctxt "mn146:24.9"
-msgid "Yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya."
-msgstr ""
+msgid "Yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya. "
+msgstr " "
 
 msgctxt "mn146:24.10"
-msgid "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā kiñcāpi so evaṃ vadeyya:"
-msgstr ""
+msgid "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā kiñcāpi so evaṃ vadeyya: "
+msgstr " "
 
 msgctxt "mn146:24.11"
-msgid "‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti;"
-msgstr ""
+msgid "‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti; "
+msgstr " "
 
 msgctxt "mn146:24.12"
-msgid "atha kho sā gāvī visaṃyuttā teneva cammenā”ti."
-msgstr ""
+msgid "atha kho sā gāvī visaṃyuttā teneva cammenā”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="nya" id="nya25"></a>
-#. <a class="sc" id="sc20"></a>
+#. HTML: </p><p>
+#. REF: nya25, sc20
 msgctxt "mn146:25.1"
-msgid "“Upamā kho me ayaṃ, bhaginiyo, katā atthassa viññāpanāya ayamevettha attho."
-msgstr ""
+msgid "“Upamā kho me ayaṃ, bhaginiyo, katā atthassa viññāpanāya ayamevettha attho. "
+msgstr " "
 
 msgctxt "mn146:25.2"
-msgid "‘Antarā maṃsakāyo’ti kho, bhaginiyo, channetaṃ ajjhattikānaṃ āyatanānaṃ adhivacanaṃ;"
-msgstr ""
+msgid "‘Antarā maṃsakāyo’ti kho, bhaginiyo, channetaṃ ajjhattikānaṃ āyatanānaṃ adhivacanaṃ; "
+msgstr " "
 
 msgctxt "mn146:25.3"
-msgid "‘bāhiro cammakāyo’ti kho, bhaginiyo, channetaṃ bāhirānaṃ āyatanānaṃ adhivacanaṃ;"
-msgstr ""
+msgid "‘bāhiro cammakāyo’ti kho, bhaginiyo, channetaṃ bāhirānaṃ āyatanānaṃ adhivacanaṃ; "
+msgstr " "
 
 msgctxt "mn146:25.4"
-msgid "‘antarā vilimaṃsaṃ antarā nhāru antarā bandhanan’ti kho, bhaginiyo, nandīrāgassetaṃ adhivacanaṃ;"
-msgstr ""
+msgid "‘antarā vilimaṃsaṃ antarā nhāru antarā bandhanan’ti kho, bhaginiyo, nandīrāgassetaṃ adhivacanaṃ; "
+msgstr " "
 
 msgctxt "mn146:25.5"
-msgid "‘tiṇhaṃ govikantanan’ti kho, bhaginiyo, ariyāyetaṃ paññāya adhivacanaṃ;"
-msgstr ""
+msgid "‘tiṇhaṃ govikantanan’ti kho, bhaginiyo, ariyāyetaṃ paññāya adhivacanaṃ; "
+msgstr " "
 
 msgctxt "mn146:25.6"
-msgid "yāyaṃ ariyā paññā antarā kilesaṃ antarā saṃyojanaṃ antarā bandhanaṃ sañchindati saṅkantati sampakantati samparikantati."
-msgstr ""
+msgid "yāyaṃ ariyā paññā antarā kilesaṃ antarā saṃyojanaṃ antarā bandhanaṃ sañchindati saṅkantati sampakantati samparikantati. "
+msgstr " "
 
-#. </p><p>
-#. <a class="nya" id="nya26"></a>
-#. <a class="sc" id="sc21"></a>
+#. HTML: </p><p>
+#. REF: nya26, sc21
 msgctxt "mn146:26.1"
-msgid "Satta kho panime, bhaginiyo, bojjhaṅgā, yesaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati."
-msgstr ""
+msgid "Satta kho panime, bhaginiyo, bojjhaṅgā, yesaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. "
+msgstr " "
 
 msgctxt "mn146:26.2"
-msgid "Katame satta?"
-msgstr ""
+msgid "Katame satta? "
+msgstr " "
 
 msgctxt "mn146:26.3"
-msgid "Idha, bhaginiyo, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Dhammavicayasambojjhaṅgaṃ bhāveti … pe … vīriyasambojjhaṅgaṃ bhāveti … pītisambojjhaṅgaṃ bhāveti … passaddhisambojjhaṅgaṃ bhāveti … samādhisambojjhaṅgaṃ bhāveti … upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ."
-msgstr ""
+msgid "Idha, bhaginiyo, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Dhammavicayasambojjhaṅgaṃ bhāveti … pe … vīriyasambojjhaṅgaṃ bhāveti … pītisambojjhaṅgaṃ bhāveti … passaddhisambojjhaṅgaṃ bhāveti … samādhisambojjhaṅgaṃ bhāveti … upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. "
+msgstr " "
 
 msgctxt "mn146:26.4"
-msgid "Ime kho, bhaginiyo, satta bojjhaṅgā yesaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti."
-msgstr ""
+msgid "Ime kho, bhaginiyo, satta bojjhaṅgā yesaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti. "
+msgstr " "
 
-#. </p><p>
-#. <a class="sc" id="sc22"></a>
+#. HTML: </p><p>
+#. REF: sc22
 msgctxt "mn146:26.5"
-msgid "Atha kho āyasmā nandako tā bhikkhuniyo iminā ovādena ovaditvā uyyojesi:"
-msgstr ""
+msgid "Atha kho āyasmā nandako tā bhikkhuniyo iminā ovādena ovaditvā uyyojesi: "
+msgstr " "
 
 msgctxt "mn146:26.6"
-msgid "“gacchatha, bhaginiyo; kālo”ti."
-msgstr ""
+msgid "“gacchatha, bhaginiyo; kālo”ti. "
+msgstr " "
 
 msgctxt "mn146:26.7"
-msgid "Atha kho tā bhikkhuniyo āyasmato nandakassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṃ nandakaṃ abhivādetvā padakkhiṇaṃ katvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho tā bhikkhuniyo bhagavā etadavoca:"
-msgstr ""
+msgid "Atha kho tā bhikkhuniyo āyasmato nandakassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṃ nandakaṃ abhivādetvā padakkhiṇaṃ katvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho tā bhikkhuniyo bhagavā etadavoca: "
+msgstr " "
 
 msgctxt "mn146:26.8"
-msgid "“gacchatha, bhikkhuniyo; kālo”ti."
-msgstr ""
+msgid "“gacchatha, bhikkhuniyo; kālo”ti. "
+msgstr " "
 
 msgctxt "mn146:26.9"
-msgid "Atha kho tā bhikkhuniyo bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkamiṃsu."
-msgstr ""
+msgid "Atha kho tā bhikkhuniyo bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkamiṃsu. "
+msgstr " "
 
-#. <a class="nya" id="nya27"></a>
+#. HTML: </p><p>
+#. REF: nya27
 msgctxt "mn146:27.1"
-msgid "Atha kho bhagavā acirapakkantīsu tāsu bhikkhunīsu bhikkhū āmantesi:"
-msgstr "Soon after those nuns had left, the Buddha addressed the mendicants:"
+msgid "Atha kho bhagavā acirapakkantīsu tāsu bhikkhunīsu bhikkhū āmantesi: "
+msgstr "Soon after those nuns had left, the Buddha addressed the mendicants: "
 
 msgctxt "mn146:27.2"
-msgid "“seyyathāpi, bhikkhave, tadahuposathe pannarase na hoti bahuno janassa kaṅkhā vā vimati vā:"
-msgstr "“Suppose, mendicants, it was the sabbath of the fifteenth day. You wouldn’t get lots of people"
+msgid "“seyyathāpi, bhikkhave, tadahuposathe pannarase na hoti bahuno janassa kaṅkhā vā vimati vā: "
+msgstr "“Suppose, mendicants, it was the sabbath of the fifteenth day. You wouldn’t get lots of people "
 
 msgctxt "mn146:27.3"
-msgid "‘ūno nu kho cando, puṇṇo nu kho cando’ti, atha kho puṇṇo cando tveva hoti;"
-msgstr "wondering whether the moon is full or not, since it is obviously full."
+msgid "‘ūno nu kho cando, puṇṇo nu kho cando’ti, atha kho puṇṇo cando tveva hoti; "
+msgstr "wondering whether the moon is full or not, since it is obviously full. "
 
 msgctxt "mn146:27.4"
-msgid "evameva kho, bhikkhave, tā bhikkhuniyo nandakassa dhammadesanāya attamanā ceva paripuṇṇasaṅkappā ca."
-msgstr "In the same way, those nuns were uplifted by Nandaka’s Dhamma teaching, and they found what they’re looking for."
+msgid "evameva kho, bhikkhave, tā bhikkhuniyo nandakassa dhammadesanāya attamanā ceva paripuṇṇasaṅkappā ca. "
+msgstr "In the same way, those nuns were uplifted by Nandaka’s Dhamma teaching, and they found what they’re looking for. "
 
 #. VAR: sā → sā (bj, pts1) | sā (s1) | tā bhikkhuniyo (mr)
 msgctxt "mn146:27.5"
-msgid "Tāsaṃ, bhikkhave, pañcannaṃ bhikkhunisatānaṃ yā pacchimikā bhikkhunī sā sotāpannā avinipātadhammā niyatā sambodhiparāyanā”ti."
-msgstr "Even the last of these five hundred nuns is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.”"
+msgid "Tāsaṃ, bhikkhave, pañcannaṃ bhikkhunisatānaṃ yā pacchimikā bhikkhunī sā sotāpannā avinipātadhammā niyatā sambodhiparāyanā”ti. "
+msgstr "Even the last of these five hundred nuns is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.” "
 
-#. </p><p>
-#. <a class="sc" id="sc23"></a>
+#. HTML: </p><p>
+#. REF: sc23
 msgctxt "mn146:27.6"
-msgid "Idamavoca bhagavā."
-msgstr "That is what the Buddha said."
+msgid "Idamavoca bhagavā. "
+msgstr "That is what the Buddha said. "
 
 msgctxt "mn146:27.7"
-msgid "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti."
-msgstr "Satisfied, the mendicants were happy with what the Buddha said."
+msgid "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti. "
+msgstr "Satisfied, the mendicants were happy with what the Buddha said. "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "mn146:27.8"
-msgid "Nandakovādasuttaṃ niṭṭhitaṃ catutthaṃ."
+msgid "Nandakovādasuttaṃ niṭṭhitaṃ catutthaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

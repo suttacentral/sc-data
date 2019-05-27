@@ -2,60 +2,62 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an5.229"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an5.229"><article><div class="hgroup"><p class="division">
 msgctxt "an5.229:0.1"
-msgid "Aṅguttara Nikāya 5"
-msgstr "Numbered Discourses 5"
+msgid "Aṅguttara Nikāya 5 "
+msgstr "Numbered Discourses 5 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an5.229:0.2"
-msgid "23. Dīghacārikavagga"
-msgstr "23. Long Wandering"
+msgid "23. Dīghacārikavagga "
+msgstr "23. Long Wandering "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an5.229:0.3"
-msgid "229. Paṭhamakaṇhasappasutta"
-msgstr "229. Black Snakes (1st)"
+msgid "229. Paṭhamakaṇhasappasutta "
+msgstr "229. Black Snakes (1st) "
 
-# Note that here once again it is clear adinava does not mean “danger”. Only one of the five factors is actually the dangerous nature of the snake.
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+# NOTE: Note that here once again it is clear adinava does not mean “danger”. Only one of the five factors is actually the dangerous nature of the snake.
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "an5.229:1.1"
-msgid "“Pañcime, bhikkhave, ādīnavā kaṇhasappe."
-msgstr "“Mendicants, there are these five drawbacks of a black snake."
+msgid "“Pañcime, bhikkhave, ādīnavā kaṇhasappe. "
+msgstr "“Mendicants, there are these five drawbacks of a black snake. "
 
 msgctxt "an5.229:1.2"
-msgid "Katame pañca?"
-msgstr "What five?"
+msgid "Katame pañca? "
+msgstr "What five? "
 
-# I’m not sure why BB has “frightening “for sabhiru. The dicts give “fearful”, see opp. abhiru in CPD.” frightening, dangerous” seems to be redundant, while “cowardly” is not. Also, below a charnel ground is said to be sappatibbhaya. It’s not so obvious that a charnel ground is “dangerous”, but it certainly is “frightening”.
+# NOTE: I’m not sure why BB has “frightening “for sabhiru. The dicts give “fearful”, see opp. abhiru in CPD.” frightening, dangerous” seems to be redundant, while “cowardly” is not. Also, below a charnel ground is said to be sappatibbhaya. It’s not so obvious that a charnel ground is “dangerous”, but it certainly is “frightening”.
 msgctxt "an5.229:1.3"
-msgid "Asuci, duggandho, sabhīru, sappaṭibhayo, mittadubbhī."
-msgstr "It’s filthy, stinking, cowardly, frightening, and treacherous."
+msgid "Asuci, duggandho, sabhīru, sappaṭibhayo, mittadubbhī. "
+msgstr "It’s filthy, stinking, cowardly, frightening, and treacherous. "
 
 msgctxt "an5.229:1.4"
-msgid "Ime kho, bhikkhave, pañca ādīnavā kaṇhasappe."
-msgstr "These are the five dangers of a black snake."
+msgid "Ime kho, bhikkhave, pañca ādīnavā kaṇhasappe. "
+msgstr "These are the five dangers of a black snake. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an5.229:2.1"
-msgid "Evamevaṃ kho, bhikkhave, pañcime ādīnavā mātugāme."
-msgstr "In the same way there are five drawbacks of a female."
+msgid "Evamevaṃ kho, bhikkhave, pañcime ādīnavā mātugāme. "
+msgstr "In the same way there are five drawbacks of a female. "
 
 msgctxt "an5.229:2.2"
-msgid "Katame pañca?"
-msgstr "What five?"
+msgid "Katame pañca? "
+msgstr "What five? "
 
 msgctxt "an5.229:2.3"
-msgid "Asuci, duggandho, sabhīru, sappaṭibhayo, mittadubbhī."
-msgstr "She’s filthy, stinking, cowardly, frightening, and treacherous."
+msgid "Asuci, duggandho, sabhīru, sappaṭibhayo, mittadubbhī. "
+msgstr "She’s filthy, stinking, cowardly, frightening, and treacherous. "
 
 msgctxt "an5.229:2.4"
-msgid "Ime kho, bhikkhave, pañca ādīnavā mātugāme”ti."
-msgstr "These are the five drawbacks of a female.”"
+msgid "Ime kho, bhikkhave, pañca ādīnavā mātugāme”ti. "
+msgstr "These are the five drawbacks of a female.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an5.229:2.5"
-msgid "Navamaṃ."
+msgid "Navamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

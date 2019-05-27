@@ -2,84 +2,90 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an4.140"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an4.140"><article><div class="hgroup"><p class="division">
 msgctxt "an4.140:0.1"
-msgid "Aṅguttara Nikāya 4"
-msgstr "Numbered Discourses 4"
+msgid "Aṅguttara Nikāya 4 "
+msgstr "Numbered Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an4.140:0.2"
-msgid "14. Puggalavagga"
-msgstr "14. Persons"
+msgid "14. Puggalavagga "
+msgstr "14. Persons "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an4.140:0.3"
-msgid "140. Vādīsutta"
-msgstr "140. Speaker"
+msgid "140. Vādīsutta "
+msgstr "140. Speaker "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.139"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli2.139, sc1
 msgctxt "an4.140:1.1"
-msgid "“Cattārome, bhikkhave, vādī."
-msgstr "“Mendicants, there are these four speakers."
+msgid "“Cattārome, bhikkhave, vādī. "
+msgstr "“Mendicants, there are these four speakers. "
 
 msgctxt "an4.140:1.2"
-msgid "Katame cattāro?"
-msgstr "What four?"
+msgid "Katame cattāro? "
+msgstr "What four? "
 
+#. HTML: </p><ol><li>
 msgctxt "an4.140:1.3"
-msgid "Atthi, bhikkhave, vādī atthato pariyādānaṃ gacchati, no byañjanato;"
-msgstr "There’s a speaker who runs out of meaningful things to say, but not of ways of phrasing things."
+msgid "Atthi, bhikkhave, vādī atthato pariyādānaṃ gacchati, no byañjanato; "
+msgstr "There’s a speaker who runs out of meaningful things to say, but not of ways of phrasing things. "
 
+#. HTML: </li><li>
 msgctxt "an4.140:1.4"
-msgid "atthi, bhikkhave, vādī byañjanato pariyādānaṃ gacchati, no atthato;"
-msgstr "There’s a speaker who runs out of ways of phrasing things, but not of meaningful things to say."
+msgid "atthi, bhikkhave, vādī byañjanato pariyādānaṃ gacchati, no atthato; "
+msgstr "There’s a speaker who runs out of ways of phrasing things, but not of meaningful things to say. "
 
+#. HTML: </li><li>
 msgctxt "an4.140:1.5"
-msgid "atthi, bhikkhave, vādī atthato ca byañjanato ca pariyādānaṃ gacchati;"
-msgstr "There’s a speaker who runs out of both meaningful things to say, and ways of phrasing things."
+msgid "atthi, bhikkhave, vādī atthato ca byañjanato ca pariyādānaṃ gacchati; "
+msgstr "There’s a speaker who runs out of both meaningful things to say, and ways of phrasing things. "
 
+#. HTML: </li><li>
 msgctxt "an4.140:1.6"
-msgid "atthi, bhikkhave, vādī nevatthato no byañjanato pariyādānaṃ gacchati."
-msgstr "There’s a speaker who never runs out of meaningful things to say, or ways of phrasing things."
+msgid "atthi, bhikkhave, vādī nevatthato no byañjanato pariyādānaṃ gacchati. "
+msgstr "There’s a speaker who never runs out of meaningful things to say, or ways of phrasing things. "
 
+#. HTML: </li></ol><p>
 msgctxt "an4.140:1.7"
-msgid "Ime kho, bhikkhave, cattāro vādī."
-msgstr "These are the four speakers."
+msgid "Ime kho, bhikkhave, cattāro vādī. "
+msgstr "These are the four speakers. "
 
 #. VAR: samannāgato → samannāgato bhikkhu (bj, s1-3, km)
 msgctxt "an4.140:1.8"
-msgid "Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ catūhi paṭisambhidāhi samannāgato atthato vā byañjanato vā pariyādānaṃ gaccheyyā”ti."
-msgstr "It is impossible, it cannot happen that someone accomplished in the four kinds of textual analysis will ever run out of meaningful things to say, or ways of phrasing things.”"
+msgid "Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ catūhi paṭisambhidāhi samannāgato atthato vā byañjanato vā pariyādānaṃ gaccheyyā”ti. "
+msgstr "It is impossible, it cannot happen that someone accomplished in the four kinds of textual analysis will ever run out of meaningful things to say, or ways of phrasing things.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an4.140:1.9"
-msgid "Dasamaṃ."
-msgstr ""
+msgid "Dasamaṃ. "
+msgstr " "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an4.140:1.10"
-msgid "Puggalavaggo catuttho."
-msgstr ""
+msgid "Puggalavaggo catuttho. "
+msgstr " "
 
-#. </p><blockquote class="uddanagatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: sc2
 msgctxt "an4.140:2.1"
-msgid "Saṃyojanaṃ paṭibhāno,"
-msgstr ""
+msgid "Saṃyojanaṃ paṭibhāno, "
+msgstr " "
 
 #. <br>
 msgctxt "an4.140:2.2"
-msgid "ugghaṭitaññu uṭṭhānaṃ;"
-msgstr ""
+msgid "ugghaṭitaññu uṭṭhānaṃ; "
+msgstr " "
 
 #. <br>
 msgctxt "an4.140:2.3"
-msgid "Sāvajjo dve ca sīlāni,"
-msgstr ""
+msgid "Sāvajjo dve ca sīlāni, "
+msgstr " "
 
 #. <br>
 msgctxt "an4.140:2.4"
-msgid "nikaṭṭha dhamma vādī cāti."
+msgid "nikaṭṭha dhamma vādī cāti. "
 msgstr ""
+
+#. HTML: </p></blockquote></article></section></body></html>

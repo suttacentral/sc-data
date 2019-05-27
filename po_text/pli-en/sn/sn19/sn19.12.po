@@ -2,43 +2,46 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn19.12"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn19.12"><article><div class="hgroup"><p class="division">
 msgctxt "sn19.12:0.1"
-msgid "Saṃyutta Nikāya 19"
-msgstr "Linked Discourses 19"
+msgid "Saṃyutta Nikāya 19 "
+msgstr "Linked Discourses 19 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn19.12:0.2"
-msgid "2. Dutiyavagga"
-msgstr "2. The Second Chapter"
+msgid "2. Dutiyavagga "
+msgstr "2. The Second Chapter "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 12. Gūthakhādasutta → gūthakhādi-duṭṭhabrāhmaṇo (pts1-2)
 msgctxt "sn19.12:0.3"
-msgid "12. Gūthakhādasutta"
-msgstr "12. A Dung Eater"
+msgid "12. Gūthakhādasutta "
+msgstr "12. A Dung Eater "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn19.12:1.1"
-msgid "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ purisaṃ gūthakūpe nimuggaṃ ubhohi hatthehi gūthaṃ khādantaṃ … pe …"
-msgstr "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a man sunk in a sewer, eating dung with both hands. …” …"
+msgid "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ purisaṃ gūthakūpe nimuggaṃ ubhohi hatthehi gūthaṃ khādantaṃ … pe … "
+msgstr "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a man sunk in a sewer, eating dung with both hands. …” … "
 
+#. HTML: </p><p>
 msgctxt "sn19.12:1.2"
-msgid "eso, bhikkhave, satto imasmiṃyeva rājagahe duṭṭhabrāhmaṇo ahosi."
-msgstr "“That being used to be a nasty brahmin right here in Rājagaha."
+msgid "eso, bhikkhave, satto imasmiṃyeva rājagahe duṭṭhabrāhmaṇo ahosi. "
+msgstr "“That being used to be a nasty brahmin right here in Rājagaha. "
 
-# BB has “rice pot” for doniya. But in the suttas it is used for a feeding trough for horses; a casket for a corpse; and a pan for working gold, etc. Here “trough” clearly fits.
+# NOTE: BB has “rice pot” for doniya. But in the suttas it is used for a feeding trough for horses; a casket for a corpse; and a pan for working gold, etc. Here “trough” clearly fits.
 #. VAR: doṇiyo → doṇiyā (s1-3, km, pts1-2, mr)
 msgctxt "sn19.12:1.3"
 msgid "So kassapassa sammāsambuddhassa pāvacane bhikkhusaṃghaṃ bhattena nimantetvā doṇiyo gūthassa pūrāpetvā etadavoca—"
-msgstr "In the time of the Buddha Kassapa’s dispensation he invited the Saṅgha of mendicants for a meal. He filled a trough with dung and said:"
+msgstr "In the time of the Buddha Kassapa’s dispensation he invited the Saṅgha of mendicants for a meal. He filled a trough with dung and said: "
 
 msgctxt "sn19.12:1.4"
-msgid "aho bhonto yāvadatthaṃ bhuñjantu ceva harantu cā’ti … pe …."
-msgstr "‘My good men, eat as much as you like, and take what’s left.’ …”"
+msgid "aho bhonto yāvadatthaṃ bhuñjantu ceva harantu cā’ti … pe …. "
+msgstr "‘My good men, eat as much as you like, and take what’s left.’ …” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn19.12:1.5"
-msgid "Dutiyaṃ."
+msgid "Dutiyaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

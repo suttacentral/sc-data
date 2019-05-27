@@ -2,115 +2,111 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn10.1"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn10.1"><article><div class="hgroup"><p class="division">
 msgctxt "sn10.1:0.1"
-msgid "Saṃyutta Nikāya 10"
-msgstr "Linked Discourses 10"
+msgid "Saṃyutta Nikāya 10 "
+msgstr "Linked Discourses 10 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn10.1:0.2"
-msgid "1. Indakavagga"
-msgstr "1. With Indaka"
+msgid "1. Indakavagga "
+msgstr "1. With Indaka "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn10.1:0.3"
-msgid "1. Indakasutta"
-msgstr "1. With Indaka"
+msgid "1. Indakasutta "
+msgstr "1. With Indaka "
 
-#. </h1></div><p>
-#. <a class="pts1ed" id="pts1ed1.206"></a>
-#. <a class="pts2ed" id="pts2ed1.443"></a>
-#. <a class="sc" id="sc1"></a>
-#. <span class="evam">
+#. HTML: </h1></div><p><span class="evam">
+#. REF: pts1ed1.206, pts2ed1.443, sc1
 msgctxt "sn10.1:1.1"
 msgid "Evaṃ me sutaṃ—"
-msgstr "So I have heard."
+msgstr "So I have heard. "
 
-#. </span>
+#. HTML: </span>
 msgctxt "sn10.1:1.2"
-msgid "ekaṃ samayaṃ bhagavā rājagahe viharati indakūṭe pabbate, indakassa yakkhassa bhavane."
-msgstr "At one time the Buddha was staying near Rājagaha on Mount Indra’s Peak, the haunt of the native spirit Indaka."
+msgid "ekaṃ samayaṃ bhagavā rājagahe viharati indakūṭe pabbate, indakassa yakkhassa bhavane. "
+msgstr "At one time the Buddha was staying near Rājagaha on Mount Indra’s Peak, the haunt of the native spirit Indaka. "
 
+#. HTML: </p><p>
 msgctxt "sn10.1:1.3"
-msgid "Atha kho indako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:"
-msgstr "Then the native spirit Indaka went up to the Buddha, and addressed him in verse:"
+msgid "Atha kho indako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi: "
+msgstr "Then the native spirit Indaka went up to the Buddha, and addressed him in verse: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
-#. <a class="verse-num-sc" id="verse-num-sc802"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2, verse-num-sc802
 msgctxt "sn10.1:2.1"
-msgid "“Rūpaṃ na jīvanti vadanti buddhā,"
-msgstr "“The Buddhas say that form is not the soul."
+msgid "“Rūpaṃ na jīvanti vadanti buddhā, "
+msgstr "“The Buddhas say that form is not the soul. "
 
 #. <br>
 msgctxt "sn10.1:2.2"
-msgid "Kathaṃ nvayaṃ vindatimaṃ sarīraṃ;"
-msgstr "Then how does this body manifest?"
+msgid "Kathaṃ nvayaṃ vindatimaṃ sarīraṃ; "
+msgstr "Then how does this body manifest? "
 
-# Perhaps “organs” would be better for yakapinda here.
+# NOTE: Perhaps “organs” would be better for yakapinda here.
 #. <br>
 msgctxt "sn10.1:2.3"
-msgid "Kutassa aṭṭhīyakapiṇḍameti,"
-msgstr "Where do the bones and liver come from?"
+msgid "Kutassa aṭṭhīyakapiṇḍameti, "
+msgstr "Where do the bones and liver come from? "
 
-# I disagree with BB’s reading of sajjati. The Skt root that he accepts, sṛj, rendered as “begotten”, has the basic meaning of “emit, discharge”. It’s attested in the context of procreation in the Rg Veda, where presumably it refers to the emission of semen. However the verses below are not concerned to answer the question of how procreation happens, but of how an embryo grows in the womb. I.e. not about “emission” but about “sticking around”.
+# NOTE: I disagree with BB’s reading of sajjati. The Skt root that he accepts, sṛj, rendered as “begotten”, has the basic meaning of “emit, discharge”. It’s attested in the context of procreation in the Rg Veda, where presumably it refers to the emission of semen. However the verses below are not concerned to answer the question of how procreation happens, but of how an embryo grows in the womb. I.e. not about “emission” but about “sticking around”.
 #. <br>
 msgctxt "sn10.1:2.4"
-msgid "Kathaṃ nvayaṃ sajjati gabbharasmin”ti."
-msgstr "And how does one cling on in the womb?”"
+msgid "Kathaṃ nvayaṃ sajjati gabbharasmin”ti. "
+msgstr "And how does one cling on in the womb?” "
 
-# https://discourse.suttacentral.net/t/anyone-have-some-medical-advice-on-embryonic-development/3607
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
-#. <a class="verse-num-sc" id="verse-num-sc803"></a>
+# NOTE: https://discourse.suttacentral.net/t/anyone-have-some-medical-advice-on-embryonic-development/3607
+#. HTML: </p><p>
+#. REF: sc3, verse-num-sc803
 msgctxt "sn10.1:3.1"
-msgid "“Paṭhamaṃ kalalaṃ hoti,"
-msgstr "“First there’s a drop of coagulate;"
+msgid "“Paṭhamaṃ kalalaṃ hoti, "
+msgstr "“First there’s a drop of coagulate; "
 
 #. <br>
 msgctxt "sn10.1:3.2"
-msgid "kalalā hoti abbudaṃ;"
-msgstr "from there a little bud appears;"
+msgid "kalalā hoti abbudaṃ; "
+msgstr "from there a little bud appears; "
 
 #. <br>
 msgctxt "sn10.1:3.3"
-msgid "Abbudā jāyate pesi,"
-msgstr "next it becomes a piece of flesh;"
+msgid "Abbudā jāyate pesi, "
+msgstr "next it becomes a piece of flesh; "
 
 #. <br>
 msgctxt "sn10.1:3.4"
-msgid "pesi nibbattatī ghano;"
-msgstr "which produces a swelling."
+msgid "pesi nibbattatī ghano; "
+msgstr "which produces a swelling. "
 
 #. <br>
 msgctxt "sn10.1:3.5"
-msgid "Ghanā pasākhā jāyanti,"
-msgstr "From that swelling the limbs appear,"
+msgid "Ghanā pasākhā jāyanti, "
+msgstr "From that swelling the limbs appear, "
 
 #. <br>
 msgctxt "sn10.1:3.6"
-msgid "kesā lomā nakhāpi ca."
-msgstr "the head hair, body hair, and teeth."
+msgid "kesā lomā nakhāpi ca. "
+msgstr "the head hair, body hair, and teeth. "
 
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.444"></a>
-#. <a class="sc" id="sc4"></a>
-#. <a class="verse-num-sc" id="verse-num-sc804"></a>
+#. HTML: </p><p>
+#. REF: pts2ed1.444, sc4, verse-num-sc804
 msgctxt "sn10.1:4.1"
-msgid "Yañcassa bhuñjatī mātā,"
+msgid "Yañcassa bhuñjatī mātā, "
 msgstr "And whatever the mother eats—"
 
 #. <br>
 msgctxt "sn10.1:4.2"
-msgid "annaṃ pānañca bhojanaṃ;"
+msgid "annaṃ pānañca bhojanaṃ; "
 msgstr "the food and drink that she consumes—"
 
 #. <br>
 msgctxt "sn10.1:4.3"
-msgid "Tena so tattha yāpeti,"
-msgstr "nourishes them there,"
+msgid "Tena so tattha yāpeti, "
+msgstr "nourishes them there, "
 
 #. <br>
 msgctxt "sn10.1:4.4"
-msgid "mātukucchigato naro”ti."
+msgid "mātukucchigato naro”ti. "
 msgstr "the person in the mother’s womb.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

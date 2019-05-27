@@ -2,317 +2,320 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an5.157"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an5.157"><article><div class="hgroup"><p class="division">
 msgctxt "an5.157:0.1"
-msgid "Aṅguttara Nikāya 5"
-msgstr "Numbered Discourses 5"
+msgid "Aṅguttara Nikāya 5 "
+msgstr "Numbered Discourses 5 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an5.157:0.2"
-msgid "16. Saddhammavagga"
-msgstr "16. The True Teaching"
+msgid "16. Saddhammavagga "
+msgstr "16. The True Teaching "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "an5.157:0.3"
-msgid "157. Dukkathāsutta"
-msgstr "157. Inappropriate Talk"
+msgid "157. Dukkathāsutta "
+msgstr "157. Inappropriate Talk "
 
-# This is a difficult idiom to get right. I follow the Comm. reading of “puggalam puggalam”. BB has “weigh one type of person against the other”. Upanidhaya normally has the meaning of “compare”, but I am not sure how that makes sense here. You’re not comparing people, you’re assessing what is approppriate for this specific person. Comm. says “taṃ taṃ puggalaṃ upanikkhipitvā, sakkhiṃ katvā”, which (I think!) implies specificity rather than distribution, i.e. “examining that specific person”. As for the rest, I have translated according to the sense as best I can. The meaning is clear enough from what follows.
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.181"></a>
-#. <a class="sc" id="sc1"></a>
+# NOTE: This is a difficult idiom to get right. I follow the Comm. reading of “puggalam puggalam”. BB has “weigh one type of person against the other”. Upanidhaya normally has the meaning of “compare”, but I am not sure how that makes sense here. You’re not comparing people, you’re assessing what is approppriate for this specific person. Comm. says “taṃ taṃ puggalaṃ upanikkhipitvā, sakkhiṃ katvā”, which (I think!) implies specificity rather than distribution, i.e. “examining that specific person”. As for the rest, I have translated according to the sense as best I can. The meaning is clear enough from what follows.
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli3.181, sc1
 #. VAR: puggale puggalaṃ → puggalaṃ puggalaṃ (bj, pts1)
 msgctxt "an5.157:1.1"
-msgid "“Pañcannaṃ, bhikkhave, puggalānaṃ kathā dukkathā puggale puggalaṃ upanidhāya."
-msgstr "“Mendicants, there are certain topics that are inappropriate to talk about, taking into consideration which specific one of five people you are talking to."
+msgid "“Pañcannaṃ, bhikkhave, puggalānaṃ kathā dukkathā puggale puggalaṃ upanidhāya. "
+msgstr "“Mendicants, there are certain topics that are inappropriate to talk about, taking into consideration which specific one of five people you are talking to. "
 
 msgctxt "an5.157:1.2"
-msgid "Katamesaṃ pañcannaṃ?"
-msgstr "What five?"
+msgid "Katamesaṃ pañcannaṃ? "
+msgstr "What five? "
 
+#. HTML: </p><p>
 msgctxt "an5.157:1.3"
-msgid "Assaddhassa, bhikkhave, saddhākathā dukkathā;"
-msgstr "It’s inappropriate to talk to an unfaithful person about faith."
+msgid "Assaddhassa, bhikkhave, saddhākathā dukkathā; "
+msgstr "It’s inappropriate to talk to an unfaithful person about faith. "
 
 msgctxt "an5.157:1.4"
-msgid "dussīlassa sīlakathā dukkathā;"
-msgstr "It’s inappropriate to talk to an unethical person about ethics."
+msgid "dussīlassa sīlakathā dukkathā; "
+msgstr "It’s inappropriate to talk to an unethical person about ethics. "
 
 msgctxt "an5.157:1.5"
-msgid "appassutassa bāhusaccakathā dukkathā;"
-msgstr "It’s inappropriate to talk to an unlearned person about learning."
+msgid "appassutassa bāhusaccakathā dukkathā; "
+msgstr "It’s inappropriate to talk to an unlearned person about learning. "
 
 #. VAR: maccharissa → macchariyassa (bj, pts1, mr)
 msgctxt "an5.157:1.6"
-msgid "maccharissa cāgakathā dukkathā;"
-msgstr "It’s inappropriate to talk to a stingy person about generosity."
+msgid "maccharissa cāgakathā dukkathā; "
+msgstr "It’s inappropriate to talk to a stingy person about generosity. "
 
 msgctxt "an5.157:1.7"
-msgid "duppaññassa paññākathā dukkathā."
-msgstr "It’s inappropriate to talk to a witless person about wisdom."
+msgid "duppaññassa paññākathā dukkathā. "
+msgstr "It’s inappropriate to talk to a witless person about wisdom. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "an5.157:2.1"
-msgid "Kasmā ca, bhikkhave, assaddhassa saddhākathā dukkathā?"
-msgstr "And why is it inappropriate to talk to an unfaithful person about faith?"
+msgid "Kasmā ca, bhikkhave, assaddhassa saddhākathā dukkathā? "
+msgstr "And why is it inappropriate to talk to an unfaithful person about faith? "
 
 msgctxt "an5.157:2.2"
-msgid "Assaddho, bhikkhave, saddhākathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti."
-msgstr "When an unfaithful person is spoken to about faith they lose their temper, becoming annoyed, hostile, and hard-hearted, and displaying annoyance, hate, and bitterness."
+msgid "Assaddho, bhikkhave, saddhākathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When an unfaithful person is spoken to about faith they lose their temper, becoming annoyed, hostile, and hard-hearted, and displaying annoyance, hate, and bitterness. "
 
 msgctxt "an5.157:2.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 #. VAR: na samanupassati → na sampassati (bj)
 msgctxt "an5.157:2.4"
-msgid "Tañhi so, bhikkhave, saddhāsampadaṃ attani na samanupassati, na ca labhati tatonidānaṃ pītipāmojjaṃ."
-msgstr "Not seeing that faith in themselves, they don’t get the rapture and joy that faith brings."
+msgid "Tañhi so, bhikkhave, saddhāsampadaṃ attani na samanupassati, na ca labhati tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Not seeing that faith in themselves, they don’t get the rapture and joy that faith brings. "
 
 msgctxt "an5.157:2.5"
-msgid "Tasmā assaddhassa saddhākathā dukkathā."
-msgstr "That’s why it’s inappropriate to talk to an unfaithful person about faith."
+msgid "Tasmā assaddhassa saddhākathā dukkathā. "
+msgstr "That’s why it’s inappropriate to talk to an unfaithful person about faith. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "an5.157:3.1"
-msgid "Kasmā ca, bhikkhave, dussīlassa sīlakathā dukkathā?"
-msgstr "And why is it inappropriate to talk to an unethical person about ethics?"
+msgid "Kasmā ca, bhikkhave, dussīlassa sīlakathā dukkathā? "
+msgstr "And why is it inappropriate to talk to an unethical person about ethics? "
 
 msgctxt "an5.157:3.2"
-msgid "Dussīlo, bhikkhave, sīlakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti."
-msgstr "When an unethical person is spoken to about ethics they lose their temper …"
+msgid "Dussīlo, bhikkhave, sīlakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When an unethical person is spoken to about ethics they lose their temper … "
 
 msgctxt "an5.157:3.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:3.4"
-msgid "Tañhi so, bhikkhave, sīlasampadaṃ attani na samanupassati na ca labhati tatonidānaṃ pītipāmojjaṃ."
-msgstr "Not seeing that ethical conduct in themselves, they don’t get the rapture and joy that ethical conduct brings."
+msgid "Tañhi so, bhikkhave, sīlasampadaṃ attani na samanupassati na ca labhati tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Not seeing that ethical conduct in themselves, they don’t get the rapture and joy that ethical conduct brings. "
 
 msgctxt "an5.157:3.5"
-msgid "Tasmā dussīlassa sīlakathā dukkathā."
-msgstr "That’s why it’s inappropriate to talk to an unethical person about ethics."
+msgid "Tasmā dussīlassa sīlakathā dukkathā. "
+msgstr "That’s why it’s inappropriate to talk to an unethical person about ethics. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "an5.157:4.1"
-msgid "Kasmā ca, bhikkhave, appassutassa bāhusaccakathā dukkathā?"
-msgstr "And why is it inappropriate to talk to an unlearned person about learning?"
+msgid "Kasmā ca, bhikkhave, appassutassa bāhusaccakathā dukkathā? "
+msgstr "And why is it inappropriate to talk to an unlearned person about learning? "
 
 msgctxt "an5.157:4.2"
-msgid "Appassuto, bhikkhave, bāhusaccakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti."
-msgstr "When an unlearned person is spoken to about learning they lose their temper …"
+msgid "Appassuto, bhikkhave, bāhusaccakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When an unlearned person is spoken to about learning they lose their temper … "
 
 msgctxt "an5.157:4.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:4.4"
-msgid "Tañhi so, bhikkhave, sutasampadaṃ attani na samanupassati, na ca labhati tatonidānaṃ pītipāmojjaṃ."
-msgstr "Not seeing that learning in themselves, they don’t get the rapture and joy that learning brings."
+msgid "Tañhi so, bhikkhave, sutasampadaṃ attani na samanupassati, na ca labhati tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Not seeing that learning in themselves, they don’t get the rapture and joy that learning brings. "
 
 msgctxt "an5.157:4.5"
-msgid "Tasmā appassutassa bāhusaccakathā dukkathā."
-msgstr "That’s why it’s inappropriate to talk to an unlearned person about learning."
+msgid "Tasmā appassutassa bāhusaccakathā dukkathā. "
+msgstr "That’s why it’s inappropriate to talk to an unlearned person about learning. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.182"></a>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli3.182, sc5
 msgctxt "an5.157:5.1"
-msgid "Kasmā ca, bhikkhave, maccharissa cāgakathā dukkathā?"
-msgstr "And why is it inappropriate to talk to a stingy person about generosity?"
+msgid "Kasmā ca, bhikkhave, maccharissa cāgakathā dukkathā? "
+msgstr "And why is it inappropriate to talk to a stingy person about generosity? "
 
 msgctxt "an5.157:5.2"
-msgid "Maccharī, bhikkhave, cāgakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti."
-msgstr "When an stingy person is spoken to about generosity they lose their temper …"
+msgid "Maccharī, bhikkhave, cāgakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When an stingy person is spoken to about generosity they lose their temper … "
 
 msgctxt "an5.157:5.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:5.4"
-msgid "Tañhi so, bhikkhave, cāgasampadaṃ attani na samanupassati na ca labhati tatonidānaṃ pītipāmojjaṃ."
-msgstr "Not seeing that generosity in themselves, they don’t get the rapture and joy that generosity brings."
+msgid "Tañhi so, bhikkhave, cāgasampadaṃ attani na samanupassati na ca labhati tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Not seeing that generosity in themselves, they don’t get the rapture and joy that generosity brings. "
 
 msgctxt "an5.157:5.5"
-msgid "Tasmā maccharissa cāgakathā dukkathā."
-msgstr "That’s why it’s inappropriate to talk to a stingy person about generosity."
+msgid "Tasmā maccharissa cāgakathā dukkathā. "
+msgstr "That’s why it’s inappropriate to talk to a stingy person about generosity. "
 
-#. </p><p>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: sc6
 msgctxt "an5.157:6.1"
-msgid "Kasmā ca, bhikkhave, duppaññassa paññākathā dukkathā?"
-msgstr "And why is it inappropriate to talk to a witless person about wisdom?"
+msgid "Kasmā ca, bhikkhave, duppaññassa paññākathā dukkathā? "
+msgstr "And why is it inappropriate to talk to a witless person about wisdom? "
 
 msgctxt "an5.157:6.2"
-msgid "Duppañño, bhikkhave, paññākathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti."
-msgstr "When a witless person is spoken to about wisdom they lose their temper, becoming annoyed, hostile, and hard-hearted, and displaying annoyance, hate, and bitterness."
+msgid "Duppañño, bhikkhave, paññākathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When a witless person is spoken to about wisdom they lose their temper, becoming annoyed, hostile, and hard-hearted, and displaying annoyance, hate, and bitterness. "
 
 msgctxt "an5.157:6.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:6.4"
-msgid "Tañhi so, bhikkhave, paññāsampadaṃ attani na samanupassati, na ca labhati tatonidānaṃ pītipāmojjaṃ."
-msgstr "Not seeing that wisdom in themselves, they don’t get the rapture and joy that wisdom brings."
+msgid "Tañhi so, bhikkhave, paññāsampadaṃ attani na samanupassati, na ca labhati tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Not seeing that wisdom in themselves, they don’t get the rapture and joy that wisdom brings. "
 
 msgctxt "an5.157:6.5"
-msgid "Tasmā duppaññassa paññākathā dukkathā."
-msgstr "That’s why it’s inappropriate to talk to a witless person about wisdom."
+msgid "Tasmā duppaññassa paññākathā dukkathā. "
+msgstr "That’s why it’s inappropriate to talk to a witless person about wisdom. "
 
+#. HTML: </p><p>
 msgctxt "an5.157:6.6"
-msgid "Imesaṃ kho, bhikkhave, pañcannaṃ puggalānaṃ kathā dukkathā puggale puggalaṃ upanidhāya."
-msgstr "These are topics that are inappropriate to talk about, taking into consideration which specific one of five people you are talking to."
+msgid "Imesaṃ kho, bhikkhave, pañcannaṃ puggalānaṃ kathā dukkathā puggale puggalaṃ upanidhāya. "
+msgstr "These are topics that are inappropriate to talk about, taking into consideration which specific one of five people you are talking to. "
 
-#. </p><p>
-#. <a class="sc" id="sc7"></a>
+#. HTML: </p><p>
+#. REF: sc7
 msgctxt "an5.157:7.1"
-msgid "Pañcannaṃ, bhikkhave, puggalānaṃ kathā sukathā puggale puggalaṃ upanidhāya."
-msgstr "There are certain topics that are appropriate to talk about, taking into consideration which specific one of five people you are talking to."
+msgid "Pañcannaṃ, bhikkhave, puggalānaṃ kathā sukathā puggale puggalaṃ upanidhāya. "
+msgstr "There are certain topics that are appropriate to talk about, taking into consideration which specific one of five people you are talking to. "
 
 msgctxt "an5.157:7.2"
-msgid "Katamesaṃ pañcannaṃ?"
-msgstr "What five?"
+msgid "Katamesaṃ pañcannaṃ? "
+msgstr "What five? "
 
+#. HTML: </p><p>
 msgctxt "an5.157:7.3"
-msgid "Saddhassa, bhikkhave, saddhākathā sukathā;"
-msgstr "It’s appropriate to talk to a faithful person about faith."
+msgid "Saddhassa, bhikkhave, saddhākathā sukathā; "
+msgstr "It’s appropriate to talk to a faithful person about faith. "
 
 msgctxt "an5.157:7.4"
-msgid "sīlavato sīlakathā sukathā;"
-msgstr "It’s appropriate to talk to an ethical person about ethical conduct."
+msgid "sīlavato sīlakathā sukathā; "
+msgstr "It’s appropriate to talk to an ethical person about ethical conduct. "
 
 msgctxt "an5.157:7.5"
-msgid "bahussutassa bāhusaccakathā sukathā;"
-msgstr "It’s appropriate to talk to a learned person about learning."
+msgid "bahussutassa bāhusaccakathā sukathā; "
+msgstr "It’s appropriate to talk to a learned person about learning. "
 
 msgctxt "an5.157:7.6"
-msgid "cāgavato cāgakathā sukathā;"
-msgstr "It’s appropriate to talk to a generous person about generosity."
+msgid "cāgavato cāgakathā sukathā; "
+msgstr "It’s appropriate to talk to a generous person about generosity. "
 
 msgctxt "an5.157:7.7"
-msgid "paññavato paññākathā sukathā."
-msgstr "It’s appropriate to talk to a wise person about wisdom."
+msgid "paññavato paññākathā sukathā. "
+msgstr "It’s appropriate to talk to a wise person about wisdom. "
 
-#. </p><p>
-#. <a class="sc" id="sc8"></a>
+#. HTML: </p><p>
+#. REF: sc8
 msgctxt "an5.157:8.1"
-msgid "Kasmā ca, bhikkhave, saddhassa saddhākathā sukathā?"
-msgstr "And why is it appropriate to talk to a faithful person about faith?"
+msgid "Kasmā ca, bhikkhave, saddhassa saddhākathā sukathā? "
+msgstr "And why is it appropriate to talk to a faithful person about faith? "
 
 msgctxt "an5.157:8.2"
-msgid "Saddho, bhikkhave, saddhākathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
-msgstr "When a faithful person is spoken to about faith they don’t lose their temper, they don’t get annoyed, hostile, and hard-hearted, or display annoyance, hate, and bitterness."
+msgid "Saddho, bhikkhave, saddhākathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When a faithful person is spoken to about faith they don’t lose their temper, they don’t get annoyed, hostile, and hard-hearted, or display annoyance, hate, and bitterness. "
 
 msgctxt "an5.157:8.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:8.4"
-msgid "Tañhi so, bhikkhave, saddhāsampadaṃ attani samanupassati labhati ca tatonidānaṃ pītipāmojjaṃ."
-msgstr "Seeing that faith in themselves, they get the rapture and joy that faith brings."
+msgid "Tañhi so, bhikkhave, saddhāsampadaṃ attani samanupassati labhati ca tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Seeing that faith in themselves, they get the rapture and joy that faith brings. "
 
 msgctxt "an5.157:8.5"
-msgid "Tasmā saddhassa saddhākathā sukathā."
-msgstr "That’s why it’s appropriate to talk to a faithful person about faith."
+msgid "Tasmā saddhassa saddhākathā sukathā. "
+msgstr "That’s why it’s appropriate to talk to a faithful person about faith. "
 
-#. </p><p>
-#. <a class="sc" id="sc9"></a>
+#. HTML: </p><p>
+#. REF: sc9
 msgctxt "an5.157:9.1"
-msgid "Kasmā ca, bhikkhave, sīlavato sīlakathā sukathā?"
-msgstr "And why is it appropriate to talk to an ethical person about ethical conduct?"
+msgid "Kasmā ca, bhikkhave, sīlavato sīlakathā sukathā? "
+msgstr "And why is it appropriate to talk to an ethical person about ethical conduct? "
 
 msgctxt "an5.157:9.2"
-msgid "Sīlavā, bhikkhave, sīlakathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
-msgstr "When an ethical person is spoken to about ethical conduct they don’t lose their temper …"
+msgid "Sīlavā, bhikkhave, sīlakathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When an ethical person is spoken to about ethical conduct they don’t lose their temper … "
 
 msgctxt "an5.157:9.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:9.4"
-msgid "Tañhi so, bhikkhave, sīlasampadaṃ attani samanupassati, labhati ca tatonidānaṃ pītipāmojjaṃ."
-msgstr "Seeing that ethical conduct in themselves, they get the rapture and joy that ethical conduct brings."
+msgid "Tañhi so, bhikkhave, sīlasampadaṃ attani samanupassati, labhati ca tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Seeing that ethical conduct in themselves, they get the rapture and joy that ethical conduct brings. "
 
 msgctxt "an5.157:9.5"
-msgid "Tasmā sīlavato sīlakathā sukathā."
-msgstr "That’s why it’s appropriate to talk to an ethical person about ethical conduct."
+msgid "Tasmā sīlavato sīlakathā sukathā. "
+msgstr "That’s why it’s appropriate to talk to an ethical person about ethical conduct. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.183"></a>
-#. <a class="sc" id="sc10"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli3.183, sc10
 msgctxt "an5.157:10.1"
-msgid "Kasmā ca, bhikkhave, bahussutassa bāhusaccakathā sukathā?"
-msgstr "And why is it appropriate to talk to a learned person about learning?"
+msgid "Kasmā ca, bhikkhave, bahussutassa bāhusaccakathā sukathā? "
+msgstr "And why is it appropriate to talk to a learned person about learning? "
 
 msgctxt "an5.157:10.2"
-msgid "Bahussuto, bhikkhave, bāhusaccakathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
-msgstr "When a learned person is spoken to about learning they don’t lose their temper …"
+msgid "Bahussuto, bhikkhave, bāhusaccakathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When a learned person is spoken to about learning they don’t lose their temper … "
 
 msgctxt "an5.157:10.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:10.4"
-msgid "Tañhi so, bhikkhave, sutasampadaṃ attani samanupassati, labhati ca tatonidānaṃ pītipāmojjaṃ."
-msgstr "Seeing that learning in themselves, they get the rapture and joy that learning brings."
+msgid "Tañhi so, bhikkhave, sutasampadaṃ attani samanupassati, labhati ca tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Seeing that learning in themselves, they get the rapture and joy that learning brings. "
 
 msgctxt "an5.157:10.5"
-msgid "Tasmā bahussutassa bāhusaccakathā sukathā."
-msgstr "That’s why it’s appropriate to talk to a learned person about learning."
+msgid "Tasmā bahussutassa bāhusaccakathā sukathā. "
+msgstr "That’s why it’s appropriate to talk to a learned person about learning. "
 
-#. </p><p>
-#. <a class="sc" id="sc11"></a>
+#. HTML: </p><p>
+#. REF: sc11
 msgctxt "an5.157:11.1"
-msgid "Kasmā ca, bhikkhave, cāgavato cāgakathā sukathā?"
-msgstr "And why is it appropriate to talk to a generous person about generosity?"
+msgid "Kasmā ca, bhikkhave, cāgavato cāgakathā sukathā? "
+msgstr "And why is it appropriate to talk to a generous person about generosity? "
 
 msgctxt "an5.157:11.2"
-msgid "Cāgavā, bhikkhave, cāgakathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
-msgstr "When a generous person is spoken to about generosity they don’t lose their temper …"
+msgid "Cāgavā, bhikkhave, cāgakathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When a generous person is spoken to about generosity they don’t lose their temper … "
 
 msgctxt "an5.157:11.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:11.4"
-msgid "Tañhi so, bhikkhave, cāgasampadaṃ attani samanupassati, labhati ca tatonidānaṃ pītipāmojjaṃ."
-msgstr "Seeing that generosity in themselves, they get the rapture and joy that generosity brings."
+msgid "Tañhi so, bhikkhave, cāgasampadaṃ attani samanupassati, labhati ca tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Seeing that generosity in themselves, they get the rapture and joy that generosity brings. "
 
 msgctxt "an5.157:11.5"
-msgid "Tasmā cāgavato cāgakathā sukathā."
-msgstr "That’s why it’s appropriate to talk to a generous person about generosity."
+msgid "Tasmā cāgavato cāgakathā sukathā. "
+msgstr "That’s why it’s appropriate to talk to a generous person about generosity. "
 
-#. </p><p>
-#. <a class="sc" id="sc12"></a>
+#. HTML: </p><p>
+#. REF: sc12
 msgctxt "an5.157:12.1"
-msgid "Kasmā ca, bhikkhave, paññavato paññākathā sukathā?"
-msgstr "And why is it appropriate to talk to a wise person about wisdom?"
+msgid "Kasmā ca, bhikkhave, paññavato paññākathā sukathā? "
+msgstr "And why is it appropriate to talk to a wise person about wisdom? "
 
 msgctxt "an5.157:12.2"
-msgid "Paññavā, bhikkhave, paññākathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
-msgstr "When a wise person is spoken to about wisdom they don’t lose their temper, they don’t get annoyed, hostile, and hard-hearted, or display annoyance, hate, and bitterness."
+msgid "Paññavā, bhikkhave, paññākathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti. "
+msgstr "When a wise person is spoken to about wisdom they don’t lose their temper, they don’t get annoyed, hostile, and hard-hearted, or display annoyance, hate, and bitterness. "
 
 msgctxt "an5.157:12.3"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "an5.157:12.4"
-msgid "Tañhi so, bhikkhave, paññāsampadaṃ attani samanupassati labhati ca tatonidānaṃ pītipāmojjaṃ."
-msgstr "Seeing that wisdom in themselves, they get the rapture and joy that wisdom brings."
+msgid "Tañhi so, bhikkhave, paññāsampadaṃ attani samanupassati labhati ca tatonidānaṃ pītipāmojjaṃ. "
+msgstr "Seeing that wisdom in themselves, they get the rapture and joy that wisdom brings. "
 
 msgctxt "an5.157:12.5"
-msgid "Tasmā paññavato paññākathā sukathā."
-msgstr "That’s why it’s appropriate to talk to a wise person about wisdom."
+msgid "Tasmā paññavato paññākathā sukathā. "
+msgstr "That’s why it’s appropriate to talk to a wise person about wisdom. "
 
+#. HTML: </p><p>
 msgctxt "an5.157:12.6"
-msgid "Imesaṃ kho, bhikkhave, pañcannaṃ puggalānaṃ kathā sukathā puggale puggalaṃ upanidhāyā”ti."
-msgstr "These are topics that are appropriate to talk about, taking into consideration which specific one of five people you are talking to.”"
+msgid "Imesaṃ kho, bhikkhave, pañcannaṃ puggalānaṃ kathā sukathā puggale puggalaṃ upanidhāyā”ti. "
+msgstr "These are topics that are appropriate to talk about, taking into consideration which specific one of five people you are talking to.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an5.157:12.7"
-msgid "Sattamaṃ."
+msgid "Sattamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

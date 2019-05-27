@@ -2,89 +2,90 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn2.15"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn2.15"><article><div class="hgroup"><p class="division">
 msgctxt "sn2.15:0.1"
-msgid "Saṃyutta Nikāya 2"
-msgstr "Linked Discourses 2"
+msgid "Saṃyutta Nikāya 2 "
+msgstr "Linked Discourses 2 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn2.15:0.2"
-msgid "2. Anāthapiṇḍikavagga"
-msgstr "2. With Anāthapiṇḍika"
+msgid "2. Anāthapiṇḍikavagga "
+msgstr "2. With Anāthapiṇḍika "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn2.15:0.3"
-msgid "15. Candanasutta"
-msgstr "15. With Candana"
+msgid "15. Candanasutta "
+msgstr "15. With Candana "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn2.15:1.1"
-msgid "Ekamantaṃ ṭhito kho candano devaputto bhagavantaṃ gāthāya ajjhabhāsi:"
-msgstr "Standing to one side, the god Candana addressed the Buddha in verse:"
+msgid "Ekamantaṃ ṭhito kho candano devaputto bhagavantaṃ gāthāya ajjhabhāsi: "
+msgstr "Standing to one side, the god Candana addressed the Buddha in verse: "
 
-# See BB for readings, adopting variant here.
-#. </p><blockquote class="gatha"><p>
-#. <a class="sc" id="sc2"></a>
+# NOTE: See BB for readings, adopting variant here.
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: sc2
 #. VAR: Kathaṃsu → ko sū dha (bj, pts2)
 msgctxt "sn2.15:2.1"
-msgid "“Kathaṃsu tarati oghaṃ,"
-msgstr "“Who here crosses the flood,"
+msgid "“Kathaṃsu tarati oghaṃ, "
+msgstr "“Who here crosses the flood, "
 
 #. <br>
 msgctxt "sn2.15:2.2"
-msgid "rattindivamatandito;"
-msgstr "tireless all day and night?"
+msgid "rattindivamatandito; "
+msgstr "tireless all day and night? "
 
 #. <br>
 msgctxt "sn2.15:2.3"
-msgid "Appatiṭṭhe anālambe,"
-msgstr "Who, not standing and unsupported,"
+msgid "Appatiṭṭhe anālambe, "
+msgstr "Who, not standing and unsupported, "
 
 #. <br>
 msgctxt "sn2.15:2.4"
-msgid "ko gambhīre na sīdatī”ti."
-msgstr "does not sink in the deep?”"
+msgid "ko gambhīre na sīdatī”ti. "
+msgstr "does not sink in the deep?” "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 msgctxt "sn2.15:3.1"
-msgid "“Sabbadā sīlasampanno,"
-msgstr "“Someone who is always endowed with ethics,"
+msgid "“Sabbadā sīlasampanno, "
+msgstr "“Someone who is always endowed with ethics, "
 
 #. <br>
 msgctxt "sn2.15:3.2"
-msgid "Paññavā susamāhito;"
-msgstr "wise and serene,"
+msgid "Paññavā susamāhito; "
+msgstr "wise and serene, "
 
 #. <br>
 msgctxt "sn2.15:3.3"
-msgid "Āraddhavīriyo pahitatto,"
-msgstr "energetic and resolute,"
+msgid "Āraddhavīriyo pahitatto, "
+msgstr "energetic and resolute, "
 
 #. <br>
 msgctxt "sn2.15:3.4"
-msgid "Oghaṃ tarati duttaraṃ."
-msgstr "crosses the flood so hard to cross."
+msgid "Oghaṃ tarati duttaraṃ. "
+msgstr "crosses the flood so hard to cross. "
 
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.122"></a>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: pts2ed1.122, sc4
 msgctxt "sn2.15:4.1"
-msgid "Virato kāmasaññāya,"
-msgstr "Someone who desists from sensual perception,"
+msgid "Virato kāmasaññāya, "
+msgstr "Someone who desists from sensual perception, "
 
 #. <br>
 msgctxt "sn2.15:4.2"
-msgid "rūpasaṃyojanātigo;"
-msgstr "has moved past the fetter of form,"
+msgid "rūpasaṃyojanātigo; "
+msgstr "has moved past the fetter of form, "
 
 #. <br>
 msgctxt "sn2.15:4.3"
-msgid "Nandīrāgaparikkhīṇo,"
-msgstr "and has finished with relishing and greed"
+msgid "Nandīrāgaparikkhīṇo, "
+msgstr "and has finished with relishing and greed "
 
 #. <br>
 msgctxt "sn2.15:4.4"
-msgid "so gambhīre na sīdatī”ti."
+msgid "so gambhīre na sīdatī”ti. "
 msgstr "does not sink in the deep.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

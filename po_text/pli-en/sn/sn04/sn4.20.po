@@ -2,142 +2,140 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn4.20"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn4.20"><article><div class="hgroup"><p class="division">
 msgctxt "sn4.20:0.1"
-msgid "Saṃyutta Nikāya 4"
-msgstr "Linked Discourses 4"
+msgid "Saṃyutta Nikāya 4 "
+msgstr "Linked Discourses 4 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn4.20:0.2"
-msgid "2. Dutiyavagga"
-msgstr "2. Rule"
+msgid "2. Dutiyavagga "
+msgstr "2. Rule "
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "sn4.20:0.3"
-msgid "20. Rajjasutta"
-msgstr "20. Rule"
+msgid "20. Rajjasutta "
+msgstr "20. Ruling "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 #. VAR: himavantapadese → himavantapasse (bj, pts2) | himavantappadese (s1-3)
 msgctxt "sn4.20:1.1"
-msgid "Ekaṃ samayaṃ bhagavā kosalesu viharati himavantapadese araññakuṭikāyaṃ."
-msgstr "At one time the Buddha was staying in the land of the Kosalans, in a wilderness hut on the slopes of the Himalayas."
+msgid "Ekaṃ samayaṃ bhagavā kosalesu viharati himavantapadese araññakuṭikāyaṃ. "
+msgstr "At one time the Buddha was staying in the land of the Kosalans, in a wilderness hut on the slopes of the Himalayas. "
 
+#. HTML: </p><p>
 msgctxt "sn4.20:1.2"
-msgid "Atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi:"
-msgstr "Then as he was in private retreat this thought came to his mind:"
+msgid "Atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: "
+msgstr "Then as he was in private retreat this thought came to his mind, "
 
-# BB translates ajina ajapaya as “confiscate”, in line with PTS dict. However I can’t find any clear support for this sense. Rather, these occur regularly in the context of metta, suggesting that the problem is violence rather than greed, in which case the normal sense of “conquer” works well.
-#. </p><p class="added">
+# NOTE: BB translates ajina ajapaya as “confiscate”, in line with PTS dict. However I can’t find any clear support for this sense. Rather, these occur regularly in the context of metta, suggesting that the problem is violence rather than greed, in which case the normal sense of “conquer” works well.
 msgctxt "sn4.20:1.3"
-msgid "“sakkā nu kho rajjaṃ kāretuṃ ahanaṃ aghātayaṃ ajinaṃ ajāpayaṃ asocaṃ asocāpayaṃ dhammenā”ti?"
-msgstr "“I wonder if it’s possible to rule legitimately, without killing or having someone kill for you; without conquering or having someone conquer for you; without sorrowing or causing sorrow?”"
+msgid "“sakkā nu kho rajjaṃ kāretuṃ ahanaṃ aghātayaṃ ajinaṃ ajāpayaṃ asocaṃ asocāpayaṃ dhammenā”ti? "
+msgstr "“I wonder if it’s possible to rule legitimately, without killing or having someone kill for you; without conquering or having someone conquer for you; without sorrowing or causing sorrow?” "
 
-#. </p><p>
-#. <a class="pts2ed" id="pts2ed1.257"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: pts2ed1.257, sc2
 msgctxt "sn4.20:2.1"
-msgid "Atha kho māro pāpimā bhagavato cetasā cetoparivitakkamaññāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ etadavoca:"
-msgstr "And then Māra the Wicked, knowing what the Buddha was thinking, went up to him and said:"
+msgid "Atha kho māro pāpimā bhagavato cetasā cetoparivitakkamaññāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ etadavoca: "
+msgstr "And then Māra the Wicked, knowing what the Buddha was thinking, went up to him and said, "
 
-#. </p><p class="added">
 msgctxt "sn4.20:2.2"
-msgid "“kāretu, bhante, bhagavā rajjaṃ, kāretu, sugato, rajjaṃ ahanaṃ aghātayaṃ ajinaṃ ajāpayaṃ asocaṃ asocāpayaṃ dhammenā”ti."
-msgstr "“Rule, Blessed One! Rule, Holy One! Rule legitimately, without killing or having someone kill for you; without conquering or having someone conquer for you; without sorrowing or causing sorrow!”"
+msgid "“kāretu, bhante, bhagavā rajjaṃ, kāretu, sugato, rajjaṃ ahanaṃ aghātayaṃ ajinaṃ ajāpayaṃ asocaṃ asocāpayaṃ dhammenā”ti. "
+msgstr "“Rule, Blessed One! Rule, Holy One! Rule legitimately, without killing or having someone kill for you; without conquering or having someone conquer for you; without sorrowing or causing sorrow!” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn4.20:2.3"
-msgid "“Kiṃ pana me tvaṃ, pāpima, passasi yaṃ maṃ tvaṃ evaṃ vadesi:"
-msgstr "“But what do you see, Wicked One, that you say this to me?”"
+msgid "“Kiṃ pana me tvaṃ, pāpima, passasi yaṃ maṃ tvaṃ evaṃ vadesi: "
+msgstr "“But what do you see, Wicked One, that you say this to me?” "
 
 msgctxt "sn4.20:2.4"
-msgid "‘kāretu, bhante, bhagavā rajjaṃ, kāretu sugato, rajjaṃ ahanaṃ aghātayaṃ ajinaṃ ajāpayaṃ asocaṃ asocāpayaṃ dhammenā’”ti?"
-msgstr ""
+msgid "‘kāretu, bhante, bhagavā rajjaṃ, kāretu sugato, rajjaṃ ahanaṃ aghātayaṃ ajinaṃ ajāpayaṃ asocaṃ asocāpayaṃ dhammenā’”ti? "
+msgstr " "
 
-#. </p><p class="added">
-msgctxt "sn4.20:2.5
-msgid "“Bhagavatā kho, bhante, cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā."
-msgstr "“The Blessed One, sir, has developed and cultivated the four bases for psychic power, made them a vehicle and a basis, kept them up, consolidated them, and properly implemented them."
+#. HTML: </p><p>
+msgctxt "sn4.20:2.5"
+msgid "“Bhagavatā kho, bhante, cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā. "
+msgstr "“The Blessed One, sir, has developed and cultivated the four bases for psychic power, made them a vehicle and a basis, kept them up, consolidated them, and properly implemented them. "
 
 #. VAR: suvaṇṇañca panassā”ti → suvaṇṇapabbatassāti (bj, s1-3, km) | suvaṇṇañca pabbatassāti (pts1-2)
 msgctxt "sn4.20:2.6"
-msgid "Ākaṅkhamāno ca, bhante, bhagavā himavantaṃ pabbatarājaṃ suvaṇṇaṃ tveva adhimucceyya suvaṇṇañca panassā”ti."
-msgstr "If he wished, the Blessed One need only determine that the Himalaya, king of mountains, was gold, and it would turn into gold.”"
+msgid "Ākaṅkhamāno ca, bhante, bhagavā himavantaṃ pabbatarājaṃ suvaṇṇaṃ tveva adhimucceyya suvaṇṇañca panassā”ti. "
+msgstr "If he wished, the Blessed One need only determine that the Himalaya, king of mountains, was gold, and it would turn into gold.” "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="pts1ed" id="pts1ed1.117"></a>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: pts1ed1.117, sc3
 msgctxt "sn4.20:3.1"
-msgid "“Pabbatassa suvaṇṇassa,"
-msgstr "“Take a golden mountain,"
+msgid "“Pabbatassa suvaṇṇassa, "
+msgstr "“Take a golden mountain, "
 
 #. <br>
 msgctxt "sn4.20:3.2"
-msgid "jātarūpassa kevalo;"
+msgid "jātarūpassa kevalo; "
 msgstr "made entirely of gold, and double it—"
 
 #. <br>
 msgctxt "sn4.20:3.3"
-msgid "Dvittāva nālamekassa,"
-msgstr "it’s still not enough for one!"
+msgid "Dvittāva nālamekassa, "
+msgstr "it’s still not enough for one! "
 
 #. <br>
 msgctxt "sn4.20:3.4"
-msgid "iti vidvā samañcare."
-msgstr "Knowing this, live a moral life."
+msgid "iti vidvā samañcare. "
+msgstr "Knowing this, live a moral life. "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn4.20:4.1"
-msgid "Yo dukkhamaddakkhi yatonidānaṃ,"
-msgstr "When a person has seen where suffering comes from"
+msgid "Yo dukkhamaddakkhi yatonidānaṃ, "
+msgstr "When a person has seen where suffering comes from "
 
 #. <br>
 msgctxt "sn4.20:4.2"
-msgid "Kāmesu so jantu kathaṃ nameyya;"
-msgstr "how could they incline towards sensual pleasures?"
+msgid "Kāmesu so jantu kathaṃ nameyya; "
+msgstr "how could they incline towards sensual pleasures? "
 
 #. <br>
 msgctxt "sn4.20:4.3"
-msgid "Upadhiṃ viditvā saṅgoti loke,"
-msgstr "Realizing that attachment is a tie in the world,"
+msgid "Upadhiṃ viditvā saṅgoti loke, "
+msgstr "Realizing that attachment is a tie in the world, "
 
 #. <br>
 msgctxt "sn4.20:4.4"
-msgid "Tasseva jantu vinayāya sikkhe”ti."
-msgstr "a person would train to remove it.”"
+msgid "Tasseva jantu vinayāya sikkhe”ti. "
+msgstr "a person would train to remove it.” "
 
-#. </p></blockquote><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p></blockquote><p>
+#. REF: sc5
 msgctxt "sn4.20:5.1"
-msgid "Atha kho māro pāpimā “jānāti maṃ bhagavā, jānāti maṃ sugato”ti dukkhī dummano tatthevantaradhāyīti."
-msgstr "Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there."
+msgid "Atha kho māro pāpimā “jānāti maṃ bhagavā, jānāti maṃ sugato”ti dukkhī dummano tatthevantaradhāyīti. "
+msgstr "Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there. "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn4.20:5.2"
-msgid "Dutiyo vaggo."
-msgstr ""
+msgid "Dutiyo vaggo. "
+msgstr " "
 
-#. </p><blockquote class="uddanagatha"><p>
-#. <a class="pts2ed" id="pts2ed1.258"></a>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: pts2ed1.258, sc6
 #. VAR: sakalikaṃ → sakalikā (bj) | sakkhalikaṃ (mr)
 msgctxt "sn4.20:6.1"
-msgid "Pāsāṇo sīho sakalikaṃ,"
-msgstr ""
+msgid "Pāsāṇo sīho sakalikaṃ, "
+msgstr " "
 
 #. <br>
 msgctxt "sn4.20:6.2"
-msgid "Patirūpañca mānasaṃ;"
-msgstr ""
+msgid "Patirūpañca mānasaṃ; "
+msgstr " "
 
 #. <br>
 msgctxt "sn4.20:6.3"
-msgid "Pattaṃ āyatanaṃ piṇḍaṃ,"
-msgstr ""
+msgid "Pattaṃ āyatanaṃ piṇḍaṃ, "
+msgstr " "
 
 #. <br>
 msgctxt "sn4.20:6.4"
-msgid "Kassakaṃ rajjena te dasāti."
+msgid "Kassakaṃ rajjena te dasāti. "
 msgstr ""
+
+#. HTML: </p></blockquote></article></section></body></html>

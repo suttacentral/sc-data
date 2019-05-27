@@ -2,135 +2,135 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn12.19"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn12.19"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.19:0.1"
-msgid "Saṃyutta Nikāya 12"
-msgstr "Linked Discourses 12"
+msgid "Saṃyutta Nikāya 12 "
+msgstr "Linked Discourses 12 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn12.19:0.2"
-msgid "2. Āhāravagga"
-msgstr "2. Fuel"
+msgid "2. Āhāravagga "
+msgstr "2. Fuel "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 19. Bālapaṇḍitasutta → bālena paṇḍito (pts1-2)
 msgctxt "sn12.19:0.3"
-msgid "19. Bālapaṇḍitasutta"
-msgstr "19. The Astute and the Foolish"
+msgid "19. Bālapaṇḍitasutta "
+msgstr "19. The Astute and the Foolish "
 
-#. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.24"></a>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: pts-vp-pli2.24, sc1
 msgctxt "sn12.19:1.1"
-msgid "Sāvatthiyaṃ viharati."
-msgstr "At Sāvatthī."
+msgid "Sāvatthiyaṃ viharati. "
+msgstr "At Sāvatthī. "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn12.19:1.2"
-msgid "“Avijjānīvaraṇassa, bhikkhave, bālassa taṇhāya sampayuttassa evamayaṃ kāyo samudāgato."
-msgstr "“Mendicants, for a fool hindered by ignorance and fettered by craving, this body has been produced."
+msgid "“Avijjānīvaraṇassa, bhikkhave, bālassa taṇhāya sampayuttassa evamayaṃ kāyo samudāgato. "
+msgstr "“Mendicants, for a fool hindered by ignorance and fettered by craving, this body has been produced. "
 
-# From the sequence of the sentence, it would appear that etesam va annaterena applies to “pleasure or pain”. However this idiom regularly takes the instrumental: see AN 4.170, AN 4.258, etc.
+# NOTE: From the sequence of the sentence, it would appear that etesam va annaterena applies to “pleasure or pain”. However this idiom regularly takes the instrumental: see AN 4.170, AN 4.258, etc.
 #. VAR: saḷevāyatanāni → saḷāyatanāni (mr)
 msgctxt "sn12.19:1.3"
-msgid "Iti ayañceva kāyo bahiddhā ca nāmarūpaṃ, itthetaṃ dvayaṃ, dvayaṃ paṭicca phasso saḷevāyatanāni, yehi phuṭṭho bālo sukhadukkhaṃ paṭisaṃvedayati etesaṃ vā aññatarena."
-msgstr "So there is the duality of this body and external name and form. Contact depends on this duality. When contacted through one or other of the six sense fields, the fool experiences pleasure and pain."
+msgid "Iti ayañceva kāyo bahiddhā ca nāmarūpaṃ, itthetaṃ dvayaṃ, dvayaṃ paṭicca phasso saḷevāyatanāni, yehi phuṭṭho bālo sukhadukkhaṃ paṭisaṃvedayati etesaṃ vā aññatarena. "
+msgstr "So there is the duality of this body and external name and form. Contact depends on this duality. When contacted through one or other of the six sense fields, the fool experiences pleasure and pain. "
 
-#. </p><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><p>
+#. REF: sc2
 msgctxt "sn12.19:2.1"
-msgid "Avijjānīvaraṇassa, bhikkhave, paṇḍitassa taṇhāya sampayuttassa evamayaṃ kāyo samudāgato."
-msgstr "For an astute person hindered by ignorance and fettered by craving, this body has been produced."
+msgid "Avijjānīvaraṇassa, bhikkhave, paṇḍitassa taṇhāya sampayuttassa evamayaṃ kāyo samudāgato. "
+msgstr "For an astute person hindered by ignorance and fettered by craving, this body has been produced. "
 
 msgctxt "sn12.19:2.2"
-msgid "Iti ayañceva kāyo bahiddhā ca nāmarūpaṃ, itthetaṃ dvayaṃ, dvayaṃ paṭicca phasso saḷevāyatanāni, yehi phuṭṭho paṇḍito sukhadukkhaṃ paṭisaṃvedayati etesaṃ vā aññatarena."
-msgstr "So there is the duality of this body and external name and form. Contact depends on this duality. When contacted through one or other of the six sense fields, the astute person experiences pleasure and pain."
+msgid "Iti ayañceva kāyo bahiddhā ca nāmarūpaṃ, itthetaṃ dvayaṃ, dvayaṃ paṭicca phasso saḷevāyatanāni, yehi phuṭṭho paṇḍito sukhadukkhaṃ paṭisaṃvedayati etesaṃ vā aññatarena. "
+msgstr "So there is the duality of this body and external name and form. Contact depends on this duality. When contacted through one or other of the six sense fields, the astute person experiences pleasure and pain. "
 
-#. </p><p>
-#. <a class="sc" id="sc3"></a>
+#. HTML: </p><p>
+#. REF: sc3
 #. VAR: adhippayāso → adhippāyo (bj, pts1-2, mr) | adhippāyaso (s1-3, km)
 msgctxt "sn12.19:3.1"
-msgid "Tatra, bhikkhave, ko viseso ko adhippayāso kiṃ nānākaraṇaṃ paṇḍitassa bālenā”ti?"
-msgstr "What, then, is the difference between the foolish and the astute?”"
+msgid "Tatra, bhikkhave, ko viseso ko adhippayāso kiṃ nānākaraṇaṃ paṇḍitassa bālenā”ti? "
+msgstr "What, then, is the difference between the foolish and the astute?” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn12.19:3.2"
-msgid "“Bhagavaṃmūlakā no, bhante, dhammā, bhagavaṃnettikā, bhagavaṃpaṭisaraṇā. Sādhu vata, bhante, bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. Bhagavato sutvā bhikkhū dhāressantī”ti."
-msgstr "“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.”"
+msgid "“Bhagavaṃmūlakā no, bhante, dhammā, bhagavaṃnettikā, bhagavaṃpaṭisaraṇā. Sādhu vata, bhante, bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. Bhagavato sutvā bhikkhū dhāressantī”ti. "
+msgstr "“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.” "
 
-#. </p><p>
-#. <a class="sc" id="sc4"></a>
+#. HTML: </p><p>
+#. REF: sc4
 msgctxt "sn12.19:4.1"
-msgid "“Tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti."
-msgstr "“Well then, mendicants, listen and pay close attention, I will speak.”"
+msgid "“Tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti. "
+msgstr "“Well then, mendicants, listen and pay close attention, I will speak.” "
 
-#. </p><p class="added">
+#. HTML: </p><p>
 msgctxt "sn12.19:4.2"
-msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ."
-msgstr "“Yes, sir,” they replied."
+msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. "
+msgstr "“Yes, sir,” they replied. "
 
 msgctxt "sn12.19:4.3"
-msgid "Bhagavā etadavoca:"
-msgstr "The Buddha said this:"
+msgid "Bhagavā etadavoca: "
+msgstr "The Buddha said this: "
 
-#. </p><p>
-#. <a class="sc" id="sc5"></a>
+#. HTML: </p><p>
+#. REF: sc5
 msgctxt "sn12.19:5.1"
-msgid "“Yāya ca, bhikkhave, avijjāya nivutassa bālassa yāya ca taṇhāya sampayuttassa ayaṃ kāyo samudāgato, sā ceva avijjā bālassa appahīnā sā ca taṇhā aparikkhīṇā."
-msgstr "“For a fool hindered by ignorance and fettered by craving, this body has been produced. But the fool has not given up that ignorance or finished that craving."
+msgid "“Yāya ca, bhikkhave, avijjāya nivutassa bālassa yāya ca taṇhāya sampayuttassa ayaṃ kāyo samudāgato, sā ceva avijjā bālassa appahīnā sā ca taṇhā aparikkhīṇā. "
+msgstr "“For a fool hindered by ignorance and fettered by craving, this body has been produced. But the fool has not given up that ignorance or finished that craving. "
 
 msgctxt "sn12.19:5.2"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "sn12.19:5.3"
-msgid "Na, bhikkhave, bālo acari brahmacariyaṃ sammā dukkhakkhayāya."
-msgstr "The fool has not completed the spiritual journey for the complete ending of suffering."
+msgid "Na, bhikkhave, bālo acari brahmacariyaṃ sammā dukkhakkhayāya. "
+msgstr "The fool has not completed the spiritual journey for the complete ending of suffering. "
 
 msgctxt "sn12.19:5.4"
 msgid "Tasmā bālo kāyassa bhedā kāyūpago hoti, "
 msgstr "Therefore, when their body breaks up, the fool is reborn in another body. "
 
 msgctxt "sn12.19:5.5"
-msgid "so kāyūpago samāno na parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi."
-msgstr "When reborn in another body, they’re not freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress."
+msgid "so kāyūpago samāno na parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. "
+msgstr "When reborn in another body, they’re not freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. "
 
 msgctxt "sn12.19:5.6"
-msgid "Na parimuccati dukkhasmāti vadāmi."
-msgstr "They’re not freed from suffering, I say."
+msgid "Na parimuccati dukkhasmāti vadāmi. "
+msgstr "They’re not freed from suffering, I say. "
 
-#. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.25"></a>
-#. <a class="sc" id="sc6"></a>
+#. HTML: </p><p>
+#. REF: pts-vp-pli2.25, sc6
 msgctxt "sn12.19:6.1"
-msgid "Yāya ca, bhikkhave, avijjāya nivutassa paṇḍitassa yāya ca taṇhāya sampayuttassa ayaṃ kāyo samudāgato, sā ceva avijjā paṇḍitassa pahīnā, sā ca taṇhā parikkhīṇā."
-msgstr "For an astute person hindered by ignorance and fettered by craving, this body has been produced. But the astute person has given up that ignorance and finished that craving."
+msgid "Yāya ca, bhikkhave, avijjāya nivutassa paṇḍitassa yāya ca taṇhāya sampayuttassa ayaṃ kāyo samudāgato, sā ceva avijjā paṇḍitassa pahīnā, sā ca taṇhā parikkhīṇā. "
+msgstr "For an astute person hindered by ignorance and fettered by craving, this body has been produced. But the astute person has given up that ignorance and finished that craving. "
 
 msgctxt "sn12.19:6.2"
-msgid "Taṃ kissa hetu?"
-msgstr "Why is that?"
+msgid "Taṃ kissa hetu? "
+msgstr "Why is that? "
 
 msgctxt "sn12.19:6.3"
-msgid "Acari, bhikkhave, paṇḍito brahmacariyaṃ sammā dukkhakkhayāya."
-msgstr "The astute person has completed the spiritual journey for the complete ending of suffering."
+msgid "Acari, bhikkhave, paṇḍito brahmacariyaṃ sammā dukkhakkhayāya. "
+msgstr "The astute person has completed the spiritual journey for the complete ending of suffering. "
 
 msgctxt "sn12.19:6.4"
-msgid "Tasmā paṇḍito kāyassa bhedā na kāyūpago hoti."
-msgstr "Therefore, when their body breaks up, the astute person is not reborn in another body."
+msgid "Tasmā paṇḍito kāyassa bhedā na kāyūpago hoti. "
+msgstr "Therefore, when their body breaks up, the astute person is not reborn in another body. "
 
 msgctxt "sn12.19:6.5"
-msgid "So akāyūpago samāno parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi."
-msgstr "Not being reborn in another body, they’re freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress."
+msgid "So akāyūpago samāno parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. "
+msgstr "Not being reborn in another body, they’re freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. "
 
 msgctxt "sn12.19:6.6"
-msgid "Parimuccati dukkhasmāti vadāmi."
-msgstr "They’re freed from suffering, I say."
+msgid "Parimuccati dukkhasmāti vadāmi. "
+msgstr "They’re freed from suffering, I say. "
 
 msgctxt "sn12.19:6.7"
-msgid "Ayaṃ kho, bhikkhave, viseso, ayaṃ adhippayāso, idaṃ nānākaraṇaṃ paṇḍitassa bālena yadidaṃ brahmacariyavāso”ti."
-msgstr "This is the difference here between the foolish and the astute, that is, living the spiritual life.”"
+msgid "Ayaṃ kho, bhikkhave, viseso, ayaṃ adhippayāso, idaṃ nānākaraṇaṃ paṇḍitassa bālena yadidaṃ brahmacariyavāso”ti. "
+msgstr "This is the difference here between the foolish and the astute, that is, living the spiritual life.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "sn12.19:6.8"
-msgid "Navamaṃ."
+msgid "Navamaṃ. "
 msgstr ""
+
+#. HTML: </p></article></section></body></html>

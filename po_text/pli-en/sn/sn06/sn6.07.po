@@ -2,58 +2,61 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="sn6.7"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="sn6.7"><article><div class="hgroup"><p class="division">
 msgctxt "sn6.7:0.1"
-msgid "Saṃyutta Nikāya 6"
-msgstr "Linked Discourses 6"
+msgid "Saṃyutta Nikāya 6 "
+msgstr "Linked Discourses 6 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "sn6.7:0.2"
-msgid "1. Paṭhamavagga"
-msgstr "1. The Appeal"
+msgid "1. Paṭhamavagga "
+msgstr "1. The Appeal "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 7. Kokālikasutta → kokālikasuttaṃ (1) (s1, pts2) | paṭhamakokālikasuttaṃ (s2, s3)
 msgctxt "sn6.7:0.3"
-msgid "7. Kokālikasutta"
-msgstr "7. About Kokālika"
+msgid "7. Kokālikasutta "
+msgstr "7. About Kokālika "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 msgctxt "sn6.7:1.1"
-msgid "Sāvatthinidānaṃ."
-msgstr "At Sāvatthī."
+msgid "Sāvatthinidānaṃ. "
+msgstr "At Sāvatthī. "
 
+#. HTML: </p><p>
 msgctxt "sn6.7:1.2"
-msgid "Tena kho pana samayena bhagavā divāvihāragato hoti paṭisallīno."
-msgstr "Now at that time the Buddha had gone into retreat for the day’s meditation."
+msgid "Tena kho pana samayena bhagavā divāvihāragato hoti paṭisallīno. "
+msgstr "Now at that time the Buddha had gone into retreat for the day’s meditation. "
 
 msgctxt "sn6.7:1.3"
-msgid "Atha kho subrahmā ca paccekabrahmā suddhāvāso ca paccekabrahmā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā paccekaṃ dvārabāhaṃ nissāya aṭṭhaṃsu."
-msgstr "Then the independent brahmās Subrahmā and Suddhāvāsa went to the Buddha and stationed themselves one by each door-post."
+msgid "Atha kho subrahmā ca paccekabrahmā suddhāvāso ca paccekabrahmā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā paccekaṃ dvārabāhaṃ nissāya aṭṭhaṃsu. "
+msgstr "Then the independent brahmās Subrahmā and Suddhāvāsa went to the Buddha and stationed themselves one by each door-post. "
 
+#. HTML: </p><p>
 msgctxt "sn6.7:1.4"
-msgid "Atha kho subrahmā paccekabrahmā kokālikaṃ bhikkhuṃ ārabbha bhagavato santike imaṃ gāthaṃ abhāsi:"
-msgstr "Then Subrahmā recited this verse about the mendicant Kokālika in the Buddha’s presence:"
+msgid "Atha kho subrahmā paccekabrahmā kokālikaṃ bhikkhuṃ ārabbha bhagavato santike imaṃ gāthaṃ abhāsi: "
+msgstr "Then Subrahmā recited this verse about the mendicant Kokālika in the Buddha’s presence: "
 
-#. </p><blockquote class="gatha"><p>
-#. <a class="pts2ed" id="pts2ed1.323"></a>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="gatha"><p>
+#. REF: pts2ed1.323, sc2
 msgctxt "sn6.7:2.1"
-msgid "“Appameyyaṃ paminanto,"
-msgstr "“What wise person here would judge"
+msgid "“Appameyyaṃ paminanto, "
+msgstr "“What wise person here would judge "
 
 #. <br>
 msgctxt "sn6.7:2.2"
-msgid "Kodha vidvā vikappaye;"
-msgstr "the immeasurable by measuring them?"
+msgid "Kodha vidvā vikappaye; "
+msgstr "the immeasurable by measuring them? "
 
 #. <br>
 msgctxt "sn6.7:2.3"
-msgid "Appameyyaṃ pamāyinaṃ,"
-msgstr "I think anyone who’d do such a thing"
+msgid "Appameyyaṃ pamāyinaṃ, "
+msgstr "I think anyone who’d do such a thing "
 
 #. <br>
 msgctxt "sn6.7:2.4"
-msgid "Nivutaṃ taṃ maññe puthujjanan”ti."
+msgid "Nivutaṃ taṃ maññe puthujjanan”ti. "
 msgstr "must be an ordinary person, wrapped in darkness.”"
+
+#. HTML: </p></blockquote></article></section></body></html>

@@ -2,65 +2,67 @@ msgid ""
 msgstr ""
 ""
 
-#. <section class="sutta" id="an8.90"><article><div class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="an8.90"><article><div class="hgroup"><p class="division">
 msgctxt "an8.90:0.1"
-msgid "Aṅguttara Nikāya 8"
-msgstr "Numbered Discourses 8"
+msgid "Aṅguttara Nikāya 8 "
+msgstr "Numbered Discourses 8 "
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "an8.90:0.2"
-msgid "9. Sativagga"
-msgstr "9. Mindfulness"
+msgid "9. Sativagga "
+msgstr "9. Mindfulness "
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 90. Sammāvattanasutta → tassapāpiyyasikā sammāvattanasuttaṃ (bj)
 msgctxt "an8.90:0.3"
-msgid "90. Sammāvattanasutta"
-msgstr "90. Proper Behavior in a Case of Aggravated Misconduct"
+msgid "90. Sammāvattanasutta "
+msgstr "90. Proper Behavior in a Case of Aggravated Misconduct "
 
-#. </h1></div><p>
-#. <a class="sc" id="sc1"></a>
+#. HTML: </h1></div><p>
+#. REF: sc1
 #. VAR: Tassapāpiyasikakammakatena → tassapāpiyyasikā … (bj, s1-3, pts1)
 msgctxt "an8.90:1.1"
 msgid "“Tassapāpiyasikakammakatena, bhikkhave, bhikkhunā aṭṭhasu dhammesu sammā vattitabbaṃ—"
-msgstr "“Mendicants, a mendicant who has been convicted of aggravated misconduct must behave themselves properly in eight respects."
+msgstr "“Mendicants, a mendicant who has been convicted of aggravated misconduct must behave themselves properly in eight respects. "
 
-# The last item is unclear, I follow Brahmali’s interpretation via BB, but translate freely. paccekaṭṭhāne ṭhapetabbo only occurs in one other place, the ekuttarika of the parivara, where it is also not explained. BB follows the com, I translate more literally.
+# NOTE: The last item is unclear, I follow Brahmali’s interpretation via BB, but translate freely. paccekaṭṭhāne ṭhapetabbo only occurs in one other place, the ekuttarika of the parivara, where it is also not explained. BB follows the com, I translate more literally.
 msgctxt "an8.90:1.2"
-msgid "na upasampādetabbo, na nissayo dātabbo, na sāmaṇero upaṭṭhāpetabbo, na bhikkhunovādakasammuti sāditabbā, sammatenapi bhikkhuniyo na ovaditabbā, na kāci saṃghasammuti sāditabbā, na kismiñci paccekaṭṭhāne ṭhapetabbo, na ca tena mūlena vuṭṭhāpetabbo."
-msgstr "They must not perform an ordination, give dependence, or be attended by a novice. They must not consent to being appointed as adviser for nuns, and if they are appointed they should not give such advice. They must not consent to any Saṅgha appointment. They must not be put in an isolated place. They must not give rehabilitation in any offense similar to that which they transgressed."
+msgid "na upasampādetabbo, na nissayo dātabbo, na sāmaṇero upaṭṭhāpetabbo, na bhikkhunovādakasammuti sāditabbā, sammatenapi bhikkhuniyo na ovaditabbā, na kāci saṃghasammuti sāditabbā, na kismiñci paccekaṭṭhāne ṭhapetabbo, na ca tena mūlena vuṭṭhāpetabbo. "
+msgstr "They must not perform an ordination, give dependence, or be attended by a novice. They must not consent to being appointed as adviser for nuns, and if they are appointed they should not give such advice. They must not consent to any Saṅgha appointment. They must not be put in an isolated place. They must not give rehabilitation in any offense similar to that which they transgressed. "
 
 msgctxt "an8.90:1.3"
-msgid "Tassapāpiyasikakammakatena, bhikkhave, bhikkhunā imesu aṭṭhasu dhammesu sammā vattitabban”ti."
-msgstr "A mendicant who has been convicted of aggravated misconduct must behave themselves properly in these eight respects.”"
+msgid "Tassapāpiyasikakammakatena, bhikkhave, bhikkhunā imesu aṭṭhasu dhammesu sammā vattitabban”ti. "
+msgstr "A mendicant who has been convicted of aggravated misconduct must behave themselves properly in these eight respects.” "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an8.90:1.4"
-msgid "Dasamaṃ."
-msgstr ""
+msgid "Dasamaṃ. "
+msgstr " "
 
-#. </p><p class="endsection">
+#. HTML: </p><p class="endsection">
 msgctxt "an8.90:1.5"
-msgid "Sativaggo catuttho."
-msgstr ""
+msgid "Sativaggo catuttho. "
+msgstr " "
 
-#. </p><blockquote class="uddanagatha"><p>
-#. <a class="sc" id="sc2"></a>
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: sc2
 msgctxt "an8.90:2.1"
-msgid "Satipuṇṇiyamūlena,"
-msgstr ""
+msgid "Satipuṇṇiyamūlena, "
+msgstr " "
 
 #. <br>
 msgctxt "an8.90:2.2"
-msgid "Corasamaṇena pañcamaṃ;"
-msgstr ""
+msgid "Corasamaṇena pañcamaṃ; "
+msgstr " "
 
 #. <br>
 msgctxt "an8.90:2.3"
-msgid "Yaso pattappasādena,"
-msgstr ""
+msgid "Yaso pattappasādena, "
+msgstr " "
 
 #. <br>
 msgctxt "an8.90:2.4"
-msgid "Paṭisāraṇīyañca vattananti."
+msgid "Paṭisāraṇīyañca vattananti. "
 msgstr ""
+
+#. HTML: </p></blockquote></article></section></body></html>

@@ -318,6 +318,12 @@
     "iso_code": "hi"
   },
   {
+    "uid": "hr",
+    "name": "hrvatski",
+    "is_root": false,
+    "iso_code": "hr"
+  },
+  {
     "uid": "hu",
     "name": "Magyar",
     "is_root": false,
