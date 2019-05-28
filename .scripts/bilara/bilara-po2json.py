@@ -36,7 +36,7 @@ def hacked_numericsortkey(obj):
     return numericsortkey(string)
 
 
-po_files = sorted(PO_DIR.glob("**/dn/*"), key=hacked_numericsortkey)
+po_files = sorted(PO_DIR.glob("**/[mnsa]n*"), key=hacked_numericsortkey)
 
 
 def parse_info_po(po):
@@ -52,22 +52,6 @@ last_info = None
 last_info_file = None
 
 for file in po_files:
-
-    rel_file = file.relative_to(PO_DIR)
-
-    langs = rel_file.parts[0]
-    if '-' in langs:
-        root_lang, translation_lang = langs.split('-')
-    
-    project_dir = rel_file.parts[1:-1]
-
-    with file.open("rb") as f:
-        po = pofile(f)
-    if file.name == "info.po":
-        last_info = parse_info_po(po)
-        last_info_file = file
-        continue
-
     if file.is_dir():
         if not last_info_file:
             continue
@@ -77,6 +61,21 @@ for file in po_files:
             print(f"Clearing info because {file} is not parent")
             last_info = None
             last_info_file = None
+            continue
+    rel_file = file.relative_to(PO_DIR)
+
+    langs = rel_file.parts[0]
+    if "-" in langs:
+        root_lang, translation_lang = langs.split("-")
+
+    project_dir = rel_file.parts[1:-1]
+
+    with file.open("rb") as f:
+        po = pofile(f)
+    if file.name == "info.po":
+        last_info = parse_info_po(po)
+        last_info_file = file
+        continue
 
     rel_parts = file.relative_to(PO_DIR).parts
     division = rel_parts[1]
@@ -111,11 +110,13 @@ for file in po_files:
             else:
 
                 if comment.startswith(HTML_PREFIX):
-                    html.append(comment[len(HTML_PREFIX) :].strip())
+                    html.append(comment[len(HTML_PREFIX) :].strip("\n"))
                 elif comment.startswith(REF_PREFIX):
-                    ref.extend(c.strip() for c in comment[len(REF_PREFIX) :].split(","))
+                    ref.extend(
+                        c.strip("\n") for c in comment[len(REF_PREFIX) :].split(",")
+                    )
                 else:
-                    raise ValueError(f"Markup not recognized: {file}\n\t{comment}")
+                    print(f"Markup not recognized: {file}\n\t{comment}")
 
         assert len(unit.othercomments) <= 1
         for comment in unit.othercomments:
@@ -159,13 +160,47 @@ for file in po_files:
     # pli/dn/dn1/dn1.variant_notes.json
     # pli/dn/dn1/dn1.translator_comments.json
 
-
-    for tag in ['root', 'translation', 'markup', 'reference', 'variant_notes', 'translator_comments']:
-        out_dir = OUT_DIR / tag / '/'.join(project_dir)
+    for tag in [
+        "root",
+        "translation",
+        "markup",
+        "reference",
+        "variant_notes",
+        "translator_comments",
+    ]:
+        out_dir = OUT_DIR / tag / "/".join(project_dir)
         if not out_dir.exists():
             out_dir.mkdir(parents=True)
-        out_file = out_dir / f'{file.stem}.json'
+        out_file = out_dir / f"{file.stem}.json"
 
-        with out_file.open('w') as f:
+        with out_file.open("w") as f:
             json.dump(data[tag], f, indent=2, ensure_ascii=False)
 
+    # verify
+    data_string = json.dumps(data, indent=2, ensure_ascii=False)
+
+    with file.open("r") as f:
+        lines = f.readlines()
+
+    for i, line in enumerate(lines):
+
+        m = regex.search(r"#\.? (?:NOTE|HTML|VAR|REF): (.*)", line)
+        if m and 'REF:' in line:
+            refs = [ref.strip() for ref in m[1].split(',')]
+            for ref in refs:
+                if ref not in data_string:
+                    print(f'Line not found: {i+1}: "{line}"')
+                    break
+            continue
+        if not m:
+            m = regex.search(r'"(.+)"', line)
+        if not m:
+            m = regex.search(r'((?:(?<!^)\b\w+\b[\s,.?]*)+)', line)
+        if m:
+            string = m[1].strip('\n')
+            if json.dumps(string, ensure_ascii=False) in data_string:
+                continue
+            else:
+                print(f'Line not found {file.name}:{i+1}: "{line}"')
+                raise ValueError
+        
