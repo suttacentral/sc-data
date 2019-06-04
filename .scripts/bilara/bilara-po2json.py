@@ -1,6 +1,7 @@
 import json
 import regex
 import pathlib
+import subprocess
 from translate.storage.po import pofile
 
 import sys
@@ -51,7 +52,17 @@ def printif(obj):
 last_info = None
 last_info_file = None
 
+done_file = pathlib.Path('.done.json')
+
+if done_file.exists():
+    with done_file.open('r') as f:
+        done = json.load(f)
+else:
+    done = {}
+
 for file in po_files:
+    if str(file) in done:
+        continue
     if file.is_dir():
         if not last_info_file:
             continue
@@ -202,5 +213,8 @@ for file in po_files:
                 continue
             else:
                 print(f'Line not found {file.name}:{i+1}: "{line}"')
+                with done_file.open('w') as f:
+                    json.dump(done, f)
+                subprocess.run(['geany', f'{str(file)}:{i+1}'])
                 raise ValueError
-        
+    done[str(file)] = True
