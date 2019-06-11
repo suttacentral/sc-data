@@ -252,17 +252,7 @@ class Html2Po:
         return r'''
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: {date}\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: suttacentral\n"
-"Language: {lang}\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: sc-html2po\n"'''.format(date=time.strftime('%Y-%m-%d %H:%M%z'), lang=args.lang)
+'''
     
     def pretty_string(self, string):
         string = regex.sub(r'(?i)\n(\n#: <br[^>]*>)', r'\1', string)
@@ -391,4 +381,54 @@ for file in infiles:
     catalog = html2po.create_catalog()
     with outfile.open('wb') as f:
         write_po(f, catalog, width=-1)
+    
+    with outfile.open() as f:
+        string = oldstring = f.read()
+
+    string = regex.sub(r'\s*(msgid ""\nmsgstr ""\n)(".*"\n)+', r'\1', string)
+    
+    # join comments into one
+    string = regex.sub(r'#. VAR: (?<note>.+)\n(?:#\. (?<note>(?!VAR).+)\n)*', lambda m: '#. VAR: ' + ' '.join(m.captures('note')) + '\n', string)
+
+
+
+    def wrangle_html(m):
+
+        string = ' '.join(m.captures(1))
+
+        refs = []
+        
+        def wrangle_anchor(m2):
+
+            root = lxml.html.fromstring(m2[0])
+            if len(root.attrib) == 2 and 'id' in root.attrib and 'class' in root.attrib and not root.text:
+                a_id = root.get('id')
+                a_class = root.get('class')
+                if a_id.startswith(a_class):
+                    refs.append(a_id)
+                    return ""
+                if a_class == "sc":
+                    refs.append("sc" + a_id)
+                    return ""
+
+            
+            print(f"Don't know how to handle: {m2[0]}")
+            return m2[0]
+        
+        string = regex.sub(r'<a .*?></a>', wrangle_anchor, string)
+
+        out = []
+        if string and not string.isspace():
+            string = regex.sub(r'<html.*?>(<section)', r'\1', string)
+            out.append('#. HTML: ' + string + '\n')
+        if refs:
+            out.append('#. REF: ' + ', '.join(refs) + '\n')
+        return ''.join(out)
+
+
+    string = regex.sub(r'(?:#\. ((?!VAR).+)\n)+', wrangle_html, string)
+
+    with outfile.open('w') as f:
+        f.write(string)
+
 
