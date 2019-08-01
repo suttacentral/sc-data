@@ -17,6 +17,25 @@ REF_PREFIX = "REF: "
 OUT_DIR = pathlib.Path("./out")
 
 
+def unzfill(string):
+    return regex.sub(r'(\D)0+(\d+)', r'\1\2', string)
+
+def text_dump(string, file):
+    if not file.parent.exists():
+        file.parent.mkdir(parents=True)
+    with file.open('w') as f:
+        f.write(string)
+
+
+def json_dump(data, file, even_if_empty=False):
+    if not data:
+        if not even_if_empty:
+            return
+    if not file.parent.exists():
+        file.parent.mkdir(parents=True)
+    with file.open('w') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
 def get_project_name(uid):
     if uid.startswith("pli-"):
         return "vinaya"
@@ -37,7 +56,7 @@ def hacked_numericsortkey(obj):
     return numericsortkey(string)
 
 
-po_files = sorted(PO_DIR.glob("**/[mnsa]n*"), key=hacked_numericsortkey)
+po_files = sorted(PO_DIR.glob("**/kn/**/*"), key=hacked_numericsortkey)
 
 
 def parse_info_po(po):
@@ -95,6 +114,10 @@ for file in po_files:
     project_name = get_project_name(division)
     translator_name = get_translator_name(project_name)
 
+    edition = None
+    if root_lang == 'pli':
+        edition = 'ms'
+
     data = {
         "root": {},
         "translation": {},
@@ -104,10 +127,14 @@ for file in po_files:
         "translator_comments": {},
     }
 
+    uid = None
+
     for unit in po.units[1:]:
         source = unit.getsource()
         target = unit.gettarget()
         context = unit.getcontext()
+        if not uid:
+            uid = context.split(':')[0]
 
         translator_comments = {}
         variant_notes = []
@@ -143,49 +170,25 @@ for file in po_files:
         assert len(html) <= 1
         if html:
             html = html[0]
+        else:
+            html = ""
 
         for var, k in {
             "source": "root",
             "target": "translation",
             "html": "markup",
             "ref": "reference",
-            "variant_notes": "variant_notes",
-            "translator_comments": "translator_comments",
+            "variant_notes": "variant_notes"
         }.items():
 
             val = locals()[var]
-            if (k == "root" and val) or val:
+            if (k == "root" or k == "markup") or val:
                 data[k][context or "~"] = locals()[var]
 
-    # markup/pli/dn/dn1.json
-    # root/pli/dn/dn1.json
-    # translation/en/dn/dn1.json
-    # reference/pli/dn/dn1.json
-    # variant_notes/pli/dn/dn1.json
-    # translator_comments/pli/dn/dn1.json
-
-    # pli/dn/dn1/dn1.root.json
-    # pli/dn/dn1/dn1.translation.json
-    # pli/dn/dn1/dn1.markup.json
-    # pli/dn/dn1/dn1.reference.json
-    # pli/dn/dn1/dn1.variant_notes.json
-    # pli/dn/dn1/dn1.translator_comments.json
-
-    for tag in [
-        "root",
-        "translation",
-        "markup",
-        "reference",
-        "variant_notes",
-        "translator_comments",
-    ]:
-        out_dir = OUT_DIR / tag / "/".join(project_dir)
-        if not out_dir.exists():
-            out_dir.mkdir(parents=True)
-        out_file = out_dir / f"{file.stem}.json"
-
-        with out_file.open("w") as f:
-            json.dump(data[tag], f, indent=2, ensure_ascii=False)
+        for author, comment in translator_comments.items():
+            if author not in data["translator_comments"]:
+                data["translator_comments"][author] = {}
+            data["translator_comments"][author][context] = comment
 
     # verify
     data_string = json.dumps(data, indent=2, ensure_ascii=False)
@@ -217,4 +220,85 @@ for file in po_files:
                     json.dump(done, f)
                 subprocess.run(['geany', f'{str(file)}:{i+1}'])
                 raise ValueError
+    
+    # markup/pli/dn/dn1.json
+    # root/pli/dn/dn1.json
+    # translation/en/dn/dn1.json
+    # reference/pli/dn/dn1.json
+    # variant_notes/pli/dn/dn1.json
+    # comments/pli/dn/dn1.json
+
+    # pli/dn/dn1/dn1.root.json
+    # pli/dn/dn1/dn1.translation.json
+    # pli/dn/dn1/dn1.markup.json
+    # pli/dn/dn1/dn1.reference.json
+    # pli/dn/dn1/dn1.variant_notes.json
+    # pli/dn/dn1/dn1.translator_comments.json
+
+    # for tag in [
+    #     "root",
+    #     "translation",
+    #     "markup",
+    #     "reference",
+    #     "variant_notes",
+    #     "translator_comments",
+    # ]:
+    #     out_dir = OUT_DIR / tag / "/".join(project_dir)
+    #     if not out_dir.exists():
+    #         out_dir.mkdir(parents=True)
+    #     out_file = out_dir / f"{file.stem}.json"
+
+        
+    #     json_dump(data[tag], f, indent=2, ensure_ascii=False)
+    
+    # root
+
+    
+
+    project_path = "/".join(project_dir)
+
+    project_path = unzfill(project_path)
+
+    markup_parent = OUT_DIR / "markup" / project_path
+    markup_file = markup_parent / f"{uid}_markup.json"
+    json_dump(data['markup'], markup_file)
+
+    markup_html_file = markup_parent / f"{uid}_markup.html"
+    html_strings = []
+    for context, string in data['markup'].items():
+        html_strings.append(string)
+        if context != '~':
+            html_strings.append(f'{{{context}}}')
+    html_string = ''.join(html_strings)
+    html_string = regex.sub(r'(</(p|div|blockquote|h\d)>)', r'\1\n', html_string)
+    html_string = regex.sub(r'(<(p|div).*?>)', r'\n\1', html_string)
+    html_string = html_string.replace('<br>', '<br>\n')
+    html_string = html_string.replace('\n\n', '\n')
+    text_dump(html_string, markup_html_file)
+
+    root_parent = OUT_DIR / "root" / root_lang / edition / project_path
+    root_file = root_parent / f"{uid}_root-{root_lang}-{edition}.json"
+    json_dump(data['root'], root_file)
+    
+    translation_parent = OUT_DIR / "translation" / translation_lang / translator_name / project_path
+    translation_file = translation_parent / f"{uid}_translation-{translation_lang}-{translator_name}.json"
+    json_dump(data['translation'], translation_file)
+
+    reference_parent = OUT_DIR / "reference" / project_path
+    reference_file = reference_parent / f"{uid}_reference.json"
+    json_dump({k:', '.join(v) for k,v in data['reference'].items()}, reference_file)
+
+    variant_parent = OUT_DIR / "variant" / root_lang / edition / project_path
+    variant_file = variant_parent / f"{uid}_variant-{root_lang}-{edition}.json"
+    json_dump(data['variant_notes'], variant_file)
+
+    comment_parent = OUT_DIR / "comment" / translator_name / project_path
+
+    for author, comments in data["translator_comments"].items():
+        comment_file = comment_parent / f"{uid}_comment-{translation_lang}-{translator_name}.json"
+        json_dump(comments, comment_file)
+    
     done[str(file)] = True
+
+if done_file.exists():
+    done_file.unlink()
