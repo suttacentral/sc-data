@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. HTML: <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
 #. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
 #. lang="pli"><section class="sutta" id="thag1.1"><article><div
 #. class="hgroup"><p class="division">
@@ -9,22 +9,22 @@ msgctxt "thag1.1:1.1"
 msgid "Theragāthā"
 msgstr "Verses of the Senior Monks"
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "thag1.1:2.1"
 msgid "Ekakanipāta"
 msgstr "The Book of the Ones"
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "thag1.1:3.1"
 msgid "Paṭhamavagga"
 msgstr "Chapter One"
 
-#. </p><h1>
+#. HTML: </p><h1>
 msgctxt "thag1.1:4.1"
 msgid "1.1. Subhūtittheragāthā"
 msgstr "1.1. Subhūti"
 
-#. </h1></div><h4>
+#. HTML: </h1></div><h4>
 msgctxt "thag1.1:5.1"
 msgid "Nidānagāthā"
 msgstr "Background"
@@ -34,69 +34,69 @@ msgctxt "thag1.1:6.1"
 msgid "Namo tassa Bhagavato Arahato Sammāsambuddhassa."
 msgstr "Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
 
-#. </p><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="pts"
+#. HTML: </p><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="pts"
 #. id="pts1"></a>
 msgctxt "thag1.1:7.1"
 msgid "Sīhānaṃva nadantānaṃ,"
 msgstr "Like the lions of mighty fang"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:7.2"
 msgid "dāṭhīnaṃ girigabbhare;"
 msgstr "who roar in mountain caves—"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:7.3"
 msgid "Suṇātha bhāvitattānaṃ,"
 msgstr "hear now from those who’ve practiced well"
 
-#. <br>
+#. HTML: <br>
 #. VAR: atthūpanāyikā → attupanāyikā (bj, pts1-2, mr) | atthupanāyikā (s2, s3)
 msgctxt "thag1.1:7.4"
 msgid "gāthā atthūpanāyikā."
 msgstr "their own verses about themselves."
 
-#. </p><p><a class="sc" id="2"></a>
+#. HTML: </p><p><a class="sc" id="2"></a>
 msgctxt "thag1.1:8.1"
 msgid "Yathānāmā yathāgottā,"
 msgstr "What their name, and what their clan,"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:8.2"
 msgid "yathādhammavihārino;"
 msgstr "and how they lived by the teaching;"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:8.3"
 msgid "Yathādhimuttā sappaññā,"
 msgstr "how dedicated were those wise ones,"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:8.4"
 msgid "vihariṃsu atanditā."
 msgstr "as they meditated tirelessly."
 
-#. </p><p><a class="sc" id="3"></a>
+#. HTML: </p><p><a class="sc" id="3"></a>
 msgctxt "thag1.1:9.1"
 msgid "Tattha tattha vipassitvā,"
 msgstr "Clearly seeing in every case,"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:9.2"
 msgid "phusitvā accutaṃ padaṃ;"
 msgstr "they reached the imperishable state."
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:9.3"
 msgid "Katantaṃ paccavekkhantā,"
 msgstr "Reviewing their completed task,"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:9.4"
 msgid "imamatthamabhāsisuṃ."
 msgstr "they spoke about it in these words."
 
-#. </p></blockquote><h4>
+#. HTML: </p></blockquote><h4>
 msgctxt "thag1.1:10.1"
 msgid "Subhūtittheragāthā"
 msgstr "Subhūti"
@@ -107,22 +107,22 @@ msgctxt "thag1.1:11.1"
 msgid "“Channā me kuṭikā sukhā nivātā,"
 msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:11.2"
 msgid "Vassa deva yathāsukhaṃ;"
 msgstr "so rain, sky, as you please!"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:11.3"
 msgid "Cittaṃ me susamāhitaṃ vimuttaṃ,"
 msgstr "My mind is serene and freed,"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.1:11.4"
 msgid "Ātāpī viharāmi vassa devā”ti."
 msgstr "I practice wholeheartedly: so rain, sky!"
 
-#. </p></blockquote><p class="endsutta">
+#. HTML: </p></blockquote><p class="endsutta">
 #. VAR: Itthaṃ sudaṃ → itthaṃ sumaṃ (Ma-aka)
 msgctxt "thag1.1:12.1"
 msgid "Itthaṃ sudaṃ āyasmā subhūtitthero gāthaṃ abhāsitthāti."

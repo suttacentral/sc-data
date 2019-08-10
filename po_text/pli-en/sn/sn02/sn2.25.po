@@ -24,7 +24,6 @@ msgid "Evaṃ me sutaṃ—"
 msgstr "So I have heard. "
 
 #. HTML: </span></p><p>
-#. HTML: 
 # NOTE: Surely the fact that several mendicants are staying there suggests that kutika doesn’t mean “little” hut?
 msgctxt "sn2.25:1.2"
 msgid "ekaṃ samayaṃ sambahulā bhikkhū, kosalesu viharanti himavantapasse araññakuṭikāya uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā. "
@@ -42,28 +41,28 @@ msgctxt "sn2.25:3.1"
 msgid "“Sukhajīvino pure āsuṃ, "
 msgstr "“The mendicants used to live happily, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:3.2"
 msgid "bhikkhū gotamasāvakā; "
 msgstr "as disciples of Gotama. "
 
-#. <br>
+#. HTML: <br>
 #. VAR: piṇḍamesanā → piṇḍamesānā (pts2)
 msgctxt "sn2.25:3.3"
 msgid "Anicchā piṇḍamesanā, "
 msgstr "Desireless they sought alms; "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:3.4"
 msgid "anicchā sayanāsanaṃ; "
 msgstr "desireless they used their lodgings. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:3.5"
 msgid "Loke aniccataṃ ñatvā, "
 msgstr "Knowing that the world was impermanent "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:3.6"
 msgid "dukkhassantaṃ akaṃsu te. "
 msgstr "they made an end of suffering. "
@@ -74,18 +73,18 @@ msgctxt "sn2.25:4.1"
 msgid "Dupposaṃ katvā attānaṃ, "
 msgstr "But now they’ve made themselves hard to look after, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:4.2"
 msgid "gāme gāmaṇikā viya; "
 msgstr "like chiefs in a village. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:4.3"
 msgid "Bhutvā bhutvā nipajjanti, "
 msgstr "They eat and eat and then lie down, "
 
 # NOTE: The comm interpretation of “infatuated”, followed by BB, is wrong. the point here is that they eat too much and fall asleep in houses, which is considered unbecoming conduct for a mendicant. Several Vinaya rules deal with related issues.
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:4.4"
 msgid "parāgāresu mucchitā. "
 msgstr "unconscious in the homes of others. "
@@ -96,18 +95,18 @@ msgctxt "sn2.25:5.1"
 msgid "Saṃghassa añjaliṃ katvā, "
 msgstr "Having raised my joined palms to the Saṅgha, "
 
-#. <br>
+#. HTML: <br>
 #. VAR: vadāmahaṃ → vandāmahaṃ (pts1, mr)
 msgctxt "sn2.25:5.2"
 msgid "idhekacce vadāmahaṃ; "
 msgstr "I speak here only about certain people. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:5.3"
 msgid "Apaviddhā anāthā te, "
 msgstr "They’re rejects, with no protector, "
 
-#. <br>
+#. HTML: <br>
 #. VAR: tatheva te → tatheva ca (bj)
 msgctxt "sn2.25:5.4"
 msgid "yathā petā tatheva te. "
@@ -119,17 +118,17 @@ msgctxt "sn2.25:6.1"
 msgid "Ye kho pamattā viharanti, "
 msgstr "I’m speaking about "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:6.2"
 msgid "te me sandhāya bhāsitaṃ; "
 msgstr "those who live negligently. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:6.3"
 msgid "Ye appamattā viharanti, "
 msgstr "To those who live diligently "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn2.25:6.4"
 msgid "namo tesaṃ karomahan”ti. "
 msgstr "I pay homage.”"

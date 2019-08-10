@@ -40,27 +40,27 @@ msgid "“Kenāsi dummano tāta, "
 msgstr "“Why so downhearted, dad? "
 
 # NOTE: I don’t want to read a gay subtext into this, but there’s totally a gay subtext. Mara’s fascination with the Buddha was more than professional; he was practically a stalker.
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:2.2"
 msgid "purisaṃ kaṃ nu socasi; "
 msgstr "What man are you upset about? "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:2.3"
 msgid "Mayaṃ taṃ rāgapāsena, "
 msgstr "We’ll catch him with the snare of lust, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:2.4"
 msgid "āraññamiva kuñjaraṃ; "
 msgstr "like an elephant in the wild. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:2.5"
 msgid "Bandhitvā ānayissāma, "
 msgstr "We’ll tie him up and bring him back—"
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:2.6"
 msgid "vasago te bhavissatī”ti. "
 msgstr "he’ll fall under your sway!” "
@@ -71,17 +71,17 @@ msgctxt "sn4.25:3.1"
 msgid "“Arahaṃ sugato loke, "
 msgstr "“In this world he is the perfected one, the Holy One. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:3.2"
 msgid "na rāgena suvānayo; "
 msgstr "He’s not easily seduced by lust. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:3.3"
 msgid "Māradheyyaṃ atikkanto, "
 msgstr "He has gone beyond Māra’s sovereignty; "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:3.4"
 msgid "tasmā socāmahaṃ bhusan”ti. "
 msgstr "that’s why I’m so upset.” "
@@ -256,17 +256,17 @@ msgctxt "sn4.25:10.1"
 msgid "‘Arahaṃ sugato loke, "
 msgstr "‘In this world he is the perfected one, the Holy One. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:10.2"
 msgid "na rāgena suvānayo; "
 msgstr "He’s not easily seduced by lust. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:10.3"
 msgid "Māradheyyaṃ atikkanto, "
 msgstr "He has gone beyond Māra’s sovereignty; "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:10.4"
 msgid "tasmā socāmahaṃ bhusan’ti. "
 msgstr "that’s why I’m so upset.’ "
@@ -302,22 +302,22 @@ msgctxt "sn4.25:13.1"
 msgid "“Sokāvatiṇṇo nu vanamhi jhāyasi, "
 msgstr "“Are you overwhelmed by sorrow that you meditate in the forest? "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:13.2"
 msgid "Vittaṃ nu jīno uda patthayāno; "
 msgstr "Have you lost a fortune, or do you long for one? "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:13.3"
 msgid "Āguṃ nu gāmasmimakāsi kiñci, "
 msgstr "Or perhaps you’ve committed some crime in the village? "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:13.4"
 msgid "Kasmā janena na karosi sakkhiṃ; "
 msgstr "Why don’t you get too close to people? "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:13.5"
 msgid "Sakkhī na sampajjati kenaci te”ti. "
 msgstr "And why does no-one get close to you?” "
@@ -328,23 +328,23 @@ msgctxt "sn4.25:14.1"
 msgid "“Atthassa pattiṃ hadayassa santiṃ, "
 msgstr "“I’ve reached the goal, peace of heart. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:14.2"
 msgid "Jetvāna senaṃ piyasātarūpaṃ; "
 msgstr "Having conquered the army of the likable and pleasant, "
 
-#. <br>
+#. HTML: <br>
 #. VAR: Ekohaṃ → ekāhaṃ (bj, s1-3, km, pts1, mr)
 msgctxt "sn4.25:14.3"
 msgid "Ekohaṃ jhāyaṃ sukhamanubodhiṃ, "
 msgstr "alone, practicing absorption, I awakened to bliss. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:14.4"
 msgid "Tasmā janena na karomi sakkhiṃ; "
 msgstr "That’s why I don’t get too close to people, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:14.5"
 msgid "Sakkhī na sampajjati kenaci me”ti. "
 msgstr "and no-one gets too close to me.” "
@@ -363,19 +363,19 @@ msgid "“Kathaṃvihārībahulodha bhikkhu, "
 msgstr "“How does a mendicant who has crossed five floods "
 
 # NOTE: See BB’s note; the Skt texts here have present tense. Even before i realized this I couldn’t make sense of this pada and assumed there must be some such corruption. Note that the change could come about simply by dropping one “t”: Pañcoghatiṇṇo (t)atarīdha chaṭṭhaṃ. I translate assuming present tense is correct.
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:16.2"
 msgid "Pañcoghatiṇṇo atarīdha chaṭṭhaṃ; "
 msgstr "usually meditate here while crossing the sixth? "
 
-#. <br>
+#. HTML: <br>
 #. VAR: Kathaṃ jhāyiṃ → kathaṃ jhāyaṃ (s1-3, km, pts1-2) | kathajjhāyaṃ (mr)
 msgctxt "sn4.25:16.3"
 msgid "Kathaṃ jhāyiṃ bahulaṃ kāmasaññā, "
 msgstr "How do they usually practice absorption so that sensual perceptions "
 
 # NOTE: aladdha here = pwned
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:16.4"
 msgid "Paribāhirā honti aladdha yo tan”ti. "
 msgstr "are kept out and don’t get hold of them?” "
@@ -387,17 +387,17 @@ msgid "“Passaddhakāyo suvimuttacitto, "
 msgstr "“With tranquil body and mind well freed, "
 
 # NOTE: asankharano is unusual in this context, and this is a guess. I suspect it means not living the holy life aspiring for rebirth in the deva realms.
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:17.2"
 msgid "Asaṅkharāno satimā anoko; "
 msgstr "without making plans, mindful, homeless; "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:17.3"
 msgid "Aññāya dhammaṃ avitakkajhāyī, "
 msgstr "understanding the teaching, they practice absorption without placing the mind; "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:17.4"
 msgid "Na kuppati na sarati na thino. "
 msgstr "they’re not shaking or drifting or rigid. "
@@ -408,17 +408,17 @@ msgctxt "sn4.25:18.1"
 msgid "Evaṃvihārībahulodha bhikkhu, "
 msgstr "That’s how a mendicant who has crossed five floods "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:18.2"
 msgid "Pañcoghatiṇṇo atarīdha chaṭṭhaṃ; "
 msgstr "usually meditates here while crossing the sixth. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:18.3"
 msgid "Evaṃ jhāyiṃ bahulaṃ kāmasaññā, "
 msgstr "That’s how they usually practice absorption so that sensual perceptions "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:18.4"
 msgid "Paribāhirā honti aladdha yo tan”ti. "
 msgstr "are kept out and don’t get hold of them.” "
@@ -437,17 +437,17 @@ msgid "“Acchejja taṇhaṃ gaṇasaṅghacārī, "
 msgstr "“He lives with his community after cutting off craving, "
 
 # NOTE: See BB for tarissanti.
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:20.2"
 msgid "Addhā carissanti bahū ca saddhā; "
 msgstr "and many of the faithful will cross over for sure. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:20.3"
 msgid "Bahuṃ vatāyaṃ janataṃ anoko, "
 msgstr "Alas, this homeless one will snatch many men away, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:20.4"
 msgid "Acchejja nessati maccurājassa pāran”ti. "
 msgstr "and lead them past the King of Death!” "
@@ -458,17 +458,17 @@ msgctxt "sn4.25:21.1"
 msgid "“Nayanti ve mahāvīrā, "
 msgstr "“The great heroes they lead "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:21.2"
 msgid "saddhammena tathāgatā; "
 msgstr "by means of the true teaching. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:21.3"
 msgid "Dhammena nayamānānaṃ, "
 msgstr "When the Realized Ones are leading by the teaching, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:21.4"
 msgid "kā usūyā vijānatan”ti. "
 msgstr "how could anyone who knows be jealous?” "
@@ -493,18 +493,18 @@ msgctxt "sn4.25:23.1"
 msgid "“Bālā kumudanāḷehi, "
 msgstr "“Fools! You drill into a mountain "
 
-#. <br>
+#. HTML: <br>
 #. VAR: abhimatthatha → abhimanthatha (bj, pts2)
 msgctxt "sn4.25:23.2"
 msgid "pabbataṃ abhimatthatha; "
 msgstr "with lotus stalks! "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:23.3"
 msgid "Giriṃ nakhena khanatha, "
 msgstr "You dig up a hill with your nails! "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:23.4"
 msgid "ayo dantehi khādatha. "
 msgstr "You chew iron with your teeth! "
@@ -517,17 +517,17 @@ msgctxt "sn4.25:24.1"
 msgid "Selaṃva sirasūhacca, "
 msgstr "You seek a footing in the deeps, as it were, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:24.2"
 msgid "pātāle gādhamesatha; "
 msgstr "while lifting a rock with your head! "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:24.3"
 msgid "Khāṇuṃva urasāsajja, "
 msgstr "After attacking a stump with your breast, as it were, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:24.4"
 msgid "nibbijjāpetha gotamā”ti. "
 msgstr "you leave Gotama disappointed.” "
@@ -538,17 +538,17 @@ msgctxt "sn4.25:25.1"
 msgid "“Daddallamānā āgañchuṃ, "
 msgstr "“They came in their splendor—"
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:25.2"
 msgid "taṇhā ca aratī ragā; "
 msgstr "Craving, Delight, and Lust. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:25.3"
 msgid "Tā tattha panudī satthā, "
 msgstr "But the Teacher brushed them off right there, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:25.4"
 msgid "tūlaṃ bhaṭṭhaṃva māluto”ti. "
 msgstr "like the breeze, a fallen tuft.” "
@@ -564,17 +564,17 @@ msgctxt "sn4.25:26.1"
 msgid "Sambahulā samiddhi ca, "
 msgstr " "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:26.2"
 msgid "Godhikaṃ sattavassāni; "
 msgstr " "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:26.3"
 msgid "Dhītaraṃ desitaṃ buddha, "
 msgstr " "
 
-#. <br>
+#. HTML: <br>
 msgctxt "sn4.25:26.4"
 msgid "Seṭṭhena imaṃ mārapañcakanti. "
 msgstr " "

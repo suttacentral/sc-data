@@ -149,6 +149,11 @@
     "acro": "Jp",
     "name": "Jnānaprasthāna"
   },
+    {
+    "uid": "kam",
+    "acro": "Kam",
+    "name": "Kammavācā"
+  },
   {
     "uid": "kf",
     "acro": "Khot",
@@ -175,8 +180,8 @@
     "name": "Kathāvatthu"
   },
   {
-    "uid": "kdv",
-    "acro": "Kdv",
+    "uid": "khv",
+    "acro": "Khv",
     "name": "Khuddakavatthu"
   },
   {
@@ -261,8 +266,13 @@
   },
   {
     "uid": "oa",
-    "acro": "Oa",
+    "acro": "OA",
     "name": "Other Āgama Sūtras"
+  },
+    {
+    "uid": "om",
+    "acro": "OM",
+    "name": "Other Mātikā"
   },
   {
     "uid": "pe",
@@ -352,7 +362,7 @@
   {
     "uid": "sf",
     "acro": "SF",
-    "name": "Other Fragments"
+    "name": "Sanskrit Āgama Sūtras"
   },
   {
     "uid": "sg",
@@ -391,7 +401,7 @@
   },
   {
     "uid": "other-t",
-    "acro": "Other-T",
+    "acro": "Other T",
     "name": "Other Taishō"
   },
   {
@@ -444,6 +454,11 @@
     "acro": "Utt",
     "name": "Uttarādhyayanasūtra"
   },
+    {
+    "uid": "utg",
+    "acro": "Utg",
+    "name": "Uttargantha"
+  },
   {
     "uid": "uv",
     "acro": "Uv",
@@ -483,6 +498,11 @@
     "uid": "ya",
     "acro": "Ya",
     "name": "Yamaka"
+  },
+    {
+    "uid": "ybs",
+    "acro": "Ybs",
+    "name": "Yogācārabhūmi"
   },
   {
     "uid": "nidana",
@@ -648,11 +668,6 @@
     "uid": "ka",
     "acro": "Ka",
     "name": "Kāśyapīya"
-  },
-  {
-    "uid": "upali",
-    "acro": "Upali",
-    "name": "Upāliparipṛcchā"
   },
   {
     "uid": "hv",
