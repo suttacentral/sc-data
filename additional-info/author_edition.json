@@ -295,15 +295,33 @@
   },
 	{
 		"type": "author",
-    "uid": "indragupta-bengis-ajit-sivak",
+    "uid": "indragupta-bangish-ajit-sivak",
     "short_name": "ইন্দ্রগুপ্ত …",
     "long_name": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু"
 	},
 	{
 		"type": "author",
-    "uid": "indragupta-bengis-ajit",
+    "uid": "indragupta-bangish-ajit",
     "short_name": "ইন্দ্রগুপ্ত …",
     "long_name": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু"
+	},
+	{
+		"type": "author",
+    "uid": "indragupta-suman-adikalyan-sivak-rahul",
+    "short_name": "ইন্দ্রগুপ্ত …",
+    "long_name": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু"
+	},
+	{
+		"type": "author",
+    "uid": "bangish-ajit-prajnadarsi",
+    "short_name": "বঙ্গীস …",
+    "long_name": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু"
+	},
+	{
+		"type": "author",
+    "uid": "gyanendriya",
+    "short_name": "জ্ঞানেন্দ্রিয়",
+    "long_name": "জ্ঞানেন্দ্রিয় ভিক্ষু"
 	},
   {
     "type": "author",
