@@ -1,0 +1,207 @@
+[
+  {
+    "uid": "d",
+    "acro": "D",
+    "name": "Derge edition"
+  },
+  {
+    "uid": "q",
+    "acro": "Q",
+    "name": "Qianlong (Peking edition of Tibetan canon)"
+  },
+  {
+    "uid": "dr",
+    "acro": "Dr",
+    "name": "Dayyaraṭṭhassa Saṅgītitepiṭakaṁ"
+  },
+  {
+    "uid": "mc",
+    "acro": "Mc",
+    "name": "Mahācūḷātepiṭakaṁ"
+  },
+  {
+    "uid": "ms",
+    "acro": "Ms",
+    "name": "Mahasaṅgīti Tipiṭaka"
+  },
+  {
+    "uid": "bf",
+    "acro": "Bf",
+    "name": "Bajaur"
+  },
+  {
+    "uid": "qizil",
+    "acro": "Qizil",
+    "name": "Qizil"
+  },
+  {
+    "uid": "tf",
+    "acro": "Tf",
+    "name": "Turfan"
+  },
+  {
+    "uid": "finot",
+    "acro": "Finot",
+    "name": "Finot"
+  },
+  {
+    "uid": "dh",
+    "acro": "DH",
+    "name": "Dun Huang"
+  },
+  {
+    "uid": "sc",
+    "acro": "SC",
+    "name": "SuttaCentral"
+  },
+  {
+    "uid": "acip",
+    "acro": "ACIP",
+    "name": "Asian Classics Input Project"
+  },
+  {
+    "uid": "cbeta",
+    "acro": "CBETA",
+    "name": "Chinese Buddhist Electronic Text Association"
+  },
+  {
+    "uid": "ddb",
+    "acro": "DDB",
+    "name": "Digital Dictionary of Buddhism"
+  },
+  {
+    "uid": "g",
+    "acro": "G",
+    "name": "Gilgit"
+  },
+  {
+    "uid": "gbm",
+    "acro": "GBM",
+    "name": "Gilgit Buddhist Manuscripts"
+  },
+  {
+    "uid": "gretil",
+    "acro": "GRETIL",
+    "name": "Göttingen Register of Electronic Texts in Indian Languages"
+  },
+  {
+    "uid": "nya",
+    "acro": "Nya",
+    "name": "Ñāṇamoḷi section numbers"
+  },
+  {
+    "uid": "pts-cs",
+    "acro": "PTS cs",
+    "name": "Pali Text Society section numbers"
+  },
+  {
+    "uid": "csp-a",
+    "acro": "Csp A",
+    "name": "Chaṭṭhasaṅgīti Piṭakaṃ Atthakathā"
+  },
+  {
+    "uid": "csp1ed",
+    "acro": "Csp 1st ed.",
+    "name": "Chaṭṭhasaṅgīti Piṭakaṃ 2496–2499 (1952–1955)"
+  },
+  {
+    "uid": "csp2ed",
+    "acro": "Csp 2nd ed.",
+    "name": "Chaṭṭhasaṅgīti Piṭakaṃ 2nd ed. 2500–2506 (1956–1962)"
+  },
+  {
+    "uid": "csp3ed",
+    "acro": "Csp 3rd ed.",
+    "name": "Chaṭṭhasaṅgīti Piṭakaṃ (1997)"
+  },
+  {
+    "uid": "mr",
+    "acro": "Mr",
+    "name": "Maramma Tipiṭaka 2541 (1997)"
+  },
+  {
+    "uid": "si",
+    "acro": "Si",
+    "name": "Sinhala Tipiṭaka 2501 (1957)"
+  },
+  {
+    "uid": "km",
+    "acro": "Km",
+    "name": "Phratraipiṭakapāḷi 2501–2512 (1958–1969)"
+  },
+  {
+    "uid": "lv",
+    "acro": "Lv",
+    "name": "Lāvaraṭṭhassa 2500 (1957)"
+  },
+  {
+    "uid": "maku",
+    "acro": " Maku",
+    "name": "Mahāmakurājāvidyālai 2466 (1923)"
+  },
+  {
+    "uid": "ndp",
+    "acro": "NDP",
+    "name": "Nālandā-Devanāgarī-Pāḷi-Series 2500–2505 (1957–1962)"
+  },
+  {
+    "uid": "pts-a",
+    "acro": "PTS A",
+    "name": "Pali Text Society Atthakathā"
+  },
+  {
+    "uid": "pts1ed",
+    "acro": "PTS 1st ed.",
+    "name": "Pali Text Society 1st ed."
+  },
+  {
+    "uid": "pts2ed",
+    "acro": "PTS 2nd ed.",
+    "name": "Pali Text Society 2nd ed."
+  },
+  {
+    "uid": "sya-a",
+    "acro": "Syam A",
+    "name": "Syāmaraṭṭhassa Tepiṭakaṃ Atthakathā"
+  },
+  {
+    "uid": "cck",
+    "acro": "Cck",
+    "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893)"
+  },
+  {
+    "uid": "sya1ed",
+    "acro": "Syam 1st ed.",
+    "name": "Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928)"
+  },
+  {
+    "uid": "sya2ed",
+    "acro": "Syam 2nd ed.",
+    "name": "Syāmaraṭṭhassa Tepiṭakaṃ 2538 (1995)"
+  },
+  {
+    "uid": "sya-all",
+    "acro": "Syam all",
+    "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893), Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928) & 2538 (1995)"
+  },
+  {
+    "uid": "bj",
+    "acro": "Bj",
+    "name": "Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
+  },
+  {
+    "uid": "bj-a",
+    "acro": " Bj A",
+    "name": "Buddhajayantītripiṭakagranthamālā Atthakathā"
+  },
+  {
+    "uid": "vri",
+    "acro": "VRI",
+    "name": "Vipassanā Research Institute 2537–2542"
+  },
+  {
+    "uid": "wp",
+    "acro": "WP",
+    "name": "Wisdom Publications"
+  }
+]

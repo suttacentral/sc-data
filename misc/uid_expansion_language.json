@@ -1,0 +1,57 @@
+[
+  {
+    "uid": "tib",
+    "acro": "Tib",
+    "name": "Tibetan"
+  },
+  {
+    "uid": "pli",
+    "acro": "Pli",
+    "name": "Pāli"
+  },
+  {
+    "uid": "zh",
+    "acro": "Zh",
+    "name": "Chinese"
+  },
+  {
+    "uid": "lzh",
+    "acro": "Lzh",
+    "name": "Literary Chinese"
+  },
+  {
+    "uid": "san",
+    "acro": "San",
+    "name": "Sanskrit"
+  },
+  {
+    "uid": "pgd",
+    "acro": "Pgd",
+    "name": "Gāndhārī"
+  },
+  {
+    "uid": "pra",
+    "acro": "Pra",
+    "name": "Prākrit"
+  },
+  {
+    "uid": "uig",
+    "acro": "Uig",
+    "name": "Uighur"
+  },
+  {
+    "uid": "xct",
+    "acro": "Xct",
+    "name": "Classical Tibetan"
+  },
+  {
+    "uid": "kho",
+    "acro": "Kho",
+    "name": "Khotanese"
+  },
+  {
+    "uid": "hsan",
+    "acro": "Hsan",
+    "name": "Hybrid Sanskrit"
+  }
+]

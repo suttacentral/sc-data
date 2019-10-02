@@ -90,24 +90,9 @@
     "name": "Dīgha Nikāya"
   },
   {
-    "uid": "d",
-    "acro": "D",
-    "name": "Derge edition"
-  },
-  {
-    "uid": "q",
-    "acro": "Q",
-    "name": "Qianlong (Peking edition of Tibetan canon)"
-  },
-  {
     "uid": "dt",
     "acro": "Dt",
     "name": "Dhātukathā"
-  },
-  {
-    "uid": "dr",
-    "acro": "Dr",
-    "name": "Dayyaraṭṭhassa Saṅgītitepiṭakaṁ"
   },
   {
     "uid": "ds",
@@ -149,7 +134,7 @@
     "acro": "Jp",
     "name": "Jnānaprasthāna"
   },
-    {
+  {
     "uid": "kam",
     "acro": "Kam",
     "name": "Kammavācā"
@@ -200,11 +185,6 @@
     "name": "Mahābhārata"
   },
   {
-    "uid": "mc",
-    "acro": "Mc",
-    "name": "Mahācūḷātepiṭakaṁ"
-  },
-  {
     "uid": "mpt",
     "acro": "Mpt",
     "name": "Mahāvyutpatti"
@@ -228,11 +208,6 @@
     "uid": "mnd",
     "acro": "Mnd",
     "name": "Mahāniddesa"
-  },
-  {
-    "uid": "ms",
-    "acro": "Ms",
-    "name": "Mahasaṅgīti Tipiṭaka"
   },
   {
     "uid": "mvu",
@@ -264,7 +239,7 @@
     "acro": "OA",
     "name": "Other Āgama Sūtras"
   },
-    {
+  {
     "uid": "om",
     "acro": "OM",
     "name": "Other Mātikā"
@@ -420,11 +395,6 @@
     "name": "Therīgāthā"
   },
   {
-    "uid": "tib",
-    "acro": "Tib",
-    "name": "Tibetan"
-  },
-  {
     "uid": "ud",
     "acro": "Ud",
     "name": "Udāna"
@@ -449,7 +419,7 @@
     "acro": "Utt",
     "name": "Uttarādhyayanasūtra"
   },
-    {
+  {
     "uid": "utg",
     "acro": "Utg",
     "name": "Uttargantha"
@@ -494,7 +464,7 @@
     "acro": "Ya",
     "name": "Yamaka"
   },
-    {
+  {
     "uid": "ybs",
     "acro": "Ybs",
     "name": "Yogācārabhūmi"
@@ -503,91 +473,6 @@
     "uid": "nidana",
     "acro": "Nidana",
     "name": "Nidāna"
-  },
-  {
-    "uid": "pli",
-    "acro": "Pli",
-    "name": "Pāli"
-  },
-  {
-    "uid": "zh",
-    "acro": "Zh",
-    "name": "Chinese"
-  },
-  {
-    "uid": "lzh",
-    "acro": "Lzh",
-    "name": "Literary Chinese"
-  },
-  {
-    "uid": "san",
-    "acro": "San",
-    "name": "Sanskrit"
-  },
-  {
-    "uid": "pgd",
-    "acro": "Pgd",
-    "name": "Gāndhārī"
-  },
-  {
-    "uid": "pra",
-    "acro": "Pra",
-    "name": "Prākrit"
-  },
-  {
-    "uid": "uig",
-    "acro": "Uig",
-    "name": "Uighur"
-  },
-  {
-    "uid": "xct",
-    "acro": "Xct",
-    "name": "Classical Tibetan"
-  },
-  {
-    "uid": "my",
-    "acro": "My",
-    "name": "Burmese"
-  },
-  {
-    "uid": "de",
-    "acro": "De",
-    "name": "German"
-  },
-  {
-    "uid": "en",
-    "acro": "En",
-    "name": "English"
-  },
-  {
-    "uid": "es",
-    "acro": "Es",
-    "name": "Spanish"
-  },
-  {
-    "uid": "fr",
-    "acro": "Fr",
-    "name": "French"
-  },
-  {
-    "uid": "ko",
-    "acro": "Ko",
-    "name": "Korean"
-  },
-  {
-    "uid": "ru",
-    "acro": "Ru",
-    "name": "Russian"
-  },
-  {
-    "uid": "vi",
-    "acro": "Vi",
-    "name": "Vietnamese"
-  },
-  {
-    "uid": "kho",
-    "acro": "Kho",
-    "name": "Khotanese"
   },
   {
     "uid": "abhidhamma",
@@ -605,11 +490,6 @@
     "name": "Vinaya"
   },
   {
-    "uid": "tv",
-    "acro": "Tv",
-    "name": "Theravāda"
-  },
-  {
     "uid": "vb",
     "acro": "Vb",
     "name": "Vibhaṅga"
@@ -625,84 +505,14 @@
     "name": "Parivāra"
   },
   {
-    "uid": "sarv",
-    "acro": "Sarv",
-    "name": "Sarvāstivāda"
-  },
-  {
-    "uid": "mu",
-    "acro": "Mu",
-    "name": "Mūlasarvāstivāda"
-  },
-  {
     "uid": "mbt",
     "acro": "Mbt",
     "name": "Mahāvyutpatti"
   },
   {
-    "uid": "mi",
-    "acro": "Mi",
-    "name": "Mahīśāsaka"
-  },
-  {
-    "uid": "mg",
-    "acro": "Mg",
-    "name": "Mahāsaṅghika"
-  },
-  {
-    "uid": "lo",
-    "acro": "Lo",
-    "name": "Lokuttaravāda"
-  },
-  {
-    "uid": "dg",
-    "acro": "Dg",
-    "name": "Dharmaguptaka"
-  },
-  {
-    "uid": "ka",
-    "acro": "Ka",
-    "name": "Kāśyapīya"
-  },
-  {
-    "uid": "hv",
-    "acro": "Hv",
-    "name": "Haimavata"
-  },
-  {
-    "uid": "bf",
-    "acro": "Bf",
-    "name": "Bajaur"
-  },
-  {
-    "uid": "qizil",
-    "acro": "Qizil",
-    "name": "Qizil"
-  },
-  {
-    "uid": "tf",
-    "acro": "Tf",
-    "name": "Turfan"
-  },
-  {
-    "uid": "finot",
-    "acro": "Finot",
-    "name": "Finot"
-  },
-  {
     "uid": "ba",
     "acro": "BA",
     "name": "Bhikkhu Adhyāya"
-  },
-  {
-    "uid": "dh",
-    "acro": "DH",
-    "name": "Dun Huang"
-  },
-  {
-    "uid": "sc",
-    "acro": "SC",
-    "name": "SuttaCentral"
   },
   {
     "uid": "pj",
@@ -775,11 +585,6 @@
     "name": "Pakiṇṇaka"
   },
   {
-    "uid": "conc",
-    "acro": "Conc.",
-    "name": "Conclusion"
-  },
-  {
     "uid": "gd",
     "acro": "Gd",
     "name": "Garudhamma"
@@ -800,21 +605,6 @@
     "name": "Khandhaka"
   },
   {
-    "uid": "acip",
-    "acro": "ACIP",
-    "name": "Asian Classics Input Project"
-  },
-  {
-    "uid": "cbeta",
-    "acro": "CBETA",
-    "name": "Chinese Buddhist Electronic Text Association"
-  },
-  {
-    "uid": "ddb",
-    "acro": "DDB",
-    "name": "Digital Dictionary of Buddhism"
-  },
-  {
     "uid": "dy",
     "acro": "Dy",
     "name": "Dhātukāya"
@@ -825,173 +615,13 @@
     "name": "Fragment"
   },
   {
-    "uid": "g",
-    "acro": "G",
-    "name": "Gilgit"
-  },
-  {
-    "uid": "gbm",
-    "acro": "GBM",
-    "name": "Gilgit Buddhist Manuscripts"
-  },
-  {
-    "uid": "gretil",
-    "acro": "GRETIL",
-    "name": "Göttingen Register of Electronic Texts in Indian Languages"
-  },
-  {
     "uid": "hf",
     "acro": "Hf",
     "name": "Hybrid Sanskrit fragment"
   },
   {
-    "uid": "hsan",
-    "acro": "Hsan",
-    "name": "Hybrid Sanskrit"
-  },
-  {
     "uid": "ks",
     "acro": "KS",
     "name": "Kindred Sayings"
-  },
-  {
-    "uid": "ll",
-    "acro": "ll",
-    "name": "Parallels"
-  },
-  {
-    "uid": "p",
-    "acro": "P",
-    "name": "Page"
-  },
-  {
-    "uid": "vol",
-    "acro": "Vol",
-    "name": "Volume"
-  },
-  {
-    "uid": "ed",
-    "acro": "ed",
-    "name": "edited, editor, edition"
-  },
-  {
-    "uid": "nya",
-    "acro": "Nya",
-    "name": "Ñāṇamoḷi section numbers"
-  },
-  {
-    "uid": "pts-cs",
-    "acro": "PTS cs",
-    "name": "Pali Text Society section numbers"
-  },
-  {
-    "uid": "csp-a",
-    "acro": "Csp A",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ Atthakathā"
-  },
-  {
-    "uid": "csp1ed",
-    "acro": "Csp 1st ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ 2496–2499 (1952–1955)"
-  },
-  {
-    "uid": "csp2ed",
-    "acro": "Csp 2nd ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ 2nd ed. 2500–2506 (1956–1962)"
-  },
-  {
-    "uid": "csp3ed",
-    "acro": "Csp 3rd ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ (1997)"
-  },
-  {
-    "uid": "mr",
-    "acro": "Mr",
-    "name": "Maramma Tipiṭaka 2541 (1997)"
-  },
-  {
-    "uid": "si",
-    "acro": "Si",
-    "name": "Sinhala Tipiṭaka 2501 (1957)"
-  },
-  {
-    "uid": "km",
-    "acro": "Km",
-    "name": "Phratraipiṭakapāḷi 2501–2512 (1958–1969)"
-  },
-    {
-    "uid": "lv",
-    "acro": "Lv",
-    "name": "Lāvaraṭṭhassa 2500 (1957)"
-  },
-  {
-    "uid": "maku",
-    "acro": " Maku",
-    "name": "Mahāmakurājāvidyālai 2466 (1923)"
-  },
-  {
-    "uid": "ndp",
-    "acro": "NDP",
-    "name": "Nālandā-Devanāgarī-Pāḷi-Series 2500–2505 (1957–1962)"
-  },
-  {
-    "uid": "pts-a",
-    "acro": "PTS A",
-    "name": "Pali Text Society Atthakathā"
-  },
-  {
-    "uid": "pts1ed",
-    "acro": "PTS 1st ed.",
-    "name": "Pali Text Society 1st ed."
-  },
-  {
-    "uid": "pts2ed",
-    "acro": "PTS 2nd ed.",
-    "name": "Pali Text Society 2nd ed."
-  },
-  {
-    "uid": "sya-a",
-    "acro": "Syam A",
-    "name": "Syāmaraṭṭhassa Tepiṭakaṃ Atthakathā"
-  },
-  {
-    "uid": "cck",
-    "acro": "Cck",
-    "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893)"
-  },
-  {
-    "uid": "sya1ed",
-    "acro": "Syam 1st ed.",
-    "name": "Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928)"
-  },
-  {
-    "uid": "sya2ed",
-    "acro": "Syam 2nd ed.",
-    "name": "Syāmaraṭṭhassa Tepiṭakaṃ 2538 (1995)"
-  },
-  {
-    "uid": "sya-all",
-    "acro": "Syam all",
-    "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893), Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928) & 2538 (1995)"
-  },
-  {
-    "uid": "bj",
-    "acro": "Bj",
-    "name": "Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
-  },
-  {
-    "uid": "bj-a",
-    "acro": " Bj A",
-    "name": "Buddhajayantītripiṭakagranthamālā Atthakathā"
-  },
-    {
-    "uid": "vri",
-    "acro": "VRI",
-    "name": "Vipassanā Research Institute 2537–2542"
-  },
-  {
-    "uid": "wp",
-    "acro": "WP",
-    "name": "Wisdom Publications"
   }
 ]
