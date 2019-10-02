@@ -1,4 +1,5 @@
 - uid_expansion : Contains a mapping between uid components and the acronym and name. For example pli->Pli (short for Pali), but dn -> DN (abbreviation for Digha Nikaya)
+- The other uid_expansion files are not used ATM, they contain exactly the same data as the main uid_expansion, just sorted into types. Sometimes I want to look at the details for a kind of thing and the full file doesn't let me do that. If this is a convenient form, maybe we should adopt it.
 - pali_concord : key/value pairs for `ms` numbers (primary numberng system for Mahasangiti edition) vs. several other editions. From Mahasangiti.
 - ms-sc-pts.json: keys the pts and sc numbers off the `ms` numbers
 - sc-pts-undefined: a  few references that did not have corresponding `ms` numbers. They are verses. To be added tp bilara-data directly.
