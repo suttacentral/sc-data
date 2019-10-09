@@ -950,6 +950,11 @@
     "name": "Pali Text Society section number"
   },
   {
+    "uid": "pts-vp-pli",
+    "acro": "PTS vp pli",
+    "name": "Pali Text Society volume and page of the Pali text"
+  },
+  {
     "uid": "pts-vp-pli1ed",
     "acro": "PTS vp pli 1st ed.",
     "name": "Pali Text Society volume and page, 1st edition of the Pali text"
