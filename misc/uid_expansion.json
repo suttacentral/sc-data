@@ -149,7 +149,7 @@
     "acro": "Jp",
     "name": "Jnānaprasthāna"
   },
-    {
+  {
     "uid": "kam",
     "acro": "Kam",
     "name": "Kammavācā"
@@ -264,7 +264,7 @@
     "acro": "OA",
     "name": "Other Āgama Sūtras"
   },
-    {
+  {
     "uid": "om",
     "acro": "OM",
     "name": "Other Mātikā"
@@ -449,7 +449,7 @@
     "acro": "Utt",
     "name": "Uttarādhyayanasūtra"
   },
-    {
+  {
     "uid": "utg",
     "acro": "Utg",
     "name": "Uttargantha"
@@ -494,7 +494,7 @@
     "acro": "Ya",
     "name": "Yamaka"
   },
-    {
+  {
     "uid": "ybs",
     "acro": "Ybs",
     "name": "Yogācārabhūmi"
@@ -870,6 +870,16 @@
     "name": "Volume"
   },
   {
+    "uid": "vp",
+    "acro": "vp",
+    "name": "Volume and page"
+  },
+  {
+    "uid": "cs",
+    "acro": "cs",
+    "name": "Section number"
+  },
+  {
     "uid": "ed",
     "acro": "ed",
     "name": "edited, editor, edition"
@@ -877,12 +887,7 @@
   {
     "uid": "nya",
     "acro": "Nya",
-    "name": "Ñāṇamoḷi section numbers"
-  },
-  {
-    "uid": "pts-cs",
-    "acro": "PTS cs",
-    "name": "Pali Text Society section numbers"
+    "name": "Ñāṇamoḷi section number"
   },
   {
     "uid": "csp-a",
@@ -892,17 +897,17 @@
   {
     "uid": "csp1ed",
     "acro": "Csp 1st ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ 2496–2499 (1952–1955)"
+    "name": "Chaṭṭhasaṅgīti Piṭakaṃ, 1st edition 2496–2499 (1952–1955)"
   },
   {
     "uid": "csp2ed",
     "acro": "Csp 2nd ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ 2nd ed. 2500–2506 (1956–1962)"
+    "name": "Chaṭṭhasaṅgīti Piṭakaṃ, 2nd edition 2500–2506 (1956–1962)"
   },
   {
     "uid": "csp3ed",
     "acro": "Csp 3rd ed.",
-    "name": "Chaṭṭhasaṅgīti Piṭakaṃ (1997)"
+    "name": "Chaṭṭhasaṅgīti Piṭakaṃ, 3rd edition (1997)"
   },
   {
     "uid": "mr",
@@ -919,7 +924,7 @@
     "acro": "Km",
     "name": "Phratraipiṭakapāḷi 2501–2512 (1958–1969)"
   },
-    {
+  {
     "uid": "lv",
     "acro": "Lv",
     "name": "Lāvaraṭṭhassa 2500 (1957)"
@@ -940,14 +945,34 @@
     "name": "Pali Text Society Atthakathā"
   },
   {
-    "uid": "pts1ed",
-    "acro": "PTS 1st ed.",
-    "name": "Pali Text Society 1st ed."
+    "uid": "pts-cs",
+    "acro": "PTS cs",
+    "name": "Pali Text Society section number"
   },
   {
-    "uid": "pts2ed",
-    "acro": "PTS 2nd ed.",
-    "name": "Pali Text Society 2nd ed."
+    "uid": "pts-vp-pli1ed",
+    "acro": "PTS vp pli 1st ed.",
+    "name": "Pali Text Society volume and page, 1st edition of the Pali text"
+  },
+  {
+    "uid": "pts-vp-pli2ed",
+    "acro": "PTS vp pli 2nd ed.",
+    "name": "Pali Text Society volume and page, 2nd edition of the Pali text"
+  },
+  {
+    "uid": "pts-vp-en",
+    "acro": "PTS vp en",
+    "name": "Pali Text Society volume and page of the English translation"
+  },
+  {
+    "uid": "vnp",
+    "acro": "PTS verse number ",
+    "name": "Pali Text Society verse number"
+  },
+  {
+    "uid": "vns",
+    "acro": "SC verse number ",
+    "name": "SuttaCentral verse number"
   },
   {
     "uid": "sya-a",
@@ -962,12 +987,12 @@
   {
     "uid": "sya1ed",
     "acro": "Syam 1st ed.",
-    "name": "Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928)"
+    "name": "Syāmaraṭṭhassa Tepiṭakaṃ, 1st edition 2469–2471 (1926–1928)"
   },
   {
     "uid": "sya2ed",
     "acro": "Syam 2nd ed.",
-    "name": "Syāmaraṭṭhassa Tepiṭakaṃ 2538 (1995)"
+    "name": "Syāmaraṭṭhassa Tepiṭakaṃ, 2nd edition 2538 (1995)"
   },
   {
     "uid": "sya-all",
@@ -984,7 +1009,7 @@
     "acro": " Bj A",
     "name": "Buddhajayantītripiṭakagranthamālā Atthakathā"
   },
-    {
+  {
     "uid": "vri",
     "acro": "VRI",
     "name": "Vipassanā Research Institute 2537–2542"
