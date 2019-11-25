@@ -2053,7 +2053,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 1.1//SN 1",
-    "volpage": "SN i 1//SN i 1",
+    "volpage": { "pts-vp-pli1ed": "SN i 1", "pts-vp-pli2ed": "SN i 1" },
     "biblio_uid": ""
   },
   {
@@ -2064,7 +2064,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 1.2//SN 2",
-    "volpage": "SN i 2//SN i 2",
+    "volpage": { "pts-vp-pli1ed": "SN i 2", "pts-vp-pli2ed": "SN i 2" },
     "biblio_uid": ""
   },
   {
@@ -2075,7 +2075,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 1.3//SN 3",
-    "volpage": "SN i 2//SN i 4",
+    "volpage": { "pts-vp-pli1ed": "SN i 2", "pts-vp-pli2ed": "SN i 4" },
     "biblio_uid": ""
   },
   {
@@ -2086,7 +2086,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 1.4//SN 4",
-    "volpage": "SN i 3//SN i 5",
+    "volpage": { "pts-vp-pli1ed": "SN i 3", "pts-vp-pli2ed": "SN i 5" },
     "biblio_uid": ""
   },
   {
@@ -2097,7 +2097,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 1.5//SN 5",
-    "volpage": "SN i 3//SN i 5",
+    "volpage": { "pts-vp-pli1ed": "SN i 3", "pts-vp-pli2ed": "SN i 5" },
     "biblio_uid": ""
   },
   {
@@ -2108,7 +2108,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 1.6//SN 6",
-    "volpage": "SN i 3//SN i 6",
+    "volpage": { "pts-vp-pli1ed": "SN i 3", "pts-vp-pli2ed": "SN i 6" },
     "biblio_uid": ""
   },
   {
@@ -2119,7 +2119,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 1.7//SN 7",
-    "volpage": "SN i 4//SN i 7",
+    "volpage": { "pts-vp-pli1ed": "SN i 4", "pts-vp-pli2ed": "SN i 7" },
     "biblio_uid": ""
   },
   {
@@ -2130,7 +2130,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 1.8//SN 8",
-    "volpage": "SN i 4//SN i 7",
+    "volpage": { "pts-vp-pli1ed": "SN i 4", "pts-vp-pli2ed": "SN i 7" },
     "biblio_uid": ""
   },
   {
@@ -2141,7 +2141,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 1.9//SN 9",
-    "volpage": "SN i 4//SN i 8",
+    "volpage": { "pts-vp-pli1ed": "SN i 4", "pts-vp-pli2ed": "SN i 8" },
     "biblio_uid": ""
   },
   {
@@ -2152,7 +2152,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 1.10//SN 10",
-    "volpage": "SN i 5//SN i 9",
+    "volpage": { "pts-vp-pli1ed": "SN i 5", "pts-vp-pli2ed": "SN i 9" },
     "biblio_uid": ""
   },
   {
@@ -2163,7 +2163,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 1.11//SN 11",
-    "volpage": "SN i 5//SN i 11",
+    "volpage": { "pts-vp-pli1ed": "SN i 5", "pts-vp-pli2ed": "SN i 11" },
     "biblio_uid": ""
   },
   {
@@ -2174,7 +2174,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 1.12//SN 12",
-    "volpage": "SN i 6//SN i 11",
+    "volpage": { "pts-vp-pli1ed": "SN i 6", "pts-vp-pli2ed": "SN i 11" },
     "biblio_uid": ""
   },
   {
@@ -2185,7 +2185,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 1.13//SN 13",
-    "volpage": "SN i 6//SN i 12",
+    "volpage": { "pts-vp-pli1ed": "SN i 6", "pts-vp-pli2ed": "SN i 12" },
     "biblio_uid": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 1.14//SN 14",
-    "volpage": "SN i 6//SN i 13",
+    "volpage": { "pts-vp-pli1ed": "SN i 6", "pts-vp-pli2ed": "SN i 13" },
     "biblio_uid": ""
   },
   {
@@ -2207,7 +2207,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 1.15//SN 15",
-    "volpage": "SN i 7//SN i 13",
+    "volpage": { "pts-vp-pli1ed": "SN i 7", "pts-vp-pli2ed": "SN i 13" },
     "biblio_uid": ""
   },
   {
@@ -2218,7 +2218,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 1.16//SN 16",
-    "volpage": "SN i 7//SN i 14",
+    "volpage": { "pts-vp-pli1ed": "SN i 7", "pts-vp-pli2ed": "SN i 14" },
     "biblio_uid": ""
   },
   {
@@ -2229,7 +2229,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 1.17//SN 17",
-    "volpage": "SN i 7//SN i 15",
+    "volpage": { "pts-vp-pli1ed": "SN i 7", "pts-vp-pli2ed": "SN i 15" },
     "biblio_uid": ""
   },
   {
@@ -2240,7 +2240,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 1.18//SN 18",
-    "volpage": "SN i 7//SN i 16",
+    "volpage": { "pts-vp-pli1ed": "SN i 7", "pts-vp-pli2ed": "SN i 16" },
     "biblio_uid": ""
   },
   {
@@ -2251,7 +2251,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 1.19//SN 19",
-    "volpage": "SN i 8//SN i 17",
+    "volpage": { "pts-vp-pli1ed": "SN i 8", "pts-vp-pli2ed": "SN i 17" },
     "biblio_uid": ""
   },
   {
@@ -2262,7 +2262,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 1.20//SN 20",
-    "volpage": "SN i 8//SN i 18",
+    "volpage": { "pts-vp-pli1ed": "SN i 8", "pts-vp-pli2ed": "SN i 18" },
     "biblio_uid": ""
   },
   {
@@ -2273,7 +2273,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 1.21//SN 21",
-    "volpage": "SN i 13//SN i 27",
+    "volpage": { "pts-vp-pli1ed": "SN i 13", "pts-vp-pli2ed": "SN i 27" },
     "biblio_uid": ""
   },
   {
@@ -2284,7 +2284,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 1.22//SN 22",
-    "volpage": "SN i 13//SN i 27",
+    "volpage": { "pts-vp-pli1ed": "SN i 13", "pts-vp-pli2ed": "SN i 27" },
     "biblio_uid": ""
   },
   {
@@ -2295,7 +2295,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 1.23//SN 23",
-    "volpage": "SN i 13//SN i 28",
+    "volpage": { "pts-vp-pli1ed": "SN i 13", "pts-vp-pli2ed": "SN i 28" },
     "biblio_uid": ""
   },
   {
@@ -2306,7 +2306,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 1.24//SN 24",
-    "volpage": "SN i 14//SN i 29",
+    "volpage": { "pts-vp-pli1ed": "SN i 14", "pts-vp-pli2ed": "SN i 29" },
     "biblio_uid": ""
   },
   {
@@ -2317,7 +2317,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 1.25//SN 25",
-    "volpage": "SN i 14//SN i 30",
+    "volpage": { "pts-vp-pli1ed": "SN i 14", "pts-vp-pli2ed": "SN i 30" },
     "biblio_uid": ""
   },
   {
@@ -2328,7 +2328,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 1.26//SN 26",
-    "volpage": "SN i 15//SN i 32",
+    "volpage": { "pts-vp-pli1ed": "SN i 15", "pts-vp-pli2ed": "SN i 32" },
     "biblio_uid": ""
   },
   {
@@ -2339,7 +2339,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 1.27//SN 27",
-    "volpage": "SN i 15//SN i 33",
+    "volpage": { "pts-vp-pli1ed": "SN i 15", "pts-vp-pli2ed": "SN i 33" },
     "biblio_uid": ""
   },
   {
@@ -2350,7 +2350,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 1.28//SN 28",
-    "volpage": "SN i 15//SN i 33",
+    "volpage": { "pts-vp-pli1ed": "SN i 15", "pts-vp-pli2ed": "SN i 33" },
     "biblio_uid": ""
   },
   {
@@ -2361,7 +2361,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 1.29//SN 29",
-    "volpage": "SN i 16//SN i 35",
+    "volpage": { "pts-vp-pli1ed": "SN i 16", "pts-vp-pli2ed": "SN i 35" },
     "biblio_uid": ""
   },
   {
@@ -2372,7 +2372,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 1.30//SN 30",
-    "volpage": "SN i 16//SN i 35",
+    "volpage": { "pts-vp-pli1ed": "SN i 16", "pts-vp-pli2ed": "SN i 35" },
     "biblio_uid": ""
   },
   {
@@ -2383,7 +2383,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 1.31//SN 31",
-    "volpage": "SN i 16//SN i 37",
+    "volpage": { "pts-vp-pli1ed": "SN i 16", "pts-vp-pli2ed": "SN i 37" },
     "biblio_uid": ""
   },
   {
@@ -2394,7 +2394,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 1.32//SN 32",
-    "volpage": "SN i 18//SN i 39",
+    "volpage": { "pts-vp-pli1ed": "SN i 18", "pts-vp-pli2ed": "SN i 39" },
     "biblio_uid": ""
   },
   {
@@ -2405,7 +2405,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 1.33//SN 33",
-    "volpage": "SN i 20//SN i 43",
+    "volpage": { "pts-vp-pli1ed": "SN i 20", "pts-vp-pli2ed": "SN i 43" },
     "biblio_uid": ""
   },
   {
@@ -2416,7 +2416,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 1.34//SN 34",
-    "volpage": "SN i 22//SN i 46",
+    "volpage": { "pts-vp-pli1ed": "SN i 22", "pts-vp-pli2ed": "SN i 46" },
     "biblio_uid": ""
   },
   {
@@ -2427,7 +2427,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 1.35//SN 35",
-    "volpage": "SN i 23//SN i 49",
+    "volpage": { "pts-vp-pli1ed": "SN i 23", "pts-vp-pli2ed": "SN i 49" },
     "biblio_uid": ""
   },
   {
@@ -2438,7 +2438,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 1.36//SN 36",
-    "volpage": "SN i 25//SN i 53",
+    "volpage": { "pts-vp-pli1ed": "SN i 25", "pts-vp-pli2ed": "SN i 53" },
     "biblio_uid": ""
   },
   {
@@ -2449,7 +2449,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 1.37//SN 37",
-    "volpage": "SN i 26//SN i 54",
+    "volpage": { "pts-vp-pli1ed": "SN i 26", "pts-vp-pli2ed": "SN i 54" },
     "biblio_uid": ""
   },
   {
@@ -2460,7 +2460,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 1.38//SN 38",
-    "volpage": "SN i 27//SN i 57",
+    "volpage": { "pts-vp-pli1ed": "SN i 27", "pts-vp-pli2ed": "SN i 57" },
     "biblio_uid": ""
   },
   {
@@ -2471,7 +2471,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 1.39//SN 39",
-    "volpage": "SN i 29//SN i 61",
+    "volpage": { "pts-vp-pli1ed": "SN i 29", "pts-vp-pli2ed": "SN i 61" },
     "biblio_uid": ""
   },
   {
@@ -2482,7 +2482,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 1.40//SN 40",
-    "volpage": "SN i 30//SN i 62",
+    "volpage": { "pts-vp-pli1ed": "SN i 30", "pts-vp-pli2ed": "SN i 62" },
     "biblio_uid": ""
   },
   {
@@ -2493,7 +2493,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 1.41//SN 41",
-    "volpage": "SN i 31//SN i 64",
+    "volpage": { "pts-vp-pli1ed": "SN i 31", "pts-vp-pli2ed": "SN i 64" },
     "biblio_uid": ""
   },
   {
@@ -2504,7 +2504,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 1.42//SN 42",
-    "volpage": "SN i 32//SN i 66",
+    "volpage": { "pts-vp-pli1ed": "SN i 32", "pts-vp-pli2ed": "SN i 66" },
     "biblio_uid": ""
   },
   {
@@ -2515,7 +2515,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 1.43//SN 43",
-    "volpage": "SN i 32//SN i 67",
+    "volpage": { "pts-vp-pli1ed": "SN i 32", "pts-vp-pli2ed": "SN i 67" },
     "biblio_uid": ""
   },
   {
@@ -2526,7 +2526,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 1.44//SN 44",
-    "volpage": "SN i 32//SN i 68",
+    "volpage": { "pts-vp-pli1ed": "SN i 32", "pts-vp-pli2ed": "SN i 68" },
     "biblio_uid": ""
   },
   {
@@ -2537,7 +2537,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 1.45//SN 45",
-    "volpage": "SN i 33//SN i 68",
+    "volpage": { "pts-vp-pli1ed": "SN i 33", "pts-vp-pli2ed": "SN i 68" },
     "biblio_uid": ""
   },
   {
@@ -2548,7 +2548,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 1.46//SN 46",
-    "volpage": "SN i 33//SN i 69",
+    "volpage": { "pts-vp-pli1ed": "SN i 33", "pts-vp-pli2ed": "SN i 69" },
     "biblio_uid": ""
   },
   {
@@ -2559,7 +2559,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 1.47//SN 47",
-    "volpage": "SN i 33//SN i 70",
+    "volpage": { "pts-vp-pli1ed": "SN i 33", "pts-vp-pli2ed": "SN i 70" },
     "biblio_uid": ""
   },
   {
@@ -2570,7 +2570,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 1.48//SN 48",
-    "volpage": "SN i 33//SN i 71",
+    "volpage": { "pts-vp-pli1ed": "SN i 33", "pts-vp-pli2ed": "SN i 71" },
     "biblio_uid": ""
   },
   {
@@ -2581,7 +2581,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 1.49//SN 49",
-    "volpage": "SN i 34//SN i 72",
+    "volpage": { "pts-vp-pli1ed": "SN i 34", "pts-vp-pli2ed": "SN i 72" },
     "biblio_uid": ""
   },
   {
@@ -2592,7 +2592,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 1.50//SN 50",
-    "volpage": "SN i 35//SN i 75",
+    "volpage": { "pts-vp-pli1ed": "SN i 35", "pts-vp-pli2ed": "SN i 75" },
     "biblio_uid": ""
   },
   {
@@ -2603,7 +2603,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 1.51//SN 51",
-    "volpage": "SN i 36//SN i 79",
+    "volpage": { "pts-vp-pli1ed": "SN i 36", "pts-vp-pli2ed": "SN i 79" },
     "biblio_uid": ""
   },
   {
@@ -2614,7 +2614,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 1.52//SN 52",
-    "volpage": "SN i 36//SN i 79",
+    "volpage": { "pts-vp-pli1ed": "SN i 36", "pts-vp-pli2ed": "SN i 79" },
     "biblio_uid": ""
   },
   {
@@ -2625,7 +2625,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 1.53//SN 53",
-    "volpage": "SN i 37//SN i 80",
+    "volpage": { "pts-vp-pli1ed": "SN i 37", "pts-vp-pli2ed": "SN i 80" },
     "biblio_uid": ""
   },
   {
@@ -2636,7 +2636,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 1.54//SN 54",
-    "volpage": "SN i 37//SN i 81",
+    "volpage": { "pts-vp-pli1ed": "SN i 37", "pts-vp-pli2ed": "SN i 81" },
     "biblio_uid": ""
   },
   {
@@ -2647,7 +2647,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 1.55//SN 55",
-    "volpage": "SN i 37//SN i 82",
+    "volpage": { "pts-vp-pli1ed": "SN i 37", "pts-vp-pli2ed": "SN i 82" },
     "biblio_uid": ""
   },
   {
@@ -2658,7 +2658,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 1.56//SN 56",
-    "volpage": "SN i 37//SN i 82",
+    "volpage": { "pts-vp-pli1ed": "SN i 37", "pts-vp-pli2ed": "SN i 82" },
     "biblio_uid": ""
   },
   {
@@ -2669,7 +2669,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 1.57//SN 57",
-    "volpage": "SN i 38//SN i 83",
+    "volpage": { "pts-vp-pli1ed": "SN i 38", "pts-vp-pli2ed": "SN i 83" },
     "biblio_uid": ""
   },
   {
@@ -2680,7 +2680,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 1.58//SN 58",
-    "volpage": "SN i 38//SN i 83",
+    "volpage": { "pts-vp-pli1ed": "SN i 38", "pts-vp-pli2ed": "SN i 83" },
     "biblio_uid": ""
   },
   {
@@ -2691,7 +2691,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 1.59//SN 59",
-    "volpage": "SN i 38//SN i 84",
+    "volpage": { "pts-vp-pli1ed": "SN i 38", "pts-vp-pli2ed": "SN i 84" },
     "biblio_uid": ""
   },
   {
@@ -2702,7 +2702,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 1.60//SN 60",
-    "volpage": "SN i 38//SN i 85",
+    "volpage": { "pts-vp-pli1ed": "SN i 38", "pts-vp-pli2ed": "SN i 85" },
     "biblio_uid": ""
   },
   {
@@ -2713,7 +2713,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 1.61//SN 61",
-    "volpage": "SN i 39//SN i 86",
+    "volpage": { "pts-vp-pli1ed": "SN i 39", "pts-vp-pli2ed": "SN i 86" },
     "biblio_uid": ""
   },
   {
@@ -2724,7 +2724,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 1.62//SN 62",
-    "volpage": "SN i 39//SN i 87",
+    "volpage": { "pts-vp-pli1ed": "SN i 39", "pts-vp-pli2ed": "SN i 87" },
     "biblio_uid": ""
   },
   {
@@ -2735,7 +2735,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 1.63//SN 63",
-    "volpage": "SN i 39//SN i 87",
+    "volpage": { "pts-vp-pli1ed": "SN i 39", "pts-vp-pli2ed": "SN i 87" },
     "biblio_uid": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 1.64//SN 64",
-    "volpage": "SN i 39//SN i 88",
+    "volpage": { "pts-vp-pli1ed": "SN i 39", "pts-vp-pli2ed": "SN i 88" },
     "biblio_uid": ""
   },
   {
@@ -2757,7 +2757,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 1.65//SN 65",
-    "volpage": "SN i 39//SN i 89",
+    "volpage": { "pts-vp-pli1ed": "SN i 39", "pts-vp-pli2ed": "SN i 89" },
     "biblio_uid": ""
   },
   {
@@ -2768,7 +2768,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 1.66//SN 66",
-    "volpage": "SN i 40//SN i 89",
+    "volpage": { "pts-vp-pli1ed": "SN i 40", "pts-vp-pli2ed": "SN i 89" },
     "biblio_uid": ""
   },
   {
@@ -2779,7 +2779,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 1.67//SN 67",
-    "volpage": "SN i 40//SN i 90",
+    "volpage": { "pts-vp-pli1ed": "SN i 40", "pts-vp-pli2ed": "SN i 90" },
     "biblio_uid": ""
   },
   {
@@ -2790,7 +2790,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 1.68//SN 68",
-    "volpage": "SN i 40//SN i 91",
+    "volpage": { "pts-vp-pli1ed": "SN i 40", "pts-vp-pli2ed": "SN i 91" },
     "biblio_uid": ""
   },
   {
@@ -2801,7 +2801,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 1.69//SN 69",
-    "volpage": "SN i 40//SN i 91",
+    "volpage": { "pts-vp-pli1ed": "SN i 40", "pts-vp-pli2ed": "SN i 91" },
     "biblio_uid": ""
   },
   {
@@ -2812,7 +2812,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 1.70//SN 70",
-    "volpage": "SN i 41//SN i 92",
+    "volpage": { "pts-vp-pli1ed": "SN i 41", "pts-vp-pli2ed": "SN i 92" },
     "biblio_uid": ""
   },
   {
@@ -2823,7 +2823,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 1.71//SN 71",
-    "volpage": "SN i 41//SN i 93",
+    "volpage": { "pts-vp-pli1ed": "SN i 41", "pts-vp-pli2ed": "SN i 93" },
     "biblio_uid": ""
   },
   {
@@ -2834,7 +2834,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 1.72//SN 72",
-    "volpage": "SN i 41//SN i 93",
+    "volpage": { "pts-vp-pli1ed": "SN i 41", "pts-vp-pli2ed": "SN i 93" },
     "biblio_uid": ""
   },
   {
@@ -2845,7 +2845,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 1.73//SN 73",
-    "volpage": "SN i 42//SN i 94",
+    "volpage": { "pts-vp-pli1ed": "SN i 42", "pts-vp-pli2ed": "SN i 94" },
     "biblio_uid": ""
   },
   {
@@ -2856,7 +2856,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 1.74//SN 74",
-    "volpage": "SN i 42//SN i 95",
+    "volpage": { "pts-vp-pli1ed": "SN i 42", "pts-vp-pli2ed": "SN i 95" },
     "biblio_uid": ""
   },
   {
@@ -2867,7 +2867,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 1.75//SN 75",
-    "volpage": "SN i 42//SN i 95",
+    "volpage": { "pts-vp-pli1ed": "SN i 42", "pts-vp-pli2ed": "SN i 95" },
     "biblio_uid": ""
   },
   {
@@ -2878,7 +2878,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 1.76//SN 76",
-    "volpage": "SN i 43//SN i 96",
+    "volpage": { "pts-vp-pli1ed": "SN i 43", "pts-vp-pli2ed": "SN i 96" },
     "biblio_uid": ""
   },
   {
@@ -2889,7 +2889,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 1.77//SN 77",
-    "volpage": "SN i 43//SN i 98",
+    "volpage": { "pts-vp-pli1ed": "SN i 43", "pts-vp-pli2ed": "SN i 98" },
     "biblio_uid": ""
   },
   {
@@ -2900,7 +2900,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 1.78//SN 78",
-    "volpage": "SN i 44//SN i 99",
+    "volpage": { "pts-vp-pli1ed": "SN i 44", "pts-vp-pli2ed": "SN i 99" },
     "biblio_uid": ""
   },
   {
@@ -2911,7 +2911,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 1.79//SN 79",
-    "volpage": "SN i 44//SN i 100",
+    "volpage": { "pts-vp-pli1ed": "SN i 44", "pts-vp-pli2ed": "SN i 100" },
     "biblio_uid": ""
   },
   {
@@ -2922,7 +2922,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 1.80//SN 80",
-    "volpage": "SN i 44//SN i 101",
+    "volpage": { "pts-vp-pli1ed": "SN i 44", "pts-vp-pli2ed": "SN i 101" },
     "biblio_uid": ""
   },
   {
@@ -2933,7 +2933,7 @@
     "number_in_vagga": 11,
     "language": "pli",
     "acronym": "SN 1.81//SN 81",
-    "volpage": "SN i 44//SN i 102",
+    "volpage": { "pts-vp-pli1ed": "SN i 44", "pts-vp-pli2ed": "SN i 102" },
     "biblio_uid": ""
   },
   {
@@ -2944,7 +2944,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 2.1//SN 82",
-    "volpage": "SN i 46//SN i 104",
+    "volpage": { "pts-vp-pli1ed": "SN i 46", "pts-vp-pli2ed": "SN i 104" },
     "biblio_uid": ""
   },
   {
@@ -2955,7 +2955,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 2.2//SN 83",
-    "volpage": "SN i 46//SN i 105",
+    "volpage": { "pts-vp-pli1ed": "SN i 46", "pts-vp-pli2ed": "SN i 105" },
     "biblio_uid": ""
   },
   {
@@ -2966,7 +2966,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 2.3//SN 84",
-    "volpage": "SN i 47//SN i 105",
+    "volpage": { "pts-vp-pli1ed": "SN i 47", "pts-vp-pli2ed": "SN i 105" },
     "biblio_uid": ""
   },
   {
@@ -2977,7 +2977,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 2.4//SN 85",
-    "volpage": "SN i 47//SN i 106",
+    "volpage": { "pts-vp-pli1ed": "SN i 47", "pts-vp-pli2ed": "SN i 106" },
     "biblio_uid": ""
   },
   {
@@ -2988,7 +2988,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 2.5//SN 86",
-    "volpage": "SN i 47//SN i 107",
+    "volpage": { "pts-vp-pli1ed": "SN i 47", "pts-vp-pli2ed": "SN i 107" },
     "biblio_uid": ""
   },
   {
@@ -2999,7 +2999,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 2.6//SN 87",
-    "volpage": "SN i 48//SN i 109",
+    "volpage": { "pts-vp-pli1ed": "SN i 48", "pts-vp-pli2ed": "SN i 109" },
     "biblio_uid": ""
   },
   {
@@ -3010,7 +3010,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 2.7//SN 88",
-    "volpage": "SN i 48//SN i 110",
+    "volpage": { "pts-vp-pli1ed": "SN i 48", "pts-vp-pli2ed": "SN i 110" },
     "biblio_uid": ""
   },
   {
@@ -3021,7 +3021,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 2.8//SN 89",
-    "volpage": "SN i 49//SN i 111",
+    "volpage": { "pts-vp-pli1ed": "SN i 49", "pts-vp-pli2ed": "SN i 111" },
     "biblio_uid": ""
   },
   {
@@ -3032,7 +3032,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 2.9//SN 90",
-    "volpage": "SN i 50//SN i 114",
+    "volpage": { "pts-vp-pli1ed": "SN i 50", "pts-vp-pli2ed": "SN i 114" },
     "biblio_uid": ""
   },
   {
@@ -3043,7 +3043,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 2.10//SN 91",
-    "volpage": "SN i 51//SN i 115",
+    "volpage": { "pts-vp-pli1ed": "SN i 51", "pts-vp-pli2ed": "SN i 115" },
     "biblio_uid": ""
   },
   {
@@ -3054,7 +3054,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 2.11//SN 92",
-    "volpage": "SN i 51//SN i 117",
+    "volpage": { "pts-vp-pli1ed": "SN i 51", "pts-vp-pli2ed": "SN i 117" },
     "biblio_uid": ""
   },
   {
@@ -3065,7 +3065,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 2.12//SN 93",
-    "volpage": "SN i 52//SN i 118",
+    "volpage": { "pts-vp-pli1ed": "SN i 52", "pts-vp-pli2ed": "SN i 118" },
     "biblio_uid": ""
   },
   {
@@ -3076,7 +3076,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 2.13//SN 94",
-    "volpage": "SN i 52//SN i 119",
+    "volpage": { "pts-vp-pli1ed": "SN i 52", "pts-vp-pli2ed": "SN i 119" },
     "biblio_uid": ""
   },
   {
@@ -3087,7 +3087,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 2.14//SN 95",
-    "volpage": "SN i 52//SN i 120",
+    "volpage": { "pts-vp-pli1ed": "SN i 52", "pts-vp-pli2ed": "SN i 120" },
     "biblio_uid": ""
   },
   {
@@ -3098,7 +3098,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 2.15//SN 96",
-    "volpage": "SN i 53//SN i 121",
+    "volpage": { "pts-vp-pli1ed": "SN i 53", "pts-vp-pli2ed": "SN i 121" },
     "biblio_uid": ""
   },
   {
@@ -3109,7 +3109,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 2.16//SN 97",
-    "volpage": "SN i 53//SN i 122",
+    "volpage": { "pts-vp-pli1ed": "SN i 53", "pts-vp-pli2ed": "SN i 122" },
     "biblio_uid": ""
   },
   {
@@ -3120,7 +3120,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 2.17//SN 98",
-    "volpage": "SN i 53//SN i 122",
+    "volpage": { "pts-vp-pli1ed": "SN i 53", "pts-vp-pli2ed": "SN i 122" },
     "biblio_uid": ""
   },
   {
@@ -3131,7 +3131,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 2.18//SN 99",
-    "volpage": "SN i 54//SN i 123",
+    "volpage": { "pts-vp-pli1ed": "SN i 54", "pts-vp-pli2ed": "SN i 123" },
     "biblio_uid": ""
   },
   {
@@ -3142,7 +3142,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 2.19//SN 100",
-    "volpage": "SN i 54//SN i 125",
+    "volpage": { "pts-vp-pli1ed": "SN i 54", "pts-vp-pli2ed": "SN i 125" },
     "biblio_uid": ""
   },
   {
@@ -3153,7 +3153,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 2.20//SN 101",
-    "volpage": "SN i 55//SN i 126",
+    "volpage": { "pts-vp-pli1ed": "SN i 55", "pts-vp-pli2ed": "SN i 126" },
     "biblio_uid": ""
   },
   {
@@ -3164,7 +3164,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 2.21//SN 102",
-    "volpage": "SN i 56//SN i 129",
+    "volpage": { "pts-vp-pli1ed": "SN i 56", "pts-vp-pli2ed": "SN i 129" },
     "biblio_uid": ""
   },
   {
@@ -3175,7 +3175,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 2.22//SN 103",
-    "volpage": "SN i 57//SN i 131",
+    "volpage": { "pts-vp-pli1ed": "SN i 57", "pts-vp-pli2ed": "SN i 131" },
     "biblio_uid": ""
   },
   {
@@ -3186,7 +3186,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 2.23//SN 104",
-    "volpage": "SN i 57//SN i 132",
+    "volpage": { "pts-vp-pli1ed": "SN i 57", "pts-vp-pli2ed": "SN i 132" },
     "biblio_uid": ""
   },
   {
@@ -3197,7 +3197,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 2.24//SN 105",
-    "volpage": "SN i 60//SN i 137",
+    "volpage": { "pts-vp-pli1ed": "SN i 60", "pts-vp-pli2ed": "SN i 137" },
     "biblio_uid": ""
   },
   {
@@ -3208,7 +3208,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 2.25//SN 106",
-    "volpage": "SN i 61//SN i 141",
+    "volpage": { "pts-vp-pli1ed": "SN i 61", "pts-vp-pli2ed": "SN i 141" },
     "biblio_uid": ""
   },
   {
@@ -3219,7 +3219,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 2.26//SN 107",
-    "volpage": "SN i 61//SN i 142",
+    "volpage": { "pts-vp-pli1ed": "SN i 61", "pts-vp-pli2ed": "SN i 142" },
     "biblio_uid": ""
   },
   {
@@ -3230,7 +3230,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 2.27//SN 108",
-    "volpage": "SN i 62//SN i 145",
+    "volpage": { "pts-vp-pli1ed": "SN i 62", "pts-vp-pli2ed": "SN i 145" },
     "biblio_uid": ""
   },
   {
@@ -3241,7 +3241,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 2.28//SN 109",
-    "volpage": "SN i 63//SN i 146",
+    "volpage": { "pts-vp-pli1ed": "SN i 63", "pts-vp-pli2ed": "SN i 146" },
     "biblio_uid": ""
   },
   {
@@ -3252,7 +3252,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 2.29//SN 110",
-    "volpage": "SN i 63//SN i 146",
+    "volpage": { "pts-vp-pli1ed": "SN i 63", "pts-vp-pli2ed": "SN i 146" },
     "biblio_uid": ""
   },
   {
@@ -3263,7 +3263,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 2.30//SN 111",
-    "volpage": "SN i 65//SN i 151",
+    "volpage": { "pts-vp-pli1ed": "SN i 65", "pts-vp-pli2ed": "SN i 151" },
     "biblio_uid": ""
   },
   {
@@ -3274,7 +3274,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 3.1//SN 112",
-    "volpage": "SN i 68//SN i 157",
+    "volpage": { "pts-vp-pli1ed": "SN i 68", "pts-vp-pli2ed": "SN i 157" },
     "biblio_uid": ""
   },
   {
@@ -3285,7 +3285,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 3.2//SN 113",
-    "volpage": "SN i 70//SN i 162",
+    "volpage": { "pts-vp-pli1ed": "SN i 70", "pts-vp-pli2ed": "SN i 162" },
     "biblio_uid": ""
   },
   {
@@ -3296,7 +3296,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 3.3//SN 114",
-    "volpage": "SN i 71//SN i 163",
+    "volpage": { "pts-vp-pli1ed": "SN i 71", "pts-vp-pli2ed": "SN i 163" },
     "biblio_uid": ""
   },
   {
@@ -3307,7 +3307,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 3.4//SN 115",
-    "volpage": "SN i 71//SN i 164",
+    "volpage": { "pts-vp-pli1ed": "SN i 71", "pts-vp-pli2ed": "SN i 164" },
     "biblio_uid": ""
   },
   {
@@ -3318,7 +3318,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 3.5//SN 116",
-    "volpage": "SN i 72//SN i 166",
+    "volpage": { "pts-vp-pli1ed": "SN i 72", "pts-vp-pli2ed": "SN i 166" },
     "biblio_uid": ""
   },
   {
@@ -3329,7 +3329,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 3.6//SN 117",
-    "volpage": "SN i 73//SN i 168",
+    "volpage": { "pts-vp-pli1ed": "SN i 73", "pts-vp-pli2ed": "SN i 168" },
     "biblio_uid": ""
   },
   {
@@ -3340,7 +3340,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 3.7//SN 118",
-    "volpage": "SN i 74//SN i 170",
+    "volpage": { "pts-vp-pli1ed": "SN i 74", "pts-vp-pli2ed": "SN i 170" },
     "biblio_uid": ""
   },
   {
@@ -3351,7 +3351,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 3.8//SN 119",
-    "volpage": "SN i 75//SN i 171",
+    "volpage": { "pts-vp-pli1ed": "SN i 75", "pts-vp-pli2ed": "SN i 171" },
     "biblio_uid": ""
   },
   {
@@ -3362,7 +3362,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 3.9//SN 120",
-    "volpage": "SN i 75//SN i 172",
+    "volpage": { "pts-vp-pli1ed": "SN i 75", "pts-vp-pli2ed": "SN i 172" },
     "biblio_uid": ""
   },
   {
@@ -3373,7 +3373,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 3.10//SN 121",
-    "volpage": "SN i 76//SN i 174",
+    "volpage": { "pts-vp-pli1ed": "SN i 76", "pts-vp-pli2ed": "SN i 174" },
     "biblio_uid": ""
   },
   {
@@ -3384,7 +3384,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 3.11//SN 122",
-    "volpage": "SN i 77//SN i 176",
+    "volpage": { "pts-vp-pli1ed": "SN i 77", "pts-vp-pli2ed": "SN i 176" },
     "biblio_uid": ""
   },
   {
@@ -3395,7 +3395,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 3.12//SN 123",
-    "volpage": "SN i 79//SN i 181",
+    "volpage": { "pts-vp-pli1ed": "SN i 79", "pts-vp-pli2ed": "SN i 181" },
     "biblio_uid": ""
   },
   {
@@ -3406,7 +3406,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 3.13//SN 124",
-    "volpage": "SN i 81//SN i 185",
+    "volpage": { "pts-vp-pli1ed": "SN i 81", "pts-vp-pli2ed": "SN i 185" },
     "biblio_uid": ""
   },
   {
@@ -3417,7 +3417,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 3.14//SN 125",
-    "volpage": "SN i 82//SN i 187",
+    "volpage": { "pts-vp-pli1ed": "SN i 82", "pts-vp-pli2ed": "SN i 187" },
     "biblio_uid": ""
   },
   {
@@ -3428,7 +3428,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 3.15//SN 126",
-    "volpage": "SN i 83//SN i 190",
+    "volpage": { "pts-vp-pli1ed": "SN i 83", "pts-vp-pli2ed": "SN i 190" },
     "biblio_uid": ""
   },
   {
@@ -3439,7 +3439,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 3.16//SN 127",
-    "volpage": "SN i 86//SN i 193",
+    "volpage": { "pts-vp-pli1ed": "SN i 86", "pts-vp-pli2ed": "SN i 193" },
     "biblio_uid": ""
   },
   {
@@ -3450,7 +3450,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 3.17//SN 128",
-    "volpage": "SN i 86//SN i 195",
+    "volpage": { "pts-vp-pli1ed": "SN i 86", "pts-vp-pli2ed": "SN i 195" },
     "biblio_uid": ""
   },
   {
@@ -3461,7 +3461,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 3.18//SN 129",
-    "volpage": "SN i 87//SN i 196",
+    "volpage": { "pts-vp-pli1ed": "SN i 87", "pts-vp-pli2ed": "SN i 196" },
     "biblio_uid": ""
   },
   {
@@ -3472,7 +3472,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 3.19//SN 130",
-    "volpage": "SN i 89//SN i 201",
+    "volpage": { "pts-vp-pli1ed": "SN i 89", "pts-vp-pli2ed": "SN i 201" },
     "biblio_uid": ""
   },
   {
@@ -3483,7 +3483,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 3.20//SN 131",
-    "volpage": "SN i 91//SN i 205",
+    "volpage": { "pts-vp-pli1ed": "SN i 91", "pts-vp-pli2ed": "SN i 205" },
     "biblio_uid": ""
   },
   {
@@ -3494,7 +3494,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 3.21//SN 132",
-    "volpage": "SN i 93//SN i 209",
+    "volpage": { "pts-vp-pli1ed": "SN i 93", "pts-vp-pli2ed": "SN i 209" },
     "biblio_uid": ""
   },
   {
@@ -3505,7 +3505,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 3.22//SN 133",
-    "volpage": "SN i 96//SN i 216",
+    "volpage": { "pts-vp-pli1ed": "SN i 96", "pts-vp-pli2ed": "SN i 216" },
     "biblio_uid": ""
   },
   {
@@ -3516,7 +3516,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 3.23//SN 134",
-    "volpage": "SN i 98//SN i 218",
+    "volpage": { "pts-vp-pli1ed": "SN i 98", "pts-vp-pli2ed": "SN i 218" },
     "biblio_uid": ""
   },
   {
@@ -3527,7 +3527,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 3.24//SN 135",
-    "volpage": "SN i 98//SN i 219",
+    "volpage": { "pts-vp-pli1ed": "SN i 98", "pts-vp-pli2ed": "SN i 219" },
     "biblio_uid": ""
   },
   {
@@ -3538,7 +3538,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 3.25//SN 136",
-    "volpage": "SN i 100//SN i 224",
+    "volpage": { "pts-vp-pli1ed": "SN i 100", "pts-vp-pli2ed": "SN i 224" },
     "biblio_uid": ""
   },
   {
@@ -3549,7 +3549,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 4.1//SN 137",
-    "volpage": "SN i 103//SN i 231",
+    "volpage": { "pts-vp-pli1ed": "SN i 103", "pts-vp-pli2ed": "SN i 231" },
     "biblio_uid": ""
   },
   {
@@ -3560,7 +3560,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 4.2//SN 138",
-    "volpage": "SN i 103//SN i 232",
+    "volpage": { "pts-vp-pli1ed": "SN i 103", "pts-vp-pli2ed": "SN i 232" },
     "biblio_uid": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 4.3//SN 139",
-    "volpage": "SN i 104//SN i 233",
+    "volpage": { "pts-vp-pli1ed": "SN i 104", "pts-vp-pli2ed": "SN i 233" },
     "biblio_uid": ""
   },
   {
@@ -3582,7 +3582,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 4.4//SN 140",
-    "volpage": "SN i 105//SN i 234",
+    "volpage": { "pts-vp-pli1ed": "SN i 105", "pts-vp-pli2ed": "SN i 234" },
     "biblio_uid": ""
   },
   {
@@ -3593,7 +3593,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 4.5//SN 141",
-    "volpage": "SN i 105//SN i 236",
+    "volpage": { "pts-vp-pli1ed": "SN i 105", "pts-vp-pli2ed": "SN i 236" },
     "biblio_uid": ""
   },
   {
@@ -3604,7 +3604,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 4.6//SN 142",
-    "volpage": "SN i 106//SN i 237",
+    "volpage": { "pts-vp-pli1ed": "SN i 106", "pts-vp-pli2ed": "SN i 237" },
     "biblio_uid": ""
   },
   {
@@ -3615,7 +3615,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 4.7//SN 143",
-    "volpage": "SN i 107//SN i 239",
+    "volpage": { "pts-vp-pli1ed": "SN i 107", "pts-vp-pli2ed": "SN i 239" },
     "biblio_uid": ""
   },
   {
@@ -3626,7 +3626,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 4.8//SN 144",
-    "volpage": "SN i 107//SN i 240",
+    "volpage": { "pts-vp-pli1ed": "SN i 107", "pts-vp-pli2ed": "SN i 240" },
     "biblio_uid": ""
   },
   {
@@ -3637,7 +3637,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 4.9//SN 145",
-    "volpage": "SN i 108//SN i 241",
+    "volpage": { "pts-vp-pli1ed": "SN i 108", "pts-vp-pli2ed": "SN i 241" },
     "biblio_uid": ""
   },
   {
@@ -3648,7 +3648,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 4.10//SN 146",
-    "volpage": "SN i 108//SN i 242",
+    "volpage": { "pts-vp-pli1ed": "SN i 108", "pts-vp-pli2ed": "SN i 242" },
     "biblio_uid": ""
   },
   {
@@ -3659,7 +3659,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 4.11//SN 147",
-    "volpage": "SN i 109//SN i 243",
+    "volpage": { "pts-vp-pli1ed": "SN i 109", "pts-vp-pli2ed": "SN i 243" },
     "biblio_uid": ""
   },
   {
@@ -3670,7 +3670,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 4.12//SN 148",
-    "volpage": "SN i 109//SN i 244",
+    "volpage": { "pts-vp-pli1ed": "SN i 109", "pts-vp-pli2ed": "SN i 244" },
     "biblio_uid": ""
   },
   {
@@ -3681,7 +3681,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 4.13//SN 149",
-    "volpage": "SN i 110//SN i 245",
+    "volpage": { "pts-vp-pli1ed": "SN i 110", "pts-vp-pli2ed": "SN i 245" },
     "biblio_uid": ""
   },
   {
@@ -3692,7 +3692,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 4.14//SN 150",
-    "volpage": "SN i 111//SN i 247",
+    "volpage": { "pts-vp-pli1ed": "SN i 111", "pts-vp-pli2ed": "SN i 247" },
     "biblio_uid": ""
   },
   {
@@ -3703,7 +3703,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 4.15//SN 151",
-    "volpage": "SN i 111//SN i 248",
+    "volpage": { "pts-vp-pli1ed": "SN i 111", "pts-vp-pli2ed": "SN i 248" },
     "biblio_uid": ""
   },
   {
@@ -3714,7 +3714,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 4.16//SN 152",
-    "volpage": "SN i 112//SN i 249",
+    "volpage": { "pts-vp-pli1ed": "SN i 112", "pts-vp-pli2ed": "SN i 249" },
     "biblio_uid": ""
   },
   {
@@ -3725,7 +3725,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 4.17//SN 153",
-    "volpage": "SN i 112//SN i 251",
+    "volpage": { "pts-vp-pli1ed": "SN i 112", "pts-vp-pli2ed": "SN i 251" },
     "biblio_uid": ""
   },
   {
@@ -3736,7 +3736,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 4.18//SN 154",
-    "volpage": "SN i 113//SN i 252",
+    "volpage": { "pts-vp-pli1ed": "SN i 113", "pts-vp-pli2ed": "SN i 252" },
     "biblio_uid": ""
   },
   {
@@ -3747,7 +3747,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 4.19//SN 155",
-    "volpage": "SN i 114//SN i 254",
+    "volpage": { "pts-vp-pli1ed": "SN i 114", "pts-vp-pli2ed": "SN i 254" },
     "biblio_uid": ""
   },
   {
@@ -3758,7 +3758,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 4.20//SN 156",
-    "volpage": "SN i 116//SN i 257",
+    "volpage": { "pts-vp-pli1ed": "SN i 116", "pts-vp-pli2ed": "SN i 257" },
     "biblio_uid": ""
   },
   {
@@ -3769,7 +3769,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 4.21//SN 157",
-    "volpage": "SN i 117//SN i 259",
+    "volpage": { "pts-vp-pli1ed": "SN i 117", "pts-vp-pli2ed": "SN i 259" },
     "biblio_uid": ""
   },
   {
@@ -3780,7 +3780,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 4.22//SN 158",
-    "volpage": "SN i 119//SN i 262",
+    "volpage": { "pts-vp-pli1ed": "SN i 119", "pts-vp-pli2ed": "SN i 262" },
     "biblio_uid": ""
   },
   {
@@ -3791,7 +3791,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 4.23//SN 159",
-    "volpage": "SN i 120//SN i 264",
+    "volpage": { "pts-vp-pli1ed": "SN i 120", "pts-vp-pli2ed": "SN i 264" },
     "biblio_uid": ""
   },
   {
@@ -3802,7 +3802,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 4.24//SN 160",
-    "volpage": "SN i 122//SN i 269",
+    "volpage": { "pts-vp-pli1ed": "SN i 122", "pts-vp-pli2ed": "SN i 269" },
     "biblio_uid": ""
   },
   {
@@ -3813,7 +3813,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 4.25//SN 161",
-    "volpage": "SN i 124//SN i 273",
+    "volpage": { "pts-vp-pli1ed": "SN i 124", "pts-vp-pli2ed": "SN i 273" },
     "biblio_uid": ""
   },
   {
@@ -3824,7 +3824,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 5.1//SN 162",
-    "volpage": "SN i 128//SN i 281",
+    "volpage": { "pts-vp-pli1ed": "SN i 128", "pts-vp-pli2ed": "SN i 281" },
     "biblio_uid": ""
   },
   {
@@ -3835,7 +3835,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 5.2//SN 163",
-    "volpage": "SN i 129//SN i 283",
+    "volpage": { "pts-vp-pli1ed": "SN i 129", "pts-vp-pli2ed": "SN i 283" },
     "biblio_uid": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 5.3//SN 164",
-    "volpage": "SN i 129//SN i 284",
+    "volpage": { "pts-vp-pli1ed": "SN i 129", "pts-vp-pli2ed": "SN i 284" },
     "biblio_uid": ""
   },
   {
@@ -3857,7 +3857,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 5.4//SN 165",
-    "volpage": "SN i 130//SN i 286",
+    "volpage": { "pts-vp-pli1ed": "SN i 130", "pts-vp-pli2ed": "SN i 286" },
     "biblio_uid": ""
   },
   {
@@ -3868,7 +3868,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 5.5//SN 166",
-    "volpage": "SN i 131//SN i 287",
+    "volpage": { "pts-vp-pli1ed": "SN i 131", "pts-vp-pli2ed": "SN i 287" },
     "biblio_uid": ""
   },
   {
@@ -3879,7 +3879,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 5.6//SN 167",
-    "volpage": "SN i 132//SN i 290",
+    "volpage": { "pts-vp-pli1ed": "SN i 132", "pts-vp-pli2ed": "SN i 290" },
     "biblio_uid": ""
   },
   {
@@ -3890,7 +3890,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 5.7//SN 168",
-    "volpage": "SN i 133//SN i 291",
+    "volpage": { "pts-vp-pli1ed": "SN i 133", "pts-vp-pli2ed": "SN i 291" },
     "biblio_uid": ""
   },
   {
@@ -3901,7 +3901,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 5.8//SN 169",
-    "volpage": "SN i 133//SN i 292",
+    "volpage": { "pts-vp-pli1ed": "SN i 133", "pts-vp-pli2ed": "SN i 292" },
     "biblio_uid": ""
   },
   {
@@ -3912,7 +3912,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 5.9//SN 170",
-    "volpage": "SN i 134//SN i 294",
+    "volpage": { "pts-vp-pli1ed": "SN i 134", "pts-vp-pli2ed": "SN i 294" },
     "biblio_uid": ""
   },
   {
@@ -3923,7 +3923,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 5.10//SN 171",
-    "volpage": "SN i 134//SN i 296",
+    "volpage": { "pts-vp-pli1ed": "SN i 134", "pts-vp-pli2ed": "SN i 296" },
     "biblio_uid": ""
   },
   {
@@ -3934,7 +3934,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 6.1//SN 172",
-    "volpage": "SN i 136//SN i 298",
+    "volpage": { "pts-vp-pli1ed": "SN i 136", "pts-vp-pli2ed": "SN i 298" },
     "biblio_uid": ""
   },
   {
@@ -3945,7 +3945,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 6.2//SN 173",
-    "volpage": "SN i 138//SN i 303",
+    "volpage": { "pts-vp-pli1ed": "SN i 138", "pts-vp-pli2ed": "SN i 303" },
     "biblio_uid": ""
   },
   {
@@ -3956,7 +3956,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 6.3//SN 174",
-    "volpage": "SN i 140//SN i 306",
+    "volpage": { "pts-vp-pli1ed": "SN i 140", "pts-vp-pli2ed": "SN i 306" },
     "biblio_uid": ""
   },
   {
@@ -3967,7 +3967,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 6.4//SN 175",
-    "volpage": "SN i 142//SN i 310",
+    "volpage": { "pts-vp-pli1ed": "SN i 142", "pts-vp-pli2ed": "SN i 310" },
     "biblio_uid": ""
   },
   {
@@ -3978,7 +3978,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 6.5//SN 176",
-    "volpage": "SN i 144//SN i 314",
+    "volpage": { "pts-vp-pli1ed": "SN i 144", "pts-vp-pli2ed": "SN i 314" },
     "biblio_uid": ""
   },
   {
@@ -3989,7 +3989,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 6.6//SN 177",
-    "volpage": "SN i 146//SN i 318",
+    "volpage": { "pts-vp-pli1ed": "SN i 146", "pts-vp-pli2ed": "SN i 318" },
     "biblio_uid": ""
   },
   {
@@ -4000,7 +4000,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 6.7//SN 178",
-    "volpage": "SN i 148//SN i 322",
+    "volpage": { "pts-vp-pli1ed": "SN i 148", "pts-vp-pli2ed": "SN i 322" },
     "biblio_uid": ""
   },
   {
@@ -4011,7 +4011,7 @@
     "number_in_vagga": "7?9",
     "language": "pli",
     "acronym": "SN 6.7–9//SN 178–180",
-    "volpage": "SN i 148//SN i 322",
+    "volpage": { "pts-vp-pli1ed": "SN i 148", "pts-vp-pli2ed": "SN i 322" },
     "biblio_uid": ""
   },
   {
@@ -4022,7 +4022,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 6.8//SN 179",
-    "volpage": "SN i 148//SN i 323",
+    "volpage": { "pts-vp-pli1ed": "SN i 148", "pts-vp-pli2ed": "SN i 323" },
     "biblio_uid": ""
   },
   {
@@ -4033,7 +4033,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 6.9//SN 180",
-    "volpage": "SN i 149//SN i 323",
+    "volpage": { "pts-vp-pli1ed": "SN i 149", "pts-vp-pli2ed": "SN i 323" },
     "biblio_uid": ""
   },
   {
@@ -4044,7 +4044,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 6.10//SN 181",
-    "volpage": "SN i 149//SN i 325",
+    "volpage": { "pts-vp-pli1ed": "SN i 149", "pts-vp-pli2ed": "SN i 325" },
     "biblio_uid": ""
   },
   {
@@ -4055,7 +4055,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 6.11//SN 182",
-    "volpage": "SN i 153//SN i 331",
+    "volpage": { "pts-vp-pli1ed": "SN i 153", "pts-vp-pli2ed": "SN i 331" },
     "biblio_uid": ""
   },
   {
@@ -4066,7 +4066,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 6.12//SN 183",
-    "volpage": "SN i 153//SN i 332",
+    "volpage": { "pts-vp-pli1ed": "SN i 153", "pts-vp-pli2ed": "SN i 332" },
     "biblio_uid": ""
   },
   {
@@ -4077,7 +4077,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 6.13//SN 184",
-    "volpage": "SN i 154//SN i 333",
+    "volpage": { "pts-vp-pli1ed": "SN i 154", "pts-vp-pli2ed": "SN i 333" },
     "biblio_uid": ""
   },
   {
@@ -4088,7 +4088,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 6.14//SN 185",
-    "volpage": "SN i 155//SN i 335",
+    "volpage": { "pts-vp-pli1ed": "SN i 155", "pts-vp-pli2ed": "SN i 335" },
     "biblio_uid": ""
   },
   {
@@ -4099,7 +4099,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 6.15//SN 186",
-    "volpage": "SN i 157//SN i 340",
+    "volpage": { "pts-vp-pli1ed": "SN i 157", "pts-vp-pli2ed": "SN i 340" },
     "biblio_uid": ""
   },
   {
@@ -4110,7 +4110,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 7.1//SN 187",
-    "volpage": "SN i 160//SN i 344",
+    "volpage": { "pts-vp-pli1ed": "SN i 160", "pts-vp-pli2ed": "SN i 344" },
     "biblio_uid": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 7.2//SN 188",
-    "volpage": "SN i 161//SN i 347",
+    "volpage": { "pts-vp-pli1ed": "SN i 161", "pts-vp-pli2ed": "SN i 347" },
     "biblio_uid": ""
   },
   {
@@ -4132,7 +4132,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 7.3//SN 189",
-    "volpage": "SN i 163//SN i 350",
+    "volpage": { "pts-vp-pli1ed": "SN i 163", "pts-vp-pli2ed": "SN i 350" },
     "biblio_uid": ""
   },
   {
@@ -4143,7 +4143,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 7.4//SN 190",
-    "volpage": "SN i 164//SN i 351",
+    "volpage": { "pts-vp-pli1ed": "SN i 164", "pts-vp-pli2ed": "SN i 351" },
     "biblio_uid": ""
   },
   {
@@ -4154,7 +4154,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 7.5//SN 191",
-    "volpage": "SN i 164//SN i 352",
+    "volpage": { "pts-vp-pli1ed": "SN i 164", "pts-vp-pli2ed": "SN i 352" },
     "biblio_uid": ""
   },
   {
@@ -4165,7 +4165,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 7.6//SN 192",
-    "volpage": "SN i 165//SN i 353",
+    "volpage": { "pts-vp-pli1ed": "SN i 165", "pts-vp-pli2ed": "SN i 353" },
     "biblio_uid": ""
   },
   {
@@ -4176,7 +4176,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 7.7//SN 193",
-    "volpage": "SN i 165//SN i 354",
+    "volpage": { "pts-vp-pli1ed": "SN i 165", "pts-vp-pli2ed": "SN i 354" },
     "biblio_uid": ""
   },
   {
@@ -4187,7 +4187,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 7.8//SN 194",
-    "volpage": "SN i 166//SN i 356",
+    "volpage": { "pts-vp-pli1ed": "SN i 166", "pts-vp-pli2ed": "SN i 356" },
     "biblio_uid": ""
   },
   {
@@ -4198,7 +4198,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 7.9//SN 195",
-    "volpage": "SN i 167//SN i 358",
+    "volpage": { "pts-vp-pli1ed": "SN i 167", "pts-vp-pli2ed": "SN i 358" },
     "biblio_uid": ""
   },
   {
@@ -4209,7 +4209,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 7.10//SN 196",
-    "volpage": "SN i 170//SN i 365",
+    "volpage": { "pts-vp-pli1ed": "SN i 170", "pts-vp-pli2ed": "SN i 365" },
     "biblio_uid": ""
   },
   {
@@ -4220,7 +4220,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 7.11//SN 197",
-    "volpage": "SN i 172//SN i 369",
+    "volpage": { "pts-vp-pli1ed": "SN i 172", "pts-vp-pli2ed": "SN i 369" },
     "biblio_uid": ""
   },
   {
@@ -4231,7 +4231,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 7.12//SN 198",
-    "volpage": "SN i 173//SN i 373",
+    "volpage": { "pts-vp-pli1ed": "SN i 173", "pts-vp-pli2ed": "SN i 373" },
     "biblio_uid": ""
   },
   {
@@ -4242,7 +4242,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 7.13//SN 199",
-    "volpage": "SN i 174//SN i 375",
+    "volpage": { "pts-vp-pli1ed": "SN i 174", "pts-vp-pli2ed": "SN i 375" },
     "biblio_uid": ""
   },
   {
@@ -4253,7 +4253,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 7.14//SN 200",
-    "volpage": "SN i 175//SN i 377",
+    "volpage": { "pts-vp-pli1ed": "SN i 175", "pts-vp-pli2ed": "SN i 377" },
     "biblio_uid": ""
   },
   {
@@ -4264,7 +4264,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 7.15//SN 201",
-    "volpage": "SN i 177//SN i 381",
+    "volpage": { "pts-vp-pli1ed": "SN i 177", "pts-vp-pli2ed": "SN i 381" },
     "biblio_uid": ""
   },
   {
@@ -4275,7 +4275,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 7.16//SN 202",
-    "volpage": "SN i 179//SN i 385",
+    "volpage": { "pts-vp-pli1ed": "SN i 179", "pts-vp-pli2ed": "SN i 385" },
     "biblio_uid": ""
   },
   {
@@ -4286,7 +4286,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 7.17//SN 203",
-    "volpage": "SN i 179//SN i 386",
+    "volpage": { "pts-vp-pli1ed": "SN i 179", "pts-vp-pli2ed": "SN i 386" },
     "biblio_uid": ""
   },
   {
@@ -4297,7 +4297,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 7.18//SN 204",
-    "volpage": "SN i 180//SN i 388",
+    "volpage": { "pts-vp-pli1ed": "SN i 180", "pts-vp-pli2ed": "SN i 388" },
     "biblio_uid": ""
   },
   {
@@ -4308,7 +4308,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 7.19//SN 205",
-    "volpage": "SN i 181//SN i 390",
+    "volpage": { "pts-vp-pli1ed": "SN i 181", "pts-vp-pli2ed": "SN i 390" },
     "biblio_uid": ""
   },
   {
@@ -4319,7 +4319,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 7.20//SN 206",
-    "volpage": "SN i 182//SN i 392",
+    "volpage": { "pts-vp-pli1ed": "SN i 182", "pts-vp-pli2ed": "SN i 392" },
     "biblio_uid": ""
   },
   {
@@ -4330,7 +4330,7 @@
     "number_in_vagga": 11,
     "language": "pli",
     "acronym": "SN 7.21//SN 207",
-    "volpage": "SN i 182//SN i 393",
+    "volpage": { "pts-vp-pli1ed": "SN i 182", "pts-vp-pli2ed": "SN i 393" },
     "biblio_uid": ""
   },
   {
@@ -4341,7 +4341,7 @@
     "number_in_vagga": 12,
     "language": "pli",
     "acronym": "SN 7.22//SN 208",
-    "volpage": "SN i 184//SN i 395",
+    "volpage": { "pts-vp-pli1ed": "SN i 184", "pts-vp-pli2ed": "SN i 395" },
     "biblio_uid": ""
   },
   {
@@ -4352,7 +4352,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 8.1//SN 209",
-    "volpage": "SN i 185//SN i 398",
+    "volpage": { "pts-vp-pli1ed": "SN i 185", "pts-vp-pli2ed": "SN i 398" },
     "biblio_uid": ""
   },
   {
@@ -4363,7 +4363,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 8.2//SN 210",
-    "volpage": "SN i 186//SN i 400",
+    "volpage": { "pts-vp-pli1ed": "SN i 186", "pts-vp-pli2ed": "SN i 400" },
     "biblio_uid": ""
   },
   {
@@ -4374,7 +4374,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 8.3//SN 211",
-    "volpage": "SN i 187//SN i 403",
+    "volpage": { "pts-vp-pli1ed": "SN i 187", "pts-vp-pli2ed": "SN i 403" },
     "biblio_uid": ""
   },
   {
@@ -4385,7 +4385,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 8.4//SN 212",
-    "volpage": "SN i 188//SN i 404",
+    "volpage": { "pts-vp-pli1ed": "SN i 188", "pts-vp-pli2ed": "SN i 404" },
     "biblio_uid": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 8.5//SN 213",
-    "volpage": "SN i 188//SN i 406",
+    "volpage": { "pts-vp-pli1ed": "SN i 188", "pts-vp-pli2ed": "SN i 406" },
     "biblio_uid": ""
   },
   {
@@ -4407,7 +4407,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 8.6//SN 214",
-    "volpage": "SN i 189//SN i 408",
+    "volpage": { "pts-vp-pli1ed": "SN i 189", "pts-vp-pli2ed": "SN i 408" },
     "biblio_uid": ""
   },
   {
@@ -4418,7 +4418,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 8.7//SN 215",
-    "volpage": "SN i 190//SN i 410",
+    "volpage": { "pts-vp-pli1ed": "SN i 190", "pts-vp-pli2ed": "SN i 410" },
     "biblio_uid": ""
   },
   {
@@ -4429,7 +4429,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 8.8//SN 216",
-    "volpage": "SN i 192//SN i 414",
+    "volpage": { "pts-vp-pli1ed": "SN i 192", "pts-vp-pli2ed": "SN i 414" },
     "biblio_uid": ""
   },
   {
@@ -4440,7 +4440,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 8.9//SN 217",
-    "volpage": "SN i 193//SN i 417",
+    "volpage": { "pts-vp-pli1ed": "SN i 193", "pts-vp-pli2ed": "SN i 417" },
     "biblio_uid": ""
   },
   {
@@ -4451,7 +4451,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 8.10//SN 218",
-    "volpage": "SN i 194//SN i 419",
+    "volpage": { "pts-vp-pli1ed": "SN i 194", "pts-vp-pli2ed": "SN i 419" },
     "biblio_uid": ""
   },
   {
@@ -4462,7 +4462,7 @@
     "number_in_vagga": 11,
     "language": "pli",
     "acronym": "SN 8.11//SN 219",
-    "volpage": "SN i 195//SN i 420",
+    "volpage": { "pts-vp-pli1ed": "SN i 195", "pts-vp-pli2ed": "SN i 420" },
     "biblio_uid": ""
   },
   {
@@ -4473,7 +4473,7 @@
     "number_in_vagga": 12,
     "language": "pli",
     "acronym": "SN 8.12//SN 220",
-    "volpage": "SN i 196//SN i 421",
+    "volpage": { "pts-vp-pli1ed": "SN i 196", "pts-vp-pli2ed": "SN i 421" },
     "biblio_uid": ""
   },
   {
@@ -4484,7 +4484,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 9.1//SN 221",
-    "volpage": "SN i 197//SN i 424",
+    "volpage": { "pts-vp-pli1ed": "SN i 197", "pts-vp-pli2ed": "SN i 424" },
     "biblio_uid": ""
   },
   {
@@ -4495,7 +4495,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 9.2//SN 222",
-    "volpage": "SN i 197//SN i 425",
+    "volpage": { "pts-vp-pli1ed": "SN i 197", "pts-vp-pli2ed": "SN i 425" },
     "biblio_uid": ""
   },
   {
@@ -4506,7 +4506,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 9.3//SN 223",
-    "volpage": "SN i 198//SN i 427",
+    "volpage": { "pts-vp-pli1ed": "SN i 198", "pts-vp-pli2ed": "SN i 427" },
     "biblio_uid": ""
   },
   {
@@ -4517,7 +4517,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 9.4//SN 224",
-    "volpage": "SN i 199//SN i 428",
+    "volpage": { "pts-vp-pli1ed": "SN i 199", "pts-vp-pli2ed": "SN i 428" },
     "biblio_uid": ""
   },
   {
@@ -4528,7 +4528,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 9.5//SN 225",
-    "volpage": "SN i 199//SN i 429",
+    "volpage": { "pts-vp-pli1ed": "SN i 199", "pts-vp-pli2ed": "SN i 429" },
     "biblio_uid": ""
   },
   {
@@ -4539,7 +4539,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 9.6//SN 226",
-    "volpage": "SN i 200//SN i 430",
+    "volpage": { "pts-vp-pli1ed": "SN i 200", "pts-vp-pli2ed": "SN i 430" },
     "biblio_uid": ""
   },
   {
@@ -4550,7 +4550,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 9.7//SN 227",
-    "volpage": "SN i 200//SN i 432",
+    "volpage": { "pts-vp-pli1ed": "SN i 200", "pts-vp-pli2ed": "SN i 432" },
     "biblio_uid": ""
   },
   {
@@ -4561,7 +4561,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 9.8//SN 228",
-    "volpage": "SN i 201//SN i 433",
+    "volpage": { "pts-vp-pli1ed": "SN i 201", "pts-vp-pli2ed": "SN i 433" },
     "biblio_uid": ""
   },
   {
@@ -4572,7 +4572,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 9.9//SN 229",
-    "volpage": "SN i 201//SN i 434",
+    "volpage": { "pts-vp-pli1ed": "SN i 201", "pts-vp-pli2ed": "SN i 434" },
     "biblio_uid": ""
   },
   {
@@ -4583,7 +4583,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 9.10//SN 230",
-    "volpage": "SN i 202//SN i 435",
+    "volpage": { "pts-vp-pli1ed": "SN i 202", "pts-vp-pli2ed": "SN i 435" },
     "biblio_uid": ""
   },
   {
@@ -4594,7 +4594,7 @@
     "number_in_vagga": 11,
     "language": "pli",
     "acronym": "SN 9.11//SN 231",
-    "volpage": "SN i 203//SN i 436",
+    "volpage": { "pts-vp-pli1ed": "SN i 203", "pts-vp-pli2ed": "SN i 436" },
     "biblio_uid": ""
   },
   {
@@ -4605,7 +4605,7 @@
     "number_in_vagga": 12,
     "language": "pli",
     "acronym": "SN 9.12//SN 232",
-    "volpage": "SN i 203//SN i 437",
+    "volpage": { "pts-vp-pli1ed": "SN i 203", "pts-vp-pli2ed": "SN i 437" },
     "biblio_uid": ""
   },
   {
@@ -4616,7 +4616,7 @@
     "number_in_vagga": 13,
     "language": "pli",
     "acronym": "SN 9.13//SN 233",
-    "volpage": "SN i 203//SN i 438",
+    "volpage": { "pts-vp-pli1ed": "SN i 203", "pts-vp-pli2ed": "SN i 438" },
     "biblio_uid": ""
   },
   {
@@ -4627,7 +4627,7 @@
     "number_in_vagga": 14,
     "language": "pli",
     "acronym": "SN 9.14//SN 234",
-    "volpage": "SN i 204//SN i 440",
+    "volpage": { "pts-vp-pli1ed": "SN i 204", "pts-vp-pli2ed": "SN i 440" },
     "biblio_uid": ""
   },
   {
@@ -4638,7 +4638,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 10.1//SN 235",
-    "volpage": "SN i 206//SN i 443",
+    "volpage": { "pts-vp-pli1ed": "SN i 206", "pts-vp-pli2ed": "SN i 443" },
     "biblio_uid": ""
   },
   {
@@ -4649,7 +4649,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 10.2//SN 236",
-    "volpage": "SN i 206//SN i 444",
+    "volpage": { "pts-vp-pli1ed": "SN i 206", "pts-vp-pli2ed": "SN i 444" },
     "biblio_uid": ""
   },
   {
@@ -4660,7 +4660,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 10.3//SN 237",
-    "volpage": "SN i 207//SN i 445",
+    "volpage": { "pts-vp-pli1ed": "SN i 207", "pts-vp-pli2ed": "SN i 445" },
     "biblio_uid": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 10.4//SN 238",
-    "volpage": "SN i 208//SN i 447",
+    "volpage": { "pts-vp-pli1ed": "SN i 208", "pts-vp-pli2ed": "SN i 447" },
     "biblio_uid": ""
   },
   {
@@ -4682,7 +4682,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 10.5//SN 239",
-    "volpage": "SN i 208//SN i 448",
+    "volpage": { "pts-vp-pli1ed": "SN i 208", "pts-vp-pli2ed": "SN i 448" },
     "biblio_uid": ""
   },
   {
@@ -4693,7 +4693,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 10.6//SN 240",
-    "volpage": "SN i 209//SN i 451",
+    "volpage": { "pts-vp-pli1ed": "SN i 209", "pts-vp-pli2ed": "SN i 451" },
     "biblio_uid": ""
   },
   {
@@ -4704,7 +4704,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 10.7//SN 241",
-    "volpage": "SN i 209//SN i 452",
+    "volpage": { "pts-vp-pli1ed": "SN i 209", "pts-vp-pli2ed": "SN i 452" },
     "biblio_uid": ""
   },
   {
@@ -4715,7 +4715,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 10.8//SN 242",
-    "volpage": "SN i 210//SN i 455",
+    "volpage": { "pts-vp-pli1ed": "SN i 210", "pts-vp-pli2ed": "SN i 455" },
     "biblio_uid": ""
   },
   {
@@ -4726,7 +4726,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 10.9//SN 243",
-    "volpage": "SN i 212//SN i 458",
+    "volpage": { "pts-vp-pli1ed": "SN i 212", "pts-vp-pli2ed": "SN i 458" },
     "biblio_uid": ""
   },
   {
@@ -4737,7 +4737,7 @@
     "number_in_vagga": "9?10",
     "language": "pli",
     "acronym": "SN 10.9–10//SN 243–244",
-    "volpage": "SN i 212//SN i 458",
+    "volpage": { "pts-vp-pli1ed": "SN i 212", "pts-vp-pli2ed": "SN i 458" },
     "biblio_uid": ""
   },
   {
@@ -4748,7 +4748,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 10.10//SN 244",
-    "volpage": "SN i 212//SN i 459",
+    "volpage": { "pts-vp-pli1ed": "SN i 212", "pts-vp-pli2ed": "SN i 459" },
     "biblio_uid": ""
   },
   {
@@ -4759,7 +4759,7 @@
     "number_in_vagga": 11,
     "language": "pli",
     "acronym": "SN 10.11//SN 245",
-    "volpage": "SN i 213//SN i 460",
+    "volpage": { "pts-vp-pli1ed": "SN i 213", "pts-vp-pli2ed": "SN i 460" },
     "biblio_uid": ""
   },
   {
@@ -4770,7 +4770,7 @@
     "number_in_vagga": 12,
     "language": "pli",
     "acronym": "SN 10.12//SN 246",
-    "volpage": "SN i 213//SN i 460",
+    "volpage": { "pts-vp-pli1ed": "SN i 213", "pts-vp-pli2ed": "SN i 460" },
     "biblio_uid": ""
   },
   {
@@ -4781,7 +4781,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 11.1//SN 247",
-    "volpage": "SN i 216//SN i 466",
+    "volpage": { "pts-vp-pli1ed": "SN i 216", "pts-vp-pli2ed": "SN i 466" },
     "biblio_uid": ""
   },
   {
@@ -4792,7 +4792,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 11.2//SN 248",
-    "volpage": "SN i 217//SN i 469",
+    "volpage": { "pts-vp-pli1ed": "SN i 217", "pts-vp-pli2ed": "SN i 469" },
     "biblio_uid": ""
   },
   {
@@ -4803,7 +4803,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 11.3//SN 249",
-    "volpage": "SN i 218//SN i 472",
+    "volpage": { "pts-vp-pli1ed": "SN i 218", "pts-vp-pli2ed": "SN i 472" },
     "biblio_uid": ""
   },
   {
@@ -4814,7 +4814,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 11.4//SN 250",
-    "volpage": "SN i 220//SN i 475",
+    "volpage": { "pts-vp-pli1ed": "SN i 220", "pts-vp-pli2ed": "SN i 475" },
     "biblio_uid": ""
   },
   {
@@ -4825,7 +4825,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 11.5//SN 251",
-    "volpage": "SN i 222//SN i 479",
+    "volpage": { "pts-vp-pli1ed": "SN i 222", "pts-vp-pli2ed": "SN i 479" },
     "biblio_uid": ""
   },
   {
@@ -4836,7 +4836,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 11.6//SN 252",
-    "volpage": "SN i 224//SN i 483",
+    "volpage": { "pts-vp-pli1ed": "SN i 224", "pts-vp-pli2ed": "SN i 483" },
     "biblio_uid": ""
   },
   {
@@ -4847,7 +4847,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 11.7//SN 253",
-    "volpage": "SN i 225//SN i 484",
+    "volpage": { "pts-vp-pli1ed": "SN i 225", "pts-vp-pli2ed": "SN i 484" },
     "biblio_uid": ""
   },
   {
@@ -4858,7 +4858,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 11.8//SN 254",
-    "volpage": "SN i 225//SN i 485",
+    "volpage": { "pts-vp-pli1ed": "SN i 225", "pts-vp-pli2ed": "SN i 485" },
     "biblio_uid": ""
   },
   {
@@ -4869,7 +4869,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 11.9//SN 255",
-    "volpage": "SN i 226//SN i 487",
+    "volpage": { "pts-vp-pli1ed": "SN i 226", "pts-vp-pli2ed": "SN i 487" },
     "biblio_uid": ""
   },
   {
@@ -4880,7 +4880,7 @@
     "number_in_vagga": "9?10",
     "language": "pli",
     "acronym": "SN 11.9–10//SN 255–256",
-    "volpage": "SN i 226//SN i 487",
+    "volpage": { "pts-vp-pli1ed": "SN i 226", "pts-vp-pli2ed": "SN i 487" },
     "biblio_uid": ""
   },
   {
@@ -4891,7 +4891,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 11.10//SN 256",
-    "volpage": "SN i 227//SN i 489",
+    "volpage": { "pts-vp-pli1ed": "SN i 227", "pts-vp-pli2ed": "SN i 489" },
     "biblio_uid": ""
   },
   {
@@ -4902,7 +4902,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 11.11//SN 257",
-    "volpage": "SN i 228//SN i 492",
+    "volpage": { "pts-vp-pli1ed": "SN i 228", "pts-vp-pli2ed": "SN i 492" },
     "biblio_uid": ""
   },
   {
@@ -4913,7 +4913,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 11.12//SN 258",
-    "volpage": "SN i 229//SN i 493",
+    "volpage": { "pts-vp-pli1ed": "SN i 229", "pts-vp-pli2ed": "SN i 493" },
     "biblio_uid": ""
   },
   {
@@ -4924,7 +4924,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 11.13//SN 259",
-    "volpage": "SN i 230//SN i 495",
+    "volpage": { "pts-vp-pli1ed": "SN i 230", "pts-vp-pli2ed": "SN i 495" },
     "biblio_uid": ""
   },
   {
@@ -4935,7 +4935,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 11.14//SN 260",
-    "volpage": "SN i 231//SN i 497",
+    "volpage": { "pts-vp-pli1ed": "SN i 231", "pts-vp-pli2ed": "SN i 497" },
     "biblio_uid": ""
   },
   {
@@ -4946,7 +4946,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 11.15//SN 261",
-    "volpage": "SN i 232//SN i 499",
+    "volpage": { "pts-vp-pli1ed": "SN i 232", "pts-vp-pli2ed": "SN i 499" },
     "biblio_uid": ""
   },
   {
@@ -4957,7 +4957,7 @@
     "number_in_vagga": 6,
     "language": "pli",
     "acronym": "SN 11.16//SN 262",
-    "volpage": "SN i 233//SN i 500",
+    "volpage": { "pts-vp-pli1ed": "SN i 233", "pts-vp-pli2ed": "SN i 500" },
     "biblio_uid": ""
   },
   {
@@ -4968,7 +4968,7 @@
     "number_in_vagga": 7,
     "language": "pli",
     "acronym": "SN 11.17//SN 263",
-    "volpage": "SN i 233//SN i 501",
+    "volpage": { "pts-vp-pli1ed": "SN i 233", "pts-vp-pli2ed": "SN i 501" },
     "biblio_uid": ""
   },
   {
@@ -4979,7 +4979,7 @@
     "number_in_vagga": 8,
     "language": "pli",
     "acronym": "SN 11.18//SN 264",
-    "volpage": "SN i 234//SN i 502",
+    "volpage": { "pts-vp-pli1ed": "SN i 234", "pts-vp-pli2ed": "SN i 502" },
     "biblio_uid": ""
   },
   {
@@ -4990,7 +4990,7 @@
     "number_in_vagga": 9,
     "language": "pli",
     "acronym": "SN 11.19//SN 265",
-    "volpage": "SN i 235//SN i 504",
+    "volpage": { "pts-vp-pli1ed": "SN i 235", "pts-vp-pli2ed": "SN i 504" },
     "biblio_uid": ""
   },
   {
@@ -5001,7 +5001,7 @@
     "number_in_vagga": 10,
     "language": "pli",
     "acronym": "SN 11.20//SN 266",
-    "volpage": "SN i 235//SN i 506",
+    "volpage": { "pts-vp-pli1ed": "SN i 235", "pts-vp-pli2ed": "SN i 506" },
     "biblio_uid": ""
   },
   {
@@ -5012,7 +5012,7 @@
     "number_in_vagga": 1,
     "language": "pli",
     "acronym": "SN 11.21//SN 267",
-    "volpage": "SN i 237//SN i 508",
+    "volpage": { "pts-vp-pli1ed": "SN i 237", "pts-vp-pli2ed": "SN i 508" },
     "biblio_uid": ""
   },
   {
@@ -5023,7 +5023,7 @@
     "number_in_vagga": 2,
     "language": "pli",
     "acronym": "SN 11.22//SN 268",
-    "volpage": "SN i 237//SN i 509",
+    "volpage": { "pts-vp-pli1ed": "SN i 237", "pts-vp-pli2ed": "SN i 509"},
     "biblio_uid": ""
   },
   {
@@ -5034,7 +5034,7 @@
     "number_in_vagga": 3,
     "language": "pli",
     "acronym": "SN 11.23//SN 269",
-    "volpage": "SN i 238//SN i 512",
+    "volpage": { "pts-vp-pli1ed": "SN i 238", "pts-vp-pli2ed": "SN i 512" },
     "biblio_uid": ""
   },
   {
@@ -5045,7 +5045,7 @@
     "number_in_vagga": 4,
     "language": "pli",
     "acronym": "SN 11.24//SN 270",
-    "volpage": "SN i 239//SN i 513",
+    "volpage": { "pts-vp-pli1ed": "SN i 239", "pts-vp-pli2ed": "SN i 513" },
     "biblio_uid": ""
   },
   {
@@ -5056,7 +5056,7 @@
     "number_in_vagga": 5,
     "language": "pli",
     "acronym": "SN 11.25//SN 271",
-    "volpage": "SN i 240//SN i 514",
+    "volpage": { "pts-vp-pli1ed": "SN i 240", "pts-vp-pli2ed": "SN i 514" },
     "biblio_uid": ""
   },
   {
