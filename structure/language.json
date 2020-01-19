@@ -390,6 +390,12 @@
     "iso_code": "si"
   },
   {
+    "uid": "sk",
+    "name": "slovenčina",
+    "is_root": false,
+    "iso_code": "sk"
+  },
+	{
     "uid": "sl",
     "name": "Slovenščina",
     "is_root": false,

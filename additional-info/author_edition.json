@@ -1,6 +1,12 @@
 [
   {
     "type": "author",
+    "uid": "kb",
+    "short_name": "KB",
+    "long_name": "KB"
+  },
+  {
+    "type": "author",
     "uid": "yun",
     "short_name": "葉均",
     "long_name": "葉均"
