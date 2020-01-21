@@ -37,7 +37,7 @@ python-arango==4.1.0
 python-dateutil==2.7.3
 PyYAML==3.12
 regex==2018.2.21
-requests==2.18.4
+requests==2.20.0
 simplegeneric==0.8.1
 six==1.11.0
 tox==3.0.0
