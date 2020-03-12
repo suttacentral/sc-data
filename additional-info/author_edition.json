@@ -1,6 +1,12 @@
 [
   {
     "type": "author",
+    "uid": "becker",
+    "short_name": "Becker",
+    "long_name": "Zbigniew Becker"
+  },
+	{
+    "type": "author",
     "uid": "dhammadharo",
     "short_name": "Dhammadha",
     "long_name": "Dhammadha.ro community"
