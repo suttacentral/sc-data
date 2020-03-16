@@ -331,7 +331,25 @@
 	},
 	{
 		"type": "author",
-    "uid": "bangish-ajit-prajnadarsi",
+    "uid": "barua",
+    "short_name": "বড়ুয়া",
+    "long_name": "সুমঙ্গল বড়ুয়া"
+	},
+	{
+		"type": "author",
+    "uid": "indragupta-suman-bangish-ajit-jibana",
+    "short_name": "ইন্দ্রগুপ্ত …",
+    "long_name": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু"
+	},
+	{
+		"type": "author",
+    "uid": "pragyadarshi",
+    "short_name": "প্রজ্ঞাদর্শী",
+    "long_name": "প্রজ্ঞাদর্শী ভিক্ষু"
+	},
+	{
+		"type": "author",
+    "uid": "bangish-ajit-pragyadarshi",
     "short_name": "বঙ্গীস …",
     "long_name": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু"
 	},
