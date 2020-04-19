@@ -1,6 +1,12 @@
 [
   {
     "type": "author",
+    "uid": "jos",
+    "short_name": "Jos",
+    "long_name": "Aurora Gracia Jos"
+  },
+  {
+    "type": "author",
     "uid": "becker",
     "short_name": "Becker",
     "long_name": "Zbigniew Becker"
