@@ -43,7 +43,7 @@ six==1.11.0
 tox==3.0.0
 traitlets==4.3.2
 translate-toolkit==2.3.0
-urllib3==1.22
+urllib3==1.24.2
 virtualenv==16.0.0
 wcwidth==0.1.7
 wrapt==1.10.11
