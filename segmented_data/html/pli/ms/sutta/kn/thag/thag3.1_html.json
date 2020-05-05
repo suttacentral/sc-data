@@ -1,0 +1,20 @@
+{
+  "thag3.1:0.1": "<article id='thag3.1'><header><ul><li class='division'>{}</li>",
+  "thag3.1:0.2": "<li>{}</li>",
+  "thag3.1:0.3": "<li>{}</li></ul>",
+  "thag3.1:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+  "thag3.1:1.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns219'></a><a class='vnp' id='vnp219'></a><a class='pts' id='pts29'></a>{}<br>",
+  "thag3.1:1.2": "{}<br>",
+  "thag3.1:1.3": "{}<br>",
+  "thag3.1:1.4": "{}</p>",
+  "thag3.1:2.1": "<p><a class='sc' id='2'></a><a class='vns' id='vns220'></a><a class='vnp' id='vnp220'></a>{}<br>",
+  "thag3.1:2.2": "{}<br>",
+  "thag3.1:2.3": "{}<br>",
+  "thag3.1:2.4": "{}</p>",
+  "thag3.1:3.1": "<p><a class='sc' id='3'></a><a class='vns' id='vns221'></a><a class='vnp' id='vnp221'></a>{}<br>",
+  "thag3.1:3.2": "{}<br>",
+  "thag3.1:3.3": "{}<br>",
+  "thag3.1:3.4": "{}</p></blockquote>",
+  "thag3.1:3.5": "<p class='endsutta'>{}",
+  "thag3.1:3.6": "{}</p></article>"
+}

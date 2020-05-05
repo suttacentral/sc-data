@@ -1,0 +1,11 @@
+{
+  "cp28:0.1": "<header><p class='division'>{}</p>",
+  "cp28:0.2": "<p>{}</p>",
+  "cp28:0.3": "<p>{}</p>",
+  "cp28:0.4": "<h1>{}</h1></header>",
+  "cp28:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "cp28:1.2": "{}<br>",
+  "cp28:1.3": "{}<br>",
+  "cp28:1.4": "{}</p></blockquote>",
+  "cp28:2.1": "<p class='endsutta'>{}</p>"
+}
