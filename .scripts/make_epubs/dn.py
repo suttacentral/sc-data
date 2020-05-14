@@ -33,7 +33,7 @@ title_page = book.add_page(title='Introduction', content=introduction_page, uid=
 for uid in [f'dn{i}' for i in range(1, 35)]:
     chapter_content = make_clean_html(uid)
     chapter_title = regex.search('<h1>(.*)</h1>', chapter_content)[1].strip()
-    chapter = book.add_page(title=chapter_title, content=chapter_content, uid=uid)
+    chapter = book.add_page(title=chapter_title, content=chapter_content, uid='uid)
 
 book.save(outfile)
 epubcheck(outfile)
