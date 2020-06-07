@@ -5,15 +5,12 @@
 - sc-pts-undefined: a  few references that did not have corresponding `ms` numbers. They are verses. To be added tp bilara-data directly.
 - all_pali_concordance.json: The King of Concordances. This merges `pali_concord` and `ms-sc-pts`. Many corrections were made, extra IDs added by hand, and the IDs brought to modern standards. IDs are keyed off the SC segment numbers. **Use this!**
 - In some cases, the refs have been corrupted by flattening; volumes as indicated by /1, /2, /3 in `uncorrected_pali_concord.json` have been combined. This applied to bj in Vinaya, but has been corrected. For sya numbers, the original has s1 = cck, and s3 = sya. 
-  - In SN, we have bj17/1, bj17/2
-  - In AN, s1 has 3 volumes, so we should have cck22.1.x, cck22.2.x, cck22.3.x.
-  - bj apadana has /1, /2, prob = tha-ap, thi-ap
-  - bj ps (=patisambhida?) also has /1, /2
-  - ditto yamaka
 
 
-The basic process:
 
+
+The basic process:--  6.120-139  
+ 
 ```
 const data = [{
   "ms1V_2": "cck1.1"},
