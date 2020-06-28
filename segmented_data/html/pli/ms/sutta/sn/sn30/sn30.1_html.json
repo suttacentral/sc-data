@@ -1,0 +1,11 @@
+{
+  "sn30.1:0.1": "<article id='sn30.1'><header><ul><li class='division'>{}</li>",
+  "sn30.1:0.2": "<li>{}</li></ul>",
+  "sn30.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "sn30.1:1.1": "<p>{}</p>",
+  "sn30.1:1.2": "<p>{}",
+  "sn30.1:1.3": "{}",
+  "sn30.1:1.4": "{}",
+  "sn30.1:1.5": "{}</p>",
+  "sn30.1:1.6": "<p class='endsection'>{}</p></article>"
+}

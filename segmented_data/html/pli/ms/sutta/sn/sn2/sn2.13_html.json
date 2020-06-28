@@ -1,0 +1,13 @@
+{
+  "sn2.13:0.1": "<article id='sn2.13'><header><ul><li class='division'>{}</li>",
+  "sn2.13:0.2": "<li>{}</li></ul>",
+  "sn2.13:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "sn2.13:1.1": "<p><span class='evam'>{}</span>",
+  "sn2.13:1.2": "{}</p>",
+  "sn2.13:1.3": "<p>{}",
+  "sn2.13:1.4": "{}</p>",
+  "sn2.13:2.1": "<blockquote class='gatha'><p>{}<br>",
+  "sn2.13:2.2": "{}<br>",
+  "sn2.13:2.3": "{}<br>",
+  "sn2.13:2.4": "{}</p></blockquote></article>"
+}

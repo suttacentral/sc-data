@@ -1,0 +1,11 @@
+{
+  "ja25:0.1": "<header><p class='division'>{}</p>",
+  "ja25:0.2": "<p>{}</p>",
+  "ja25:0.3": "<p>{}</p>",
+  "ja25:0.4": "<h1>{}</h1></header>",
+  "ja25:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja25:1.2": "{}<br>",
+  "ja25:1.3": "{}<br>",
+  "ja25:1.4": "{}</p></blockquote>",
+  "ja25:2.1": "<p class='endsutta'>{}</p>"
+}

@@ -1,0 +1,21 @@
+{
+  "iti68:0.1": "<header><p class='division'>{}</p>",
+  "iti68:0.2": "<p class='nipata'>{}</p>",
+  "iti68:0.3": "<p class='vagga'>{}</p>",
+  "iti68:0.4": "<h1>{}</h1></header>",
+  "iti68:1.1": "<p>{}</p>",
+  "iti68:2.1": "<p>{}",
+  "iti68:2.2": "{}",
+  "iti68:2.3": "{}",
+  "iti68:2.4": "{}",
+  "iti68:2.5": "{}",
+  "iti68:2.6": "{}</p>",
+  "iti68:3.1": "<blockquote class='gatha'><p>{}<br>",
+  "iti68:3.2": "{}<br>",
+  "iti68:3.3": "{}<br>",
+  "iti68:3.4": "{}<br>",
+  "iti68:3.5": "{}<br>",
+  "iti68:3.6": "{}</p></blockquote>",
+  "iti68:4.1": "<p>{}</p>",
+  "iti68:4.2": "<p class='endsection'>{}</p>"
+}
