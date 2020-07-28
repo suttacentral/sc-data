@@ -29,7 +29,7 @@
       "lzh-mg-bi-pn",
       "lzh-mg-bu-pm-div",
       "lzh-mg-bi-pm-div",
-      "lzh-mg-sariputrapariprccha",
+      "lzh-mg-spp",
       "san-mg-bu-pm-div"
     ]
   },
@@ -56,7 +56,7 @@
       "lzh-mi-vs",
       "lzh-mi-bu-pm-div",
       "lzh-mi-bi-pm-div",
-      "lzh-mi-bu-kv"
+      "lzh-mi-bu-kam"
     ]
   },
   {
@@ -71,9 +71,9 @@
       "lzh-dg-bu-pm-div",
       "lzh-dg-bu-pm-2-div",
       "lzh-dg-bi-pm-div",
-      "lzh-dg-bu-kv",
-      "lzh-dg-bu-kv-2",
-      "lzh-dg-bi-kv",
+      "lzh-dg-bu-kam",
+      "lzh-dg-bu-kam-2",
+      "lzh-dg-bi-kam",
       "pgd-dg-bu-pm",
       "sab"
     ]
@@ -86,14 +86,14 @@
       "lzh-sarv-kd",
       "lzh-sarv-bi-vb",
       "lzh-sarv-ve",
-      "lzh-sarv-upali",
+      "lzh-sarv-upp",
       "lzh-sarv-ba",
       "lzh-sarv-bu-pm-div",
       "lzh-sarv-bu-pm-2-div",
       "lzh-sarv-bi-pm-div",
       "lzh-sarv-bi-pm-dh-div",
-      "lzh-sarv-bu-kv",
-      "lzh-sarv-bu-kv-2",
+      "lzh-sarv-bu-kam",
+      "lzh-sarv-bu-kam-2",
       "lzh-sarv-mt",
       "lzh-sarv-vi-misc",
       "san-sarv-bu-pm-tf11-div",
@@ -102,8 +102,8 @@
       "san-sarv-bi-pm-tf3215-div",
       "san-sarv-bi-pm-tf44-div",
       "san-sarv-sm-div",
-      "san-sarv-bu-kv",
-      "san-sarv-bi-kv",
+      "san-sarv-bu-kam",
+      "san-sarv-bi-kam",
       "sg",
       "lzh-dk",
       "pr",
@@ -125,12 +125,12 @@
       "lzh-mu-khv",
       "lzh-mu-bu-pm-div",
       "lzh-mu-bi-pm-div",
-      "lzh-mu-bu-kv",
+      "lzh-mu-bu-kam",
       "ot",
       "san-mu-kd",
       "san-mu-bu-pm-gbm3-div",
       "san-mu-bu-pm-gbm2-div",
-      "san-mu-bu-kv",
+      "san-mu-bu-kam",
       "san-mu-mpt-bu-pm-div",
       "xct-mu-kd",
       "xct-mu-bu-pm-div",
@@ -140,7 +140,7 @@
       "xct-mu-khv",
       "xct-mu-utg",
       "xct-mu-utg-2",
-      "xct-mu-bu-kv"
+      "xct-mu-bu-kam"
     ]
   },
   {
@@ -149,9 +149,9 @@
     "merged": true,
     "contains": [
       "lzh-ka-bu-pm-div",
-      "lzh-upali-bu",
-      "sammitiya-sastra",
-      "pariprccha",
+      "lzh-upp-bu",
+      "sammitiya",
+      "upp",
       "om",
       "san-bu-pm-qizil",
       "pgd-pm-bf13"

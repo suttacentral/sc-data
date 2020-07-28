@@ -1,0 +1,12 @@
+{
+  "an3.49:0.1": "<article id='an3.49'><header><ul><li class='division'>{}</li>",
+  "an3.49:0.2": "<li>{}</li></ul>",
+  "an3.49:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "an3.49:1.1": "<p>{}",
+  "an3.49:1.2": "{}",
+  "an3.49:1.3": "{}",
+  "an3.49:1.4": "{}</p>",
+  "an3.49:2.1": "<p>{}",
+  "an3.49:2.2": "{}</p>",
+  "an3.49:2.3": "<p class='endsection'>{}</p></article>"
+}

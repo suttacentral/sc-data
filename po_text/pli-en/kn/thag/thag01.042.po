@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 
-#. <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
+#. HTML: <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
 #. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
 #. lang="pli"><section class="sutta" id="thag1.42"><article><div
 #. class="hgroup"><p class="division">
@@ -9,23 +9,23 @@ msgctxt "thag1.42:1.1"
 msgid "Theragāthā"
 msgstr "Verses of the Senior Monks"
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "thag1.42:2.1"
 msgid "Ekakanipāta"
 msgstr "The Book of the Ones"
 
-#. </p><p>
+#. HTML: </p><p>
 msgctxt "thag1.42:3.1"
 msgid "Pañcamavagga"
 msgstr "Chapter Five"
 
-#. </p><h1>
+#. HTML: </p><h1>
 #. VAR: 1.42 Khadiravaniyattheragāthā → khadiravaniyarevatattheragāthā (bj)
 msgctxt "thag1.42:4.1"
 msgid "1.42 Khadiravaniyattheragāthā"
 msgstr "1.42. Khadiravaniya"
 
-#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="vns" id="vns42"></a><a class="vnp" id="vnp42"></a>
 #. VAR: Cāle upacāle sīsūpacāle → hale upahale sīsupahale (s2, s3)
 #. VAR: () → (halā upahalā sīsupahalā) (s2, s3) | (cālā upacālā sīsūpacālā)
@@ -34,18 +34,18 @@ msgctxt "thag1.42:5.1"
 msgid "“Cāle upacāle sīsūpacāle (),"
 msgstr "Cāla, Upacāla, and Sīsupacāla"
 
-#. <br>
+#. HTML: <br>
 #. VAR: Patissatā → patissatikā (s2, s3, pts1-2, mr)
 msgctxt "thag1.42:5.2"
 msgid "Patissatā nu kho viharatha;"
 msgstr "meditate mindfully!"
 
-#. <br>
+#. HTML: <br>
 msgctxt "thag1.42:5.3"
 msgid "Āgato vo vālaṃ viya vedhī”ti."
 msgstr "I’ve come to you like a hair-splitter."
 
-#. </p></blockquote><p class="endsutta">
+#. HTML: </p></blockquote><p class="endsutta">
 msgctxt "thag1.42:6.1"
 msgid "…"
 msgstr ""

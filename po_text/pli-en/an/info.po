@@ -1,4 +1,4 @@
-msgid " "
+msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -15,10 +15,10 @@ msgstr ""
 "X-Pootle-Revision: 12090\n "
 
 #. The unique identifier for the root edition, used as URL component
-msgid "root_author_uid "
+msgid "root_author_uid"
 msgstr "ms "
 
-msgid "root_author_blurb "
+msgid "root_author_blurb"
 msgstr ""
 "Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500: World Tipiṭaka "
 "Edition in Roman Script. Edited and published by The M.L. Maniratana Bunnag "
@@ -27,9 +27,9 @@ msgstr ""
 "and proofreading by the Dhamma Society. "
 
 #. The unique identifier for the translator, used as URL component
-msgid "translation_author_uid "
+msgid "translation_author_uid"
 msgstr "sujato "
 
-msgid "translation_author_blurb "
+msgid "translation_author_blurb"
 msgstr "Translated for SuttaCentral by <span class=”author”>Bhikkhu Sujato</span>, <span class=”publication-date”>2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
 

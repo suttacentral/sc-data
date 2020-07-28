@@ -136,27 +136,27 @@ msgctxt "an4.22:5.1"
 msgid "Yo uddhatena cittena, "
 msgstr "The creature with a restless mind "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:5.2"
 msgid "samphañca bahu bhāsati; "
 msgstr "speaks a lot of nonsense. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:5.3"
 msgid "Asamāhitasaṅkappo, "
 msgstr "Their thoughts are unsettled, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:5.4"
 msgid "asaddhammarato mago; "
 msgstr "and they don’t like the true teaching. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:5.5"
 msgid "Ārā so thāvareyyamhā, "
 msgstr "They’re far from seniority, with their bad views "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:5.6"
 msgid "pāpadiṭṭhi anādaro. "
 msgstr "and their lack of regard for others. "
@@ -167,19 +167,19 @@ msgctxt "an4.22:6.1"
 msgid "Yo ca sīlena sampanno, "
 msgstr "But one accomplished in ethics, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:6.2"
 msgid "sutavā paṭibhānavā; "
 msgstr "learned and eloquent, that wise one "
 
 # NOTE: This line is difficult, and I have rendered according to my main text rather than the Sinhala as with BB. Note that the Sinhala reading used by BB is a combination of the BJ and S readings here. I find BB’s rendering incomprehensible both in Pali and English. If “thiradhamma” refers to samadhi—which so far as I can tell it does nowhere else—then this is not really conveyed by “factors of firmness”. And how is one “restrained” in these? As BB points out, the line falls between sila and wisdom, and so should refer to samadhi in some way. I’ve taken my cue from saññata, which normally refers to sense restraint or similar, and this gives us a meaningful role for “dhammesu”; i.e., among distracting phenomena that you experience". This also falls in the right place in the gradual training.
-#. <br>
+#. HTML: <br>
 #. VAR: Saññato dhīro dhammesu → saññato dhīradhammesu (bj) | saṃyutto thiradhammesu (s1-3, km)
 msgctxt "an4.22:6.3"
 msgid "Saññato dhīro dhammesu, "
 msgstr "is restrained when experiencing phenomena, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:6.4"
 msgid "paññāyatthaṃ vipassati. "
 msgstr "discerning the meaning with wisdom. "
@@ -190,17 +190,17 @@ msgctxt "an4.22:7.1"
 msgid "Pāragū sabbadhammānaṃ, "
 msgstr "Gone beyond all things, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:7.2"
 msgid "akhilo paṭibhānavā; "
 msgstr "kind, eloquent, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:7.3"
 msgid "Pahīnajātimaraṇo, "
 msgstr "they’ve given up birth and death, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:7.4"
 msgid "brahmacariyassa kevalī. "
 msgstr "and have completed the spiritual journey. "
@@ -211,17 +211,17 @@ msgctxt "an4.22:8.1"
 msgid "Tamahaṃ vadāmi theroti, "
 msgstr "That’s who I call a senior, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:8.2"
 msgid "yassa no santi āsavā; "
 msgstr "who has no defilements. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:8.3"
 msgid "Āsavānaṃ khayā bhikkhu, "
 msgstr "With the ending of defilements, a mendicant "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an4.22:8.4"
 msgid "so theroti pavuccatī”ti. "
 msgstr "is declared a ‘senior’.” "

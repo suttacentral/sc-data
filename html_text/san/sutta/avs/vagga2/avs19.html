@@ -4,6 +4,49 @@
 <meta charset="UTF-8">
 <meta name="author" content="P.L. Vaidya, J.S. Speyer">
 <title></title>
+<style>
+
+.variant[data-tooltip]::after {
+    content: attr(data-tooltip);
+    display: none;
+    position: absolute;
+    white-space: normal;
+    width: 300px;
+    left: 50%;
+    margin-left: -150px;
+    padding: var(--sc-size-sm) var(--sc-size-md);
+    border-radius: var(--sc-size-sm);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    z-index: 10;
+    box-sizing: border-box;
+    background-color: var(--sc-secondary-background-color);
+    color: var(--sc-secondary-text-color);
+}
+
+.variant[data-tooltip]::after {
+    border-style: solid;
+    border-width: 1px 1px 1px 4px;
+    border-color: var(--sc-secondary-accent-color);
+}
+
+.variant:before {
+    content: "*";
+    color: var(--sc-primary-color);
+    vertical-align: super;
+    line-height: 1;
+}
+
+
+.variant[data-tooltip]:hover{
+    cursor: help;
+}
+
+/* Show the tooltip. Note that using this technique it is not possible to use transition on the display.*/
+
+.variant[data-tooltip]:hover::after{
+    display: block;
+}
+	</style>
 </head>
 <body>
 <div id="text" lang="san">

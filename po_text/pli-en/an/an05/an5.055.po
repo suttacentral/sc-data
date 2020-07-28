@@ -148,29 +148,29 @@ msgctxt "an5.55:6.1"
 msgid "Sallape asihatthena, "
 msgstr "You might chat with someone who has knife in hand. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:6.2"
 msgid "pisācenāpi sallape; "
 msgstr "You might even chat with a goblin. "
 
 # NOTE: BB and the dicts give “approach” as a meaning for asidati, following the comms, but I can’t see a justification for this. The root is sid, to sit, and I think this makes better sense in context, the prefix implying closeness.
-#. <br>
+#. HTML: <br>
 #. VAR: āsīde → āsadde (s1-3, km)
 msgctxt "an5.55:6.3"
 msgid "Āsīvisampi āsīde, "
 msgstr "You might sit close by a viper, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:6.4"
 msgid "yena daṭṭho na jīvati; "
 msgstr "whose bite would take your life. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:6.5"
 msgid "Na tveva eko ekāya, "
 msgstr "But never should you chat "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:6.6"
 msgid "mātugāmena sallape. "
 msgstr "one on one with a female. "
@@ -181,28 +181,28 @@ msgctxt "an5.55:7.1"
 msgid "Muṭṭhassatiṃ tā bandhanti, "
 msgstr "They captivate the unmindful "
 
-#. <br>
+#. HTML: <br>
 #. VAR: sitena ca → mhitena ca (s1-3, km, pts1)
 msgctxt "an5.55:7.2"
 msgid "pekkhitena sitena ca; "
 msgstr "with a glance and a smile. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:7.3"
 msgid "Athopi dunnivatthena, "
 msgstr "Or scantily clad, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:7.4"
 msgid "mañjunā bhaṇitena ca; "
 msgstr "they speak charming words. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:7.5"
 msgid "Neso jano svāsīsado, "
 msgstr "It’s not good to sit with such a person, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:7.6"
 msgid "api ugghātito mato. "
 msgstr "even if she’s injured or dead. "
@@ -213,17 +213,17 @@ msgctxt "an5.55:8.1"
 msgid "Pañca kāmaguṇā ete, "
 msgstr "These five kinds of sensual stimulation "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:8.2"
 msgid "itthirūpasmiṃ dissare; "
 msgstr "are apparent in a woman’s body: "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:8.3"
 msgid "Rūpā saddā rasā gandhā, "
 msgstr "sights, sounds, tastes, smells, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:8.4"
 msgid "phoṭṭhabbā ca manoramā. "
 msgstr "and touches so delightful. "
@@ -234,19 +234,19 @@ msgctxt "an5.55:9.1"
 msgid "Tesaṃ kāmoghavūḷhānaṃ, "
 msgstr "Those swept away by the flood of sensual pleasures, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:9.2"
 msgid "kāme aparijānataṃ; "
 msgstr "not comprehending them, "
 
 # NOTE: See BB's note. This, however, overlooks the closely similar lines at Thig 8.1. There, the commentary, rather than glossing purakkhata with “forerunners, those who have gone in front” (purecārikā purato gatāyeva)" says Purakkhatāti purakkhārakārino, (those who make it a priority).
-#. <br>
+#. HTML: <br>
 #. VAR: gati → gatiṃ (bj, s1-3, km, pts1)
 msgctxt "an5.55:9.3"
 msgid "Kālaṃ gati bhavābhavaṃ, "
 msgstr "prioritize transmigration—"
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:9.4"
 msgid "saṃsārasmiṃ purakkhatā. "
 msgstr "time and destination, and life after life. "
@@ -257,17 +257,17 @@ msgctxt "an5.55:10.1"
 msgid "Ye ca kāme pariññāya, "
 msgstr "But those who completely understand sensual pleasures "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:10.2"
 msgid "caranti akutobhayā; "
 msgstr "live fearing nothing from any quarter. "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:10.3"
 msgid "Te ve pāraṅgatā loke, "
 msgstr "They are those in the world who’ve crossed over, "
 
-#. <br>
+#. HTML: <br>
 msgctxt "an5.55:10.4"
 msgid "ye pattā āsavakkhayan”ti. "
 msgstr "having reached the ending of defilements.” "
