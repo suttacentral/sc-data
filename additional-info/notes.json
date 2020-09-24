@@ -198,5 +198,13 @@
   {
     "relations": ["mn151","ea45.6"],
     "remark": "EA 45.6 parallels only the first part of MN 151, after which it continues differently."
+  },
+  {
+    "relations": ["sn22.12-14","sa1"],
+    "remark": "SA1 is a group of four sutras (three are described in a variant note) that are parallel to SN 22.12-14. Each applies one of the four marks (impermanent, painful, empty, and not self) to the five aggregates. The Pali lacks a sutta for emptiness."
+  },
+  {
+    "relations": ["sn22.51", "sa1"],
+    "remark": "SA1 is a group of four sutras that apply one of the four marks to the five aggregates. The template matches SN 22.51 with nibbidā leading to the end of delight and greed for the aggregates."
   }
 ]
