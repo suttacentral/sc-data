@@ -1936,5 +1936,11 @@
     "uid": "test",
     "short_name": "Test",
     "long_name": "Testing Page"
+  },
+  {
+    "type": "author",
+    "uid": "salih",
+    "short_name": "Sālih",
+    "long_name": "Muhammad Badr Abū Sālih"
   }
 ]
