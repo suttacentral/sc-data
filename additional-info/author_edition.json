@@ -1,6 +1,18 @@
 [
   {
     "type": "author",
+    "uid": "lamminaho",
+    "short_name": "Lamminaho",
+    "long_name": "Juha Lamminaho"
+  },
+  {
+    "type": "author",
+    "uid": "suddhaso",
+    "short_name": "Suddhāso",
+    "long_name": "Suddhāso Bhikkhu"
+  },
+  {
+    "type": "author",
     "uid": "jos",
     "short_name": "Jos",
     "long_name": "Aurora Gracia Jos"
@@ -11,13 +23,13 @@
     "short_name": "Becker",
     "long_name": "Zbigniew Becker"
   },
-	{
+  {
     "type": "author",
     "uid": "dhammadharo",
     "short_name": "Dhammadha",
     "long_name": "Dhammadha.ro community"
   },
-	{
+  {
     "type": "author",
     "uid": "kb",
     "short_name": "KB",
@@ -317,54 +329,54 @@
     "short_name": "ভদন্ত বুদ্ধবংশ",
     "long_name": "ভদন্ত বুদ্ধবংশ ভিক্ষু"
   },
-	{
-		"type": "author",
+  {
+    "type": "author",
     "uid": "indragupta-bangish-ajit-sivak",
     "short_name": "ইন্দ্রগুপ্ত …",
     "long_name": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু"
-	},
-	{
-		"type": "author",
+  },
+  {
+    "type": "author",
     "uid": "indragupta-bangish-ajit",
     "short_name": "ইন্দ্রগুপ্ত …",
     "long_name": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু"
-	},
-	{
-		"type": "author",
+  },
+  {
+    "type": "author",
     "uid": "indragupta-suman-adikalyan-sivak-rahul",
     "short_name": "ইন্দ্রগুপ্ত …",
     "long_name": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু"
-	},
-	{
-		"type": "author",
+  },
+  {
+    "type": "author",
     "uid": "sumangal-barua",
     "short_name": "বড়ুয়া",
     "long_name": "সুমঙ্গল বড়ুয়া"
-	},
-	{
-		"type": "author",
+  },
+  {
+    "type": "author",
     "uid": "indragupta-suman-bangish-ajit-jibana",
     "short_name": "ইন্দ্রগুপ্ত …",
     "long_name": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু"
-	},
-	{
-		"type": "author",
+  },
+  {
+    "type": "author",
     "uid": "pragyadarshi",
     "short_name": "প্রজ্ঞাদর্শী",
     "long_name": "প্রজ্ঞাদর্শী ভিক্ষু"
-	},
-	{
-		"type": "author",
+  },
+  {
+    "type": "author",
     "uid": "bangish-ajit-pragyadarshi",
     "short_name": "বঙ্গীস …",
     "long_name": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু"
-	},
-	{
-		"type": "author",
+  },
+  {
+    "type": "author",
     "uid": "gyanendriya",
     "short_name": "জ্ঞানেন্দ্রিয়",
     "long_name": "জ্ঞানেন্দ্রিয় ভিক্ষু"
-	},
+  },
   {
     "type": "author",
     "uid": "busoi",
@@ -1121,7 +1133,7 @@
     "short_name": "Nārada …",
     "long_name": "Nārada Thera, Mahinda Thera"
   },
-	{
+  {
     "type": "author",
     "uid": "narada-patthana",
     "short_name": "Nārada …",
@@ -1924,5 +1936,11 @@
     "uid": "test",
     "short_name": "Test",
     "long_name": "Testing Page"
+  },
+  {
+    "type": "author",
+    "uid": "salih",
+    "short_name": "Sālih",
+    "long_name": "Muhammad Badr Abū Sālih"
   }
 ]
