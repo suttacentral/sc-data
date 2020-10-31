@@ -347,6 +347,12 @@
     "is_root": false,
     "iso_code": "jpn"
   },
+    {
+    "uid": "kan",
+    "name": "ಕನ್ನಡ",
+    "is_root": false,
+    "iso_code": "kan"
+  },
   {
     "uid": "ko",
     "name": "한국어/조선말",
