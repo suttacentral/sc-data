@@ -12,7 +12,7 @@
     "publication_place": "Bangkok",
     "script": "Thai",
     "volumes": "45",
-    "blurb": "Pāḷi Tipiṭaka Thailand of Council",
+    "blurb": "Pāḷi Tipiṭaka Thailand of Council"
   },
   {
     "uid": "mc",
@@ -27,7 +27,7 @@
     "publication_place": "Bangkok",
     "script": "Thai",
     "volumes": "45",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "ms",
@@ -42,9 +42,8 @@
     "publication_place": "Bangkok",
     "script": "Roman",
     "volumes": "40",
-    "blurb": "Prepared in Bangkok, Thailand by the Dhamma Society, from 1999. 40 volumes in Roman script, inclusive of Netti, Peṭakopadesa, and Milinda. Available in print and digital form, sometimes under the name “World Tipiṭaka”. Based on the VRI digital edition of the Sixth Council text, proofed and corrected with reference to first and second printed editions of the Chaṭṭhasaṅgīti Piṭakaṃ by Dhamma Society. Text proofread three times visually and three times by recitation. The Mahasaṅgīti project went offline around 2012, but the XML files were preserved by Ven. Yuttadhammo for his Digital Pali Reader. He kindly supplied them to SuttaCentral, and they form the basis for SuttaCentral’s Pali text and translations. SuttaCentral has adapted the structure and markup, and occasionally punctuation, but the text is identical with the digital files as originally received. The digital edition uses unique identifiers of the form “2V_895”, where “2” is the volume number in the series, “V” is the abbreviation for the title of the section (“Vinaya”), and “895” is the sequential paragraph number within that volume. These numbers form the basis for SuttaCentral’s segment IDs for all texts apart from the Vinaya and Dīgha Nikāya (which use the PTS section numbers), and Majjhima (which uses the Ñāṇamoli section numbers.)",
+    "blurb": "Prepared in Bangkok, Thailand by the Dhamma Society, from 1999. 40 volumes in Roman script, inclusive of Netti, Peṭakopadesa, and Milinda. Available in print and digital form, sometimes under the name “World Tipiṭaka”. Based on the VRI digital edition of the Sixth Council text, proofed and corrected with reference to first and second printed editions of the Chaṭṭhasaṅgīti Piṭakaṃ by Dhamma Society. Text proofread three times visually and three times by recitation. The Mahasaṅgīti project went offline around 2012, but the XML files were preserved by Ven. Yuttadhammo for his Digital Pali Reader. He kindly supplied them to SuttaCentral, and they form the basis for SuttaCentral’s Pali text and translations. SuttaCentral has adapted the structure and markup, and occasionally punctuation, but the text is identical with the digital files as originally received. The digital edition uses unique identifiers of the form “2V_895”, where “2” is the volume number in the series, “V” is the abbreviation for the title of the section (“Vinaya”), and “895” is the sequential paragraph number within that volume. These numbers form the basis for SuttaCentral’s segment IDs for all texts apart from the Vinaya and Dīgha Nikāya (which use the PTS section numbers), and Majjhima (which uses the Ñāṇamoli section numbers.)"
   },
-
   {
     "uid": "nya",
     "acronym": "Nya",
@@ -58,7 +57,7 @@
     "publication_place": "Somerville, Massachusetts",
     "script": "",
     "volumes": "",
-    "blurb": "Section numbers inserted by Bhikkhu Ñāṇamoḷi in his translation of the Majjhima Nikāya. Subsequently adopted by the Khantipalo and Bodhi editions based on Ñāṇamoḷi’s work. These form the basis for the SuttaCentral segment IDs for the Majjhima Nikāya.",
+    "blurb": "Section numbers inserted by Bhikkhu Ñāṇamoḷi in his translation of the Majjhima Nikāya. Subsequently adopted by the Khantipalo and Bodhi editions based on Ñāṇamoḷi’s work. These form the basis for the SuttaCentral segment IDs for the Majjhima Nikāya."
   },
   {
     "uid": "csp-a",
@@ -73,7 +72,7 @@
     "publication_place": "",
     "script": "Burmese",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "csp1ed",
@@ -88,7 +87,7 @@
     "publication_place": "Yangon,",
     "script": "Burmese",
     "volumes": "40",
-    "blurb": "Sixth Council edition printed in Myanmar. Based on recitation by Mingun Sayadaw U Vicittasarabivamsas responding to  questions by Mahāsī Sayādaw U Sobhana at the Sixth Council. Text is primarily based on the Burmese lineage, from the 5th Council. According to the Dhamma Society, this was the principle authority for the Mahasaṅgīti edition.",
+    "blurb": "Sixth Council edition printed in Myanmar. Based on recitation by Mingun Sayadaw U Vicittasarabivamsas responding to  questions by Mahāsī Sayādaw U Sobhana at the Sixth Council. Text is primarily based on the Burmese lineage, from the 5th Council. According to the Dhamma Society, this was the principle authority for the Mahasaṅgīti edition."
   },
   {
     "uid": "csp2ed",
@@ -103,7 +102,7 @@
     "publication_place": "Yangon",
     "script": "Burmese",
     "volumes": "40",
-    "blurb": "Sixth Council edition reprinted in Myanmar, and the prime source text for the VRI digital edition. According to the Dhamma Society, this follows more closely the Fifth Council edition.",
+    "blurb": "Sixth Council edition reprinted in Myanmar, and the prime source text for the VRI digital edition. According to the Dhamma Society, this follows more closely the Fifth Council edition."
   },
   {
     "uid": "csp3ed",
@@ -118,7 +117,7 @@
     "publication_place": "Yangon",
     "script": "Burmese",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "mr",
@@ -133,7 +132,7 @@
     "publication_place": "",
     "script": "Burmese",
     "volumes": "",
-    "blurb": "Other Burmese Tipiṭaka reference in reference notes, mostly Pañcamasaṅgīti (Fifth Council) Edition.",
+    "blurb": "Other Burmese Tipiṭaka reference in reference notes, mostly Pañcamasaṅgīti (Fifth Council) Edition."
   },
   {
     "uid": "si",
@@ -148,7 +147,7 @@
     "publication_place": "Colombo",
     "script": "Sinhalese",
     "volumes": "",
-    "blurb": "Other Sinhalese Tipiṭaka reference in reference notes, excluding the Buddhajayanti Tripitaka Series.",
+    "blurb": "Other Sinhalese Tipiṭaka reference in reference notes, excluding the Buddhajayanti Tripitaka Series."
   },
   {
     "uid": "km",
@@ -163,7 +162,7 @@
     "publication_place": "Phnom Penh",
     "script": "Khmer",
     "volumes": "112",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "lv",
@@ -178,7 +177,7 @@
     "publication_place": "Vientiane",
     "script": "Laotian",
     "volumes": "3",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "maku",
@@ -193,7 +192,7 @@
     "publication_place": "Bangkok",
     "script": "Thai",
     "volumes": "1",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "ndp",
@@ -208,7 +207,7 @@
     "publication_place": "Varanasi",
     "script": "Devanāgarī",
     "volumes": "41",
-    "blurb": "The Pāḷi Tipiṭaka of Nālandā in Devanāgarī script.",
+    "blurb": "The Pāḷi Tipiṭaka of Nālandā in Devanāgarī script."
   },
   {
     "uid": "pts-a",
@@ -223,7 +222,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "pts-cs",
@@ -238,9 +237,9 @@
     "publication_place": "",
     "script": "Roman",
     "volumes": "",
-    "blurb": "Section numbers as inserted in the PTS editions of the Vinaya and Dīgha Nikāya. These form the basis of the SuttaCentral segment IDs for these volumes.",
+    "blurb": "Section numbers as inserted in the PTS editions of the Vinaya and Dīgha Nikāya. These form the basis of the SuttaCentral segment IDs for these volumes."
   },
- {
+  {
     "uid": "pts-vp-pli",
     "acronym": "PTS vp pli",
     "short_name": "",
@@ -253,7 +252,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "pts-vp-pli1ed",
@@ -268,7 +267,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "pts-vp-pli2ed",
@@ -283,7 +282,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "pts-vp-en",
@@ -298,7 +297,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "vnp",
@@ -313,7 +312,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "vns",
@@ -328,7 +327,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "sya-a",
@@ -343,7 +342,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "cck",
@@ -358,7 +357,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "Pāḷi Tipiṭaka of King Chulachomklao the Great of Siam in Siam Script. First edition in Thailand using modern printing.",
+    "blurb": "Pāḷi Tipiṭaka of King Chulachomklao the Great of Siam in Siam Script. First edition in Thailand using modern printing."
   },
   {
     "uid": "sya1ed",
@@ -373,7 +372,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "sya2ed",
@@ -388,7 +387,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "sya-all",
@@ -403,7 +402,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "bj",
@@ -418,7 +417,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "Buddhajayanti Tripitaka Series in Sinhala script",
+    "blurb": "Buddhajayanti Tripitaka Series in Sinhala script"
   },
   {
     "uid": "bj-a",
@@ -433,7 +432,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "Buddhajayanti Commentary Series in Sinhala script",
+    "blurb": "Buddhajayanti Commentary Series in Sinhala script"
   },
   {
     "uid": "vri",
@@ -448,7 +447,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "Pāḷi Tipiṭaka of Vipassanā Research Institute in Devanāgarī script",
+    "blurb": "Pāḷi Tipiṭaka of Vipassanā Research Institute in Devanāgarī script"
   },
   {
     "uid": "d",
@@ -463,7 +462,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "Derge Kangyur (and Tengyur) has a mixed lineage, but is based primarily on the Lithang Kangyur of the Tshal pa line, with some emendations from the Lho rdzong Kangyur (not extant) of the Them spangs ma line. The Derge Kangyur was completed in 1733 with 102 + 1 volumes. It is available in an original print at the Oriental Institute, Prague, and a 1976–1979 reprint by H.H. the 16th Karmapa in 103 volumes known as the mtshal par or “red printing”. This reprint was in turn the basis for three more reprintings: the Dharma Publishing reprint (Berkeley CA, c. 1982), a recent Chengdu reprint in China, and a recent Taipei reprint in Taiwan. Derge Kangyurs are widely available.",
+    "blurb": "Derge Kangyur (and Tengyur) has a mixed lineage, but is based primarily on the Lithang Kangyur of the Tshal pa line, with some emendations from the Lho rdzong Kangyur (not extant) of the Them spangs ma line. The Derge Kangyur was completed in 1733 with 102 + 1 volumes. It is available in an original print at the Oriental Institute, Prague, and a 1976–1979 reprint by H.H. the 16th Karmapa in 103 volumes known as the mtshal par or “red printing”. This reprint was in turn the basis for three more reprintings: the Dharma Publishing reprint (Berkeley CA, c. 1982), a recent Chengdu reprint in China, and a recent Taipei reprint in Taiwan. Derge Kangyurs are widely available."
   },
   {
     "uid": "q",
@@ -478,7 +477,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "Peking impression of the Kangyur prepared in 1737 under the Qianlong emperor. 107 + 1 volumes. The Kangyur belongs to the Peking sub-line of the Tshal pa Kangyur line. The Qianlong Kangyur is a reprint from the Kangzi blocks. A 1737 Kangyur is held at the Bibliothèque Nationale in Paris. The modern photographic Otani reprint of both the Kangyur and Tengyur form 1955–58 is somewhat widely available. Its Kangyur is based on a combination of the 1717–20 and 1737 Kangyurs. There was another reprint after 1763, perhaps in 1765, but there is no sign yet of an extant copy. A copy of the Otani Kangyur and Tengyur are held by the University of Virginia.",
+    "blurb": "Peking impression of the Kangyur prepared in 1737 under the Qianlong emperor. 107 + 1 volumes. The Kangyur belongs to the Peking sub-line of the Tshal pa Kangyur line. The Qianlong Kangyur is a reprint from the Kangzi blocks. A 1737 Kangyur is held at the Bibliothèque Nationale in Paris. The modern photographic Otani reprint of both the Kangyur and Tengyur form 1955–58 is somewhat widely available. Its Kangyur is based on a combination of the 1717–20 and 1737 Kangyurs. There was another reprint after 1763, perhaps in 1765, but there is no sign yet of an extant copy. A copy of the Otani Kangyur and Tengyur are held by the University of Virginia."
   },
   {
     "uid": "bf",
@@ -493,7 +492,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "qizil",
@@ -508,7 +507,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "tf",
@@ -523,7 +522,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "finot",
@@ -538,7 +537,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "dh",
@@ -553,7 +552,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "acip",
@@ -568,7 +567,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "cbeta",
@@ -583,7 +582,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "g",
@@ -598,7 +597,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "gbm",
@@ -613,7 +612,7 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
+    "blurb": ""
   },
   {
     "uid": "gretil",
@@ -628,6 +627,6 @@
     "publication_place": "",
     "script": "",
     "volumes": "",
-    "blurb": "",
-  },
+    "blurb": ""
+  }
 ]
