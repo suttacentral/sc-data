@@ -164,10 +164,11 @@
   "mn90:18.1": "<p>{}</p>",
   "mn90:18.2": "<p class='endsection'>{}</p>",
   "mn90:18.3": "<p class='endsutta'>{}</p>",
-  "mn90:18.4": "<blockquote class='uddanagatha'><p>{}<br>",
-  "mn90:18.5": "{}<br>",
-  "mn90:18.6": "{}<br>",
-  "mn90:18.7": "{}<br>",
-  "mn90:18.8": "{}<br>",
-  "mn90:18.9": "{}</p></blockquote></article>"
+  "mn90:19.0": "<p class='uddana-intro'>{}</p>",
+  "mn90:19.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "mn90:19.2": "{}<br>",
+  "mn90:19.3": "{}<br>",
+  "mn90:19.4": "{}<br>",
+  "mn90:19.5": "{}<br>",
+  "mn90:19.6": "{}</p></blockquote></article>"
 }

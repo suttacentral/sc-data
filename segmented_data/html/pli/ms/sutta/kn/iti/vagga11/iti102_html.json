@@ -1,18 +1,15 @@
 {
-  "iti102:0.1": "<header><p class='division'>{}</p>",
-  "iti102:0.2": "<p class='nipata'>{}</p>",
-  "iti102:0.3": "<p class='vagga'>{}</p>",
+  "iti102:0.1": "<article id='iti102'><header><ul><li class='division'>{}</li>",
+  "iti102:0.2": "<li class='nipata'>{}</li>",
+  "iti102:0.3": "<li class='vagga'>{}</li></ul>",
   "iti102:0.4": "<h1>{}</h1></header>",
   "iti102:1.1": "<p>{}</p>",
   "iti102:2.1": "<p>{}",
   "iti102:2.2": "{}",
   "iti102:2.3": "{}",
-  "iti102:2.4": "{}",
-  "iti102:2.5": "{}",
-  "iti102:2.6": "{}",
-  "iti102:2.7": "{}",
-  "iti102:2.8": "{}",
-  "iti102:2.9": "{}</p>",
+  "iti102:2.4": "{}</p>",
+  "iti102:2.5": "<p>{}",
+  "iti102:2.6": "{}</p>",
   "iti102:3.1": "<blockquote class='gatha'><p>{}<br>",
   "iti102:3.2": "{}<br>",
   "iti102:3.3": "{}<br>",
@@ -26,5 +23,5 @@
   "iti102:5.3": "{}<br>",
   "iti102:5.4": "{}</p></blockquote>",
   "iti102:6.1": "<p>{}</p>",
-  "iti102:6.2": "<p class='endsection'>{}</p>"
+  "iti102:6.2": "<p class='endsection'>{}</p></article>"
 }

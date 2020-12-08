@@ -134,9 +134,10 @@
   "mn142:14.22": "{}</p></blockquote>",
   "mn142:14.23": "<p class='endsection'>{}</p>",
   "mn142:14.24": "<p class='endsutta'>{}</p>",
-  "mn142:14.25": "<blockquote class='uddanagatha'><p>{}<br>",
-  "mn142:14.26": "{}<br>",
-  "mn142:14.27": "{}<br>",
-  "mn142:14.28": "{}</p></blockquote>",
-  "mn142:14.29": "<p class='endsection'>{}</p></article>"
+  "mn142:15.0": "<p class='uddana-intro'>{}</p>",
+  "mn142:15.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "mn142:15.2": "{}<br>",
+  "mn142:15.3": "{}<br>",
+  "mn142:15.4": "{}</p></blockquote>",
+  "mn142:15.5": "<p class='endsection'>{}</p></article>"
 }

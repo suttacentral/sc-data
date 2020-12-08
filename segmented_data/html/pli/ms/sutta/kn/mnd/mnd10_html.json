@@ -1,6 +1,6 @@
 {
-  "mnd10:0.1": "<header><p class='division'>{}</p>",
-  "mnd10:0.2": "<p>{}</p>",
+  "mnd10:0.1": "<article id='mnd10'><header><ul><li class='division'>{}</li>",
+  "mnd10:0.2": "<li>{}</li></ul>",
   "mnd10:0.3": "<h1>{}</h1></header>",
   "mnd10:1.1": "<p>{}</p>",
   "mnd10:2.1": "<blockquote class='gatha'><p>{}<br>",
@@ -29,8 +29,8 @@
   "mnd10:7.2": "{}<br>",
   "mnd10:7.3": "{}<br>",
   "mnd10:7.4": "{}</p></blockquote>",
-  "mnd10:8.1": "<blockquote class='gatha'><p>{} <span class='speaker'>",
-  "mnd10:8.2": "{}</span><br>",
+  "mnd10:8.1": "<blockquote class='gatha'><p>{}",
+  "mnd10:8.2": "<span class='speaker'>{}</span><br>",
   "mnd10:8.3": "{}<br>",
   "mnd10:8.4": "{}<br>",
   "mnd10:8.5": "{}</p></blockquote>",
@@ -120,8 +120,8 @@
   "mnd10:13.29": "{}",
   "mnd10:13.30": "{}</p>",
   "mnd10:14.1": "<p>{}</p>",
-  "mnd10:15.1": "<blockquote class='gatha'><p>{} <span class='speaker'>",
-  "mnd10:15.2": "{}</span><br>",
+  "mnd10:15.1": "<blockquote class='gatha'><p>{}",
+  "mnd10:15.2": "<span class='speaker'>{}</span><br>",
   "mnd10:15.3": "{}<br>",
   "mnd10:15.4": "{}<br>",
   "mnd10:15.5": "{}</p></blockquote>",
@@ -1140,5 +1140,5 @@
   "mnd10:144.2": "{}<br>",
   "mnd10:144.3": "{}<br>",
   "mnd10:144.4": "{}</p></blockquote>",
-  "mnd10:145.1": "<p class='endsutta'>{}</p>"
+  "mnd10:145.1": "<p class='endsutta'>{}</p></article>"
 }

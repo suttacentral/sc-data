@@ -1,7 +1,7 @@
 {
-  "iti49:0.1": "<header><p class='division'>{}</p>",
-  "iti49:0.2": "<p class='nipata'>{}</p>",
-  "iti49:0.3": "<p class='vagga'>{}</p>",
+  "iti49:0.1": "<article id='iti49'><header><ul><li class='division'>{}</li>",
+  "iti49:0.2": "<li class='nipata'>{}</li>",
+  "iti49:0.3": "<li class='vagga'>{}</li></ul>",
   "iti49:0.4": "<h1>{}</h1></header>",
   "iti49:1.1": "<p>{}</p>",
   "iti49:2.1": "<p>{}",
@@ -17,8 +17,8 @@
   "iti49:5.1": "<p>{}",
   "iti49:5.2": "{}",
   "iti49:5.3": "{}",
-  "iti49:5.4": "{}",
-  "iti49:5.5": "{}",
+  "iti49:5.4": "{}</p>",
+  "iti49:5.5": "<p>{}",
   "iti49:5.6": "{}</p>",
   "iti49:6.1": "<blockquote class='gatha'><p>{}<br>",
   "iti49:6.2": "{}<br>",
@@ -31,6 +31,7 @@
   "iti49:8.1": "<p>{}</p>",
   "iti49:8.2": "<p class='endsection'>{}</p>",
   "iti49:8.3": "<p class='endsection'>{}</p>",
+  "iti49:9.0": "<p class='uddana-intro'>{}</p>",
   "iti49:9.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "iti49:9.2": "{}<br>",
   "iti49:9.3": "{}<br>",
@@ -41,5 +42,5 @@
   "iti49:10.4": "{}<br>",
   "iti49:10.5": "{}<br>",
   "iti49:10.6": "{}</p></blockquote>",
-  "iti49:10.7": "<p class='endsutta'>{}</p>"
+  "iti49:10.7": "<p class='endsutta'>{}</p></article>"
 }

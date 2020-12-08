@@ -1,6 +1,6 @@
 {
-  "tha-ap401:0.1": "<header><p class='division'>{}</p>",
-  "tha-ap401:0.2": "<p>{}</p>",
+  "tha-ap401:0.1": "<article id='tha-ap401'><header><ul><li class='division'>{}</li>",
+  "tha-ap401:0.2": "<li>{}</li></ul>",
   "tha-ap401:0.3": "<h1>{}</h1></header>",
   "tha-ap401:1.1": "<blockquote class='gatha'><p>{}<br>",
   "tha-ap401:1.2": "{}<br>",
@@ -112,5 +112,5 @@
   "tha-ap401:28.2": "{}<br>",
   "tha-ap401:28.3": "{}</p></blockquote>",
   "tha-ap401:29.1": "<p>{}</p>",
-  "tha-ap401:30.1": "<p class='endsutta'>{}</p>"
+  "tha-ap401:30.1": "<p class='endsutta'>{}</p></article>"
 }

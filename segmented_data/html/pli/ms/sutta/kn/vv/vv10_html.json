@@ -1,7 +1,7 @@
 {
-  "vv10:0.1": "<header><p class='division'>{}</p>",
-  "vv10:0.2": "<p>{}</p>",
-  "vv10:0.3": "<p>{}</p>",
+  "vv10:0.1": "<article id='vv10'><header><ul><li class='division'>{}</li>",
+  "vv10:0.2": "<li>{}</li>",
+  "vv10:0.3": "<li>{}</li></ul>",
   "vv10:0.4": "<h1>{}</h1></header>",
   "vv10:1.1": "<blockquote class='gatha'><p>{}<br>",
   "vv10:1.2": "{}<br>",
@@ -35,5 +35,5 @@
   "vv10:8.2": "{}<br>",
   "vv10:8.3": "{}<br>",
   "vv10:8.4": "{}</p></blockquote>",
-  "vv10:9.1": "<p class='endsutta'>{}</p>"
+  "vv10:9.1": "<p class='endsutta'>{}</p></article>"
 }

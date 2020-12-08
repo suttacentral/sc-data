@@ -1,6 +1,6 @@
 {
-  "ya7.2.4:0.1": "<header><p class='division'>{}</p>",
-  "ya7.2.4:0.2": "<p>{}</p>",
+  "ya7.2.4:0.1": "<article id='ya7.2.4'><header><ul><li class='division'>{}</li>",
+  "ya7.2.4:0.2": "<li>{}</li></ul>",
   "ya7.2.4:0.3": "<h1>{}</h1></header>",
   "ya7.2.4:1.0": "<h2>{}</h2>",
   "ya7.2.4:1.1": "<p>{}</p>",
@@ -460,5 +460,5 @@
   "ya7.2.4:450.1": "<p>{}</p>",
   "ya7.2.4:451.1": "<p>{}</p>",
   "ya7.2.4:452.1": "<p class='end'>{}</p>",
-  "ya7.2.4:452.2": "<p class='endsutta'>{}</p>"
+  "ya7.2.4:452.2": "<p class='endsutta'>{}</p></article>"
 }

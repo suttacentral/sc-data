@@ -705,11 +705,12 @@
   "dn23:34.4": "{}</p>",
   "dn23:34.5": "<p class='endsutta'>{}</p>",
   "dn23:34.6": "<p class='endsutta'>{}</p>",
-  "dn23:34.7": "<blockquote class='uddanagatha'><p>{}<br>",
-  "dn23:34.8": "{}<br>",
-  "dn23:34.9": "{}<br>",
-  "dn23:34.10": "{}<br>",
-  "dn23:34.11": "{}<br>",
-  "dn23:34.12": "{}</p></blockquote>",
-  "dn23:34.13": "<p class='endbook'>{}</p></article>"
+  "dn23:35.0": "<p class='uddana-intro'>{}</p>",
+  "dn23:35.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "dn23:35.2": "{}<br>",
+  "dn23:35.3": "{}<br>",
+  "dn23:35.4": "{}<br>",
+  "dn23:35.5": "{}<br>",
+  "dn23:35.6": "{}</p></blockquote>",
+  "dn23:35.7": "<p class='endbook'>{}</p></article>"
 }

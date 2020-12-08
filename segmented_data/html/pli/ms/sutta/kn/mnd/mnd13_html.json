@@ -1,6 +1,6 @@
 {
-  "mnd13:0.1": "<header><p class='division'>{}</p>",
-  "mnd13:0.2": "<p>{}</p>",
+  "mnd13:0.1": "<article id='mnd13'><header><ul><li class='division'>{}</li>",
+  "mnd13:0.2": "<li>{}</li></ul>",
   "mnd13:0.3": "<h1>{}</h1></header>",
   "mnd13:1.1": "<p>{}</p>",
   "mnd13:2.1": "<blockquote class='gatha'><p>{}<br>",
@@ -632,8 +632,8 @@
   "mnd13:139.1": "<blockquote class='gatha'><p>{}<br>",
   "mnd13:139.2": "{}<br>",
   "mnd13:139.3": "{}<br>",
-  "mnd13:139.4": "{} <span class='speaker'>",
-  "mnd13:139.5": "{}</span></p></blockquote>",
+  "mnd13:139.4": "{}",
+  "mnd13:139.5": "<span class='speaker'>{}</span></p></blockquote>",
   "mnd13:140.1": "<p>{}",
   "mnd13:140.2": "{}",
   "mnd13:140.3": "{}</p>",
@@ -755,7 +755,7 @@
   "mnd13:159.1": "<blockquote class='gatha'><p>{}<br>",
   "mnd13:159.2": "{}<br>",
   "mnd13:159.3": "{}<br>",
-  "mnd13:159.4": "{} <span class='speaker'>",
-  "mnd13:159.5": "{}</span></p></blockquote>",
-  "mnd13:160.1": "<p class='endsutta'>{}</p>"
+  "mnd13:159.4": "{}",
+  "mnd13:159.5": "<span class='speaker'>{}</span></p></blockquote>",
+  "mnd13:160.1": "<p class='endsutta'>{}</p></article>"
 }

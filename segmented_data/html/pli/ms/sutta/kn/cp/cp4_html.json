@@ -1,7 +1,7 @@
 {
-  "cp4:0.1": "<header><p class='division'>{}</p>",
-  "cp4:0.2": "<p>{}</p>",
-  "cp4:0.3": "<p>{}</p>",
+  "cp4:0.1": "<article id='cp4'><header><ul><li class='division'>{}</li>",
+  "cp4:0.2": "<li>{}</li>",
+  "cp4:0.3": "<li>{}</li></ul>",
   "cp4:0.4": "<h1>{}</h1></header>",
   "cp4:1.1": "<blockquote class='gatha'><p>{}<br>",
   "cp4:1.2": "{}<br>",
@@ -41,5 +41,5 @@
   "cp4:9.4": "{}<br>",
   "cp4:9.5": "{}<br>",
   "cp4:9.6": "{}</p></blockquote>",
-  "cp4:10.1": "<p class='endsutta'>{}</p>"
+  "cp4:10.1": "<p class='endsutta'>{}</p></article>"
 }

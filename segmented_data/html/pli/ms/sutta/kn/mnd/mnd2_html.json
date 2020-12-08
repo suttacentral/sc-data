@@ -1,6 +1,6 @@
 {
-  "mnd2:0.1": "<header><p class='division'>{}</p>",
-  "mnd2:0.2": "<p>{}</p>",
+  "mnd2:0.1": "<article id='mnd2'><header><ul><li class='division'>{}</li>",
+  "mnd2:0.2": "<li>{}</li></ul>",
   "mnd2:0.3": "<h1>{}</h1></header>",
   "mnd2:1.1": "<p>{}</p>",
   "mnd2:2.1": "<blockquote class='gatha'><p>{}<br>",
@@ -1072,5 +1072,5 @@
   "mnd2:130.2": "{}<br>",
   "mnd2:130.3": "{}<br>",
   "mnd2:130.4": "{}</p></blockquote>",
-  "mnd2:131.1": "<p class='endsutta'>{}</p>"
+  "mnd2:131.1": "<p class='endsutta'>{}</p></article>"
 }

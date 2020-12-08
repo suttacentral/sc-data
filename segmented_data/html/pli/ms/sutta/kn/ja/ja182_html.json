@@ -1,7 +1,7 @@
 {
-  "ja182:0.1": "<header><p class='division'>{}</p>",
-  "ja182:0.2": "<p>{}</p>",
-  "ja182:0.3": "<p>{}</p>",
+  "ja182:0.1": "<article id='ja182'><header><ul><li class='division'>{}</li>",
+  "ja182:0.2": "<li>{}</li>",
+  "ja182:0.3": "<li>{}</li></ul>",
   "ja182:0.4": "<h1>{}</h1></header>",
   "ja182:1.1": "<blockquote class='gatha'><p>{}<br>",
   "ja182:1.2": "{}<br>",
@@ -11,5 +11,5 @@
   "ja182:2.2": "{}<br>",
   "ja182:2.3": "{}<br>",
   "ja182:2.4": "{}</p></blockquote>",
-  "ja182:3.1": "<p class='endsutta'>{}</p>"
+  "ja182:3.1": "<p class='endsutta'>{}</p></article>"
 }

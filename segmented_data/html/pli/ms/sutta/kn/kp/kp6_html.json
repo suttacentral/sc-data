@@ -1,5 +1,5 @@
 {
-  "kp6:0.1": "<header><p class='division'>{}</p>",
+  "kp6:0.1": "<article id='kp6'><header><ul><li class='division'>{}</li></ul>",
   "kp6:0.2": "<h1>{}</h1></header>",
   "kp6:1.1": "<blockquote class='gatha'><p>{}<br>",
   "kp6:1.2": "{}<br>",
@@ -90,5 +90,5 @@
   "kp6:18.2": "{}<br>",
   "kp6:18.3": "{}<br>",
   "kp6:18.4": "{}</p></blockquote>",
-  "kp6:19.1": "<p class='endsutta'>{}</p>"
+  "kp6:19.1": "<p class='endsutta'>{}</p></article>"
 }

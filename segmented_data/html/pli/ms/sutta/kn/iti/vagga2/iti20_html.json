@@ -1,15 +1,15 @@
 {
-  "iti20:0.1": "<header><p class='division'>{}</p>",
-  "iti20:0.2": "<p class='nipata'>{}</p>",
-  "iti20:0.3": "<p class='vagga'>{}</p>",
+  "iti20:0.1": "<article id='iti20'><header><ul><li class='division'>{}</li>",
+  "iti20:0.2": "<li class='nipata'>{}</li>",
+  "iti20:0.3": "<li class='vagga'>{}</li></ul>",
   "iti20:0.4": "<h1>{}</h1></header>",
   "iti20:1.1": "<p>{}</p>",
   "iti20:2.1": "<p>{}",
   "iti20:2.2": "{}",
   "iti20:2.3": "{}",
   "iti20:2.4": "{}",
-  "iti20:2.5": "{}",
-  "iti20:2.6": "{}",
+  "iti20:2.5": "{}</p>",
+  "iti20:2.6": "<p>{}",
   "iti20:2.7": "{}</p>",
   "iti20:3.1": "<blockquote class='gatha'><p>{}<br>",
   "iti20:3.2": "{}<br>",
@@ -26,8 +26,9 @@
   "iti20:6.1": "<p>{}</p>",
   "iti20:6.2": "<p class='endsection'>{}</p>",
   "iti20:6.3": "<p class='endsection'>{}</p>",
+  "iti20:7.0": "<p class='uddana-intro'>{}</p>",
   "iti20:7.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "iti20:7.2": "{}<br>",
   "iti20:7.3": "{}<br>",
-  "iti20:7.4": "{}</p></blockquote>"
+  "iti20:7.4": "{}</p></blockquote></article>"
 }

@@ -1,5 +1,5 @@
 {
-  "pe1:0.1": "<header><p class='division'>{}</p>",
+  "pe1:0.1": "<article id='pe1'><header><ul><li class='division'>{}</li></ul>",
   "pe1:0.2": "<h1>{}</h1></header>",
   "pe1:1.1": "<p class='namo'>{}</p>",
   "pe1:2.1": "<p class='namo'>{}</p>",
@@ -312,8 +312,8 @@
   "pe1:107.1": "<p class='endsutta'>{}</p>",
   "pe1:108.1": "<p>{}",
   "pe1:108.2": "{}</p>",
-  "pe1:109.1": "<blockquote class='gatha'><p>{} <span class='speaker'>",
-  "pe1:109.2": "{}</span><br>",
+  "pe1:109.1": "<blockquote class='gatha'><p>{}",
+  "pe1:109.2": "<span class='speaker'>{}</span><br>",
   "pe1:109.3": "{}<br>",
   "pe1:109.4": "{}<br>",
   "pe1:109.5": "{}</p></blockquote>",
@@ -413,8 +413,8 @@
   "pe1:130.7": "{}",
   "pe1:130.8": "{}</p>",
   "pe1:131.1": "<p>{}</p>",
-  "pe1:132.1": "<blockquote class='gatha'><p>{} <span class='speaker'>",
-  "pe1:132.2": "{}</span><br>",
+  "pe1:132.1": "<blockquote class='gatha'><p>{}",
+  "pe1:132.2": "<span class='speaker'>{}</span><br>",
   "pe1:132.3": "{}<br>",
   "pe1:132.4": "{}<br>",
   "pe1:132.5": "{}</p></blockquote>",
@@ -524,5 +524,5 @@
   "pe1:149.2": "{}<br>",
   "pe1:149.3": "{}<br>",
   "pe1:149.4": "{}</p></blockquote>",
-  "pe1:150.1": "<p class='endsutta'>{}</p>"
+  "pe1:150.1": "<p class='endsutta'>{}</p></article>"
 }

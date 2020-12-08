@@ -1,6 +1,6 @@
 {
-  "pv18:0.1": "<header><p class='division'>{}</p>",
-  "pv18:0.2": "<p>{}</p>",
+  "pv18:0.1": "<article id='pv18'><header><ul><li class='division'>{}</li>",
+  "pv18:0.2": "<li>{}</li></ul>",
   "pv18:0.3": "<h1>{}</h1></header>",
   "pv18:1.1": "<blockquote class='gatha'><p>{}<br>",
   "pv18:1.2": "{}<br>",
@@ -84,5 +84,5 @@
   "pv18:20.2": "{}<br>",
   "pv18:20.3": "{}<br>",
   "pv18:20.4": "{}</p></blockquote>",
-  "pv18:21.1": "<p class='endsutta'>{}</p>"
+  "pv18:21.1": "<p class='endsutta'>{}</p></article>"
 }

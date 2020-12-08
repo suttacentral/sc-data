@@ -3,10 +3,9 @@
   "thag1.81:0.2": "<li>{}</li>",
   "thag1.81:0.3": "<li>{}</li></ul>",
   "thag1.81:0.4": "<h1 class='sutta-title'>{}</h1></header>",
-  "thag1.81:1.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns81'></a><a class='vnp' id='vnp81'></a>{}<br>",
+  "thag1.81:1.1": "<blockquote class='gatha'><p>{}<br>",
   "thag1.81:1.2": "{}<br>",
   "thag1.81:1.3": "{}<br>",
   "thag1.81:1.4": "{}</p></blockquote>",
-  "thag1.81:1.5": "<p class='endsutta'>{}",
-  "thag1.81:1.6": "{}</p></article>"
+  "thag1.81:1.5": "<p class='endsutta'>{}</p></article>"
 }

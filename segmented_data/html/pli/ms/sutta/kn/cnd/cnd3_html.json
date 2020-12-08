@@ -1,6 +1,6 @@
 {
-  "cnd3:0.1": "<header><p class='division'>{}</p>",
-  "cnd3:0.2": "<p>{}</p>",
+  "cnd3:0.1": "<article id='cnd3'><header><ul><li class='division'>{}</li>",
+  "cnd3:0.2": "<li>{}</li></ul>",
   "cnd3:0.3": "<h1>{}</h1></header>",
   "cnd3:1.1": "<p>{}",
   "cnd3:1.2": "{}",
@@ -35,5 +35,5 @@
   "cnd3:8.1": "<p>{}<br>",
   "cnd3:8.2": "{}<br>",
   "cnd3:8.3": "{}<br>",
-  "cnd3:8.4": "{}</p></blockquote>"
+  "cnd3:8.4": "{}</p></blockquote></article>"
 }

@@ -1,7 +1,7 @@
 {
-  "iti89:0.1": "<header><p class='division'>{}</p>",
-  "iti89:0.2": "<p class='nipata'>{}</p>",
-  "iti89:0.3": "<p class='vagga'>{}</p>",
+  "iti89:0.1": "<article id='iti89'><header><ul><li class='division'>{}</li>",
+  "iti89:0.2": "<li class='nipata'>{}</li>",
+  "iti89:0.3": "<li class='vagga'>{}</li></ul>",
   "iti89:0.4": "<h1>{}</h1></header>",
   "iti89:1.1": "<p>{}</p>",
   "iti89:2.1": "<p>{}",
@@ -9,8 +9,8 @@
   "iti89:2.3": "{}",
   "iti89:2.4": "{}",
   "iti89:2.5": "{}",
-  "iti89:2.6": "{}",
-  "iti89:2.7": "{}",
+  "iti89:2.6": "{}</p>",
+  "iti89:2.7": "<p>{}",
   "iti89:2.8": "{}</p>",
   "iti89:3.1": "<blockquote class='gatha'><p>{}<br>",
   "iti89:3.2": "{}<br>",
@@ -43,8 +43,9 @@
   "iti89:10.1": "<p>{}</p>",
   "iti89:10.2": "<p class='endsection'>{}</p>",
   "iti89:10.3": "<p class='endsection'>{}</p>",
+  "iti89:11.0": "<p class='uddana-intro'>{}</p>",
   "iti89:11.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "iti89:11.2": "{}<br>",
   "iti89:11.3": "{}<br>",
-  "iti89:11.4": "{}</p></blockquote>"
+  "iti89:11.4": "{}</p></blockquote></article>"
 }

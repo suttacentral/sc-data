@@ -1,6 +1,6 @@
 {
-  "ps2.10:0.1": "<header><p class='division'>{}</p>",
-  "ps2.10:0.2": "<p>{}</p>",
+  "ps2.10:0.1": "<article id='ps2.10'><header><ul><li class='division'>{}</li>",
+  "ps2.10:0.2": "<li>{}</li></ul>",
   "ps2.10:0.3": "<h1>{}</h1></header>",
   "ps2.10:1.1": "<p>{}",
   "ps2.10:1.2": "{}",
@@ -301,5 +301,5 @@
   "ps2.10:32.2": "{}<br>",
   "ps2.10:32.3": "{}<br>",
   "ps2.10:32.4": "{}</p></blockquote>",
-  "ps2.10:32.5": "<p class='endsutta'>{}</p>"
+  "ps2.10:32.5": "<p class='endsutta'>{}</p></article>"
 }

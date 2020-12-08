@@ -1,5 +1,5 @@
 {
-  "ds1.3:0.1": "<header><p class='division'>{}</p>",
+  "ds1.3:0.1": "<article id='ds1.3'><header><ul><li class='division'>{}</li></ul>",
   "ds1.3:0.2": "<h1>{}</h1></header>",
   "ds1.3:1.0": "<h3>{}</h3>",
   "ds1.3:1.1": "<p>{}</p>",
@@ -128,5 +128,5 @@
   "ds1.3:83.1": "<p>{}</p>",
   "ds1.3:84.1": "<p>{}</p>",
   "ds1.3:84.2": "<p class='endsutta'>{}</p>",
-  "ds1.3:84.3": "<p class='endsection'>{}</p>"
+  "ds1.3:84.3": "<p class='endsection'>{}</p></article>"
 }

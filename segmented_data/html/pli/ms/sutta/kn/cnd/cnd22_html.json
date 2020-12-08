@@ -1,9 +1,9 @@
 {
-  "cnd22:0.1": "<header><p class='division'>{}</p>",
-  "cnd22:0.2": "<p>{}</p>",
+  "cnd22:0.1": "<article id='cnd22'><header><ul><li class='division'>{}</li>",
+  "cnd22:0.2": "<li>{}</li></ul>",
   "cnd22:0.3": "<h1>{}</h1></header>",
-  "cnd22:1.1": "<blockquote class='gatha'><p>{} <span class='speaker'>",
-  "cnd22:1.2": "{}</span><br>",
+  "cnd22:1.1": "<blockquote class='gatha'><p>{}",
+  "cnd22:1.2": "<span class='speaker'>{}</span><br>",
   "cnd22:1.3": "{}<br>",
   "cnd22:1.4": "{}<br>",
   "cnd22:1.5": "{}<br>",
@@ -89,8 +89,8 @@
   "cnd22:8.22": "{}",
   "cnd22:8.23": "{}",
   "cnd22:8.24": "{}</p>",
-  "cnd22:9.1": "<blockquote class='gatha'><p>{} <span class='speaker'>",
-  "cnd22:9.2": "{}</span><br>",
+  "cnd22:9.1": "<blockquote class='gatha'><p>{}",
+  "cnd22:9.2": "<span class='speaker'>{}</span><br>",
   "cnd22:9.3": "{}<br>",
   "cnd22:9.4": "{}<br>",
   "cnd22:9.5": "{}<br>",
@@ -889,5 +889,5 @@
   "cnd22:140.3": "{}<br>",
   "cnd22:140.4": "{}</p></blockquote>",
   "cnd22:140.5": "<p class='endsutta'>{}</p>",
-  "cnd22:140.6": "<p class='endsection'>{}</p>"
+  "cnd22:140.6": "<p class='endsection'>{}</p></article>"
 }

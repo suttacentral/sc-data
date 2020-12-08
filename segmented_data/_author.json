@@ -1,44 +1,58 @@
 {
   "ms": {
     "type": "root",
-    "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
   },
   "sujato": {
     "type": "translator",
-    "name": "Sujato Bhikkhu",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Bhikkhu Sujato"
   },
   "brahmali": {
     "type": "translator",
-    "name": "Brahmali Bhikkhu",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Bhikkhu Brahmali"
   },
   "sabbamitta": {
     "type": "translator",
-    "name": "Sabbamitta Anagarika",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Anagarika Sabbamitta"
   },
   "kaz": {
     "type": "translator",
-    "name": "Kaz Takehara",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Kaz Takehara"
   },
   "gnlaera": {
     "type": "translator",
-    "name": "Gabriel L.",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Gabriel Laera"
+  },
+  "patton": {
+    "type": "translator",
+    "name": "Charles Patton"
+  },
+  "ashinsarana": {
+    "type": "translator",
+    "name": "Ashin Sarana"
+  },
+  "nyeinchanaye": {
+    "type": "translator",
+    "name": "Ma Nyein Nyein Chan Chan"
+  },
+  "dpcv": {
+    "type": "root",
+    "name": "Dutiya-Parakkamabābu Cullavagga"
+  },
+  "bj": {
+    "type": "root",
+    "name": "Buddha Jayanti Tipiṭaka"
+  },
+  "vri": {
+    "type": "root",
+    "name": "Vipassana Research Institute"
+  },
+  "my-team": {
+    "type": "translator",
+    "name": "Myanmar Translation Team"
   },
   "xtest": {
     "type": "translator",
-    "name": "Test Project",
-    "root_lang": "pli",
-    "root_edition": "ms"
+    "name": "Test Project"
   }
 }

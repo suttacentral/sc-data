@@ -1,10 +1,10 @@
 {
-  "snp5.7:1.1": "sc1, vns1076, vnp1069, ms18Sn_1263",
-  "snp5.7:2.1": "sc2, vns1077, vnp1070, pts-vp-pli206, ms18Sn_1264",
-  "snp5.7:3.1": "sc3, vns1078, vnp1071, ms18Sn_1265",
-  "snp5.7:4.1": "sc4, vns1079, vnp1072, ms18Sn_1266",
-  "snp5.7:5.1": "sc5, vns1080, vnp1073, ms18Sn_1267",
-  "snp5.7:6.1": "sc6, vns1081, vnp1074, pts-vp-pli207, ms18Sn_1268",
-  "snp5.7:7.1": "sc7, vns1082, vnp1075, ms18Sn_1269",
-  "snp5.7:8.1": "sc8, vns1083, vnp1076, ms18Sn_1270"
+  "snp5.7:1.1": "bj25.328, mc0.539, ms18Sn_1263, sc1, sya25.538, vnp1069, vns1076",
+  "snp5.7:2.1": "cck25.440, csp1ed18.440, csp2ed18.440, ms18Sn_1264, ndp20.430, pts-vp-pli206, sc2, vnp1070, vns1077",
+  "snp5.7:3.1": "dr25.582, ms18Sn_1265, sc3, vnp1071, vns1078, vri48.237",
+  "snp5.7:4.1": "ms18Sn_1266, sc4, vnp1072, vns1079",
+  "snp5.7:5.1": "ms18Sn_1267, sc5, sya25.539, vnp1073, vns1080",
+  "snp5.7:6.1": "mc0.540, ms18Sn_1268, pts-vp-pli207, sc6, vnp1074, vns1081",
+  "snp5.7:7.1": "bj25.330, ms18Sn_1269, sc7, vnp1075, vns1082",
+  "snp5.7:8.1": "cck25.441, csp1ed18.441, csp2ed18.441, dr25.583, ms18Sn_1270, sc8, vnp1076, vns1083"
 }

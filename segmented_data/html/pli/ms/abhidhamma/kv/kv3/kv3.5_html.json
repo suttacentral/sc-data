@@ -1,7 +1,7 @@
 {
-  "kv3.5:0.1": "<header><p class='division'>{}</p>",
-  "kv3.5:0.2": "<p>{}</p>",
-  "kv3.5:0.3": "<p>{}</p>",
+  "kv3.5:0.1": "<article id='kv3.5'><header><ul><li class='division'>{}</li>",
+  "kv3.5:0.2": "<li>{}</li>",
+  "kv3.5:0.3": "<li>{}</li></ul>",
   "kv3.5:0.4": "<h1>{}</h1></header>",
   "kv3.5:1.1": "<p>{}",
   "kv3.5:1.2": "{}",
@@ -101,5 +101,5 @@
   "kv3.5:16.6": "{}",
   "kv3.5:16.7": "{}",
   "kv3.5:16.8": "{}</p>",
-  "kv3.5:16.9": "<p class='endsutta'>{}</p>"
+  "kv3.5:16.9": "<p class='endsutta'>{}</p></article>"
 }

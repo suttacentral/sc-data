@@ -157,8 +157,9 @@
   "mn30:24.3": "{}</p>",
   "mn30:24.4": "<p class='endsection'>{}</p>",
   "mn30:24.5": "<p class='endsutta'>{}</p>",
-  "mn30:24.6": "<blockquote class='uddanagatha'><p>{}<br>",
-  "mn30:24.7": "{}<br>",
-  "mn30:24.8": "{}<br>",
-  "mn30:24.9": "{}</p></blockquote></article>"
+  "mn30:25.0": "<p class='uddana-intro'>{}</p>",
+  "mn30:25.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "mn30:25.2": "{}<br>",
+  "mn30:25.3": "{}<br>",
+  "mn30:25.4": "{}</p></blockquote></article>"
 }

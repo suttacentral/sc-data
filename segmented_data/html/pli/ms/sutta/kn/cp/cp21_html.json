@@ -1,7 +1,7 @@
 {
-  "cp21:0.1": "<header><p class='division'>{}</p>",
-  "cp21:0.2": "<p>{}</p>",
-  "cp21:0.3": "<p>{}</p>",
+  "cp21:0.1": "<article id='cp21'><header><ul><li class='division'>{}</li>",
+  "cp21:0.2": "<li>{}</li>",
+  "cp21:0.3": "<li>{}</li></ul>",
   "cp21:0.4": "<h1>{}</h1></header>",
   "cp21:1.1": "<blockquote class='gatha'><p>{}<br>",
   "cp21:1.2": "{}<br>",
@@ -27,5 +27,5 @@
   "cp21:6.2": "{}<br>",
   "cp21:6.3": "{}<br>",
   "cp21:6.4": "{}</p></blockquote>",
-  "cp21:7.1": "<p class='endsutta'>{}</p>"
+  "cp21:7.1": "<p class='endsutta'>{}</p></article>"
 }
