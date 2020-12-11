@@ -16,3 +16,5 @@ The current files are as follows.
 - `language.json` defines the language of each text or division.
 - `sect.json` defines the sect (or better, "school") of Buddhism to which the text belongs.
 - `shortcut.json` defines the navigation shortcuts.
+- `child_range.json` defines the  acronym and suta range number of the children of the given ID. This is used as a navigation aid, it lets the user know what is contained.
+- `super_root_lang.json` defines the **highest level** of the tree to which a language can be assigned. All children have that root language.
