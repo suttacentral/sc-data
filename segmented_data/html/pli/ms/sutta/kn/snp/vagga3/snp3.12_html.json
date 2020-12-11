@@ -1,5 +1,5 @@
 {
-  "snp3.12:0.1": "<header><p class='division'>{}</p>",
+  "snp3.12:0.1": "<article id='snp3.12'><header><ul><li class='division'>{}</li></ul>",
   "snp3.12:0.2": "<h1>{}</h1></header>",
   "snp3.12:1.1": "<p><span class='evam'>{}</span>",
   "snp3.12:1.2": "{}",
@@ -298,6 +298,7 @@
   "snp3.12:63.2": "{}",
   "snp3.12:63.3": "{}</p>",
   "snp3.12:63.4": "<p class='endsection'>{}</p>",
+  "snp3.12:64.0": "<p class='uddana-intro'>{}</p>",
   "snp3.12:64.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "snp3.12:64.2": "{}<br>",
   "snp3.12:64.3": "{}<br>",
@@ -305,6 +306,7 @@
   "snp3.12:64.5": "{}<br>",
   "snp3.12:64.6": "{}</p></blockquote>",
   "snp3.12:64.7": "<p class='endsutta'>{}</p>",
+  "snp3.12:65.0": "<p class='uddana-intro'>{}</p>",
   "snp3.12:65.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "snp3.12:65.2": "{}<br>",
   "snp3.12:65.3": "{}<br>",
@@ -312,5 +314,5 @@
   "snp3.12:66.1": "<p>{}<br>",
   "snp3.12:66.2": "{}<br>",
   "snp3.12:66.3": "{}<br>",
-  "snp3.12:66.4": "{}</p></blockquote>"
+  "snp3.12:66.4": "{}</p></blockquote></article>"
 }

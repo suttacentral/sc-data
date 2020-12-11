@@ -1,7 +1,7 @@
 {
-  "ne7:0.1": "<header><p class='division'>{}</p>",
-  "ne7:0.2": "<p>{}</p>",
-  "ne7:0.3": "<p>{}</p>",
+  "ne7:0.1": "<article id='ne7'><header><ul><li class='division'>{}</li>",
+  "ne7:0.2": "<li>{}</li>",
+  "ne7:0.3": "<li>{}</li></ul>",
   "ne7:0.4": "<h1>{}</h1></header>",
   "ne7:1.1": "<p>{}",
   "ne7:1.2": "{}",
@@ -55,5 +55,5 @@
   "ne7:4.2": "{}",
   "ne7:4.3": "{}",
   "ne7:4.4": "{}</p>",
-  "ne7:4.5": "<p class='endsutta'>{}</p>"
+  "ne7:4.5": "<p class='endsutta'>{}</p></article>"
 }

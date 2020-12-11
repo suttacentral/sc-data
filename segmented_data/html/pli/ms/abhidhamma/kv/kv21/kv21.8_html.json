@@ -1,7 +1,7 @@
 {
-  "kv21.8:0.1": "<header><p class='division'>{}</p>",
-  "kv21.8:0.2": "<p>{}</p>",
-  "kv21.8:0.3": "<p>{}</p>",
+  "kv21.8:0.1": "<article id='kv21.8'><header><ul><li class='division'>{}</li>",
+  "kv21.8:0.2": "<li>{}</li>",
+  "kv21.8:0.3": "<li>{}</li></ul>",
   "kv21.8:0.4": "<h1>{}</h1></header>",
   "kv21.8:1.1": "<p>{}",
   "kv21.8:1.2": "{}",
@@ -49,5 +49,5 @@
   "kv21.8:4.11": "<p class='endsutta'>{}<br>",
   "kv21.8:4.12": "{}</p>",
   "kv21.8:4.13": "<p class='uddana-intro'>{}</p>",
-  "kv21.8:5.1": "<p class='uddana'>{}</p>"
+  "kv21.8:5.1": "<p class='uddana'>{}</p></article>"
 }

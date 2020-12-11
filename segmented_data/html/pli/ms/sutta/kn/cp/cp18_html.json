@@ -1,7 +1,7 @@
 {
-  "cp18:0.1": "<header><p class='division'>{}</p>",
-  "cp18:0.2": "<p>{}</p>",
-  "cp18:0.3": "<p>{}</p>",
+  "cp18:0.1": "<article id='cp18'><header><ul><li class='division'>{}</li>",
+  "cp18:0.2": "<li>{}</li>",
+  "cp18:0.3": "<li>{}</li></ul>",
   "cp18:0.4": "<h1>{}</h1></header>",
   "cp18:1.1": "<blockquote class='gatha'><p>{}<br>",
   "cp18:1.2": "{}<br>",
@@ -35,5 +35,5 @@
   "cp18:8.2": "{}<br>",
   "cp18:8.3": "{}<br>",
   "cp18:8.4": "{}</p></blockquote>",
-  "cp18:9.1": "<p class='endsutta'>{}</p>"
+  "cp18:9.1": "<p class='endsutta'>{}</p></article>"
 }

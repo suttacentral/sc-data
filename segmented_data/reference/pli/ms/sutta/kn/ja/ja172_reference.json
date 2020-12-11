@@ -1,5 +1,5 @@
 {
-  "ja172:1.1": "sc1, pts-vp-pli2.67, ms22J_409, msdiv43",
-  "ja172:2.1": "sc2, ms22J_410, msdiv44",
-  "ja172:3.1": "sc3, ms22J_411"
+  "ja172:1.1": "ms22J_409, msdiv43, pts-vp-pli2.67, sc1",
+  "ja172:2.1": "ms22J_410, msdiv44, sc2",
+  "ja172:3.1": "ms22J_411, sc3"
 }

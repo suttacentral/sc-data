@@ -1,7 +1,7 @@
 {
-  "mil7.8.4:0.1": "<header><p class='division'>{}</p>",
-  "mil7.8.4:0.2": "<p>{}</p>",
-  "mil7.8.4:0.3": "<p>{}</p>",
+  "mil7.8.4:0.1": "<article id='mil7.8.4'><header><ul><li class='division'>{}</li>",
+  "mil7.8.4:0.2": "<li>{}</li>",
+  "mil7.8.4:0.3": "<li>{}</li></ul>",
   "mil7.8.4:0.4": "<h1>{}</h1></header>",
   "mil7.8.4:1.1": "<p>{}",
   "mil7.8.4:1.2": "{}",
@@ -18,5 +18,5 @@
   "mil7.8.4:4.2": "{}<br>",
   "mil7.8.4:4.3": "{}<br>",
   "mil7.8.4:4.4": "{}</p></blockquote>",
-  "mil7.8.4:5.1": "<p class='endsutta'>{}</p>"
+  "mil7.8.4:5.1": "<p class='endsutta'>{}</p></article>"
 }

@@ -94,8 +94,9 @@
   "mn110:25.2": "{}</p>",
   "mn110:25.3": "<p class='endsection'>{}</p>",
   "mn110:25.4": "<p class='endsutta'>{}</p>",
-  "mn110:25.5": "<blockquote class='uddanagatha'><p>{}<br>",
-  "mn110:25.6": "{}<br>",
-  "mn110:25.7": "{}<br>",
-  "mn110:25.8": "{}</p></blockquote></article>"
+  "mn110:26.0": "<p class='uddana-intro'>{}</p>",
+  "mn110:26.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "mn110:26.2": "{}<br>",
+  "mn110:26.3": "{}<br>",
+  "mn110:26.4": "{}</p></blockquote></article>"
 }

@@ -1,7 +1,7 @@
 {
-  "cp32:0.1": "<header><p class='division'>{}</p>",
-  "cp32:0.2": "<p>{}</p>",
-  "cp32:0.3": "<p>{}</p>",
+  "cp32:0.1": "<article id='cp32'><header><ul><li class='division'>{}</li>",
+  "cp32:0.2": "<li>{}</li>",
+  "cp32:0.3": "<li>{}</li></ul>",
   "cp32:0.4": "<h1>{}</h1></header>",
   "cp32:1.1": "<blockquote class='gatha'><p>{}<br>",
   "cp32:1.2": "{}<br>",
@@ -29,5 +29,5 @@
   "cp32:6.4": "{}<br>",
   "cp32:6.5": "{}<br>",
   "cp32:6.6": "{}</p></blockquote>",
-  "cp32:7.1": "<p class='endsutta'>{}</p>"
+  "cp32:7.1": "<p class='endsutta'>{}</p></article>"
 }

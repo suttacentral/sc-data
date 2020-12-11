@@ -1,6 +1,6 @@
 {
-  "patthana8.59:1.1": "sc1, ms40P8_250, msdiv78",
-  "patthana8.59:2.1": "sc2, ms40P8_251",
-  "patthana8.59:3.1": "sc3, ms40P8_252",
-  "patthana8.59:4.1": "sc4, ms40P8_253"
+  "patthana8.59:1.1": "ms40P8_250, msdiv78, sc1",
+  "patthana8.59:2.1": "csp2ed40.100, ms40P8_251, sc2",
+  "patthana8.59:3.1": "dr45.49, ms40P8_252, sc3",
+  "patthana8.59:4.1": "ms40P8_253, sc4"
 }

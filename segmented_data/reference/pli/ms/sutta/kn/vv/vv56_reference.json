@@ -1,10 +1,10 @@
 {
-  "vv56:1.1": "sc1, vns698, ms19Vv_773, msdiv926",
-  "vv56:2.1": "sc2, vns699, ms19Vv_774, msdiv927",
-  "vv56:3.1": "sc3, vns700, ms19Vv_775, msdiv928-929",
-  "vv56:4.1": "sc4, vns701, ms19Vv_776, msdiv930",
-  "vv56:5.1": "sc5, vns702, ms19Vv_777, msdiv931",
-  "vv56:6.1": "sc6, vns703, ms19Vv_778, msdiv932",
-  "vv56:7.1": "sc7, vns704, ms19Vv_779, msdiv933-934",
-  "vv56:8.1": "sc8, ms19Vv_780"
+  "vv56:1.1": "dr26.113, ms19Vv_773, msdiv926, sc1, vns698",
+  "vv56:2.1": "ms19Vv_774, msdiv927, sc2, vns699, vri56.61",
+  "vv56:3.1": "ms19Vv_775, msdiv928-929, sc3, sya26.101, vns700",
+  "vv56:4.1": "ms19Vv_776, msdiv930, sc4, vns701",
+  "vv56:5.1": "ms19Vv_777, msdiv931, sc5, vns702",
+  "vv56:6.1": "bj26.138, ms19Vv_778, msdiv932, sc6, vns703",
+  "vv56:7.1": "ms19Vv_779, msdiv933-934, sc7, vns704",
+  "vv56:8.1": "ms19Vv_780, sc8"
 }

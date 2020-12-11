@@ -1,5 +1,5 @@
 {
-  "mil3.4.8:1.1": "sc1, pts-vp-pli69, ms28Mi_349, msdiv70",
-  "mil3.4.8:2.1": "sc2, ms28Mi_350",
-  "mil3.4.8:3.1": "sc3, ms28Mi_351"
+  "mil3.4.8:1.1": "csp1ed28.71, csp2ed28.71, ms28Mi_349, msdiv70, pts-vp-pli69, sc1",
+  "mil3.4.8:2.1": "ms28Mi_350, sc2",
+  "mil3.4.8:3.1": "ms28Mi_351, sc3"
 }

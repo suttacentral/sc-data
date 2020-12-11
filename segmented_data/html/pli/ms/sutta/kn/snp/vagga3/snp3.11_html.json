@@ -1,5 +1,5 @@
 {
-  "snp3.11:0.1": "<header><p class='division'>{}</p>",
+  "snp3.11:0.1": "<article id='snp3.11'><header><ul><li class='division'>{}</li></ul>",
   "snp3.11:0.2": "<h1>{}</h1></header>",
   "snp3.11:1.1": "<blockquote class='gatha'><p>{}<br>",
   "snp3.11:1.2": "{}<br>",
@@ -91,9 +91,10 @@
   "snp3.11:22.3": "{}<br>",
   "snp3.11:22.4": "{}</p>",
   "snp3.11:23.1": "<p>{}<br>",
-  "snp3.11:23.2": "{}<br>",
+  "snp3.11:23.2": "<span class='speaker'>{}</speaker><br>",
   "snp3.11:23.3": "{}<br>",
-  "snp3.11:23.4": "{}</p>",
+  "snp3.11:23.4": "{}<br>",
+  "snp3.11:23.5": "{}</p>",
   "snp3.11:24.1": "<p>{}<br>",
   "snp3.11:24.2": "{}<br>",
   "snp3.11:24.3": "{}<br>",
@@ -183,5 +184,5 @@
   "snp3.11:45.2": "{}<br>",
   "snp3.11:45.3": "{}<br>",
   "snp3.11:45.4": "{}</p></blockquote>",
-  "snp3.11:45.5": "<p class='endsection'>{}</p>"
+  "snp3.11:45.5": "<p class='endsection'>{}</p></article>"
 }

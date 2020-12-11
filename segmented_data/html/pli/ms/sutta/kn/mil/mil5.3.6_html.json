@@ -1,7 +1,7 @@
 {
-  "mil5.3.6:0.1": "<header><p class='division'>{}</p>",
-  "mil5.3.6:0.2": "<p>{}</p>",
-  "mil5.3.6:0.3": "<p>{}</p>",
+  "mil5.3.6:0.1": "<article id='mil5.3.6'><header><ul><li class='division'>{}</li>",
+  "mil5.3.6:0.2": "<li>{}</li>",
+  "mil5.3.6:0.3": "<li>{}</li></ul>",
   "mil5.3.6:0.4": "<h1>{}</h1></header>",
   "mil5.3.6:1.1": "<p>{}</p>",
   "mil5.3.6:2.1": "<blockquote class='gatha'><p>{}<br>",
@@ -48,5 +48,5 @@
   "mil5.3.6:14.3": "{}",
   "mil5.3.6:14.4": "{}",
   "mil5.3.6:14.5": "{}</p>",
-  "mil5.3.6:15.1": "<p class='endsutta'>{}</p>"
+  "mil5.3.6:15.1": "<p class='endsutta'>{}</p></article>"
 }

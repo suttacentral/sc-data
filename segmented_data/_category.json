@@ -1,29 +1,29 @@
 {
   "comment": {
     "type": "category",
-    "name": "Comment"
+    "name": "A note on the text."
   },
-  "markup": {
+  "html": {
     "type": "category",
-    "name": "Markup"
+    "name": "HTML markup"
   },
   "reference": {
     "type": "category",
     "name": "reference",
-    "description": "Volume and page reference"
+    "description": "References to multiple editions of the root texts."
   },
   "root": {
     "type": "category",
-    "name": "Root Text",
-    "description": "Text derived from a manuscript"
+    "name": "Root text",
+    "description": "Text derived from a manuscript. Also may include modern text such as UI, etc."
   },
   "translation": {
     "type": "category",
     "name": "Translation",
     "description": "Modern translation of a root text"
   },
-  "variant_note": {
+  "variant": {
     "type": "category",
-    "name": "Variant Note"
+    "name": "A variant reading of the root text."
   }
 }

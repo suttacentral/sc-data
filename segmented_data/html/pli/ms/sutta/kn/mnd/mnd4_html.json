@@ -1,6 +1,6 @@
 {
-  "mnd4:0.1": "<header><p class='division'>{}</p>",
-  "mnd4:0.2": "<p>{}</p>",
+  "mnd4:0.1": "<article id='mnd4'><header><ul><li class='division'>{}</li>",
+  "mnd4:0.2": "<li>{}</li></ul>",
   "mnd4:0.3": "<h1>{}</h1></header>",
   "mnd4:1.1": "<p>{}</p>",
   "mnd4:2.1": "<blockquote class='gatha'><p>{}<br>",
@@ -68,8 +68,8 @@
   "mnd4:17.3": "{}",
   "mnd4:17.4": "{}",
   "mnd4:17.5": "{}</p>",
-  "mnd4:18.1": "<blockquote class='gatha'><p>{} <span class='speaker'>",
-  "mnd4:18.2": "{}</span><br>",
+  "mnd4:18.1": "<blockquote class='gatha'><p>{}",
+  "mnd4:18.2": "<span class='speaker'>{}</span><br>",
   "mnd4:18.3": "{}<br>",
   "mnd4:18.4": "{}<br>",
   "mnd4:18.5": "{}</p></blockquote>",
@@ -195,8 +195,8 @@
   "mnd4:40.4": "{}",
   "mnd4:40.5": "{}",
   "mnd4:40.6": "{}</p>",
-  "mnd4:41.1": "<blockquote class='gatha'><p>{} <span class='speaker'>",
-  "mnd4:41.2": "{}</span><br>",
+  "mnd4:41.1": "<blockquote class='gatha'><p>{}",
+  "mnd4:41.2": "<span class='speaker'>{}</span><br>",
   "mnd4:41.3": "{}<br>",
   "mnd4:41.4": "{}<br>",
   "mnd4:41.5": "{}</p></blockquote>",
@@ -406,5 +406,5 @@
   "mnd4:71.2": "{}<br>",
   "mnd4:71.3": "{}<br>",
   "mnd4:71.4": "{}</p></blockquote>",
-  "mnd4:72.1": "<p class='endsutta'>{}</p>"
+  "mnd4:72.1": "<p class='endsutta'>{}</p></article>"
 }

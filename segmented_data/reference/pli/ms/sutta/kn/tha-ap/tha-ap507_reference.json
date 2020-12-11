@@ -1,9 +1,9 @@
 {
-  "tha-ap507:1.1": "sc1, ms20Ap1_6638, msdiv63",
-  "tha-ap507:2.1": "sc2, ms20Ap1_6639, msdiv64",
-  "tha-ap507:3.1": "sc3, pts-vp-pli2.446, ms20Ap1_6640, msdiv65",
-  "tha-ap507:4.1": "sc4, ms20Ap1_6641, msdiv66",
-  "tha-ap507:5.1": "sc5, ms20Ap1_6642, msdiv67",
-  "tha-ap507:6.1": "sc6, ms20Ap1_6643",
-  "tha-ap507:7.1": "sc7, ms20Ap1_6644"
+  "tha-ap507:1.1": "ms20Ap1_6638, msdiv63, ndp28.86, sc1",
+  "tha-ap507:2.1": "ms20Ap1_6639, msdiv64, sc2",
+  "tha-ap507:3.1": "dr33.154, ms20Ap1_6640, msdiv65, pts-vp-pli2.446, sc3",
+  "tha-ap507:4.1": "ms20Ap1_6641, msdiv66, sc4",
+  "tha-ap507:5.1": "mc2.151, ms20Ap1_6642, msdiv67, sc5",
+  "tha-ap507:6.1": "ms20Ap1_6643, sc6",
+  "tha-ap507:7.1": "ms20Ap1_6644, sc7"
 }

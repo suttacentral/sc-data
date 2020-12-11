@@ -1,5 +1,5 @@
 {
-  "kp9:0.1": "<header><p class='division'>{}</p>",
+  "kp9:0.1": "<article id='kp9'><header><ul><li class='division'>{}</li></ul>",
   "kp9:0.2": "<h1>{}</h1></header>",
   "kp9:1.1": "<blockquote class='gatha'><p>{}<br>",
   "kp9:1.2": "{}<br>",
@@ -42,5 +42,5 @@
   "kp9:10.3": "{}<br>",
   "kp9:10.4": "{}</p></blockquote>",
   "kp9:11.1": "<p class='endsutta'>{}</p>",
-  "kp9:12.1": "<p class='endbook'>{}</p>"
+  "kp9:12.1": "<p class='endbook'>{}</p></article>"
 }

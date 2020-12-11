@@ -1,5 +1,5 @@
 {
-  "mil8:0.1": "<header><p class='division'>{}</p>",
+  "mil8:0.1": "<article id='mil8'><header><ul><li class='division'>{}</li></ul>",
   "mil8:0.2": "<h1>{}</h1></header>",
   "mil8:1.1": "<p>{}</p>",
   "mil8:2.1": "<p>{}</p>",
@@ -30,5 +30,5 @@
   "mil8:8.2": "{}<br>",
   "mil8:8.3": "{}<br>",
   "mil8:8.4": "{}</p></blockquote>",
-  "mil8:9.1": "<p class='endbook'>{}</p>"
+  "mil8:9.1": "<p class='endbook'>{}</p></article>"
 }

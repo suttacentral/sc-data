@@ -81,8 +81,9 @@
   "mn20:8.15": "{}</p>",
   "mn20:8.16": "<p class='endsection'>{}</p>",
   "mn20:8.17": "<p class='endsutta'>{}</p>",
-  "mn20:8.18": "<blockquote class='uddanagatha'><p>{}<br>",
-  "mn20:8.19": "{}<br>",
-  "mn20:8.20": "{}<br>",
-  "mn20:8.21": "{}</p></blockquote></article>"
+  "mn20:9.0": "<p class='uddana-intro'>{}</p>",
+  "mn20:9.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "mn20:9.2": "{}<br>",
+  "mn20:9.3": "{}<br>",
+  "mn20:9.4": "{}</p></blockquote></article>"
 }

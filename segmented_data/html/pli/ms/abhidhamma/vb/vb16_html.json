@@ -1,5 +1,5 @@
 {
-  "vb16:0.1": "<header><p class='division'>{}</p>",
+  "vb16:0.1": "<article id='vb16'><header><ul><li class='division'>{}</li></ul>",
   "vb16:0.2": "<h1>{}</h1></header>",
   "vb16:1.0": "<h2>{}</h2>",
   "vb16:1.1": "<p>{}",
@@ -809,5 +809,5 @@
   "vb16:403.3": "{}",
   "vb16:403.4": "{}</p>",
   "vb16:404.1": "<p class='endsutta'>{}</p>",
-  "vb16:405.1": "<p class='endsection'>{}</p>"
+  "vb16:405.1": "<p class='endsection'>{}</p></article>"
 }

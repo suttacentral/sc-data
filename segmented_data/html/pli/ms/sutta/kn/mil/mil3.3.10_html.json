@@ -1,6 +1,6 @@
 {
-  "mil3.3.10:0.1": "<header><p class='division'>{}</p>",
-  "mil3.3.10:0.2": "<p>{}</p>",
+  "mil3.3.10:0.1": "<article id='mil3.3.10'><header><ul><li class='division'>{}</li>",
+  "mil3.3.10:0.2": "<li>{}</li></ul>",
   "mil3.3.10:0.3": "<h1>{}</h1></header>",
   "mil3.3.10:1.1": "<p>{}",
   "mil3.3.10:1.2": "{}",
@@ -11,5 +11,5 @@
   "mil3.3.10:2.2": "{}",
   "mil3.3.10:2.3": "{}</p>",
   "mil3.3.10:3.1": "<p>{}</p>",
-  "mil3.3.10:4.1": "<p class='endsutta'>{}</p>"
+  "mil3.3.10:4.1": "<p class='endsutta'>{}</p></article>"
 }

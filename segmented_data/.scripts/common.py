@@ -75,7 +75,7 @@ class bcolors:
 
 def json_load(file):
     try:
-        with file.open('r') as f:
+        with file.open('r', encoding='utf-8') as f:
             return json.load(f)
     except json.decoder.JSONDecodeError as e:
         lineno = e.lineno

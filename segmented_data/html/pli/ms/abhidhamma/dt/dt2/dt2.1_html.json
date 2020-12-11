@@ -1,6 +1,6 @@
 {
-  "dt2.1:0.1": "<header><p class='division'>{}</p>",
-  "dt2.1:0.2": "<p>{}</p>",
+  "dt2.1:0.1": "<article id='dt2.1'><header><ul><li class='division'>{}</li>",
+  "dt2.1:0.2": "<li>{}</li></ul>",
   "dt2.1:0.3": "<h1>{}</h1></header>",
   "dt2.1:1.0": "<h2>{}</h2>",
   "dt2.1:1.1": "<p>{}",
@@ -574,5 +574,5 @@
   "dt2.1:182.2": "{}",
   "dt2.1:182.3": "{}",
   "dt2.1:182.4": "{}</p>",
-  "dt2.1:183.1": "<p class='endsection'>{}</p>"
+  "dt2.1:183.1": "<p class='endsection'>{}</p></article>"
 }

@@ -1,6 +1,6 @@
 {
-  "patthana2.12:0.1": "<header><p class='division'>{}</p>",
-  "patthana2.12:0.2": "<p class='subdivision'>{}</p>",
+  "patthana2.12:0.1": "<article id='patthana2.12'><header><ul><li class='division'>{}</li>",
+  "patthana2.12:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana2.12:0.3": "<h1>{}</h1></header>",
   "patthana2.12:1.0.1": "<h5>{}</h5>",
   "patthana2.12:1.0.2": "<h6>{}</h6>",
@@ -210,11 +210,15 @@
   "patthana2.12:132.0.1": "<h5>{}</h5>",
   "patthana2.12:132.0.2": "<h6>{}</h6>",
   "patthana2.12:132.1": "<p>{}</p>",
-  "patthana2.12:133.0.1": "<h3>{}</h3>",
+  "patthana2.12:133.0.1": "<h2>{}</h2>",
   "patthana2.12:133.0.2": "<h3>{}</h3>",
   "patthana2.12:133.0.3": "<h4>{}</h4>",
-  "patthana2.12:133.0.4": "<h5>{}</h5>",
-  "patthana2.12:133.0.5": "<h6>{}</h6>",
+  "patthana2.12:133.1": "<p>{}</p>",
+  "patthana2.12:134.0.1": "<h3>{}</h3>",
+  "patthana2.12:134.0.2": "<h3>{}</h3>",
+  "patthana2.12:134.0.3": "<h4>{}</h4>",
+  "patthana2.12:134.0.4": "<h5>{}</h5>",
+  "patthana2.12:134.0.5": "<h6>{}</h6>",
   "patthana2.12:134.1": "<p>{}</p>",
   "patthana2.12:135.1": "<p>{}</p>",
   "patthana2.12:136.1": "<p>{}</p>",
@@ -398,5 +402,5 @@
   "patthana2.12:245.1": "<p>{}</p>",
   "patthana2.12:246.1": "<p class='pe'>{}</p>",
   "patthana2.12:246.2": "<p class='endsutta'>{}</p>",
-  "patthana2.12:247.1": "<p class='endsection'>{}</p>"
+  "patthana2.12:247.1": "<p class='endsection'>{}</p></article>"
 }
