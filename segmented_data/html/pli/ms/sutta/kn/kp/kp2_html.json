@@ -1,5 +1,5 @@
 {
-  "kp2:0.1": "<header><p class='division'>{}</p>",
+  "kp2:0.1": "<article id='kp2'><header><ul><li class='division'>{}</li></ul>",
   "kp2:0.2": "<h1>{}</h1></header>",
   "kp2:1.1": "<p>{}</p>",
   "kp2:2.1": "<p>{}</p>",
@@ -11,5 +11,5 @@
   "kp2:8.1": "<p>{}</p>",
   "kp2:9.1": "<p>{}</p>",
   "kp2:10.1": "<p>{}</p>",
-  "kp2:11.1": "<p class='endsutta'>{}</p>"
+  "kp2:11.1": "<p class='endsutta'>{}</p></article>"
 }

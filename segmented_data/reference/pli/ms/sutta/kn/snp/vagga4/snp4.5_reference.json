@@ -1,10 +1,10 @@
 {
-  "snp4.5:1.1": "sc1, vns803, vnp796, ms18Sn_968",
-  "snp4.5:2.1": "sc2, vns804, vnp797, ms18Sn_969",
-  "snp4.5:3.1": "sc3, vns805, vnp798, ms18Sn_970",
-  "snp4.5:4.1": "sc4, vns806, vnp799, pts-vp-pli157, ms18Sn_971",
-  "snp4.5:5.1": "sc5, vns807, vnp800, ms18Sn_972",
-  "snp4.5:6.1": "sc6, vns808, vnp801, ms18Sn_973",
-  "snp4.5:7.1": "sc7, vns809, vnp802, ms18Sn_974",
-  "snp4.5:8.1": "sc8, vns810, vnp803, pts-vp-pli158, ms18Sn_975"
+  "snp4.5:1.1": "mc0.492, ms18Sn_968, sc1, vnp796, vns803, vri48.203",
+  "snp4.5:2.1": "cck25.399, ms18Sn_969, sc2, sya25.491, vnp797, vns804",
+  "snp4.5:3.1": "csp1ed18.404, csp2ed18.404, dr25.534, ms18Sn_970, ndp20.393, sc3, vnp798, vns805",
+  "snp4.5:4.1": "bj25.254, ms18Sn_971, pts-vp-pli157, sc4, vnp799, vns806",
+  "snp4.5:5.1": "ms18Sn_972, sc5, vnp800, vns807",
+  "snp4.5:6.1": "mc0.493, ms18Sn_973, sc6, vnp801, vns808",
+  "snp4.5:7.1": "ms18Sn_974, sc7, sya25.492, vnp802, vns809",
+  "snp4.5:8.1": "cck25.400, dr25.535, ms18Sn_975, pts-vp-pli158, sc8, vnp803, vns810"
 }

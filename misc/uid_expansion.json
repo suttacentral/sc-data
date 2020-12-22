@@ -72,7 +72,7 @@
   {
     "uid": "pdhp",
     "acro": "P-Dhp",
-    "name": "Prākrit Dharmapada"
+    "name": "Patna Dharmapada"
   },
   {
     "uid": "divy",
@@ -235,11 +235,6 @@
     "name": "Mahasaṅgīti Tipiṭaka"
   },
   {
-    "uid": "mv",
-    "acro": "Mv",
-    "name": "Mahāvastu"
-  },
-  {
     "uid": "mvu",
     "acro": "Mvu",
     "name": "Mahāvastu"
@@ -301,7 +296,7 @@
   },
   {
     "uid": "pf",
-    "acro": "Prak",
+    "acro": "PF",
     "name": "Prākrit fragments"
   },
   {
@@ -313,11 +308,6 @@
     "uid": "praj",
     "acro": "Praj",
     "name": "Prajnaptiśāstra"
-  },
-  {
-    "uid": "prv",
-    "acro": "Prv",
-    "name": "Parivāra"
   },
   {
     "uid": "pv",
@@ -597,17 +587,17 @@
   {
     "uid": "abhidhamma",
     "acro": "Abhidhamma",
-    "name": "Systematic Treatises"
+    "name": "Abhidhamma"
   },
   {
     "uid": "sutta",
     "acro": "Sutta",
-    "name": "Discourses"
+    "name": "Suttas"
   },
   {
     "uid": "vinaya",
     "acro": "Vinaya",
-    "name": "Monastic Law"
+    "name": "Vinaya"
   },
   {
     "uid": "tv",
@@ -638,11 +628,6 @@
     "uid": "mu",
     "acro": "Mu",
     "name": "Mūlasarvāstivāda"
-  },
-  {
-    "uid": "mbt",
-    "acro": "Mbt",
-    "name": "Mahāvyutpatti"
   },
   {
     "uid": "mi",

@@ -1,7 +1,7 @@
 {
-  "snp2.3:1.1": "sc1, vns256, vnp253, ms18Sn_294",
-  "snp2.3:2.1": "sc2, vns257, vnp254, ms18Sn_295",
-  "snp2.3:3.1": "sc3, vns258, vnp255, pts-vp-pli46, ms18Sn_296",
-  "snp2.3:4.1": "sc4, vns259, vnp256, ms18Sn_297",
-  "snp2.3:5.1": "sc5, vns260, vnp257, ms18Sn_298"
+  "snp2.3:1.1": "csp1ed18.318, csp2ed18.318, mc0.384, ms18Sn_294, ndp20.307, sc1, vnp253, vns256",
+  "snp2.3:2.1": "ms18Sn_295, sc2, vnp254, vns257",
+  "snp2.3:3.1": "cck25.306, dr25.421, ms18Sn_296, pts-vp-pli46, sc3, vnp255, vns258",
+  "snp2.3:4.1": "ms18Sn_297, sc4, vnp256, vns259",
+  "snp2.3:5.1": "ms18Sn_298, sc5, sya25.376, vnp257, vns260"
 }

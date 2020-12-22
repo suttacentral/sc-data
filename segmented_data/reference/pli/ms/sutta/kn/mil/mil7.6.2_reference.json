@@ -1,7 +1,7 @@
 {
-  "mil7.6.2:1.1": "sc1, ms28Mi_1896, msdiv266",
-  "mil7.6.2:2.1": "sc2, pts-vp-pli402, ms28Mi_1897",
-  "mil7.6.2:3.1": "sc3, ms28Mi_1898",
-  "mil7.6.2:4.1": "sc4, ms28Mi_1899",
-  "mil7.6.2:5.1": "sc5, ms28Mi_1900"
+  "mil7.6.2:1.1": "ms28Mi_1896, msdiv266, sc1",
+  "mil7.6.2:2.1": "csp1ed28.387, csp2ed28.387, ms28Mi_1897, pts-vp-pli402, sc2, vri81.373",
+  "mil7.6.2:3.1": "maku513, ms28Mi_1898, sc3",
+  "mil7.6.2:4.1": "ms28Mi_1899, sc4",
+  "mil7.6.2:5.1": "ms28Mi_1900, sc5"
 }

@@ -1,5 +1,5 @@
 {
-  "ud5.3:0.1": "<header><p class='division'>{}</p>",
+  "ud5.3:0.1": "<article id='ud5.3'><header><ul><li class='division'>{}</li></ul>",
   "ud5.3:0.2": "<h1>{}</h1></header>",
   "ud5.3:1.1": "<p><span class='evam'>{}</span>",
   "ud5.3:1.2": "{}",
@@ -68,5 +68,5 @@
   "ud5.3:13.2": "{}<br>",
   "ud5.3:13.3": "{}<br>",
   "ud5.3:13.4": "{}</p></blockquote>",
-  "ud5.3:13.5": "<p class='endsection'>{}</p>"
+  "ud5.3:13.5": "<p class='endsection'>{}</p></article>"
 }

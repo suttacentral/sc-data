@@ -1,5 +1,5 @@
 {
-  "bv4:0.1": "<header><p class='division'>{}</p>",
+  "bv4:0.1": "<article id='bv4'><header><ul><li class='division'>{}</li></ul>",
   "bv4:0.2": "<h1>{}</h1></header>",
   "bv4:1.1": "<blockquote class='gatha'><p>{}<br>",
   "bv4:1.2": "{}<br>",
@@ -157,5 +157,5 @@
   "bv4:38.2": "{}<br>",
   "bv4:38.3": "{}<br>",
   "bv4:38.4": "{}</p></blockquote>",
-  "bv4:39.1": "<p class='endsutta'>{}</p>"
+  "bv4:39.1": "<p class='endsutta'>{}</p></article>"
 }

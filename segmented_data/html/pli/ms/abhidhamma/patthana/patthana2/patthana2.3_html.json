@@ -1,6 +1,6 @@
 {
-  "patthana2.3:0.1": "<header><p class='division'>{}</p>",
-  "patthana2.3:0.2": "<p class='subdivision'>{}</p>",
+  "patthana2.3:0.1": "<article id='patthana2.3'><header><ul><li class='division'>{}</li>",
+  "patthana2.3:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana2.3:0.3": "<h1>{}</h1></header>",
   "patthana2.3:1.0.1": "<h5>{}</h5>",
   "patthana2.3:1.0.2": "<h6>{}</h6>",
@@ -522,5 +522,5 @@
   "patthana2.3:350.1": "<p>{}</p>",
   "patthana2.3:351.1": "<p>{}</p>",
   "patthana2.3:352.1": "<p class='endsutta'>{}</p>",
-  "patthana2.3:353.1": "<p class='endsection'>{}</p>"
+  "patthana2.3:353.1": "<p class='endsection'>{}</p></article>"
 }

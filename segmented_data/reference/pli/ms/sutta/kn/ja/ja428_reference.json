@@ -1,13 +1,13 @@
 {
-  "ja428:1.1": "sc1, pts-vp-pli3.488, ms22J_1791, msdiv10",
-  "ja428:2.1": "sc2, ms22J_1792, msdiv11",
-  "ja428:3.1": "sc3, ms22J_1793, msdiv12",
-  "ja428:4.1": "sc4, ms22J_1794, msdiv13",
-  "ja428:5.1": "sc5, ms22J_1795, msdiv14",
-  "ja428:6.1": "sc6, ms22J_1796, msdiv15",
-  "ja428:7.1": "sc7, ms22J_1797, msdiv16",
-  "ja428:8.1": "sc8, ms22J_1798, msdiv17",
-  "ja428:9.1": "sc9, ms22J_1799, msdiv18",
-  "ja428:10.1": "sc10, ms22J_1800, msdiv19",
-  "ja428:11.1": "sc11, ms22J_1801"
+  "ja428:1.1": "bj30.326, csp1ed22.188, csp2ed22.188, ms22J_1791, msdiv10, pts-vp-pli3.488, sc1, vri68.154",
+  "ja428:2.1": "ms22J_1792, msdiv11, sc2",
+  "ja428:3.1": "ms22J_1793, msdiv12, sc3",
+  "ja428:4.1": "ms22J_1794, msdiv13, sc4",
+  "ja428:5.1": "ms22J_1795, msdiv14, sc5",
+  "ja428:6.1": "ms22J_1796, msdiv15, sc6",
+  "ja428:7.1": "dr27.254, ms22J_1797, msdiv16, sc7, sya27.255",
+  "ja428:8.1": "ms22J_1798, msdiv17, sc8",
+  "ja428:9.1": "ms22J_1799, msdiv18, ndp22.181, sc9",
+  "ja428:10.1": "csp1ed22.189, csp2ed22.189, ms22J_1800, msdiv19, sc10",
+  "ja428:11.1": "ms22J_1801, sc11"
 }

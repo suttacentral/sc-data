@@ -1,5 +1,5 @@
 {
-  "kp5:0.1": "<header><p class='division'>{}</p>",
+  "kp5:0.1": "<article id='kp5'><header><ul><li class='division'>{}</li></ul>",
   "kp5:0.2": "<h1>{}</h1></header>",
   "kp5:1.1": "<p>{}",
   "kp5:1.2": "{}",
@@ -53,5 +53,5 @@
   "kp5:13.2": "{}<br>",
   "kp5:13.3": "{}<br>",
   "kp5:13.4": "{}</p></blockquote>",
-  "kp5:14.1": "<p class='endsutta'>{}</p>"
+  "kp5:14.1": "<p class='endsutta'>{}</p></article>"
 }

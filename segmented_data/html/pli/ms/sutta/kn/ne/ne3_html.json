@@ -1,5 +1,5 @@
 {
-  "ne3:0.1": "<header><p class='division'>{}</p>",
+  "ne3:0.1": "<article id='ne3'><header><ul><li class='division'>{}</li></ul>",
   "ne3:0.2": "<h1>{}</h1></header>",
   "ne3:1.1": "<p>{}</p>",
   "ne3:2.0": "<h3>{}</h3>",
@@ -109,5 +109,5 @@
   "ne3:27.2": "{}<br>",
   "ne3:27.3": "{}<br>",
   "ne3:27.4": "{}</p></blockquote>",
-  "ne3:27.5": "<p class='endsutta'>{}</p>"
+  "ne3:27.5": "<p class='endsutta'>{}</p></article>"
 }

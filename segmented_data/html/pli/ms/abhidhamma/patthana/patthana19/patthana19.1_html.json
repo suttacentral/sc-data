@@ -1,6 +1,6 @@
 {
-  "patthana19.1:0.1": "<header><p class='division'>{}</p>",
-  "patthana19.1:0.2": "<p class='subdivision'>{}</p>",
+  "patthana19.1:0.1": "<article id='patthana19.1'><header><ul><li class='division'>{}</li>",
+  "patthana19.1:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana19.1:0.3": "<h1>{}</h1></header>",
   "patthana19.1:1.1": "<p class='namo'>{}</p>",
   "patthana19.1:2.0.1": "<h3>{}</h3>",
@@ -49,5 +49,5 @@
   "patthana19.1:38.1": "<p>{}</p>",
   "patthana19.1:39.1": "<p>{}</p>",
   "patthana19.1:40.1": "<p>{}</p>",
-  "patthana19.1:41.1": "<p>{}</p>"
+  "patthana19.1:41.1": "<p>{}</p></article>"
 }

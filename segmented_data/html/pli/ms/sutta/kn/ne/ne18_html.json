@@ -1,7 +1,7 @@
 {
-  "ne18:0.1": "<header><p class='division'>{}</p>",
-  "ne18:0.2": "<p>{}</p>",
-  "ne18:0.3": "<p>{}</p>",
+  "ne18:0.1": "<article id='ne18'><header><ul><li class='division'>{}</li>",
+  "ne18:0.2": "<li>{}</li>",
+  "ne18:0.3": "<li>{}</li></ul>",
   "ne18:0.4": "<h1>{}</h1></header>",
   "ne18:1.1": "<p>{}",
   "ne18:1.2": "{}</p>",
@@ -54,5 +54,5 @@
   "ne18:7.18": "{}",
   "ne18:7.19": "{}",
   "ne18:7.20": "{}</p>",
-  "ne18:7.21": "<p class='endsutta'>{}</p>"
+  "ne18:7.21": "<p class='endsutta'>{}</p></article>"
 }

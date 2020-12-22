@@ -1,9 +1,9 @@
 {
-  "mil5.3.12:1.1": "sc1, pts-vp-pli187, ms28Mi_847, msdiv149",
-  "mil5.3.12:2.1": "sc2, ms28Mi_848",
-  "mil5.3.12:3.1": "sc3, ms28Mi_849",
-  "mil5.3.12:4.1": "sc4, pts-vp-pli188, ms28Mi_850",
-  "mil5.3.12:5.1": "sc5, ms28Mi_851",
-  "mil5.3.12:6.1": "sc6, ms28Mi_852",
-  "mil5.3.12:7.1": "sc7, ms28Mi_853"
+  "mil5.3.12:1.1": "csp1ed28.185, csp2ed28.185, ms28Mi_847, msdiv149, pts-vp-pli187, sc1",
+  "mil5.3.12:2.1": "ms28Mi_848, sc2, vri81.181",
+  "mil5.3.12:3.1": "bj168, maku259, ms28Mi_849, sc3",
+  "mil5.3.12:4.1": "csp1ed28.186, csp2ed28.186, ms28Mi_850, pts-vp-pli188, sc4",
+  "mil5.3.12:5.1": "ms28Mi_851, sc5",
+  "mil5.3.12:6.1": "ms28Mi_852, sc6",
+  "mil5.3.12:7.1": "ms28Mi_853, sc7"
 }

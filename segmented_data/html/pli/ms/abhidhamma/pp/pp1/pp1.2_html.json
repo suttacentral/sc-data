@@ -1,6 +1,6 @@
 {
-  "pp1.2:0.1": "<header><p class='division'>{}</p>",
-  "pp1.2:0.2": "<p>{}</p>",
+  "pp1.2:0.1": "<article id='pp1.2'><header><ul><li class='division'>{}</li>",
+  "pp1.2:0.2": "<li>{}</li></ul>",
   "pp1.2:0.3": "<h1>{}</h1></header>",
   "pp1.2:1.1": "<p>{}</p>",
   "pp1.2:2.1": "<p>{}</p>",
@@ -29,5 +29,5 @@
   "pp1.2:25.1": "<p>{}</p>",
   "pp1.2:26.1": "<p>{}</p>",
   "pp1.2:27.1": "<p>{}</p>",
-  "pp1.2:28.1": "<p class='endsutta'>{}</p>"
+  "pp1.2:28.1": "<p class='endsutta'>{}</p></article>"
 }

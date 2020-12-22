@@ -3,7 +3,7 @@
   "thag1.2:0.2": "<li>{}</li>",
   "thag1.2:0.3": "<li>{}</li></ul>",
   "thag1.2:0.4": "<h1 class='sutta-title'>{}</h1></header>",
-  "thag1.2:1.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns2'></a><a class='vnp' id='vnp2'></a>{}<br>",
+  "thag1.2:1.1": "<blockquote class='gatha'><p>{}<br>",
   "thag1.2:1.2": "{}<br>",
   "thag1.2:1.3": "{}<br>",
   "thag1.2:1.4": "{}</p></blockquote>",

@@ -1,7 +1,7 @@
 {
-  "vv64:0.1": "<header><p class='division'>{}</p>",
-  "vv64:0.2": "<p>{}</p>",
-  "vv64:0.3": "<p>{}</p>",
+  "vv64:0.1": "<article id='vv64'><header><ul><li class='division'>{}</li>",
+  "vv64:0.2": "<li>{}</li>",
+  "vv64:0.3": "<li>{}</li></ul>",
   "vv64:0.4": "<h1>{}</h1></header>",
   "vv64:1.1": "<blockquote class='gatha'><p>{}<br>",
   "vv64:1.2": "{}<br>",
@@ -143,5 +143,5 @@
   "vv64:36.3": "{}<br>",
   "vv64:36.4": "{}<br>",
   "vv64:36.5": "{}</p></blockquote>",
-  "vv64:37.1": "<p class='endsutta'>{}</p>"
+  "vv64:37.1": "<p class='endsutta'>{}</p></article>"
 }

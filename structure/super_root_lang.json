@@ -1,0 +1,115 @@
+[
+  {
+    "root_lang_iso": "kho",
+    "root_lang_name": "Khotanese",
+    "contains": [
+      "kf"
+    ]
+  },
+  {
+    "root_lang_iso": "lzh",
+    "root_lang_name": "Chinese",
+    "contains": [
+      "da",
+      "da-ot",
+      "ma",
+      "ma-ot",
+      "sa",
+      "sa-2",
+      "sa-3",
+      "sa-ot",
+      "ea",
+      "ea-2",
+      "ea-ot",
+      "t210",
+      "t211",
+      "t212",
+      "t213",
+      "uv-kg",
+      "minor-lzh",
+      "lzh-mg-vi",
+      "lzh-dg-vi",
+      "lzh-sarv-vi",
+      "lzh-mu-vi",
+      "lzh-ka-bu-pm",
+      "lzh-upp-bu",
+      "sammitiya",
+      "upp",
+      "om",
+      "lzh-dg-ab",
+      "lzh-sarv-ab"
+    ]
+  },
+  {
+    "root_lang_iso": "pgd",
+    "root_lang_name": "Gāndhārī",
+    "contains": [
+      "gdhp",
+      "g2dhp",
+      "g3dhp",
+      "gf",
+      "pgd-dg-vi",
+      "pgd-pm-bf13"
+    ]
+  },
+  {
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pāli",
+    "contains": [
+      "dn",
+      "mn",
+      "sn",
+      "an",
+      "kn",
+      "dhp",
+      "pli-tv-vi",
+      "pli-tv-ab"
+    ]
+  },
+  {
+    "root_lang_iso": "pra",
+    "root_lang_name": "Prākrit",
+    "contains": [
+      "pdhp",
+      "pf"
+    ]
+  },
+  {
+    "root_lang_iso": "san",
+    "root_lang_name": "Sanskrit",
+    "contains": [
+      "uv",
+      "uvs",
+      "other-san",
+      "san-mg-vi",
+      "san-lo-vi",
+      "san-mi-vi",
+      "san-sarv-vi",
+      "san-mu-vi",
+      "san-bu-pm-qizil",
+      "san-sarv-ab"
+    ]
+  },
+  {
+    "root_lang_iso": "uig",
+    "root_lang_name": "Uighur",
+    "contains": [
+      "uf"
+    ]
+  },
+  {
+    "root_lang_iso": "xct",
+    "root_lang_name": "Tibetan",
+    "contains": [
+      "other-xct",
+      "xct-mu-vi"
+    ]
+  },
+  {
+    "root_lang_iso": "xto",
+    "root_lang_name": "Tocharian A",
+    "contains": [
+      "tf"
+    ]
+  }
+]

@@ -2,13 +2,13 @@
   "thig1.18:0.1": "<article id='thig1.18'><header><ul><li class='division'>{}</li>",
   "thig1.18:0.2": "<li>{}</li></ul>",
   "thig1.18:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "thig1.18:1.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns18'></a><a class='vnp' id='vnp18'></a>{}<br>",
+  "thig1.18:1.1": "<blockquote class='gatha'><p><a class='vns' id='vns18'></a>{}<br>",
   "thig1.18:1.2": "{}<br>",
   "thig1.18:1.3": "{}<br>",
   "thig1.18:1.4": "{}<br>",
   "thig1.18:1.5": "{}<br>",
   "thig1.18:1.6": "{}</p></blockquote>",
-  "thig1.18:2.1": "<p class='endsutta'><a class='sc' id='2'></a>{}",
+  "thig1.18:2.1": "<p class='endsutta'>{}",
   "thig1.18:2.2": "{}</p>",
-  "thig1.18:3.1": "<p class='endsection'><a class='sc' id='3'></a>{}</p></article>"
+  "thig1.18:3.1": "<p class='endsection'>{}</p></article>"
 }

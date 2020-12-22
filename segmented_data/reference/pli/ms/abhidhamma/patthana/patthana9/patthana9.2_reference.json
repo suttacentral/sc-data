@@ -1,8 +1,8 @@
 {
-  "patthana9.2:1.1": "sc1, ms40P9_19, msdiv7",
-  "patthana9.2:2.1": "sc2, ms40P9_20",
-  "patthana9.2:3.1": "sc3, ms40P9_21, msdiv8",
-  "patthana9.2:4.1": "sc4, ms40P9_22",
-  "patthana9.2:5.1": "sc5, ms40P9_23, msdiv9",
-  "patthana9.2:6.1": "sc6, ms40P9_24"
+  "patthana9.2:1.1": "ms40P9_19, msdiv7, sc1, vri124.128",
+  "patthana9.2:2.1": "ms40P9_20, sc2",
+  "patthana9.2:3.1": "ms40P9_21, msdiv8, sc3",
+  "patthana9.2:4.1": "ms40P9_22, sc4",
+  "patthana9.2:5.1": "csp1ed40.110, csp2ed40.108, ms40P9_23, msdiv9, ndp41.54, sc5",
+  "patthana9.2:6.1": "ms40P9_24, sc6"
 }

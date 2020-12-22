@@ -1,6 +1,6 @@
 {
-  "pv42:0.1": "<header><p class='division'>{}</p>",
-  "pv42:0.2": "<p>{}</p>",
+  "pv42:0.1": "<article id='pv42'><header><ul><li class='division'>{}</li>",
+  "pv42:0.2": "<li>{}</li></ul>",
   "pv42:0.3": "<h1>{}</h1></header>",
   "pv42:1.1": "<blockquote class='gatha'><p>{}<br>",
   "pv42:1.2": "{}<br>",
@@ -54,5 +54,5 @@
   "pv42:13.2": "{}<br>",
   "pv42:13.3": "{}<br>",
   "pv42:13.4": "{}</p></blockquote>",
-  "pv42:14.1": "<p class='endsutta'>{}</p>"
+  "pv42:14.1": "<p class='endsutta'>{}</p></article>"
 }

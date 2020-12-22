@@ -1,6 +1,6 @@
 {
-  "ya3.1.1:0.1": "<header><p class='division'>{}</p>",
-  "ya3.1.1:0.2": "<p>{}</p>",
+  "ya3.1.1:0.1": "<article id='ya3.1.1'><header><ul><li class='division'>{}</li>",
+  "ya3.1.1:0.2": "<li>{}</li></ul>",
   "ya3.1.1:0.3": "<h1>{}</h1></header>",
   "ya3.1.1:1.1": "<p class='namo'>{}</p>",
   "ya3.1.1:2.1": "<p>{}</p>",
@@ -198,5 +198,5 @@
   "ya3.1.1:182.1": "<p>{}</p>",
   "ya3.1.1:183.1": "<p>{}</p>",
   "ya3.1.1:184.1": "<p class='end'>{}</p>",
-  "ya3.1.1:184.2": "<p class='endsutta'>{}</p>"
+  "ya3.1.1:184.2": "<p class='endsutta'>{}</p></article>"
 }

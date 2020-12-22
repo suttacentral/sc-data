@@ -1,6 +1,6 @@
 {
-  "ps2.6:0.1": "<header><p class='division'>{}</p>",
-  "ps2.6:0.2": "<p>{}</p>",
+  "ps2.6:0.1": "<article id='ps2.6'><header><ul><li class='division'>{}</li>",
+  "ps2.6:0.2": "<li>{}</li></ul>",
   "ps2.6:0.3": "<h1>{}</h1></header>",
   "ps2.6:1.0": "<h2>{}</h2>",
   "ps2.6:1.1": "<p><span class='evam'>{}</span>",
@@ -405,5 +405,5 @@
   "ps2.6:77.8": "{}</p>",
   "ps2.6:78.1": "<p>{}</p>",
   "ps2.6:79.1": "<p>{}</p>",
-  "ps2.6:79.2": "<p class='endsutta'>{}</p>"
+  "ps2.6:79.2": "<p class='endsutta'>{}</p></article>"
 }

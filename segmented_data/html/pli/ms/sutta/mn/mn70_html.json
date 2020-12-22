@@ -197,8 +197,9 @@
   "mn70:27.10": "{}</p>",
   "mn70:27.11": "<p class='endsection'>{}</p>",
   "mn70:27.12": "<p class='endsutta'>{}</p>",
-  "mn70:27.13": "<blockquote class='uddanagatha'><p>{}<br>",
-  "mn70:27.14": "{}<br>",
-  "mn70:27.15": "{}<br>",
-  "mn70:27.16": "{}</p></blockquote></article>"
+  "mn70:28.0": "<p class='uddana-intro'>{}</p>",
+  "mn70:28.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "mn70:28.2": "{}<br>",
+  "mn70:28.3": "{}<br>",
+  "mn70:28.4": "{}</p></blockquote></article>"
 }

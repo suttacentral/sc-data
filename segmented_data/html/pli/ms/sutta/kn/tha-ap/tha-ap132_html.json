@@ -1,6 +1,6 @@
 {
-  "tha-ap132:0.1": "<header><p class='division'>{}</p>",
-  "tha-ap132:0.2": "<p>{}</p>",
+  "tha-ap132:0.1": "<article id='tha-ap132'><header><ul><li class='division'>{}</li>",
+  "tha-ap132:0.2": "<li>{}</li></ul>",
   "tha-ap132:0.3": "<h1>{}</h1></header>",
   "tha-ap132:1.1": "<blockquote class='gatha'><p>{}<br>",
   "tha-ap132:1.2": "{}<br>",
@@ -46,5 +46,5 @@
   "tha-ap132:14.3": "{}<br>",
   "tha-ap132:14.4": "{}<br>",
   "tha-ap132:14.5": "{}<br>",
-  "tha-ap132:14.6": "{}</p></blockquote>"
+  "tha-ap132:14.6": "{}</p></blockquote></article>"
 }

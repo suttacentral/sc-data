@@ -1,7 +1,7 @@
 {
-  "cp35:0.1": "<header><p class='division'>{}</p>",
-  "cp35:0.2": "<p>{}</p>",
-  "cp35:0.3": "<p>{}</p>",
+  "cp35:0.1": "<article id='cp35'><header><ul><li class='division'>{}</li>",
+  "cp35:0.2": "<li>{}</li>",
+  "cp35:0.3": "<li>{}</li></ul>",
   "cp35:0.4": "<h1>{}</h1></header>",
   "cp35:1.1": "<blockquote class='gatha'><p>{}<br>",
   "cp35:1.2": "{}<br>",
@@ -65,5 +65,5 @@
   "cp35:17.3": "{}<br>",
   "cp35:17.4": "{}</p></blockquote>",
   "cp35:18.1": "<p>{}</p>",
-  "cp35:19.1": "<p class='endbook'>{}</p>"
+  "cp35:19.1": "<p class='endbook'>{}</p></article>"
 }

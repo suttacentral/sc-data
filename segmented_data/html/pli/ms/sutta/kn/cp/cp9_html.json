@@ -1,7 +1,7 @@
 {
-  "cp9:0.1": "<header><p class='division'>{}</p>",
-  "cp9:0.2": "<p>{}</p>",
-  "cp9:0.3": "<p>{}</p>",
+  "cp9:0.1": "<article id='cp9'><header><ul><li class='division'>{}</li>",
+  "cp9:0.2": "<li>{}</li>",
+  "cp9:0.3": "<li>{}</li></ul>",
   "cp9:0.4": "<h1>{}</h1></header>",
   "cp9:1.1": "<blockquote class='gatha'><p>{}<br>",
   "cp9:1.2": "{}<br>",
@@ -237,5 +237,5 @@
   "cp9:58.2": "{}<br>",
   "cp9:58.3": "{}<br>",
   "cp9:58.4": "{}</p></blockquote>",
-  "cp9:59.1": "<p class='endsutta'>{}</p>"
+  "cp9:59.1": "<p class='endsutta'>{}</p></article>"
 }

@@ -1,13 +1,13 @@
 {
-  "vv46:1.1": "sc1, vns560, ms19Vv_621, msdiv783",
-  "vv46:2.1": "sc2, vns561, ms19Vv_622, msdiv784",
-  "vv46:3.1": "sc3, vns562, ms19Vv_623, msdiv785-786",
-  "vv46:4.1": "sc4, vns563, ms19Vv_624, msdiv787",
-  "vv46:5.1": "sc5, vns564, ms19Vv_625, msdiv788",
-  "vv46:6.1": "sc6, vns565, ms19Vv_626, msdiv789",
-  "vv46:7.1": "sc7, vns566, ms19Vv_627, msdiv790",
-  "vv46:8.1": "sc8, vns567, ms19Vv_628, msdiv791",
-  "vv46:9.1": "sc9, vns568, pts-vp-pli2ed68, ms19Vv_629, msdiv792",
-  "vv46:10.1": "sc10, vns569, ms19Vv_630, msdiv793-794",
-  "vv46:11.1": "sc11, ms19Vv_631"
+  "vv46:1.1": "ms19Vv_621, msdiv783, sc1, vns560",
+  "vv46:2.1": "ms19Vv_622, msdiv784, sc2, vns561",
+  "vv46:3.1": "csp1ed19.65, csp2ed19.65, ms19Vv_623, msdiv785-786, sc3, vns562",
+  "vv46:4.1": "ms19Vv_624, msdiv787, sc4, sya26.81, vns563",
+  "vv46:5.1": "dr26.91, ms19Vv_625, msdiv788, sc5, vns564",
+  "vv46:6.1": "ms19Vv_626, msdiv789, sc6, vns565",
+  "vv46:7.1": "ms19Vv_627, msdiv790, sc7, vns566",
+  "vv46:8.1": "ms19Vv_628, msdiv791, sc8, vns567",
+  "vv46:9.1": "bj26.110, ms19Vv_629, msdiv792, ndp21.70, pts-vp-pli2ed68, sc9, vns568",
+  "vv46:10.1": "ms19Vv_630, msdiv793-794, sc10, vns569",
+  "vv46:11.1": "ms19Vv_631, sc11"
 }

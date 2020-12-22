@@ -1,5 +1,5 @@
 {
-  "snp3.9:0.1": "<header><p class='division'>{}</p>",
+  "snp3.9:0.1": "<article id='snp3.9'><header><ul><li class='division'>{}</li></ul>",
   "snp3.9:0.2": "<h1>{}</h1></header>",
   "snp3.9:1.1": "<p><span class='evam'>{}</span>",
   "snp3.9:1.2": "{}",
@@ -51,9 +51,10 @@
   "snp3.9:11.5": "{}<br>",
   "snp3.9:11.6": "{}</p>",
   "snp3.9:12.1": "<p>{}<br>",
-  "snp3.9:12.2": "{}<br>",
+  "snp3.9:12.2": "<span class='speaker'>{}</span><br>",
   "snp3.9:12.3": "{}<br>",
-  "snp3.9:12.4": "{}</p>",
+  "snp3.9:12.4": "{}<br>",
+  "snp3.9:12.5": "{}</p>",
   "snp3.9:13.1": "<p>{}<br>",
   "snp3.9:13.2": "{}<br>",
   "snp3.9:13.3": "{}<br>",
@@ -287,5 +288,5 @@
   "snp3.9:69.1": "<p>{}",
   "snp3.9:69.2": "{}",
   "snp3.9:69.3": "{}</p>",
-  "snp3.9:69.4": "<p class='endsection'>{}</p>"
+  "snp3.9:69.4": "<p class='endsection'>{}</p></article>"
 }

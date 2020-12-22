@@ -1,7 +1,7 @@
 {
-  "ne22:0.1": "<header><p class='division'>{}</p>",
-  "ne22:0.2": "<p>{}</p>",
-  "ne22:0.3": "<p>{}</p>",
+  "ne22:0.1": "<article id='ne22'><header><ul><li class='division'>{}</li>",
+  "ne22:0.2": "<li>{}</li>",
+  "ne22:0.3": "<li>{}</li></ul>",
   "ne22:0.4": "<h1>{}</h1></header>",
   "ne22:1.1": "<p>{}</p>",
   "ne22:2.1": "<blockquote class='gatha'><p>{}<br>",
@@ -12,5 +12,5 @@
   "ne22:2.6": "{}</p></blockquote>",
   "ne22:3.1": "<p>{}",
   "ne22:3.2": "{}</p>",
-  "ne22:3.3": "<p class='endsutta'>{}</p>"
+  "ne22:3.3": "<p class='endsutta'>{}</p></article>"
 }

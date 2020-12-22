@@ -1,6 +1,6 @@
 {
-  "thi-ap35:0.1": "<header><p class='division'>{}</p>",
-  "thi-ap35:0.2": "<p>{}</p>",
+  "thi-ap35:0.1": "<article id='thi-ap35'><header><ul><li class='division'>{}</li>",
+  "thi-ap35:0.2": "<li>{}</li></ul>",
   "thi-ap35:0.3": "<h1>{}</h1></header>",
   "thi-ap35:1.1": "<blockquote class='gatha'><p>{}<br>",
   "thi-ap35:1.2": "{}<br>",
@@ -129,5 +129,5 @@
   "thi-ap35:32.3": "{}</p></blockquote>",
   "thi-ap35:33.1": "<p>{}</p>",
   "thi-ap35:34.1": "<p class='endsutta'>{}<br>",
-  "thi-ap35:34.2": "{}</p>"
+  "thi-ap35:34.2": "{}</p></article>"
 }

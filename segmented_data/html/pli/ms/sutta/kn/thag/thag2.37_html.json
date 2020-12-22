@@ -3,14 +3,13 @@
   "thag2.37:0.2": "<li>{}</li>",
   "thag2.37:0.3": "<li>{}</li></ul>",
   "thag2.37:0.4": "<h1 class='sutta-title'>{}</h1></header>",
-  "thag2.37:1.1": "<blockquote class='gatha'><p><a class='sc' id='1'></a><a class='vns' id='vns193'></a><a class='vnp' id='vnp193'></a>{}<br>",
+  "thag2.37:1.1": "<blockquote class='gatha'><p>{}<br>",
   "thag2.37:1.2": "{}<br>",
   "thag2.37:1.3": "{}<br>",
   "thag2.37:1.4": "{}</p>",
-  "thag2.37:2.1": "<p><a class='sc' id='2'></a><a class='vns' id='vns194'></a><a class='vnp' id='vnp194'></a>{}<br>",
+  "thag2.37:2.1": "<p>{}<br>",
   "thag2.37:2.2": "{}<br>",
   "thag2.37:2.3": "{}<br>",
   "thag2.37:2.4": "{}</p></blockquote>",
-  "thag2.37:2.5": "<p class='endsutta'>{}",
-  "thag2.37:2.6": "{}</p></article>"
+  "thag2.37:2.5": "<p class='endsutta'>{}</p></article>"
 }

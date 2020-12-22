@@ -1,11 +1,11 @@
 {
-  "iti73:0.1": "<header><p class='division'>{}</p>",
-  "iti73:0.2": "<p class='nipata'>{}</p>",
-  "iti73:0.3": "<p class='vagga'>{}</p>",
+  "iti73:0.1": "<article id='iti73'><header><ul><li class='division'>{}</li>",
+  "iti73:0.2": "<li class='nipata'>{}</li>",
+  "iti73:0.3": "<li class='vagga'>{}</li></ul>",
   "iti73:0.4": "<h1>{}</h1></header>",
   "iti73:1.1": "<p>{}</p>",
-  "iti73:2.1": "<p>{}",
-  "iti73:2.2": "{}",
+  "iti73:2.1": "<p>{}</p>",
+  "iti73:2.2": "<p>{}",
   "iti73:2.3": "{}</p>",
   "iti73:3.1": "<blockquote class='gatha'><p>{}<br>",
   "iti73:3.2": "{}<br>",
@@ -22,5 +22,5 @@
   "iti73:5.5": "{}<br>",
   "iti73:5.6": "{}</p></blockquote>",
   "iti73:6.1": "<p>{}</p>",
-  "iti73:6.2": "<p class='endsection'>{}</p>"
+  "iti73:6.2": "<p class='endsection'>{}</p></article>"
 }

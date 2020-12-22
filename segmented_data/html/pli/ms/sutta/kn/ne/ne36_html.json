@@ -1,5 +1,5 @@
 {
-  "ne36:0.1": "<header><p class='division'>{}</p>",
+  "ne36:0.1": "<article id='ne36'><header><ul><li class='division'>{}</li></ul>",
   "ne36:0.2": "<h1>{}</h1></header>",
   "ne36:1.1": "<p>{}",
   "ne36:1.2": "{}",
@@ -291,5 +291,5 @@
   "ne36:62.1": "<p>{}</p>",
   "ne36:63.1": "<p>{}",
   "ne36:63.2": "{}</p>",
-  "ne36:63.3": "<p class='endsutta'>{}</p>"
+  "ne36:63.3": "<p class='endsutta'>{}</p></article>"
 }

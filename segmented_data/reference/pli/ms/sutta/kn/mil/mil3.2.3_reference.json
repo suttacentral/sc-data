@@ -1,11 +1,11 @@
 {
-  "mil3.2.3:1.1": "sc1, pts-vp-pli42, ms28Mi_188, msdiv42",
-  "mil3.2.3:2.1": "sc2, ms28Mi_189",
-  "mil3.2.3:3.1": "sc3, ms28Mi_190",
-  "mil3.2.3:4.1": "sc4, ms28Mi_191",
-  "mil3.2.3:5.1": "sc5, pts-vp-pli43, ms28Mi_192",
-  "mil3.2.3:6.1": "sc6, pts-vp-pli44, ms28Mi_193",
-  "mil3.2.3:7.1": "sc7, ms28Mi_194",
-  "mil3.2.3:8.1": "sc8, ms28Mi_195",
-  "mil3.2.3:9.1": "sc9, ms28Mi_196"
+  "mil3.2.3:1.1": "bj37, csp1ed28.42, csp2ed28.42, maku60, ms28Mi_188, msdiv42, pts-vp-pli42, sc1",
+  "mil3.2.3:2.1": "ms28Mi_189, sc2",
+  "mil3.2.3:3.1": "ms28Mi_190, sc3",
+  "mil3.2.3:4.1": "bj38, maku61, ms28Mi_191, sc4, vri81.42",
+  "mil3.2.3:5.1": "csp1ed28.43, csp2ed28.43, ms28Mi_192, pts-vp-pli43, sc5",
+  "mil3.2.3:6.1": "maku62, ms28Mi_193, pts-vp-pli44, sc6, vri81.43",
+  "mil3.2.3:7.1": "csp1ed28.44, csp2ed28.44, maku63, ms28Mi_194, sc7",
+  "mil3.2.3:8.1": "ms28Mi_195, sc8",
+  "mil3.2.3:9.1": "ms28Mi_196, sc9"
 }
