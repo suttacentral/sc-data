@@ -1,0 +1,10 @@
+{
+  "mil4.5:0.1": "<article id='mil4.5'><header><ul><li class='division'>{}</li>",
+  "mil4.5:0.2": "<li>{}</li>",
+  "mil4.5:0.3": "<li>{}</li></ul>",
+  "mil4.5:0.4": "<h1>{}</h1></header>",
+  "mil4.5:1.1": "<p>{}",
+  "mil4.5:1.2": "{}</p>",
+  "mil4.5:2.1": "<p>{}",
+  "mil4.5:2.2": "{}</p></article>"
+}

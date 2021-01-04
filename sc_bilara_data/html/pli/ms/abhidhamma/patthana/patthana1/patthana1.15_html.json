@@ -1,0 +1,16 @@
+{
+  "patthana1.15:0.1": "<article id='patthana1.15'><header><ul><li class='division'>{}</li>",
+  "patthana1.15:0.2": "<li class='subdivision'>{}</li></ul>",
+  "patthana1.15:0.3": "<h1>{}</h1></header>",
+  "patthana1.15:1.0.1": "<h5>{}</h5>",
+  "patthana1.15:1.0.2": "<h6>{}</h6>",
+  "patthana1.15:1.1": "<p>{}</p>",
+  "patthana1.15:2.1": "<p>{}</p>",
+  "patthana1.15:3.1": "<p>{}</p>",
+  "patthana1.15:4.1": "<p>{}</p>",
+  "patthana1.15:5.1": "<p>{}</p>",
+  "patthana1.15:6.1": "<p>{}</p>",
+  "patthana1.15:7.1": "<p>{}</p>",
+  "patthana1.15:8.1": "<p class='pe'>{}</p>",
+  "patthana1.15:9.1": "<p class='endsection'>{}</p></article>"
+}

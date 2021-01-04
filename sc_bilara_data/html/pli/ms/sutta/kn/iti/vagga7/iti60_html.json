@@ -1,0 +1,23 @@
+{
+  "iti60:0.1": "<article id='iti60'><header><ul><li class='division'>{}</li>",
+  "iti60:0.2": "<li class='nipata'>{}</li>",
+  "iti60:0.3": "<li class='vagga'>{}</li></ul>",
+  "iti60:0.4": "<h1>{}</h1></header>",
+  "iti60:1.1": "<p>{}</p>",
+  "iti60:2.1": "<p>{}",
+  "iti60:2.2": "{}",
+  "iti60:2.3": "{}",
+  "iti60:2.4": "{}</p>",
+  "iti60:2.5": "<p>{}",
+  "iti60:2.6": "{}</p>",
+  "iti60:3.1": "<blockquote class='gatha'><p>{}<br>",
+  "iti60:3.2": "{}<br>",
+  "iti60:3.3": "{}<br>",
+  "iti60:3.4": "{}</p>",
+  "iti60:4.1": "<p>{}<br>",
+  "iti60:4.2": "{}<br>",
+  "iti60:4.3": "{}<br>",
+  "iti60:4.4": "{}</p></blockquote>",
+  "iti60:5.1": "<p>{}</p>",
+  "iti60:5.2": "<p class='endsection'>{}</p></article>"
+}

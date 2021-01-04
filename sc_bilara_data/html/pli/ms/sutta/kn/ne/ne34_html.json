@@ -1,0 +1,10 @@
+{
+  "ne34:0.1": "<article id='ne34'><header><ul><li class='division'>{}</li>",
+  "ne34:0.2": "<li>{}</li>",
+  "ne34:0.3": "<li>{}</li></ul>",
+  "ne34:0.4": "<h1>{}</h1></header>",
+  "ne34:1.1": "<p>{}</p>",
+  "ne34:2.1": "<p>{}",
+  "ne34:2.2": "{}</p>",
+  "ne34:2.3": "<p class='endsutta'>{}</p></article>"
+}

@@ -1,0 +1,11 @@
+{
+  "thag1.54:0.1": "<article id='thag1.54'><header><ul><li class='division'>{}</li>",
+  "thag1.54:0.2": "<li>{}</li>",
+  "thag1.54:0.3": "<li>{}</li></ul>",
+  "thag1.54:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+  "thag1.54:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "thag1.54:1.2": "{}<br>",
+  "thag1.54:1.3": "{}<br>",
+  "thag1.54:1.4": "{}</p></blockquote>",
+  "thag1.54:1.5": "<p class='endsutta'>{}</p></article>"
+}

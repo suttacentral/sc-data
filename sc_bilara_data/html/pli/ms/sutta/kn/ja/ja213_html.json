@@ -1,0 +1,15 @@
+{
+  "ja213:0.1": "<article id='ja213'><header><ul><li class='division'>{}</li>",
+  "ja213:0.2": "<li>{}</li>",
+  "ja213:0.3": "<li>{}</li></ul>",
+  "ja213:0.4": "<h1>{}</h1></header>",
+  "ja213:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja213:1.2": "{}<br>",
+  "ja213:1.3": "{}<br>",
+  "ja213:1.4": "{}</p>",
+  "ja213:2.1": "<p>{}<br>",
+  "ja213:2.2": "{}<br>",
+  "ja213:2.3": "{}<br>",
+  "ja213:2.4": "{}</p></blockquote>",
+  "ja213:3.1": "<p class='endsutta'>{}</p></article>"
+}

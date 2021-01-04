@@ -1,0 +1,16 @@
+{
+  "an9.10:0.1": "<article id='an9.10'><header><ul><li class='division'>{}</li>",
+  "an9.10:0.2": "<li>{}</li></ul>",
+  "an9.10:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "an9.10:1.1": "<p>{}",
+  "an9.10:1.2": "{}",
+  "an9.10:1.3": "{}",
+  "an9.10:1.4": "{}</p>",
+  "an9.10:1.5": "<p class='endsection'>{}</p>",
+  "an9.10:1.6": "<p class='endsection'>{}</p>",
+  "an9.10:2.0": "<p class='uddana-intro'>{}</p>",
+  "an9.10:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "an9.10:2.2": "{}<br>",
+  "an9.10:2.3": "{}<br>",
+  "an9.10:2.4": "{}</p></blockquote></article>"
+}

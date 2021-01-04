@@ -1,0 +1,6 @@
+{
+  "dt1.5:0.1": "<article id='dt1.5'><header><ul><li class='division'>{}</li>",
+  "dt1.5:0.2": "<li>{}</li></ul>",
+  "dt1.5:0.3": "<h1>{}</h1></header>",
+  "dt1.5:1.1": "<p>{}</p></article>"
+}

@@ -1,0 +1,19 @@
+{
+  "sn35.83:0.1": "<article id='sn35.83'><header><ul><li class='division'>{}</li>",
+  "sn35.83:0.2": "<li>{}</li></ul>",
+  "sn35.83:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "sn35.83:1.1": "<p>{}</p>",
+  "sn35.83:2.1": "<p>{}</p>",
+  "sn35.83:2.2": "<p>{}",
+  "sn35.83:2.3": "{}</p>",
+  "sn35.83:3.1": "<p>{}</p>",
+  "sn35.83:3.2": "<p>{}",
+  "sn35.83:3.3": "{}</p>",
+  "sn35.83:3.4": "<p class='endsection'>{}</p>",
+  "sn35.83:3.5": "<p class='endsection'>{}</p>",
+  "sn35.83:4.0": "<p class='uddana-intro'>{}</p>",
+  "sn35.83:4.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "sn35.83:4.2": "{}<br>",
+  "sn35.83:4.3": "{}<br>",
+  "sn35.83:4.4": "{}</p></blockquote></article>"
+}

@@ -1,0 +1,14 @@
+{
+  "mil6.2.10:0.1": "<article id='mil6.2.10'><header><ul><li class='division'>{}</li>",
+  "mil6.2.10:0.2": "<li>{}</li>",
+  "mil6.2.10:0.3": "<li>{}</li></ul>",
+  "mil6.2.10:0.4": "<h1>{}</h1></header>",
+  "mil6.2.10:1.1": "<p>{}",
+  "mil6.2.10:1.2": "{}</p>",
+  "mil6.2.10:2.1": "<p>{}",
+  "mil6.2.10:2.2": "{}",
+  "mil6.2.10:2.3": "{}</p>",
+  "mil6.2.10:3.1": "<p class='endsutta'>{}</p>",
+  "mil6.2.10:4.1": "<p class='endsection'>{}</p>",
+  "mil6.2.10:5.1": "<p class='endsutta'>{}</p></article>"
+}

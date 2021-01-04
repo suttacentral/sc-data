@@ -1,0 +1,12 @@
+{
+  "patthana16.6:0.1": "<article id='patthana16.6'><header><ul><li class='division'>{}</li>",
+  "patthana16.6:0.2": "<li class='subdivision'>{}</li></ul>",
+  "patthana16.6:0.3": "<h1>{}</h1></header>",
+  "patthana16.6:1.1": "<p>{}</p>",
+  "patthana16.6:2.1": "<p>{}</p>",
+  "patthana16.6:3.1": "<p>{}</p>",
+  "patthana16.6:4.1": "<p>{}</p>",
+  "patthana16.6:5.1": "<p>{}</p>",
+  "patthana16.6:6.1": "<p>{}</p>",
+  "patthana16.6:7.1": "<p class='endsutta'>{}</p></article>"
+}

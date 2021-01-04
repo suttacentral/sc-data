@@ -1,0 +1,42 @@
+{
+  "pli": {
+    "type": "language",
+    "name": "Pali",
+    "is_root": true
+  },
+  "lzh": {
+    "type": "language",
+    "name": "Classical Chinese",
+    "is_root": true
+  },
+  "en": {
+    "type": "language",
+    "name": "English",
+    "is_root": false
+  },
+  "de": {
+    "type": "language",
+    "name": "Deutsch",
+    "is_root": false
+  },
+  "pt": {
+    "type": "language",
+    "name": "Português",
+    "is_root": false
+  },
+  "jpn": {
+    "type": "language",
+    "name": "日本語",
+    "is_root": false
+  },
+  "ru": {
+    "type": "language",
+    "name": "ру́сский язы́к",
+    "is_root": false
+  },
+  "my": {
+    "type": "language",
+    "name": "မြန်မာစာ",
+    "is_root": false
+  }
+}

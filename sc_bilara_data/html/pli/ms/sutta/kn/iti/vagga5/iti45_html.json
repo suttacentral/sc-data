@@ -1,0 +1,22 @@
+{
+  "iti45:0.1": "<article id='iti45'><header><ul><li class='division'>{}</li>",
+  "iti45:0.2": "<li class='nipata'>{}</li>",
+  "iti45:0.3": "<li class='vagga'>{}</li></ul>",
+  "iti45:0.4": "<h1>{}</h1></header>",
+  "iti45:1.1": "<p>{}</p>",
+  "iti45:2.1": "<p>{}",
+  "iti45:2.2": "{}",
+  "iti45:2.3": "{}</p>",
+  "iti45:2.4": "<p>{}",
+  "iti45:2.5": "{}</p>",
+  "iti45:3.1": "<blockquote class='gatha'><p>{}<br>",
+  "iti45:3.2": "{}<br>",
+  "iti45:3.3": "{}<br>",
+  "iti45:3.4": "{}</p>",
+  "iti45:4.1": "<p>{}<br>",
+  "iti45:4.2": "{}<br>",
+  "iti45:4.3": "{}<br>",
+  "iti45:4.4": "{}</p></blockquote>",
+  "iti45:5.1": "<p>{}</p>",
+  "iti45:5.2": "<p class='endsection'>{}</p></article>"
+}

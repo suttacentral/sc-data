@@ -1,0 +1,13 @@
+{
+  "ja104:0.1": "<article id='ja104'><header><ul><li class='division'>{}</li>",
+  "ja104:0.2": "<li>{}</li>",
+  "ja104:0.3": "<li>{}</li></ul>",
+  "ja104:0.4": "<h1>{}</h1></header>",
+  "ja104:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja104:1.2": "{}<br>",
+  "ja104:1.3": "{}<br>",
+  "ja104:1.4": "{}<br>",
+  "ja104:1.5": "{}<br>",
+  "ja104:1.6": "{}</p></blockquote>",
+  "ja104:2.1": "<p class='endsutta'>{}</p></article>"
+}

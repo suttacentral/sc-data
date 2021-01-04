@@ -1,0 +1,22 @@
+{
+  "tha-ap346:0.1": "<article id='tha-ap346'><header><ul><li class='division'>{}</li>",
+  "tha-ap346:0.2": "<li>{}</li></ul>",
+  "tha-ap346:0.3": "<h1>{}</h1></header>",
+  "tha-ap346:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "tha-ap346:1.2": "{}<br>",
+  "tha-ap346:1.3": "{}<br>",
+  "tha-ap346:1.4": "{}</p>",
+  "tha-ap346:2.1": "<p>{}<br>",
+  "tha-ap346:2.2": "{}<br>",
+  "tha-ap346:2.3": "{}<br>",
+  "tha-ap346:2.4": "{}</p>",
+  "tha-ap346:3.1": "<p>{}<br>",
+  "tha-ap346:3.2": "{}<br>",
+  "tha-ap346:3.3": "{}<br>",
+  "tha-ap346:3.4": "{}</p>",
+  "tha-ap346:4.1": "<p>{}<br>",
+  "tha-ap346:4.2": "{}<br>",
+  "tha-ap346:4.3": "{}</p></blockquote>",
+  "tha-ap346:5.1": "<p>{}</p>",
+  "tha-ap346:6.1": "<p class='endsutta'>{}</p></article>"
+}

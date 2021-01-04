@@ -1,0 +1,9 @@
+{
+  "patthana2.6-7:0.1": "<article id='patthana2.6-7'><header><ul><li class='division'>{}</li>",
+  "patthana2.6-7:0.2": "<li class='subdivision'>{}</li></ul>",
+  "patthana2.6-7:0.3": "<h1>{}</h1></header>",
+  "patthana2.6-7:1.0": "<h2>{}</h2>",
+  "patthana2.6-7:1.1": "<p>{}</p>",
+  "patthana2.6-7:2.1": "<p>{}</p>",
+  "patthana2.6-7:3.1": "<p class='endsection'>{}</p></article>"
+}

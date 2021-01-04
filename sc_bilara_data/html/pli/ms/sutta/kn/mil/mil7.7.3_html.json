@@ -1,0 +1,17 @@
+{
+  "mil7.7.3:0.1": "<article id='mil7.7.3'><header><ul><li class='division'>{}</li>",
+  "mil7.7.3:0.2": "<li>{}</li>",
+  "mil7.7.3:0.3": "<li>{}</li></ul>",
+  "mil7.7.3:0.4": "<h1>{}</h1></header>",
+  "mil7.7.3:1.1": "<p>{}",
+  "mil7.7.3:1.2": "{}",
+  "mil7.7.3:1.3": "{}",
+  "mil7.7.3:1.4": "{}",
+  "mil7.7.3:1.5": "{}",
+  "mil7.7.3:1.6": "{}</p>",
+  "mil7.7.3:2.1": "<blockquote class='gatha'><p>{}<br>",
+  "mil7.7.3:2.2": "{}<br>",
+  "mil7.7.3:2.3": "{}<br>",
+  "mil7.7.3:2.4": "{}</p></blockquote>",
+  "mil7.7.3:3.1": "<p class='endsutta'>{}</p></article>"
+}

@@ -1,0 +1,15 @@
+{
+  "sn2.19:0.1": "<article id='sn2.19'><header><ul><li class='division'>{}</li>",
+  "sn2.19:0.2": "<li>{}</li></ul>",
+  "sn2.19:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "sn2.19:1.1": "<p>{}",
+  "sn2.19:1.2": "{}</p>",
+  "sn2.19:2.1": "<blockquote class='gatha'><p>{}<br>",
+  "sn2.19:2.2": "{}<br>",
+  "sn2.19:2.3": "{}<br>",
+  "sn2.19:2.4": "{}</p>",
+  "sn2.19:3.1": "<p>{}<br>",
+  "sn2.19:3.2": "{}<br>",
+  "sn2.19:3.3": "{}<br>",
+  "sn2.19:3.4": "{}</p></blockquote></article>"
+}

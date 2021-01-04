@@ -1,0 +1,8 @@
+{
+  "pp1.9:0.1": "<article id='pp1.9'><header><ul><li class='division'>{}</li>",
+  "pp1.9:0.2": "<li>{}</li></ul>",
+  "pp1.9:0.3": "<h1>{}</h1></header>",
+  "pp1.9:1.1": "<p>{}</p>",
+  "pp1.9:2.1": "<p>{}</p>",
+  "pp1.9:3.1": "<p class='endsutta'>{}</p></article>"
+}

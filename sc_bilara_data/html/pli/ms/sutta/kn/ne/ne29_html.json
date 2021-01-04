@@ -1,0 +1,12 @@
+{
+  "ne29:0.1": "<article id='ne29'><header><ul><li class='division'>{}</li>",
+  "ne29:0.2": "<li>{}</li>",
+  "ne29:0.3": "<li>{}</li></ul>",
+  "ne29:0.4": "<h1>{}</h1></header>",
+  "ne29:1.1": "<p>{}</p>",
+  "ne29:2.1": "<p>{}",
+  "ne29:2.2": "{}",
+  "ne29:2.3": "{}",
+  "ne29:2.4": "{}</p>",
+  "ne29:2.5": "<p class='endsutta'>{}</p></article>"
+}

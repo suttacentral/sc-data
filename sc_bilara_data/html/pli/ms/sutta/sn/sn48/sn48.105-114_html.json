@@ -1,0 +1,11 @@
+{
+  "sn48.105-114:0.1": "<article id='sn48.105-114'><header><ul><li class='division'>{}</li>",
+  "sn48.105-114:0.2": "<li>{}</li></ul>",
+  "sn48.105-114:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "sn48.105-114:1.1": "<p>{}</p>",
+  "sn48.105-114:2.0": "<p class='uddana-intro'>{}</p>",
+  "sn48.105-114:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "sn48.105-114:2.2": "{}<br>",
+  "sn48.105-114:2.3": "{}<br>",
+  "sn48.105-114:2.4": "{}</p></blockquote></article>"
+}

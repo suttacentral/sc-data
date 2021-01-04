@@ -1,0 +1,22 @@
+{
+  "ud5.10:0.1": "<article id='ud5.10'><header><ul><li class='division'>{}</li></ul>",
+  "ud5.10:0.2": "<h1>{}</h1></header>",
+  "ud5.10:1.1": "<p><span class='evam'>{}</span>",
+  "ud5.10:1.2": "{}",
+  "ud5.10:1.3": "{}</p>",
+  "ud5.10:2.1": "<p>{}</p>",
+  "ud5.10:3.1": "<p>{}</p>",
+  "ud5.10:4.1": "<blockquote class='gatha'><p>{}<br>",
+  "ud5.10:4.2": "{}<br>",
+  "ud5.10:4.3": "{}<br>",
+  "ud5.10:4.4": "{}<br>",
+  "ud5.10:4.5": "{}<br>",
+  "ud5.10:4.6": "{}</p></blockquote>",
+  "ud5.10:4.7": "<p class='endsection'>{}</p>",
+  "ud5.10:4.8": "<p class='endsection'>{}</p>",
+  "ud5.10:5.0": "<p class='uddana-intro'>{}</p>",
+  "ud5.10:5.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "ud5.10:5.2": "{}<br>",
+  "ud5.10:5.3": "{}<br>",
+  "ud5.10:5.4": "{}</p></blockquote></article>"
+}

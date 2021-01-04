@@ -1,0 +1,21 @@
+{
+  "ja210:0.1": "<article id='ja210'><header><ul><li class='division'>{}</li>",
+  "ja210:0.2": "<li>{}</li>",
+  "ja210:0.3": "<li>{}</li></ul>",
+  "ja210:0.4": "<h1>{}</h1></header>",
+  "ja210:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja210:1.2": "{}<br>",
+  "ja210:1.3": "{}<br>",
+  "ja210:1.4": "{}</p>",
+  "ja210:2.1": "<p>{}<br>",
+  "ja210:2.2": "{}<br>",
+  "ja210:2.3": "{}<br>",
+  "ja210:2.4": "{}</p></blockquote>",
+  "ja210:3.1": "<p class='endsutta'>{}</p>",
+  "ja210:3.2": "<p class='endvagga'>{}</p>",
+  "ja210:4.1": "<p class='uddana-intro'>{}</p>",
+  "ja210:5.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "ja210:5.2": "{}<br>",
+  "ja210:5.3": "{}<br>",
+  "ja210:5.4": "{}</p></blockquote></article>"
+}

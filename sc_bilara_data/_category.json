@@ -1,0 +1,29 @@
+{
+  "comment": {
+    "type": "category",
+    "name": "A note on the text."
+  },
+  "html": {
+    "type": "category",
+    "name": "HTML markup"
+  },
+  "reference": {
+    "type": "category",
+    "name": "reference",
+    "description": "References to multiple editions of the root texts."
+  },
+  "root": {
+    "type": "category",
+    "name": "Root text",
+    "description": "Text derived from a manuscript. Also may include modern text such as UI, etc."
+  },
+  "translation": {
+    "type": "category",
+    "name": "Translation",
+    "description": "Modern translation of a root text"
+  },
+  "variant": {
+    "type": "category",
+    "name": "A variant reading of the root text."
+  }
+}

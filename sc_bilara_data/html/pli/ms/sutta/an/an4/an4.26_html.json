@@ -1,0 +1,18 @@
+{
+  "an4.26:0.1": "<article id='an4.26'><header><ul><li class='division'>{}</li>",
+  "an4.26:0.2": "<li>{}</li></ul>",
+  "an4.26:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "an4.26:1.1": "<p>{}",
+  "an4.26:1.2": "{}</p>",
+  "an4.26:1.3": "<p>{}",
+  "an4.26:1.4": "{}</p>",
+  "an4.26:2.1": "<blockquote class='gatha'><p>{}<br>",
+  "an4.26:2.2": "{}<br>",
+  "an4.26:2.3": "{}<br>",
+  "an4.26:2.4": "{}</p>",
+  "an4.26:3.1": "<p>{}<br>",
+  "an4.26:3.2": "{}<br>",
+  "an4.26:3.3": "{}<br>",
+  "an4.26:3.4": "{}</p></blockquote>",
+  "an4.26:3.5": "<p class='endsection'>{}</p></article>"
+}

@@ -1,0 +1,10 @@
+{
+  "pv48:0.1": "<article id='pv48'><header><ul><li class='division'>{}</li>",
+  "pv48:0.2": "<li>{}</li></ul>",
+  "pv48:0.3": "<h1>{}</h1></header>",
+  "pv48:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "pv48:1.2": "{}<br>",
+  "pv48:1.3": "{}<br>",
+  "pv48:1.4": "{}</p></blockquote>",
+  "pv48:2.1": "<p class='endsutta'>{}</p></article>"
+}

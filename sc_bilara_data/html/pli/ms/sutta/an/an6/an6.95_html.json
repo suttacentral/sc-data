@@ -1,0 +1,18 @@
+{
+  "an6.95:0.1": "<article id='an6.95'><header><ul><li class='division'>{}</li>",
+  "an6.95:0.2": "<li>{}</li></ul>",
+  "an6.95:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "an6.95:1.1": "<p>{}",
+  "an6.95:1.2": "{}",
+  "an6.95:1.3": "{}",
+  "an6.95:1.4": "{}",
+  "an6.95:1.5": "{}",
+  "an6.95:1.6": "{}</p>",
+  "an6.95:1.7": "<p class='endsection'>{}</p>",
+  "an6.95:1.8": "<p class='endsection'>{}</p>",
+  "an6.95:2.0": "<p class='uddana-intro'>{}</p>",
+  "an6.95:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "an6.95:2.2": "{}<br>",
+  "an6.95:2.3": "{}<br>",
+  "an6.95:2.4": "{}</p></blockquote></article>"
+}

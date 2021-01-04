@@ -1,0 +1,27 @@
+{
+  "ms": {
+    "type": "edition",
+    "is_root": true,
+    "language": "pli"
+  },
+  "dpcv": {
+    "type": "edition",
+    "is_root": true,
+    "language": "pli"
+  },
+  "bj": {
+    "type": "edition",
+    "is_root": true,
+    "language": "pli"
+  },
+    "vri": {
+    "type": "edition",
+    "is_root": true,
+    "language": "pli"
+  },
+  "cbeta": {
+    "type": "edition",
+    "is_root": true,
+    "language": "lzh"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ja50:0.1": "<article id='ja50'><header><ul><li class='division'>{}</li>",
+  "ja50:0.2": "<li>{}</li>",
+  "ja50:0.3": "<li>{}</li></ul>",
+  "ja50:0.4": "<h1>{}</h1></header>",
+  "ja50:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "ja50:1.2": "{}<br>",
+  "ja50:1.3": "{}<br>",
+  "ja50:1.4": "{}</p></blockquote>",
+  "ja50:2.1": "<p class='endsutta'>{}</p>",
+  "ja50:2.2": "<p class='endvagga'>{}</p>",
+  "ja50:3.1": "<p class='uddana-intro'>{}</p>",
+  "ja50:4.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "ja50:4.2": "{}<br>",
+  "ja50:4.3": "{}<br>",
+  "ja50:4.4": "{}</p></blockquote>",
+  "ja50:5.1": "<p class='endsutta'>{}</p></article>"
+}

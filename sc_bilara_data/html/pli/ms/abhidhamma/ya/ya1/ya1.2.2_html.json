@@ -1,0 +1,14 @@
+{
+  "ya1.2.2:0.1": "<article id='ya1.2.2'><header><ul><li class='division'>{}</li>",
+  "ya1.2.2:0.2": "<li>{}</li></ul>",
+  "ya1.2.2:0.3": "<h1>{}</h1></header>",
+  "ya1.2.2:1.1": "<p>{}</p>",
+  "ya1.2.2:2.1": "<p>{}</p>",
+  "ya1.2.2:3.1": "<p>{}</p>",
+  "ya1.2.2:4.1": "<blockquote class='gatha'><p>{}<br>",
+  "ya1.2.2:4.2": "{}<br>",
+  "ya1.2.2:4.3": "{}<br>",
+  "ya1.2.2:4.4": "{}</p></blockquote>",
+  "ya1.2.2:5.1": "<p class='endsection'>{}</p>",
+  "ya1.2.2:6.1": "<p class='endbook'>{}</p></article>"
+}

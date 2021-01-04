@@ -1,0 +1,13 @@
+{
+  "vv69:0.1": "<article id='vv69'><header><ul><li class='division'>{}</li>",
+  "vv69:0.2": "<li>{}</li>",
+  "vv69:0.3": "<li>{}</li></ul>",
+  "vv69:0.4": "<h1>{}</h1></header>",
+  "vv69:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "vv69:1.2": "{}</p></blockquote>",
+  "vv69:2.1": "<p class='endsutta'>{}</p>",
+  "vv69:3.1": "<blockquote class='uddanagatha'><p>{}<br>",
+  "vv69:3.2": "{}<br>",
+  "vv69:3.3": "{}</p></blockquote>",
+  "vv69:4.1": "<p class='endsutta'>{}</p></article>"
+}

@@ -1,0 +1,16 @@
+{
+  "ud1.7:0.1": "<article id='ud1.7'><header><ul><li class='division'>{}</li></ul>",
+  "ud1.7:0.2": "<h1>{}</h1></header>",
+  "ud1.7:1.1": "<p><span class='evam'>{}</span>",
+  "ud1.7:1.2": "{}",
+  "ud1.7:1.3": "{}",
+  "ud1.7:1.4": "{}",
+  "ud1.7:1.5": "{}",
+  "ud1.7:1.6": "{}</p>",
+  "ud1.7:2.1": "<p>{}</p>",
+  "ud1.7:3.1": "<blockquote class='gatha'><p>{}<br>",
+  "ud1.7:3.2": "{}<br>",
+  "ud1.7:3.3": "{}<br>",
+  "ud1.7:3.4": "{}</p></blockquote>",
+  "ud1.7:3.5": "<p class='endsection'>{}</p></article>"
+}
