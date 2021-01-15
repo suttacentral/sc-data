@@ -11412,7 +11412,7 @@
         "parallels": ["dhp307","iti48#4","iti91#4","pdhp113","pli-tv-bu-vb-pj4#15","t210.30#vgns30.2","t210.34#vgns34.29","t212.12#vgns12.8","t213.11#vgns11.9","uv11#11.9","uv-kg11#237","uvs11#11.8"]
     },
     {
-        "parallels": ["dhp308","gdhp331","iti48#5","iti91#5","pdhp295","pli-tv-bu-vb-pj4#16","t210.30#vgns30.3","t210.33#vgns33.20","t212.10#vgns10.2","t213.9#vgns9.2-vgns9.3","uv9#9.2","uv-kg9#195","uvs9#9.2"]
+        "parallels": ["dhp308","gdhp331","iti48#5","iti91#5","pdhp295","pli-tv-bu-vb-pj4#16","t210.30#vgns30.3","t210.33#vgns33.20","t212.10#vgns10.2","t213.9#vgns9.2","uv9#9.2","uv-kg9#195","uvs9#9.2"]
     },
     {
         "parallels": ["dhp309","gdhp270","pdhp210","t210.30#vgns30.4","t212.4#vgns4.10","t213.4#vgns4.13","uv4#4.14","uv-kg4#95","uvs4#4.13"]
@@ -16146,7 +16146,7 @@
         "parallels": ["dn2#28","mn76#12","sn24.8#1"]
     },
     {
-        "parallels": ["dn2#79-#88","mn39#12-#18"]
+        "parallels": ["dn2#79-#88","mn39#12"]
     },
     {
         "mentions": ["dn2#89","pe6#60"]
