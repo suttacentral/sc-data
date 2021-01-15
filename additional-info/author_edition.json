@@ -1135,8 +1135,8 @@
   },
   {
     "type": "author",
-    "uid": "narada-patthana",
-    "short_name": "Nārada …",
+    "uid": "unarada",
+    "short_name": "U Nārada",
     "long_name": "U Nārada, Mūla Paṭṭhāna Sayadaw</span>"
   },
   {
@@ -1996,5 +1996,17 @@
     "uid": "srirangaraj",
     "short_name": "Srirangaraj",
     "long_name": "H.V. Srirangaraj"
+  },
+  {
+    "type": "author",
+    "uid": "buddho",
+    "short_name": "Buddho",
+    "long_name": "Buddho"
+  },
+  {
+    "type": "author",
+    "uid": "johansson",
+    "short_name": "Johansson",
+    "long_name": "Karl Ferdinand Johansson"
   }
 ]
