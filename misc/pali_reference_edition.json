@@ -1,10 +1,12 @@
 [
   {
-    "uid": "ms",
+    "edition_set": "ms",
+    "includes": "ms",
     "name": "Mahasaṅgīti Tipiṭaka, 2010"
   },
   {
-    "uid": [
+    "edition_set": "pts",
+    "includes": [
       "pts-cs",
       "pts-vp-pli",
       "pts-vp-pli1ed",
@@ -15,11 +17,13 @@
     "name": "Pali Text Society"
   },
   {
-    "uid": "bj",
+    "edition_set": "bj",
+    "includes": "bj",
     "name": "Buddhajayantītripiṭaka, 1957–1989"
   },
   {
-    "uid": [
+    "edition_set": "csp",
+    "includes": [
       "csp1ed",
       "csp2ed",
       "csp3ed"
@@ -27,39 +31,48 @@
     "name": "Chaṭṭhasaṅgīti Piṭakaṃ, 1st ed 1952–1955, 2nd ed 1956–1962, 3rd ed 1997"
   },
   {
-    "uid": "dr",
+    "edition_set": "dr",
+    "includes": "dr",
     "name": "Dayyaraṭṭhassa Saṅgītitepiṭakaṁ, 1987"
   },
   {
-    "uid": "mc",
+    "edition_set": "mc",
+    "includes": "mc",
     "name": "Mahācūḷātepiṭakaṁ, 1960–1990"
   },
   {
-    "uid": "mr",
+    "edition_set": "mr",
+    "includes": "mr",
     "name": "Maramma Tipiṭaka, 1997"
   },
   {
-    "uid": "si",
+    "edition_set": "si",
+    "includes": "si",
     "name": "Sinhala Tipiṭaka, before 1957"
   },
   {
-    "uid": "km",
+    "edition_set": "km",
+    "includes": "km",
     "name": "Phratraipiṭakapāḷi (Cambodia), 1958–1969"
   },
   {
-    "uid": "lv",
+    "edition_set": "lv",
+    "includes": "lv",
     "name": "Lāvaraṭṭhassa Tipiṭaka, 1957"
   },
   {
-    "uid": "ndp",
+    "edition_set": "ndp",
+    "includes": "ndp",
     "name": "Nālandā Devanāgarī Pāḷi Series Tipiṭaka, 1957–1962"
   },
   {
-    "uid": "cck",
+    "edition_set": "cck",
+    "includes": "cck",
     "name": "Chulachomklao Pāḷi Tipiṭaka, 1893"
   },
   {
-    "uid": [
+    "edition_set": "sya",
+    "includes": [
       "sya1ed",
       "sya2ed",
       "sya-all"
@@ -67,11 +80,13 @@
     "name": "Other Thai editions"
   },
   {
-    "uid": "vri",
+    "edition_set": "vri",
+    "includes": "vri",
     "name": "Vipassanā Research Institute Tipiṭaka, 2537–2542"
   },
   {
-    "uid": "maku",
+    "edition_set": "maku",
+    "includes": "maku",
     "short_name": "Mahāmakut (Milindapañha), 1923"
   }
 ]
