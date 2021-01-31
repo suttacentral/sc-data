@@ -1,13 +1,37 @@
-{
-  "lang": {
-    "en": {
-      "sutta": "discourses-guide-sujato",
-      "vinaya": "vinaya-guide-brahmali",
-      "abhidhamma": "abhidhamma-guide-sujato",
-      "dn": "dn-guide-sujato",
-      "mn": "mn-guide-sujato",
-      "sn": "sn-guide-sujato",
-      "an": "an-guide-sujato"
-    }
+[
+  {
+    "guide_uid": "discourses-guide-sujato",
+    "text_uid": "sutta",
+    "lang": "en"
+  },
+  {
+    "guide_uid": "vinaya-guide-brahmali",
+    "text_uid": "vinaya",
+    "lang": "en"
+  },
+  {
+    "guide_uid": "abhidhamma-guide-sujato",
+    "text_uid": "abhidhamma",
+    "lang": "en"
+  },
+  {
+    "guide_uid": "dn-guide-sujato",
+    "text_uid": "dn",
+    "lang": "en"
+  },
+  {
+    "guide_uid": "mn-guide-sujato",
+    "text_uid": "mn",
+    "lang": "en"
+  },
+  {
+    "guide_uid": "sn-guide-sujato",
+    "text_uid": "sn",
+    "lang": "en"
+  },
+  {
+    "guide_uid": "an-guide-sujato",
+    "text_uid": "an",
+    "lang": "en"
   }
-}
+]
