@@ -142,12 +142,13 @@
   "pli-tv-bu-vb-pc1:2.6.14": "{}</p></section>",
   "pli-tv-bu-vb-pc1:2.7.0": "<section class='vinaya-anapatti'><h2>{}</h2>",
   "pli-tv-bu-vb-pc1:2.7.1": "<p>{}",
-  "pli-tv-bu-vb-pc1:2.7.2": "{}</p>",
-  "pli-tv-bu-vb-pc1:2.7.3": "<dl><dt>{}</dt>",
-  "pli-tv-bu-vb-pc1:2.7.4": "<dd>{}</dd>",
-  "pli-tv-bu-vb-pc1:2.7.5": "<dt>{}</dt>",
-  "pli-tv-bu-vb-pc1:2.7.6": "<dd>{}</dd></dl>",
-  "pli-tv-bu-vb-pc1:2.7.7": "<hr><p>{}",
-  "pli-tv-bu-vb-pc1:2.7.8": "{}</p></section>",
-  "pli-tv-bu-vb-pc1:2.7.9": "<p class='endsutta'>{}</p></article>"
+  "pli-tv-bu-vb-pc1:2.7.2": "{}",
+  "pli-tv-bu-vb-pc1:2.7.3": "{}</p>",
+  "pli-tv-bu-vb-pc1:2.7.4": "<dl><dt>{}</dt>",
+  "pli-tv-bu-vb-pc1:2.7.5": "<dd>{}</dd>",
+  "pli-tv-bu-vb-pc1:2.7.6": "<dt>{}</dt>",
+  "pli-tv-bu-vb-pc1:2.7.7": "<dd>{}</dd></dl>",
+  "pli-tv-bu-vb-pc1:2.7.8": "<p>{}",
+  "pli-tv-bu-vb-pc1:2.7.9": "{}</p></section>",
+  "pli-tv-bu-vb-pc1:2.7.10": "<p class='endsutta'>{}</p></article>"
 }

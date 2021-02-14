@@ -2,7 +2,7 @@
   "thig1.9:0.1": "<article id='thig1.9'><header><ul><li class='division'>{}</li>",
   "thig1.9:0.2": "<li>{}</li></ul>",
   "thig1.9:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "thig1.9:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "thig1.9:1.1": "<blockquote class='gatha'><p><a class='vns' id='vns9'></a>{}<br>",
   "thig1.9:1.2": "{}<br>",
   "thig1.9:1.3": "{}<br>",
   "thig1.9:1.4": "{}</p></blockquote>",

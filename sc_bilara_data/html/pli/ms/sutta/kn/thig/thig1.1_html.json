@@ -3,7 +3,7 @@
   "thig1.1:0.2": "<li>{}</li></ul>",
   "thig1.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "thig1.1:1.0": "<p class='namo'><a class='sc'></a>{}</p>",
-  "thig1.1:1.1": "<blockquote class='gatha'><p>{}<br>",
+  "thig1.1:1.1": "<blockquote class='gatha'><p><a class='vns' id='vns1'></a>{}<br>",
   "thig1.1:1.2": "{}<br>",
   "thig1.1:1.3": "{}<br>",
   "thig1.1:1.4": "{}</p></blockquote>",
