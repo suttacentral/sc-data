@@ -4,7 +4,6 @@ from .extensions import (
     DeregisterStandardFunctionsExtension,
     DoubleStarsToBoldExtension,
     StarToEmphasizeExtension,
-    HashToSpanNumExtension,
     UnderscoreToItalicLangExtension,
     HashToSpanCounterExtension,
     ReplaceDefaultParagraphExtension,
@@ -15,7 +14,6 @@ EXTENSIONS = [
     ReplaceDefaultParagraphExtension(),
     DoubleStarsToBoldExtension(),
     StarToEmphasizeExtension(),
-    HashToSpanNumExtension(),
     UnderscoreToItalicLangExtension(),
     HashToSpanCounterExtension(),
 ]

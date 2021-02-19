@@ -15,12 +15,13 @@ class HashToSpanCounterPattern(Pattern):
         groups = match.groupdict()
         element: Element = markdown.util.etree.Element('span')
         element.set('class', 'counter')
-        element.text = AtomicString(groups.get('range'))
+        element.set('title', 'counter')
+        element.text = AtomicString(groups.get('numbers'))
         return element
 
 
 class HashToSpanCounterExtension(Extension):
-    PATTERN = r'\#(?P<range>\d+\-\d+)'
+    PATTERN = r'\#(?P<numbers>\d+([–.|]\d+)?)'
 
     def add_inline(self, md: Markdown, name: str, pattern_class: Type[HashToSpanCounterPattern]) -> None:
         pattern = pattern_class(self.PATTERN, md)
