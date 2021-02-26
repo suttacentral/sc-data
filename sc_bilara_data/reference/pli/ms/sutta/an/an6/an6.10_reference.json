@@ -1,11 +1,11 @@
 {
   "an6.10:1.1": "bj21.12, ms16A6_32, msdiv10, sc1",
-  "an6.10:2.1": "csp1ed16.252, csp2ed16.252, dr22.313, ms16A6_33, ndp18.8, pts-vp-pli3.285, sc2, sya22.318, vri38.7",
-  "an6.10:3.1": "cck22.3.7, ms16A6_34, pts-vp-pli3.286, sc3",
-  "an6.10:4.1": "bj21.14, csp1ed16.253, csp2ed16.253, dr22.314, ms16A6_35, ndp18.9, sc4, sya22.319",
-  "an6.10:5.1": "cck22.3.8, ms16A6_36, pts-vp-pli3.287, sc5, vri38.8",
-  "an6.10:6.1": "cck22.3.9, csp1ed16.254, csp2ed16.254, dr22.315, ms16A6_37, ndp18.10, sc6, sya22.320",
-  "an6.10:7.1": "bj21.16, csp1ed16.255, csp2ed16.255, dr22.316, ms16A6_38, pts-vp-pli3.288, sc7, sya22.321, vri38.9",
-  "an6.10:8.1": "cck22.3.10, ms16A6_39, ndp18.11, sc8",
+  "an6.10:2.1": "csp1ed16.252, csp2ed16.252, dr22.313, ms16A6_33, ndp18.8, pts-vp-pli3.285, sc2, vri38.7",
+  "an6.10:3.1": "ms16A6_34, pts-vp-pli3.286, sc3",
+  "an6.10:4.1": "bj21.14, csp1ed16.253, csp2ed16.253, dr22.314, ms16A6_35, ndp18.9, sc4",
+  "an6.10:5.1": "ms16A6_36, pts-vp-pli3.287, sc5, vri38.8",
+  "an6.10:6.1": "csp1ed16.254, csp2ed16.254, dr22.315, ms16A6_37, ndp18.10, sc6",
+  "an6.10:7.1": "bj21.16, csp1ed16.255, csp2ed16.255, dr22.316, ms16A6_38, pts-vp-pli3.288, sc7, vri38.9",
+  "an6.10:8.1": "ms16A6_39, ndp18.11, sc8",
   "an6.10:9.1": "ms16A6_43, sc9"
 }
