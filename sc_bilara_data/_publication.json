@@ -528,8 +528,8 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "pt",
     "translation_lang_name": "Português",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/team/sutta/mn",
-    "author_uid": "team",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/",
+    "author_uid": "laera-quaresma",
     "collaborator": [
       {
         "collaborator_uid": "gnlaera",
@@ -542,7 +542,7 @@
         "author_github_handle": "marcoquaresma"
       }
     ],
-    "text_uid": "mn",
+    "text_uid": "sutta",
     "translation_title": "",
     "translation_subtitle": "",
     "root_title": "",
