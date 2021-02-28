@@ -332,6 +332,10 @@
   },
   "scpub9": {
     "publication_number": "scpub9",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
     "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/sutta/mn",
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
@@ -670,7 +674,7 @@
   "scpub20": {
     "publication_number": "scpub20",
     "root_lang_iso": "lzh",
-    "root_lang_name": "Pali",
+    "root_lang_name": "漢語",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/sa",
@@ -694,7 +698,7 @@
   },
   "scpub21": {
     "publication_number": "scpub21",
-    "root_lang_iso": "en",
+    "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
@@ -723,7 +727,7 @@
   },
   "scpub22": {
     "publication_number": "scpub22",
-    "root_lang_iso": "",
+    "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "pli",
     "translation_lang_name": "Pali",
@@ -763,7 +767,7 @@
   },
   "scpub23": {
     "publication_number": "scpub23",
-    "root_lang_iso": "",
+    "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "pli",
     "translation_lang_name": "Pali",
@@ -1099,6 +1103,81 @@
         "publisher": "",
         "publication_type": "",
         "url": ""
+      }
+    ]
+  },
+  "scpub35": {
+    "publication_number": "scpub35",
+    "root_lang_iso": "lzh",
+    "root_lang_name": "漢語",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/ma",
+    "author_uid": "patton",
+    "author_name": "Charles Patton",
+    "author_github_handle": "winterdharma",
+    "text_uid": "ma",
+    "text_title": "Middle Discourses",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub36": {
+    "publication_number": "scpub36",
+    "root_lang_iso": "lzh",
+    "root_lang_name": "漢語",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/ea/ea19",
+    "author_uid": "patton",
+    "author_name": "Charles Patton",
+    "author_github_handle": "winterdharma",
+    "text_uid": "ea",
+    "text_title": "Numbered Discourses",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub37": {
+    "publication_number": "scpub37",
+    "root_lang_iso": "lzh",
+    "root_lang_name": "漢語",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/da",
+    "author_uid": "patton",
+    "author_name": "Charles Patton",
+    "author_github_handle": "winterdharma",
+    "text_uid": "da",
+    "text_title": "Long Discourses",
+    "is_published": "false",
+    "publication_status": "",
+    "licence": "CC0",
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
       }
     ]
   }
