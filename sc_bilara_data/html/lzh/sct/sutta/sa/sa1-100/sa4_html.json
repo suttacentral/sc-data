@@ -1,0 +1,12 @@
+{
+	"sa4:0.1" : "<article id='sa4'><header><ul><li class='division'>{}</li>",
+	"sa4:0.2" : "<h1 class='sutta-title'>{}</h1></header>",
+	"sa4:1.1" : "<p>{}",
+	"sa4:1.2" : "{}</p>",
+	"sa4:2.1" : "<p>{}",
+	"sa4:2.2" : "{}",
+	"sa4:2.3" : "{}</p>",
+	"sa4:3.1" : "<p>{}",
+	"sa4:3.2" : "{}</p>",
+	"sa4:4.1" : "<p>{}</p></article>"
+}
