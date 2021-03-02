@@ -1,0 +1,7 @@
+{
+  "stripe-card:CVC": "Kartenprüfnummer ",
+  "stripe-card:ZIP": "Postleitzahl ",
+  "stripe-card:cardNumber": "Kartennummer ",
+  "stripe-card:month": "MM",
+  "stripe-card:year": "JJ "
+}

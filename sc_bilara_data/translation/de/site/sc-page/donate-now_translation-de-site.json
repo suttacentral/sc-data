@@ -1,0 +1,23 @@
+{
+  "donate-now:AmountCannotBeLessThan": "Betrag darf nicht weniger als 0,50 $ (US-Dollar) sein. ",
+  "donate-now:Name (optional)": "Name (optional) ",
+  "donate-now:StripeLimitations": "Aufgrund von Einschränkungen bei Stripe zahlen Sie bitte direkt oder kontaktieren Sie uns, wenn Sie Hilfe brauchen. ",
+  "donate-now:UnknownError": "Fehler beim Versenden der Spende. ",
+  "donate-now:amount": "Betrag ",
+  "donate-now:cardDeclined": "Ihre Karte wurde abgelehnt. ",
+  "donate-now:chooseFrequency": "Sie können eine einmalige oder eine monatliche Spende machen. ",
+  "donate-now:currency": "Währung ",
+  "donate-now:donateNow": "Jetzt spenden ",
+  "donate-now:email": "Email (optional) ",
+  "donate-now:errorMessage": "Dieser Dienst ist vorübergehend nicht verfügbar, bitte versuchen Sie es später. ",
+  "donate-now:feeDisclaimer": "Die Stripe-Bearbeitungsgebühr, die von einer Spende abgezogen wird, beträgt 1,75% + 30 ¢ für australische Karten und 2,9% + 30 ¢ für internationale Karten, zuzüglich Umrechnungsgebühr, falls zutreffend. ",
+  "donate-now:invalidEmail": "Ungültige Email-Adresse ",
+  "donate-now:invalidValue": "Ungültiger Wert ",
+  "donate-now:message": "Nachricht (optional) ",
+  "donate-now:monthly": "Monatlich ",
+  "donate-now:oneTime": "Einmalig ",
+  "donate-now:payWithCard": "Mit Karte spenden ",
+  "donate-now:paymentSuccessful": "Sadhu! Ihre Zahlung wurde erfolgreich abgeschlossen. ",
+  "donate-now:redirectNotice": "Sie werden in 5 Sekunden zur Homepage weitergeleitet. ",
+  "donate-now:storageDisclaimer": "Ihre Kreditkartendaten werden nicht von SuttaCentral verarbeitet oder gespeichert. Alle Kreditkarten-Transaktionen werden von <a href='https://stripe.com' target='blank'>Stripe</a> sicher ausgeführt. "
+}
