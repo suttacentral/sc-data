@@ -25,7 +25,7 @@
     "root_title": "Theragāthā",
     "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of K.R. Norman.",
     "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Theragāthā. The initial edition was by Jessica Walton and Bhikkhu Sujato was published in 2014 through SuttaCentral. A revised edition, bringing the terminology in line with the subsequently-translated four Nikāyas, was published in 2019.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -70,7 +70,7 @@
     "root_title": "Dīgha Nikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -104,7 +104,7 @@
     "root_title": "Majjhima Nikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -150,7 +150,7 @@
     "root_title": "Saṁyutta Nikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -184,7 +184,7 @@
     "root_title": "Aṅguttara Nikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -228,7 +228,7 @@
     "root_title": "Therīgāthā",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of K.R. Norman.",
     "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Therīgāthā. The initial draft was by Jessica Walton, and it was completed by Bhikkhu Sujato in 2019. The terminology has been brought in line with Bhikkhu Sujato’s translation of the four Nikāyas.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -258,7 +258,7 @@
     "author_github_handle": "sujato",
     "text_uid": "dhp",
     "text_title": "Sayings of the Dhamma",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -284,7 +284,7 @@
     "pitaka": "vinaya",
     "text_uid": "pli-tv-vi",
     "text_title": "Theravāda Collection on Monastic Law",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "Partial draft translation is published on SuttaCentral. Complete and extensively revised translation is underway.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -346,7 +346,7 @@
     "root_title": "Majjhima Nikāya",
     "translation_process": "",
     "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -380,7 +380,7 @@
     "root_title": "Saṁyutta Nikāya",
     "translation_process": "",
     "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -414,7 +414,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -448,7 +448,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -492,7 +492,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -517,7 +517,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -552,7 +552,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -573,7 +573,7 @@
     "author_github_handle": "sujato",
     "text_uid": "iti",
     "text_title": "So It Was Said",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -598,7 +598,7 @@
     "author_github_handle": "sujato",
     "text_uid": "snp",
     "text_title": "Collected Sayings",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -623,7 +623,7 @@
     "author_github_handle": "sujato",
     "text_uid": "ud",
     "text_title": "Heartfelt Sayings",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -658,7 +658,7 @@
     ],
     "text_uid": "kp",
     "text_title": "Basic Passages",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -683,7 +683,7 @@
     "author_github_handle": "winterdharma",
     "text_uid": "sa",
     "text_title": "Related Discourses",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -712,7 +712,7 @@
     ],
     "text_uid": "blurb",
     "text_title": "Blurbs",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -756,7 +756,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "Transcription of the 13th Century manuscript of the Cullavagga from the Colombo National Museum.",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -796,7 +796,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "Buddha Jayanti Tipiṭaka of Sri Lanka.",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -827,7 +827,7 @@
     ],
     "text_uid": "dn-a",
     "text_title": "Sumaṅgalavilāsinī",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -856,7 +856,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -887,7 +887,7 @@
     ],
     "text_uid": "dn",
     "text_title": "Long Discourses",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -916,7 +916,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -945,7 +945,7 @@
     "root_title": "",
     "translation_process": "",
     "translation_description": "",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -970,7 +970,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "dhp",
     "text_title": "",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -995,7 +995,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "iti",
     "text_title": "",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -1020,7 +1020,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "snp",
     "text_title": "",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -1045,7 +1045,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "ud",
     "text_title": "",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -1070,7 +1070,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "kp",
     "text_title": "",
-    "is_published": "true",
+    "is_published": true,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -1093,7 +1093,7 @@
     "author_github_handle": "sujato",
     "text_uid": "name",
     "text_title": "Names",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -1118,7 +1118,7 @@
     "author_github_handle": "winterdharma",
     "text_uid": "ma",
     "text_title": "Middle Discourses",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -1143,7 +1143,7 @@
     "author_github_handle": "winterdharma",
     "text_uid": "ea",
     "text_title": "Numbered Discourses",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -1168,7 +1168,7 @@
     "author_github_handle": "winterdharma",
     "text_uid": "da",
     "text_title": "Long Discourses",
-    "is_published": "false",
+    "is_published": false,
     "publication_status": "",
     "licence": "CC0",
     "edition": [
