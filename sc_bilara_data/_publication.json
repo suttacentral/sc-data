@@ -679,20 +679,36 @@
     "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/sa",
     "author_uid": "patton",
-    "author_name": "Charles Patton",
+    "author_name": "Charles D. Patton II",
     "author_github_handle": "winterdharma",
     "text_uid": "sa",
-    "text_title": "Related Discourses",
-    "is_published": false,
-    "publication_status": "",
-    "licence": "CC0",
+    "translation_title": "The Related Discourses",
+    "translation_subtitle": "A Translation of the Chinese Saṃyukta Āgama",
+  	"root_title": "Saṁyuktāgama (1st)",
+	  "translation_process": "The Related Discourses is translated directly from classical Chinese using Yinshun’s 雜阿含經論會編 (https://cbetaonline.cn/zh/Y0030_001) as the root text while consulting the Taisho Daizokyo (T99) and CBETA editions and parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of SĀ sutras by Bhikkhu Anālayo as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+	  "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project (https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "is_published": true,
+    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls (https://canon.dharmapearls.net/) and mirrored at SuttaCentral.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "2",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sa"
+      },
+      {
+        "edition_number": "1",
+        "publication_date": "2019",
+        "publisher": "Dharma Pearls",
+        "publication_type": "website",
+        "edition_url": "https://canon.dharmapearls.net/"
       }
     ]
   },
@@ -1114,20 +1130,36 @@
     "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/ma",
     "author_uid": "patton",
-    "author_name": "Charles Patton",
+    "author_name": "Charles D. Patton II",
     "author_github_handle": "winterdharma",
     "text_uid": "ma",
-    "text_title": "Middle Discourses",
-    "is_published": false,
-    "publication_status": "",
-    "licence": "CC0",
+    "translation_title": "The Medium Discourses",
+  	"translation_subtitle": "A Translation of the Chinese Madhyama Āgama",
+	  "root_title": "Madhyamāgama",
+	  "translation_process": "The Medium Discourses is translated directly from classical Chinese using the CBETA edition (T26) (https://cbetaonline.cn/zh/T0026_001) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of MĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+	"translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project (https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "is_published": true,
+    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls (https://canon.dharmapearls.net/) and mirrored at SuttaCentral.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "2",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/ma"
+      },
+      {
+        "edition_number": "1",
+        "publication_date": "2019",
+        "publisher": "Dharma Pearls",
+        "publication_type": "website",
+        "edition_url": "https://canon.dharmapearls.net/"
       }
     ]
   },
@@ -1139,20 +1171,36 @@
     "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/ea/ea19",
     "author_uid": "patton",
-    "author_name": "Charles Patton",
+    "author_name": "Charles D. Patton II",
     "author_github_handle": "winterdharma",
     "text_uid": "ea",
-    "text_title": "Numbered Discourses",
+    "translation_title": "The Numerical Discourses",
+  	"translation_subtitle": "A Translation of the Chinese Ekôttarika Āgama",
+	  "root_title": "Ekottarikāgama (1st)",
+	  "translation_process": "The Numerical Discourses is translated directly from classical Chinese using the CBETA edition (T125) (https://cbetaonline.cn/zh/T0125_001) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of EĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+	  "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project (https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": false,
-    "publication_status": "",
-    "licence": "CC0",
+    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls (https://canon.dharmapearls.net/) and mirrored at SuttaCentral.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "2",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/ea"
+      },
+      {
+        "edition_number": "1",
+        "publication_date": "2019",
+        "publisher": "Dharma Pearls",
+        "publication_type": "website",
+        "edition_url": "https://canon.dharmapearls.net/"
       }
     ]
   },
@@ -1164,20 +1212,36 @@
     "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/patton/sutta/da",
     "author_uid": "patton",
-    "author_name": "Charles Patton",
+    "author_name": "Charles D. Patton II",
     "author_github_handle": "winterdharma",
     "text_uid": "da",
-    "text_title": "Long Discourses",
+    "translation_title": "The Long Discourses",
+  	"translation_subtitle": "A Translation of the Chinese Dīrgha Āgama",
+	  "root_title": "Dīrghāgama",
+	  "translation_process": "The Long Discourses is translated directly from classical Chinese using the CBETA edition (T1) (https://cbetaonline.cn/zh/T0001_001) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of DĀ sutras by Bhikkhu Anālayo and Shohei Ichimura as well as translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+  	"translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project (https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": false,
-    "publication_status": "",
-    "licence": "CC0",
+    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls (https://canon.dharmapearls.net/) and mirrored at SuttaCentral.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "2",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/da"
+      },
+	  {
+        "edition_number": "1",
+        "publication_date": "2019",
+        "publisher": "Dharma Pearls",
+        "publication_type": "website",
+        "edition_url": "https://canon.dharmapearls.net/"
       }
     ]
   }
