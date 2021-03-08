@@ -5,6 +5,8 @@ The dictionaries are divided into two types.
 - Simple dictionaries use structured JSON containing strings.
 - Complex dictionaries use unstructured JSON containing text structured with HTML.
 
+The primary dictionary on SuttaCentral is the *New Concise Pali-English Dictionary* (NCPED). This is based on Ven Buddhadatta’s old CPED, with entries updated and corrected following Cone’s *Dictionary of Pali*.
+
 Note that in one case (`pli2id_cped.json`) the simple dictionary contains plain HTML inline markup (`<b>`, `<i>`). If this causes problems, strip it out. 
 
 JSON structure for simple dictionaries may contain the following fields:
@@ -30,7 +32,3 @@ The file names for the dictionaries are eg. `pli2en_ncped.json` where
  - `pli` = source language ISO
  - `en` = target language ISO
  - `ncped` = name of dictionary
-
-## Deprecated
-
-Everything that is not in the folders /simple, /complex, and /utilities is deprecated. Do not use it, and delete it as soon as possible.
