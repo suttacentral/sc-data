@@ -1841,6 +1841,12 @@
     "short_name": "Sander",
     "long_name": "Lore Sander"
   },
+    {
+    "type": "edition",
+    "uid": "sct",
+    "short_name": "SC Taishō",
+    "long_name": "SuttaCentral Taishō"
+  },
   {
     "type": "edition",
     "uid": "senart",
