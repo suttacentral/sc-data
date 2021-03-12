@@ -23,5 +23,10 @@
     "type": "edition",
     "is_root": true,
     "language": "lzh"
+  },
+  "sct": {
+    "type": "edition",
+    "is_root": true,
+    "language": "lzh"
   }
 }
