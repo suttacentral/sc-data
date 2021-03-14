@@ -67,7 +67,7 @@
     "text_uid": "dn",
     "translation_title": "Long Discourses",
     "translation_subtitle": "A translation of the Dīgha Nikāya",
-    "root_title": "Dīgha Nikāya",
+    "root_title": "Dīghanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": true,
@@ -101,7 +101,7 @@
     "text_uid": "mn",
     "translation_title": "Middle Discourses",
     "translation_subtitle": "A translation of the Majjhima Nikāya",
-    "root_title": "Majjhima Nikāya",
+    "root_title": "Majjhimanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": true,
@@ -147,7 +147,7 @@
     "text_uid": "sn",
     "translation_title": "Linked Discourses",
     "translation_subtitle": "A translation of the Saṁyutta Nikāya",
-    "root_title": "Saṁyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": true,
@@ -181,7 +181,7 @@
     "text_uid": "an",
     "translation_title": "Numbered Discourses",
     "translation_subtitle": "A translation of the Aṅguttara Nikāya",
-    "root_title": "Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": true,
@@ -657,22 +657,31 @@
     "translation_lang_name": "日本語",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/jpn/kaz/sutta/an",
     "author_uid": "kaz",
-    "author_name": "Kaz Takehara",
+    "author_name": "竹原 一江",
     "author_github_handle": "kaz-kaz",
     "text_uid": "an",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_title": "増支部経典",
+    "translation_subtitle": "増支部経典（アングッタラ・ニカーヤ、Aṅguttara Nikāya）の英訳の日本語訳",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "スッタ・セントラル（SuttaCentral）からアクセスできるビク・スジャートー（Bhikkhu Sujato）の英語を和訳しております。同サイトでアクセスできる英語訳の元であるパーリ三蔵（Mahāsaṅgīti edition of the Pali Tipiṭaka）及び辞書類（New Consice Pāli English Dictionary, Consice Pāli English Dictionary, PTS Pāli English Dictionary, Dictionary of Pāli Proper Names 等）も参考しています。また、光明寺のご住職のサイト及び正田大観先生の増支部経典訳（未出版）も参考にさせていただきました。",
+    "translation_description": "これはビク・スジャートー（Bhikkhu Sujato）のパーリ語経典のニカーヤ（Nikāyas）の英語訳の和訳です。普通に英訳を和訳することで、仏教や仏教用語に馴染みのない日本人でも読んで又は聞いて、それほど理解に困らない形になっています。辞書で意味を調べなければ理解できないような仏教用語は極力使用しないようにしております。正確さには注意を払っていますが、原文と相違する箇所は聖典の故意的な改変ではなく単なる誤訳だとご理解ねがいます。",
     "is_published": true,
-    "publication_status": "",
+    "publication_status": "完成していますが、改定は継続して行われます。",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
-    }
+      "license_statement": "この和訳は生きとし生けるもの達のために仏教界によって代々引き継がれてきた古代の聖なる文献をあらわしたものです。訳はクリエイティブ・コモンズ・ゼロ（CC0）によりパブリック・ドメインに置かれています。読者は、複写、複製、改作、改変、その他の方法によりこの訳の使用が可能です。ただ、仏教徒コミュニティーの価値や理念に沿って使用してくださるようよろしくお願い申し上げます。"
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
   },
   "scpub15": {
     "publication_number": "scpub15",
