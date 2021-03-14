@@ -68,8 +68,15 @@
 <td><span class='surplus'>Example</span></td>
 </tr>
 <tr>
+<td>.expansion-instructions</td>
+<td>Used frequently in the Pali Abhidhamma to indicate a span of text describing how an abbreviation is meant to be filled in. </td>
+<td>italic</td>
+<td>secondary-text-color</td>
+<td><span class='pe'>Example</span></td>
+</tr>
+<tr>
 <td>.pe</td>
-<td>Used frequently in the Pali Abhidhamma to indicate a span of text describing how an abbreviation is meant to be filled in. Note that it shouldn’t be used to indicate a mere abbreviation with ellipsis.</td>
+<td>Indicates a place where the pali text is marked with "pe", i.e. an abbreviated section to be expanded. </td>
 <td>italic</td>
 <td>secondary-text-color</td>
 <td><span class='pe'>Example</span></td>
@@ -157,14 +164,14 @@ yadā Vipaśyī udapādi <span class='suppliedmetre'>− ⏒</span> |<br>
 <td><a class='cr' href='http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-rdg.html'>.var</a></td>
 <td>indicates a variant reading. <i>Similar to TEI rdg, except that refers only to a single reading, whereas for us var is used a little more loosely.</i></td>
 <td>none</td>
-<td>secondary-accent-color, paper-tooltip</td>
+<td>secondary-accent-color, tooltip</td>
 <td><span class='var' id='note1407' title='vibhīṭakamiñjiyo (bj, pts1) | vibhedakabījiyo (s2, s3, mr)'>vibhītakamiñjiyo</span></td>
 </tr>
 <tr>
 <td>.corr</td>
-<td>indicates a corrected reading. They show the correction from→to in the title, which is transformed to a paper-tooltip.</td>
+<td>indicates a corrected reading. They show the correction from→to in the title.</td>
 <td>none</td>
-<td>primary-accent-color, paper-tooltip</td>
+<td>primary-accent-color</td>
 <td><span class='corr' title='[蛇螭→螭、蛇] cf.【麗】'>Example</span></td>
 </tr>
 <tr>
@@ -173,6 +180,90 @@ yadā Vipaśyī udapādi <span class='suppliedmetre'>− ⏒</span> |<br>
 <td>none</td>
 <td>primary-accent-color</td>
 <td><span class='corrected'>Example</span></td>
+</tr>
+<tr>
+<td>.kamma</td>
+<td>The text of a formal act of the Sangha</td>
+<td>Bold. Outline and tooltip on highlight</td>
+<td><span class='kamma'>Example</span></td>
+</tr>
+<tr>
+<td>.rule</td>
+<td>Vinaya rule text</td>
+<td>Bold, highlight dotted outline and popup</td>
+<td><span class='rule'>Example</span></td>
+</tr>
+<tr>
+<td>.subrule</td>
+<td>Minor or secondary rule mentioned in the discussion of another Vinaya rule.</td>
+<td>semi-Bold</td>
+<td><span class='subrule'>Example</span></td>
+</tr>
+<tr>
+<td>.rule-number</td>
+<td>Identifies rule number in Vinaya texts.</td>
+<td>secondary text color</td>
+<td><span class='rule-number'>Example</span></td>
+</tr>
+<tr>
+<td>.cakka</td>
+<td>Cycle of permutations in Vinaya.</td>
+<td>sc-primary-accent-color on highlight</td>
+<td><span class='vinaya-cakka'>Example</span></td>
+</tr>
+<tr>
+<td>.anapatti</td>
+<td>Non-offence clause in Vinaya.</td>
+<td>semibold on highlight</td>
+<td><span class='vinaya-cakka'>Example</span></td>
+</tr>
+<tr>
+<td>.nidana</td>
+<td>origin story.</td>
+<td>sc-primary-accent-color on highlight</td>
+<td><span class='vinaya-cakka'>Example</span></td>
+</tr>
+<tr>
+<td>.nidana</td>
+<td>origin story.</td>
+<td>sc-primary-accent-color on highlight</td>
+<td><span class='vinaya-cakka'>Example</span></td>
+</tr>
+<tr>
+<td>.patimokkha</td>
+<td>text found in patimokkha, including ruiles and connencting text</td>
+<td>outline on highlight, tooltip</td>
+<td><span class='patimokkha'><p>Example</p></span></td>
+</tr>
+<tr>
+<td>:not(.patimokkha) .rule</td>
+<td>rule not found in patimokkha</td>
+<td>outline on highlight, tooltip</td>
+<td><span class='patimokkha'><p>Example</p></span></td>
+</tr>
+<tr>
+<td>.suttanta</td>
+<td>sutta passage (in non-sutta text)</td>
+<td>outline on highlight, tooltip</td>
+<td><span class='suttanta'><p>Example</p></span></td>
+</tr>
+<tr>
+<td>.jataka</td>
+<td>jataka passage (in non-jataka text)</td>
+<td>outline on highlight, tooltip</td>
+<td><span class='jataka'><p>Example</p></span></td>
+</tr>
+<tr>
+<td>.padabhajaniya</td>
+<td>word analysis</td>
+<td>background color on highlight</td>
+<td><span class='padabhajaniya'><p>Example</p></span></td>
+</tr>
+<tr>
+<td>.vinaya-vinita</td>
+<td>permutations</td>
+<td>primary-accent-color-dark on highlight</td>
+<td><span class='vinaya-vinita'><p>Example</p></span></td>
 </tr>
 </table>
 <h2>Only used on div</h2>
