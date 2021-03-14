@@ -39,7 +39,7 @@ def parse_args():
         "--strip-tags",
         type=str,
         help="CSS selector for stripping tags but leaving text",
-        default=".ms, .msdiv, .t, .t-linehead, .tlinehead, .t-byline, .t-juanname, .juannum, .mirror-right, .cross",
+        default=".ms, .msdiv, .t, .t-linehead, .tlinehead, .scribe, .t-juanname, .juannum, .mirror-right, .cross",
     )
     parser.add_argument(
         "--strip-trees",

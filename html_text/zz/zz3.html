@@ -58,12 +58,6 @@
 <td>See Info above</td>
 </tr>
 <tr>
-<td>.bhikkhuni</td>
-<td>Indicates a section on nuns found in the monks’ Vinaya.</td>
-<td>Semantic only, no style.</td>
-<td><span class='bhikkhuni'>Example</span></td>
-</tr>
-<tr>
 <td>.book</td>
 <td>Used on cite tags. Title of a book.</td>
 <td>font-style: italic</td>
@@ -151,30 +145,16 @@
 <td><span class='evam'>Evaṁ me sutaṁ</span></td>
 </tr>
 <tr>
-<td>.fakechapter</td>
-<td>Indicates what appears to be erroneous or misplaced titles in Vietnamese texts. Note that there are long-standing structural problems with the Vietnamese texts, and i have not yet found anyone to fix them. So these may contain info relevant for sorting that out. Compare voidchapter</td>
-<td>Semantic only, no style.</td>
-<td>
-<h4>Example</h4>
-</td>
-</tr>
-<tr>
 <td>.gatha</td>
 <td>Verse</td>
-<td>Center aligned on longest line of the set of verses. Use same CSS as old site.</td>
+<td>Indent.</td>
 <td>See below.</td>
 </tr>
 <tr>
-<td>.hgroup mirror</td>
+<td>.mirror</td>
 <td>Indicates "mirrored" styles in sutta title, used for displaying Latin | Chinese.</td>
 <td>Use same CSS as old site.</td>
 <td>See Chinese header above.</td>
-</tr>
-<tr>
-<td>.hgroup</td>
-<td>A "div" that contains a set of elements defining the title, etc. of a sutta. The name is inherited from the since-deprecated HTML5 hgroup tag, although the usage is somewhat different. The sutta title is always "h1". "hgroup" usually contains a set of "p" elements above the "h1", i.e. the "supertitle". These are loosely structured; in some cases the class names on the "p" tags indicate the hierarchical level, but not always. Hgroups occasionally include a "subtitle" as well.</td>
-<td>Use same CSS as old site.</td>
-<td>See header above.</td>
 </tr>
 <tr>
 <td>.hidden</td>
@@ -185,7 +165,7 @@
 <tr>
 <td>.jataka</td>
 <td>Marks Jataka texts embedded in Vinaya (could be extended to suttas, too).</td>
-<td>Semantic only, no style.</td>
+<td>outline and tooltip on highlight.</td>
 <td><span class='jataka'>Example</span></td>
 </tr>
 <tr>
@@ -203,13 +183,13 @@
 <tr>
 <td>.juannum</td>
 <td>number of a juan in Chinese texts, in Arabic numerals.</td>
-<td></td>
+<td>No style, semantic only.</td>
 <td><span class='juannum'>Example</span></td>
 </tr>
 <tr>
 <td>.kamma</td>
 <td>The text of a formal act of the Sangha</td>
-<td>Bold</td>
+<td>Bold. Outline and tooltip on highlight</td>
 <td><span class='kamma'>Example</span></td>
 </tr>
 <tr>
@@ -260,21 +240,27 @@
 <td>See header above</td>
 </tr>
 <tr>
-<td>.rightview</td>
+<td>.heterodox</td>
 <td>A special markup for the kathavatthu, clarifying the voice of the orthodox and the opponent in the debate.</td>
-<td>secondary text color</td>
-<td><span class='rightview' title='Right view section'>☑</span></td>
+<td>no display by default, add check and cross on highlight.</td>
+<td><span class='orthodox' title='Argument from the Theravādin debater'></span></td>
+</tr>
+<tr>
+<td>.orthodox</td>
+<td>A special markup for the kathavatthu, clarifying the voice of the orthodox and the opponent in the debate.</td>
+<td>no display by default, add check and cross on highlight.</td>
+<td><span class='heterodox'  title='Argument from the opponent to the Theravādin debater'>☒</span></td>
 </tr>
 <tr>
 <td>.roman-numerals</td>
 <td>Identifies Roman numerals.</td>
-<td>Semantic only, no style.</td>
+<td>uppercase, letterspacing., under/overline</td>
 <td><span class='roman-numerals'>XIXIV</span></td>
 </tr>
 <tr>
 <td>.rule</td>
 <td>Vinaya rule text</td>
-<td>Bold</td>
+<td>Bold, highlight dotted outline and popup</td>
 <td><span class='rule'>Example</span></td>
 </tr>
 <tr>
@@ -304,7 +290,7 @@
 <tr>
 <td>.subrule</td>
 <td>Minor or secondary rule mentioned in the discussion of another Vinaya rule.</td>
-<td>Bold</td>
+<td>semi-Bold</td>
 <td><span class='subrule'>Example</span></td>
 </tr>
 <tr>
@@ -318,18 +304,6 @@
 <td>Identifies a text file (not necessarily a sutta.) On section-tags only.</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>.t-byline</td>
-<td>Notes translator, etc. of Chinese texts. Similar to "scribe".Inherit</td>
-<td>Inherit</td>
-<td><span class='t-byline'>Example</span></td>
-</tr>
-<tr>
-<td>.t-counter</td>
-<td>Counts numbers in Chinese txts.</td>
-<td>smaller font size, secondary text color, sans-serif.</td>
-<td><span class='t-counter'>Example</span></td>
 </tr>
 <tr>
 <td>.t-headname</td>
@@ -389,20 +363,6 @@
 <td>Marks vagga in supertitles.</td>
 <td>Inherit</td>
 <td>See header above</td>
-</tr>
-<tr>
-<td>.voidchapter</td>
-<td>Used in Vietnamese texts, indicating heading of an empty section or passage; these appear to be untranslated peyyala series.</td>
-<td>Semantic only, no style.</td>
-<td>
-<h2 class='voidchapter'>Example</h2>
-</td>
-</tr>
-<tr>
-<td>.wrongview</td>
-<td>A special markup for the kathavatthu, clarifying the voice of the orthodox and the opponent in the debate.</td>
-<td>secondary text color</td>
-<td><span class='wrongview' title='Wrong view section'>☒</span></td>
 </tr>
 </table>
 <h2>Gathas</h2>
