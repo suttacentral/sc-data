@@ -67,7 +67,7 @@
     "text_uid": "dn",
     "translation_title": "Long Discourses",
     "translation_subtitle": "A translation of the Dīgha Nikāya",
-    "root_title": "Dīgha Nikāya",
+    "root_title": "Dīghanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": true,
@@ -101,7 +101,7 @@
     "text_uid": "mn",
     "translation_title": "Middle Discourses",
     "translation_subtitle": "A translation of the Majjhima Nikāya",
-    "root_title": "Majjhima Nikāya",
+    "root_title": "Majjhimanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": true,
@@ -147,7 +147,7 @@
     "text_uid": "sn",
     "translation_title": "Linked Discourses",
     "translation_subtitle": "A translation of the Saṁyutta Nikāya",
-    "root_title": "Saṁyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": true,
@@ -181,7 +181,7 @@
     "text_uid": "an",
     "translation_title": "Numbered Discourses",
     "translation_subtitle": "A translation of the Aṅguttara Nikāya",
-    "root_title": "Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Tawian.",
     "is_published": true,
@@ -283,9 +283,13 @@
     "author_github_handle": "brahmali",
     "pitaka": "vinaya",
     "text_uid": "pli-tv-vi",
-    "text_title": "Theravāda Collection on Monastic Law",
+    "translation_title": "Theravāda Collection on Monastic Law",
+    "translation_subtitle": "A translation of the Pali Vinaya Piṭaka into English",
+    "root_title": "Theravāda Vinayapiṭaka",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
+    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
     "is_published": true,
-    "publication_status": "Partial draft translation is published on SuttaCentral. Complete and extensively revised translation is underway.",
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -294,41 +298,157 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/vinaya"
       }
     ]
   },
   "scpub8.1": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.1",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bi-vb",
+    "author_uid": "brahmali",
+    "author_name": "Bhikkhu Brahmali",
+    "author_github_handle": "brahmali",
     "division": "bi-vi",
-    "text_uid": "pli-tv-bi-vb"
+    "text_uid": "pli-tv-bi-vb",
+    "translation_title": "The nuns’ rules and their analysis",
+    "translation_subtitle": "A translation of the Pali Bhikkhunī-vibhaṅga into English",
+    "root_title": "Bhikkhunī Vibhaṅga",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
+    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/pli-tv-bi-vb"
+      }
+    ]
   },
   "scpub8.2": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.2",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-bu-vb",
+    "author_uid": "brahmali",
+    "author_name": "Bhikkhu Brahmali",
+    "author_github_handle": "brahmali",
     "division": "bi-vi",
-    "text_uid": "pli-tv-bu-vb"
+    "text_uid": "pli-tv-bu-vb",
+    "translation_title": "The monks’ rules and their analysis",
+    "translation_subtitle": "A translation of the Pali Bhikkhu-vibhaṅga into English",
+    "root_title": "Bhikkhu Vibhaṅga",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
+    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/pli-tv-bu-vb"
+      }
+    ]
   },
   "scpub8.3": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.3",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-kd",
+    "author_uid": "brahmali",
+    "author_name": "Bhikkhu Brahmali",
+    "author_github_handle": "brahmali",
     "division": "bu-vi",
-    "text_uid": "pli-tv-kd"
+    "text_uid": "pli-tv-kd",
+    "translation_title": "The chapters on legal procedures and miscellaneous matters",
+    "translation_subtitle": "A translation of the Pali Khandhakas into English",
+    "root_title": "Khandhaka",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
+    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/pli-tv-kd"
+      }
+    ]
   },
   "scpub8.4": {
     "parent_publication": "scpub8",
     "publication_number": "scpub8.4",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/brahmali/vinaya/pli-tv-pvr",
+    "author_uid": "brahmali",
+    "author_name": "Bhikkhu Brahmali",
+    "author_github_handle": "brahmali",
     "division": "bu-vi",
-    "text_uid": "pli-tv-pvr"
+    "text_uid": "pli-tv-pvr",
+    "translation_title": "The Compendium",
+    "translation_subtitle": "A translation of the Pali Parivāra into English",
+    "root_title": "Parivāra",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
+    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/pli-tv-pvr"
+      }
+    ]
   },
   "scpub9": {
     "publication_number": "scpub9",
@@ -537,22 +657,31 @@
     "translation_lang_name": "日本語",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/jpn/kaz/sutta/an",
     "author_uid": "kaz",
-    "author_name": "Kaz Takehara",
+    "author_name": "竹原 一江",
     "author_github_handle": "kaz-kaz",
     "text_uid": "an",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_title": "増支部経典",
+    "translation_subtitle": "増支部経典（アングッタラ・ニカーヤ、Aṅguttara Nikāya）の英訳の日本語訳",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "スッタ・セントラル（SuttaCentral）からアクセスできるビク・スジャートー（Bhikkhu Sujato）の英語を和訳しております。同サイトでアクセスできる英語訳の元であるパーリ三蔵（Mahāsaṅgīti edition of the Pali Tipiṭaka）及び辞書類（New Consice Pāli English Dictionary, Consice Pāli English Dictionary, PTS Pāli English Dictionary, Dictionary of Pāli Proper Names 等）も参考しています。また、光明寺のご住職のサイト及び正田大観先生の増支部経典訳（未出版）も参考にさせていただきました。",
+    "translation_description": "これはビク・スジャートー（Bhikkhu Sujato）のパーリ語経典のニカーヤ（Nikāyas）の英語訳の和訳です。普通に英訳を和訳することで、仏教や仏教用語に馴染みのない日本人でも読んで又は聞いて、それほど理解に困らない形になっています。辞書で意味を調べなければ理解できないような仏教用語は極力使用しないようにしております。正確さには注意を払っていますが、原文と相違する箇所は聖典の故意的な改変ではなく単なる誤訳だとご理解ねがいます。",
     "is_published": true,
-    "publication_status": "",
+    "publication_status": "完成していますが、改定は継続して行われます。",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
-    }
+      "license_statement": "この和訳は生きとし生けるもの達のために仏教界によって代々引き継がれてきた古代の聖なる文献をあらわしたものです。訳はクリエイティブ・コモンズ・ゼロ（CC0）によりパブリック・ドメインに置かれています。読者は、複写、複製、改作、改変、その他の方法によりこの訳の使用が可能です。ただ、仏教徒コミュニティーの価値や理念に沿って使用してくださるようよろしくお願い申し上げます。"
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
   },
   "scpub15": {
     "publication_number": "scpub15",
@@ -712,11 +841,11 @@
     "text_uid": "sa",
     "translation_title": "The Related Discourses",
     "translation_subtitle": "A Translation of the Chinese Saṃyukta Āgama",
-    "root_title": "Saṁyuktāgama (1st)",
-    "translation_process": "The Related Discourses is translated directly from classical Chinese using Yinshun’s 雜阿含經論會編 (https://cbetaonline.cn/zh/Y0030_001) as the root text while consulting the Taisho Daizokyo (T99) and CBETA editions and parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of SĀ sutras by Bhikkhu Anālayo as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
-    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project (https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "root_title": "雜阿含經",
+    "translation_process": "The Related Discourses is translated directly from classical Chinese using Yinshun’s 雜阿含經論會編 as the root text while consulting the Taisho Daizokyo (T 99) and CBETA editions and parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of SĀ sutras by Bhikkhu Anālayo as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": true,
-    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls (https://canon.dharmapearls.net/) and mirrored at SuttaCentral.",
+    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls and mirrored at SuttaCentral.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -1182,11 +1311,11 @@
     "text_uid": "ma",
     "translation_title": "The Medium Discourses",
     "translation_subtitle": "A Translation of the Chinese Madhyama Āgama",
-    "root_title": "Madhyamāgama",
-    "translation_process": "The Medium Discourses is translated directly from classical Chinese using the CBETA edition (T26) (https://cbetaonline.cn/zh/T0026_001) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of MĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
-    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project (https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "root_title": "中阿含經",
+    "translation_process": "The Medium Discourses is translated directly from classical Chinese using the CBETA edition (T 26) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of MĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": true,
-    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls (https://canon.dharmapearls.net/) and mirrored at SuttaCentral.",
+    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls and mirrored at SuttaCentral.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -1223,11 +1352,11 @@
     "text_uid": "ea",
     "translation_title": "The Numerical Discourses",
     "translation_subtitle": "A Translation of the Chinese Ekôttarika Āgama",
-    "root_title": "Ekottarikāgama (1st)",
-    "translation_process": "The Numerical Discourses is translated directly from classical Chinese using the CBETA edition (T125) (https://cbetaonline.cn/zh/T0125_001) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of EĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
-    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project (https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "root_title": "增壹阿含經",
+    "translation_process": "The Numerical Discourses is translated directly from classical Chinese using the CBETA edition (T 125) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of EĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": false,
-    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls (https://canon.dharmapearls.net/) and mirrored at SuttaCentral.",
+    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls and mirrored at SuttaCentral.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -1264,11 +1393,11 @@
     "text_uid": "da",
     "translation_title": "The Long Discourses",
     "translation_subtitle": "A Translation of the Chinese Dīrgha Āgama",
-    "root_title": "Dīrghāgama",
-    "translation_process": "The Long Discourses is translated directly from classical Chinese using the CBETA edition (T1) (https://cbetaonline.cn/zh/T0001_001) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of DĀ sutras by Bhikkhu Anālayo and Shohei Ichimura as well as translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
-    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project (https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "root_title": "長阿含經",
+    "translation_process": "The Long Discourses is translated directly from classical Chinese using the CBETA edition (T 1) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of DĀ sutras by Bhikkhu Anālayo and Shohei Ichimura as well as translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": false,
-    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls (https://canon.dharmapearls.net/) and mirrored at SuttaCentral.",
+    "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls and mirrored at SuttaCentral.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -1289,6 +1418,74 @@
         "publisher": "Dharma Pearls",
         "publication_type": "website",
         "edition_url": "https://canon.dharmapearls.net/"
+      }
+    ]
+  },
+  "scpub38": {
+    "publication_number": "scpub38",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pli",
+    "translation_lang_name": "Pali",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/ms",
+    "author_uid": "",
+    "author_name": "The M.L. Maniratana Bunnag Dhamma Society Fund",
+    "author_github_handle": "",
+    "text_uid": "tipitaka",
+    "translation_title": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "translation_subtitle": "World Tipiṭaka Edition in Roman Script",
+    "root_title": "",
+    "translation_process": "The Chaṭṭha Saṅgāyana edition was proofread three times visually and three times orally, and checked against over a dozen printed editions.",
+    "translation_description": "Edited and published by The M.L. Maniratana Bunnag Dhamma Society Fund, 2005. Based on the digital edition of the Chaṭṭha Saṅgāyana published by the Vipassana Research Institute, with corrections and proofreading by the Dhamma Society. Prepared for SuttaCentral by Blake Walshe and Bhikkhu Sujato.",
+    "is_published": true,
+    "publication_status": "Completed. The original project is dissolved, and SuttaCentral aims to preserve the Mahāsaṅgīti exactly, without making any edits or corrections to the text. SuttaCentral has, however, made a few corrections to punctuation, and have adapted the text to the Bilara JSON format.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub39": {
+    "publication_number": "scpub39",
+    "root_lang_iso": "lzh",
+    "root_lang_name": "漢語",
+    "translation_lang_iso": "lzh",
+    "translation_lang_name": "漢語",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/lzh/sct",
+    "author_uid": "",
+    "author_name": "",
+    "author_github_handle": "",
+    "text_uid": "tipitaka",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
       }
     ]
   }
