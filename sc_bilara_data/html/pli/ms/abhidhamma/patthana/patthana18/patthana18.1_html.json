@@ -10,12 +10,12 @@
   "patthana18.1:6.1": "<p>{}</p>",
   "patthana18.1:7.1": "<p>{}</p>",
   "patthana18.1:8.0": "<h6>{}</h6>",
-  "patthana18.1:8.1": "<p>{}</p>",
-  "patthana18.1:9.1": "<p>{}</p>",
-  "patthana18.1:10.1": "<p>{}</p>",
-  "patthana18.1:11.1": "<p>{}</p>",
+  "patthana18.1:8.1": "<p data-counter='1'>{}</p>",
+  "patthana18.1:9.1": "<p data-counter='3'>{}</p>",
+  "patthana18.1:10.1": "<p data-counter='1'>{}</p>",
+  "patthana18.1:11.1": "<p data-counter='1'>{}</p>",
   "patthana18.1:12.1": "<p>{}</p>",
-  "patthana18.1:13.1": "<p>{}</p>",
+  "patthana18.1:13.1": "<p data-counter='1'>{}</p>",
   "patthana18.1:14.1": "<p>{}</p>",
   "patthana18.1:15.1": "<p>{}</p></article>"
 }

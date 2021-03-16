@@ -3,10 +3,10 @@
   "patthana13.11:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana13.11:0.3": "<h1>{}</h1></header>",
   "patthana13.11:1.0": "<h6>{}</h6>",
-  "patthana13.11:1.1": "<p>{}</p>",
-  "patthana13.11:2.1": "<p>{}</p>",
-  "patthana13.11:3.1": "<p>{}</p>",
-  "patthana13.11:4.1": "<p>{}</p>",
-  "patthana13.11:5.1": "<p>{}</p>",
+  "patthana13.11:1.1": "<p data-counter='5'>{}</p>",
+  "patthana13.11:2.1": "<p data-counter='5'>{}</p>",
+  "patthana13.11:3.1": "<p data-counter='3'>{}</p>",
+  "patthana13.11:4.1": "<p data-counter='3'>{}</p>",
+  "patthana13.11:5.1": "<p data-counter='1'>{}</p>",
   "patthana13.11:6.1": "<p>{}</p></article>"
 }

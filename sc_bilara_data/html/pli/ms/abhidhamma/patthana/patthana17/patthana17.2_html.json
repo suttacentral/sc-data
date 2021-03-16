@@ -5,7 +5,7 @@
   "patthana17.2:1.1": "<p>{}</p>",
   "patthana17.2:2.1": "<p>{}</p>",
   "patthana17.2:3.1": "<p>{}</p>",
-  "patthana17.2:4.1": "<p>{}</p>",
+  "patthana17.2:4.1": "<p data-counter='1'>{}</p>",
   "patthana17.2:5.1": "<p>{}</p>",
   "patthana17.2:6.1": "<p>{}</p></article>"
 }

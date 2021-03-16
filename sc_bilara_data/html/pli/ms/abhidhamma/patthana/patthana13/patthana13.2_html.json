@@ -3,9 +3,9 @@
   "patthana13.2:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana13.2:0.3": "<h1>{}</h1></header>",
   "patthana13.2:1.0": "<h6>{}</h6>",
-  "patthana13.2:1.1": "<p>{}</p>",
-  "patthana13.2:2.1": "<p>{}</p>",
-  "patthana13.2:3.1": "<p>{}</p>",
+  "patthana13.2:1.1": "<p data-counter='7'>{}</p>",
+  "patthana13.2:2.1": "<p data-counter='7'>{}</p>",
+  "patthana13.2:3.1": "<p data-counter='1'>{}</p>",
   "patthana13.2:4.1": "<p>{}</p>",
   "patthana13.2:4.2": "<p class='endsection'>{}</p>",
   "patthana13.2:5.0": "<h6>{}</h6>",
@@ -15,6 +15,6 @@
   "patthana13.2:8.0.1": "<h3>{}</h3>",
   "patthana13.2:8.0.2": "<h4>{}</h4>",
   "patthana13.2:8.0.3": "<h6>{}</h6>",
-  "patthana13.2:8.1": "<p>{}</p>",
+  "patthana13.2:8.1": "<p data-counter='1'>{}</p>",
   "patthana13.2:9.1": "<p>{}</p></article>"
 }

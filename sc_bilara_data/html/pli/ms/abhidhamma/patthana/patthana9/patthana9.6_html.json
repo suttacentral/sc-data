@@ -2,7 +2,7 @@
   "patthana9.6:0.1": "<article id='patthana9.6'><header><ul><li class='division'>{}</li>",
   "patthana9.6:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana9.6:0.3": "<h1>{}</h1></header>",
-  "patthana9.6:1.1": "<p>{}</p>",
+  "patthana9.6:1.1": "<p data-counter='3'>{}</p>",
   "patthana9.6:2.1": "<p>{}</p>",
   "patthana9.6:3.1": "<p>{}</p>",
   "patthana9.6:4.1": "<p>{}</p>",
@@ -10,9 +10,9 @@
   "patthana9.6:6.1": "<p>{}</p>",
   "patthana9.6:7.1": "<p>{}</p>",
   "patthana9.6:8.1": "<p>{}</p>",
-  "patthana9.6:9.1": "<p>{}</p>",
-  "patthana9.6:10.1": "<p>{}</p>",
-  "patthana9.6:11.1": "<p>{}</p>",
+  "patthana9.6:9.1": "<p data-counter='1'>{}</p>",
+  "patthana9.6:10.1": "<p data-counter='1'>{}</p>",
+  "patthana9.6:11.1": "<p data-counter='1'>{}</p>",
   "patthana9.6:12.1": "<p>{}</p>",
   "patthana9.6:13.1": "<p>{}</p></article>"
 }

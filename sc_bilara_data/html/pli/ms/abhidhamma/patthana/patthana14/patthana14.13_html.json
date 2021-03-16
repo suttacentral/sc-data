@@ -2,8 +2,8 @@
   "patthana14.13:0.1": "<article id='patthana14.13'><header><ul><li class='division'>{}</li>",
   "patthana14.13:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana14.13:0.3": "<h1>{}</h1></header>",
-  "patthana14.13:1.1": "<p>{}</p>",
-  "patthana14.13:2.1": "<p>{}</p>",
-  "patthana14.13:3.1": "<p>{}</p>",
+  "patthana14.13:1.1": "<p data-counter='3'>{}</p>",
+  "patthana14.13:2.1": "<p data-counter='3'>{}</p>",
+  "patthana14.13:3.1": "<p data-counter='1'>{}</p>",
   "patthana14.13:4.1": "<p>{}</p></article>"
 }

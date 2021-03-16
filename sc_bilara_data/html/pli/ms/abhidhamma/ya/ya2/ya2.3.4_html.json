@@ -2,10 +2,10 @@
   "ya2.3.4:0.1": "<article id='ya2.3.4'><header><ul><li class='division'>{}</li>",
   "ya2.3.4:0.2": "<li>{}</li></ul>",
   "ya2.3.4:0.3": "<h1>{}</h1></header>",
-  "ya2.3.4:1.1": "<p>{}</p>",
-  "ya2.3.4:2.1": "<p>{}</p>",
-  "ya2.3.4:3.1": "<p>{}</p>",
+  "ya2.3.4:1.1": "<p data-direction='forward'>{}</p>",
+  "ya2.3.4:2.1": "<p data-direction='reverse'>{}</p>",
+  "ya2.3.4:3.1": "<p data-direction='forward'>{}</p>",
   "ya2.3.4:4.1": "<p>{}</p>",
-  "ya2.3.4:5.1": "<p>{}</p>",
+  "ya2.3.4:5.1": "<p data-direction='reverse'>{}</p>",
   "ya2.3.4:6.1": "<p>{}</p></article>"
 }

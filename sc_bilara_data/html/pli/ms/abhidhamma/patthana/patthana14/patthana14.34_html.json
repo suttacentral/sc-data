@@ -3,7 +3,7 @@
   "patthana14.34:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana14.34:0.3": "<h1>{}</h1></header>",
   "patthana14.34:1.1": "<p>{}</p>",
-  "patthana14.34:2.1": "<p>{}</p>",
-  "patthana14.34:3.1": "<p>{}</p>",
+  "patthana14.34:2.1": "<p data-counter='1'>{}</p>",
+  "patthana14.34:3.1": "<p data-counter='1'>{}</p>",
   "patthana14.34:4.1": "<p>{}</p></article>"
 }

@@ -2,7 +2,7 @@
   "an5.307:0.1": "<article id='an5.307'><header><ul><li class='division'>{}</li>",
   "an5.307:0.2": "<li>{}</li></ul>",
   "an5.307:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "an5.307:1.1": "<p>{}",
+  "an5.307:1.1": "<p data-counter='5'>{}",
   "an5.307:1.2": "{}",
   "an5.307:1.3": "{}",
   "an5.307:1.4": "{}</p></article>"

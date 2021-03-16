@@ -2,8 +2,8 @@
   "ya5.3.2:0.1": "<article id='ya5.3.2'><header><ul><li class='division'>{}</li>",
   "ya5.3.2:0.2": "<li>{}</li></ul>",
   "ya5.3.2:0.3": "<h1>{}</h1></header>",
-  "ya5.3.2:1.1": "<p>{}</p>",
-  "ya5.3.2:2.1": "<p>{}</p>",
-  "ya5.3.2:3.1": "<p>{}</p>",
-  "ya5.3.2:4.1": "<p>{}</p></article>"
+  "ya5.3.2:1.1": "<p data-direction='forward'>{}</p>",
+  "ya5.3.2:2.1": "<p data-direction='reverse'>{}</p>",
+  "ya5.3.2:3.1": "<p data-direction='forward'>{}</p>",
+  "ya5.3.2:4.1": "<p data-direction='reverse'>{}</p></article>"
 }

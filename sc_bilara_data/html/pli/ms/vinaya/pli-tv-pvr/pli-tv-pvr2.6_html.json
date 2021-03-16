@@ -3,9 +3,9 @@
   "pli-tv-pvr2.6:0.2": "<li>{}</li>",
   "pli-tv-pvr2.6:0.3": "<li>{}</li></ul>",
   "pli-tv-pvr2.6:0.4": "<h1 class='sutta-title'>{}</h1></header>",
-  "pli-tv-pvr2.6:1.1": "<p>{}",
-  "pli-tv-pvr2.6:1.2": "{}</p>",
-  "pli-tv-pvr2.6:2.1": "<p>{}",
-  "pli-tv-pvr2.6:2.2": "{}</p>",
+  "pli-tv-pvr2.6:1.1": "<p data-content='5'>{}",
+  "pli-tv-pvr2.6:1.2": "<span data-content='1'></span>{}</p>",
+  "pli-tv-pvr2.6:2.1": "<p data-content='8'>{}",
+  "pli-tv-pvr2.6:2.2": "<span data-content='2'></span>{}</p>",
   "pli-tv-pvr2.6:3.1": "<p class='endsutta'>{}</p></article>"
 }

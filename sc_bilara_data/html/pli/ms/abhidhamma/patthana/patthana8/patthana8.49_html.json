@@ -2,7 +2,7 @@
   "patthana8.49:0.1": "<article id='patthana8.49'><header><ul><li class='division'>{}</li>",
   "patthana8.49:0.2": "<li class='subdivision'>{}</li></ul>",
   "patthana8.49:0.3": "<h1>{}</h1></header>",
-  "patthana8.49:1.1": "<p>{}</p>",
+  "patthana8.49:1.1": "<p data-counter='3'>{}</p>",
   "patthana8.49:2.1": "<p>{}</p>",
   "patthana8.49:3.1": "<p>{}</p>",
   "patthana8.49:4.1": "<p>{}</p></article>"

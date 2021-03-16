@@ -14,13 +14,13 @@
   "patthana14.23:10.1": "<p>{}</p>",
   "patthana14.23:11.1": "<p>{}</p>",
   "patthana14.23:12.1": "<p>{}</p>",
-  "patthana14.23:13.1": "<p>{}</p>",
+  "patthana14.23:13.1": "<p data-counter='1'>{}</p>",
   "patthana14.23:14.1": "<p>{}</p>",
-  "patthana14.23:15.1": "<p>{}</p>",
+  "patthana14.23:15.1": "<p data-counter='1'>{}</p>",
   "patthana14.23:16.1": "<p>{}</p>",
   "patthana14.23:17.1": "<p>{}</p>",
-  "patthana14.23:18.1": "<p>{}</p>",
-  "patthana14.23:19.1": "<p>{}</p>",
+  "patthana14.23:18.1": "<p data-counter='1'>{}</p>",
+  "patthana14.23:19.1": "<p data-counter='1'>{}</p>",
   "patthana14.23:20.1": "<p>{}</p>",
   "patthana14.23:21.1": "<p class='endsutta'>{}</p></article>"
 }

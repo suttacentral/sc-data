@@ -7,7 +7,7 @@
   "patthana13.3:2.1": "<p>{}</p>",
   "patthana13.3:3.1": "<p>{}</p>",
   "patthana13.3:4.1": "<p>{}</p>",
-  "patthana13.3:5.1": "<p>{}</p>",
+  "patthana13.3:5.1": "<p data-counter='3'>{}</p>",
   "patthana13.3:6.1": "<p>{}</p>",
   "patthana13.3:7.1": "<p>{}</p>",
   "patthana13.3:8.1": "<p>{}</p>",
@@ -17,9 +17,9 @@
   "patthana13.3:12.1": "<p>{}</p>",
   "patthana13.3:13.0.1": "<h2>{}</h2>",
   "patthana13.3:13.0.2": "<h6>{}</h6>",
-  "patthana13.3:13.1": "<p>{}</p>",
-  "patthana13.3:14.1": "<p>{}</p>",
-  "patthana13.3:15.1": "<p>{}</p>",
+  "patthana13.3:13.1": "<p data-counter='5'>{}</p>",
+  "patthana13.3:14.1": "<p data-counter='6'>{}</p>",
+  "patthana13.3:15.1": "<p data-counter='6'>{}</p>",
   "patthana13.3:16.1": "<p>{}</p>",
   "patthana13.3:17.1": "<p>{}</p></article>"
 }

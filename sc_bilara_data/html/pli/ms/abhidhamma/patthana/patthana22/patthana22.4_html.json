@@ -9,8 +9,8 @@
   "patthana22.4:5.1": "<p>{}</p>",
   "patthana22.4:6.1": "<p>{}</p>",
   "patthana22.4:7.1": "<p>{}</p>",
-  "patthana22.4:8.1": "<p>{}</p>",
-  "patthana22.4:9.1": "<p>{}</p>",
-  "patthana22.4:10.1": "<p>{}</p>",
+  "patthana22.4:8.1": "<p data-counter='1'>{}</p>",
+  "patthana22.4:9.1": "<p data-counter='1'>{}</p>",
+  "patthana22.4:10.1": "<p data-counter='1'>{}</p>",
   "patthana22.4:11.1": "<p>{}</p></article>"
 }

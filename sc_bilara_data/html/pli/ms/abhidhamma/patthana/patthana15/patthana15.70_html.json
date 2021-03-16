@@ -6,6 +6,6 @@
   "patthana15.70:2.1": "<p>{}</p>",
   "patthana15.70:3.1": "<p>{}</p>",
   "patthana15.70:4.1": "<p>{}</p>",
-  "patthana15.70:5.1": "<p>{}</p>",
+  "patthana15.70:5.1": "<p data-counter='2'>{}</p>",
   "patthana15.70:6.1": "<p>{}</p></article>"
 }

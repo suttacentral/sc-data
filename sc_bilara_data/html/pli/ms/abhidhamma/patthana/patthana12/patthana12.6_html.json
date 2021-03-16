@@ -12,8 +12,8 @@
   "patthana12.6:8.1": "<p>{}</p>",
   "patthana12.6:9.1": "<p>{}</p>",
   "patthana12.6:10.1": "<p>{}</p>",
-  "patthana12.6:11.1": "<p>{}</p>",
-  "patthana12.6:12.1": "<p>{}</p>",
-  "patthana12.6:13.1": "<p>{}</p>",
+  "patthana12.6:11.1": "<p data-counter='3'>{}</p>",
+  "patthana12.6:12.1": "<p data-counter='3'>{}</p>",
+  "patthana12.6:13.1": "<p data-counter='1'>{}</p>",
   "patthana12.6:14.1": "<p>{}</p></article>"
 }

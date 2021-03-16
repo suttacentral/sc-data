@@ -20,9 +20,9 @@
   "patthana12.20:16.1": "<p>{}</p>",
   "patthana12.20:17.1": "<p>{}</p>",
   "patthana12.20:18.1": "<p>{}</p>",
-  "patthana12.20:19.1": "<p>{}</p>",
-  "patthana12.20:20.1": "<p>{}</p>",
-  "patthana12.20:21.1": "<p>{}</p>",
+  "patthana12.20:19.1": "<p data-counter='1'>{}</p>",
+  "patthana12.20:20.1": "<p data-counter='3'>{}</p>",
+  "patthana12.20:21.1": "<p data-counter='1'>{}</p>",
   "patthana12.20:22.1": "<p>{}</p>",
   "patthana12.20:23.1": "<p class='endsection'>{}</p>",
   "patthana12.20:24.1": "<p class='endbook'>{}</p></article>"

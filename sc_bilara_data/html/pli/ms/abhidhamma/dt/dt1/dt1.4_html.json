@@ -2,5 +2,5 @@
   "dt1.4:0.1": "<article id='dt1.4'><header><ul><li class='division'>{}</li>",
   "dt1.4:0.2": "<li>{}</li></ul>",
   "dt1.4:0.3": "<h1>{}</h1></header>",
-  "dt1.4:1.1": "<p>{}</p></article>"
+  "dt1.4:1.1": "<p data-counter='2'>{}</p></article>"
 }

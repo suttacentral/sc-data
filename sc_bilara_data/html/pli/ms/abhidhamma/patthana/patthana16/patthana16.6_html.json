@@ -6,7 +6,7 @@
   "patthana16.6:2.1": "<p>{}</p>",
   "patthana16.6:3.1": "<p>{}</p>",
   "patthana16.6:4.1": "<p>{}</p>",
-  "patthana16.6:5.1": "<p>{}</p>",
+  "patthana16.6:5.1": "<p data-counter='3'>{}</p>",
   "patthana16.6:6.1": "<p>{}</p>",
   "patthana16.6:7.1": "<p class='endsutta'>{}</p></article>"
 }
