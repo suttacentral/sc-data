@@ -257,10 +257,19 @@
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "dhp",
-    "text_title": "Sayings of the Dhamma",
+    "translation_title": "Sayings of the Dhamma",
+    "translation_subtitle": "",
+    "root_title": "Dhammapada",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": false,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -637,7 +646,7 @@
     "text_uid": "dn",
     "translation_title": "",
     "translation_subtitle": "",
-    "root_title": "",
+    "root_title": "Dīghanikāya",
     "translation_process": "",
     "translation_description": "",
     "is_published": false,
@@ -647,7 +656,16 @@
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translators respectfully request that any use be in accordance with the values and principles of the Buddhist community."
-    }
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
   },
   "scpub14": {
     "publication_number": "scpub14",
@@ -663,7 +681,7 @@
     "translation_title": "増支部経典",
     "translation_subtitle": "増支部経典（アングッタラ・ニカーヤ、Aṅguttara Nikāya）の英訳の日本語訳",
     "root_title": "Aṅguttaranikāya",
-    "translation_process": "スッタ・セントラル（SuttaCentral）からアクセスできるビク・スジャートー（Bhikkhu Sujato）の英語を和訳しております。同サイトでアクセスできる英語訳の元であるパーリ三蔵（Mahāsaṅgīti edition of the Pali Tipiṭaka）及び辞書類（New Consice Pāli English Dictionary, Consice Pāli English Dictionary, PTS Pāli English Dictionary, Dictionary of Pāli Proper Names 等）も参考しています。また、光明寺のご住職のサイト及び正田大観先生の増支部経典訳（未出版）も参考にさせていただきました。",
+    "translation_process": "スッタ・セントラル（SuttaCentral）からアクセスできるビク・スジャートー（Bhikkhu Sujato）の英語を和訳しております。同サイトでアクセスできる英語訳の元であるパーリ三蔵（Mahāsaṅgīti edition of the Pali Tipiṭaka）及び辞書類（New Concise Pāli English Dictionary, Concise Pāli English Dictionary, PTS Pāli English Dictionary, Dictionary of Pāli Proper Names 等）も参考しています。また、[光明寺のご住職のサイト](https://komyojikyozo.web.fc2.com) 及び正田大観先生の増支部経典訳（未出版）も参考にさせていただきました。",
     "translation_description": "これはビク・スジャートー（Bhikkhu Sujato）のパーリ語経典のニカーヤ（Nikāyas）の英語訳の和訳です。普通に英訳を和訳することで、仏教や仏教用語に馴染みのない日本人でも読んで又は聞いて、それほど理解に困らない形になっています。辞書で意味を調べなければ理解できないような仏教用語は極力使用しないようにしております。正確さには注意を払っていますが、原文と相違する箇所は聖典の故意的な改変ではなく単なる誤訳だとご理解ねがいます。",
     "is_published": true,
     "publication_status": "完成していますが、改定は継続して行われます。",
@@ -716,7 +734,16 @@
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
-    }
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
   },
   "scpub16": {
     "publication_number": "scpub16",
@@ -729,10 +756,19 @@
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "iti",
-    "text_title": "So It Was Said",
+    "translation_title": "So It Was Said",
+    "translation_subtitle": "",
+    "root_title": "Itivuttaka",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": true,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -754,10 +790,19 @@
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "snp",
-    "text_title": "Collected Sayings",
+    "translation_title": "Collected Sayings",
+    "translation_subtitle": "",
+    "root_title": "Suttanipāta",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": false,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -779,10 +824,19 @@
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "ud",
-    "text_title": "Heartfelt Sayings",
+    "translation_title": "Heartfelt Sayings",
+    "translation_subtitle": "",
+    "root_title": "Udāna",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": true,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -801,23 +855,22 @@
     "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/sujato/sutta/kn/kp",
     "author_uid": "sujato",
-    "collaborator": [
-      {
-        "collaborator_uid": "sujato",
-        "author_name": "Bhikkhu Sujato",
-        "author_github_handle": "sujato"
-      },
-      {
-        "collaborator_uid": "ccronje",
-        "author_name": "Carmi Cronje",
-        "author_github_handle": "ccronje"
-      }
-    ],
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
     "text_uid": "kp",
-    "text_title": "Basic Passages",
+    "translation_title": "Basic Passages",
+    "translation_subtitle": "",
+    "root_title": "Khuddakapāṭha",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": true,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -842,8 +895,8 @@
     "translation_title": "The Related Discourses",
     "translation_subtitle": "A Translation of the Chinese Saṃyukta Āgama",
     "root_title": "雜阿含經",
-    "translation_process": "The Related Discourses is translated directly from classical Chinese using Yinshun’s 雜阿含經論會編 as the root text while consulting the Taisho Daizokyo (T 99) and CBETA editions and parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of SĀ sutras by Bhikkhu Anālayo as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
-    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "translation_process": "The Related Discourses is translated directly from classical Chinese using Yinshun’s [雜阿含經論會編](https://cbetaonline.cn/zh/Y0030_001) as the root text while consulting the Taisho Daizokyo (T99) and CBETA editions and parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of SĀ sutras by Bhikkhu Anālayo as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+    "translation_description": "This translation is part of Charles Patton’s [Dharma Pearls Project](https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": true,
     "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls and mirrored at SuttaCentral.",
     "license": {
@@ -926,7 +979,7 @@
     "text_uid": "pli-tv-kd",
     "translation_title": "Dutiya-Parakkamabābu Cullavagga",
     "translation_subtitle": "",
-    "root_title": "",
+    "root_title": "Khandhaka",
     "translation_process": "",
     "translation_description": "Transcription of the 13th Century manuscript of the Cullavagga from the Colombo National Museum.",
     "is_published": false,
@@ -936,7 +989,16 @@
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "license_statement": "This is a transcription of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The transcribers respectfully request that any use be in accordance with the values and principles of the Buddhist community."
-    }
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
   },
   "scpub23": {
     "publication_number": "scpub23",
@@ -966,7 +1028,7 @@
     "text_uid": "pli-tv-kd",
     "translation_title": "Buddha Jayanti Tipiṭaka",
     "translation_subtitle": "",
-    "root_title": "",
+    "root_title": "Khandhaka",
     "translation_process": "",
     "translation_description": "Buddha Jayanti Tipiṭaka of Sri Lanka.",
     "is_published": false,
@@ -976,7 +1038,16 @@
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "license_statement": "This is a transcription of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The transcribers respectfully request that any use be in accordance with the values and principles of the Buddhist community."
-    }
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
   },
   "scpub24": {
     "publication_number": "scpub24",
@@ -999,10 +1070,19 @@
       }
     ],
     "text_uid": "dn-a",
-    "text_title": "Sumaṅgalavilāsinī",
+    "translation_title": "Sumaṅgalavilāsinī",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": false,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This is a transcription of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The transcribers respectfully request that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -1026,7 +1106,7 @@
     "text_uid": "an",
     "translation_title": "Numbered Discourses",
     "translation_subtitle": "",
-    "root_title": "",
+    "root_title": "Aṅguttaranikāya",
     "translation_process": "",
     "translation_description": "",
     "is_published": false,
@@ -1036,7 +1116,16 @@
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
-    }
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
   },
   "scpub26": {
     "publication_number": "scpub26",
@@ -1059,10 +1148,19 @@
       }
     ],
     "text_uid": "dn",
-    "text_title": "Long Discourses",
+    "translation_title": "Long Discourses",
+    "translation_subtitle": "",
+    "root_title": "Dīghanikāya",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": false,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -1152,10 +1250,19 @@
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
     "text_uid": "dhp",
-    "text_title": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Dhammapada",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": true,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -1177,10 +1284,19 @@
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
     "text_uid": "iti",
-    "text_title": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Itivuttaka",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": true,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -1202,10 +1318,19 @@
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
     "text_uid": "snp",
-    "text_title": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Suttanipāta",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": true,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -1227,10 +1352,19 @@
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
     "text_uid": "ud",
-    "text_title": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Udāna",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": true,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -1284,10 +1418,19 @@
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "name",
-    "text_title": "Names",
+    "translation_title": "Names",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": false,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
@@ -1312,8 +1455,8 @@
     "translation_title": "The Medium Discourses",
     "translation_subtitle": "A Translation of the Chinese Madhyama Āgama",
     "root_title": "中阿含經",
-    "translation_process": "The Medium Discourses is translated directly from classical Chinese using the CBETA edition (T 26) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of MĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
-    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "translation_process": "The Medium Discourses is translated directly from classical Chinese using the [CBETA edition](https://cbetaonline.cn/zh/T0026_001) (T26) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of MĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+    "translation_description": "This translation is part of Charles Patton’s [Dharma Pearls Project](https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": true,
     "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls and mirrored at SuttaCentral.",
     "license": {
@@ -1353,8 +1496,8 @@
     "translation_title": "The Numerical Discourses",
     "translation_subtitle": "A Translation of the Chinese Ekôttarika Āgama",
     "root_title": "增壹阿含經",
-    "translation_process": "The Numerical Discourses is translated directly from classical Chinese using the CBETA edition (T 125) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of EĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
-    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "translation_process": "The Numerical Discourses is translated directly from classical Chinese using the [CBETA edition](https://cbetaonline.cn/zh/T0125_001) (T125) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of EĀ sutras by Bhikkhu Anālayo, et al as well as English translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+    "translation_description": "This translation is part of Charles Patton’s [Dharma Pearls Project](https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": false,
     "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls and mirrored at SuttaCentral.",
     "license": {
@@ -1394,8 +1537,8 @@
     "translation_title": "The Long Discourses",
     "translation_subtitle": "A Translation of the Chinese Dīrgha Āgama",
     "root_title": "長阿含經",
-    "translation_process": "The Long Discourses is translated directly from classical Chinese using the CBETA edition (T 1) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of DĀ sutras by Bhikkhu Anālayo and Shohei Ichimura as well as translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
-    "translation_description": "This translation is part of Charles Patton’s Dharma Pearls Project to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
+    "translation_process": "The Long Discourses is translated directly from classical Chinese using the [CBETA edition](https://cbetaonline.cn/zh/T0001_001) (T1) as the root text while consulting parallels found in Chinese, Pali, and Sanskrit. English translations consulted include translations of DĀ sutras by Bhikkhu Anālayo and Shohei Ichimura as well as translations of the Pali Nikāyas by Bhikkhu Sujato and Bhikkhu Bodhi.",
+    "translation_description": "This translation is part of Charles Patton’s [Dharma Pearls Project](https://dharmapearls.net/) to translate Chinese EBTs into modern English and provide them free to the public. This project began in 2019 and is an ongoing work-in-progress.",
     "is_published": false,
     "publication_status": "This is an ongoing translation project in its early stage. Translations of individual sutras are initially released at Dharma Pearls and mirrored at SuttaCentral.",
     "license": {
@@ -1428,7 +1571,7 @@
     "translation_lang_iso": "pli",
     "translation_lang_name": "Pali",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/pli/ms",
-    "author_uid": "",
+    "author_uid": "dhamma-society",
     "author_name": "The M.L. Maniratana Bunnag Dhamma Society Fund",
     "author_github_handle": "",
     "text_uid": "tipitaka",
@@ -1436,7 +1579,7 @@
     "translation_subtitle": "World Tipiṭaka Edition in Roman Script",
     "root_title": "",
     "translation_process": "The Chaṭṭha Saṅgāyana edition was proofread three times visually and three times orally, and checked against over a dozen printed editions.",
-    "translation_description": "Edited and published by The M.L. Maniratana Bunnag Dhamma Society Fund, 2005. Based on the digital edition of the Chaṭṭha Saṅgāyana published by the Vipassana Research Institute, with corrections and proofreading by the Dhamma Society. Prepared for SuttaCentral by Blake Walshe and Bhikkhu Sujato.",
+    "translation_description": "Edited and published by The M.L. Maniratana Bunnag Dhamma Society Fund, 2005. Based on the digital edition of the Chaṭṭha Saṅgāyana published by the Vipassana Research Institute, with corrections and proofreading by the Dhamma Society. Prepared for SuttaCentral by Blake Walsh and Bhikkhu Sujato.",
     "is_published": true,
     "publication_status": "Completed. The original project is dissolved, and SuttaCentral aims to preserve the Mahāsaṅgīti exactly, without making any edits or corrections to the text. SuttaCentral has, however, made a few corrections to punctuation, and have adapted the text to the Bilara JSON format.",
     "license": {
@@ -1462,17 +1605,17 @@
     "translation_lang_iso": "lzh",
     "translation_lang_name": "漢語",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/root/lzh/sct",
-    "author_uid": "",
-    "author_name": "",
+    "author_uid": "patton",
+    "author_name": "Charles D. Patton II",
     "author_github_handle": "",
     "text_uid": "tipitaka",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "SuttaCentral Taisho",
+    "translation_subtitle": "Texts from the Taisho Tripitaka edited for SuttaCentral",
     "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "The [SAT 2018](https://21dzk.l.u-tokyo.ac.jp/SAT2018/) source texts have been corrected and re-punctuated. Most CBETA corrections have been adopted and documented as well as occasional textual corruptions. Variant readings include those from the Taisho, CBETA, and Yinshun’s edition of the Saṁyuktāgama (T99). The text is then reviewed twice and segmented to match English translations by Charles Patton.",
+    "translation_description": "A critical edition of the Taishō Shinshū Daizōkyō (大正新脩大藏經) with improved punctuation and corrections.",
+    "is_published": true,
+    "publication_status": "This is an ongoing project. Texts are prepared individually and added to SuttaCentral as they are completed.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -1481,10 +1624,10 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
         "edition_url": ""
       }
     ]
