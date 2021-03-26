@@ -15,7 +15,11 @@
     "root_path": "root/en/site",
     "translation_path": "translation/pt/site",
     "translation_muids": "translation-pt-site",
-    "collaborator": []
+    "collaborator": [
+      {
+        "author_github_handle": "gnlaera"
+      }
+    ]
   },
   "zh_localization": {
     "name": "Chinese Localization",
@@ -51,7 +55,11 @@
     "root_path": "root/pli/ms/sutta/",
     "translation_path": "translation/pt/laera-quaresma/sutta",
     "translation_muids": "translation-pt-laera-quaresma",
-    "collaborator": []
+    "collaborator": [
+      {
+        "author_github_handle": "gnlaera"
+      }
+    ]
   },
   "jpn_blurb_translation": {
     "name": "Japanese blurbs translation",
@@ -72,6 +80,9 @@
     "collaborator": [
       {
         "author_github_handle": "patton"
+      },
+      {
+        "author_github_handle": "vimalanyani"
       }
     ]
   }
