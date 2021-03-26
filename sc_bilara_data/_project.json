@@ -63,5 +63,16 @@
         "author_github_handle": "kaz-kaz"
       }
     ]
+  },
+  "en_sct_translation": {
+    "name": "Chinese root translation",
+    "root_path": "root/lzh/sct/sutta/",
+    "translation_path": "translation/en/patton/sutta/",
+    "translation_muids": "translation-en-patton",
+    "collaborator": [
+      {
+        "author_github_handle": "patton"
+      }
+    ]
   }
 }
