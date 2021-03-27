@@ -72,15 +72,23 @@
       }
     ]
   },
-  "en_sct_translation": {
-    "name": "Chinese root translation",
+  "en_sct_translation_patton": {
+    "name": "Chinese root translation Charles Patton",
     "root_path": "root/lzh/sct/sutta/",
     "translation_path": "translation/en/patton/sutta/",
     "translation_muids": "translation-en-patton",
     "collaborator": [
       {
         "author_github_handle": "patton"
-      },
+      }
+    ]
+  },
+  "en_sct_translation_vimalanyani": {
+    "name": "Chinese root translation Bhikkhunī Vimalañāṇī",
+    "root_path": "root/lzh/sct/sutta/",
+    "translation_path": "translation/en/vimalanyani/sutta/",
+    "translation_muids": "translation-en-vimalanyani",
+    "collaborator": [
       {
         "author_github_handle": "vimalanyani"
       }
