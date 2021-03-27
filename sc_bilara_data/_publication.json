@@ -1631,5 +1631,39 @@
         "edition_url": ""
       }
     ]
+  },
+  "scpub40": {
+    "publication_number": "scpub40",
+    "root_lang_iso": "lzh",
+    "root_lang_name": "漢語",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/vimalanyani/sutta/sa",
+    "author_uid": "vimalanyani",
+    "author_name": "Bhikkhunī Vimalañāṇī",
+    "author_github_handle": "vimalanyani",
+    "text_uid": "sa",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "雜阿含經",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
   }
 }
