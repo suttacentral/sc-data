@@ -51,7 +51,7 @@
     "type": "translator",
     "name": "Myanmar Translation Team"
   },
-    "ccronje": {
+  "carmi": {
     "type": "translator",
     "name": "Carmi Cronje"
   },
@@ -62,5 +62,9 @@
   "vimalanyani": {
     "type": "translator",
     "name": "Bhikkhunī Vimalañāṇī"
+  },
+  "madhu": {
+    "type": "translator",
+    "name": "Madhuwanthi Buddhadasa"
   }
 }
