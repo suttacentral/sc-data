@@ -61,6 +61,9 @@
     "collaborator": [
       {
         "author_github_handle": "gnlaera"
+      },
+      {
+        "author_github_handle": "nvsitr"
       }
     ]
   },
@@ -105,6 +108,17 @@
     "collaborator": [
       {
         "author_github_handle": "Madhu-metta"
+      }
+    ]
+  },
+  "jpn_ms_translation_kaz": {
+    "name": "Japanese translation",
+    "root_path": "root/pli/ms/sutta/an",
+    "translation_path": "translation/jpn/kaz/sutta/an",
+    "translation_muids": "translation-jpn-kaz",
+    "collaborator": [
+      {
+        "author_github_handle": "kaz-kaz"
       }
     ]
   }
