@@ -121,5 +121,30 @@
         "author_github_handle": "kaz-kaz"
       }
     ]
+  },
+  "pt_blurb_translation": {
+    "name": "Portuguese blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/pt/blurb",
+    "translation_muids": "translation-pt-blurb",
+    "collaborator": [
+      {
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "author_github_handle": "nvsitr"
+      }
+    ]
+  },
+  "id_sct_translation_seniya": {
+    "name": "Chinese root translation Seniya Ariyakumara",
+    "root_path": "root/lzh/sct/sutta",
+    "translation_path": "translation/id/seniya/sutta",
+    "translation_muids": "translation-id-seniya",
+    "collaborator": [
+      {
+        "author_github_handle": "0seniya"
+      }
+    ]
   }
 }
