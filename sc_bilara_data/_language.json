@@ -9,9 +9,9 @@
     "name": "Classical Chinese",
     "is_root": true
   },
-  "en": {
+  "cs": {
     "type": "language",
-    "name": "English",
+    "name": "Čeština",
     "is_root": false
   },
   "de": {
@@ -19,9 +19,14 @@
     "name": "Deutsch",
     "is_root": false
   },
-  "pt": {
+  "en": {
     "type": "language",
-    "name": "Português",
+    "name": "English",
+    "is_root": false
+  },
+  "id": {
+    "type": "language",
+    "name": "Indonesian",
     "is_root": false
   },
   "jpn": {
@@ -29,24 +34,24 @@
     "name": "日本語",
     "is_root": false
   },
-  "ru": {
-    "type": "language",
-    "name": "ру́сский язы́к",
-    "is_root": false
-  },
   "my": {
     "type": "language",
     "name": "မြန်မာစာ",
     "is_root": false
   },
+  "pt": {
+    "type": "language",
+    "name": "Português",
+    "is_root": false
+  },
+  "ru": {
+    "type": "language",
+    "name": "ру́сский язы́к",
+    "is_root": false
+  },
   "si": {
     "type": "language",
     "name": "සිංහල",
-    "is_root": false
-  },
-  "id": {
-    "type": "language",
-    "name": "Indonesian",
     "is_root": false
   }
 }
