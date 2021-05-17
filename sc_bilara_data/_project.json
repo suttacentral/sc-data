@@ -209,6 +209,17 @@
       }
     ]
   },
+  "vi_localization": {
+    "name": "Vietnamese localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/vi/site",
+    "translation_muids": "translation-vi-site",
+    "collaborator": [
+      {
+        "author_github_handle": "phineas-pta"
+      }
+    ]
+  },  
   "zh_localization": {
     "name": "Chinese localization",
     "root_path": "root/en/site",
