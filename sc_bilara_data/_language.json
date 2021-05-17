@@ -53,5 +53,10 @@
     "type": "language",
     "name": "සිංහල",
     "is_root": false
+  },
+  "vi": {
+    "type": "language",
+    "name": "Tiếng Việt",
+    "is_root": false
   }
 }
