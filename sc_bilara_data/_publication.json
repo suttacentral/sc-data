@@ -924,23 +924,28 @@
   },
   "scpub21": {
     "publication_number": "scpub21",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "de",
-    "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/blurb",
-    "collaborator": [
-      {
-        "collaborator_uid": "sabbamitta",
-        "author_name": "Anagarika Sabbamitta",
-        "author_github_handle": "sabbamitta"
-      }
-    ],
-    "text_uid": "blurb",
-    "text_title": "Blurbs",
+    "root_lang_iso": "",
+    "root_lang_name": "",
+    "translation_lang_iso": "",
+    "translation_lang_name": "",
+    "source_url": "",
+    "author_uid": "",
+    "author_name": "",
+    "author_github_handle": "",
+    "text_uid": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
     "is_published": false,
     "publication_status": "",
-    "licence": "CC0",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
     "edition": [
       {
         "edition_number": "",
