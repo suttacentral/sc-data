@@ -53352,13 +53352,12 @@
   },
   {
     "entry": "gimha",
-    "grammar": "masculine",
+    "grammar": "masculine; plural locative ~asu, ~isu, ~esu",
     "definition": [
       "the hot season; summer",
       "a summer month; (plural) the (four months of the) hot season",
       "the heat of summer"
-    ],
-    "usage": "plural loc ~asu, ~isu, ~esu"
+    ]
   },
   {
     "entry": "gimhāna",
@@ -60246,9 +60245,8 @@
   },
   {
     "entry": "je",
-    "grammar": "indeclinable",
-    "definition": "a vocative particle used to address a slave woman or a woman of low grade",
-    "usage": "enclitic"
+    "grammar": "indeclinable; enclitic",
+    "definition": "a vocative particle used to address a slave woman or a woman of low grade"
   },
   {
     "entry": "jeguccha",
@@ -60569,8 +60567,7 @@
   {
     "entry": "ñāṇa",
     "grammar": "neuter",
-    "definition": "knowledge, understanding",
-    "usage": "plural nominative ~ani, ~a, accusative ~ani, ~e ?"
+    "definition": "knowledge, understanding"
   },
   {
     "entry": "ñāṇakaraṇa",
@@ -61594,8 +61591,7 @@
   {
     "entry": "tathārūpa",
     "grammar": "adjective (f. ~ā ~ī)",
-    "definition": "such …; like this or that; such a kind",
-    "usage": " following a defining phrase; followed by yathārūpa, yathā or another relative pronoun"
+    "definition": "such …; like this or that; such a kind"
   },
   {
     "entry": "tathāvādi(n)",
@@ -62174,9 +62170,8 @@
   },
   {
     "entry": "tasathāvara",
-    "grammar": "neuter",
-    "definition": "moving and unmoving beings; trembling and still beings",
-    "usage": "~a, ~ani, masculine neuter plural"
+    "grammar": "neuter; ~a, ~ani, masculine neuter plural",
+    "definition": "moving and unmoving beings; trembling and still beings"
   },
   {
     "entry": "tasara",
@@ -63074,9 +63069,8 @@
   },
   {
     "entry": "tidasa",
-    "grammar": "adjective & masculine pluralural",
-    "definition": "(one of) the thirty(-three) gods",
-    "usage": "adjective and masculine pluralural) numbering thirty(-three"
+    "grammar": "adjective & masculine plural",
+    "definition": "numbering thirty(-three); (one of) the thirty(-three) gods"
   },
   {
     "entry": "tidiva",
@@ -63584,9 +63578,8 @@
   },
   {
     "entry": "tu",
-    "grammar": "indeclinable",
-    "definition": "an enclitic particle: however; but; rather; (sometimes merely expletive)",
-    "usage": "followed by eva written tv"
+    "grammar": "indeclinable; followed by eva written tv",
+    "definition": "an enclitic particle: however; but; rather; (sometimes merely expletive)"
   },
   {
     "entry": "tuṅganāsika",
@@ -70156,8 +70149,7 @@
   {
     "entry": "dhi",
     "grammar": "indeclinable",
-    "definition": "shame! out upon … !",
-    "usage": "an exclamation expressing reproach or displeasure or disgust. usually + accusative, also + genitive, voc. or nominative"
+    "definition": "shame! out upon … !; an exclamation expressing reproach or displeasure or disgust"
   },
   {
     "entry": "dhiti",
@@ -70166,9 +70158,8 @@
   },
   {
     "entry": "dhitima(t)",
-    "grammar": "adjective",
-    "definition": "steadfast, firm, resolute",
-    "usage": "singular/plural nominative ~ma, ~manto"
+    "grammar": "adjective; singular/plural nominative ~ma, ~manto",
+    "definition": "steadfast, firm, resolute"
   },
   {
     "entry": "dhitimanta",
@@ -70578,8 +70569,7 @@
     "homonyms": [
       {
         "grammar": "particle",
-        "definition": "not; no; nor; neither",
-        "usage": "Negative particle. Na doubled with a single verb is a strong affirmation. In successive clauses or phrases na is often simply repeated, but is also often strengthened by another particle"
+        "definition": "not; no; nor; neither; Negative particle. Na doubled with a single verb is a strong affirmation. In successive clauses or phrases na is often simply repeated, but is also often strengthened by another particle"
       },
       {
         "grammar": "indeclinable",
@@ -71072,8 +71062,7 @@
   {
     "entry": "nabha(s)",
     "grammar": "neuter",
-    "definition": "the sky, the atmosphere",
-    "usage": "nominative ~aṁ, ~o; accusative ~aṁ; instrumental ~asā; genitive ~assa; ablative ~ā, ~~asā, ~aso; loe. ~asi, ~asmiṁ, ~amhi, ~e"
+    "definition": "the sky, the atmosphere"
   },
   {
     "entry": "nabhasigama",
@@ -71216,8 +71205,7 @@
   {
     "entry": "nalāṭa",
     "grammar": "neuter",
-    "definition": "the forehead; the brow",
-    "usage": "also written as lalāṭa"
+    "definition": "the forehead; the brow; (also written as lalāṭa)"
   },
   {
     "entry": "nalāṭika",
@@ -72809,9 +72797,8 @@
   },
   {
     "entry": "nigama",
-    "grammar": "masculine",
-    "definition": "a small town, a market town; the people of a town",
-    "usage": "plural accusative occasionally ~ani"
+    "grammar": "masculine; plural accusative occasionally ~ani",
+    "definition": "a small town, a market town; the people of a town"
   },
   {
     "entry": "nigamaghāta",
@@ -76542,9 +76529,8 @@
   },
   {
     "entry": "neka",
-    "grammar": "adjective",
-    "definition": "not one, more than one; many; various",
-    "usage": "plural genitive ~ ānaṁ, ~esaṁ"
+    "grammar": "adjective; plural genitive ~ ānaṁ, ~esaṁ",
+    "definition": "not one, more than one; many; various"
   },
   {
     "entry": "nekatika",
@@ -77209,9 +77195,8 @@
   },
   {
     "entry": "pakubbati",
-    "grammar": "pa + kar + o",
-    "definition": "does; makes; performs",
-    "usage": "karo is changed to kubba"
+    "grammar": "pa + kar + o; karo is changed to kubba",
+    "definition": "does; makes; performs"
   },
   {
     "entry": "pakubbamāna",
@@ -88868,9 +88853,8 @@
   },
   {
     "entry": "passati",
-    "grammar": "dis + a",
-    "definition": "sees; finds; understands",
-    "usage": "dis is changed to pas"
+    "grammar": "dis + a; dis is changed to pas",
+    "definition": "sees; finds; understands"
   },
   {
     "entry": "passaddha",
@@ -90571,9 +90555,8 @@
   },
   {
     "entry": "pi",
-    "grammar": "indeclinable",
-    "definition": "also: and also; even so; but; however; probably; perhaps",
-    "usage": "the enclitic form of api"
+    "grammar": "indeclinable; the enclitic form of api",
+    "definition": "also: and also; even so; but; however; probably; perhaps"
   },
   {
     "entry": "piṁsati",
@@ -100014,9 +99997,8 @@
   },
   {
     "entry": "mārisa",
-    "grammar": "adjective",
-    "definition": "Sir, Sirs",
-    "usage": "found only in voc"
+    "grammar": "adjective; found only in voc",
+    "definition": "Sir, Sirs"
   },
   {
     "entry": "māruta",
@@ -108201,9 +108183,8 @@
   },
   {
     "entry": "vayo",
-    "grammar": "masculine & neuter",
-    "definition": "age; loss; decay; expenditure",
-    "usage": "mano-group"
+    "grammar": "masculine & neuter; mano-group",
+    "definition": "age; loss; decay; expenditure"
   },
   {
     "entry": "vayakaraṇa",
@@ -117464,9 +117445,8 @@
   },
   {
     "entry": "vyayo",
-    "grammar": "masculine & neuter",
-    "definition": "age; loss; decay; expenditure. (see vaya)",
-    "usage": "mano-group"
+    "grammar": "masculine & neuter; mano-group",
+    "definition": "age; loss; decay; expenditure. (see vaya)"
   },
   {
     "entry": "vyasana",
@@ -128064,9 +128044,8 @@
   },
   {
     "entry": "sā",
-    "grammar": "feminine pro",
-    "definition": "she",
-    "usage": "nominative from ta"
+    "grammar": "feminine pronoun; nominative from ta",
+    "definition": "she"
   },
   {
     "entry": "sāṅgaṇa",
@@ -129721,9 +129700,8 @@
   },
   {
     "entry": "siro",
-    "grammar": "masculine & neuter",
-    "definition": "the head",
-    "usage": "mano-group"
+    "grammar": "masculine & neuter; mano-group",
+    "definition": "the head"
   },
   {
     "entry": "sirā",
@@ -131854,9 +131832,8 @@
   },
   {
     "entry": "sussūsati",
-    "grammar": "su + sa",
-    "definition": "listens",
-    "usage": "su + sa; su is doubled and the second u is lengthened"
+    "grammar": "su + sa; su is doubled and the second u is lengthened",
+    "definition": "listens"
   },
   {
     "entry": "sussūsā",
