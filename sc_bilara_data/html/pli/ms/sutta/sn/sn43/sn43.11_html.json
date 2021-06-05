@@ -11,10 +11,10 @@
   "sn43.11:1.7": "<p class='endsection'>{}</p>",
   "sn43.11:1.8": "<p class='endsection'>{}</p>",
   "sn43.11:2.0": "<p class='uddana-intro'>{}</p>",
-  "sn43.11:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn43.11:2.2": "{}<br>",
-  "sn43.11:2.3": "{}<br>",
-  "sn43.11:2.4": "{}<br>",
-  "sn43.11:2.5": "{}<br>",
-  "sn43.11:2.6": "{}</p></blockquote></article>"
+  "sn43.11:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn43.11:2.2": "<span class='verse-line'>{}</span>",
+  "sn43.11:2.3": "<span class='verse-line'>{}</span>",
+  "sn43.11:2.4": "<span class='verse-line'>{}</span>",
+  "sn43.11:2.5": "<span class='verse-line'>{}</span>",
+  "sn43.11:2.6": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

@@ -6,9 +6,9 @@
   "sn52.24:1.2": "<p class='endsection'>{}</p>",
   "sn52.24:1.3": "<p class='endsection'>{}</p>",
   "sn52.24:2.0": "<p class='uddana-intro'>{}</p>",
-  "sn52.24:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn52.24:2.2": "{}<br>",
-  "sn52.24:2.3": "{}<br>",
-  "sn52.24:2.4": "{}</p></blockquote>",
+  "sn52.24:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn52.24:2.2": "<span class='verse-line'>{}</span>",
+  "sn52.24:2.3": "<span class='verse-line'>{}</span>",
+  "sn52.24:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "sn52.24:2.5": "<p class='endsutta'>{}</p></article>"
 }

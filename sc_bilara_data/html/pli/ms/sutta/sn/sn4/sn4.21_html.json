@@ -29,8 +29,8 @@
   "sn4.21:3.1": "{}",
   "sn4.21:3.2": "{}</p>",
   "sn4.21:3.3": "<p>{}</p>",
-  "sn4.21:4.1": "<blockquote class='gatha'><p>{}<br>",
-  "sn4.21:4.2": "{}<br>",
-  "sn4.21:4.3": "{}<br>",
-  "sn4.21:4.4": "{}</p></blockquote></article>"
+  "sn4.21:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sn4.21:4.2": "<span class='verse-line'>{}</span>",
+  "sn4.21:4.3": "<span class='verse-line'>{}</span>",
+  "sn4.21:4.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

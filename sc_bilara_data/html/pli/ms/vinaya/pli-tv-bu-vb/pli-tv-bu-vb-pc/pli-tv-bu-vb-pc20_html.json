@@ -47,8 +47,8 @@
   "pli-tv-bu-vb-pc20:2.3.7": "<p class='endsutta'>{}</p>",
   "pli-tv-bu-vb-pc20:2.3.8": "<p class='endvagga'>{}</p>",
   "pli-tv-bu-vb-pc20:2.3.9": "<section class='uddana'><p class='uddana-intro'>{}</p>",
-  "pli-tv-bu-vb-pc20:2.3.10": "<blockquote class='gatha'><p>{}<br>",
-  "pli-tv-bu-vb-pc20:2.3.11": "{}<br>",
-  "pli-tv-bu-vb-pc20:2.3.12": "{}<br>",
-  "pli-tv-bu-vb-pc20:2.3.13": "{}</p></blockquote></section></article>"
+  "pli-tv-bu-vb-pc20:2.3.10": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-bu-vb-pc20:2.3.11": "<span class='verse-line'>{}</span>",
+  "pli-tv-bu-vb-pc20:2.3.12": "<span class='verse-line'>{}</span>",
+  "pli-tv-bu-vb-pc20:2.3.13": "<span class='verse-line'>{}</span></p></blockquote></section></article>"
 }

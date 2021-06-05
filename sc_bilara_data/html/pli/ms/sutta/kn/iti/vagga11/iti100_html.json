@@ -20,10 +20,10 @@
   "iti100:6.3": "{}</p>",
   "iti100:6.4": "<p>{}",
   "iti100:6.5": "{}</p>",
-  "iti100:7.1": "<blockquote class='gatha'><p>{}<br>",
-  "iti100:7.2": "{}<br>",
-  "iti100:7.3": "{}<br>",
-  "iti100:7.4": "{}</p></blockquote>",
+  "iti100:7.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "iti100:7.2": "<span class='verse-line'>{}</span>",
+  "iti100:7.3": "<span class='verse-line'>{}</span>",
+  "iti100:7.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "iti100:8.1": "<p>{}</p>",
   "iti100:8.2": "<p class='endsection'>{}</p></article>"
 }

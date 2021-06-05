@@ -3,9 +3,9 @@
   "cp28:0.2": "<li>{}</li>",
   "cp28:0.3": "<li>{}</li></ul>",
   "cp28:0.4": "<h1>{}</h1></header>",
-  "cp28:1.1": "<blockquote class='gatha'><p>{}<br>",
-  "cp28:1.2": "{}<br>",
-  "cp28:1.3": "{}<br>",
-  "cp28:1.4": "{}</p></blockquote>",
+  "cp28:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "cp28:1.2": "<span class='verse-line'>{}</span>",
+  "cp28:1.3": "<span class='verse-line'>{}</span>",
+  "cp28:1.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "cp28:2.1": "<p class='endsutta'>{}</p></article>"
 }

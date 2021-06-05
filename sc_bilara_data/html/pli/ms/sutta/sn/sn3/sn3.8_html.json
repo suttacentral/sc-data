@@ -18,8 +18,8 @@
   "sn3.8:2.7": "{}",
   "sn3.8:2.8": "{}</p>",
   "sn3.8:3.1": "<p>{}</p>",
-  "sn3.8:4.1": "<blockquote class='gatha'><p>{}<br>",
-  "sn3.8:4.2": "{}<br>",
-  "sn3.8:4.3": "{}<br>",
-  "sn3.8:4.4": "{}</p></blockquote></article>"
+  "sn3.8:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sn3.8:4.2": "<span class='verse-line'>{}</span>",
+  "sn3.8:4.3": "<span class='verse-line'>{}</span>",
+  "sn3.8:4.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

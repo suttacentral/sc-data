@@ -27,9 +27,9 @@
   "sn21.10:3.7": "{}</p>",
   "sn21.10:4.1": "<p>{}",
   "sn21.10:4.2": "{}</p>",
-  "sn21.10:5.1": "<blockquote class='gatha'><p>{}<br>",
-  "sn21.10:5.2": "{}<br>",
-  "sn21.10:5.3": "{}<br>",
-  "sn21.10:5.4": "{}</p></blockquote>",
+  "sn21.10:5.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sn21.10:5.2": "<span class='verse-line'>{}</span>",
+  "sn21.10:5.3": "<span class='verse-line'>{}</span>",
+  "sn21.10:5.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "sn21.10:5.5": "<p class='endsection'>{}</p></article>"
 }

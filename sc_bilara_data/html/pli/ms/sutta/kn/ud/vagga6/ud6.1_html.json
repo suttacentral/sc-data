@@ -85,9 +85,9 @@
   "ud6.1:15.1": "<p>{}",
   "ud6.1:15.2": "{}</p>",
   "ud6.1:16.1": "<p>{}</p>",
-  "ud6.1:17.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud6.1:17.2": "{}<br>",
-  "ud6.1:17.3": "{}<br>",
-  "ud6.1:17.4": "{}</p></blockquote>",
+  "ud6.1:17.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud6.1:17.2": "<span class='verse-line'>{}</span>",
+  "ud6.1:17.3": "<span class='verse-line'>{}</span>",
+  "ud6.1:17.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud6.1:17.5": "<p class='endsection'>{}</p></article>"
 }

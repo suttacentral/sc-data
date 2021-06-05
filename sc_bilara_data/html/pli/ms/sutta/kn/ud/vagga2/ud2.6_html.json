@@ -23,9 +23,9 @@
   "ud2.6:6.1": "<p>{}",
   "ud2.6:6.2": "{}</p>",
   "ud2.6:7.1": "<p>{}</p>",
-  "ud2.6:8.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud2.6:8.2": "{}<br>",
-  "ud2.6:8.3": "{}<br>",
-  "ud2.6:8.4": "{}</p></blockquote>",
+  "ud2.6:8.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud2.6:8.2": "<span class='verse-line'>{}</span>",
+  "ud2.6:8.3": "<span class='verse-line'>{}</span>",
+  "ud2.6:8.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud2.6:8.5": "<p class='endsection'>{}</p></article>"
 }

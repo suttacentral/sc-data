@@ -13,11 +13,11 @@
   "an10.39:2.2": "<p>{}</p>",
   "an10.39:2.3": "<p>{}</p>",
   "an10.39:2.4": "<p>{}</p>",
-  "an10.39:3.1": "<blockquote class='gatha'><p>{}<br>",
-  "an10.39:3.2": "{}<br>",
-  "an10.39:3.3": "{}<br>",
-  "an10.39:3.4": "{}<br>",
-  "an10.39:3.5": "{}<br>",
-  "an10.39:3.6": "{}</p></blockquote>",
+  "an10.39:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "an10.39:3.2": "<span class='verse-line'>{}</span>",
+  "an10.39:3.3": "<span class='verse-line'>{}</span>",
+  "an10.39:3.4": "<span class='verse-line'>{}</span>",
+  "an10.39:3.5": "<span class='verse-line'>{}</span>",
+  "an10.39:3.6": "<span class='verse-line'>{}</span></p></blockquote>",
   "an10.39:3.7": "<p class='endsection'>{}</p></article>"
 }

@@ -22,11 +22,11 @@
   "sn29.21-50:3.3": "{}</p>",
   "sn29.21-50:3.4": "<p class='endsection'>{}</p>",
   "sn29.21-50:4.0": "<p class='uddana-intro'>{}</p>",
-  "sn29.21-50:4.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn29.21-50:4.2": "{}<br>",
-  "sn29.21-50:4.3": "{}<br>",
-  "sn29.21-50:4.4": "{}<br>",
-  "sn29.21-50:4.5": "{}<br>",
-  "sn29.21-50:4.6": "{}</p></blockquote>",
+  "sn29.21-50:4.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn29.21-50:4.2": "<span class='verse-line'>{}</span>",
+  "sn29.21-50:4.3": "<span class='verse-line'>{}</span>",
+  "sn29.21-50:4.4": "<span class='verse-line'>{}</span>",
+  "sn29.21-50:4.5": "<span class='verse-line'>{}</span>",
+  "sn29.21-50:4.6": "<span class='verse-line'>{}</span></p></blockquote>",
   "sn29.21-50:4.7": "<p class='endsutta'>{}</p></article>"
 }

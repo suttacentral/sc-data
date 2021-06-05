@@ -15,10 +15,10 @@
   "mil3.6.1:1.11": "{}",
   "mil3.6.1:1.12": "{}",
   "mil3.6.1:1.13": "{}</p>",
-  "mil3.6.1:2.1": "<blockquote class='gatha'><p>{}<br>",
-  "mil3.6.1:2.2": "{}<br>",
-  "mil3.6.1:2.3": "{}<br>",
-  "mil3.6.1:2.4": "{}</p></blockquote>",
+  "mil3.6.1:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "mil3.6.1:2.2": "<span class='verse-line'>{}</span>",
+  "mil3.6.1:2.3": "<span class='verse-line'>{}</span>",
+  "mil3.6.1:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "mil3.6.1:3.1": "<p>{}</p>",
   "mil3.6.1:4.1": "<p class='endsutta'>{}</p></article>"
 }

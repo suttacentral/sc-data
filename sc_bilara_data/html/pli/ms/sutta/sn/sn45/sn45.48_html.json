@@ -17,8 +17,8 @@
   "sn45.48:1.13": "<p class='endsection'>{}</p>",
   "sn45.48:1.14": "<p class='endsection'>{}</p>",
   "sn45.48:2.0": "<p class='uddana-intro'>{}</p>",
-  "sn45.48:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn45.48:2.2": "{}<br>",
-  "sn45.48:2.3": "{}<br>",
-  "sn45.48:2.4": "{}</p></blockquote></article>"
+  "sn45.48:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn45.48:2.2": "<span class='verse-line'>{}</span>",
+  "sn45.48:2.3": "<span class='verse-line'>{}</span>",
+  "sn45.48:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

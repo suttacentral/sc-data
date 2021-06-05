@@ -15,15 +15,15 @@
   "an3.122:3.2": "{}",
   "an3.122:3.3": "{}",
   "an3.122:3.4": "{}</p>",
-  "an3.122:4.1": "<blockquote class='gatha'><p>{}<br>",
-  "an3.122:4.2": "{}<br>",
-  "an3.122:4.3": "{}<br>",
-  "an3.122:4.4": "{}</p></blockquote>",
+  "an3.122:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "an3.122:4.2": "<span class='verse-line'>{}</span>",
+  "an3.122:4.3": "<span class='verse-line'>{}</span>",
+  "an3.122:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "an3.122:4.5": "<p class='endsection'>{}</p>",
   "an3.122:4.6": "<p class='endsection'>{}</p>",
   "an3.122:5.0": "<p class='uddana-intro'>{}</p>",
-  "an3.122:5.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "an3.122:5.2": "{}<br>",
-  "an3.122:5.3": "{}<br>",
-  "an3.122:5.4": "{}</p></blockquote></article>"
+  "an3.122:5.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "an3.122:5.2": "<span class='verse-line'>{}</span>",
+  "an3.122:5.3": "<span class='verse-line'>{}</span>",
+  "an3.122:5.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

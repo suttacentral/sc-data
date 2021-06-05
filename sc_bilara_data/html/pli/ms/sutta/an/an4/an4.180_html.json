@@ -94,8 +94,8 @@
   "an4.180:9.12": "<p class='endsection'>{}</p>",
   "an4.180:9.13": "<p class='endsection'>{}</p>",
   "an4.180:10.0": "<p class='uddana-intro'>{}</p>",
-  "an4.180:10.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "an4.180:10.2": "{}<br>",
-  "an4.180:10.3": "{}<br>",
-  "an4.180:10.4": "{}</p></blockquote></article>"
+  "an4.180:10.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "an4.180:10.2": "<span class='verse-line'>{}</span>",
+  "an4.180:10.3": "<span class='verse-line'>{}</span>",
+  "an4.180:10.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

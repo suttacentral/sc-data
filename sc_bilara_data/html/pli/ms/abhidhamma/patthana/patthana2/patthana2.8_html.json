@@ -159,12 +159,21 @@
   "patthana2.8:102.0.1": "<h2>{}</h2>",
   "patthana2.8:102.0.2": "<h3>{}</h3>",
   "patthana2.8:102.1": "<p>{}</p>",
+<<<<<<< HEAD
+  "patthana2.8:103.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "patthana2.8:103.2": "<span class='verse-line'>{}</span>",
+  "patthana2.8:103.3": "<span class='verse-line'>{}</span>",
+  "patthana2.8:103.4": "<span class='verse-line'>{}</span>",
+  "patthana2.8:103.5": "<span class='verse-line'>{}</span>",
+  "patthana2.8:103.6": "<span class='verse-line'>{}</span></p></blockquote>",
+=======
   "patthana2.8:103.1": "<blockquote class='gatha'><p>{}<br>",
   "patthana2.8:103.2": "{}<br>",
   "patthana2.8:103.3": "{}<br>",
   "patthana2.8:103.4": "{}<br>",
   "patthana2.8:103.5": "{}<br>",
   "patthana2.8:103.6": "{}</p></blockquote>",
+>>>>>>> published
   "patthana2.8:104.1": "<p class='expansion-instructions'>{}</p>",
   "patthana2.8:105.1": "<p class='endsutta'>{}</p>",
   "patthana2.8:106.0.1": "<h2>{}</h2>",

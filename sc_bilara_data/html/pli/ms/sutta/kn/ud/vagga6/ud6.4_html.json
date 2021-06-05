@@ -100,9 +100,9 @@
   "ud6.4:31.4": "{}",
   "ud6.4:31.5": "{}</p>",
   "ud6.4:32.1": "<p>{}</p>",
-  "ud6.4:33.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud6.4:33.2": "{}<br>",
-  "ud6.4:33.3": "{}<br>",
-  "ud6.4:33.4": "{}</p></blockquote>",
+  "ud6.4:33.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud6.4:33.2": "<span class='verse-line'>{}</span>",
+  "ud6.4:33.3": "<span class='verse-line'>{}</span>",
+  "ud6.4:33.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud6.4:33.5": "<p class='endsection'>{}</p></article>"
 }

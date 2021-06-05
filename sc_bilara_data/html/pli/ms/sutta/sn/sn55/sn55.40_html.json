@@ -59,8 +59,8 @@
   "sn55.40:6.13": "<p class='endsection'>{}</p>",
   "sn55.40:6.14": "<p class='endsection'>{}</p>",
   "sn55.40:7.0": "<p class='uddana-intro'>{}</p>",
-  "sn55.40:7.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn55.40:7.2": "{}<br>",
-  "sn55.40:7.3": "{}<br>",
-  "sn55.40:7.4": "{}</p></blockquote></article>"
+  "sn55.40:7.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn55.40:7.2": "<span class='verse-line'>{}</span>",
+  "sn55.40:7.3": "<span class='verse-line'>{}</span>",
+  "sn55.40:7.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

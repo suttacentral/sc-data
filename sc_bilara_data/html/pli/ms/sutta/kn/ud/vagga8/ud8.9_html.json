@@ -12,9 +12,9 @@
   "ud8.9:3.2": "{}",
   "ud8.9:3.3": "{}</p>",
   "ud8.9:4.1": "<p>{}</p>",
-  "ud8.9:5.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud8.9:5.2": "{}<br>",
-  "ud8.9:5.3": "{}<br>",
-  "ud8.9:5.4": "{}</p></blockquote>",
+  "ud8.9:5.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud8.9:5.2": "<span class='verse-line'>{}</span>",
+  "ud8.9:5.3": "<span class='verse-line'>{}</span>",
+  "ud8.9:5.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud8.9:5.5": "<p class='endsutta'>{}</p></article>"
 }

@@ -63,8 +63,8 @@
   "an6.10:8.2": "<p class='endsection'>{}</p>",
   "an6.10:8.3": "<p class='endsection'>{}</p>",
   "an6.10:9.0": "<p class='uddana-intro'>{}</p>",
-  "an6.10:9.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "an6.10:9.2": "{}<br>",
-  "an6.10:9.3": "{}<br>",
-  "an6.10:9.4": "{}</p></blockquote></article>"
+  "an6.10:9.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "an6.10:9.2": "<span class='verse-line'>{}</span>",
+  "an6.10:9.3": "<span class='verse-line'>{}</span>",
+  "an6.10:9.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

@@ -101,10 +101,10 @@
   "mil3.1.1:7.1": "<p>{}",
   "mil3.1.1:7.2": "{}",
   "mil3.1.1:7.3": "{}</p>",
-  "mil3.1.1:8.1": "<blockquote class='gatha'><p>{}<br>",
-  "mil3.1.1:8.2": "{}<br>",
-  "mil3.1.1:8.3": "{}<br>",
-  "mil3.1.1:8.4": "{}</p></blockquote>",
+  "mil3.1.1:8.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "mil3.1.1:8.2": "<span class='verse-line'>{}</span>",
+  "mil3.1.1:8.3": "<span class='verse-line'>{}</span>",
+  "mil3.1.1:8.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "mil3.1.1:9.1": "<p>{}</p>",
   "mil3.1.1:10.1": "<p class='endsutta'>{}</p></article>"
 }

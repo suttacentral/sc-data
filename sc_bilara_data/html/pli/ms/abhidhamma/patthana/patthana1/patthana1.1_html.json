@@ -104,20 +104,34 @@
   "patthana1.1:86.1": "<p>{}</p>",
   "patthana1.1:87.1": "<p>{}</p>",
   "patthana1.1:88.1": "<p>{}</p>",
+<<<<<<< HEAD
+  "patthana1.1:89.1": "<blockquote class='gatha'><p data-counter='11'><span class='verse-line'>{}</span>",
+  "patthana1.1:89.2": "<span class='verse-line'>{}</span>",
+  "patthana1.1:89.3": "<span class='verse-line'>{}</span>",
+  "patthana1.1:89.4": "<span class='verse-line'>{}</span></p></blockquote>",
+=======
   "patthana1.1:89.1": "<blockquote class='gatha'><p data-counter='1'>{}<br>",
   "patthana1.1:89.2": "{}<br>",
   "patthana1.1:89.3": "{}<br>",
   "patthana1.1:89.4": "{}</p></blockquote>",
+>>>>>>> published
   "patthana1.1:90.0": "<h4>{}</h4>",
   "patthana1.1:90.1": "<p>{}</p>",
   "patthana1.1:91.1": "<p>{}</p>",
   "patthana1.1:92.1": "<p>{}</p>",
   "patthana1.1:93.1": "<p>{}</p>",
   "patthana1.1:94.1": "<p>{}</p>",
+<<<<<<< HEAD
+  "patthana1.1:95.1": "<blockquote class='gatha'><p data-counter='21'><span class='verse-line'>{}</span>",
+  "patthana1.1:95.2": "<span class='verse-line'>{}</span>",
+  "patthana1.1:95.3": "<span class='verse-line'>{}</span>",
+  "patthana1.1:95.4": "<span class='verse-line'>{}</span></p></blockquote>",
+=======
   "patthana1.1:95.1": "<blockquote class='gatha'><p data-counter='2'>{}<br>",
   "patthana1.1:95.2": "{}<br>",
   "patthana1.1:95.3": "{}<br>",
   "patthana1.1:95.4": "{}</p></blockquote>",
+>>>>>>> published
   "patthana1.1:96.0": "<h4>{}</h4>",
   "patthana1.1:96.1": "<p>{}</p>",
   "patthana1.1:97.1": "<p>{}</p>",
@@ -130,10 +144,17 @@
   "patthana1.1:104.1": "<p>{}</p>",
   "patthana1.1:105.1": "<p>{}</p>",
   "patthana1.1:106.1": "<p>{}</p>",
+<<<<<<< HEAD
+  "patthana1.1:107.1": "<blockquote class='gatha'><p data-counter='31'><span class='verse-line'>{}</span>",
+  "patthana1.1:107.2": "<span class='verse-line'>{}</span>",
+  "patthana1.1:107.3": "<span class='verse-line'>{}</span>",
+  "patthana1.1:107.4": "<span class='verse-line'>{}</span></p></blockquote>",
+=======
   "patthana1.1:107.1": "<blockquote class='gatha'><p data-counter='3'>{}<br>",
   "patthana1.1:107.2": "{}<br>",
   "patthana1.1:107.3": "{}<br>",
   "patthana1.1:107.4": "{}</p></blockquote>",
+>>>>>>> published
   "patthana1.1:108.0": "<h4>{}</h4>",
   "patthana1.1:108.1": "<p>{}</p>",
   "patthana1.1:109.1": "<p>{}</p>",
@@ -143,10 +164,17 @@
   "patthana1.1:113.1": "<p>{}</p>",
   "patthana1.1:114.1": "<p>{}</p>",
   "patthana1.1:115.1": "<p>{}</p>",
+<<<<<<< HEAD
+  "patthana1.1:116.1": "<blockquote class='gatha'><p data-counter='41'><span class='verse-line'>{}</span>",
+  "patthana1.1:116.2": "<span class='verse-line'>{}</span>",
+  "patthana1.1:116.3": "<span class='verse-line'>{}</span>",
+  "patthana1.1:116.4": "<span class='verse-line'>{}</span></p></blockquote>",
+=======
   "patthana1.1:116.1": "<blockquote class='gatha'><p data-counter='4'>{}<br>",
   "patthana1.1:116.2": "{}<br>",
   "patthana1.1:116.3": "{}<br>",
   "patthana1.1:116.4": "{}</p></blockquote>",
+>>>>>>> published
   "patthana1.1:117.1": "<p class='endsutta'>{}</p>",
   "patthana1.1:118.1": "<p class='endsection'>{}</p></article>"
 }

@@ -10,6 +10,16 @@
   "iti108:2.4": "{}</p>",
   "iti108:2.5": "<p>{}",
   "iti108:2.6": "{}</p>",
+<<<<<<< HEAD
+  "iti108:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "iti108:3.2": "<span class='verse-line'>{}</span>",
+  "iti108:3.3": "<span class='verse-line'>{}</span>",
+  "iti108:3.4": "<span class='verse-line'>{}</span></p>",
+  "iti108:4.1": "<p><span class='verse-line'>{}</span>",
+  "iti108:4.2": "<span class='verse-line'>{}</span>",
+  "iti108:4.3": "<span class='verse-line'>{}</span>",
+  "iti108:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
+=======
   "iti108:3.1": "<blockquote class='gatha'><p>{}<br>",
   "iti108:3.2": "{}<br>",
   "iti108:3.3": "{}<br>",
@@ -18,6 +28,7 @@
   "iti108:4.2": "{}<br>",
   "iti108:4.3": "{}<br>",
   "iti108:4.4": "{}</p></blockquote>",
+>>>>>>> published
   "iti108:5.1": "<p>{}</p>",
   "iti108:5.2": "<p class='endsection'>{}</p></article>"
 }

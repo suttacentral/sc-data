@@ -24,9 +24,9 @@
   "ud8.7:3.3": "{}",
   "ud8.7:3.4": "{}</p>",
   "ud8.7:4.1": "<p>{}</p>",
-  "ud8.7:5.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud8.7:5.2": "{}<br>",
-  "ud8.7:5.3": "{}<br>",
-  "ud8.7:5.4": "{}</p></blockquote>",
+  "ud8.7:5.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud8.7:5.2": "<span class='verse-line'>{}</span>",
+  "ud8.7:5.3": "<span class='verse-line'>{}</span>",
+  "ud8.7:5.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud8.7:5.5": "<p class='endsection'>{}</p></article>"
 }

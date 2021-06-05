@@ -8,12 +8,12 @@
   "iti11:2.2": "{}</p>",
   "iti11:2.3": "<p>{}",
   "iti11:2.4": "{}</p>",
-  "iti11:3.1": "<blockquote class='gatha'><p>{}<br>",
-  "iti11:3.2": "{}<br>",
-  "iti11:3.3": "{}<br>",
-  "iti11:3.4": "{}<br>",
-  "iti11:3.5": "{}<br>",
-  "iti11:3.6": "{}</p></blockquote>",
+  "iti11:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "iti11:3.2": "<span class='verse-line'>{}</span>",
+  "iti11:3.3": "<span class='verse-line'>{}</span>",
+  "iti11:3.4": "<span class='verse-line'>{}</span>",
+  "iti11:3.5": "<span class='verse-line'>{}</span>",
+  "iti11:3.6": "<span class='verse-line'>{}</span></p></blockquote>",
   "iti11:4.1": "<p>{}</p>",
   "iti11:4.2": "<p class='endsection'>{}</p></article>"
 }

@@ -7,9 +7,9 @@
   "sn1.2:2.1": "{}</p>",
   "sn1.2:3.1": "<p>{}</p>",
   "sn1.2:4.1": "<p>{}</p>",
-  "sn1.2:5.1": "<blockquote class='gatha'><p>{}<br>",
-  "sn1.2:5.2": "{}<br>",
-  "sn1.2:5.3": "{}<br>",
-  "sn1.2:5.4": "{}<br>",
-  "sn1.2:5.5": "{}</p></blockquote></article>"
+  "sn1.2:5.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sn1.2:5.2": "<span class='verse-line'>{}</span>",
+  "sn1.2:5.3": "<span class='verse-line'>{}</span>",
+  "sn1.2:5.4": "<span class='verse-line'>{}</span>",
+  "sn1.2:5.5": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

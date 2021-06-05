@@ -11,15 +11,15 @@
   "mil7.2.10:2.2": "{}",
   "mil7.2.10:2.3": "{}",
   "mil7.2.10:2.4": "{}</p>",
-  "mil7.2.10:3.1": "<blockquote class='gatha'><p>{}<br>",
-  "mil7.2.10:3.2": "{}<br>",
-  "mil7.2.10:3.3": "{}<br>",
-  "mil7.2.10:3.4": "{}</p></blockquote>",
+  "mil7.2.10:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "mil7.2.10:3.2": "<span class='verse-line'>{}</span>",
+  "mil7.2.10:3.3": "<span class='verse-line'>{}</span>",
+  "mil7.2.10:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "mil7.2.10:4.1": "<p class='endsutta'>{}</p>",
   "mil7.2.10:5.1": "<p class='endsection'>{}</p>",
   "mil7.2.10:6.1": "<p class='uddana-intro'>{}</p>",
-  "mil7.2.10:7.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "mil7.2.10:7.2": "{}<br>",
-  "mil7.2.10:7.3": "{}<br>",
-  "mil7.2.10:7.4": "{}</p></blockquote></article>"
+  "mil7.2.10:7.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "mil7.2.10:7.2": "<span class='verse-line'>{}</span>",
+  "mil7.2.10:7.3": "<span class='verse-line'>{}</span>",
+  "mil7.2.10:7.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

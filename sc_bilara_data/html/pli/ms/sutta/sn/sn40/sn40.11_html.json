@@ -11,11 +11,11 @@
   "sn40.11:6.2": "<p class='endsection'>{}</p>",
   "sn40.11:6.3": "<p class='endsection'>{}</p>",
   "sn40.11:7.0": "<p class='uddana-intro'>{}</p>",
-  "sn40.11:7.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn40.11:7.2": "{}<br>",
-  "sn40.11:7.3": "{}<br>",
-  "sn40.11:7.4": "{}<br>",
-  "sn40.11:7.5": "{}<br>",
-  "sn40.11:7.6": "{}</p></blockquote>",
+  "sn40.11:7.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn40.11:7.2": "<span class='verse-line'>{}</span>",
+  "sn40.11:7.3": "<span class='verse-line'>{}</span>",
+  "sn40.11:7.4": "<span class='verse-line'>{}</span>",
+  "sn40.11:7.5": "<span class='verse-line'>{}</span>",
+  "sn40.11:7.6": "<span class='verse-line'>{}</span></p></blockquote>",
   "sn40.11:7.7": "<p class='endsutta'>{}</p></article>"
 }

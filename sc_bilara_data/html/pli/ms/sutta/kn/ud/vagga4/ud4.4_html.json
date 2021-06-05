@@ -41,11 +41,11 @@
   "ud4.4:7.3": "{}</p>",
   "ud4.4:8.1": "<p>{}</p>",
   "ud4.4:9.1": "<p>{}</p>",
-  "ud4.4:10.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud4.4:10.2": "{}<br>",
-  "ud4.4:10.3": "{}<br>",
-  "ud4.4:10.4": "{}<br>",
-  "ud4.4:10.5": "{}<br>",
-  "ud4.4:10.6": "{}</p></blockquote>",
+  "ud4.4:10.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud4.4:10.2": "<span class='verse-line'>{}</span>",
+  "ud4.4:10.3": "<span class='verse-line'>{}</span>",
+  "ud4.4:10.4": "<span class='verse-line'>{}</span>",
+  "ud4.4:10.5": "<span class='verse-line'>{}</span>",
+  "ud4.4:10.6": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud4.4:10.7": "<p class='endsection'>{}</p></article>"
 }

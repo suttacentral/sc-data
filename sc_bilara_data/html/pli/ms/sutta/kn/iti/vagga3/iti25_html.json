@@ -9,10 +9,10 @@
   "iti25:2.3": "{}</p>",
   "iti25:2.4": "<p>{}",
   "iti25:2.5": "{}</p>",
-  "iti25:3.1": "<blockquote class='gatha'><p>{}<br>",
-  "iti25:3.2": "{}<br>",
-  "iti25:3.3": "{}<br>",
-  "iti25:3.4": "{}</p></blockquote>",
+  "iti25:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "iti25:3.2": "<span class='verse-line'>{}</span>",
+  "iti25:3.3": "<span class='verse-line'>{}</span>",
+  "iti25:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "iti25:4.1": "<p>{}</p>",
   "iti25:4.2": "<p class='endsection'>{}</p></article>"
 }

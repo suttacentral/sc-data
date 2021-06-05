@@ -95,9 +95,9 @@
   "dt2.11:8.32": "{}",
   "dt2.11:8.33": "{}",
   "dt2.11:8.34": "{}</p>",
-  "dt2.11:9.1": "<blockquote class='gatha'><p>{}<br>",
-  "dt2.11:9.2": "{}<br>",
-  "dt2.11:9.3": "{}<br>",
-  "dt2.11:9.4": "{}</p></blockquote>",
+  "dt2.11:9.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "dt2.11:9.2": "<span class='verse-line'>{}</span>",
+  "dt2.11:9.3": "<span class='verse-line'>{}</span>",
+  "dt2.11:9.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "dt2.11:10.1": "<p class='endsection'>{}</p></article>"
 }

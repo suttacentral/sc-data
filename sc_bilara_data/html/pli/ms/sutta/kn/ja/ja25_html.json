@@ -3,9 +3,9 @@
   "ja25:0.2": "<li>{}</li>",
   "ja25:0.3": "<li>{}</li></ul>",
   "ja25:0.4": "<h1>{}</h1></header>",
-  "ja25:1.1": "<blockquote class='gatha'><p>{}<br>",
-  "ja25:1.2": "{}<br>",
-  "ja25:1.3": "{}<br>",
-  "ja25:1.4": "{}</p></blockquote>",
+  "ja25:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ja25:1.2": "<span class='verse-line'>{}</span>",
+  "ja25:1.3": "<span class='verse-line'>{}</span>",
+  "ja25:1.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ja25:2.1": "<p class='endsutta'>{}</p></article>"
 }

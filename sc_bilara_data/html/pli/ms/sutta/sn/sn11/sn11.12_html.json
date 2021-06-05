@@ -21,12 +21,12 @@
   "sn11.12:8.8": "{}",
   "sn11.12:8.9": "{}</p>",
   "sn11.12:8.10": "<p>{}</p>",
-  "sn11.12:9.1": "<blockquote class='gatha'><p>{}<br>",
-  "sn11.12:9.2": "{}<br>",
-  "sn11.12:9.3": "{}<br>",
-  "sn11.12:9.4": "{}</p>",
-  "sn11.12:10.1": "<p>{}<br>",
-  "sn11.12:10.2": "{}<br>",
-  "sn11.12:10.3": "{}<br>",
-  "sn11.12:10.4": "{}</p></blockquote></article>"
+  "sn11.12:9.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sn11.12:9.2": "<span class='verse-line'>{}</span>",
+  "sn11.12:9.3": "<span class='verse-line'>{}</span>",
+  "sn11.12:9.4": "<span class='verse-line'>{}</span></p>",
+  "sn11.12:10.1": "<p><span class='verse-line'>{}</span>",
+  "sn11.12:10.2": "<span class='verse-line'>{}</span>",
+  "sn11.12:10.3": "<span class='verse-line'>{}</span>",
+  "sn11.12:10.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

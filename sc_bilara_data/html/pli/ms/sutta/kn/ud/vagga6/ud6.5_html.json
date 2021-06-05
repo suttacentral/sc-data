@@ -54,9 +54,9 @@
   "ud6.5:22.4": "{}",
   "ud6.5:22.5": "{}</p>",
   "ud6.5:23.1": "<p>{}</p>",
-  "ud6.5:24.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud6.5:24.2": "{}<br>",
-  "ud6.5:24.3": "{}<br>",
-  "ud6.5:24.4": "{}</p></blockquote>",
+  "ud6.5:24.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud6.5:24.2": "<span class='verse-line'>{}</span>",
+  "ud6.5:24.3": "<span class='verse-line'>{}</span>",
+  "ud6.5:24.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud6.5:24.5": "<p class='endsection'>{}</p></article>"
 }

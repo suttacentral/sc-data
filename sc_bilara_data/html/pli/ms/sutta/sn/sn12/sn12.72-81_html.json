@@ -18,13 +18,20 @@
   "sn12.72-81:10.4": "<p class='endsection'>{}</p>",
   "sn12.72-81:10.5": "<p class='endsection'>{}</p>",
   "sn12.72-81:11.0": "<p class='uddana-intro'>{}</p>",
-  "sn12.72-81:11.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn12.72-81:11.2": "{}<br>",
-  "sn12.72-81:11.3": "{}<br>",
-  "sn12.72-81:11.4": "{}</p></blockquote>",
+  "sn12.72-81:11.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn12.72-81:11.2": "<span class='verse-line'>{}</span>",
+  "sn12.72-81:11.3": "<span class='verse-line'>{}</span>",
+  "sn12.72-81:11.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "sn12.72-81:12.0": "<p class='uddana-intro'>{}</p>",
+<<<<<<< HEAD
+  "sn12.72-81:12.1": "<blockquote class='uddanagatha'><p data-counter='3541'><span class='verse-line'>{}</span>",
+  "sn12.72-81:12.2": "<span class='verse-line'>{}</span>",
+  "sn12.72-81:12.3": "<span class='verse-line'>{}</span>",
+  "sn12.72-81:12.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+=======
   "sn12.72-81:12.1": "<blockquote class='uddanagatha'><p data-counter='354'>{}<br>",
   "sn12.72-81:12.2": "{}<br>",
   "sn12.72-81:12.3": "{}<br>",
   "sn12.72-81:12.4": "{}</p></blockquote></article>"
+>>>>>>> published
 }

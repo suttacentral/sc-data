@@ -14,9 +14,9 @@
   "mil7.6.9:3.2": "{}",
   "mil7.6.9:3.3": "{}",
   "mil7.6.9:3.4": "{}</p>",
-  "mil7.6.9:4.1": "<blockquote class='gatha'><p>{}<br>",
-  "mil7.6.9:4.2": "{}<br>",
-  "mil7.6.9:4.3": "{}<br>",
-  "mil7.6.9:4.4": "{}</p></blockquote>",
+  "mil7.6.9:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "mil7.6.9:4.2": "<span class='verse-line'>{}</span>",
+  "mil7.6.9:4.3": "<span class='verse-line'>{}</span>",
+  "mil7.6.9:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "mil7.6.9:5.1": "<p class='endsutta'>{}</p></article>"
 }

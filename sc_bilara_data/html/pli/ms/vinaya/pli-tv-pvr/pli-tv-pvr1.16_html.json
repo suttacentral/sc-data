@@ -24,7 +24,11 @@
   "pli-tv-pvr1.16:1.19": "{}",
   "pli-tv-pvr1.16:1.20": "{}",
   "pli-tv-pvr1.16:1.21": "<span data-content='1'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.16:2.1": "<p>{}",
+=======
   "pli-tv-pvr1.16:2.1": "<p data-content='75'>{}",
+>>>>>>> published
   "pli-tv-pvr1.16:2.2": "{}",
   "pli-tv-pvr1.16:2.3": "{}",
   "pli-tv-pvr1.16:2.4": "{}",

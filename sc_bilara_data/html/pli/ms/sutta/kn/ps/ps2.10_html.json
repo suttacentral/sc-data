@@ -297,9 +297,9 @@
   "ps2.10:31.11": "<p class='endsutta'>{}</p>",
   "ps2.10:31.12": "<p class='endsection'>{}</p>",
   "ps2.10:31.13": "<p class='uddana-intro'>{}</p>",
-  "ps2.10:32.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "ps2.10:32.2": "{}<br>",
-  "ps2.10:32.3": "{}<br>",
-  "ps2.10:32.4": "{}</p></blockquote>",
+  "ps2.10:32.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "ps2.10:32.2": "<span class='verse-line'>{}</span>",
+  "ps2.10:32.3": "<span class='verse-line'>{}</span>",
+  "ps2.10:32.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ps2.10:32.5": "<p class='endsutta'>{}</p></article>"
 }

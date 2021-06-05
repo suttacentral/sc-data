@@ -50,10 +50,10 @@
   "sn14.10:4.10": "<p class='endsection'>{}</p>",
   "sn14.10:4.11": "<p class='endsection'>{}</p>",
   "sn14.10:5.0": "<p class='uddana-intro'>{}</p>",
-  "sn14.10:5.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn14.10:5.2": "{}<br>",
-  "sn14.10:5.3": "{}<br>",
-  "sn14.10:5.4": "{}<br>",
-  "sn14.10:5.5": "{}<br>",
-  "sn14.10:5.6": "{}</p></blockquote></article>"
+  "sn14.10:5.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn14.10:5.2": "<span class='verse-line'>{}</span>",
+  "sn14.10:5.3": "<span class='verse-line'>{}</span>",
+  "sn14.10:5.4": "<span class='verse-line'>{}</span>",
+  "sn14.10:5.5": "<span class='verse-line'>{}</span>",
+  "sn14.10:5.6": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

@@ -4,13 +4,13 @@
   "sn2.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn2.7:1.1": "<p>{}</p>",
   "sn2.7:1.2": "<p>{}</p>",
-  "sn2.7:2.1": "<blockquote class='gatha'><p>{}<br>",
-  "sn2.7:2.2": "{}<br>",
-  "sn2.7:2.3": "{}<br>",
-  "sn2.7:2.4": "{}</p>",
+  "sn2.7:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sn2.7:2.2": "<span class='verse-line'>{}</span>",
+  "sn2.7:2.3": "<span class='verse-line'>{}</span>",
+  "sn2.7:2.4": "<span class='verse-line'>{}</span></p>",
   "sn2.7:3.1": "<p>{}",
-  "sn2.7:3.2": "<span class='speaker'>{}</span><br>",
-  "sn2.7:3.3": "{}<br>",
-  "sn2.7:3.4": "{}<br>",
-  "sn2.7:3.5": "{}</p></blockquote></article>"
+  "sn2.7:3.2": "<span class='speaker'>{}</span>",
+  "sn2.7:3.3": "<span class='verse-line'>{}</span>",
+  "sn2.7:3.4": "<span class='verse-line'>{}</span>",
+  "sn2.7:3.5": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

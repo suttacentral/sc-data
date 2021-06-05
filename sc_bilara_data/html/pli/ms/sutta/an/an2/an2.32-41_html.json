@@ -41,12 +41,21 @@
   "an2.35:1.5": "{}</p>",
   "an2.35:2.1": "<p>{}",
   "an2.35:2.2": "{}</p>",
+<<<<<<< HEAD
+  "an2.35:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "an2.35:3.2": "<span class='verse-line'>{}</span>",
+  "an2.35:3.3": "<span class='verse-line'>{}</span>",
+  "an2.35:3.4": "<span class='verse-line'>{}</span>",
+  "an2.35:3.5": "<span class='verse-line'>{}</span>",
+  "an2.35:3.6": "<span class='verse-line'>{}</span></p></blockquote></article>",
+=======
   "an2.35:3.1": "<blockquote class='gatha'><p>{}<br>",
   "an2.35:3.2": "{}<br>",
   "an2.35:3.3": "{}<br>",
   "an2.35:3.4": "{}<br>",
   "an2.35:3.5": "{}<br>",
   "an2.35:3.6": "{}</p></blockquote></article>",
+>>>>>>> published
   "an2.36:1.0": "<article id='an2.36'><h2 class='sutta-title'>{}</h2>",
   "an2.36:1.1": "<p><span class='evam'>{}</span>",
   "an2.36:1.2": "{}</p>",

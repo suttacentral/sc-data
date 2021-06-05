@@ -148,9 +148,9 @@
   "pli-tv-bu-vb-ay2:3.18": "{}",
   "pli-tv-bu-vb-ay2:3.19": "{}</p></section>",
   "pli-tv-bu-vb-ay2:3.20": "<section class='uddana'><p class='uddana-intro'>{}</p>",
-  "pli-tv-bu-vb-ay2:3.21": "<blockquote class='gatha'><p>{}<br>",
-  "pli-tv-bu-vb-ay2:3.22": "{}<br>",
-  "pli-tv-bu-vb-ay2:3.23": "{}<br>",
-  "pli-tv-bu-vb-ay2:3.24": "{}</p></blockquote></section>",
+  "pli-tv-bu-vb-ay2:3.21": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-bu-vb-ay2:3.22": "<span class='verse-line'>{}</span>",
+  "pli-tv-bu-vb-ay2:3.23": "<span class='verse-line'>{}</span>",
+  "pli-tv-bu-vb-ay2:3.24": "<span class='verse-line'>{}</span></p></blockquote></section>",
   "pli-tv-bu-vb-ay2:3.25": "<p class='endkanda'>{}</p></article>"
 }

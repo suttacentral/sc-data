@@ -8,9 +8,9 @@
   "ud1.7:1.5": "{}",
   "ud1.7:1.6": "{}</p>",
   "ud1.7:2.1": "<p>{}</p>",
-  "ud1.7:3.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud1.7:3.2": "{}<br>",
-  "ud1.7:3.3": "{}<br>",
-  "ud1.7:3.4": "{}</p></blockquote>",
+  "ud1.7:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud1.7:3.2": "<span class='verse-line'>{}</span>",
+  "ud1.7:3.3": "<span class='verse-line'>{}</span>",
+  "ud1.7:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud1.7:3.5": "<p class='endsection'>{}</p></article>"
 }

@@ -54,12 +54,12 @@
   "kv23.5:5.3": "<p class='uddana-intro'>{}</p>",
   "kv23.5:6.1": "<p class='uddana'>{}</p>",
   "kv23.5:6.2": "<p class='uddana-intro'>{}</p>",
-  "kv23.5:7.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "kv23.5:7.2": "{}<br>",
-  "kv23.5:7.3": "{}<br>",
-  "kv23.5:7.4": "{}<br>",
-  "kv23.5:7.5": "{}<br>",
-  "kv23.5:7.6": "{}</p></blockquote>",
+  "kv23.5:7.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "kv23.5:7.2": "<span class='verse-line'>{}</span>",
+  "kv23.5:7.3": "<span class='verse-line'>{}</span>",
+  "kv23.5:7.4": "<span class='verse-line'>{}</span>",
+  "kv23.5:7.5": "<span class='verse-line'>{}</span>",
+  "kv23.5:7.6": "<span class='verse-line'>{}</span></p></blockquote>",
   "kv23.5:7.7": "<p class='endsection'>{}</p>",
   "kv23.5:7.8": "<p class='endbook'>{}</p></article>"
 }

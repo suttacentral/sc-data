@@ -58,9 +58,9 @@
   "dt2.4:5.14": "{}",
   "dt2.4:5.15": "{}",
   "dt2.4:5.16": "{}</p>",
-  "dt2.4:6.1": "<blockquote class='gatha'><p>{}<br>",
-  "dt2.4:6.2": "{}<br>",
-  "dt2.4:6.3": "{}<br>",
-  "dt2.4:6.4": "{}</p></blockquote>",
+  "dt2.4:6.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "dt2.4:6.2": "<span class='verse-line'>{}</span>",
+  "dt2.4:6.3": "<span class='verse-line'>{}</span>",
+  "dt2.4:6.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "dt2.4:7.1": "<p class='endsection'>{}</p></article>"
 }

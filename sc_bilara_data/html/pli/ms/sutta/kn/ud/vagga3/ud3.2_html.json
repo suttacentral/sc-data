@@ -68,9 +68,9 @@
   "ud3.2:16.7": "{}",
   "ud3.2:16.8": "{}</p>",
   "ud3.2:17.1": "<p>{}</p>",
-  "ud3.2:18.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud3.2:18.2": "{}<br>",
-  "ud3.2:18.3": "{}<br>",
-  "ud3.2:18.4": "{}</p></blockquote>",
+  "ud3.2:18.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud3.2:18.2": "<span class='verse-line'>{}</span>",
+  "ud3.2:18.3": "<span class='verse-line'>{}</span>",
+  "ud3.2:18.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud3.2:18.5": "<p class='endsection'>{}</p></article>"
 }

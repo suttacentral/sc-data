@@ -66,8 +66,15 @@
   "mn40:14.6": "<p class='endsection'>{}</p>",
   "mn40:14.7": "<p class='endsutta'>{}</p>",
   "mn40:15.0": "<p class='uddana-intro'>{}</p>",
+<<<<<<< HEAD
+  "mn40:15.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "mn40:15.2": "<span class='verse-line'>{}</span>",
+  "mn40:15.3": "<span class='verse-line'>{}</span>",
+  "mn40:15.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+=======
   "mn40:15.1": "<blockquote class='uddanagatha'><p>{}<br>",
   "mn40:15.2": "{}<br>",
   "mn40:15.3": "{}<br>",
   "mn40:15.4": "{}</p></blockquote></article>"
+>>>>>>> published
 }

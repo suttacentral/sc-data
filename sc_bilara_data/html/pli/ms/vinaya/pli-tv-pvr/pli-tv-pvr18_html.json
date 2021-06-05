@@ -131,8 +131,8 @@
   "pli-tv-pvr18:29.5": "{}</p>",
   "pli-tv-pvr18:30.1": "<p class='endsutta'>{}</p>",
   "pli-tv-pvr18:31.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
-  "pli-tv-pvr18:32.1": "<blockquote class='gatha'><p>{}<br>",
-  "pli-tv-pvr18:32.2": "{}<br>",
-  "pli-tv-pvr18:32.3": "{}<br>",
-  "pli-tv-pvr18:32.4": "{}</p></blockquote></section></article>"
+  "pli-tv-pvr18:32.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-pvr18:32.2": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr18:32.3": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr18:32.4": "<span class='verse-line'>{}</span></p></blockquote></section></article>"
 }

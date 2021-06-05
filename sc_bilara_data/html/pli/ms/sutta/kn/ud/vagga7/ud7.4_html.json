@@ -7,11 +7,11 @@
   "ud7.4:2.1": "<p>{}",
   "ud7.4:2.2": "{}</p>",
   "ud7.4:3.1": "<p>{}</p>",
-  "ud7.4:4.1": "<blockquote class='gatha'><p>{}<br>",
-  "ud7.4:4.2": "{}<br>",
-  "ud7.4:4.3": "{}<br>",
-  "ud7.4:4.4": "{}<br>",
-  "ud7.4:4.5": "{}<br>",
-  "ud7.4:4.6": "{}</p></blockquote>",
+  "ud7.4:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ud7.4:4.2": "<span class='verse-line'>{}</span>",
+  "ud7.4:4.3": "<span class='verse-line'>{}</span>",
+  "ud7.4:4.4": "<span class='verse-line'>{}</span>",
+  "ud7.4:4.5": "<span class='verse-line'>{}</span>",
+  "ud7.4:4.6": "<span class='verse-line'>{}</span></p></blockquote>",
   "ud7.4:4.7": "<p class='endsection'>{}</p></article>"
 }

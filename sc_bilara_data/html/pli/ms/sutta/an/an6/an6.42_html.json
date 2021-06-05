@@ -55,8 +55,8 @@
   "an6.42:11.2": "<p class='endsection'>{}</p>",
   "an6.42:11.3": "<p class='endsection'>{}</p>",
   "an6.42:12.0": "<p class='uddana-intro'>{}</p>",
-  "an6.42:12.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "an6.42:12.2": "{}<br>",
-  "an6.42:12.3": "{}<br>",
-  "an6.42:12.4": "{}</p></blockquote></article>"
+  "an6.42:12.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "an6.42:12.2": "<span class='verse-line'>{}</span>",
+  "an6.42:12.3": "<span class='verse-line'>{}</span>",
+  "an6.42:12.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

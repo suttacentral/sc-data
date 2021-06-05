@@ -9,9 +9,9 @@
   "an4.29:3.1": "<p>{}</p>",
   "an4.29:4.1": "<p>{}</p>",
   "an4.29:4.2": "<p>{}</p>",
-  "an4.29:5.1": "<blockquote class='gatha'><p>{}<br>",
-  "an4.29:5.2": "{}<br>",
-  "an4.29:5.3": "{}<br>",
-  "an4.29:5.4": "{}</p></blockquote>",
+  "an4.29:5.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "an4.29:5.2": "<span class='verse-line'>{}</span>",
+  "an4.29:5.3": "<span class='verse-line'>{}</span>",
+  "an4.29:5.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "an4.29:5.5": "<p class='endsection'>{}</p></article>"
 }

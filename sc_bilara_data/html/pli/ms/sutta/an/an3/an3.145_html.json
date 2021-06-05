@@ -9,8 +9,8 @@
   "an3.145:1.5": "<p class='endsection'>{}</p>",
   "an3.145:1.6": "<p class='endsection'>{}</p>",
   "an3.145:2.0": "<p class='uddana-intro'>{}</p>",
-  "an3.145:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "an3.145:2.2": "{}<br>",
-  "an3.145:2.3": "{}<br>",
-  "an3.145:2.4": "{}</p></blockquote></article>"
+  "an3.145:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "an3.145:2.2": "<span class='verse-line'>{}</span>",
+  "an3.145:2.3": "<span class='verse-line'>{}</span>",
+  "an3.145:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

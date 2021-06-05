@@ -3,11 +3,11 @@
   "thag1.92:0.2": "<li>{}</li>",
   "thag1.92:0.3": "<li>{}</li></ul>",
   "thag1.92:0.4": "<h1 class='sutta-title'>{}</h1></header>",
-  "thag1.92:1.1": "<blockquote class='gatha'><p>{}<br>",
-  "thag1.92:1.2": "{}<br>",
-  "thag1.92:1.3": "{}<br>",
-  "thag1.92:1.4": "{}<br>",
-  "thag1.92:1.5": "{}<br>",
-  "thag1.92:1.6": "{}</p></blockquote>",
+  "thag1.92:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "thag1.92:1.2": "<span class='verse-line'>{}</span>",
+  "thag1.92:1.3": "<span class='verse-line'>{}</span>",
+  "thag1.92:1.4": "<span class='verse-line'>{}</span>",
+  "thag1.92:1.5": "<span class='verse-line'>{}</span>",
+  "thag1.92:1.6": "<span class='verse-line'>{}</span></p></blockquote>",
   "thag1.92:1.7": "<p class='endsutta'>{}</p></article>"
 }

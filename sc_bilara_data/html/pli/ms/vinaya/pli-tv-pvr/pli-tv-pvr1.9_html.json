@@ -34,16 +34,24 @@
   "pli-tv-pvr1.9:2.26": "{}",
   "pli-tv-pvr1.9:2.27": "{}",
   "pli-tv-pvr1.9:2.28": "{}</p>",
-  "pli-tv-pvr1.9:3.1": "<blockquote class='gatha'><p>{}<br>",
-  "pli-tv-pvr1.9:3.2": "{}<br>",
-  "pli-tv-pvr1.9:3.3": "{}<br>",
-  "pli-tv-pvr1.9:3.4": "{}</p></blockquote>",
+  "pli-tv-pvr1.9:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:3.2": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:3.3": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "pli-tv-pvr1.9:4.1": "<p>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:5.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:5.2": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:5.3": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:5.4": "<span class='verse-line'>{}</span></p></blockquote>",
+  "pli-tv-pvr1.9:6.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:5.1": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-pvr1.9:5.2": "{}<br>",
   "pli-tv-pvr1.9:5.3": "{}<br>",
   "pli-tv-pvr1.9:5.4": "{}</p></blockquote>",
   "pli-tv-pvr1.9:6.1": "<p data-content='2'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:6.2": "{}",
   "pli-tv-pvr1.9:6.3": "{}",
   "pli-tv-pvr1.9:6.4": "{}",
@@ -108,16 +116,24 @@
   "pli-tv-pvr1.9:11.26": "{}",
   "pli-tv-pvr1.9:11.27": "{}",
   "pli-tv-pvr1.9:11.28": "{}</p>",
-  "pli-tv-pvr1.9:12.1": "<blockquote class='gatha'><p>{}<br>",
-  "pli-tv-pvr1.9:12.2": "{}<br>",
-  "pli-tv-pvr1.9:12.3": "{}<br>",
-  "pli-tv-pvr1.9:12.4": "{}</p></blockquote>",
+  "pli-tv-pvr1.9:12.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:12.2": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:12.3": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:12.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "pli-tv-pvr1.9:13.1": "<p>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:14.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:14.2": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:14.3": "<span class='verse-line'>{}</span>",
+  "pli-tv-pvr1.9:14.4": "<span data-content='1'></span>{}</p></blockquote>",
+  "pli-tv-pvr1.9:15.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:14.1": "<blockquote class='gatha'><p>{}<br>",
   "pli-tv-pvr1.9:14.2": "{}<br>",
   "pli-tv-pvr1.9:14.3": "{}<br>",
   "pli-tv-pvr1.9:14.4": "<span data-content='1'></span>{}</p></blockquote>",
   "pli-tv-pvr1.9:15.1": "<p data-content='2'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:15.2": "{}",
   "pli-tv-pvr1.9:15.3": "{}",
   "pli-tv-pvr1.9:15.4": "{}",
@@ -126,7 +142,11 @@
   "pli-tv-pvr1.9:15.7": "{}",
   "pli-tv-pvr1.9:15.8": "{}",
   "pli-tv-pvr1.9:15.9": "<span data-content='2'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:16.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:16.1": "<p data-content='3'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:16.2": "{}",
   "pli-tv-pvr1.9:16.3": "{}",
   "pli-tv-pvr1.9:16.4": "{}",
@@ -137,7 +157,11 @@
   "pli-tv-pvr1.9:16.9": "{}",
   "pli-tv-pvr1.9:16.10": "{}",
   "pli-tv-pvr1.9:16.11": "<span data-content='3'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:17.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:17.1": "<p data-content='4'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:17.2": "{}",
   "pli-tv-pvr1.9:17.3": "{}",
   "pli-tv-pvr1.9:17.4": "{}",
@@ -145,7 +169,11 @@
   "pli-tv-pvr1.9:17.6": "{}",
   "pli-tv-pvr1.9:17.7": "{}",
   "pli-tv-pvr1.9:17.8": "<span data-content='4'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:18.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:18.1": "<p data-content='5'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:18.2": "{}",
   "pli-tv-pvr1.9:18.3": "{}",
   "pli-tv-pvr1.9:18.4": "{}",
@@ -159,7 +187,11 @@
   "pli-tv-pvr1.9:18.12": "{}",
   "pli-tv-pvr1.9:18.13": "{}",
   "pli-tv-pvr1.9:18.14": "<span data-content='5'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:19.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:19.1": "<p data-content='6'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:19.2": "{}",
   "pli-tv-pvr1.9:19.3": "{}",
   "pli-tv-pvr1.9:19.4": "{}",
@@ -167,7 +199,11 @@
   "pli-tv-pvr1.9:19.6": "{}",
   "pli-tv-pvr1.9:19.7": "{}",
   "pli-tv-pvr1.9:19.8": "<span data-content='6'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:20.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:20.1": "<p data-content='7'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:20.2": "{}",
   "pli-tv-pvr1.9:20.3": "{}",
   "pli-tv-pvr1.9:20.4": "{}",
@@ -175,7 +211,11 @@
   "pli-tv-pvr1.9:20.6": "{}",
   "pli-tv-pvr1.9:20.7": "{}",
   "pli-tv-pvr1.9:20.8": "<span data-content='7'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:21.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:21.1": "<p data-content='8'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:21.2": "{}",
   "pli-tv-pvr1.9:21.3": "{}",
   "pli-tv-pvr1.9:21.4": "{}",
@@ -183,7 +223,11 @@
   "pli-tv-pvr1.9:21.6": "{}",
   "pli-tv-pvr1.9:21.7": "{}",
   "pli-tv-pvr1.9:21.8": "<span data-content='8'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:22.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:22.1": "<p data-content='9'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:22.2": "{}",
   "pli-tv-pvr1.9:22.3": "{}",
   "pli-tv-pvr1.9:22.4": "{}",
@@ -191,7 +235,11 @@
   "pli-tv-pvr1.9:22.6": "{}",
   "pli-tv-pvr1.9:22.7": "{}",
   "pli-tv-pvr1.9:22.8": "<span data-content='9'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:23.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:23.1": "<p data-content='10'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:23.2": "{}",
   "pli-tv-pvr1.9:23.3": "{}",
   "pli-tv-pvr1.9:23.4": "{}",
@@ -200,7 +248,11 @@
   "pli-tv-pvr1.9:23.7": "{}",
   "pli-tv-pvr1.9:23.8": "{}",
   "pli-tv-pvr1.9:23.9": "<span data-content='10'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:24.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:24.1": "<p data-content='11'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:24.2": "{}",
   "pli-tv-pvr1.9:24.3": "{}",
   "pli-tv-pvr1.9:24.4": "{}",
@@ -209,7 +261,11 @@
   "pli-tv-pvr1.9:24.7": "{}",
   "pli-tv-pvr1.9:24.8": "{}",
   "pli-tv-pvr1.9:24.9": "<span data-content='11'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:25.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:25.1": "<p data-content='12'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:25.2": "{}",
   "pli-tv-pvr1.9:25.3": "{}",
   "pli-tv-pvr1.9:25.4": "{}",
@@ -218,7 +274,11 @@
   "pli-tv-pvr1.9:25.7": "{}",
   "pli-tv-pvr1.9:25.8": "{}",
   "pli-tv-pvr1.9:25.9": "<span data-content='12'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:26.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:26.1": "<p data-content='13'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:26.2": "{}",
   "pli-tv-pvr1.9:26.3": "{}",
   "pli-tv-pvr1.9:26.4": "{}",
@@ -227,7 +287,11 @@
   "pli-tv-pvr1.9:26.7": "{}",
   "pli-tv-pvr1.9:26.8": "{}",
   "pli-tv-pvr1.9:26.9": "<span data-content='13'></span>{}</p>",
+<<<<<<< HEAD
+  "pli-tv-pvr1.9:27.1": "<p>{}",
+=======
   "pli-tv-pvr1.9:27.1": "<p data-content='75'>{}",
+>>>>>>> published
   "pli-tv-pvr1.9:27.2": "{}",
   "pli-tv-pvr1.9:27.3": "{}",
   "pli-tv-pvr1.9:27.4": "{}",

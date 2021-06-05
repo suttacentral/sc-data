@@ -182,9 +182,9 @@
   "ps3.9:24.1": "<p>{}",
   "ps3.9:24.2": "{}</p>",
   "ps3.9:25.1": "<p>{}</p>",
-  "ps3.9:26.1": "<blockquote class='gatha'><p>{}<br>",
-  "ps3.9:26.2": "{}<br>",
-  "ps3.9:26.3": "{}<br>",
-  "ps3.9:26.4": "{}</p></blockquote>",
+  "ps3.9:26.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "ps3.9:26.2": "<span class='verse-line'>{}</span>",
+  "ps3.9:26.3": "<span class='verse-line'>{}</span>",
+  "ps3.9:26.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "ps3.9:26.5": "<p class='endsutta'>{}</p></article>"
 }

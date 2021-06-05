@@ -9,8 +9,8 @@
   "an7.94:1.5": "<p class='endsection'>{}</p>",
   "an7.94:1.6": "<p class='endsection'>{}</p>",
   "an7.94:2.0": "<p class='uddana-intro'>{}</p>",
-  "an7.94:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "an7.94:2.2": "{}<br>",
-  "an7.94:2.3": "{}<br>",
-  "an7.94:2.4": "{}</p></blockquote></article>"
+  "an7.94:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "an7.94:2.2": "<span class='verse-line'>{}</span>",
+  "an7.94:2.3": "<span class='verse-line'>{}</span>",
+  "an7.94:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

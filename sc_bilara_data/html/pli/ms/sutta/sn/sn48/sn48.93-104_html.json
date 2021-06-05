@@ -4,8 +4,8 @@
   "sn48.93-104:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn48.93-104:1.1": "<p>{}</p>",
   "sn48.93-104:2.0": "<p class='uddana-intro'>{}</p>",
-  "sn48.93-104:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn48.93-104:2.2": "{}<br>",
-  "sn48.93-104:2.3": "{}<br>",
-  "sn48.93-104:2.4": "{}</p></blockquote></article>"
+  "sn48.93-104:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn48.93-104:2.2": "<span class='verse-line'>{}</span>",
+  "sn48.93-104:2.3": "<span class='verse-line'>{}</span>",
+  "sn48.93-104:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

@@ -62,13 +62,13 @@
   "sn2.29:11.1": "<p>{}",
   "sn2.29:11.2": "{}</p>",
   "sn2.29:12.1": "<p>{}</p>",
-  "sn2.29:13.1": "<blockquote class='gatha'><p>{}<br>",
-  "sn2.29:13.2": "{}<br>",
-  "sn2.29:13.3": "{}<br>",
-  "sn2.29:13.4": "{}</p></blockquote>",
+  "sn2.29:13.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sn2.29:13.2": "<span class='verse-line'>{}</span>",
+  "sn2.29:13.3": "<span class='verse-line'>{}</span>",
+  "sn2.29:13.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "sn2.29:14.1": "<p>{}</p>",
-  "sn2.29:15.1": "<blockquote class='gatha'><p>{}<br>",
-  "sn2.29:15.2": "{}<br>",
-  "sn2.29:15.3": "{}<br>",
-  "sn2.29:15.4": "{}</p></blockquote></article>"
+  "sn2.29:15.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sn2.29:15.2": "<span class='verse-line'>{}</span>",
+  "sn2.29:15.3": "<span class='verse-line'>{}</span>",
+  "sn2.29:15.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }

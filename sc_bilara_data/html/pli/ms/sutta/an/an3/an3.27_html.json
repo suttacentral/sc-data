@@ -39,9 +39,9 @@
   "an3.27:3.6": "{}",
   "an3.27:3.7": "{}</p>",
   "an3.27:3.8": "<p>{}</p>",
-  "an3.27:4.1": "<blockquote class='gatha'><p>{}<br>",
-  "an3.27:4.2": "{}<br>",
-  "an3.27:4.3": "{}<br>",
-  "an3.27:4.4": "{}</p></blockquote>",
+  "an3.27:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "an3.27:4.2": "<span class='verse-line'>{}</span>",
+  "an3.27:4.3": "<span class='verse-line'>{}</span>",
+  "an3.27:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "an3.27:4.5": "<p class='endsection'>{}</p></article>"
 }

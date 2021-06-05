@@ -164,9 +164,9 @@
   "mn8:17.3": "{}</p>",
   "mn8:17.4": "<p>{}",
   "mn8:17.5": "{}</p>",
-  "mn8:17.6": "<blockquote class='gatha'><p>{}<br>",
-  "mn8:17.7": "{}<br>",
-  "mn8:17.8": "{}<br>",
-  "mn8:17.9": "{}</p></blockquote>",
+  "mn8:17.6": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "mn8:17.7": "<span class='verse-line'>{}</span>",
+  "mn8:17.8": "<span class='verse-line'>{}</span>",
+  "mn8:17.9": "<span class='verse-line'>{}</span></p></blockquote>",
   "mn8:17.10": "<p class='endsection'>{}</p></article>"
 }

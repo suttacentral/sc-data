@@ -9,9 +9,9 @@
   "sn27.10:1.5": "<p class='endsection'>{}</p>",
   "sn27.10:1.6": "<p class='endsection'>{}</p>",
   "sn27.10:2.0": "<p class='uddana-intro'>{}</p>",
-  "sn27.10:2.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn27.10:2.2": "{}<br>",
-  "sn27.10:2.3": "{}<br>",
-  "sn27.10:2.4": "{}</p></blockquote>",
+  "sn27.10:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn27.10:2.2": "<span class='verse-line'>{}</span>",
+  "sn27.10:2.3": "<span class='verse-line'>{}</span>",
+  "sn27.10:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "sn27.10:2.5": "<p class='endsutta'>{}</p></article>"
 }

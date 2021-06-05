@@ -19,10 +19,10 @@
   "sn35.237:2.8": "<p class='endsection'>{}</p>",
   "sn35.237:2.9": "<p class='endsection'>{}</p>",
   "sn35.237:3.0": "<p class='uddana-intro'>{}</p>",
-  "sn35.237:3.1": "<blockquote class='uddanagatha'><p>{}<br>",
-  "sn35.237:3.2": "{}<br>",
-  "sn35.237:3.3": "{}<br>",
-  "sn35.237:3.4": "{}<br>",
-  "sn35.237:3.5": "{}<br>",
-  "sn35.237:3.6": "{}</p></blockquote></article>"
+  "sn35.237:3.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+  "sn35.237:3.2": "<span class='verse-line'>{}</span>",
+  "sn35.237:3.3": "<span class='verse-line'>{}</span>",
+  "sn35.237:3.4": "<span class='verse-line'>{}</span>",
+  "sn35.237:3.5": "<span class='verse-line'>{}</span>",
+  "sn35.237:3.6": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }
