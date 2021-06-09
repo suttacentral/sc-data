@@ -5,7 +5,6 @@ from .extensions import (
     DoubleStarsToBoldExtension,
     StarToEmphasizeExtension,
     UnderscoreToItalicLangExtension,
-    HashToSpanCounterExtension,
     ReplaceDefaultParagraphExtension,
 )
 
@@ -15,7 +14,6 @@ EXTENSIONS = [
     DoubleStarsToBoldExtension(),
     StarToEmphasizeExtension(),
     UnderscoreToItalicLangExtension(),
-    HashToSpanCounterExtension(),
 ]
 
 MD = markdown.Markdown(
