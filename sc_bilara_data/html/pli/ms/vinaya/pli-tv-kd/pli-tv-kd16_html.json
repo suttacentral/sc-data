@@ -727,7 +727,7 @@
   "pli-tv-kd16:6.5.1": "<p class='rule'>{}",
   "pli-tv-kd16:6.5.2": "{}",
   "pli-tv-kd16:6.5.3": "{}</p>",
-  "pli-tv-kd16:6.5.4": "<p>{}",
+  "pli-tv-kd16:6.5.4": "<p class='rule'>{}",
   "pli-tv-kd16:6.5.5": "{}",
   "pli-tv-kd16:6.5.6": "{}</p>",
   "pli-tv-kd16:7.0": "<h2>{}</h2>",
