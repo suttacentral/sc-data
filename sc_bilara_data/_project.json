@@ -98,6 +98,20 @@
       }
     ]
   },
+  "en_vri_translation_comm-team": {
+    "name": "English translation of the commentaries",
+    "root_path": "root/pli/vri/sutta/atthakatha",
+    "translation_path": "translation/en/comm-team/sutta/atthakatha",
+    "translation_muids": "translation-en-comm-team",
+    "collaborator": [
+      {
+        "author_github_handle": "sujato"
+      },
+      {
+        "author_github_handle": "alexwynne"
+      }
+    ]
+  },
   "id_sct_translation_seniya": {
     "name": "Chinese root translation Seniya Ariyakumara",
     "root_path": "root/lzh/sct/sutta",
@@ -219,7 +233,7 @@
         "author_github_handle": "phineas-pta"
       }
     ]
-  },  
+  },
   "zh_localization": {
     "name": "Chinese localization",
     "root_path": "root/en/site",
