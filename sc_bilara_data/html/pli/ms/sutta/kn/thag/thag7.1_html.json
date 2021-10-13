@@ -26,11 +26,11 @@
   "thag7.1:5.3": "<span class='verse-line'>{}</span>",
   "thag7.1:5.4": "<span class='verse-line'>{}</span></p>",
   "thag7.1:6.1": "<p><span class='verse-line'>{}</span>",
-  "thag7.1:6.2": "{}",
+  "thag7.1:6.2": "<span class='verse-line'>{}</span>",
   "thag7.1:6.3": "<span class='verse-line'>{}</span>",
   "thag7.1:6.4": "<span class='verse-line'>{}</span></p>",
   "thag7.1:7.1": "<p><span class='verse-line'>{}</span>",
-  "thag7.1:7.2": "{}",
+  "thag7.1:7.2": "<span class='verse-line'>{}</span>",
   "thag7.1:7.3": "<span class='verse-line'>{}</span>",
   "thag7.1:7.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "thag7.1:7.5": "<p class='endsutta'>{}</p></article>"
