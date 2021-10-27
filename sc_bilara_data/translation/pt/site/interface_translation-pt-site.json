@@ -93,7 +93,7 @@
   "donate:paymentService": "Serviço de pagamento",
   "donate:paymentSuccessful": "Sadhu! Seu pagamento foi realizado com sucesso.",
   "donate:redirectNotice": "Em 5 segundos você será redirecionado para a página principal.",
-  "donate:storageDisclaimer": "SuttaCentral não armazena ou distribui os detalhes de seu cartão. Todas as transações são realizadas em ambiente seguro por <a href='https://stripe.com' target='blank'>Stripe</a>.",
+  "donate:storageDisclaimer": "SuttaCentral não armazena ou distribui os detalhes de seu cartão. Todas as transações são realizadas em ambiente seguro por <a href='https://stripe.com' target='_blank'>Stripe</a>.",
   "donate:stripeLimitations": "Por favor, faça um pagamento direto ou entre em contato conosco para ajuda.",
   "donate:suttaCentralDevelopmentTrustDescription": "A SuttaCentral Development Trust é uma instituição de caridade registrada na Austrália. Sua doação será usada para o desenvolvimento do SuttaCentral.",
   "donate:timeOfPayment": "Data do pagamento",
