@@ -1,5 +1,5 @@
 {
-	"sa1:0.1" : "<article id='sa1'><header><ul><li class='division'>{}</li>",
+	"sa1:0.1" : "<article id='sa1'><header><ul><li class='division'>{}</li></ul>",
 	"sa1:0.2" : "<h1 class='sutta-title'>{}</h1></header>",
 	"sa1:1.1" : "<p>{}",
 	"sa1:1.2" : "{}</p>",
