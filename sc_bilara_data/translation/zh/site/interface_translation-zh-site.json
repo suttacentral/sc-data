@@ -238,7 +238,7 @@
   "suttaplex:translations": "翻译",
   "suttaplex:translationsIn": "翻译",
   "suttaplex:volumeAndPage": "卷和页",
-  "suttaplex:volumeAndPagePTS1": "PTS 卷和页：\n第一版= {pts-vp-pli1ed}\n第二版= {pts-vp-pli2ed}",
+  "suttaplex:volumeAndPagePTS1": "PTS 卷和页：第一版= {pts-vp-pli1ed}; 第二版= {pts-vp-pli2ed}",
   "text:segmentNumber": "SuttaCentral 段号",
   "text:viewImage": "查看页面图像"
 }
