@@ -71,8 +71,36 @@
     "type": "translator",
     "name": "Seniya Ariyakumara"
   },
+  "soma": {
+    "type": "translator",
+    "name": "Ayya Soma"
+  },
   "wynne": {
     "type": "translator",
     "name": "Alexander Wynne"
+  },
+  "phantuananh": {
+    "type": "translator",
+    "name": "Phan Tuấn Anh"
+  },
+  "kovilo": {
+    "type": "translator",
+    "name": "Kovilo Bhikkhu"
+  },
+  "suvira": {
+    "type": "translator",
+    "name": "Bhikkhuni Suvira"
+  },
+  "sumano": {
+    "type": "translator",
+    "name": "Bhante Sumano"
+  },
+  "mudito": {
+    "type": "translator",
+    "name": "Ajahn Mudito"
+  },
+  "hardao": {
+    "type": "translator",
+    "name": "Piotr Jagodziński"
   }
 }

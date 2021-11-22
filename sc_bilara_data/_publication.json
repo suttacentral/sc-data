@@ -21,7 +21,7 @@
     ],
     "text_uid": "thag",
     "translation_title": "Verses of the Senior Monks",
-    "translation_subtitle": "A translation of the Theragāthā",
+    "translation_subtitle": "An approachable translation of the Theragāthā",
     "root_title": "Theragāthā",
     "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of K.R. Norman.",
     "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Theragāthā. The initial edition was by Jessica Walton and Bhikkhu Sujato was published in 2014 through SuttaCentral. A revised edition, bringing the terminology in line with the subsequently-translated four Nikāyas, was published in 2019.",
@@ -66,9 +66,9 @@
     "author_github_handle": "sujato",
     "text_uid": "dn",
     "translation_title": "Long Discourses",
-    "translation_subtitle": "A translation of the Dīgha Nikāya",
+    "translation_subtitle": "A faithful translation of the Dīgha Nikāya",
     "root_title": "Dīghanikāya",
-    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
+    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi. Older translations by Maurice Walshe and T.W. and C.A.F. Rhys Davids were also consulted.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
     "is_published": true,
     "publication_status": "Completed, revision is ongoing.",
@@ -100,7 +100,7 @@
     "author_github_handle": "sujato",
     "text_uid": "mn",
     "translation_title": "Middle Discourses",
-    "translation_subtitle": "A translation of the Majjhima Nikāya",
+    "translation_subtitle": "A lucid translation of the Majjhima Nikāya",
     "root_title": "Majjhimanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
@@ -146,7 +146,7 @@
     "author_github_handle": "sujato",
     "text_uid": "sn",
     "translation_title": "Linked Discourses",
-    "translation_subtitle": "A translation of the Saṁyutta Nikāya",
+    "translation_subtitle": "A plain translation of the Saṁyutta Nikāya",
     "root_title": "Saṁyuttanikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
@@ -180,7 +180,7 @@
     "author_github_handle": "sujato",
     "text_uid": "an",
     "translation_title": "Numbered Discourses",
-    "translation_subtitle": "A translation of the Aṅguttara Nikāya",
+    "translation_subtitle": "A sensible translation of the Aṅguttara Nikāya",
     "root_title": "Aṅguttaranikāya",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of Bhikkhu Bodhi.",
     "translation_description": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
@@ -224,7 +224,7 @@
     ],
     "text_uid": "thig",
     "translation_title": "Verses of the Senior Nuns",
-    "translation_subtitle": "A translation of the Therīgāthā",
+    "translation_subtitle": "A friendly translation of the Therīgāthā",
     "root_title": "Therīgāthā",
     "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations, especially those of K.R. Norman.",
     "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Therīgāthā. The initial draft was by Jessica Walton, and it was completed by Bhikkhu Sujato in 2019. The terminology has been brought in line with Bhikkhu Sujato’s translation of the four Nikāyas.",
@@ -258,12 +258,12 @@
     "author_github_handle": "sujato",
     "text_uid": "dhp",
     "translation_title": "Sayings of the Dhamma",
-    "translation_subtitle": "",
+    "translation_subtitle": "A meaningful translation of the Dhammapada",
     "root_title": "Dhammapada",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of K.R. Norman and Venerable Buddharakkhita.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Dhammapada. Unlike most Dhammapadas in English, this is a new translation from the source Pali text. The aim was to make the sense as transparent as possible.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -272,11 +272,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/dhp"
       }
     ]
   },
@@ -707,7 +707,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "pt",
     "translation_lang_name": "Português",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/sutta/an",
     "author_uid": "laera-quaresma",
     "collaborator": [
       {
@@ -716,32 +716,37 @@
         "author_github_handle": "gnlaera"
       },
       {
+        "collaborator_uid": "quaresma",
+        "author_name": "Marco Quaresma",
+        "author_github_handle": "marcoquaresma"
+      },
+      {
         "collaborator_uid": "vitor",
         "author_name": "Vitor Guimarães",
         "author_github_handle": "nvsitr"
       }
     ],
-    "text_uid": "sutta",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "an",
+    "translation_title": "Discursos Numerados",
+    "translation_subtitle": "Uma tradução do Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "A fonte principal é a tradução em inglês de Sujato Bhikkhu e a edição digital Mahāsaṅgīti do Tipiṭaka em páli.",
+    "translation_description": "Esta tradução é parte de um projeto de tradução para o português dos quatro Nikāyas em páli com os seguintes objetivos: linguagem acessível; terminologia consistente; interpretação precisa do original em páli; livre de direitos autorais. A tradução está em andamento desde 2016.",
+    "is_published": true,
+    "publication_status": "Em andamento, com revisão também em andamento.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
       }
     ]
   },
@@ -757,10 +762,10 @@
     "author_github_handle": "sujato",
     "text_uid": "iti",
     "translation_title": "So It Was Said",
-    "translation_subtitle": "",
+    "translation_subtitle": "A delectable translation of the Itivuttaka",
     "root_title": "Itivuttaka",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of John Ireland.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Itivuttaka, preserving consistency with Sujato’s renderings of the main nikāyas. ",
     "is_published": true,
     "publication_status": "",
     "license": {
@@ -771,11 +776,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2020",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/iti"
       }
     ]
   },
@@ -790,13 +795,13 @@
     "author_name": "Bhikkhu Sujato",
     "author_github_handle": "sujato",
     "text_uid": "snp",
-    "translation_title": "Collected Sayings",
-    "translation_subtitle": "",
+    "translation_title": "Anthology of Discourses",
+    "translation_subtitle": "A refreshing translation of the Suttanipāta",
     "root_title": "Suttanipāta",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of K.R. Norman, Bhikkhu Bodhi, and Bhikkhu Ñāṇadīpa.",
+    "translation_description": "This translation aims to retain the directness and urgency of the Suttanipāta. The Suttanipāta includes verses from the earliest and latest periods within the period encompassed by the early texts, and so it covers a challenging variety of styles and themes, by turns fierce, devotional, or incisive. In several portions, most notably the Aṭṭhakavagga, there are a range of highly specific usages that demand careful attention.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -805,11 +810,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
       }
     ]
   },
@@ -825,12 +830,12 @@
     "author_github_handle": "sujato",
     "text_uid": "ud",
     "translation_title": "Heartfelt Sayings",
-    "translation_subtitle": "",
+    "translation_subtitle": "An uplifting translation of the Udāna.",
     "root_title": "Udāna",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of John Ireland and Bhikkhu Ānandajoti.",
+    "translation_description": "The Udāna has a distinctive form, being comprised of Dhammapada-style verses together with contextual narratives in prose. It thus straddles the styles of the prose and verse Suttas. This translation aims to make a clear, readable, and accurate rendering.",
     "is_published": true,
-    "publication_status": "",
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -839,11 +844,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/ud"
       }
     ]
   },
@@ -859,12 +864,12 @@
     "author_github_handle": "sujato",
     "text_uid": "kp",
     "translation_title": "Basic Passages",
-    "translation_subtitle": "",
+    "translation_subtitle": "An incisive translation of the Khuddakapāṭha",
     "root_title": "Khuddakapāṭha",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to several English translations, especially those of Bhikkhu Ñāṇamoḷi, Bhikkhu Ānandajoti, and K.R. Norman.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Khuddakapāṭha. These short passages, evidently selected as a primer for novices, serve as a handy introduction to the Suttas.",
     "is_published": true,
-    "publication_status": "",
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -873,11 +878,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2020",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/kp"
       }
     ]
   },
@@ -924,18 +929,18 @@
   },
   "scpub21": {
     "publication_number": "scpub21",
-    "root_lang_iso": "",
-    "root_lang_name": "",
-    "translation_lang_iso": "",
-    "translation_lang_name": "",
-    "source_url": "",
-    "author_uid": "",
-    "author_name": "",
-    "author_github_handle": "",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/soma/sutta/kn/thig",
+    "author_uid": "soma",
+    "author_name": "Ayya Soma",
+    "author_github_handle": "ayyasoma",
+    "text_uid": "thig",
+    "translation_title": "Verses of the Senior Nuns",
+    "translation_subtitle": "A translation of the Therīgāthā",
+    "root_title": "Therīgāthā",
     "translation_process": "",
     "translation_description": "",
     "is_published": false,
@@ -1072,6 +1077,11 @@
         "collaborator_uid": "wynne",
         "author_name": "Alexander Wynne",
         "author_github_handle": "alexwynne"
+      },
+      {
+        "collaborator_uid": "kovilo",
+        "author_name": "Kovilo Bhikkhu",
+        "author_github_handle": "kovilo"
       }
     ],
     "text_uid": "dn-a",
@@ -1106,29 +1116,29 @@
     "translation_lang_name": "Čeština",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/cs/ashinsarana/sutta/an",
     "author_uid": "ashinsarana",
-    "author_name": "Ashin Sarana",
+    "author_name": "Ashin Saraṅa",
     "author_github_handle": "ashinsarana",
     "text_uid": "an",
-    "translation_title": "Numbered Discourses",
-    "translation_subtitle": "",
+    "translation_title": "Číslované Rozpravy",
+    "translation_subtitle": "Překlad Aṅguttara Nikáji",
     "root_title": "Aṅguttaranikāya",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "Hlavním zdrojem je digitální vydání Páḷi Tipiṭaky “Mahāsaṅgīti.” Rád používám barmský oficiální překlad, Páḷi Komentáře, doslovné Páḷi-barmské překlady Páḷi Komentářů, a (hlavně) elektronickou verzi monumentálního Páḷi-barmského slovníku (ပါဠိ-မြန်မာ အဘိဓာန်). Někdy používám Páḷi-anglický minislovník v Chaṭṭhasaṅgāyanā Tipiṭaka aplikaci (verze 4.0). Překlad byl z velké části zrychlen anglickým překladem od Bhikkhu Sujāto, který posloužil zejména k nahlédnutí a coby průvodce při práci.",
+    "translation_description": "Tento překlad je jeden z mých prvních pokusů překládat z původního jazyka Páḷi do češtiny. Zatím se nejedná o ucelený pokud o překlad, proto, prosím, odpusťte literární neucelenost přeložených částí. Hlavní důraz byl kladen na srozumitelnost, přestože přesnost by měla být na spolehlivé úrovni. Žádná autorská práva. Vytvořeno v Myanmaru, 2020.",
+    "is_published": true,
+    "publication_status": "Všechny zveřejněné překlady rozprav jsou hotové v rozsahu té které rozpravy. Přepracování, návrhy, opravy, a kritika budou velice vítané.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_statement": "Tento překlad je projevem starověkého duchovního textu, který byl předán z generace na generaci buddhistickou traidicí ku prospěchu všech živých bytostí. Je darován do veřejného vlastnictví (public domain) skrze Creative COmmons Zero (CC0). Povzbuzuji vás ke kopírování, reprodukci, adaptaci, změně, nebo jakémukoliv jinému užití tohoto překladu. Překladatel slušně žádá, aby bylo jakékoliv užití tohoto textu v souladu s hodnotami a principy buddhistického společenství."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
       }
     ]
   },
@@ -1711,14 +1721,82 @@
     "root_lang_name": "漢語",
     "translation_lang_iso": "id",
     "translation_lang_name": "Indonesian",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/id/seniya/sutta/",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/id/seniya/sutta/sa",
     "author_uid": "seniya",
     "author_name": "Seniya Ariyakumara",
     "author_github_handle": "0seniya",
-    "text_uid": "sutta",
+    "text_uid": "sa",
+    "translation_title": "Kotbah-Kotbah Berkelompok yang Diturunkan",
+    "translation_subtitle": "Terjemahan Saṃyukta Āgama dari Kanon Tripitaka Mandarin (T.99)",
+    "root_title": "雜阿含經",
+    "translation_process": "Kotbah-Kotbah Berkelompok yang Diturunkan diterjemahkan dari teks Saṃyukta Āgama dalam Kanon Tripitaka Mandarin (T.99) sebagai teks sumbernya dengan mengacu pada terjemahan berbahasa Inggris oleh Bhikkhu Anālayo dan Charles D. Patton.",
+    "translation_description": "Ini adalah terjemahan Saṃyukta Āgama dari Kanon Tripitaka Mandarin (T.99) dalam bahasa Indonesia yang masih sedang dikerjakan.",
+    "is_published": true,
+    "publication_status": "Belum selesai, sedang dikerjakan.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Terjemahan ini adalah ungkapan sebuah teks spiritual yang telah diwariskan oleh tradisi Buddhis demi manfaat semua makhluk. Ini didedikaskan pada domain publik melalui Creative Commons Nol (CC0). Anda didorong untuk menyalin, memproduksi ulang, mengadaptasi, mengubah, atau sebaliknya menggunakan terjemahan ini. Penerjemah dengan hormat meminta agar penggunaan apa pun sesuai dengan nilai-nilai dan prinsip komunitas Buddhis."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sa"
+      }
+    ]
+  },
+  "scpub43": {
+    "publication_number": "scpub43",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "vi",
+    "translation_lang_name": "Tiếng Việt",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/vi/phantuananh/sutta/kn/dhp",
+    "author_uid": "phantuananh",
+    "author_name": "Bhikkhu Thích Minh Châu",
+    "author_github_handle": "phineas-pta",
+    "text_uid": "dhp",
+    "translation_title": "Kinh Pháp Cú",
+    "translation_subtitle": "Lời Phật Dạy",
+    "root_title": "Dhammapada",
+    "translation_process": "Dựa trên bản dịch Anh ngữ Growing the Bodhi Tree (1966) của Tỳ-kheo Khantipalo, hoà thượng Minh Châu dịch Việt và xuất bản năm 1969. Sau này bản kinh được cư sĩ Bình Anson số hoá và đăng lên trang nhà của ông năm 1998.",
+    "translation_description": "Hoà thượng Thích Minh Châu dịch kinh này theo thể kệ năm chữ một, để thật trung thành với nguyên văn, và quý vị sẽ thấy rõ sự cố gắng của dịch giả, đã dịch hết sức sát với nguyên văn, và nhiều bài kệ có thể xem không thêm, không bớt, một chữ Pali cũng cố gắng tôn trọng đến mức tối đa. Vì đây là thể kệ chứ không phải là thể thơ nên không có thi hóa trong bản dịch của hoà thượng.",
+    "is_published": true,
+    "publication_status": "Hoàn thành, được tái bản nhiều lần.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Đây là bản dịch của kinh điển Phật giáo cổ xưa được truyền thừa từ bao đời vì lợi ích cho chúng sanh, vậy nên nó được phân phối theo giấy phép Creative Commons CC0 Hiến tặng vào Phạm vi Công cộng Toàn thế giới. Quý vị được tự do sao chép, phân phối, tham khảo, sửa đổi, trình bày, hay sử dụng tác phẩm này. Chúng tôi chỉ xin quý vị hoan hỉ sử dụng phù hợp với tinh thần và nguyên tắc Phật giáo."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/dhp"
+      }
+    ]
+  },
+  "scpub44": {
+    "publication_number": "scpub44",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "it",
+    "translation_lang_name": "Italiano",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/it/soma/sutta/kn/thig",
+    "author_uid": "soma",
+    "author_name": "Ayya Soma",
+    "author_github_handle": "ayyasoma",
+    "text_uid": "thig",
     "translation_title": "",
     "translation_subtitle": "",
-    "root_title": "",
+    "root_title": "Therīgāthā",
     "translation_process": "",
     "translation_description": "",
     "is_published": false,
@@ -1736,6 +1814,299 @@
         "publisher": "",
         "publication_type": "",
         "edition_url": ""
+      }
+    ]
+  },
+  "scpub45": {
+    "publication_number": "scpub45",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/kovilo/sutta/an",
+    "author_uid": "kovilo",
+    "author_name": "Kovilo Bhikkhu",
+    "author_github_handle": "kovilo",
+    "text_uid": "an",
+    "translation_title": "Numbered Discourses",
+    "translation_subtitle": "A translation of the Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub46": {
+    "publication_number": "scpub46",
+    "root_lang_iso": "san",
+    "root_lang_name": "Sanskrit",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/suvira/sutta/sf",
+    "author_uid": "suvira",
+    "author_name": "Bhikkhuni Suvira",
+    "author_github_handle": "suvira-bhikkhuni",
+    "text_uid": "sf",
+    "translation_title": "Sanskrit Canonical Discourses",
+    "translation_subtitle": "A translation of miscellaneous discourses from Sanskrit",
+    "root_title": "Sanskrit Āgama Sūtras",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub47": {
+    "publication_number": "scpub47",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pt",
+    "translation_lang_name": "Português",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/sutta/mn",
+    "author_uid": "laera-quaresma",
+    "collaborator": [
+      {
+        "collaborator_uid": "gnlaera",
+        "author_name": "Gabriel Laera",
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "collaborator_uid": "vitor",
+        "author_name": "Vitor Guimarães",
+        "author_github_handle": "nvsitr"
+      }
+    ],
+    "text_uid": "mn",
+    "translation_title": "Discursos Médios",
+    "translation_subtitle": "Uma tradução do Majjhima Nikāya",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "A fonte principal é a tradução em inglês de Sujato Bhikkhu e a edição digital Mahāsaṅgīti do Tipiṭaka em páli.",
+    "translation_description": "Esta tradução é parte de um projeto de tradução para o português dos quatro Nikāyas em páli com os seguintes objetivos: linguagem acessível; terminologia consistente; interpretação precisa do original em páli; livre de direitos autorais. A tradução está em andamento desde 2016.",
+    "is_published": true,
+    "publication_status": "Em andamento, com revisão também em andamento.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub48": {
+    "publication_number": "scpub48",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pt",
+    "translation_lang_name": "Português",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pt/laera-quaresma/sutta/sn",
+    "author_uid": "laera-quaresma",
+    "collaborator": [
+      {
+        "collaborator_uid": "gnlaera",
+        "author_name": "Gabriel Laera",
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "collaborator_uid": "vitor",
+        "author_name": "Vitor Guimarães",
+        "author_github_handle": "nvsitr"
+      }
+    ],
+    "text_uid": "sn",
+    "translation_title": "Discursos Conectados ou Vinculados",
+    "translation_subtitle": "Uma tradução do Saṁyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "A fonte principal é a tradução em inglês de Sujato Bhikkhu e a edição digital Mahāsaṅgīti do Tipiṭaka em páli.",
+    "translation_description": "Esta tradução é parte de um projeto de tradução para o português dos quatro Nikāyas em páli com os seguintes objetivos: linguagem acessível; terminologia consistente; interpretação precisa do original em páli; livre de direitos autorais. A tradução está em andamento desde 2016.",
+    "is_published": true,
+    "publication_status": "Em andamento, com revisão também em andamento.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sn"
+      }
+    ]
+  },
+  "scpub49": {
+    "publication_number": "scpub49",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "es",
+    "translation_lang_name": "Español",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/es/sumano/sutta/an",
+    "author_uid": "sumano",
+    "author_name": "Bhante Sumano",
+    "author_github_handle": "vensumano",
+    "text_uid": "an",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
+  },
+  "scpub50": {
+    "publication_number": "scpub50",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "es",
+    "translation_lang_name": "Español",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/es/sumano/vinaya",
+    "author_uid": "sumano",
+    "author_name": "Bhante Sumano",
+    "author_github_handle": "vensumano",
+    "pitaka": "vinaya",
+    "text_uid": "pli-tv-vi",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Theravāda Vinayapiṭaka",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/vinaya"
+      }
+    ]
+  },
+  "scpub51": {
+    "publication_number": "scpub51",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fi",
+    "translation_lang_name": "Suomi",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/fi/mudito/sutta/an",
+    "author_uid": "mudito",
+    "author_name": "Ajahn Mudito",
+    "author_github_handle": "Muditassa",
+    "text_uid": "an",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
+  },
+  "scpub52": {
+    "publication_number": "scpub52",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pl",
+    "translation_lang_name": "Polski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pl/hardao/sutta/mn",
+    "author_uid": "hardao",
+    "author_name": "Piotr Jagodziński",
+    "author_github_handle": "HarDao",
+    "text_uid": "mn",
+    "translation_title": "Middle Discourses",
+    "translation_subtitle": "",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
       }
     ]
   }

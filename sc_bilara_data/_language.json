@@ -24,9 +24,24 @@
     "name": "English",
     "is_root": false
   },
+  "es": {
+    "type": "language",
+    "name": "Español",
+    "is_root": false
+  },
+  "fi": {
+    "type": "language",
+    "name": "Suomi",
+    "is_root": false
+  },
   "id": {
     "type": "language",
     "name": "Indonesian",
+    "is_root": false
+  },
+  "it": {
+    "type": "language",
+    "name": "Italiano",
     "is_root": false
   },
   "jpn": {
@@ -39,6 +54,11 @@
     "name": "မြန်မာစာ",
     "is_root": false
   },
+  "pl": {
+    "type": "language",
+    "name": "Polski",
+    "is_root": false
+  },
   "pt": {
     "type": "language",
     "name": "Português",
@@ -48,6 +68,11 @@
     "type": "language",
     "name": "ру́сский язы́к",
     "is_root": false
+  },
+  "san": {
+      "type": "language",
+      "name": "Sanskrit",
+      "is_root": true
   },
   "si": {
     "type": "language",
