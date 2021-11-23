@@ -2087,23 +2087,23 @@
     "author_name": "Piotr Jagodziński",
     "author_github_handle": "HarDao",
     "text_uid": "mn",
-    "translation_title": "Middle Discourses",
-    "translation_subtitle": "",
+    "translation_title": "Majjhima Nikāya",
+    "translation_subtitle": "Zbiór mów średniej długości",
     "root_title": "Majjhimanikāya",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "Tłumaczenie bazuje na Chaṭṭha Saṅgāyana Tipiṭaka - Trójkoszu Szóstego Synodu, który odbył się w Birmie, w Yangon. Autor przekładu polskiego oprócz wierności z oryginałem, stara się także doszukiwać wspólnych rdzeni językowych oraz opisać szerszą perspektywę odnośnie treści zawartych w tekstach źródłowych. Odzwierciedlone jest to w licznych przypisach i wyczerpujących przedmowach do poszczególnych sutt.",
+    "translation_description": "To tłumaczenie jest częścią projektu tłumaczeń tekstów kanonu pāḷijskiego na język polski z portalu Sasana.pl. Przekład bazuje na oryginale w języku pāḷijskim, posiłkuje się innymi wersjami językowymi tłumaczeń, oraz paralelnymi tekstami (np. āgamami), opublikowanymi na stronie SuttaCentral.net. Celem projektu jest przekład tekstów źródłowych wraz z przedmowami tłumacza, by jak najlepiej wyjaśniać Dhammę Buddhy polskiemu czytelnikowi. Brak praw autorskich. Projekt wspierany grantami z Khyentse Foundation, oficjalnie rozpoczął się w 2019 roku, nie został ukończony.",
+    "is_published": true,
+    "publication_status": "Wydane tomy w wersji papierowej i cyfrowej są w początkowej fazie projektu, który nie został ukończony.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
+        "edition_number": "1",
+        "publication_date": "2021",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/mn"
