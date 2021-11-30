@@ -87,6 +87,17 @@
       }
     ]
   },
+  "en_ms_translation_suddhaso": {
+    "name": "English translation Bhante Suddhaso",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/en/suddhaso/sutta",
+    "translation_muids": "translation-en-suddhaso",
+    "collaborator": [
+      {
+        "author_github_handle": "suddhaso"
+      }
+    ]
+  },
   "en_ms_translation_sujato": {
     "name": "English translation Bhikkhu Sujato",
     "root_path": "root/pli/ms/sutta",
