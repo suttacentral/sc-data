@@ -935,16 +935,16 @@
     "translation_lang_name": "English",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/soma/sutta/kn/thig",
     "author_uid": "soma",
-    "author_name": "Ayya Soma",
+    "author_name": "Bhikkhuni Soma",
     "author_github_handle": "ayyasoma",
     "text_uid": "thig",
-    "translation_title": "Verses of the Senior Nuns",
+    "translation_title": "Verses of the Elder Bhikkhunis",
     "translation_subtitle": "A translation of the Therīgāthā",
     "root_title": "Therīgāthā",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "The primary source used was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. The text was translated from the Pali by Ayyā Somā without consulting any other translations first. It was then proof-read and edited by Bhante Suddhaso. The end result was compared to other English translations currently available, in particular the ones by Bhante Sujato and Anagarika Mahendra.",
+    "translation_description": "This translation of the Therīgathā was intentionally done without consulting or referencing any of the information provided in the commentaries. It therefore uses the original Pāli text of the poems as its only basis to deduce context and terminology choice.",
+    "is_published": true,
+    "publication_status": "Ongoing",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -953,11 +953,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/thig"
       }
     ]
   },
@@ -2116,18 +2116,18 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/suddhaso/sutta",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/suddhaso/sutta/kn/dhp",
     "author_uid": "suddhaso",
     "author_name": "Bhante Suddhāso",
     "author_github_handle": "suddhaso",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "dhp",
+    "translation_title": "Verses of Dhamma",
+    "translation_subtitle": "A translation of the Dhammapada",
+    "root_title": "Dhammapada",
+    "translation_process": "Translated from the Pāli. Primary source was the Burmese Sixth Council edition. In the interest of being as true as possible to the original Pāli text, this translation has been prepared without influence from the so-called “Dhammapada Commentary” (an apocryphal work that deviates significantly from the root text).",
+    "translation_description": "A new translation of the Dhammapada, with a particular focus on accuracy and fidelity to the root text.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -2136,11 +2136,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
+        "edition_number": "1",
+        "publication_date": "2021",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": ""
+        "edition_url": "https://suttacentral.net/dhp"
       }
     ]
   }
