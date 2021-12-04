@@ -263,8 +263,8 @@
   },
   "pl_ms_translation_hardao_sutta": {
     "name": "Polish sutta translation Piotr Jagodziński",
-    "root_path": "root/pli/ms/sutta/mn",
-    "translation_path": "translation/pl/hardao/sutta/mn",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/pl/hardao/sutta",
     "translation_muids": "translation-pl-hardao",
     "collaborator": [
       {
