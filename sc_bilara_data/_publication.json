@@ -1153,7 +1153,7 @@
     "collaborator": [
       {
         "collaborator_uid": "nyeinchanaye",
-        "author_name": "Ma Nyein Nyein Chan Chan",
+        "author_name": "Nyein Chan Aye",
         "author_github_handle": "NyeinChanAye"
       },
       {
@@ -1163,26 +1163,26 @@
       }
     ],
     "text_uid": "dn",
-    "translation_title": "Long Discourses",
-    "translation_subtitle": "",
+    "translation_title": "ဒီဃနိကာယ်",
+    "translation_subtitle": "ဒီဃနိကာယ်၏ အနက်ဘာသာပြန်",
     "root_title": "Dīghanikāya",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "သာသနာရေး ဦးစီးဌာနမှ ထုတ်ဝေထားသော ပိဋကတ်တော် မြန်မာပြန်ကို bilara(suttacentral)အတွက် စီစဉ်ဖော်ပြခြင်းဖြစ်သည်။ Ashin Sarana၏ အားပေးညွှန်ကြားမှုဖြင့် Bhikkhu Sujato၏ အင်္ဂလိပ်ဘာသာပြန်စာကြောင်းများကို အခြေခံပြီး ကိုက်ညီရာမြန်မာဘာသာစာကြောင်းကို ထည့်သွင်းခြင်းဖြင့် လုပ်ဆောင်ထားပါသည်။",
+    "translation_description": "ပိဋကတ်တော် မြန်မာပြန်ဌာနမှ သုတ္တန် ပိဋကတ်တော်ကို ပါဠိဘာသာမှ ပြန်ဆိုသည်။ သာသနာရေး ဦးစီးဌာနမှ ညွန်ကြားရေးမှူး ဦးဝင်းနိုင်က ပုံနှိပ်ထုတ်ဝေသည်။",
+    "is_published": true,
+    "publication_status": "ဘာသာပြန်စာထည့်သွင်းမှု အလုံးစုံပြီးစီးသော သုတ္တန်များကို Publishလုပ်ထားခြင်းဖြစ်ပါသည်။",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_statement": "ဤအနက်ဘာသာပြန်သည် သတ္တဝါအားလုံး၏အကျိုးစီးပွားအလို့ငှာ ဗုဒ္ဓဘာသာအစဉ်အလာဖြင့် လက်ဆင့်ကမ်းထိန်းသိမ်းလာသော ဗုဒ္ဓကျမ်းဂန်မှစကားလုံးများကို ဖော်ပြထားခြင်းဖြစ်ပေသည်။ ဤဘာသာပြန်သည် Creative Commons Zero(CC0)ဖြင့် အများဆိုင်အဖြစ် ရည်ရွယ်တည်ရှိပါသည်။ သင့်အနေဖြင့် ဤဘာသာပြန်ကို အသုံးပြုလိုပါက ကူးယူခြင်း၊ ဖြန့်ဝေခြင်း၊ သင့်လျော်သလို ပြောင်းလဲ၍ အဆင်ပြေသလို အသုံးပြုနိုင်ပါသည်။ မည်သည့်အသုံးပြုခြင်း၌မဆို ဗုဒ္ဓဘာသာလူ့ဘောင်အသိုင်းအဝိုင်း၏ မူဝါဒများ၊ တန်ဖိုးများနှင့်အညီဖြစ်ပါစေရန် ဘာသာပြန်ဆိုသူမှ လေးစားစွာတောင်းဆိုပါသည်။"
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/dn"
       }
     ]
   },
@@ -2141,6 +2141,108 @@
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/dhp"
+      }
+    ]
+  },
+  "scpub54": {
+    "publication_number": "scpub54",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pl",
+    "translation_lang_name": "Polski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pl/hardao/sutta/an",
+    "author_uid": "hardao",
+    "author_name": "Piotr Jagodziński",
+    "author_github_handle": "HarDao",
+    "text_uid": "an",
+    "translation_title": "Aṅguttara Nikāya",
+    "translation_subtitle": "Zbiór mów według wyliczeń",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "Tłumaczenie bazuje na Chaṭṭha Saṅgāyana Tipiṭaka - Trójkoszu Szóstego Synodu, który odbył się w Birmie, w Yangon. Autor przekładu polskiego oprócz wierności z oryginałem, stara się także doszukiwać wspólnych rdzeni językowych oraz opisać szerszą perspektywę odnośnie treści zawartych w tekstach źródłowych. Odzwierciedlone jest to w licznych przypisach i wyczerpujących przedmowach do poszczególnych sutt.",
+    "translation_description": "To tłumaczenie jest częścią projektu tłumaczeń tekstów kanonu pāḷijskiego na język polski z portalu Sasana.pl. Przekład bazuje na oryginale w języku pāḷijskim, posiłkuje się innymi wersjami językowymi tłumaczeń, oraz paralelnymi tekstami (np. āgamami), opublikowanymi na stronie SuttaCentral.net. Celem projektu jest przekład tekstów źródłowych wraz z przedmowami tłumacza, by jak najlepiej wyjaśniać Dhammę Buddhy polskiemu czytelnikowi. Brak praw autorskich. Projekt nie został ukończony.",
+    "is_published": true,
+    "publication_status": "Wydany wyłącznie w wersji cyfrowej, projekt w początkowej fazie, nie został ukończony.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
+  },
+  "scpub55": {
+    "publication_number": "scpub55",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pl",
+    "translation_lang_name": "Polski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pl/hardao/sutta/dn",
+    "author_uid": "hardao",
+    "author_name": "Piotr Jagodziński",
+    "author_github_handle": "HarDao",
+    "text_uid": "dn",
+    "translation_title": "Dīgha Nikāya",
+    "translation_subtitle": "Zbiór długich mów",
+    "root_title": "Dīghanikāya",
+    "translation_process": "Tłumaczenie bazuje na Chaṭṭha Saṅgāyana Tipiṭaka - Trójkoszu Szóstego Synodu, który odbył się w Birmie, w Yangon. Autor przekładu polskiego oprócz wierności z oryginałem, stara się także doszukiwać wspólnych rdzeni językowych oraz opisać szerszą perspektywę odnośnie treści zawartych w tekstach źródłowych. Odzwierciedlone jest to w licznych przypisach i wyczerpujących przedmowach do poszczególnych sutt.",
+    "translation_description": "To tłumaczenie jest częścią projektu tłumaczeń tekstów kanonu pāḷijskiego na język polski z portalu Sasana.pl. Przekład bazuje na oryginale w języku pāḷijskim, posiłkuje się innymi wersjami językowymi tłumaczeń, oraz paralelnymi tekstami (np. āgamami), opublikowanymi na stronie SuttaCentral.net. Celem projektu jest przekład tekstów źródłowych wraz z przedmowami tłumacza, by jak najlepiej wyjaśniać Dhammę Buddhy polskiemu czytelnikowi. Brak praw autorskich. Projekt nie został ukończony.",
+    "is_published": true,
+    "publication_status": "Wydany wyłącznie w wersji cyfrowej, projekt w początkowej fazie, nie został ukończony.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/dn"
+      }
+    ]
+  },
+  "scpub56": {
+    "publication_number": "scpub56",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pl",
+    "translation_lang_name": "Polski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/pl/hardao/sutta/kn/snp",
+    "author_uid": "hardao",
+    "author_name": "Piotr Jagodziński",
+    "author_github_handle": "HarDao",
+    "text_uid": "snp",
+    "translation_title": "Suttanipāta",
+    "translation_subtitle": "Kolekcja mów",
+    "root_title": "Suttanipāta",
+    "translation_process": "Tłumaczenie bazuje na Chaṭṭha Saṅgāyana Tipiṭaka - Trójkoszu Szóstego Synodu, który odbył się w Birmie, w Yangon. Autor przekładu polskiego oprócz wierności z oryginałem, stara się także doszukiwać wspólnych rdzeni językowych oraz opisać szerszą perspektywę odnośnie treści zawartych w tekstach źródłowych. Odzwierciedlone jest to w licznych przypisach i wyczerpujących przedmowach do poszczególnych sutt.",
+    "translation_description": "To tłumaczenie jest częścią projektu tłumaczeń tekstów kanonu pāḷijskiego na język polski z portalu Sasana.pl. Przekład bazuje na oryginale w języku pāḷijskim, posiłkuje się innymi wersjami językowymi tłumaczeń, oraz paralelnymi tekstami (np. āgamami), opublikowanymi na stronie SuttaCentral.net. Celem projektu jest przekład tekstów źródłowych wraz z przedmowami tłumacza, by jak najlepiej wyjaśniać Dhammę Buddhy polskiemu czytelnikowi. Brak praw autorskich. Projekt nie został ukończony.",
+    "is_published": true,
+    "publication_status": "Wydany wyłącznie w wersji cyfrowej, projekt w początkowej fazie, nie został ukończony.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2021",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
       }
     ]
   }
