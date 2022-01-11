@@ -13,7 +13,7 @@
   },
   "sabbamitta": {
     "type": "translator",
-    "name": "Sabbamitta Silashin"
+    "name": "Sabbamitta"
   },
   "kaz": {
     "type": "translator",
@@ -106,5 +106,13 @@
   "suddhaso": {
     "type": "translator",
     "name": "Bhante Suddhāso"
+  },
+  "giovannizappa": {
+    "type": "translator",
+    "name": "Giovanni Zappa"
+  },
+  "piyadassi": {
+    "type": "translator",
+    "name": "Sayalay Piyadassi"
   }
 }

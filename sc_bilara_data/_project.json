@@ -67,8 +67,8 @@
   },
   "en_ms_translation_kovilo": {
     "name": "English translation Kovilo Bhikkhu",
-    "root_path": "root/pli/ms/sutta/an",
-    "translation_path": "translation/en/kovilo/sutta/an",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/en/kovilo/sutta",
     "translation_muids": "translation-en-kovilo",
     "collaborator": [
       {
@@ -203,6 +203,17 @@
       }
     ]
   },
+  "it_ms_translation_giovannizappa": {
+    "name": "Italian translation Giovanni Zappa",
+    "root_path": "root/pli/ms/sutta/mn",
+    "translation_path": "translation/it/giovannizappa/sutta/mn",
+    "translation_muids": "translation-it-giovannizappa",
+    "collaborator": [
+      {
+        "author_github_handle": "gioz93"
+      }
+    ]
+  },
   "it_ms_translation_soma": {
     "name": "Italian translation Ayya Soma",
     "root_path": "root/pli/ms/sutta/kn/thig",
@@ -233,6 +244,17 @@
     "collaborator": [
       {
         "author_github_handle": "kaz-kaz"
+      }
+    ]
+  },
+  "lt_ms_translation_piyadassi": {
+    "name": "Lithuanian translation Sayalay Piyadassi",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/lt/piyadassi/sutta",
+    "translation_muids": "translation-lt-piyadassi",
+    "collaborator": [
+      {
+        "author_github_handle": "Piyadassii"
       }
     ]
   },
@@ -282,7 +304,7 @@
         "author_github_handle": "gnlaera"
       },
       {
-        "author_github_handle": "nvsitr"
+        "author_github_handle": "vngmar"
       }
     ]
   },
@@ -296,7 +318,7 @@
         "author_github_handle": "gnlaera"
       },
       {
-        "author_github_handle": "nvsitr"
+        "author_github_handle": "vngmar"
       }
     ]
   },
@@ -310,7 +332,7 @@
         "author_github_handle": "gnlaera"
       },
       {
-        "author_github_handle": "nvsitr"
+        "author_github_handle": "vngmar"
       }
     ]
   },

@@ -49,6 +49,11 @@
     "name": "日本語",
     "is_root": false
   },
+  "lt": {
+    "type": "language",
+    "name": "Lietuvių kalba",
+    "is_root": false
+  },
   "my": {
     "type": "language",
     "name": "မြန်မာစာ",
