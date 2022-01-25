@@ -305,7 +305,7 @@
     "is_root": false,
     "iso_code": "fr"
   },
-    {
+  {
     "uid": "haw",
     "name": "ʻŌlelo Hawaiʻi",
     "is_root": false,
@@ -353,7 +353,7 @@
     "is_root": false,
     "iso_code": "jpn"
   },
-    {
+  {
     "uid": "kan",
     "name": "ಕನ್ನಡ",
     "is_root": false,
@@ -407,7 +407,7 @@
     "is_root": false,
     "iso_code": "sk"
   },
-	{
+  {
     "uid": "sl",
     "name": "Slovenščina",
     "is_root": false,
@@ -478,5 +478,17 @@
     "name": "Latine",
     "is_root": false,
     "iso_code": "la"
+  },
+  {
+    "uid": "lt",
+    "name": "Lietuvių Kalba",
+    "is_root": false,
+    "iso_code": "lt"
+  },
+  {
+    "uid": "gu",
+    "name": "ગુજરાતી",
+    "is_root": false,
+    "iso_code": "gu"
   }
 ]
