@@ -192,6 +192,28 @@
       }
     ]
   },
+  "gu_ms_translation_trush": {
+    "name": "Gujarati translation Trushant Majmudar",
+    "root_path": "root/pli/ms/sutta/mn",
+    "translation_path": "translation/gu/trush/sutta/mn",
+    "translation_muids": "translation-gu-trush",
+    "collaborator": [
+      {
+        "author_github_handle": "trush23"
+      }
+    ]
+  },
+  "hi_ms_translation_trush": {
+    "name": "Hindi translation Trushant Majmudar",
+    "root_path": "root/pli/ms/sutta/mn",
+    "translation_path": "translation/hi/trush/sutta/mn",
+    "translation_muids": "translation-hi-trush",
+    "collaborator": [
+      {
+        "author_github_handle": "trush23"
+      }
+    ]
+  },
   "id_sct_translation_seniya": {
     "name": "Chinese root translation Seniya Ariyakumara",
     "root_path": "root/lzh/sct/sutta",

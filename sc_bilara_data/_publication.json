@@ -2313,5 +2313,73 @@
         "edition_url": ""
       }
     ]
+  },
+  "scpub59": {
+    "publication_number": "scpub59",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "gu",
+    "translation_lang_name": "ગુજરાતી",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/gu/trush/sutta/mn",
+    "author_uid": "trush",
+    "author_name": "Trushant Majmudar",
+    "author_github_handle": "trush23",
+    "text_uid": "mn",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub60": {
+    "publication_number": "scpub60",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "hi",
+    "translation_lang_name": "हिन्दी",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/hi/trush/sutta/mn",
+    "author_uid": "trush",
+    "author_name": "Trushant Majmudar",
+    "author_github_handle": "trush23",
+    "text_uid": "mn",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
   }
 }

@@ -34,6 +34,16 @@
     "name": "Suomi",
     "is_root": false
   },
+  "gu": {
+    "type": "language",
+    "name": "ગુજરાતી",
+    "is_root": false
+  },
+  "hi": {
+    "type": "language",
+    "name": "हिन्दी",
+    "is_root": false
+  },
   "id": {
     "type": "language",
     "name": "Indonesian",
