@@ -2286,31 +2286,31 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "lt",
     "translation_lang_name": "Lietuvių kalba",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/lt/piyadassi/sutta",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/lt/piyadassi/sutta/an",
     "author_uid": "piyadassi",
     "author_name": "Sayalay Piyadassi",
     "author_github_handle": "Piyadassii",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "an",
+    "translation_title": "Palaipsninių suttų rinkinys",
+    "translation_subtitle": "Aṅguttara Nikāyos vertimas",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "Versta iš pali, Chaṭṭhasaṅgayānos leidimo kanono. Vertimas atitinka pirminio pali teksto komentarą (aṭṭhakathā). Abejotinose vietose buvo naudojami taip pat ir turimi angliški vertimai bei Syrkino Dīgha Nikāyos vertimas į rusų kalbą.",
+    "translation_description": "Šis vertimas yra dalis projekto, kuriuo siekiama išversti keturias pali Nikāyas į lietuvių kalbą. Vertimo tikslas yra suteikti lietuviams galimybę skaityti pali tekstus gimtąja kalba. Vertime bandoma išlaikyti pusiausvyrą tarp tikslaus pali žodžių perdavimo ir aiškios lietuvių kalbos; be autorinių teisių. Projektas pradėtas įgyvendinti 2022 m. pradžioje.",
+    "is_published": true,
+    "publication_status": "Šis vertimas yra preliminarus ir gali būti toliau redaguojamas.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+      "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
+        "edition_number": "1",
+        "publication_date": "2022",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
       }
     ]
   },
@@ -2379,6 +2379,108 @@
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub61": {
+    "publication_number": "scpub61",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "lt",
+    "translation_lang_name": "Lietuvių kalba",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/lt/piyadassi/sutta/kn/snp",
+    "author_uid": "piyadassi",
+    "author_name": "Sayalay Piyadassi",
+    "author_github_handle": "Piyadassii",
+    "text_uid": "snp",
+    "translation_title": "Suttų rinkinukas",
+    "translation_subtitle": "Suttanipātos vertimas",
+    "root_title": "Suttanipāta",
+    "translation_process": "Versta iš pali, Chaṭṭhasaṅgayānos leidimo kanono. Vertimas atitinka pirminio pali teksto komentarą (aṭṭhakathā). Abejotinose vietose buvo naudojami taip pat ir turimi angliški vertimai bei Syrkino Dīgha Nikāyos vertimas į rusų kalbą.",
+    "translation_description": "Šis vertimas yra dalis projekto, kuriuo siekiama išversti keturias pali Nikāyas į lietuvių kalbą. Vertimo tikslas yra suteikti lietuviams galimybę skaityti pali tekstus gimtąja kalba. Vertime bandoma išlaikyti pusiausvyrą tarp tikslaus pali žodžių perdavimo ir aiškios lietuvių kalbos; be autorinių teisių. Projektas pradėtas įgyvendinti 2022 m. pradžioje.",
+    "is_published": true,
+    "publication_status": "Šis vertimas yra preliminarus ir gali būti toliau redaguojamas.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2022",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
+      }
+    ]
+  },
+  "scpub62": {
+    "publication_number": "scpub62",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "lt",
+    "translation_lang_name": "Lietuvių kalba",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/lt/piyadassi/sutta/mn",
+    "author_uid": "piyadassi",
+    "author_name": "Sayalay Piyadassi",
+    "author_github_handle": "Piyadassii",
+    "text_uid": "mn",
+    "translation_title": "Vidutinio ilgio suttų rinkinys",
+    "translation_subtitle": "Majjhima Nikāyos vertimas",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "Versta iš pali, Chaṭṭhasaṅgayānos leidimo kanono. Vertimas atitinka pirminio pali teksto komentarą (aṭṭhakathā). Abejotinose vietose buvo naudojami taip pat ir turimi angliški vertimai bei Syrkino Dīgha Nikāyos vertimas į rusų kalbą.",
+    "translation_description": "Šis vertimas yra dalis projekto, kuriuo siekiama išversti keturias pali Nikāyas į lietuvių kalbą. Vertimo tikslas yra suteikti lietuviams galimybę skaityti pali tekstus gimtąja kalba. Vertime bandoma išlaikyti pusiausvyrą tarp tikslaus pali žodžių perdavimo ir aiškios lietuvių kalbos; be autorinių teisių. Projektas pradėtas įgyvendinti 2022 m. pradžioje.",
+    "is_published": true,
+    "publication_status": "Šis vertimas yra preliminarus ir gali būti toliau redaguojamas.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2022",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub63": {
+    "publication_number": "scpub63",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "lt",
+    "translation_lang_name": "Lietuvių kalba",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/lt/piyadassi/sutta/sn",
+    "author_uid": "piyadassi",
+    "author_name": "Sayalay Piyadassi",
+    "author_github_handle": "Piyadassii",
+    "text_uid": "sn",
+    "translation_title": "Pagal temas susijusių suttų rinkinys",
+    "translation_subtitle": "Saṁyutta Nikāyos vertimas",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "Versta iš pali, Chaṭṭhasaṅgayānos leidimo kanono. Vertimas atitinka pirminio pali teksto komentarą (aṭṭhakathā). Abejotinose vietose buvo naudojami taip pat ir turimi angliški vertimai bei Syrkino Dīgha Nikāyos vertimas į rusų kalbą.",
+    "translation_description": "Šis vertimas yra dalis projekto, kuriuo siekiama išversti keturias pali Nikāyas į lietuvių kalbą. Vertimo tikslas yra suteikti lietuviams galimybę skaityti pali tekstus gimtąja kalba. Vertime bandoma išlaikyti pusiausvyrą tarp tikslaus pali žodžių perdavimo ir aiškios lietuvių kalbos; be autorinių teisių. Projektas pradėtas įgyvendinti 2022 m. pradžioje.",
+    "is_published": true,
+    "publication_status": "Šis vertimas yra preliminarus ir gali būti toliau redaguojamas.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2022",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sn"
       }
     ]
   }
