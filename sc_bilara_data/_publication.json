@@ -2483,5 +2483,39 @@
         "edition_url": "https://suttacentral.net/sn"
       }
     ]
+  },
+  "scpub64": {
+    "publication_number": "scpub64",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": false,
+    "translation_lang_name": false,
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/root/pli/ms",
+    "author_uid": "ms",
+    "author_name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_github_handle": false,
+    "text_uid": "ms",
+    "translation_title": "The Buddhist Era 2500 Great International Council Pāḷi Tipiṭaka",
+    "translation_subtitle": "40 Volume Edition in Roman Script B.E. 2548 (2005)",
+    "root_title": "World Tipiṭaka in Roman Script",
+    "translation_process": "Prepared by the M.L. Maniratana Bunnag Dhamma Society Fund based on the Vipassanā Research Institute Tipiṭaka, 2537–2542, which was originally known as Chaṭṭha Saṅgāyana CD-ROM and is available at tipitaka.org. The entire text was proofread, and in addition, recited four times between B.E. 2543–2545 (2000–2002) and B.E. 2549–2550 (2006–2007) to verify every Pāḷi sound and to correct the printing errors of the original 40-volume edition. The primary reference for proofreading was the first edition of the Chaṭṭha Saṅgāyana Tipiṭaka published in Myanmar in 1958. Additional reference was made to 18 editions of the Pāḷi Tipiṭaka in various national scripts of other countries. ",
+    "translation_description": "40 volumes of the Pali Tipiṭaka in Roman script. Includes the Nettiparaṇa, Peṭakopadesa, and Milindapañha. The Pali text on SuttaCentral was extracted from the source XML files of the Mahāsaṅgīti edition. Minor editorial changes have been made to numbering and punctuation, but no changes to the text itself.",
+    "is_published": true,
+    "publication_status": "Complete.",
+    "license": {
+      "license_type": "Public Domain",
+      "license_abbreviation": false,
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0",
+      "license_statement": "This work is an ancient sacred text that was created thousands of years ago and is maintained to the present day by its traditional custodians, the Buddhist monastic Sangha. It is free of known restrictions under copyright law, including all related and neighboring rights. We respectfully request that it is used in accordance with the values of the Buddhist tradition."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2005",
+        "publisher": "Dhamma Society",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/ms"
+      }
+    ]
   }
 }
