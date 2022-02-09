@@ -85696,8 +85696,9 @@
   },
   {
     "entry": "paripaṭati",
-    "grammar": "",
-    "definition": "Err:509"
+    "grammar": "pari + pat + a",
+    "definition": "falls down; goes to ruin",
+    "xr": "paripatati"
   },
   {
     "entry": "paripatati",
@@ -87536,7 +87537,16 @@
   {
     "entry": "pareta",
     "grammar": "adjective",
-    "definition": "afflicted with;        overcome by; gone on to"
+    "definition": "afflicted with; overcome by; gone on to"
+  },
+  {
+    "entry": "pareti",
+    "grammar": "para + i",
+    "definition": [
+      "goes; goes around; goes away;",
+      "sets out; goes towards; reaches; attains"
+    ],
+    "xr": "paleti"
   },
   {
     "entry": "paro",
@@ -87820,8 +87830,12 @@
   },
   {
     "entry": "paleti",
-    "grammar": "",
-    "definition": "Err:509"
+    "grammar": "para + i",
+    "definition": [
+      "goes; goes around; goes away;",
+      "sets out; goes towards; reaches; attains"
+    ],
+    "xr": "pareti"
   },
   {
     "entry": "palobhana",
@@ -91412,8 +91426,9 @@
   },
   {
     "entry": "puṅkha",
-    "grammar": "",
-    "definition": "Err:509"
+    "grammar": "masculine",
+    "definition": "the shaft or feathered part of an arrow",
+    "xr": "poṅkha"
   },
   {
     "entry": "puṅgava",
@@ -92782,8 +92797,9 @@
   },
   {
     "entry": "poṅkha",
-    "grammar": "",
-    "definition": "Err:509"
+    "grammar": "masculine, neuter",
+    "definition": "the shaft or feathered part of an arrow",
+    "xr": "puṅkha"
   },
   {
     "entry": "poṭṭhapāda",
@@ -111069,8 +111085,9 @@
   },
   {
     "entry": "vijināti",
-    "grammar": "",
-    "definition": "Err:509"
+    "grammar": "vi + ji",
+    "definition": "to conquer; to subdue; to be victorious (over)",
+    "xr": "jayati"
   },
   {
     "entry": "vijjati",
@@ -117694,12 +117711,16 @@
     "entry": "sa",
     "homonyms": [
       {
-        "grammar": "nominative singular",
-        "definition": "Err:509"
+        "grammar": "nominative singular; base of demonstrative pronoun",
+        "definition": "that; he; she"
       },
       {
-        "grammar": "present participle adjective",
-        "xr": "atthi"
+        "grammar": "prefix",
+        "definition": "conveys sense of “with”, “possessed of”, “having”, “same as ”"
+      },
+      {
+        "grammar": "reflexive pronoun",
+        "definition": "(one’s) own"
       }
     ]
   },
