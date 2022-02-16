@@ -1,0 +1,41 @@
+{
+  "publication_number": "scpub3",
+  "text_uid": "mn",
+  "edition_number": "6",
+  "isbn": "abcdefg",
+  "cip": "wxyz",
+  "publication_type": "html",
+  "created": "2022-02-10",
+  "updated": "2022-02-11",
+  "page_size": false,
+  "cover_image": "./matter/img/epub_cover.jpg",
+  "main_toc_depth": "all",
+  "secondary_toc": false,
+  "number_of_volumes": 1,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "volumes": [
+    {
+      "frontmatter": [
+        "titlepage",
+        "copyright",
+        "toc",
+        "./matter/foreword.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html"
+      ],
+      "mainmatter": [
+        "mn"
+      ],
+      "endmatter": [
+        "index",
+        "notes",
+        "author_bio"
+      ]
+    }
+  ]
+}
