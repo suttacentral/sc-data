@@ -1,24 +1,17 @@
 {
   "publication_number": "scpub3",
   "text_uid": "mn",
-  "edition_number": "2",
+  "edition_number": "5",
   "isbn": "abcdefg",
   "cip": "wxyz",
   "publication_type": "paperback",
-  "format": "tex",
-  "creator": "lualatex",
-  "output": "pdf",
+  "created": "2022-02-10",
+  "updated": "2022-02-11",
   "page_size": "6in, 9in",
   "cover_image": "./matter/img/paperback_cover.jpg",
   "main_toc_depth": "all",
   "secondary_toc": false,
   "number_of_volumes": 3,
-  "sources": {
-    "main_text": "translation-en-sujato",
-    "notes": "comment-en-sujato",
-    "reference": "reference",
-    "markup": "html"
-  },
   "volumes": [
     {
       "frontmatter": [
@@ -35,7 +28,7 @@
       "endmatter": [
         "index",
         "notes",
-        "creator_bio"
+        "author_bio"
       ]
     },
     {
@@ -50,7 +43,7 @@
       "endmatter": [
         "index",
         "notes",
-        "creator_bio"
+        "author_bio"
       ]
     },
     {
@@ -65,7 +58,7 @@
       "endmatter": [
         "index",
         "notes",
-        "creator_bio"
+        "author_bio"
       ]
     }
   ]
