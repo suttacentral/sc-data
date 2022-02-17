@@ -11,6 +11,12 @@
   "cover_image": "./matter/img/epub_cover.png",
   "main_toc_depth": "all",
   "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
   "number_of_volumes": 1,
   "volumes": [
     {
