@@ -8,9 +8,15 @@
   "created": "2022-02-10",
   "updated": "2022-02-11",
   "page_size": "6in, 9in",
-  "cover_image": "./matter/img/paperback_cover.jpg",
+  "cover_image": "./matter/img/paperback_cover.png",
   "main_toc_depth": "all",
   "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
   "number_of_volumes": 3,
   "volumes": [
     {
