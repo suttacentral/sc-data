@@ -1,14 +1,13 @@
 {
-  "publication_number": "scpub3",
-  "text_uid": "mn",
-  "edition_number": "3",
+  "publication_number": "scpub2",
+  "text_uid": "dn",
+  "edition_number": "ed5",
   "isbn": "abcdefg",
   "cip": "wxyz",
   "publication_type": "paperback",
   "created": "2022-02-10",
   "updated": "2022-02-11",
   "page_size": "6in, 9in",
-  "cover_image": "./matter/img/paperback_cover.png",
   "main_toc_depth": "all",
   "secondary_toc": false,
   "sources": {
@@ -17,9 +16,11 @@
     "reference": "reference",
     "markup": "html"
   },
-  "number_of_volumes": 3,
+  "number_of_volumes": 1,
   "volumes": [
     {
+      "volume_number": false,
+      "cover_image": "./img/paperback_cover_6inx9in.png",
       "frontmatter": [
         "titlepage",
         "copyright",
@@ -29,37 +30,7 @@
         "./matter/acknowledgements.html"
       ],
       "mainmatter": [
-        "mn-mulapannasa"
-      ],
-      "endmatter": [
-        "index",
-        "notes",
-        "author_bio"
-      ]
-    },
-    {
-      "frontmatter": [
-        "titlepage",
-        "copyright",
-        "toc"
-      ],
-      "mainmatter": [
-        "mn-majjhimapannasa"
-      ],
-      "endmatter": [
-        "index",
-        "notes",
-        "author_bio"
-      ]
-    },
-    {
-      "frontmatter": [
-        "titlepage",
-        "copyright",
-        "toc"
-      ],
-      "mainmatter": [
-        "mn-uparipannasa"
+        "dn"
       ],
       "endmatter": [
         "index",

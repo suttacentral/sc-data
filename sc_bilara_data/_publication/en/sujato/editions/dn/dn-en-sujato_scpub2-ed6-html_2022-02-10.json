@@ -1,14 +1,13 @@
 {
-  "publication_number": "scpub3",
-  "text_uid": "mn",
-  "edition_number": "4",
+  "publication_number": "scpub2",
+  "text_uid": "dn",
+  "edition_number": "ed6",
   "isbn": "abcdefg",
   "cip": "wxyz",
-  "publication_type": "pdf",
+  "publication_type": "html",
   "created": "2022-02-10",
   "updated": "2022-02-11",
-  "page_size": "6in, 9in",
-  "cover_image": "./matter/img/epub_cover.png",
+  "page_size": false,
   "main_toc_depth": "all",
   "secondary_toc": false,
   "sources": {
@@ -20,6 +19,8 @@
   "number_of_volumes": 1,
   "volumes": [
     {
+      "volume_number": false,
+      "cover_image": false,
       "frontmatter": [
         "titlepage",
         "copyright",

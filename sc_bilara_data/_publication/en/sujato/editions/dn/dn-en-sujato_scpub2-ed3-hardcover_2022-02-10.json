@@ -1,14 +1,13 @@
 {
-  "publication_number": "scpub3",
-  "text_uid": "mn",
-  "edition_number": "2",
+  "publication_number": "scpub2",
+  "text_uid": "dn",
+  "edition_number": "ed3",
   "isbn": "abcdefg",
   "cip": "wxyz",
-  "publication_type": "epub",
+  "publication_type": "hardcover",
   "created": "2022-02-10",
   "updated": "2022-02-11",
-  "page_size": false,
-  "cover_image": "./matter/img/epub_cover.png",
+  "page_size": "6in, 9in",
   "main_toc_depth": "all",
   "secondary_toc": false,
   "sources": {
@@ -20,6 +19,8 @@
   "number_of_volumes": 1,
   "volumes": [
     {
+      "volume_number": false,
+       "cover_image": "./img/hardcover_cover_6inx9in.png",
       "frontmatter": [
         "titlepage",
         "copyright",
@@ -29,7 +30,7 @@
         "./matter/acknowledgements.html"
       ],
       "mainmatter": [
-        "mn"
+        "dn"
       ],
       "endmatter": [
         "index",
