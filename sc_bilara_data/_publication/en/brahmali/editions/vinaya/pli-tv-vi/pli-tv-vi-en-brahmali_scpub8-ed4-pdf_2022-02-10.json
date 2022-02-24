@@ -8,8 +8,8 @@
   "created": "2022-02-10",
   "updated": "2022-02-11",
   "page_size": "6in, 9in",
-  "main_toc_depth": "all",
-  "secondary_toc": false,
+  "main_toc_depth": "2",
+  "secondary_toc": true,
   "sources": {
     "main_text": "translation-en-sujato",
     "notes": "comment-en-sujato",
