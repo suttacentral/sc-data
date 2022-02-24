@@ -1,0 +1,42 @@
+{
+  "publication_number": "scpub5",
+  "text_uid": "an",
+  "edition_number": "ed6",
+  "isbn": "abcdefg",
+  "cip": "wxyz",
+  "publication_type": "html",
+  "created": "2022-02-10",
+  "updated": "2022-02-11",
+  "page_size": false,
+  "main_toc_depth": "all",
+  "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 1,
+  "volumes": [
+    {
+      "volume_number": false,
+      "cover_image": false,
+      "frontmatter": [
+        "titlepage",
+        "copyright",
+        "toc",
+        "./matter/foreword.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html"
+      ],
+      "mainmatter": [
+        "an"
+      ],
+      "endmatter": [
+        "index",
+        "notes",
+        "author_bio"
+      ]
+    }
+  ]
+}

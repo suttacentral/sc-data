@@ -1,0 +1,116 @@
+{
+  "publication_number": "scpub5",
+  "text_uid": "an",
+  "edition_number": "ed5",
+  "isbn": "abcdefg",
+  "cip": "wxyz",
+  "publication_type": "paperback",
+  "created": "2022-02-10",
+  "updated": "2022-02-11",
+  "page_size": "6in, 9in",
+  "main_toc_depth": "all",
+  "secondary_toc": false,
+  "sources": {
+    "main_text": "translation-en-sujato",
+    "notes": "comment-en-sujato",
+    "reference": "reference",
+    "markup": "html"
+  },
+  "number_of_volumes": 5,
+  "volumes": [
+    {
+      "volume_number": "vol1",
+      "cover_image": "./img/hardcover_cover_6inx9in_vol1.png",
+      "frontmatter": [
+        "titlepage",
+        "copyright",
+        "toc",
+        "./matter/foreword.html",
+        "./matter/introduction.html",
+        "./matter/acknowledgements.html"
+      ],
+      "mainmatter": [
+        "an1",
+        "an2",
+        "an3"
+      ],
+      "endmatter": [
+        "index",
+        "notes",
+        "author_bio"
+      ]
+    },
+    {
+      "volume_number": "vol2",
+      "cover_image": "./img/hardcover_cover_6inx9in_vol2.png",
+      "frontmatter": [
+        "titlepage",
+        "copyright",
+        "toc"
+      ],
+      "mainmatter": [
+        "an4"
+      ],
+      "endmatter": [
+        "index",
+        "notes",
+        "author_bio"
+      ]
+    },
+    {
+      "volume_number": "vol3",
+      "cover_image": "./img/hardcover_cover_6inx9in_vol3.png",
+      "frontmatter": [
+        "titlepage",
+        "copyright",
+        "toc"
+      ],
+      "mainmatter": [
+        "an5",
+        "an6"
+      ],
+      "endmatter": [
+        "index",
+        "notes",
+        "author_bio"
+      ]
+    },
+    {
+      "volume_number": "vol4",
+      "cover_image": "./img/hardcover_cover_6inx9in_vol4.png",
+      "frontmatter": [
+        "titlepage",
+        "copyright",
+        "toc"
+      ],
+      "mainmatter": [
+        "an7",
+        "an8",
+        "an9"
+      ],
+      "endmatter": [
+        "index",
+        "notes",
+        "author_bio"
+      ]
+    },
+    {
+      "volume_number": "vol5",
+      "cover_image": "./img/hardcover_cover_6inx9in_vol5.png",
+      "frontmatter": [
+        "titlepage",
+        "copyright",
+        "toc"
+      ],
+      "mainmatter": [
+        "an10",
+        "an11"
+      ],
+      "endmatter": [
+        "index",
+        "notes",
+        "author_bio"
+      ]
+    }
+  ]
+}
