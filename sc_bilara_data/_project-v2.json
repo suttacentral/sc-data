@@ -1,5 +1,13 @@
 [
   {
+    "project_uid": "ca_ms_translation_bernatfontclos",
+    "name": "Català sutta translation Bernat Font-Clos",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ca/bernatfontclos/sutta",
+    "translation_muids": "translation-ca-bernatfontclos",
+    "creator_github_handle": "BernatFontClos"
+  },
+  {
     "project_uid": "cs_ms_translation_ashinsarana",
     "name": "Czech translation Ashin Sarana",
     "root_path": "root/pli/ms/sutta/an",

@@ -1784,5 +1784,30 @@
     "license_statement": "This work is an ancient sacred text that was created thousands of years ago and is maintained to the present day by its traditional custodians, the Buddhist monastic Sangha. It is free of known restrictions under copyright law, including all related and neighboring rights. We respectfully request that it is used in accordance with the values of the Buddhist tradition.",
     "first_published": "2005",
     "editions_url": ""
+  },
+  {
+    "publication_number": "scpub65",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ca",
+    "translation_lang_name": "Català",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/ca/bernatfontclos/sutta",
+    "creator_uid": "bernatfontclos",
+    "creator_name": "Bernat Font-Clos",
+    "creator_github_handle": "BernatFontClos",
+    "text_uid": "sutta",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "creation_process": "",
+    "text_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "",
+    "first_published": "",
+    "editions_url": ""
   }
 ]
