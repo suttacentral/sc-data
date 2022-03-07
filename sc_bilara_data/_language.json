@@ -9,6 +9,11 @@
     "name": "Classical Chinese",
     "is_root": true
   },
+  "ca": {
+    "type": "language",
+    "name": "Català",
+    "is_root": false
+  },
   "cs": {
     "type": "language",
     "name": "Čeština",

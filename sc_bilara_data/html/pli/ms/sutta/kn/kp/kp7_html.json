@@ -1,6 +1,6 @@
 {
   "kp7:0.1": "<article id='kp7'><header><ul><li class='division'>{}</li></ul>",
-  "kp7:0.2": "<h1>{}</h1></header>",
+  "kp7:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "kp7:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "kp7:1.2": "<span class='verse-line'>{}</span>",
   "kp7:1.3": "<span class='verse-line'>{}</span>",
