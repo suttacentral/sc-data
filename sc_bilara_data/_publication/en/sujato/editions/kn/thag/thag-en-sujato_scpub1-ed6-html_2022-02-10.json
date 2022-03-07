@@ -1,13 +1,18 @@
 {
   "publication_number": "scpub1",
-  "text_uid": "snp",
+  "text_uid": "thag",
   "edition_number": "ed6",
-  "isbn": "abcdefg",
-  "cip": "wxyz",
+  "publication_isbn": "foo",
+  "publication_blurb": false,
+  "cip": false,
   "publication_type": "html",
   "created": "2022-02-10",
   "updated": "2022-02-11",
-  "page_size": false,
+  "page_width": false,
+  "page_height": false,
+  "cover_bleed": false,
+  "cover_flap_width": false,
+  "cover_theme_color": false,
   "main_toc_depth": "all",
   "secondary_toc": false,
   "sources": {
@@ -20,21 +25,27 @@
   "volumes": [
     {
       "volume_number": false,
+      "volume_isbn": "foo",
+      "volume_acronym": "Thag",
+      "volume_translation_title": false,
+      "volume_root_title": false,
+      "volume_blurb": false,
+      "cover_background_image": false,
       "cover_image": false,
       "frontmatter": [
         "titlepage",
         "copyright",
+         "./matter/epigraph.html",
         "toc",
         "./matter/foreword.html",
+        "./matter/preface.html",
         "./matter/introduction.html",
         "./matter/acknowledgements.html"
       ],
       "mainmatter": [
-        "snp"
+        "thag"
       ],
       "endmatter": [
-        "index",
-        "notes",
         "author_bio"
       ]
     }

@@ -2,12 +2,17 @@
   "publication_number": "scpub17",
   "text_uid": "snp",
   "edition_number": "ed5",
-  "isbn": "abcdefg",
-  "cip": "wxyz",
+  "publication_isbn": "foo",
+  "publication_blurb": "The Khuddaka Nikāya or “Minor Collection” includes some of the most popular texts in Theravāda Buddhism. It seems it originally served to collect certain short collections, mostly verse, that were not conveniently assigned to one of the main nikāyas. Over time, however, it grew to become the largest of the nikāyas in the Pali canon. The SuttaCentral translation series only includes the six books widely regarded as the earliest, namely, Dhammapada, Sutta Nipāta, Udāna, Itivuttaka, and the collected verses of the Monks and Nuns.",
+  "cip": false,
   "publication_type": "paperback",
   "created": "2022-02-10",
   "updated": "2022-02-11",
-  "page_size": "6in, 9in",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": "3mm",
+  "cover_flap_width": false,
+  "cover_theme_color": "green",
   "main_toc_depth": "all",
   "secondary_toc": false,
   "sources": {
@@ -20,12 +25,20 @@
   "volumes": [
     {
       "volume_number": false,
-      "cover_image": false,
+      "volume_isbn": "foo",
+      "volume_acronym": "Snp",
+      "volume_translation_title": false,
+      "volume_root_title": false,
+      "volume_blurb": "The “Anthology of Discourses” (Suttanipāta) contains 74 short texts in verse or mixed prose and verse, arranged in five chapters. It contains some of the most beloved texts in popular Buddhism, such as the Ratana, Maṅgala, and Mettā Suttas, which are known to all Theravada Buddhists and recited as uplifting and protective chants at auspicious ceremonies. Certain sections—the “Rhinoceros Horn”, the “Chapter of the Eights”, and the “Way to the Beyond”—are regarded as among the earliest of the Buddhist scriptures.",
+      "cover_background_image": "green4.png",
+      "cover_image": "paperback_cover_6inx9in.pdf",
       "frontmatter": [
         "titlepage",
         "copyright",
+         "./matter/epigraph.html",
         "toc",
         "./matter/foreword.html",
+        "./matter/preface.html",
         "./matter/introduction.html",
         "./matter/acknowledgements.html"
       ],
@@ -33,7 +46,6 @@
         "snp"
       ],
       "endmatter": [
-        "index",
         "notes",
         "author_bio"
       ]

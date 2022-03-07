@@ -2,12 +2,17 @@
   "publication_number": "scpub2",
   "text_uid": "dn",
   "edition_number": "ed5",
-  "isbn": "abcdefg",
-  "cip": "wxyz",
+  "publication_isbn": "foo",
+  "publication_blurb": "The Long Discourses (Dīgha Nikāya, abbreviated DN) is a collection of 34 discourses in the Pali canon (Tipiṭaka) of the Theravāda school. The word “long” refers to the length of the individual discourses, not the collection as a whole, which is in fact the smallest of the five Pali Nikāyas. It is one of the fundamental collections of early Buddhist teachings, depicting the Buddha in a lively range of settings. Many of its extended narratives in diverse literary styles feature interreligious dialog with brahmins and other non-Buddhists. ",
+  "cip": false,
   "publication_type": "paperback",
   "created": "2022-02-10",
   "updated": "2022-02-11",
-  "page_size": "6in, 9in",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": "3mm",
+  "cover_flap_width": false,
+  "cover_theme_color": "yellow",
   "main_toc_depth": "all",
   "secondary_toc": false,
   "sources": {
@@ -20,21 +25,25 @@
   "volumes": [
     {
       "volume_number": false,
-      "cover_image": "./img/paperback_cover_6inx9in.png",
+      "volume_isbn": false,
+      "volume_acronym": "DN",
+      "cover_background_image": "yellow1.png",
+      "cover_image": "paperback_cover_6inx9in.pdf",
       "frontmatter": [
         "titlepage",
         "copyright",
+         "./matter/epigraph.html",
         "toc",
         "./matter/foreword.html",
+        "./matter/preface.html",
         "./matter/introduction.html",
-        "./matter/acknowledgements.html"
+        "./matter/acknowledgements.html",
+        "blurbs"
       ],
       "mainmatter": [
         "dn"
       ],
       "endmatter": [
-        "index",
-        "notes",
         "author_bio"
       ]
     }

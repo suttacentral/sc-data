@@ -2,12 +2,17 @@
   "publication_number": "scpub5",
   "text_uid": "an",
   "edition_number": "ed3",
-  "isbn": "abcdefg",
-  "cip": "wxyz",
+  "publication_isbn": "foo",
+  "publication_blurb": "The “Numbered” or “Numerical” Discourses (Aṅguttara Nikāya) organizes texts in numbered sets, from one to eleven. Within each numerical set we find a diverse range of teachings, with an emphasis on practical application and teaching of the Dhamma for both lay folk and monastics. The teachings are short, memorable, and focussed, aiming to convey the essence of one subject in one session. Whether it is the “five topics for frequent recollection” or the “three kinds of luxurious seat enjoyed by the Buddha”, the teachings are easily digested and recalled.",
+  "cip": false,
   "publication_type": "hardcover",
   "created": "2022-02-10",
   "updated": "2022-02-11",
-  "page_size": "6in, 9in",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": "3mm",
+  "cover_flap_width": "3.25in",
+  "cover_theme_color": "orange",
   "main_toc_depth": "1",
   "secondary_toc": true,
   "sources": {
@@ -20,12 +25,20 @@
   "volumes": [
     {
       "volume_number": "vol1",
-      "cover_image": "./img/hardcover_cover_6inx9in_vol1.png",
+      "volume_isbn": "foo",
+      "volume_acronym": "AN 1–3",
+      "volume_translation_title": false,
+      "volume_root_title": false,
+      "volume_blurb": false,
+      "cover_background_image": "orange1.png",
+      "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
         "copyright",
+         "./matter/epigraph.html",
         "toc",
         "./matter/foreword.html",
+        "./matter/preface.html",
         "./matter/introduction.html",
         "./matter/acknowledgements.html"
       ],
@@ -35,14 +48,18 @@
         "an3"
       ],
       "endmatter": [
-        "index",
-        "notes",
         "author_bio"
       ]
     },
     {
       "volume_number": "vol2",
-      "cover_image": "./img/hardcover_cover_6inx9in_vol2.png",
+      "volume_isbn": "foo",
+      "volume_acronym": "AN 4",
+      "volume_translation_title": false,
+      "volume_root_title": false,
+      "volume_blurb": false,
+      "cover_background_image": "orange2.png",
+      "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
         "copyright",
@@ -52,14 +69,18 @@
         "an4"
       ],
       "endmatter": [
-        "index",
-        "notes",
         "author_bio"
       ]
     },
     {
       "volume_number": "vol3",
-      "cover_image": "./img/hardcover_cover_6inx9in_vol3.png",
+      "volume_isbn": "foo",
+      "volume_acronym": "AN 5–6",
+      "volume_translation_title": false,
+      "volume_root_title": false,
+      "volume_blurb": false,
+      "cover_background_image": "orange3.png",
+      "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
         "copyright",
@@ -70,14 +91,18 @@
         "an6"
       ],
       "endmatter": [
-        "index",
-        "notes",
         "author_bio"
       ]
     },
     {
       "volume_number": "vol4",
-      "cover_image": "./img/hardcover_cover_6inx9in_vol4.png",
+      "volume_isbn": "foo",
+      "volume_acronym": "AN 7–9",
+      "volume_translation_title": false,
+      "volume_root_title": false,
+      "volume_blurb": false,
+      "cover_background_image": "orange4.png",
+      "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
         "copyright",
@@ -89,14 +114,18 @@
         "an9"
       ],
       "endmatter": [
-        "index",
-        "notes",
         "author_bio"
       ]
     },
     {
       "volume_number": "vol5",
-      "cover_image": "./img/hardcover_cover_6inx9in_vol5.png",
+      "volume_isbn": "foo",
+      "volume_acronym": "AN 10–11",
+      "volume_translation_title": false,
+      "volume_root_title": false,
+      "volume_blurb": false,
+      "cover_background_image": "orange5.png",
+      "cover_image": "hardcover_cover_6inx9in_vol5.pdf",
       "frontmatter": [
         "titlepage",
         "copyright",
@@ -107,8 +136,6 @@
         "an11"
       ],
       "endmatter": [
-        "index",
-        "notes",
         "author_bio"
       ]
     }

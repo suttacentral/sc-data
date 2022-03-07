@@ -2,12 +2,17 @@
   "publication_number": "scpub2",
   "text_uid": "dn",
   "edition_number": "ed4",
-  "isbn": "abcdefg",
-  "cip": "wxyz",
+  "publication_isbn": "foo",
+  "publication_blurb": false,
+  "cip": false,
   "publication_type": "pdf",
   "created": "2022-02-10",
   "updated": "2022-02-11",
-  "page_size": "6in, 9in",
+  "page_width": "6in",
+  "page_height": "9in",
+  "cover_bleed": false,
+  "cover_flap_width": false,
+  "cover_theme_color": "yellow",
   "main_toc_depth": "all",
   "secondary_toc": false,
   "sources": {
@@ -20,21 +25,25 @@
   "volumes": [
     {
       "volume_number": false,
-      "cover_image": "./img/epub_cover.png",
+      "volume_isbn": false,
+      "volume_acronym": "DN",
+      "cover_background_image": "yellow1.png",
+      "cover_image": "epub_cover.png",
       "frontmatter": [
         "titlepage",
         "copyright",
+         "./matter/epigraph.html",
         "toc",
         "./matter/foreword.html",
+        "./matter/preface.html",
         "./matter/introduction.html",
-        "./matter/acknowledgements.html"
+        "./matter/acknowledgements.html",
+        "blurbs"
       ],
       "mainmatter": [
-        "mn"
+        "dn"
       ],
       "endmatter": [
-        "index",
-        "notes",
         "author_bio"
       ]
     }
