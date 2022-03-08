@@ -12,7 +12,7 @@
   "page_height": "9in",
   "cover_bleed": false,
   "cover_flap_width": false,
-  "cover_theme_color": "green",
+  "cover_theme_color": "orange",
   "main_toc_depth": "all",
   "secondary_toc": false,
   "sources": {
@@ -30,7 +30,7 @@
       "volume_translation_title": false,
       "volume_root_title": false,
       "volume_blurb": false,
-      "cover_background_image": "green5.png",
+      "cover_background_image": "orange5.png",
       "cover_image": "epub_cover.png",
       "frontmatter": [
         "titlepage",

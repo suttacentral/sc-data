@@ -12,7 +12,7 @@
   "page_height": "9in",
   "cover_bleed": "3mm",
   "cover_flap_width": false,
-  "cover_theme_color": "green",
+  "cover_theme_color": "orange",
   "main_toc_depth": "1",
   "secondary_toc": false,
   "sources": {
@@ -30,7 +30,7 @@
       "volume_translation_title": false,
       "volume_root_title": false,
       "volume_blurb": "The Pali version of this famous text, consisting of 423 verses organized into memorable themes. It is the most widely read of the early texts, and has been translated many times into many languages. Versions are found in Chinese, Tibetan, and several Indic languages, attesting to its timeless, universal appeal.",
-      "cover_background_image": "green1.png",
+      "cover_background_image": "orange1.png",
       "cover_image": "paperback_cover_6inx9in.pdf",
       "frontmatter": [
         "titlepage",

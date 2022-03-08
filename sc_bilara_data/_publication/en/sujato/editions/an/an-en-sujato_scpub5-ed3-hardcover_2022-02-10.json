@@ -12,7 +12,7 @@
   "page_height": "9in",
   "cover_bleed": "3mm",
   "cover_flap_width": "3.25in",
-  "cover_theme_color": "orange",
+  "cover_theme_color": "white",
   "main_toc_depth": "1",
   "secondary_toc": true,
   "sources": {
@@ -30,7 +30,7 @@
       "volume_translation_title": false,
       "volume_root_title": false,
       "volume_blurb": false,
-      "cover_background_image": "orange1.png",
+      "cover_background_image": "white1.png",
       "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
@@ -58,7 +58,7 @@
       "volume_translation_title": false,
       "volume_root_title": false,
       "volume_blurb": false,
-      "cover_background_image": "orange2.png",
+      "cover_background_image": "white2.png",
       "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
@@ -79,7 +79,7 @@
       "volume_translation_title": false,
       "volume_root_title": false,
       "volume_blurb": false,
-      "cover_background_image": "orange3.png",
+      "cover_background_image": "white3.png",
       "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
@@ -101,7 +101,7 @@
       "volume_translation_title": false,
       "volume_root_title": false,
       "volume_blurb": false,
-      "cover_background_image": "orange4.png",
+      "cover_background_image": "white4.png",
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
@@ -124,7 +124,7 @@
       "volume_translation_title": false,
       "volume_root_title": false,
       "volume_blurb": false,
-      "cover_background_image": "orange5.png",
+      "cover_background_image": "white5.png",
       "cover_image": "hardcover_cover_6inx9in_vol5.pdf",
       "frontmatter": [
         "titlepage",

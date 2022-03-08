@@ -12,7 +12,7 @@
   "page_height": "9in",
   "cover_bleed": false,
   "cover_flap_width": false,
-  "cover_theme_color": "blue",
+  "cover_theme_color": "green",
   "main_toc_depth": "2",
   "secondary_toc": true,
   "sources": {
@@ -30,7 +30,7 @@
       "volume_translation_title": false,
       "volume_root_title": false,
       "volume_blurb": false,
-      "cover_background_image": "blue1.png",
+      "cover_background_image": "green1.png",
       "cover_image": "pdf_cover.png",
       "frontmatter": [
         "titlepage",
