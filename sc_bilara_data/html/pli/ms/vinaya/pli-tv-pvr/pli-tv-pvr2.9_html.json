@@ -72,7 +72,7 @@
   "pli-tv-pvr2.9:8.7": "{}",
   "pli-tv-pvr2.9:8.8": "{}",
   "pli-tv-pvr2.9:8.9": "<span data-content='4'></span>{}</p>",
-  "pli-tv-pvr2.9:8.10": "<p class='endsutta'>{}</p></article>",
+  "pli-tv-pvr2.9:8.10": "<p class='endsutta'>{}</p>",
   "pli-tv-pvr2.9:9.0": "<h2>{}</h2>",
   "pli-tv-pvr2.9:9.1": "<p>{}",
   "pli-tv-pvr2.9:9.2": "{}",
@@ -205,5 +205,5 @@
   "pli-tv-pvr2.9:23.6": "{}",
   "pli-tv-pvr2.9:23.7": "{}",
   "pli-tv-pvr2.9:23.8": "<span data-content='11'></span>{}</p>",
-  "pli-tv-pvr2.9:23.9": "<p class='endsutta'>{}</p>"
+  "pli-tv-pvr2.9:23.9": "<p class='endsutta'>{}</p></article>"
 }
