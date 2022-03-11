@@ -380,6 +380,17 @@
       }
     ]
   },
+  "sr_ms_translation_brankokovacevic": {
+    "name": "Serbian translation Branko Kovačević",
+    "root_path": "root/pli/ms/sutta/dn",
+    "translation_path": "translation/sr/brankokovacevic/sutta/dn",
+    "translation_muids": "translation-sr-brankokovacevic",
+    "collaborator": [
+      {
+        "author_github_handle": "Bundi-py"
+      }
+    ]
+  },
   "vi_localization": {
     "name": "Vietnamese localization",
     "root_path": "root/en/site",

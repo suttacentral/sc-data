@@ -99,6 +99,11 @@
     "name": "සිංහල",
     "is_root": false
   },
+  "sr": {
+    "type": "language",
+    "name": "Srpski",
+    "is_root": false
+  },
   "vi": {
     "type": "language",
     "name": "Tiếng Việt",

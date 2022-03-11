@@ -1834,5 +1834,30 @@
     "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus.",
     "first_published": "2022",
     "editions_url": ""
+  },
+  {
+    "publication_number": "scpub67",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "sr",
+    "translation_lang_name": "Srpski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/sr/brankokovacevic/sutta/dn",
+    "creator_uid": "brankokovacevic",
+    "creator_name": "Branko Kovačević",
+    "creator_github_handle": "Bundi-py",
+    "text_uid": "dn",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Dīghanikāya",
+    "creation_process": "",
+    "text_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "",
+    "first_published": "",
+    "editions_url": ""
   }
 ]
