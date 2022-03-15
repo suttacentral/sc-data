@@ -1,6 +1,6 @@
 {
   "kp5:0.1": "<article id='kp5'><header><ul><li class='division'>{}</li></ul>",
-  "kp5:0.2": "<h1>{}</h1></header>",
+  "kp5:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "kp5:1.1": "<p>{}",
   "kp5:1.2": "{}",
   "kp5:1.3": "{}",
