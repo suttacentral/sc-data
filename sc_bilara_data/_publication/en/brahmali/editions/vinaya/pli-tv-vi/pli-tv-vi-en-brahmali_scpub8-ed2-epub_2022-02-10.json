@@ -29,9 +29,11 @@
       "cover_image": "epub_cover.png",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc",
+        "imprint",
+        "halftitlepage",
+        "main-toc",
         "./matter/foreword.html",
+        "./matter/preface.html",
         "./matter/introduction.html",
         "./matter/acknowledgements.html"
       ],
@@ -39,9 +41,7 @@
         "pli-tv-vi"
       ],
       "backmatter": [
-        "index",
-        "notes",
-        "author_bio"
+        "colophon"
       ]
     }
   ]

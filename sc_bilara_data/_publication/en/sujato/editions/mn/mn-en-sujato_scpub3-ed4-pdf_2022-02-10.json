@@ -29,9 +29,10 @@
       "cover_image": "pdf_cover.png",
       "frontmatter": [
         "titlepage",
-        "copyright",
+        "imprint",
+        "halftitlepage",
          "./matter/epigraph.html",
-        "toc",
+        "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",
         "./matter/introduction.html",
@@ -42,7 +43,7 @@
         "mn"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     }
   ]

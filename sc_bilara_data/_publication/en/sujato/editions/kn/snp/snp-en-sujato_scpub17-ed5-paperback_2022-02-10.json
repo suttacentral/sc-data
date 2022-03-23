@@ -32,9 +32,10 @@
       "cover_image": "paperback_cover_6inx9in.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
+        "imprint",
+        "halftitlepage",
          "./matter/epigraph.html",
-        "toc",
+        "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",
         "./matter/introduction.html",
@@ -45,7 +46,7 @@
       ],
       "backmatter": [
         "notes",
-        "author_bio"
+        "colophon"
       ]
     }
   ]

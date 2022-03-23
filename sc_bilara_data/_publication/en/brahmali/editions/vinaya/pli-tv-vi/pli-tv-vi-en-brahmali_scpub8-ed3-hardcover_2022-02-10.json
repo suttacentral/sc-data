@@ -32,9 +32,11 @@
       "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc",
+        "imprint",
+        "halftitlepage",
+        "main-toc",
         "./matter/foreword.html",
+        "./matter/preface.html",
         "./matter/introduction.html",
         "./matter/acknowledgements.html"
       ],
@@ -44,9 +46,7 @@
         "pli-tv-bu-vb-ay"
       ],
       "backmatter": [
-        "index",
-        "notes",
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -60,8 +60,9 @@
       "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "pli-tv-bu-vb-np",
@@ -71,9 +72,7 @@
         "pli-tv-bu-vb-as"
       ],
       "backmatter": [
-        "index",
-        "notes",
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -87,16 +86,15 @@
       "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "pli-tv-bi-vb"
       ],
       "backmatter": [
-        "index",
-        "notes",
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -110,8 +108,9 @@
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "pli-tv-kd1",
@@ -126,9 +125,7 @@
         "pli-tv-kd10"
       ],
       "backmatter": [
-        "index",
-        "notes",
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -142,8 +139,9 @@
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "pli-tv-kd11",
@@ -160,9 +158,7 @@
         "pli-tv-kd22"
       ],
       "backmatter": [
-        "index",
-        "notes",
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -176,16 +172,15 @@
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "pli-tv-pvr"
       ],
       "backmatter": [
-        "index",
-        "notes",
-        "author_bio"
+        "colophon"
       ]
     }
   ]

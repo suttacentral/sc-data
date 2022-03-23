@@ -32,9 +32,10 @@
       "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
+        "imprint",
+        "halftitlepage",
          "./matter/epigraph.html",
-        "toc",
+        "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",
         "./matter/introduction.html",
@@ -45,7 +46,7 @@
         "mn-mulapannasa"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -59,15 +60,16 @@
       "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc",
+        "imprint",
+        "halftitlepage",
+        "main-toc",
         "blurbs"
       ],
       "mainmatter": [
         "mn-majjhimapannasa"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -81,15 +83,16 @@
       "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc",
+        "imprint",
+        "halftitlepage",
+        "main-toc",
         "blurbs"
       ],
       "mainmatter": [
         "mn-uparipannasa"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     }
   ]

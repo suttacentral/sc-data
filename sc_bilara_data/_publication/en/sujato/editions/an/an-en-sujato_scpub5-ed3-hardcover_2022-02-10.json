@@ -32,9 +32,10 @@
       "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
+        "imprint",
+        "halftitlepage",
          "./matter/epigraph.html",
-        "toc",
+        "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",
         "./matter/introduction.html",
@@ -46,7 +47,7 @@
         "an3"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -60,14 +61,15 @@
       "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "an4"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -81,15 +83,16 @@
       "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "an5",
         "an6"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -103,8 +106,9 @@
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "an7",
@@ -112,7 +116,7 @@
         "an9"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     },
     {
@@ -126,15 +130,16 @@
       "cover_image": "hardcover_cover_6inx9in_vol5.pdf",
       "frontmatter": [
         "titlepage",
-        "copyright",
-        "toc"
+        "imprint",
+        "halftitlepage",
+        "main-toc"
       ],
       "mainmatter": [
         "an10",
         "an11"
       ],
       "backmatter": [
-        "author_bio"
+        "colophon"
       ]
     }
   ]
