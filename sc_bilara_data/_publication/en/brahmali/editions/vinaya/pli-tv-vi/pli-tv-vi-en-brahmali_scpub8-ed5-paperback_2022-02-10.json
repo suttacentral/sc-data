@@ -6,8 +6,6 @@
   "publication_blurb": false,
   "cip": false,
   "publication_type": "paperback",
-  "created": "2022-02-10",
-  "updated": "2022-02-11",
   "page_width": "6in",
   "page_height": "9in",
   "cover_bleed": "3mm",
@@ -45,7 +43,7 @@
         "pli-tv-bu-vb-ss",
         "pli-tv-bu-vb-ay"
       ],
-      "endmatter": [
+      "backmatter": [
         "index",
         "notes",
         "author_bio"
@@ -72,7 +70,7 @@
         "pli-tv-bu-vb-sk",
         "pli-tv-bu-vb-as"
       ],
-      "endmatter": [
+      "backmatter": [
         "index",
         "notes",
         "author_bio"
@@ -95,7 +93,7 @@
       "mainmatter": [
         "pli-tv-bi-vb"
       ],
-      "endmatter": [
+      "backmatter": [
         "index",
         "notes",
         "author_bio"
@@ -127,7 +125,7 @@
         "pli-tv-kd9",
         "pli-tv-kd10"
       ],
-      "endmatter": [
+      "backmatter": [
         "index",
         "notes",
         "author_bio"
@@ -161,7 +159,7 @@
         "pli-tv-kd21",
         "pli-tv-kd22"
       ],
-      "endmatter": [
+      "backmatter": [
         "index",
         "notes",
         "author_bio"
@@ -184,7 +182,7 @@
       "mainmatter": [
         "pli-tv-pvr"
       ],
-      "endmatter": [
+      "backmatter": [
         "index",
         "notes",
         "author_bio"

@@ -6,8 +6,6 @@
   "publication_blurb": "The Middle Discourses (Majjhima Nikāya) is a collection of 152 discourses in the Pali canon (Tipiṭaka) that are of “middle” length. It is perhaps the most popular collection of early discourses, its teachings ranging from practical morality for children to challenging and abstruse philosophy. These teachings emerge as the Buddha encounters people from all walks of life in ancient India. More than any other collection, it reveals the full range of the Buddha in inspiration and wonder, in closely reasoned argumentation, and in deep abiding compassion.",
   "cip": false,
   "publication_type": "paperback",
-  "created": "2022-02-10",
-  "updated": "2022-02-11",
   "page_width": "6in",
   "page_height": "9in",
   "cover_bleed": "3mm",
@@ -46,7 +44,7 @@
       "mainmatter": [
         "mn-mulapannasa"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -68,7 +66,7 @@
       "mainmatter": [
         "mn-majjhimapannasa"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -90,7 +88,7 @@
       "mainmatter": [
         "mn-uparipannasa"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     }

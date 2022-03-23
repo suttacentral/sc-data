@@ -6,8 +6,6 @@
   "publication_blurb": false,
   "cip": false,
   "publication_type": "pdf",
-  "created": "2022-02-10",
-  "updated": "2022-02-11",
   "page_width": "6in",
   "page_height": "9in",
   "cover_bleed": false,
@@ -43,7 +41,7 @@
       "mainmatter": [
         "mn"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     }

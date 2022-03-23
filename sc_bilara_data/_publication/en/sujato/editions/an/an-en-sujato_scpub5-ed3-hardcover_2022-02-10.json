@@ -6,8 +6,6 @@
   "publication_blurb": "The “Numbered” or “Numerical” Discourses (Aṅguttara Nikāya) organizes texts in numbered sets, from one to eleven. Within each numerical set we find a diverse range of teachings, with an emphasis on practical application and teaching of the Dhamma for both lay folk and monastics. The teachings are short, memorable, and focussed, aiming to convey the essence of one subject in one session. Whether it is the “five topics for frequent recollection” or the “three kinds of luxurious seat enjoyed by the Buddha”, the teachings are easily digested and recalled.",
   "cip": false,
   "publication_type": "hardcover",
-  "created": "2022-02-10",
-  "updated": "2022-02-11",
   "page_width": "6in",
   "page_height": "9in",
   "cover_bleed": "3mm",
@@ -47,7 +45,7 @@
         "an2",
         "an3"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -68,7 +66,7 @@
       "mainmatter": [
         "an4"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -90,7 +88,7 @@
         "an5",
         "an6"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -113,7 +111,7 @@
         "an8",
         "an9"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -135,7 +133,7 @@
         "an10",
         "an11"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     }

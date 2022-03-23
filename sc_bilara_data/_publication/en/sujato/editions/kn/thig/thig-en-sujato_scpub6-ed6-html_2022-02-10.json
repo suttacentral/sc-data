@@ -6,8 +6,6 @@
   "publication_blurb": false,
   "cip": false,
   "publication_type": "html",
-  "created": "2022-02-10",
-  "updated": "2022-02-11",
   "page_width": false,
   "page_height": false,
   "cover_bleed": false,
@@ -45,7 +43,7 @@
       "mainmatter": [
         "thig"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     }

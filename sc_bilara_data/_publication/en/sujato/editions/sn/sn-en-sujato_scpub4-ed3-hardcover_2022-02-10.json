@@ -6,8 +6,6 @@
   "publication_blurb": "The “Linked” or “Connected” Discourses (Saṁyutta Nikāya) is a collection of over a thousand short discourses organized by either a theme of Dhamma or the person who is speaking. It is the primary source work for fundamental themes such the five aggregates, dependent origination, the noble eightfold path, mindfulness meditation, and the four noble truths. The radical significance of these teachings is unpacked through systematic analysis leavened with parables, anecdotes, and similes.",
   "cip": false,
   "publication_type": "hardcover",
-  "created": "2022-02-10",
-  "updated": "2022-02-11",
   "page_width": "6in",
   "page_height": "9in",
   "cover_bleed": "3mm",
@@ -45,7 +43,7 @@
       "mainmatter": [
         "sn-sagathavaggasamyutta"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -66,7 +64,7 @@
       "mainmatter": [
         "sn-nidanavaggasamyutta"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -87,7 +85,7 @@
       "mainmatter": [
         "sn-khandhavaggasamyutta"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -108,7 +106,7 @@
       "mainmatter": [
         "sn-salayatanavaggasamyutta"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     },
@@ -129,7 +127,7 @@
       "mainmatter": [
         "sn-mahavaggasamyutta"
       ],
-      "endmatter": [
+      "backmatter": [
         "author_bio"
       ]
     }
