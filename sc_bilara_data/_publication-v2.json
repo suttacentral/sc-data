@@ -1859,5 +1859,30 @@
     "license_statement": "",
     "first_published": "",
     "editions_url": ""
+  },
+  {
+    "publication_number": "scpub68",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fr",
+    "translation_lang_name": "Français",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/fr/noeismet/sutta",
+    "creator_uid": "noeismet",
+    "creator_name": "Noé Ismet",
+    "creator_github_handle": "EnoMetis",
+    "text_uid": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "creation_process": "",
+    "text_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "",
+    "first_published": "",
+    "editions_url": ""
   }
 ]
