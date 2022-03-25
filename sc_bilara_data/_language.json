@@ -39,6 +39,11 @@
     "name": "Suomi",
     "is_root": false
   },
+  "fr": {
+    "type": "language",
+    "name": "Français",
+    "is_root": false
+  },
   "gu": {
     "type": "language",
     "name": "ગુજરાતી",
