@@ -2,7 +2,7 @@
   "publication_number": "scpub1",
   "text_uid": "thag",
   "edition_number": "ed5",
-  "publication_isbn": "foo",
+  "publication_isbn": "978-1-76132-026-2",
   "publication_blurb": "The Khuddaka Nikāya or “Minor Collection” includes some of the most popular texts in Theravāda Buddhism. It seems it originally served to collect certain short collections, mostly verse, that were not conveniently assigned to one of the main nikāyas. Over time, however, it grew to become the largest of the nikāyas in the Pali canon. The SuttaCentral translation series only includes the six books widely regarded as the earliest, namely, Dhammapada, Sutta Nipāta, Udāna, Itivuttaka, and the collected verses of the Monks and Nuns.",
   "cip": false,
   "publication_type": "paperback",
@@ -23,7 +23,7 @@
   "volumes": [
     {
       "volume_number": false,
-      "volume_isbn": "foo",
+      "volume_isbn": false,
       "volume_acronym": "Thag",
       "volume_translation_title": false,
       "volume_root_title": false,

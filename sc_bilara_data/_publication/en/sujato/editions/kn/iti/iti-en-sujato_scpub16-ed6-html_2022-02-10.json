@@ -2,7 +2,7 @@
   "publication_number": "scpub7",
   "text_uid": "iti",
   "edition_number": "ed6",
-  "publication_isbn": "foo",
+  "publication_isbn": "978-1-76132-084-2",
   "publication_blurb": false,
   "cip": false,
   "publication_type": "html",
@@ -23,7 +23,7 @@
   "volumes": [
     {
       "volume_number": false,
-      "volume_isbn": "foo",
+      "volume_isbn": false,
       "volume_acronym": "Iti",
       "volume_translation_title": false,
       "volume_root_title": false,

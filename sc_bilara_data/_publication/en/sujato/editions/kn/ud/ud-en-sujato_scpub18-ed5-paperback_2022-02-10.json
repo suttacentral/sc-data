@@ -2,7 +2,7 @@
   "publication_number": "scpub18",
   "text_uid": "ud",
   "edition_number": "ed5",
-  "publication_isbn": "foo",
+  "publication_isbn": "978-1-76132-055-2",
   "publication_blurb": "The “Heartfelt Sayings” (Udāna) consists of eighty short discourses in mixed prose and verse that are inspiring, accessible, and epigrammatic. It forms an ideal introduction to the Buddha’s teachings, a combination of simple, catchy, and profound that remains as popular today as it has ever been. The collection speaks of meditation, wisdom, and freedom in the context of stories that are dramatic and sometimes quirky, finding meaning in small personal events.",
   "cip": false,
   "publication_type": "paperback",
@@ -23,7 +23,7 @@
   "volumes": [
     {
       "volume_number": false,
-      "volume_isbn": "foo",
+      "volume_isbn": false,
       "volume_acronym": "Ud",
       "volume_translation_title": false,
       "volume_root_title": false,

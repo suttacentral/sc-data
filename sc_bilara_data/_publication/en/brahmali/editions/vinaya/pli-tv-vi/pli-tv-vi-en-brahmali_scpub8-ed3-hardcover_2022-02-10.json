@@ -2,7 +2,7 @@
   "publication_number": "scpub8",
   "text_uid": "pli-tv-vi",
   "edition_number": "ed3",
-  "publication_isbn": "foo",
+  "publication_isbn": "978-1-76132-006-4",
   "publication_blurb": "The Monastic Law for the Theravāda school in Pali. This collection is followed by mendicants of the Theravāda school. It is the only Vinaya for which we have a complete collection in the original Indic.",
   "cip": false,
   "publication_type": "hardcover",
@@ -23,7 +23,7 @@
   "volumes": [
     {
       "volume_number": "vol1",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-007-1",
       "volume_acronym": "Bu Vb",
       "volume_translation_title": "Analysis of Rules for Monks (1)",
       "volume_root_title": "Bhikkhu Vibhaṅga",
@@ -51,7 +51,7 @@
     },
     {
       "volume_number": "vol2",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-008-8",
       "volume_acronym": "Bu Vb",
       "volume_translation_title": "Analysis of Rules for Monks (2)",
       "volume_root_title": "Bhikkhu Vibhaṅga",
@@ -77,7 +77,7 @@
     },
     {
       "volume_number": "vol3",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-009-5",
       "volume_acronym": "Bi Vb",
       "volume_translation_title": "Analysis of Rules for Nuns",
       "volume_root_title": "Bhikkhunī Vibhaṅga",
@@ -99,7 +99,7 @@
     },
     {
       "volume_number": "vol4",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-010-1",
       "volume_acronym": "Mv",
       "volume_translation_title": "Great Division",
       "volume_root_title": "Mahāvagga",
@@ -130,7 +130,7 @@
     },
     {
       "volume_number": "vol5",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-011-8",
       "volume_acronym": "Cv",
       "volume_translation_title": "Lesser Division",
       "volume_root_title": "Cūḷavagga",
@@ -163,7 +163,7 @@
     },
     {
       "volume_number": "vol6",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-012-5",
       "volume_acronym": "Pvr",
       "volume_translation_title": "The Compendium",
       "volume_root_title": "Parivāra",

@@ -2,7 +2,7 @@
   "publication_number": "scpub3",
   "text_uid": "mn",
   "edition_number": "ed3",
-  "publication_isbn": "foo",
+  "publication_isbn": "978-1-76132-058-3",
   "publication_blurb": "The Middle Discourses (Majjhima Nikāya) is a collection of 152 discourses in the Pali canon (Tipiṭaka) that are of “middle” length. It is perhaps the most popular collection of early discourses, its teachings ranging from practical morality for children to challenging and abstruse philosophy. These teachings emerge as the Buddha encounters people from all walks of life in ancient India. More than any other collection, it reveals the full range of the Buddha in inspiration and wonder, in closely reasoned argumentation, and in deep abiding compassion.",
   "cip": false,
   "publication_type": "hardcover",
@@ -23,7 +23,7 @@
   "volumes": [
     {
       "volume_number": "vol1",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-059-0",
       "volume_acronym": "MN 1–50",
       "volume_translation_title": "The First Fifty",
       "volume_root_title": "Mūlapaṇṇāsa",
@@ -51,7 +51,7 @@
     },
     {
       "volume_number": "vol2",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-060-6",
       "volume_acronym": "MN 51–100",
       "volume_translation_title": "The Middle Fifty",
       "volume_root_title": "Majjhimapaṇṇāsa",
@@ -74,7 +74,7 @@
     },
     {
       "volume_number": "vol3",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-061-3",
       "volume_acronym": "MN 101–152",
       "volume_translation_title": "The Final Fifty",
       "volume_root_title": "Uparipaṇṇāsa",

@@ -2,7 +2,7 @@
   "publication_number": "scpub5",
   "text_uid": "an",
   "edition_number": "ed5",
-  "publication_isbn": "foo",
+  "publication_isbn": "978-1-76132-037-8",
   "publication_blurb": "The “Numbered” or “Numerical” Discourses (Aṅguttara Nikāya) organizes texts in numbered sets, from one to eleven. Within each numerical set we find a diverse range of teachings, with an emphasis on practical application and teaching of the Dhamma for both lay folk and monastics. The teachings are short, memorable, and focussed, aiming to convey the essence of one subject in one session. Whether it is the “five topics for frequent recollection” or the “three kinds of luxurious seat enjoyed by the Buddha”, the teachings are easily digested and recalled.",
   "cip": false,
   "publication_type": "paperback",
@@ -23,7 +23,7 @@
   "volumes": [
     {
       "volume_number": "vol1",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-038-5",
       "volume_acronym": "AN 1–3",
       "volume_translation_title": false,
       "volume_root_title": false,
@@ -52,7 +52,7 @@
     },
     {
       "volume_number": "vol2",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-039-2",
       "volume_acronym": "AN 4",
       "volume_translation_title": false,
       "volume_root_title": false,
@@ -74,7 +74,7 @@
     },
     {
       "volume_number": "vol3",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-040-8",
       "volume_acronym": "AN 5–6",
       "volume_translation_title": false,
       "volume_root_title": false,
@@ -97,7 +97,7 @@
     },
     {
       "volume_number": "vol4",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-041-5",
       "volume_acronym": "AN 7–9",
       "volume_translation_title": false,
       "volume_root_title": false,
@@ -121,7 +121,7 @@
     },
     {
       "volume_number": "vol5",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-042-2",
       "volume_acronym": "AN 10–11",
       "volume_translation_title": false,
       "volume_root_title": false,

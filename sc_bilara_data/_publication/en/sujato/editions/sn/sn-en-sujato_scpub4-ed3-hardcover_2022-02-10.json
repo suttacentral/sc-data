@@ -2,7 +2,7 @@
   "publication_number": "scpub4",
   "text_uid": "sn",
   "edition_number": "ed3",
-  "publication_isbn": "foo",
+  "publication_isbn": "978-1-76132-078-1",
   "publication_blurb": "The “Linked” or “Connected” Discourses (Saṁyutta Nikāya) is a collection of over a thousand short discourses organized by either a theme of Dhamma or the person who is speaking. It is the primary source work for fundamental themes such the five aggregates, dependent origination, the noble eightfold path, mindfulness meditation, and the four noble truths. The radical significance of these teachings is unpacked through systematic analysis leavened with parables, anecdotes, and similes.",
   "cip": false,
   "publication_type": "hardcover",
@@ -23,7 +23,7 @@
   "volumes": [
     {
       "volume_number": "vol1",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-079-8",
       "volume_acronym": "SN 1–11",
       "volume_translation_title": "With Verses",
       "volume_root_title": "Sagāthāvaggasaṁyutta",
@@ -50,7 +50,7 @@
     },
     {
       "volume_number": "vol2",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-080-4",
       "volume_acronym": "SN 12–21",
       "volume_translation_title": "Causation",
       "volume_root_title": "Nidānavaggasaṁyutta",
@@ -72,7 +72,7 @@
     },
     {
       "volume_number": "vol3",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-081-1",
       "volume_acronym": "SN 22–34",
       "volume_translation_title": "Aggregates",
       "volume_root_title": "Khandhavaggasaṁyutta",
@@ -94,7 +94,7 @@
     },
     {
       "volume_number": "vol4",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-082-8",
       "volume_acronym": "SN 35–44",
       "volume_translation_title": "Six Senses",
       "volume_root_title": "Saḷāyatanavaggasaṁyutta",
@@ -116,7 +116,7 @@
     },
     {
       "volume_number": "vol5",
-      "volume_isbn": "foo",
+      "volume_isbn": "978-1-76132-083-5",
       "volume_acronym": "SN 45–56",
       "volume_translation_title": "Path",
       "volume_root_title": "Mahāvaggasaṁyutta",
