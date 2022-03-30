@@ -2,7 +2,7 @@
   "iti79:0.1": "<article id='iti79'><header><ul><li class='division'>{}</li>",
   "iti79:0.2": "<li class='nipata'>{}</li>",
   "iti79:0.3": "<li class='vagga'>{}</li></ul>",
-  "iti79:0.4": "<h1>{}</h1></header>",
+  "iti79:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "iti79:1.1": "<p>{}</p>",
   "iti79:2.1": "<p>{}",
   "iti79:2.2": "{}",

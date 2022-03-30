@@ -1,6 +1,6 @@
 {
   "ud2.2:0.1": "<article id='ud2.2'><header><ul><li class='division'>{}</li></ul>",
-  "ud2.2:0.2": "<h1>{}</h1></header>",
+  "ud2.2:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "ud2.2:1.1": "<p><span class='evam'>{}</span>",
   "ud2.2:1.2": "{}",
   "ud2.2:1.3": "{}",
