@@ -1,12 +1,12 @@
 {
-  "dhp90:1": "vnp90, cck25.23, dr25.33, mc0.33, ms18Dh_97, pts-vp-pli2ed26, sya25.27",
-  "dhp91:1": "vnp91, ms18Dh_98, ndp20.26, vri47.25",
-  "dhp92:1": "vnp92, ms18Dh_99, pts-vp-pli1ed14",
-  "dhp93:1": "vnp93, csp1ed18.27, csp2ed18.27, ms18Dh_100",
-  "dhp94:1": "vnp94, dr25.34, ms18Dh_101, pts-vp-pli2ed27",
-  "dhp95:1": "vnp95, mc0.34, ms18Dh_102",
-  "dhp96:1": "vnp96, bj24.46, ms18Dh_103, sya25.28",
+  "dhp90:1": "vnp90, vns90, cck25.23, dr25.33, mc0.33, ms18Dh_97, pts-vp-pli2ed26, sya25.27",
+  "dhp91:1": "vnp91, vns91, ms18Dh_98, ndp20.26, vri47.25",
+  "dhp92:1": "vnp92, vns92, ms18Dh_99, pts-vp-pli1ed14",
+  "dhp93:1": "vnp93, vns93, csp1ed18.27, csp2ed18.27, ms18Dh_100",
+  "dhp94:1": "vnp94, vns94, dr25.34, ms18Dh_101, pts-vp-pli2ed27",
+  "dhp95:1": "vnp95, vns95, mc0.34, ms18Dh_102",
+  "dhp96:1": "vnp96, vns96, bj24.46, ms18Dh_103, sya25.28",
   "dhp97:1": "vnp97",
-  "dhp98:1": "vnp98, cck25.24, dr25.35, ms18Dh_105, pts-vp-pli2ed28",
-  "dhp99:1": "vnp99, csp1ed18.28, csp2ed18.28, ms18Dh_106, pts-vp-pli1ed15"
+  "dhp98:1": "vnp98, vns98, cck25.24, dr25.35, ms18Dh_105, pts-vp-pli2ed28",
+  "dhp99:1": "vnp99, vns99, csp1ed18.28, csp2ed18.28, ms18Dh_106, pts-vp-pli1ed15"
 }
