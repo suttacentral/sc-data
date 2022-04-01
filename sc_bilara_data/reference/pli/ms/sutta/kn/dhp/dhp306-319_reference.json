@@ -4,7 +4,7 @@
   "dhp308:1": "vnp308, vns308, mc0.70, ms18Dh_332, sya25.56",
   "dhp309:1": "vnp309, vns309, ms18Dh_333, ndp20.46",
   "dhp310:1": "vnp310, vns310, dr25.77, ms18Dh_334, pts-vp-pli1ed45, pts-vp-pli2ed87",
-  "dhp311:1": "vnp311",
+  "dhp311:1": "vnp311, vns311",
   "dhp312:1": "vnp312, vns312, csp1ed18.58, csp2ed18.58, ms18Dh_336",
   "dhp313:1": "vnp313, vns313, ms18Dh_337, pts-vp-pli2ed88",
   "dhp314:1": "vnp314, vns314, cck25.48, mc0.71, ms18Dh_338, vri47.53",
@@ -12,5 +12,5 @@
   "dhp316:1": "vnp316, vns316, dr25.78, ms18Dh_340",
   "dhp317:1": "vnp317, vns317, ms18Dh_341, pts-vp-pli2ed89",
   "dhp318:1": "vnp318, vns318, ms18Dh_342, pts-vp-pli1ed46",
-  "dhp319:1": "vnp319"
+  "dhp319:1": "vnp319, vns319"
 }
