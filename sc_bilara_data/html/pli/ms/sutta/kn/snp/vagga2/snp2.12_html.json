@@ -1,6 +1,6 @@
 {
   "snp2.12:0.1": "<article id='snp2.12'><header><ul><li class='division'>{}</li></ul>",
-  "snp2.12:0.2": "<h1>{}</h1></header>",
+  "snp2.12:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "snp2.12:1.1": "<p><span class='evam'>{}</span>",
   "snp2.12:1.2": "{}",
   "snp2.12:1.3": "{}",
