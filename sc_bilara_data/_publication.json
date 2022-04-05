@@ -2653,5 +2653,46 @@
         "edition_url": "https://suttacentral.net/sn"
       }
     ]
+  },
+  "scpub69": {
+    "publication_number": "scpub69",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/en/anandajoti/sutta/pdhp",
+    "author_uid": "",
+    "author_name": "Bhikkhu Ānandajoti",
+    "author_github_handle": "",
+    "text_uid": "pdhp",
+    "translation_title": "Patna Dhammapada",
+    "translation_subtitle": "A translation of the Patna Dhamma Verses",
+    "root_title": "Patna Dharmapada",
+    "translation_process": "",
+    "translation_description": "The Patna Dharmapada was transcribed by Dr Margaret Cone and published in the Journal of the Pali Text Society, Volume XIII (1989), pp. 101-217. Dr Cone's text was reproduced with the consent of the Pali Text Society, Oxford, England. Pāḷi Parallels, Metrical Commentary, Notes and Indexes were compiled and translated by Ānandajoti Bhikkhu (2017).",
+    "is_published": true,
+    "publication_status": "Completed.",
+    "license": {
+      "license_type": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+      "license_abbreviation": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "license_statement": ""
+    },
+    "edition": [
+      {
+        "edition_number": "2",
+        "publication_date": "2022",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/pdhp"
+      },
+      {
+        "edition_number": "1",
+        "publication_date": "2017",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://www.ancient-buddhist-texts.net/Texts-and-Translations/Patna-Dhammapada/index.htm"
+      }
+    ]
   }
 }
