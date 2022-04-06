@@ -1909,5 +1909,30 @@
     "license_statement": "",
     "first_published": "2017",
     "editions_url": ""
+  },
+  {
+    "publication_number": "scpub70",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fr",
+    "translation_lang_name": "Français",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/fr/noeismet/sutta/an",
+    "creator_uid": "noeismet",
+    "creator_name": "Noé Ismet",
+    "creator_github_handle": "EnoMetis",
+    "text_uid": "an",
+    "translation_title": "Discours Supplémentaires",
+    "translation_subtitle": "Une traduction de l’Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
+    "creation_process": "Traduction de l’anglais au français.",
+    "text_description": "La source principale est la version anglaise de Bhante Sujato. Traduite de l’anglais au français, avec référence au texte source en pali et à plusieurs traductions sur SuttaCentral, ainsi qu’au dictionnaire pali-anglais de SuttaCentral et pali-français de Michel Henri Dufour.",
+    "is_published": true,
+    "publication_status": "Cette traduction est provisoire et sujette à des modifications ultérieures.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste.",
+    "first_published": "2022",
+    "editions_url": ""
   }
 ]
