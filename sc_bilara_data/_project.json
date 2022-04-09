@@ -203,6 +203,28 @@
       }
     ]
   },
+  "fr_blurb_translation": {
+    "name": "French blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/fr/blurb",
+    "translation_muids": "translation-fr",
+    "collaborator": [
+      {
+        "author_github_handle": "EnoMetis"
+      }
+    ]
+  },
+  "fr_localization": {
+    "name": "French localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/fr/site",
+    "translation_muids": "translation-fr-site",
+    "collaborator": [
+      {
+        "author_github_handle": "EnoMetis"
+      }
+    ]
+  },
   "fr_ms_translation_noeismet": {
     "name": "French sutta translation Noé Ismet",
     "root_path": "root/pli/ms/sutta",
