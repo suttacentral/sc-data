@@ -1,0 +1,23 @@
+[
+  {
+    "translation_lang": "en",
+    "root_lang": "pli",
+    "tree": "sutta",
+    "creator": "sujato"
+  },
+  {
+    "translation_lang": "en",
+    "root_lang": "pli",
+    "tree": "vinaya",
+    "creator": [
+      "brahmali",
+      "sujato"
+    ]
+  },
+  {
+    "translation_lang": "en",
+    "root_lang": "lzh",
+    "tree": "sutta",
+    "creator": "patton"
+  }
+]
