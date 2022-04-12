@@ -168,6 +168,14 @@
     "creator_github_handle": "EnoMetis"
   },
   {
+    "project_uid": "fr_names_translation",
+    "name": "French names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/fr/site",
+    "translation_muids": "translation-fr-site",
+    "creator_github_handle": "EnoMetis"
+  },
+  {
     "project_uid": "gu_ms_translation_trush",
     "name": "Gujarati translation Trushant Majmudar",
     "root_path": "root/pli/ms/sutta/mn",
