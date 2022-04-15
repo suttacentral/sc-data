@@ -144,11 +144,35 @@
     "creator_github_handle": "Muditassa"
   },
   {
+    "project_uid": "fr_blurb_translation",
+    "name": "French blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/fr/blurb",
+    "translation_muids": "translation-fr",
+    "creator_github_handle": "EnoMetis"
+  },
+  {
+    "project_uid": "fr_localization",
+    "name": "French localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/fr/site",
+    "translation_muids": "translation-fr-site",
+    "creator_github_handle": "EnoMetis"
+  },
+  {
     "project_uid": "fr_ms_translation_noeismet",
     "name": "French sutta translation Noé Ismet",
     "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/fr/noeismet/sutta",
     "translation_muids": "translation-fr-noeismet",
+    "creator_github_handle": "EnoMetis"
+  },
+  {
+    "project_uid": "fr_names_translation",
+    "name": "French names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/fr/site",
+    "translation_muids": "translation-fr-site",
     "creator_github_handle": "EnoMetis"
   },
   {
