@@ -3,7 +3,7 @@
   "text_uid": "thig",
   "edition_number": "ed2",
   "publication_isbn": "978-1-76132-036-1",
-  "publication_blurb": "The Khuddaka Nikāya or “Minor Collection” includes some of the most popular texts in Theravāda Buddhism. It seems it originally served to collect certain short collections, mostly verse, that were not conveniently assigned to one of the main nikāyas. Over time, however, it grew to become the largest of the nikāyas in the Pali canon. The SuttaCentral translation series only includes the six books widely regarded as the earliest, namely, Dhammapada, Sutta Nipāta, Udāna, Itivuttaka, and the collected verses of the Monks and Nuns.",
+  "publication_blurb": false,
   "cip": false,
   "publication_type": "epub",
   "page_width": "6in",
@@ -27,7 +27,7 @@
       "volume_acronym": "Thig",
       "volume_translation_title": false,
       "volume_root_title": false,
-      "volume_blurb": "The “Verses of the Senior Nuns” is a collection of about 524 verses attributed to 73 of the senior nuns alive in the Buddha’s time or a little later. Celebrating the bliss of freedom and the life of meditation, the verses are full of proud and joyous proclamations of the nuns’ spiritual attainments and their gratitude to other nuns as guides and teachers. The Therīgāthā is one of the oldest spiritual texts anywhere that records primarily women’s voices. It is a pair with the Theragāthā, the “Verses of the Senior Monks”.",
+      "volume_blurb": false,
       "cover_background_image": "orange6.png",
       "cover_image": "epub_cover.png",
       "frontmatter": [
