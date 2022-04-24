@@ -9,8 +9,12 @@
 
 The following files are deprecated and should not be used. They are only kept to avoid breaking legacy uses. If there are no legacy uses, delete them.
 
-
 - `uid_expansion`: old expansion for uid = acronym = name.
+
+Current:
+
+- `uid` --> `acronym` is in `sc-data/structure/super_extra_info.json`
+- "names" are in the `name` files, the top level is `/sc-data/sc_bilara_data/root/misc/site/name/`
 
 ## Removed
 
