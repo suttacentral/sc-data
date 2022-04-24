@@ -9,7 +9,7 @@
   "page_width": "6in",
   "page_height": "9in",
   "cover_bleed": "3mm",
-  "cover_flap_width": false,
+  "cover_flap_width": null,
   "cover_theme_color": "orange",
   "main_toc_depth": "all",
   "secondary_toc": false,
@@ -22,12 +22,12 @@
   "number_of_volumes": 1,
   "volumes": [
     {
-      "volume_number": false,
-      "volume_isbn": false,
+      "volume_number": null,
+      "volume_isbn": null,
       "volume_acronym": "Iti",
-      "volume_translation_title": false,
-      "volume_root_title": false,
-      "volume_blurb": false,
+      "volume_translation_title": null,
+      "volume_root_title": null,
+      "volume_blurb": null,
       "cover_background_image": "orange3.png",
       "cover_image": "paperback_cover_6inx9in.pdf",
       "frontmatter": [

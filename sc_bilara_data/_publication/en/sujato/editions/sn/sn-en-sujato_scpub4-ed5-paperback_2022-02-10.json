@@ -9,7 +9,7 @@
   "page_width": "6in",
   "page_height": "9in",
   "cover_bleed": "3mm",
-  "cover_flap_width": false,
+  "cover_flap_width": null,
   "cover_theme_color": "red",
   "main_toc_depth": "1",
   "secondary_toc": true,
