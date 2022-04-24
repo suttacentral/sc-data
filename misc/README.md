@@ -7,13 +7,10 @@
 
 ## Deprecated
 
-The following files are deporacted and should not be used. They are only kept to avoid breaking legacy uses. If there are no legacy uses, delete them.
+The following files are deprecated and should not be used. They are only kept to avoid breaking legacy uses. If there are no legacy uses, delete them.
 
 
 - `uid_expansion`: old expansion for uid = acronym = name.
-
-
-
 
 ## Removed
 
