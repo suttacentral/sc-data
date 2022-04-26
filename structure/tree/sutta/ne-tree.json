@@ -1,20 +1,8 @@
 {
   "ne": [
-    {
-      "ne-sangahavara": [
-        "ne1"
-      ]
-    },
-    {
-      "ne-uddesavara": [
-        "ne2"
-      ]
-    },
-    {
-      "ne-niddesavara": [
-        "ne3"
-      ]
-    },
+    "ne1",
+    "ne2",
+    "ne3",
     {
       "ne-patiniddesavara": [
         {
@@ -59,15 +47,7 @@
         }
       ]
     },
-    {
-      "ne-nayasamutthana": [
-        "ne36"
-      ]
-    },
-    {
-      "ne-sasanapatthana": [
-        "ne37"
-      ]
-    }
+    "ne36",
+    "ne37"
   ]
 }
