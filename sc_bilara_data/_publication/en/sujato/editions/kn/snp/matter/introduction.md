@@ -19,7 +19,7 @@ Since the collection is primarily organized by literary style rather than topic,
 - The virtues of renunciation and the proper life of the ascetic (eg. Snp 1.1, Snp 1.3)
 - Ethical virtues and dangers (eg. Snp 1.6, Snp 1.7)
 - Revaluation of contemporary, often Brahmanical, views (eg. Snp 1.4, Snp 2.7)
-- Conversion of native deities (eg. Snp 1.9, Snp 1.10)
+- Conversion of native deities (Snp 1.9, Snp 1.10, Snp 2.5)
 - The virtues of the Buddha and Triple Gem (eg. Snp 2.1, Snp 3.7)
 - Biography (eg. Snp 3.1, Snp 3.2, Snp 3.10, Snp 3.11, Snp 4.15)
 - Meditation and mental development (eg. Snp 1.8, Snp 1.11, Snp 2.10)
@@ -31,6 +31,10 @@ I would add a word of caution against over-interpreting the text. Perhaps the mo
 There is no overall thematic development in the text, so the reader can start wherever they like. The only exception is the final chapter, which is one long Sutta and should be read as a whole.
 
 ## The Snake Chapter
+
+The chapter offers advice for lay folk, counters the pretensions of the brahmins, and co-opts the animist worship of native spirits. But it begins and ends with a direct statement on the life that the Buddha believed to be most worth living: a mendicant who “sheds this world and the next”, “the sage meditating secluded in the woods”.
+
+While the structure of the chapter is certainly loose, I think this return suggests that it was compiled with an overall plan in mind. 
 
 ### The Snake
 
@@ -123,49 +127,77 @@ The brahmin has performed a ritual by chanting. That this is literally an “enc
 
 ### With Cunda the Smith
 
-Next there follows the Cundasutta, which the Buddha apparently taught near the end of his life to the smith Cunda ([snp1.5]). It appears to be an episode omitted from when he visited Cunda in the Mahāparinibbānasutta, and thus should be counted in the Mahāparinibbāna cycle of Suttas. Cunda asks the Buddha to define the different kinds of ascetic (_samaṇa_) in the world. The Buddha gives three examples of good ascetics, and one of bad. He encourages lay disciples to use discernment and not equate one with the other.
+Next there follows the Cundasutta, which the Buddha apparently taught near the end of his life to the smith Cunda ([snp1.5]). It is omitted from the account of the meeting between Cunda and the Buddha in the Pali Mahāparinibbānasutta, but it is found in the Sanskrit versions of that text. Both the Sanskrit text and the Pali commentary give the same origin: a monk steals golden dish on which Cunda had served the meal. 
+
+Cunda asks the Buddha to define the different kinds of ascetic (_samaṇa_) in the world. The Buddha gives three examples of good ascetics, and one of bad. He encourages lay disciples to use discernment and not equate one with the other.
 
 ### Downfalls
 
-Continuing the theme of practical advice for lay folk, we next find the first of the great popular Suttas of the Suttanipāta, the Parābhavasutta ([snp1.6]). This gives an extensive list of moral failings into which lay folk might fall, framed within the question of a deity in the manner of the Sagāthāvagga. It’s a perennially popular discourse for recitation and sermons. The ethics are not specifically Buddhist, but would have been broadly acceptable to anyone in the Buddha‘s culture, and for the most part, remain so today. It is notable, however, that the actor whose morality is discussed is assumed to be a straight male,  hence I have translated using the masculine gender.
+Continuing the theme of practical advice for lay folk, we next find the first of the great popular Suttas of the Suttanipāta, the Parābhavasutta ([snp1.6]). This gives an extensive list of moral failings into which lay folk might fall, framed within the question of a deity in the manner of the Sagāthāvagga. It’s a perennially popular discourse for recitation and sermons. 
+
+The ethics are not specifically Buddhist, but would have been broadly acceptable to anyone in the Buddha‘s culture, and for the most part, remain so today. It is notable, however, that the actor whose morality is discussed is assumed to be a straight male,  hence I have translated using the masculine gender.
 
 ### The Lowlife
 
-In the Vasalasutta (“The Lowlife, [snp1.7]) we meet another Bhāradvāja, this time an orthodox fire-worshipping brahmin. The worship of fire is one of the oldest, if not the oldest, rites of humanity, and it was a part of the ancestral Indo-Aryan religion. Like the other Bhāradvāja we have already met, this gentleman is no great fan of ascetics. When he sees the Buddha, he doesn’t just not offer him anything, but yells abuse, calling him a “shaveling, fake ascetic, lowlife”. Being met with abuse and ridicule in the village is a part of the mendicant’s life, although one which is more often mentioned in the Jain texts; the fact that they were naked and never bathed might explain why. Typically Buddhist mendicants both past and present encounter a warm and respectful welcome when on alms round, and abuse is very much the exception.
+In the Vasalasutta (“The Lowlife, [snp1.7]) we meet another Bhāradvāja, this time an orthodox fire-worshipping brahmin. The worship of fire is one of the oldest, if not the oldest, rites of humanity, and it was a part of the ancestral Indo-Aryan religion. There is an inherenmt tension between the performance of religious rituals and the principles of morality: if doing the ritual is trul effective, then why keep moral rules?
 
-The Sutta details a series of moral failings in a way not dissimilar to the previous, but the Buddha, respending to the personal attack on him, turns it around, claiming that one who abuses ascetics or reviles the Buddha is the real lowlife. He argues that deeds, not birth, make you a lowlife or a brahmin, implying that the brahmin himself is no brahmin but an outcaste. He further tells a story of an outcaste who lived a life of such virtue that he became a Brahmā divinity himself, implying that the brahmin had all this time been worshipping an outcaste. 
+Like the other Bhāradvāja we have already met, this gentleman is no great fan of ascetics. When he sees the Buddha, he doesn’t just not offer him anything, but yells abuse, calling him a “shaveling, fake ascetic, lowlife”. Being met with abuse and ridicule in the village is a part of the mendicant’s life, although one which is more often mentioned in the Jain texts; the fact that they were naked and never bathed might havce something to do with it. Typically, Buddhist mendicants both past and present encounter a warm and respectful welcome when on alms round, and abuse is very much the exception.
+
+The Sutta details a series of moral failings in a way not dissimilar to the previous. The Buddha, respending to the personal attack on him, turns it around, claiming that one who abuses ascetics or reviles the Buddha is the real lowlife. He argues that deeds, not birth, make you a lowlife or a brahmin, implying that the brahmin himself is no brahmin but an outcaste. He further tells a story of an outcaste who lived a life of such virtue that he became a Brahmā divinity himself, implying that the brahmin had all this time been worshipping an outcaste. 
 
 The Buddha points out that it is precisely those brahmins who are most often seen reciting hymns and performing pious deeds who turn out to be deeply involved in corrupt deeds. This remains as relevant to Buddhism now as it was to Brahmanism then.
 
 ### The Discourse on Love
 
-Shifting to a positive mood, we next find the famous Mettasutta (“The Discourse on Love” [snp1.8]). Rather than a series of verses on a theme, this is a coherent poem divided roughly into three sections: verses 1–3 lay the foundation for virtuous conduct; 4–6 describe the meditation on love; while verses 7–9 depict the exultant state of liberation that results. Verse 10 is in a different metre and appears to be a later addition.
+Shifting to a positive mood, we next find the famous Mettasutta (“The Discourse on Love” [snp1.8]). Rather than a series of verses on a theme, this is a coherent poem divided roughly into three sections: verses 1–3ab lay the foundation for virtuous conduct; 4cd–6 describe the meditation on love; while verses 7–9 depict the exultant state of liberation that results. Verse 10 is in a different metre and appears to be a later addition, alluding to the development of insight for attaining first stream-entry, then non-return.
 
 I now translate _mettā_ as “love” rather than the Buddhist neologism “loving-kindness”. The latter has become widely accepted, and is justified by arguing that “love” has too much of a sensual connotation. Pali distinguishes sensual from spiritual love, much like the Latin *eros* and *agape*. I once asked an elderly Catholic contemplative monk about this. His native language was Italian, and he said there is no equivalent distinction in modern Italian; they just use *amore* in both cases, and let the context make the meaning clear. I suspect that the real reason for the popularity of “loving-kindness” is that modern Buddhists are often uncomfortable around expressing emotions. “Loving-kindness” is a more distancing word, it’s emotionally cooler than “love”. As always, I prefer the more direct, ordinary language expression.
 
 ### The Buddha Teaches Sātāgira and Hemavata the Native Spirits
 
-The next sutta finds two _yakkhas_ (“native spirits”) having a perhaps unlikely conversation about the Buddha’s spiritual qualities as they debate whether to visit him on the _uposatha_ (“Sabbath”), and proceed to ask a series of questions ([snp1.9]). There’s nothing in the content itself, however, that suggests the speakers were _yakkhas_. 
+The next sutta finds two _yakkhas_ (“native spirits”) having a perhaps unlikely conversation about the Buddha’s spiritual qualities as they debate whether to visit him on the _uposatha_ (“Sabbath”), and proceed to ask a series of questions ([snp1.9]). The questions are of a vaguely riddling form—“In what has the world arisen?”—and seem to presuppose a serious interest in Buddhism, or at least, in the kinds of problems discussed among ancient Indian ascetics.
+
+There’s nothing in the content itself, however, that suggests the speakers were _yakkhas_. Most of the verses are found elsewhere in the Saṁyuttanikāya, and it is likely that the current Sutta is a compilation.
 
 The _yakkhas_ of the Suttas, while having aggressive tendencies, are on the whole morally neutral. They are usually the spirits of particular places, embodiements of the forces of nature. They rarely display such an elevated sense of morality as here. Their names are Sātāgira and Hemavata, which reveal them to be titulary deities of the mountainous regions. They end by promising to travel far and wide spreading the good news of the Dhamma. This suggests that the verses acted as a missionary text for the Himalayan region, into which Buddhism was spreading in the century after the Buddha’s death.
 
 ### Āḷavaka the Native Spirit
 
-The ferocious side of the _yakkhas_ is expressed by the monstrous Āḷavaka who appears next ([snp1.10]). His story became a famous one in Theravada, and the Chinese sources also include an extensive backstory. Nonetheless, after his bullying and threats in the prose narrative, the verses settle down to a conventional exchange of Dhamma questions. Āḷavaka, like Sātāgira and Hemavata, is a titular deity who announced his zeal for spreading the Dhamma, but his town Āḷavī was less remote, lying between Sāvatthī and Rājagaha. 
+The ferocious side of the _yakkhas_ is expressed by the monstrous Āḷavaka who appears next ([snp1.10]). His story became a famous one in Theravada, and the Chinese sources also include an extensive backstory. ???
+
+He comes out full of bully and bluster in the prose narrative, but the verses settle down to a conventional exchange of Dhamma questions. 
+
+Āḷavaka, like Sātāgira and Hemavata, is a titular deity who announced his zeal for spreading the Dhamma, but his town Āḷavī was less remote, lying between Sāvatthī and Rājagaha. 
 
 ### Victory
 
-Though separated by two Suttas, the Vijayasutta (“Victory”, [snp1.11]) might be considered as a pair with the Mettasutta, as the former teaches the meditation on love that overcomes hate, while this teaches the meditation on the parts of the body that overcomes desire. This meditation is found commonly in the Sutas, and here is expressed in poetic form.
+Though separated by two Suttas, the Vijayasutta (“Victory”, [snp1.11]) might be considered as a pair with the Mettasutta, as the former teaches the meditation on love that overcomes hate, while this teaches the meditation on the parts of the body that overcomes desire (verse 11, _kāye chandaṁ virājaye_). This meditation is found commonly in the Suttas, and here is expressed in poetic form.
 
 ### The Sage
 
-The final Sutta of the chapter, the Munisutta (“The Sage”, [snp1.12]) exalts the solitary life of the renunciate. The imagery of the steadfast sage aloof from worldly impulses brings us full circle with the Uragasutta and the Khaggavisāṇasutta. The chapter has offered advice for lay folk,countered the pretensions of the brahmins, and co-opted the animist worship of native spirits. Now it returns to a direct statement on the life that the Buddha believed to be most worth living: “the sage meditating secluded in the woods”.
+The final Sutta of the chapter, the Munisutta (“The Sage”, [snp1.12]) exalts the solitary life of the renunciate. The imagery of the steadfast sage aloof from worldly impulses brings us full circle with the Uragasutta and the Khaggavisāṇasutta. 
 
-While the structure of the chapter is certainly loose, I think this return suggests that it was compiled with an overall plan in mind. The second chapter, while dealing with many of the same themes and forms, lacks such an apparent plan. 
+In contrast with the Kasibhāradvājasutta, rather than co-opting the imagery of agricultural flourishing, here the Buddha defiantly opposes it, speaking of ending new growth. The metaphors draw upon a specific set of ideas found more explicitly in prose suttas such as [sn22.54].
 
 ## The Lesser Chapter
 
+The second chapter is similar in themes and poetic forms to the first, but it seems to lack even the loose plan found there. 
+
 ### Gems
+
+In between two sets of benedective verses, the Ratanasutta offers a subtle and insightful survey of the famed Triple Gem—the Buddha, the Dhamma, and the Saṅgha. Note that here, as elsewhere in the Suttas, these are not actually called “Gems”. Rather, the “gems” are good qualities that are found in them, much like the gemstones found in the great ocean ([an8.19:8.1]). But it seems likely that the idea of the “Triple Gem” evolved from this Sutta.
+
+Each verse ends in a tag line. But usually such tags will make a statement of fact: “this is a cause of downfall” or “this is the highest blessing”. Here, however, the tag line is a “blessing” in imperative form—“may there be well-being” or more colloquially, “may you be well”. This wish (_sotthi hotu_) is elsewhere found in a more everyday sense, as a simple plea for safety ([dn3:1.23.11]). The sense here, with the implication that the power of truthful words will have a powerful effect in themselves, finds its only early parallel in the Aṅgulimālasutta.  There, powerful words of truth wishing well for a mother in travail resulted in a successful birth and healthy mother and child ([mn86:15.8]). 
+
+Such texts skirt a fine line. They don’t exactly say that the words of Dhamma exert a magical force, but they don’t exactly not say that either. It’s possible to read them as words of encouragement and uplift, whose effects are purely motivational. But that is surely not how generations of Buddhists have taken them.
+
+The doctrinal content of the Ratanasutta leans heavily on concepts and ideas developed in the prose Suttas, and much of it would be incomprehensible on its own. A stream-enterer, for example, is said to “not take up an eighth life”, which draws on the notion that a stream-enterer, having uprooted certain fundamental fetters, is reborn no more than seven times.
+
+A more subtle example is the “immersion with immediate fruit” spoke of in verse five, said to be the unequalled state of meditation. This is not a common technical term in the Suttas. The key term is “immediate” (_ānantarika_). This only occurs in one other Sutta, which is one of the latest in the canon, and there it is only said that such a state is hard to comprehend ([dn34:1.2.21]).
+
+_Ānantarika_ is closely aligned with a spectrum of more familiar terms—_akālika_, _sandiṭṭhika_, _diṭṭheva dhamme_—all of which convey the sense that the Dhamma is to be realized “in this very life”, as opposed to a religious practice that only bears fruit in a future life (_samparāyika_). Thus the “immersion of immediate result” is the practice of _jhāna_ within the context of the eightfold path, which results in the realization of the noble fruits. Compare the case of the Buddha’s former teachers, whose path resulted a state of rebirth in a refined and long-lasting heavenly realm, which was nonetheless still impermanent and not free from suffering. Both traditiions practice deep _samādhi_, but only when informed by the right view of the four noble truths will that _samādhi_ lead to awakening.
+
+The presence of benedictive verses at the beginning and end; the framing of each verse as a blessing; and the prominence of advanced doctrinal content all make it tempting to think that the Ratanasutta must stem from a slightly later phase within the early texts. If that is true, however, it can’t be very late, for the Ratanasutta has a close parallel in the Mahāvastu of the Mahāsaṅghika school. Given that the Mahāsaṅghika and the Theravāda split in the first schism, perhaps two centuries after the Buddha, it’s likely that the compostion predates this. And this in turn gives us a framework for assessing the likely date of similarly late-seeming compositions. With few exceptions, they appear to have been composed or compiled in the same period.
 
 ### Putrescence
 
@@ -197,11 +229,65 @@ Arguably, the concept of “available meat” no longer applies, except in limit
 
 This demand drives the machinery of death in the slaughterhouses, the grotesque horrors of the factory farms, the grim scouring of the oceans, and the ecocidal madness of climate collapse. Those who eat meat belong to the most privileged generation that has ever lived on this planet, blessed with an astonishing quantity and variety of delicious foods, yet they choose to demand the flesh of living creatures. It is certainly possible to argue that this is “allowed” in the ancient texts. But the economic, material, and social context has completely changed. Is this really the best we can do—to take what we want because we can get away with it?
 
+### Conscience
 
+The Hirisutta is named after its first word, but the theme is, rather, good friendship ([snp2.3]). Even though the poem has only five verses, it appears somewhat disjointed, as the final two verses seem disconnected from the first three. Perhaps it is simply a somewhat clumsy compilation. But I suspect the whole is more coherent than it appears.
 
+The poem begins with a description of a bad friend, who betrays you or looks for flaws. It especially emphasizes that a good friend is one who acts for one’s benefit, not just talking. The third verse ends with a moving and intimate image: a true friend rests with you like a child lying on the breast.
 
+It is the fourth verse that seems to break the pattern. The syntax is tricky, but I think the key is the word _porisa_. One is said to carry the “_porisa_” burden. This is explained in the commentary here as being “fit for a person (_purisa_)”. _Porisa_ is also used in the sense of a “servant”. I think the sense here is that one serves others by acting as a good friend for them. In doing such service—the virtues spoken of in the first three verses—one can expect a worldly happiness and praise. 
 
+The final verse then brings in the twist: the benefits of even such virtuous and loving companionship pale in comparison to the blissful nectar of seclusion. It raises the virtue from the mundane to the transcendant, as do so many Dhamma verses.
 
+### Blessings
+
+The Maṅgalasutta redefines the superstitious notion of an “auspicous sign” (_maṅgala_) in practical and ethical terms (Maṅgalasutta, [snp2.4]). The prose background serves to authorize the new definition in the eyes of the gods, who, one might have suspected, knew what an auspcious sign really was. _Maṅgala_ shades in meaning from a prohetic aurgury (“auspice”) to a more general sense of “felicity” or “good fortune”.
+
+People still seek to know the future by reading tea leaves or checking their horoscope. Such practices are an extremely widespread human phenomenon, not limited to one particular culture or religion. The Suttas mention countless such practices and dismiss them all. One who has seen the truth will not believe in such things ([an6.93]), but the Buddha was not harsh about this, as he did allow mendicants to step on a cloth as a _maṅgala_ as a concession to the superstitions of layfolk ([pli-tv-kd15:21.4.11]), even though he would not do so himself ([mn85:7.16]).
+
+The “blessings” in the Maṅgalasutta are things that are both good in and of themselves, and which lead to a good outcome in the future. The sense of creating an auspicious future through auspicious deeds comes out more clearly in [an3.155], where a lucky star (_sunakkhatta_) and a good auspice (_sumaṅgala_) lead to happy results. In the Maṅgalasutta this is implicit in the sturcture of the text, which moves from the simple building-blocks of a good life to the sublime bliss of freedom.
+
+It is in its recognition of the simple things that the Maṅgalasutta distinguishes itself. There are many Suttas that eulogize the virtues of renunciation, but few that speak of getting an education in a craft or skill, or which recognize the crucial importance of living in a region hospitable for practice.
+
+The very first line of the Buddha’s response has a special significance for me. When I first read it, devouring all the Suttas as a newly-enthused meditator, it struck a discordant note. “Not to associate with fools”—isn’t that mean? And who gets to say who is a fool? Today, however, I think this is a crucial statement, and its placement at the start of a text that lays the foundation for a blessed life is no accident. If we become caught up in the words of fools—those who preach anger and division, who spin delusional conspiracies in the name of truth—then our minds become twisted, and any possibility of moral or spiritual progress is lost. All the more valuable are the compassionate and reasonable words of the Buddha.
+
+### With Spiky, the Native Spirit
+
+Unlike the _yakkhas_ we met previously, here Kharo (“Shaggy”) and Sūciloma (“Spiky”) are named not after places, but after their rather unkempt and intimidating coverings ([snp2.5]). But as with Āḷavaka, once the unpleasantries of the introduction were over, the questions are not merely civil, but positively sophisticated: “where do the mind’s thoughts originate, like a crow let loose by boys?”
+
+The Buddha’s response is insightful and challenging. But at the end there is no word as to the _yakkhas_’ response, unlike the spirits of place who committed themselves to spreading the Dhamma in their region. The prose introduction, however, allows for a different kind of symbolic reading.
+
+In the Hemavatasutta, the _yakkhas_ are discussing the observance of a sabbath day, and propose to see the Buddha. So this discourse can be read as a conversion narrative, where the Buddhist observance displaces an earlier animist observance in the mountainous regions. In the Āḷavakasutta, it is the Buddha who is intruding in Āḷavaka’s home at Āḷavī, just as Buddhism came into places that already had animist forms of worship. While there was initial discomfort, soon enough Āḷavaka was happy with the intrusion. 
+
+The Sūcilomasutta, on the other hand, is set in the very heartland of Buddhism, at Gayā, close by the seat of the Buddha’s enlightenment. The Buddha is still sitting in the haunt of the _yakkha_—because even there, animism predates the Buddha—but it is the _yakkhas_ who pass close by the Buddha. They press up against him, just as the ancient animist practices pressed up against Buddhism even in its heartland; it was a prickly situation. The Buddhists saw the _yakkhas_—and by extension their worshippers—as coarse, verging on violent, and saw themselves as a civilizing and uplifting influence. They didn’t dismiss others because of their different practices, but saw in them a potential for growth.
+
+### A Righteous Life
+
+Like the Hirisutta, the Dhammacariyasutta is named after the first word. But it’s a bit misleading, because the bulk of the Sutta is about unrighteous conduct, and only the beginning and the end return to good conduct. The commentarial title Kapilasutta is spurious, as there is no mention of a Kapila in the text. 
+
+The mission statement of this text is in the first two verses: if someone goes forth as a mendicant but is of bad character and conduct, things only get worse for them. Monastic life is no magical cure for depravity. And indeed, for one who presents themselves to the world as a paragon of virtue, the consequences of bad behavior are even worse.
+
+The poem denounces those of bad conduct and urges the Saṅgha to expell wicked mendicants, as the Buddha did also at [an8.10] and [an8.20]. There are several legal mechanisms in the Vinaya for such matters. 
+
+One interesting detail worth noting: the Buddha does not do the expulsion himself. He built the Saṅgha to take responsibility for its own actions. And just as it is up to the Saṅgha to decide who to accept in their ranks, it is up to them to decide who to expel. 
+
+## Brahmanical Traditions
+
+Asked by some senior brahmins about the ancient brahmanical ways, the Buddha laments that brahmins have fallen far from their pure ancient traditions ([snp2.7]). The nadir was the ritual slaughter of cows, a vile practice that was specifically called for by the brahmins themselves, against the outraged cries of the gods. 
+
+The Buddha depicts the ancioent brahmins as having been renunciant seers devoted to austerity and meditation. This generally accords with the description in the Aggaññasutta ([dn27:22.6]), although not every detail is the same. There, they are said to have gone to the village for alms, whereas here food was left outside their doors; there, taking up recitation was felt to be a decline from meditation, whereas here their dovotion to chanting is praised. Nonetheless, overall the tenor is that the brahmins lived then much like the bhikkhus do today.
+
+While the depoiction of ancient brahmanical life is largely consistent within the Buddhist texts, it is hard to know how it relates to actual brahmanical practices as depicted in their own texts. The oldest brahmanical text, the Rig Veda, glorifies the gods for the sake of worldly prosperity. Clearly, an ascetic tradition emerged within brahmanism at some point, and is referred to in the Upaniṣads, but it seems a stretch to argue that this was the normal and accepted practice among brahmins. 
+
+The text refers to a period of 48 years of “virginal spiritual life”; in other words, brahmins married at 48 and remained celibate until then. The practice of _brahmacarya_ is referred to only once in a late Rig Vedic verse (RV 10,109.05); and the system of four stages of life (_āśrama_) with _brahmacarya_ as the first only appears in later texts. When they did marry, it was out of love, not arranged, and sex was restricted to the fertile portion of the wife’s cycle.
+
+The text is full of fascinating details, and while the overarching message is clear, it is not easy to say how to read it. Does it record genuine traditions among brahmins, some of which are lost to us—as it seems they were even lost to brahmins of the Buddha’s day? Or is it purely a Buddhist fable, designed to exalt the mendicant lifestyle? 
+
+There are a couple of statements in the text that, if one reads with the commentary, appear to support the caste doctrine, and would thus support the former reading. The ancient brahmins are praised for only marrying within their caste ([snp2.7:8.1]), and a cause of their decline was the rejection of the doctrine of caste ([snp2.7:33.4]). However a closer reading shows that neither of these phrases is quite so clear. The first literally just says theat the “did not go to another”, which could be a reference to infidelity. And as to the second, _jātivāda_ in the Suttas doesn’t quite mean “doctrine of caste”. 
+
+Rig Veda 1.164.40 (Wilson translation)
+sūyavasād bhagavatī hi bhūyā atho vayam bhagavantaḥ syāma | addhi tṛṇam aghnye viśvadānīm piba śuddham udakam ācarantī
+>Cow, may you be rich in milk through abundant fodder; that we also may be rich (in abundance); eat grass at all seasons, and, roaming (at will), drink pure water.
 
 \footnote{To learn more about the literary features of the text, see Bhikkhu Ānandajoti, Pārāyanavagga: A New Edition together with A Study of its Metre.\\ \sffamily{http://www.ancient-buddhist-texts.net/Textual-Studies/Parayana-Metre/index.htm}}
 

@@ -17,147 +17,24 @@ I,4 Kasibhāradvāja (Kasibhāradvāja Sutta), verses 76–82
 Pāli parallel: SN 7:11. Parallels from other traditions: Chinese: SĀ 98
 (T II 207a10–27b28); SĀ2 264 (T II 466b18–466c11); SĀ3 1 (T II
 493a7–493b11)
-I,5 Cunda (Cunda Sutta), verses 83–90In the Pāli Canon, this discourse occurs only in the Suttanipāta. The
-interlocutor is Cunda the smith’s son, who offered the Buddha his final
-meal (related at DN II 127). The sutta has a parallel in the Sanskrit
-Mahāparinirvāṇa Sūtra, which is preserved only in fragmentary form; a full
-translation is found in the Chinese translation of the Dīrghāgama and in
-individual Chinese translations of the sūtra. The conversation is not
-recorded in the Pāli Mahāparinibbāna Sutta, where the Buddha received his
-last meal from Cunda. The background story to the discourse as told briefly
-in the Skt version of the sūtra corresponds to the account in the Pāli
-commentary.
-According to both sources, an “evil bhikkhu” misappropriated a golden
-dish on which Cunda had served the meal. Though the miscreant thought he
-was unobserved, Cunda had caught sight of him. He did not reproach the
-monk on the spot, but in the evening he went to the Buddha to inquire about
-types of ascetics. This gave the Buddha the opportunity to explain how
-there are monks who assume the appearance of ascetics while violating
-their discipline. Against this background, the Buddha must have considered
-it necessary to warn lay devotees not to assume that all who wore the ochre
-robe were worthy of reverence and support.
-The sutta distinguishes four kinds of ascetics. The first (at 86), “the
-conqueror of the path,” is the Buddha himself. The next two verses (87–88)
-describe the monk who serves as a teacher of the path — by implication an
-arahant — and the “one who lives on the path,” a category that includes
-trainees (sekha) and virtuous worldlings. The fourth type, denounced in 89,
-is the corrupt monk, a “defiler of the path.” The closing verse 90, which
-seems fitted to the situation at hand, admonishes laypeople not to let their
-encounters with bogus monks destroy their faith in the Sangha.
+I,5 Cunda (Cunda Sutta), verses 83–90
 Parallels from other traditions: Sanskrit: Mahāparinirvāṇa Sūtra §26
 (Waldschmidt 1951, 252–64); Chinese: DĀ 2 (T I no. 1, 18b9–18c6);
 T I no. 5, 167c6–168a11; T I no. 6, 183b10–183b27; T I no. 7,
 196c12–196c23 (part-parallel)
+
+
 I,6 Downfall (Parābhava Sutta), verses 91–115
-The Parābhava Sutta is one of several discourses in the Suttanipāta that
-describe the ethical life appropriate for householders. The discourse takesthe form of a dialogue between the Buddha and an unnamed deity. It
-unfolds in a dramatic format through a sequence of question-and-response
-verses governed by a repetitive pattern. The deity asks about a cause of
-downfall, the Buddha responds; the deity asks about another cause of
-downfall, the Buddha responds again; and so forth until twelve answers
-have been given.
-The ethical guidelines advocated in the sutta, while representative of the
-Buddha’s teachings for lay followers, are not unique to Buddhism but
-epitomize the shared ethical values of ancient Indian culture. With a few
-exceptions they share a common platform with Jainism and mainstream
-Brahmanism. The norms of conduct they prescribe are the prerequisites for
-both personal and communal well-being, establishing an ethical foundation
-for a social order that exemplifies harmony, kindness, and respect for
-others. But their impact extends beyond the present life, for they operate
-within the matrix of the law of kamma, according to which bad actions lead
-to a bad rebirth and future misery, while good actions lead to a fortunate
-rebirth and future well-being. The causes of downfall mentioned in the sutta
-include associating with bad people, indolence, deceptive speech,
-miserliness, social pride, sexual promiscuity, indulgence in liquor, fondness
-for gambling, and so forth. The sutta ends on an affirmative note, declaring
-that the wise person who avoids these causes of downfall “passes on to an
-auspicious world” (sa lokaṃ bhajate sivaṃ).
+
 I,7 The Outcast (Vasala Sutta), verses 116–42
-This is the first of five discourses in the Suttanipāta that represent the
-Buddha’s response to Brahmanism.47 The prose introduction, which
-grounds the discourse, points to two areas of tension that pitted the Buddha
-and his followers against the brahmin traditionalists. One concerns the
-relationship between the brahmins and the samaṇas, the renunciant ascetics,
-whom the brahmins spurned because they rejected the authority of the
-Vedas and the brahmin claim to superior social status. The other was the
-attitude toward the caste system. While the brahmins regarded the ordering
-of society into four social classes (varṇa), with themselves at the top, as
-divine, ordained by the supreme god Brahmā, the Buddha considered the
-caste system a mere conventional arrangement which, in his time, hadbecome morally pernicious, consigning a substantial portion of the
-population — the outcasts — to almost subhuman status. His meeting with
-the brahmin Aggikabhāradvāja gives him a chance to offer a fresh
-perspective on the meaning of outcast and to expose the moral
-contradictions of the caste system.48
-Even without the background story, the verses offer a forceful challenge
-to the brahmanic concept of purity and the belief that birth was a valid
-determinant of personal worth. The moral faults that define the outcast in
-the Buddha’s view are similar to those laid out in the Parābhava Sutta, but
-here they are more closely affiliated with the Buddhist code of precepts.
-Verses 117–18 pertain to the first precept; 119–21 to the second; 122, 129,
-and 131 to the fourth; and 123 to the third. Verse 135 refers obliquely to
-Pārājika 4 of the Pātimokkha, the rule that prohibits a monk from making
-false claims to spiritual attainment.
-The Vasala Sutta goes beyond the denunciation of moral evils and
-explicitly addresses the issue of caste identity. With verse 136 it repudiates
-the brahmanic belief that one’s social class defines one’s moral worth.
-Instead it asserts that a person’s moral worth is determined by one’s action.
-Thus the Buddha here turns the words brāhmaṇa and vasala on their head,
-redefining them in terms of character and conduct. This subtly undermines
-the foundation on which the system rested, namely, the assumption that a
-person’s spiritual worth was determined by birth.
+
 Parallels from other traditions: Chinese: SĀ 102 (T II 28b19–29b20);
 SĀ2 268 (T II 467b27–468b18)
 I,8 Loving-Kindness (Metta Sutta), verses 143–52
-The Metta Sutta (or Karaṇiyametta Sutta) is the most popular discourse in
-the Theravāda canon. It belongs to a group of three discourses — along
-with the Ratana and Mahāmaṅgala Suttas — considered “protective suttas”
-(paritta) and sources of blessing. The theme of the sutta, as is clear from the
-title, is the practice of meditation on loving-kindness. While this meditation
-is open to everyone, monastics and laypeople alike, the sutta describes the
-practice in the context of monastic life, as is clear from the virtues
-inculcated in the opening stanzas: humility, contentment, frugality, sense
-restraint, and courtesy toward lay supporters.The verses can be divided into four sections. The first, which consists of
-143, 144, and 145ab, lays down the ethical prerequisites for the meditation
-on loving-kindness. The second section, from 145cd through 147,
-constitutes the thematic meditation on loving-kindness, summed up in the
-opening and closing benediction: “May all beings be inwardly happy.” This
-benevolent wish is extended to beings of various sizes and shapes, and the
-good wishes continue into 148, which seems to be an appendix to the
-meditation proper. The third section, 149–51, describes the intensification
-and expansion of loving-kindness until it suffuses the whole world. The
-fourth section, 152, states the benefit of the practice.
-A technical system lies behind the apparently simple words of this final
-verse. The first couplet alludes to the qualities of a stream-enterer: not
-adopting wrong views, impeccable conduct, and insight into the four noble
-truths. The second implies that by using the meditation on loving-kindness
-as a basis for insight, the disciple abandons sensual lust and attains the stage
-of non-returner, thereby taking rebirth in the form realm and “never coming
-back to the bed of a womb.”
+
 Pāli parallel: Khp 9
 I,9 Hemavata (Hemavata Sutta), verses 153–80
-The Hemavata Sutta is the first of three suttas in which the Buddha engages
-in a discussion with yakkhas, demonic beings depicted as temperamentally
-violent but capable of spiritual realization. Unlike the other two (I,10 and
-II,5), this one is entirely in verse, and the two yakkhas who approach the
-Buddha are favorably disposed to him, unlike the belligerent yakkhas in the
-other two suttas. Sātāgira speaks like a well-informed devotee; his friend
-Hemavata speaks as a curious inquirer who seeks to ascertain the Buddha’s
-credentials. Behind the façade of the mythical characters, we can detect a
-real-life scene in which a knowledgeable lay Buddhist is trying to convince
-a friend to come to the monastery and ask the monks about the Dhamma.
-The sutta can be divided into four parts. In the first (153–63B),
-Hemavata asks Sātāgira about the Buddha’s qualities and Sātāgira responds
-to each question in a way designed to win his friend’s approval. This
-dialogue, affirming the Buddha’s purity in bodily action, speech, and mind,
-serves almost as a catechism on basic Buddhist virtues. The second part hasa transitional function. The yakkhas decide to visit the Buddha and ask him
-about “release from the snare of death” (164–67). The third part consists of
-Hemavata’s questions and the Buddha’s responses (168–75). The yakkha’s
-questions, posed as riddles, elicit a teaching on the six sense bases that
-expresses the same message conveyed more elaborately by such prose
-discourses as SN 12:44 (II 73–74) and SN 35:28 (IV 19–20). And in the
-fourth part (176–80), they praise the Buddha, go for refuge, and proclaim
-their devotion to the teaching. The two paeans of praise are eloquent poetic
-expressions of religious devotion.
+
 Several verses of the Hemavata Sutta are spread across the
 Devatāsaṃyutta and Devaputtasaṃyutta of the Saṃyutta Nikāya as follows:
 165ab & 166a–c = SN 1:30, v. 1a–e (I 16)
@@ -166,282 +43,42 @@ Devatāsaṃyutta and Devaputtasaṃyutta of the Saṃyutta Nikāya as follows:
 168–69 = SN 1:70 (I 41), but with no ascriptions
 173–75 = SN 2:15 (I 53), but with several differences in readings
 177 = SN 1:45 (I 33)
-While it is possible that the verses in the Saṃyutta Nikāya result from
-the dismemberment of an existent poem, it seems more likely that the
-Hemavata Sutta was composed by joining together scattered verses and
-providing them with a narrative setting. The verses themselves may have
-been drawn from the floating pool of Buddhist verse rather than directly
-from the Saṃyutta.49 Nevertheless, despite its uncertain origins, the
-Hemavata Sutta stands as a beautiful testament to early Buddhist spirituality
-displaying moral clarity, devotional fervor, and philosophical depth joined
-in a harmonious whole.
+
 Parallels from other traditions: Chinese: SĀ 1329 (T II 365c6–367b4);
 SĀ2 328 (T II 483c17–485a23); T IV no. 198, 183b16–184b2
 I,10 Āḷavaka (Āḷavaka Sutta), verses 181–92
-The Āḷavaka Sutta was probably placed immediately after the Hemavata
-Sutta to group together discourses about yakkhas; it is puzzling, though,
-that the Sūciloma Sutta was not included here to form a triad of yakkhasuttas. The sutta begins with a prose introduction in which Āḷavaka tries to
-test the Buddha’s patience. When the Buddha refuses to play his game, he
-threatens to drive the Buddha insane and hurl him across the Ganges unless
-he can answer certain questions, which like Hemavata’s are cast as versified
-riddles.
-The exchanges can be divided into three sets. The first (181–82) deals
-with matters that are of general applicability but are perhaps particularly
-relevant to the lay follower, whose life flourishes through such virtues as
-faith, good conduct, truthful speech, and wisdom. The second set (183–84)
-inquires about the qualities needed “to cross the flood,” to win liberation,
-and thus pertains to the renunciant life. The third set (185–89) again
-addresses the concerns of a householder and recommends truth, self-
-control, generosity, and patience. These bring success in this life and a
-fortunate rebirth. Finally, the sutta ends with the yakkha’s confession of
-faith and pledge to uphold the Buddha’s Dhamma (190–92).
+
 Pāli parallel: SN 10:12. Parallels from other traditions: Chinese: SĀ
 1326 (T II 364b21–365a23); SĀ2 325 (T II 482c8–483b3)
 I,11 Victory (Vijaya Sutta), verses 193–206
-The topic of this discourse is meditation on the body. Its purpose is
-indicated by its alternative title, Kāyavicchandika Sutta, “Discourse on
-Removing Desire for the Body.” Following Pj II, the sutta can be divided
-into four sections. The first, verse 193, is intended to induce a detached
-attitude toward the body by directing attention to the body’s postures and
-movements. Such reflection shows that the body’s activities occur merely
-through the interplay of bodily and mental factors without any agent in the
-background, a self or soul exercising control over the process.
-The second section, 194–99, highlights the repulsive nature of the living
-body by opening it up with the scalpel of thought to expose its impure
-constituents — its organs, tissues, fluids, and effluvia — which are
-normally obscured by our fascination with the signs of physical beauty. The
-third section, 200–203, shifts the focus from the living body to the dead
-one, vividly reminding us that the body we cherish and identify with will
-share the same fate as the corpse. The last section, 204–6, shows the benefitof meditation on the body and urges the disciple to dispel the pride and
-vanity that arise on the basis of bodily health and beauty.
+
 I,12 The Muni (Muni Sutta), verses 207–21
-The Muni Sutta is devoted to the ideal figure of the Suttanipāta, the muni or
-sage (see pp. 45–47). As previously noted, King Aśoka refers to the
-Munigāthās in his Bhabra Minor Rock Edict, and scholars concur that this
-is likely to have been the Muni Sutta. Since the edict does not quote from
-the sutta it is impossible to verify this, but the edict does suggest that the
-verses were recognized as a distinct text at a comparatively early time.50
-The fifteen stanzas of the Muni Sutta fall into three groups distinguished
-by their structural and thematic differences: (1) 207–10; (2) 211–19; and (3)
-220–21. According to Pj II, the four stanzas in the first group form a single
-unit originating from a shocking incident recorded at AN 5:55 (III 67–68).
-A mother and son who had gone forth under the Buddha became infatuated
-with one another and engaged in sexual intercourse. The Buddha then spoke
-these verses to warn the bhikkhus and bhikkhunīs to keep a circumspect
-distance from members of the opposite sex.
-Despite the testimony of the commentary, a connection between the
-muni verses and the incident is questionable. The AN sutta ends with a
-different set of verses which, while misogynist in tone, are clearer, more
-cautionary, and more directly tied to the incident. The viewpoint of the
-muni verses is closer to that of the Khaggavisāṇa verses, expressing an
-aspiration to avoid all entanglements, including those that might arise in a
-monastic community. The ideal extolled here — “the vision of the muni” —
-is the life of solitary wandering, of dwelling “without an abode, without
-intimacy.”
-The verses employ metaphorical ideas taken from agriculture, but with a
-different orientation, aimed at ending growth rather than nurturing it. Seeds
-sprouting in the soil represent the karmic tendencies of consciousness
-which, when moistened by craving, give rise to a new birth and a fresh
-round of suffering. Hence the muni “cuts off what has arisen,”
-“comprehends the grounds,” and “crushes the seed.” The opaque metaphors
-employed in the poem speak more clearly when illuminated by such suttas
-as SN 22:54 (III 54–55), where consciousness is compared to seeds, the“four stations of consciousness” (the other four aggregates) to the earth, and
-attachment to moisture. Attachment to the aggregates nourishes
-consciousness and binds it to a fresh round of becoming. When attachment
-is cut off, “consciousness is unestablished, ungenerative, and not coming to
-growth, it is liberated.”
-The nine stanzas that follow, 211–19, constitute another unit within the
-Muni Sutta. According to Pj II, each of these stanzas was spoken by the
-Buddha on a different occasion in response to a different incident, but this
-seems unlikely. This device of grounding each verse (or group of verses) in
-a different origin story may have been employed by Dhamma expositors to
-enhance the appeal of the text, which might otherwise have seemed dry. The
-verses in this set, however, display sufficient unity of vision to suggest they
-originally belonged together, constituting a coherent poem. This supposition
-is supported by the refrain that ends each verse in the series. Verse 211 has
-near-parallels elsewhere in the canon,51 and thus it might have been inserted
-into the poem by replacing the last line with the refrain. The three similes in
-213 may have been imported from the Khaggavisāṇa Sutta (71), which
-would explain why the stanza has seven lines instead of four. Such
-transpositions of lines are typical of oral literature and do not disprove the
-claim that the nine verses have an inherent unity.
-The last two verses, 220–21, have a different flavor than the others, as
-can be seen in the way they use the word “muni” in the general sense of a
-bhikkhu rather than as a specific designation for the Buddha or an
-arahant.52 The two verses are unified in theme, both declaring the
-superiority of the monk practitioner to the householder.
+
+
+
 II THE MINOR CHAPTER (CŪḶAVAGGA)
 II,1 Gems (Ratana Sutta), verses 222–38
-As one of the three blessing suttas, the Ratana Sutta is extremely popular in
-the lands of Theravāda Buddhism and is known by heart by almost all
-devout Buddhists. The commentaries trace the sutta’s origin to a time when
-the city of Vesālī, capital of the Vajjian confederation, was afflicted by three
-calamities: famine, evil spirits, and plague. An envoy of the Licchavis, theruling clan, came from Vesālī to Rājagaha to invite the Buddha to visit their
-city in order to quell the plague. When the Buddha arrived, Sakka, ruler of
-the devas, came along with a company of devas, causing most of the evil
-spirits to flee. The Buddha recited the Ratana Sutta and asked Ānanda to
-walk around the city, sprinkling water while reciting the sutta. As Ānanda
-did so, the remaining evil spirits fled and the plague subsided. Because of
-the origin story, the Ratana Sutta is still recited as a protective discourse to
-ward off illness, bad luck, and evil spirits.
-The origin story is shared among Buddhist traditions. The Dhammapada
-Commentary relates a similar background story to Dhp 291.53 The Ratana
-Sutta has parallel verses in the Skt Mahāvastu, which also traces their
-genesis to the plague at Vesālī. This version of the story differs in minor
-details but the substance is the same.54
-The opening two stanzas (222–23) are an invocation to the bhūtas, the
-spirits, asking them to listen to the discourse and imploring them to treat
-people with loving-kindness. The stanzas that follow constitute declarations
-of truth (saccavajja), each of which proclaims the virtues of one or another
-of the three gems — the Buddha, the Dhamma, or the Sangha — and
-declares the wish that by the truth of the utterance, safety will prevail.
-Despite its status as a popular discourse, the sutta displays a high degree
-of doctrinal sophistication. The stanzas on the Dhamma (225–26), for
-instance, make the subtle distinction between the Dhamma Gem as the
-unconditioned nibbāna and the Dhamma Gem as the path, here identified
-with world-transcending right concentration, “the concentration without
-interval.” This distinction seems to draw upon such suttas as AN 4:34 (II
-34), where the path is declared foremost among all conditioned things but
-nibbāna foremost among all things, conditioned or unconditioned. The
-verses on the Sangha recognize the eight noble persons joined into four
-pairs (227); the unshakable confidence of a noble person, based on
-penetration of the four noble truths (229; see SN V 444,17–25); a stream-
-enterer’s freedom from an eighth existence (in 230; see AN III 439,7–8);
-their abandoning of the three lower fetters and freedom from rebirth in the
-bad destinations (in 231; see AN I 231,33–232,2, etc.);55 the six things they
-cannot do (also in 231; see AN III 438–40); and a noble one’s inability to
-conceal a wrongful deed (in 232; see MN I 324,4–20). The final benedictionspresent an interesting departure from standard usage in that they apply the
-epithet tathāgata to all three gems rather than to the Buddha alone.
+
+
 Pāli parallel: Khp 6. Parallels from other traditions: Sanskrit: Mvu I
 290–95
 II,2 Carrion (Āmagandha Sutta), verses 239–52
-This sutta records a dialogue assigned to the time of the previous buddha,
-Kassapa, who arose many thousands of years in the past. According to Pj II,
-the dialogue was recounted by the Buddha Gotama to a hermit critical of his
-eating habits. The hermit’s indignation at the Buddha mirrored a similar
-incident that occurred during the time of Kassapa, when a brahmin named
-Tissa censured the Buddha for eating meat and fish.
-According to Pj II, the first three stanzas were spoken by Tissa as a
-criticism of the Buddha; stanzas 242–50 were spoken by Kassapa as a
-rejoinder to that criticism; and the concluding stanzas 251–52 were added
-by the compilers. In these concluding verses, “the Blessed One” and “the
-muni” refer to Kassapa, and “the master of the sacred hymns”
-(mantapāragū) to Tissa, who went forth under Kassapa and became his
-chief disciple. The only indication in the verses themselves that the
-protagonist of the sutta is not Gotama is the mention of Kassapa at 240d
-and 241e. He is also addressed as brahmabandhu, “kinsman of Brahmā,” at
-241b, an epithet for a brahmin. Since Gotama is known to have been a
-khattiya and Kassapa is said to have been a brahmin, this corroborates the
-traditional view, so the attributions are not a commentarial invention.
-The theme of the discourse is meat-eating, which testifies to a type of
-criticism that Gotama himself faced during his lifetime. The Buddha did not
-make vegetarianism compulsory but permitted his monastic disciples to
-consume meat, on condition that the animal was not killed specifically for
-them.56 There is also textual evidence that the Buddha himself ate meat.
-This custom provoked sharp criticism from other quarters, particularly the
-Jains, who insisted on strict vegetarianism. In the sutta, the brahmin Tissa
-accuses the Buddha of eating āmagandha. I render the word “carrion,” but
-it literally means “raw odor,” perhaps referring to the putrid smell of meat.
-In the ensuing verses the Buddha uses a pedagogical technique similar
-to the one used in the Vasala Sutta. He takes a term that had acquirednegative associations as a result of prejudice and flips the term back to his
-critic, imbued with a new ethical meaning. In this discourse he redefines
-“carrion” so that it does not mean abhorrent food but such immoral actions
-as “destruction of life, theft, false speech, fraudulence and cheating,
-resorting to the wives of others” (242) and such defiled mental states as
-“anger, vanity, obstinacy, recalcitrance, hypocrisy, envy, boastfulness, and
-haughtiness” (245).
+
 II,3 Moral Shame (Hiri Sutta), verses 253–57
-This sutta consists of five verses that apparently lack a unifying theme. The
-sutta derives its name from the word hiri occurring in the first line, but
-otherwise no further mention is made of this topic. The commentary
-explains the verses with reference to a background story in which a hermit
-comes to the Buddha and tries to test him by mentally asking four
-questions: “What kind of friend should one not associate with? What kind
-of friend should one associate with? To what kind of exertion should one
-apply oneself? What is the foremost of tastes?” The verses are the Buddha’s
-response to these questions. The story, it seems, accounts for the unity of
-the verses, except that the same verses occur in Jātaka 363 (III 196), set
-against a different background story. In any case, the first three verses
-clearly explain the proper choice of friends, a subject dealt with in great
-detail at DN III 185–87. The other two verses are concerned with spiritual
-cultivation, devotion to solitude, and enjoyment of meditative bliss.
+
 Pāli parallel: Ja III 196,10–23
 II,4 Blessings (Mahāmaṅgala Sutta), verses 258–69
-The Mahāmaṅgala Sutta completes the triad of “protective discourses” that
-includes as well the Metta Sutta and the Ratana Sutta. The sutta has a
-background story in prose and the rest in verse. The sutta’s popularity might
-be understood through its content, which offers what might be called a
-comprehensive groundplan for the good life. The discourse can be viewed
-as a positive counterpart to the Parābhava Sutta. Whereas the latter explains
-the causes of a person’s downfall, the Mahāmaṅgala explains the means to
-success.The word maṅgala, which I translate as “blessing,” more precisely
-means what is auspicious or a foretoken of good fortune. Because of the
-peculiarities of English, neither “auspiciousness” nor “foretoken of good
-fortune” works well even in a non-metrical rendering of the verses, and thus
-I settle on “blessing,” which serves the purpose as long as the meaning of
-the Pāli word is borne in mind. In Indian culture of the Buddha’s time, as Pj
-II explains, maṅgala had a superstitious significance. People sought
-maṅgalas in sights, sounds, sensations, or events considered signs of future
-well-being. As in other areas, the Buddha redefined this concept so that
-maṅgalas were not to be sought outwardly but in a morally honorable way
-of life.
-The commentarial tradition holds that the Maṅgala Sutta enunciates
-thirty-eight maṅgalas. These can be divided into several categories. We
-might see 259–61 as prescribing the preparatory steps for a meaningful life;
-262–63 as listing different facets of a virtuous life that would have been
-respected by all Indian ethical traditions; 264 as marking a more determined
-commitment to a life governed by the Buddhist precepts; 265–66 as the
-cultivation of inner virtues and study of the Buddha’s teachings; 267 as
-intensive practice of meditation, culminating in the realization of nibbāna;
-and 268 as describing the mind of the arahant, who dwells in the world free
-from stains and sorrows. The final verse affirms the protective power of the
-course of training articulated by all the verses of exposition.
+
 Pāli parallel: Khp 5. Parallels from other traditions: Chinese: T IV no.
 211, 609a12–609b14
 II,5 Sūciloma (Sūciloma Sutta), verses 270–73
-This is the third of the three yakkha suttas. The sutta is also found at SN
-10:3, with a Skt parallel of the verses found among the Śarīrārthagāthā of
-the Yogācārabhūmi (see Appendix 2). Like the Āḷavaka Sutta it opens with
-a prose background story in which the yakkha Sūciloma threatens to harm
-the Buddha if he fails to answer his riddle correctly. The riddle, in verse
-270, concerns the place where unwholesome thoughts originate. The answer
-given in 271, the verse of reply, uses merely the word ito, “from this,”
-which is far from clear. The following verse states more explicitly that they
-are “born from affection, arisen in oneself.” Since the verse is in theAnuṣṭubh meter, unlike the other verses which are in Triṣṭubh, it may be a
-later insertion, added to clarify the intent of the opaque verse preceding it.
-The commentary explains the last verse as an implicit statement of the four
-noble truths.
+
 Pāli parallel: SN 10:3. Parallels from other traditions: Sanskrit: Śag
 11.1–4; Chinese: SĀ 1324 (T II 363b29–364a1); SĀ2 323 (T II
 481c15–482a15)
 II,6 Righteous Conduct (Dhammacariya Sutta), verses 274–83
-The sutta derives its name from the word dhammacariya occurring in the
-first line, but otherwise the theme with which it deals is quite the opposite:
-the conduct of certain monastics who deviate from the moral ideal. The
-commentary calls it the Kapila Sutta, with reference to the strange
-background story.
-Moral recklessness seems to have become a growing problem in the
-Sangha during the later years of the Buddha’s life, as increasing numbers of
-unprincipled men (and perhaps women) sought to take refuge in the robes
-to enjoy a life of leisure made more comfortable by generous support from
-the lay community. Thus the Bhaddāli Sutta speaks of how corruption
-enters the Sangha when it reaches “the acme of greatness, the acme of
-gains, the acme of fame, the acme of renown” (MN I 445). The Kīṭāgiri
-Sutta opens with an account of a group of monks who spurned the precept
-against eating at night and insisted on following their own wishes, even
-arguing against the Buddha himself (MN I 473–75). Further signs of
-corruption are seen in the background stories to the Vinaya rules, which
-multiplied to contain the damage.
-The Dhammacariya Sutta likewise testifies to the moral depravity that
-had seeped into the ranks of the Sangha. It condemns monks who delight in
-quarrels and harass their companions, assigning such miscreants to a rebirth
-in hell. The last four verses (279–83) instruct the virtuous monks to come
-together and expel the transgressors, described as “non-ascetics who
-imagine themselves ascetics.” These same verses occur in AN 8:10 (at IV
-172,6–11), a discourse that denounces monks who are “just chaff and trash
-among ascetics.” In AN 8:20 (IV 204–5) the Buddha refuses to recite the
-Pātimokkha because he sees a bogus monk sitting in the assembly, one whois not a celibate though claiming to be one. The Dhammacariya Sutta
-belongs to this same genre and reflects the troubled spirit of this period.
+
+
 II,7 The Tradition of the Brahmins (Brāhmaṇadhammika Sutta),
 verses 284–315
 As the longest discourse in the Cūḷavagga, this sutta would seem to fit
