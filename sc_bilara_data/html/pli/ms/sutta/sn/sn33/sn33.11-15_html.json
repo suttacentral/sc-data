@@ -1,7 +1,7 @@
 {
-  "sn33.11:0.1": "<section id='sn33.11-15'><header><ul><li class='division'>{}</li>",
+  "sn33.11:0.1": "<section class='range' id='sn33.11-15'><header><ul><li class='division'>{}</li>",
   "sn33.11:0.2": "<li>{}</li></ul>",
-  "sn33.11:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "sn33.11:0.3": "<h1 class='range-title sutta-title'>{}</h1></header>",
   "sn33.11:1.1": "<article id='sn33.11'><p>{}</p>",
   "sn33.11:1.2": "<p>{}</p></article>",
   "sn33.12:1.1": "<article id='sn33.12'><p>{}",
