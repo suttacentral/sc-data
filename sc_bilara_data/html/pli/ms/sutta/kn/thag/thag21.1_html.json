@@ -269,7 +269,7 @@
   "thag21.1:66.2": "<span class='verse-line'>{}</span>",
   "thag21.1:66.3": "<span class='verse-line'>{}</span>",
   "thag21.1:66.4": "<span class='verse-line'>{}</span></p>",
-  "thag21.1:67.1": "<p>{}",
+  "thag21.1:67.1": "<p><span class='verse-line'>{}</span>",
   "thag21.1:67.2": "<span class='speaker'>{}</span>",
   "thag21.1:67.3": "<span class='verse-line'>{}</span>",
   "thag21.1:67.4": "<span class='verse-line'>{}</span>",
