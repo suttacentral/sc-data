@@ -338,3 +338,28 @@ Eventually, the corruption reached such an extent that the brahmins demanded the
 
 Once the endorsement of the gods was severed due to this unnatural violence, humanity became sickly and divided, the social order fell into decay, and we ended up with the troubled world of today.
 
+### The Boat
+
+The Nāvā Sutta, or as is also known, the Dhammasutta (“Discourse on the Teaching”) is a short eulogy of the blessings of a good teacher ([snp2.8]), employing the well-known simile of the raft from [mn22:24]. There, a man cobbles together a raft from grass and twigs and makes his way across the river safely, abandoning the raft on the far side. Here, one in a strong boat can bring across not only themselves, but many others.
+
+The image occurs elsewhere, such as the Kāmasutta ([snp4.1:6]), but so far as I know this is the only place where the boat is envisaged as having room for more than one. In the “Questions of Dhotaka”, the Buddha denies that he can release anyone else, and instead says that the practitioner can themselves cross the flood through living mindfully ([snp5.6:4]). Probably it is no more than a metaphor slightly stretched, but the idea that one’s own efforts brings others across seems more at home in later forms of Buddhism.
+
+The thrust of the text, however, is simply that it is good to use discernement when selecting a spiritual teacher. For as inspiring and helpful as a good teacher is, a bad teacher only passes on confusion and doubt.
+
+### What Morality?
+
+Named after the question in the opening line, the Kiṁsīlasutta seems to build on the previous; once a teacher is chosen, a student will honor them by applying their teaching in practice.
+
+The Sutta begins with the proper attitude that a student should display to a teacher, respecting the teacher and treasuring the rare chance to learn Dhamma. The emphasis is on the subjective side of learning; without joy, eagerness, and humility, the path of learning is rocky indeed.
+
+But learning is not for its own sake, for its essence is understanding; and the essence of understanding is the meditative immersion of the mind in _samādhi_.
+
+### Get Up!
+
+Again, as if continuing the theme of the former, the Uṭṭhānasutta urges the meditator to remember that _samādhi_ doesn’t just happen, it arises through diligent meditation. Many a well-meaning meditator has started with all good intentions, only to flag along the way. This is especially a trap in monastic life, where it is all too easy to slip into complacency. Hence teachings very much like this are often a staple in meditation communities.
+
+### With Rāhula 
+
+The Buddha’s son Rāhula appears several times in the Suttas, and here we find a brief but complete survey of the monastic training.
+
+The voice of the first two verses is not entirely clear from the text. The commentary says the first verse was a question asked by the Buddha to Rāhula, concerning Rāhula’s regular teacher, Venerable Sāriputta. The Buddha wants to know if his son has become over-familiar to the point of losing respect for his teacher, which Rāhula denies. Ven Bodhi questions this attribution, point out that the epithet “torch-bearer” (_ukkādhāra_) sounds like it would refer to the Buddha, and it would be odd for him to use it of himself. However, it appears also in [iti104:2.9] where it applies to all accomplished mendicants. There seems no reason, then, to not accept the commentary here.
