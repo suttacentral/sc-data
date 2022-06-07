@@ -1,0 +1,12 @@
+{
+  "publication_number": "scpub18",
+  "text_uid": "ud",
+  "edition_number": "ed1",
+  "publication_type": "web",
+  "frontmatter": [
+    "./matter/foreword.html",
+    "./matter/preface.html",
+    "./matter/introduction.html",
+    "./matter/acknowledgements.html"
+  ]
+}

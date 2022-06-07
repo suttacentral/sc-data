@@ -340,7 +340,9 @@ Once the endorsement of the gods was severed due to this unnatural violence, hum
 
 ### The Boat
 
-The Nāvā Sutta, or as is also known, the Dhammasutta (“Discourse on the Teaching”) is a short eulogy of the blessings of a good teacher ([snp2.8]), employing the well-known simile of the raft from [mn22:24]. There, a man cobbles together a raft from grass and twigs and makes his way across the river safely, abandoning the raft on the far side. Here, one in a strong boat can bring across not only themselves, but many others.
+The Nāvasutta, or as is also known, the Dhammasutta (“Discourse on the Teaching”) is a short eulogy of the blessings of a good teacher ([snp2.8]). It kicks off the remainder of the chapter, which offers a loosely organized progression on the virtues of a good teacher as the foundation for monastic life.
+
+The Nāvasutta employs the well-known simile of the raft from [mn22:24]. There, a man cobbles together a raft from grass and twigs and makes his way across the river safely, abandoning the raft on the far side. Here, one in a strong boat can bring across not only themselves, but many others.
 
 The image occurs elsewhere, such as the Kāmasutta ([snp4.1:6]), but so far as I know this is the only place where the boat is envisaged as having room for more than one. In the “Questions of Dhotaka”, the Buddha denies that he can release anyone else, and instead says that the practitioner can themselves cross the flood through living mindfully ([snp5.6:4]). Probably it is no more than a metaphor slightly stretched, but the idea that one’s own efforts brings others across seems more at home in later forms of Buddhism.
 
@@ -348,7 +350,7 @@ The thrust of the text, however, is simply that it is good to use discernement w
 
 ### What Morality?
 
-Named after the question in the opening line, the Kiṁsīlasutta seems to build on the previous; once a teacher is chosen, a student will honor them by applying their teaching in practice.
+Named after the question in the opening line, the Kiṁsīlasutta seems to build on the previous; once a teacher is chosen, a student will honor them by applying their teaching in practice  ([snp2.9]).
 
 The Sutta begins with the proper attitude that a student should display to a teacher, respecting the teacher and treasuring the rare chance to learn Dhamma. The emphasis is on the subjective side of learning; without joy, eagerness, and humility, the path of learning is rocky indeed.
 
@@ -356,10 +358,172 @@ But learning is not for its own sake, for its essence is understanding; and the 
 
 ### Get Up!
 
-Again, as if continuing the theme of the former, the Uṭṭhānasutta urges the meditator to remember that _samādhi_ doesn’t just happen, it arises through diligent meditation. Many a well-meaning meditator has started with all good intentions, only to flag along the way. This is especially a trap in monastic life, where it is all too easy to slip into complacency. Hence teachings very much like this are often a staple in meditation communities.
+Again, as if continuing the theme of the former, the Uṭṭhānasutta urges the meditator to remember that _samādhi_ doesn’t just happen, it arises through diligent meditation ([snp2.10]). Many a well-meaning meditator has started with all good intentions, only to flag along the way. This is especially a trap in monastic life, where it is all too easy to slip into complacency. Hence teachings very much like this are often a staple in meditation communities.
 
 ### With Rāhula 
 
-The Buddha’s son Rāhula appears several times in the Suttas, and here we find a brief but complete survey of the monastic training.
+The Buddha’s son Rāhula appears several times in the Suttas, and here we find a brief but complete survey of the monastic training, beginning once more with the honor owed to a teacher ([snp2.11]).
 
-The voice of the first two verses is not entirely clear from the text. The commentary says the first verse was a question asked by the Buddha to Rāhula, concerning Rāhula’s regular teacher, Venerable Sāriputta. The Buddha wants to know if his son has become over-familiar to the point of losing respect for his teacher, which Rāhula denies. Ven Bodhi questions this attribution, point out that the epithet “torch-bearer” (_ukkādhāra_) sounds like it would refer to the Buddha, and it would be odd for him to use it of himself. However, it appears also in [iti104:2.9] where it applies to all accomplished mendicants. There seems no reason, then, to not accept the commentary here.
+The voice of the first two verses is not entirely clear from the text. The commentary explains that the first verse was a question asked by the Buddha to Rāhula, concerning Rāhula’s regular teacher, Venerable Sāriputta. The Buddha wants to know if his son has become over-familiar to the point of losing respect for his expert teacher (_paṇḍita_), but Rāhula says he bears him nothing but respect. The teacher is said to “hold aloft the torch for all humanity?” (_ukkādhāro manussānaṁ_). In this case, the commentary seems plausible, for  _ukkādhāra_ appears also in [iti104:2.9] where it applies to all accomplished mendicants. Sāriputta in particular is the one who keeps the Wheel of Dhamma rolling (eg. [snp3.7:22.1]); in other words, the one who brings the Dhamma to the people. So the image of him bearing a torch for humanity seems apt. 
+
+The remainder of the Sutta is a concise summary of the monastic path otherwise known as the “gradual training”: the aspiration to end suffering; restraint and good friendship; moderation in material requisites; mindfulness and restraint; meditation on the ugliness of the body; culminating with abandoning conceit.
+
+### Vaṅgīsa and his Mentor Nigrodhakappa
+
+The Nigrodhakappasutta is a series of elaborate verses by the monk Vaṅgīsa, whose mentor, Nigrodhakappa, has recently passed ([snp2.12]). Vaṅgīsa asks the Buddha whether Nigrodhakappa was fully enlightened. Vaṅgīsa was an accomplished poet, whose skill in extemporaneous verse was praised by the Buddha ([an1.212]). The quality of _paṭibhāna_ is regarded as an asepect of wisdom; it refers to the spontaneous arising of a wise and eloquent expression of the Dhamma. 
+
+Ancient Indian literary culture is confounding to Western sensibilities, accustomed as we are to think of “literature” and “writing” as going hand in hand. In ancient India, a supremely sophisticated literary culture—with advanced linguistics, philosophy, and poetics—was created and maintained entirely through the oral tradition. Throughout the Suttas we see poetry spontaneously improvised. Vaṅgīsa’s style shows that such improvisations could reach a high degree of embellishment and sophistication.
+
+The verses are full of wordplay, with unusual forms and vocabulary that are a delightful challenge to convey in translation. Consider just a single line:
+
+>*khippaṁ giraṁ eraya vaggu vagguṁ*
+Swiftly send forth your graceful voice
+
+_Girā_ is a poetic term for a song or a saying. They are followed by  _eraya_, which is a unique form in the Pali canon: a stem imperative from the rare _erayati_, to raise the voice. This leads onto the punctuation of  _vaggu vagguṁ_, a reduplication of a word whose meaning is exactly how it sounds: sweet-sounding (cp. English “melody”). It can be read either as an emphatic reduplication “sweet sweet voice”, or with the first element as a vocative “sweet one, send forth your sweet voice”; I read it in the first sense.
+
+Notice that the first pair of words and the last pair of words sonically echo each other. In each case we have a pair of two-syllable words, which are consonant-heavy, with the emphasis on gutterals. The vowels are short, and are repeated in each pair: _i_ + _a_, then _a_ + _u_. So we have a pair of chiming words to bookend the line with a solid rhythmic punctuation. They are joined together with the fluid _eraya_, which entirely lacks gutteral, or indeed any plosive consonants. It’s a musical line, its percussive chimes united with fluid melody.
+
+Vaṅgīsa’s sophistication is not just in sounds; he loves to play with meanings as well. Consider these enigmatic lines:
+
+>_Na kāmakāro hi puthujjanānaṁ,_    
+_Saṅkheyyakāro ca tathāgatānaṁ._
+
+The suffix _-kāra_ usually means “maker”, and _kāmakāro_ appears in [cp16:11.4] and [ja524:26.3] as “wish-granter”, “fulfiller of desire”, while _issariyakāmakārikā_ at [kv23.3:1.1] means “the will of God”, and at [pe6:73.2], _akāmakāri_ is given as a meaning of “not-self”. The point here is that in the sphere of worldly desires, it is not possible to simply get what you want. Vaṅgīsa invents the term _saṅkheyyakāra_ in contrast. _Saṅkhā_ means “calculation, reckoning” and _saṅkheyya_ means “calculable”. The Buddhas have a gift for explaining things in a way that makes their meaning clear. Unlike the illusory wish-granter imagined by ordinary folk, this is real.
+
+For all the poetic ingenuity on display, Vaṅgīsa’s question is a simple one: was his teacher Nigrodhakappa enlightened? The Buddha’s response is almost comical in its brevity, underscoring the restraint and directness of his rhetoric compared to Vaṅgīsa’s. Rarely in the Suttas do we see such a stark contrast in personal styles. He affirms Vaṅgīsa’s hopes in just three lines, within which he makes room for a powerful simile of his own: Nigrodhakappa cut off craving like a “river of darkness”.
+
+### The Right Way to Wander 
+
+In the Sammāparibbājanīyasutta, an unnamed party asks the Buddha about the proper way for a mendicant to wander the world ([snp2.13]). This expands on the Rāhulasutta, detailing the life of an ascetic. Instead of the emphasis on the teacher that we have seen in several Suttas of this chapter, we see a return to the solitary wandering life extolled in the Rhincoceros Horn and elsewhere.
+
+In the first line we see the Buddha rejecting _maṅgalā_, which here we might render as “superstitions”. Here, rather than being co-opted to a Buddhist meaning as in the Maṅgalasutta, they are outright rejected. This sets the tone of the Sutta, which is less conciliatory and more a direct address to advanced practitioners. 
+
+Each verse outlines a specific quality with which the mendicant wanders the world. There is no specific mention of meditation, or indeed, of any of the practices that a mendicant should pursue. Rather, the focus is on the inner qualities of freedom.
+
+### With Dhammika 
+
+The Dhammikasutta presents us with something of a puzzle, for it is initiated by the layman Dhammika who, despite his prominent position as leader of a large retinue, is mentioned nowhere else ([snp2.14]). He asks a straightfoward question: what is the practice both that for mendicants as well as for lay folk? But he proceeds to dress his question up; not, like Vaṅgīsa, with literary embellishment, but with praise for the Buddha, and reference to a number of previous occasions when he had persuaded difficult audiences.
+
+He specifically references the dragon king Eravaṇa, who is recorded as encountering the Buddha on only one occasion, told in the Mahāsamayasutta [dn20:11.7]. The next verse mentions the Great King Vessavaṇa; and while he is a staple of Buddhist cosmology, he is here identified with Kuvera, which must be a reference to the Āṭānāṭiyasutta [dn32:7.40]. Thus these verses show a familiarity with these Suttas, and by referencing them Dhammika assumes his audience is also familiar. But these are two of the latest Suttas in the Dīghanikāya, showing an interest in magical protection that is rare in the canon. 
+
+Compounding the puzzle is the fact that when the Buddha begins, he addresses the mendicants rather than Dhammika. In fact, the layman Dhammika only exists as a single mention in the opening setting. Given that his name simply means “follower of Dhamma”, that he occurs nowhere else, that he is familiar with late Suttas, and that both question and answer frequently reference _dhamma_, one might be forgiven for thinking that Dhammika is no more than a literary invention. Indeed, if we skip forward to the final verse, it urges a layperson to undertake a legitimate (_dhammika_) business. Perhaps the Sutta was originally named after this, and the introduction was supplied later.
+
+Nonetheless, the text is a handy source for comparing the ethical injunctions for lay and renunciate communities. 
+
+For renunciates, the basic precepts such as non-violence are skipped over—apparently they are assumed—and we begin with monastic deportment while on almsround in the village. Retreat, restraint in speech, and contentment with requistes round out the basic elements of monastic conduct, but there is no mention of meditation.
+
+For layfolk, the emphasis is on the fundamental precepts beginning with not killing, with a special emphasis on not drinking. 
+
+There’s an odd disjunct, as after teaching the five precepts, the text once again introduces the basic precepts ([snp2.14:26]–7), this time as the eight precepts. If this seems like an interpolated passage, it is, as it is also found several times in the Aṅguttaranikāya.
+
+Following the Sabbath the lay follower should make an offering to the Sangha. The specific practice of offering to the Sangha the day after the Sabbath is only mentioned here. The impression that this is a late verse is reinforced by the fact that some of the terms, such as _pasannamānasa_, are found only in later texts. 
+
+The last verse swerves again to mentioning the virtues of respect for parents and lawful business practices. As a result, the diligent lay person can expect to become one of the gods called “Self-luminous”. 
+
+All this is suggestive of a later text, perhaps compiled in the Ashokan era, with its focus on the basics of ethics and the goal of heaven. Nonetheless, the ideals and practices taught here, as well as the direct and pragmatic style, remain well within the scope of early Buddhism.
+
+## The Great Chapter
+
+### Going Forth 
+
+The middle chapter of the Suttanipāta opens with a distinct change of mood, from the fundamentals of ethics to the life of the Buddha. In contrast with the central position of the Buddha’s life in later teachings, the early Suttas contain relatively few accounts of the Buddha’s early life, making the few that exist of even greater interest. The Pabbajjāsutta ([snp3.1]) and the Padhānasutta that follows ([snp3.2]) are the root sources for several details that featured in later legends. Unusually, we have two other complete Indic versions of the Pabbajjāsutta, one in the Mahāsanghika Lokuttaravāvin Mahastu in Hybrid Sanskrit, one in the Saṅghabhedavastu, a chapter of the Mūlasarvāstiāda Vinaya, in Sanskrit. 
+
+I feel that these Suttas represent a lost potential, a way that was not chosen. Their style is direct, charming, and effective. They have a dramatic flair that accentuates the personal, which makes them affecting in a way that the more elaborate legends have lost sight of. In piling up miracles and smoothing out the rough, later legends buried the Buddha’s humanity, like a movie smothered with too many effects. They aim to impress and overwhelm, but end up oppressive and tacky.
+
+The Pabbajjāsutta recounts an episode evidentally from shortly after Siddhattha had gone forth, when he meat Bimbisāra, the king of Magadha, for the first time. The king is deeply impressed by Siddhattha’s bearing and makes an extravagent offer to him. The bulk of the text is taken up with a narrative introduction in verse, the speaker of which is not specified in the text. Unusually, it is voiced in the first person (“I shall extol …”). The commentary identifies the speaker as Venerable Ānanda, and it is certainly the case that, in addition to his role in reciting all the Discourses, Ānanda was instrumental in creating the biography of the Buddha. It’s a striking and unique opening for a Sutta. 
+
+The first three verses, including this opening, are missing from the parallel in the Mahāvastu, which otherwise appears quite early. However they are found in the Saṅghabhedavastu, which stems from a school (Mūlasarvāstivāda) that spilt from the Theravāda later than the split with the mahāsaṅghika Lokuttaravādins who compiled the Mahāvastu. Perhaps these verses were added subsequent to the first schism, which would place them after the time of Ashoka. This is very tentative, though, as the Mahāvastu presents the verses as part of a narrative flow, and might have left the opening verses out to avoid introducing a new narrative voice. 
+
+The Pali commentary sets this encounter shortly after the Buddha’s renunciation, before his practice under the Brahmanical teachers Āḷāra Kālāma and Uddaka Rāmaputta. In this, the Saṅghabhedavastu agrees, but the Mahāvastu places the event between these two apprenticeships. 
+
+There are a number of details that speak to the realtive earliness of this text compared to the bulk of biographical legends.
+
+- In the Pali, the Buddha is referred to as _buddha_, not _bodhisatta_, even though he is still not enlightened, suggesting that the doctrinal distinction between _buddha_ and _bodhisatta_ was not yet established. However, note that this is found *only* in the Pali, and the two Sanskrit versions do not say _buddha_.
+- The Buddha is called _bhikkhu_ and _muni_.
+- The Buddha feels the need to explain to Bimbisāra where the land of the Sakyans is.
+- The Buddha acknowledged that his land was subject to Kosala and was not an independent kingdom.
+- Bimbisāra goes to see him in a single chariot, apparently alone; compare the elaborate visit by his son Ajātasattu in [dn2]. The expected retinue is added in the Mahāvastu.
+- The style is plain, and draws on idioms found in the early texts.
+- The text ends abruptly, and is not concerned with Bimbisāra’s response.
+
+A possible exception to the naturalism of the narrative is the mention that Bimbisāra saw the Buddha’s “marks” (_lakkhaṇa_), which may refer to the putative Brahmanical legend of the 32 marks of the great man. But this is not specified, and most of the marks, if they were genuine physical characteristics, would not really be visible on the street from a rooftop. More likely Bimbisāra simply saw that he bore himself well, with a mindful and dignified carriage. This impression is reinforced in the Sanskrit versions, both of which depict Bimbisāra himself as speaking of the marks, rather than saying that he saw them. The 32 marks of the great man are an obscure element of Brahmanical lore, and there is no reason why Bimbisāra should know or care about them.
+
+On the other hand, there are a number of indications that suggest a degree of artifice in the account. Bimbisāra himself, while firmly esconsed in Buddhist lore, is an enigmatic figure in the early texts. He is mentioned fairly often, but usually in his absence. He is more like an idealized Buddhist king than a human personality like his counterpart Pasenadi of Kosala, or even his son, Ajātasattu. Given that Bimbisāra’s kingdom of Magadha ultimately triumphed and, within a century, dominated the entire region, it would make sense for the Buddhists to treat him as their own. We know that the Buddhist King Ashoka, the most magnificent heir to the Magadhan throne, was ecumenical in his own words and deeds, yet came to be depicetd in Buddhist texts as highly partisan. It’s possible that with Bimbisāra, too, his Buddhist sympathies were exaggerated in later legend. It should come as no surprise that the Jains, also, claim Bimbisāra as one of their own. Most likely he supported all the religions in his realm, as was the custom. 
+
+Regardless of his own personal faith, however, there is nothing unusual in the idea of a king seeking out a dignified ascetic or wandering sage. The final verses of Bimbisāra, however, seem quite extraordinary under some readings ([snp3.1:16]–17). The lines are ambiguous; if we keep the sense of each verse contained within the verse, it seems Bimbisāra first praised the Bodhisatta’s dignified appearance, then offered him wealth and glory at the head of an army. This is how the verses are interpreted by the commentary, followed by Bhikkhu Bodhi. But it’s an absurd offering, as no king in his right mind would promise an army to a stranger, let alone to a dedicated renunciant. If we ignore the verse boundaries, however, the description of the aristocrat naturally agrees with him riding in an army. Then, having praised the Bodhisatta’s appearance, Bimbisāra offers him “pleasures” (_bhoga_). This reading is adopted by K.R. Norman. It is still an inappropriate gift for a renunciant, but not nearly as outrageous. It is exactly the kind of thing a then-young king might do; on the one hand, out of a genuine desire to serve, and on the other, as a test. It is, in fact, exactly the same test that Devadatta failed when he became corrupted by the riches offered by Bimbisāra’s troubled son Ajātasattu.
+
+The Sanskrit versions are quite different at this point, which is usually a sign that the lines were difficult even for the ancients. The Saṅghabhedavastu says that the mendicant life is no good for one such as the Bodhisatta, and he offers pleasures such as dwellings and women. The Mahāvastu compresses the passage, and has a reading that the translator Jones describes as “untranslateable”. 
+
+This is a good example of what I call “the principle of least meaning”. Texts, and especially sacred scriptures, tend to become overburdened with meaning and interpretation. When translating, always choose the *thinnest* reading possible, the one that adds the least meaning to the passage. In this case, to offer food and enjoyments to a renunciant is an everyday thing, but to offer an army is astonishing and unprecedented. Unless the text requires it, prefer the lesser meaning. 
+
+The outcome was never in doubt. If the Bodhisatta had succumbed to temptation, he would never have become the Buddha and we would not hear his story. But this was not the final temptation he was to face. He politely rejects Bimbisāra’s offer and commits to “striving”.
+
+### Striving
+
+The Padhānasutta picks up the story some time later, when the Bodhisatta was meditating on the banks of the Nerañjara river ([snp3.2]). He is confronted by Māra and his ten armies, and responds with a bold and confident assertion of his future enlightenment. The title word _padhāna_ means both “striving, putting forth energy”, and also the active application of energy in practice, and thus comes close in meaning to “meditation”; a _padhānasāla_ is a “meditation hall”. Like the Pabbajjāsutta, we have two almost complete parallels in Indic languages, in the Mahāvastu again, and in the Lalitavisatra, a popular legend of the Buddha in Sanskrit; while it is a later text, this passage is mostly verbatim. 
+
+The chronology of these episodes is not entirely clear. According to the commentary, this Sutta depicts the time the Bodhisatta was engaged in the practice of severe, Jain-like austerities. Māra says he is thin, discolored, and near death, which is how he is described in the prose accounts of this period of “striving” ([mn36:26.1]). It was immediately after this encounter that he realized the futility of such practice and undertook the gentler path of _jhāna_. 
+
+It’s an odd narrative twist, and one that I feel is unpersuasive. The whole point of the Padhānasutta is the Bodhisatta’s absolute confidence and committment, and it feels strange that he would then simply realize that he was wrong after all and completely change course, dismissing all his work as “pointless” (_anatthasañhita_). Clearly whatever he was doing was *not* pointless, for it allowed him to overcome Māra’s armies.
+
+Moreover, the qualities and practices spoken of in the Sutta sound Buddhist, and quite unlike the Jains or other practictioners of self-torment. He says nothing about burning up past kamma, or that pleasure is to be gained by pain, which is the belief that drove him to extremes of austerity ([mn85:10.2]). On the contrary, he speaks of having faith, energy, and wisdom, of mindfulness, and especially the calm mind of immersion in _samādhi_. The prose accounts of austerities say nothing like this. Indeed, it was the fact that he could *not* find tranquillity that drove him to abandon austerities. When listing the “ten armies of Māra” he names only psychological obstacles to meditation as understood in Buddhism, which are not mentioned in the prose accounts. 
+
+One unusual phrase is where the Bodhisatta says to Māra that he had attained the “supreme” (_uttama_) “feeling” (_vedanā_). This is reminiscent of the prose claim that he had experienced the “ultimate” (_parama_) “painful feeling” (_dukkha vedanā_, [mn85:30.2]), hence Bhikkhu Bodhi translates it as “I have experienced extreme pain”. But it would be wise to not insist on this point, for the Mahāvastu has the supreme “state” (_padaṁ_), a term for Nibbana, while the Saṅghabhedavastu has supreme “intention” (_cetanā_), which would refer to his avowed dedication to Awakening. These are not merely variant readings, but three quite different interpretations of the narrative, each of which finds support in the text.
+
+- _Vedanā_: Verses 9 and 10 speak of the drying up of blood and flesh, reaching the extremes of painful “feeling” through self-mortification.
+- _Cetanā_: Verses 16 through 19 express a vivid and undaunted “intention” to triumph against all odds and vanquish his demons.
+- _Pada_: Verses 7 and 8 says he has no need for merit and possesses wisdom, while in verse 11 he claims to be pure, and in verse 5 he is referred to as the “Buddha”, all of which suggest this episode happened after he was enlightened. Note too that the verb “attained” (_patta_)—which is found in all three versions—is normally used of reaching a spiritual achievement, not of experiencing a feeling.
+
+If we see this episode through the lens of the prose accounts, which emphasize the distinct break between the periods of self-torment and the undertaking of _jhāna_, this Sutta uneasily straddles the divide. Perhaps, then, the mistake is ours, and we should not try to impose that framework on the text, ignoring the prose accounts and simply taking the Padhānasutta as-is.
+
+It depicts the Bodhisatta undertaking a strenuous program of meditation. He is practicing a rigorous self-denial in respect of food and rest, but not the full range of austerities. It was while practicing in this way that he purified his mind of obstacles, not because of pain, but because of energy and determination. There was no abrupt shift from the path of austerities to that of _jhāna_. 
+
+In this light, we can propose a fourth explanation for the difficult phrase, “attained the supreme feeling” (_pattassuttamavedanaṁ_). This occurs immediately after the Bodhisatta has said that his mind has become clear, with strong mindfulness, wisdom, and immersion. The next line speaks of distinterest in sensuality, and the purity of a being. Throughout the Suttas, _jhāna_ is is an “attainment” regarded as the highest feeling, one that is realized through immersion, which rejects sensual pleasure, which is a state of purity, and which was a pivotal realization on the Bodhisatta’s journey. 
+
+There is no doubt that the division between self-torment and meditation, which was a fundamental feature of the Dhamma starting with the very first sermon, was never observed quite so clearly in Buddhist culture, as is attested by the popularity of images of the “fasting Bodhisattva”. The practice of austerities was always a troubling episode for later hagiographers. If such austerities were really such a waste of time, why did the Bodhisatta do them in the first place, given that he had already been developing the _pāramīs_ for many lilfetimes? Of course, the _pāramīs_ are not part of early Buddhism, and in the Suttas he undertook austerities because he did not know what he was doing. 
+
+This Sutta suggests that this ambiguity with regards to austerity was present from an early time. It would be wrong to revise the whole history of Buddhism based on a single, rather ambiguous, text, but it does suggest that the clear division between austerities and _jhāna_ became emphasized in the prose accounts, probably to distinguish the Buddha from the Jains. Reality is rarely so clear-cut.
+
+There is a curious shift in narrative voice. The opening verse has the Buddha speaking in first person (_maṁ_), but after Māra’s verses the text refers to the Buddha in the third person. Jayawickrama suggests we correct to _naṁ_ or _taṁ (i)maṁ_, but Norman rejects these emendations on the basis of the commentary, and regards the phrase as an accusative version of the common idiom _so’haṁ_; the same idiom occurs in dative in verse 11: _tassa me_. Here the commentary must be right, for the reading in the Mahāvastu doesn’t admit of such ambiguity (_mayā_). The Lalitavistara rephrases this line, perhaps because its more refined literary sensibilities did not admit such a lapse. Given that the opening verses are quite different in the three versions, it’s likely they were added later to introduce the story, but the shift in voice remains unexplained. Perhaps it is simply a sign of a slightly raw and unedited original.
+
+Less inexplicable is the text’s occasional flirtation with a literal depiction of Māra’s armies. When Siddhattha says that he sees Māra on his mount, surrounded by his forces in full battle-array ([snp3.2:18.1]), it sounds decidely un-psychological and more like the flamboyant representations of Māra and his armies that became so popular in later legend and art. But this is one of the several verses of the Pali that have no parallel in the Mahāvastu or the Lalitavistara, and which seem to have been added to give extra dramatic flair.
+
+Both of the Sanskritic versions have a much briefer final section, so this was probably expanded in the Pali. One point of agreement, however, is that even in its few verses the Mahāvastu, like the Pali, mentions that he will lead many disciples to freedom from Māra. This is one of the aspects of Māra’s mythology that is often overlooked. Yes, Māra is, as here, a psychological metapohor for defilements. But he is also something larger: a personalized representation of the darkness that afflicts the world. If Māra is defeated once, he can be defeated again, which is why he was so determined to ensure the Bodhisatta could not succeed in his quest. Myth exalts the personal to the universal. This is a story of a man sitting under a tree on the bank of the Nerañjara river 2,500 years ago, battling his personal demons. But it is also all of us, now, wherever we are, battling our own personal demons. And no matter how many times we are defeated, we are inspired to get up once more, for we know that victory is possible: it has happened once, so it can happen again.
+
+### Well-Spoken Words
+
+In the Aṅguttara-style Subhāsitasutta, the Buddha lists four factors of “well-spoken speech” and reiterates his teaching with a simple verse. Vaṅgīsa feels inspired to speak, and lends his poetic flair to expanding and elaborating the teaching ([snp3.3]). The discourse is repeated at [sn8.5], and Vaṅgīsa’s verses are included in his Theragāthā ([thag21.1:19]–22). As a short discourse on practical ethics, with a special acknowledgment of the role of the teacher, this feels like it would be better suited for the previous chapter. 
+
+There is no real parallel in the Aṅguttara, the closest being [an5.198], which lists five factors of well-spoken speech with a prose introduction similar to the Subhāsitasutta. The five factors, however, differ.
+
+The Buddha’s portion of the Sutta has the peculiarity that the first factor of “well-spoken speech” is explained as “well-spoken speech”, an oddity that is not cleared up in his verse. The four factors, however, map against the regular four kinds of right speech, albeit in a different order.
+
+- Truthful speech: 1 = 4
+- Harmonious speech: 2 = (1)
+- Pleasant: 3 = 3
+- Meaningful speech: 4 = 2
+
+It seems that here, “well-spoken speech” implies speech leading to harmony, which more-or-less agrees with Vaṅgīsa’s expansion. But I can’t help feeling that we’re missing something in understanding why this Sutta is formed the way it is.
+
+It’s noteworthy that for the Buddha, the verse is plain and redundant in meaning; it serves only as a mnemonic to support the prose. Vaṅgīsa doesn’t merely decorate the verses, but expands the meaning, claiming, for example, that “truth is the undying word”. His final verse corresponds with speech on the Dhamma, but he does not mention that word, instead speaking about the Buddha’s words. While the word _dhamma_ can have many meanings in the Suttas, the sense of “the Buddha’s teachings” is perhaps the most common. He also re-orders the teaching so that it climaxes with the Buddha’s words, a significant shift, since the final factor is felt to be the most important. For the Buddha, the most important thing is that speech is true; for Vaṅgīsa, the most important thing is that it is spoken by the Buddha. These verses have the same order in the Udānavarga, so it is no accident (Uv 8.11–15). 
+
+### With Bhāradvāja of Sundarikā on the Sacrificial Cake
+
+The Buddha encounters another Bhāradvāja in the Pūraḷāsasutta, who is engaged in the ancient Vedic rite of fire-worship on the banks of the Sundarikā river. The same encounter is told at [sn7.9], but while the prose setting is the same, only four verses are shared. Our current Sutta is much longer, and in some aspects appears corrupted, so it is likely to have been expanded from SN 7.9. A Bhāradvāja of Sundarikā appears as a champion of the virtues of ritual bathing in [mn7:19.1], and is there converted and ordains just as here, so they can’t be the same person. 
+
+The contours of all these encounters is the same. The brahmin believes in the efficay of Vedic ritual, but the Buddha counters this with his practical ethics, leading to the Brahmin’s conversion, ordination, and ultimately arahantship. Clearly these are built according to a template. 
+
+In the prose introduction, Sundarikabhāradvāja wishes to share the leftovers from his sacrifice with someone, and spies the Buddha meditating. The Buddha has pulled his robe over his head—to ward off insects or inclement weather—and not until he uncovers it does Sundarikabhāradvāja realize that he is shaven. When he asks the Buddha’s caste, the Buddha begins the verse exchange by asserting that he has no caste, and accuses the brahmnin of asking an inappropriate question. The brahmin seems to think this is a little harsh, saying it’s merely a formality among brahmins. Indeed, the Buddha made no objection when King Bimbisāra asked the same question ([snp3.1:17.4]), and in SN 7.9 he merely says to ask about conduct rather than caste. This line is unmetrical, and is the first of several lines in this passage that appear to be prose. 
+
+The rather confrontational tone continues when the Buddha, out of nowhere, challenges the brahmin regarding knowledge of the Gāyatrī Mantra. This is the most famous of Vedic verses is called the Sāvitti in Pali, but the description of the number of lines and syllables leaves no doubt as to what it refers to. Quite apart from the oddness of the Buddha issuing such a challenge, it’s a lame flex, as basically everyone knows this verse: even I can recite it. 
+
+The brahmin, sensibly, ignores this and asks why so many people perform the sacrifice, to which the Buddha says the donor profits if they give to a _vedagū_. The Buddha doesn’t explain himself, but to him this means someone who is freed by mastering the wisdom of the threefold knowledges (_tevijjā_). To the brahmin, on the other hand, it means someone who has memorized the Vedas. Coming after the Gāyatrī challenge, he has every reason to think the Buddha shares his understanding. Nonetheless, even this brief and somewhat incoherent exchange is sufficient to convince him of the Buddha’s wisdom. Conversion narratives in the Suttas often have this kind of abruptness, almost as if there is something missing. Perhaps the missing piece is the power of the Buddha’s presence, his overwhelming charisma. 
+
+He asks the Buddha about a profitable way to perform a sacrifice, prompting the long series of verses that make up the main teaching passage. Here the incoherence of the opening exchange is left behind, and we return to the Buddha’s familiar practice of redefining Brahmanical ideas in his own terms. The discourse ends with the Buddha refusing to eat “enchanted” food, as in [snp1.4]. Just as any kind of wood can produce a fire, any person who has conducted themselves well and left defilements behind can be a true brahmin. 
+
+### With Māgha
+
+The Māghasutta tells us yet another story of how a brahmin approached the Buddha to ask about makeing an offering or a sacrifice ([snp3.5]). This time he is a _māṇava_, an apprenticed student, yet he appears to already have confidence in the Buddha. He asks how an offering is purified, and the Buddha says, as in the previous Sutta, that it is when the recipient is pure and unattached. When asked about who in the world is unattached, the Buddha gives a long series of verses, similar to the previous Sutta, extolling the arahants as the pure ones worthy of offerings.
+
+Satisfied, Māgha asks about how to accomplish an offering, to which the Buddha replies that the giver should also be pure, with a heart full of love. Finally, Māgha asks how to be reborn in the Brahma realm. The Buddha, sticking as usual to answering the question at hand, says that to be reborn in the Brahma realm, one must offer to the worthy with the three-fold sacrifice, which at [dn5:15.1] is defined as having no regrets before, during, or after giving. This is a controversial answer, as it is normally understood that to be reborn in the Brahma realm it takes more than generosity: one must develope at least first _jhāna_. 
+

@@ -81,313 +81,33 @@ II,6 Righteous Conduct (Dhammacariya Sutta), verses 274–83
 
 II,7 The Tradition of the Brahmins (Brāhmaṇadhammika Sutta),
 verses 284–315
-As the longest discourse in the Cūḷavagga, this sutta would seem to fit
-better in the Mahāvagga (chapter III), but it was probably included here
-because of the affinity between its title and that of the Dhammacariya Sutta.
-Another reason may be the parallelism between their themes. Just as the
-Dhammacariya Sutta decries the corruption besetting the monastic order,
-the Brāhmaṇadhammika Sutta deplores the deterioration that had taken
-place among the brahmins. Its theme, however, is not the inequity of the
-caste system but the heinous cruelty of animal sacrifice, particularly of
-cattle. The sutta views this practice as a grave violation of the moral order
-that ushers in a multitude of physical and social ills.
-The thirty-two verses of the sutta can be divided into four groups, which
-might be called “before the fall, the initial fall, the deeper fall, and after the
-fall.” The period “before the fall” (284–98) describes an ideal period in the
-distant past when the brahmins were models of spiritual glory. They were
-self-controlled, austere, pious, and simple in their way of life, revered by
-the population. Some observed life-long celibacy (293), others emulated
-their practice (294), but even the least diligent among them lived “within
-the boundary,” performing sacrificial services that did not involve animal
-slaughter (297). As a result, “this population happily flourished” (298).
-With 299–305, the initial fall takes place. Coveting wealth, cattle, and
-women, the brahmins composed hymns enjoining sacrifice, went to the
-kings, and persuaded them to hold sacrifices, which the brahmins
-performed in return for lavish rewards. Still not content, “their craving
-increased still more,” and they descended into the deeper fall (306–10).
-They now composed hymns calling for the sacrifice of cattle and recited
-these to the kings, who initiated the slaughter of cattle. At this point the
-brahmins had completely abandoned their original heritage. The remaining
-verses (311–15) describe the aftermath of the deeper fall. Diseases afflicting
-humankind increase, marital relations become disharmonious, socialconflict and disorder spreads, and the population falls into the grip of
-sensual craving.
-Somewhat strangely, disregard for the doctrine of birth (jātivādaṃ
-niraṃkatvā) is included among the misfortunes that result from the
-slaughter of cattle. At 596, “the doctrine of birth” is identified with the view
-that “one is a brahmin by birth” (jātiyā brāhmaṇo hoti), a doctrine clearly
-rejected by the Buddha. Yet here disregard for this doctrine is lamented as a
-sign of deterioration, presumably because it leads to intermarriage among
-people born into different castes. There seems to be here an incongruity
-between this line of the text and the view expressed elsewhere that caste
-distinctions are purely conventional.
 Parallels from other traditions: Chinese: MĀ 156 (T I 678a24–
 679a25)
-II,8 The Boat (Nāvā Sutta), verses 316–23
-This sutta is named after the simile in 321, but if it is the word dhamma that
-draws together the preceding two suttas, it might also be the alternative title
-of this discourse, Dhamma Sutta, that explains its position in immediate
-succession to them. The sutta deals with the proper relationship between the
-teacher of the Dhamma and the student. The student, it says, should
-venerate the teacher “as the deities venerate Indra.” When the student
-shows respect, humility, and eagerness to learn, the teacher should
-generously share the Dhamma. Having learned the teaching, the pupil
-should then practice as instructed.
-The discourse issues stern warnings to both prospective students and
-aspiring teachers. The student must use discretion in selecting a teacher. If
-one resorts to a wrong teacher, “a petty fool who has not reached the goal,”
-one will end in failure. The teacher too must be properly qualified. An
-unqualified teacher would be like a person who has stepped into a mighty
-river and, swept off by the torrent, is unable to cross himself, much less to
-help others across. But just as one who has entered a boat can carry others
-across, so one accomplished in the Dhamma, “learned and of unwavering
-character,” can guide students who are attentive and willing to learn.II,9 What Good Behavior? (Kiṃsīla Sutta), verses 324–30
-According to the commentary, the questions posed in the opening verse of
-this sutta were asked by Sāriputta on behalf of a friend from lay life, a
-wealthy young brahmin who had gone forth but could not make progress.
-Sāriputta brought him to the Buddha and asked the questions in the hope the
-Buddha would provide suitable instructions. The discourse deals with the
-proper conduct a monastic pupil should adopt toward teachers and it thus
-serves as a short guide to monastic etiquette.
-II,10 Arouse Yourselves! (Uṭṭhāna Sutta), verses 331–34
-This short sutta of four stanzas sounds a stirring call for diligent effort. The
-commentary explains that the verses were spoken in connection with an
-incident reported at SN 51:14. At the time a number of young bhikkhus
-living on the ground floor of Migāramātā’s mansion were dwelling
-heedlessly. The Buddha asked Mahāmoggallāna to stir up a sense of
-urgency in them, which he did by using his psychic powers to cause the
-mansion to “shake, quake, and tremble” by touching it with his toe. When
-the monks emerged, shocked and frightened, the Buddha spoke the verses
-to urge them to strive more diligently in their practice.
-II,11 Rāhula (Rāhula Sutta), verses 335–42
-This sutta is addressed by the Buddha to his son Rāhula, who became a
-novice during the Buddha’s first return visit to Kapilavatthu in the first year
-after his enlightenment. The Pāli Canon contains three other discourses
-addressed to Rāhula, but this is the only one entirely in verse. A sentence at
-the end of the sutta, evidently added by the compilers, states: “In such a
-way the Blessed One often exhorted the Venerable Rāhula with these
-verses.” This signifies that the verses were not recited only on a single
-occasion but were taught repeatedly during the period of Rāhula’s training.
-The sutta begins with two introductory verses (335–36). According to
-the commentary, the first was addressed by the Buddha to Rāhula and the
-second is Rāhula’s reply. The expression “torchbearer of humankind”
-(ukkādhāro manussānaṃ) in the first verse raises suspicion that the verse
-was not actually spoken by the Buddha but by someone else. While thecommentary says that the Buddha used this expression with reference to
-Sāriputta, the expression itself seems to better fit the Buddha, who
-elsewhere is compared to a man who brings a lamp into a dark room so
-people can see forms (see p. 1456, note 1195).
-The six verses of instruction cover, with remarkable concision and
-elegance, the full range of monastic training, from the first steps to the final
-goal. Stanza 337 reminds Rāhula of the meaning of his act of renunciation,
-undertaken out of faith and for the purpose of making an end to suffering.
-Stanza 338 stresses the importance of good friendship, seclusion, and
-moderation in eating; 339–40ab covers other aspects of moral discipline;
-340cd–341 directs Rāhula to meditate on the unattractive nature of the
-body, which heightens the sense of disenchantment and brings one-pointed
-concentration. Stanza 342a refers to the “markless state” (animitta), the
-concentration of insight knowledge that culminates in the breakthrough to
-the world-transcending path; 342b speaks of the latent tendency to conceit,
-a subtle defilement that persists even in a non-returner; and 342cd states
-that with the elimination of conceit one will “live at peace,” as an arahant
-who has reached the end of suffering.
+
 II,12 Vaṅgīsa (Vaṅgīsa Sutta), verses 343–58
-Vaṅgīsa was declared by the Buddha the bhikkhu foremost in inspirational
-ingenuity (paṭibhāna). His field of expertise was the composition of poetry.
-In the Vaṅgīsasaṃyutta (SN chap. 8) he displays his skill in creating
-improvised verse. He also has seventy-one verses in the Theragāthā, the
-largest number in that collection. These include the verses of this sutta.
-The prose introduction to this sutta explains how after his preceptor,
-Nigrodhakappa, died, Vaṅgīsa was plagued by doubt whether he had
-attained final nibbāna. To settle his doubt, he went to the Buddha, and as a
-poet, pleaded in verse for an answer. Apparently he spoke in the midst of
-the Sangha, for in the verses he refers to others present who are eager to
-hear. His verses display a high degree of poetic refinement, which sets them
-off from the unembellished style of most early Buddhist poetry. Vaṅgīsa
-addresses the Buddha with majestic epithets. He calls him the universal eye,
-the one of broad wisdom, the supreme eye for humans, one of perfect
-wisdom, and so forth. He also makes use of metaphors and similes: theBuddha is like Sakka among the devas (346d), like a wind dispelling clouds
-(348b); his voice is like the honking of a goose (350b); he himself is like a
-man afflicted by heat and the Buddha’s words are like a downpour of rain
-(353cd). Finally, after an elaborate appeal for clarification, the Buddha
-tersely declares that Nigrodhakappa had indeed “crossed over birth and
-death entirely” (355). This was the answer that Vaṅgīsa had longed to hear,
-and he welcomes it with joy (356–58).
 Pāli parallel: Th 1263–79 (verses only)
+
 II,13 Proper Wandering (Sammāparibbājanīya Sutta), verses 359–
 75
-According to the commentary, this sutta was spoken at the Great Gathering
-(mahāsamaya) in response to questions posed by a mind-created buddha.
-The Great Gathering occurred when five hundred of the Buddha’s relatives
-who had gone forth as monks attained arahantship. Half were paternal
-relatives, half maternal relatives. They came in immediate sequence on a
-full-moon night to report their attainment. As the Buddha sat in their midst,
-surrounded by the five hundred newly enlightened arahants, countless
-deities from ten thousand world systems came to visit the assembly, hoping
-to hear a discourse.
-The Buddha realized that the mode of teaching that would be most
-beneficial to the deities would be one given in response to questions.
-However, he also saw that no one present was able to ask the right
-questions. He therefore used his psychic power to mentally create a
-duplicate of himself. The duplicate asked the questions and he himself
-responded.
-According to the commentary, on this occasion the Buddha gave six
-discourses in the mode of question and response; each was intended for
-deities of a different temperament. Five are included in the Aṭṭhakavagga
-(chap. IV). The Discourse on Proper Wandering, intended for those of
-lustful temperament, was somehow placed in the Cūḷavagga.
-The theme of the discourse is revealed in the question posed in the
-opening verse: “How should a bhikkhu who has renounced the household
-life properly wander in the world?” The Buddha’s answer, the commentarysays, explains the arahant’s practice up to its culmination in arahantship.
-The verses seem to extend over two stages of development, path and
-realization. The path stage is the practice of a disciple training for the final
-goal. This stage is suggested by the use of optative verbs, such as “should
-remove lust” (rāgaṃ vinayetha) in 361a, “should discard anger and
-meanness” (kodhaṃ kadariyaṃ jaheyya) in 362b, and “should not be
-elated” (na uṇṇameyya) in 366a. The stage of training is also indicated by
-the
-expression
-“aspiring
-for
-the
-state
-of
-nibbāna”
-(nibbānapadābhipatthayāno) in 365c. The stage of realization is reached by
-the arahant, described by such expressions as “utterly released from things
-that fetter,” “one who has no latent tendencies,” “whose influxes have been
-destroyed,” and “a purified conqueror who has removed the coverings.”
-Strikingly, the word “muni” does not occur in the exposition but only in the
-opening address to the Buddha.
+
 II,14 Dhammika (Dhammika Sutta), verses 376–404
-The title of this discourse again suggests that several suttas with dhamma or
-dhammika in their titles were drawn together into a single chapter. With
-twenty-nine verses, this is the second longest sutta in the chapter. The sutta
-is named after the lay follower Dhammika, who is highly extolled by Pj II
-as a non-returner of good behavior, learned in the Tipiṭaka (a clear
-anachronism), and possessing psychic powers. He is the head of a retinue of
-five hundred lay followers, which suggests he is a man of influence.
-However, he is not referred to elsewhere in the Nikāyas.
-In his opening verse (376) he asks the Buddha about the behavior of two
-kinds of disciples, the renunciant and the lay follower. This is followed by a
-series of effusive stanzas that eulogize the Buddha, with allusions to
-incidents recorded elsewhere: the visits of the nāga king Erāvaṇa and the
-deity Vessavaṇa Kuvera, and the Buddha’s triumphs in debate over other
-ascetics and brahmins. The stanzas thus display literary artifice,
-presupposing that the listener is acquainted with the traditional lore about
-the Buddha.
-The Buddha’s reply can be divided into two parts. The first deals with
-the proper conduct of a bhikkhu (385–92) and the second with the
-householder’s duty (393–404). The first verse in the reply is addressed notto Dhammika the inquirer but to the bhikkhus, suggesting a disjunction in
-the composition of the poem. The instructions given for a bhikkhu cover
-proper deportment, right behavior on the alms round, restraint and
-circumspection in speech, and proper use of the material requisites. The
-emphasis here is strikingly different from that of the Muni Sutta or the
-Sammāparibbājaniya Sutta, where the ascetic and contemplative elements
-are more prominent. Here the advice seems more appropriate for a monk in
-the initial stages of training.
-The section on the householder’s duty begins with the recognition that
-the layperson cannot be expected to fully emulate the practice of a
-renunciant. The first six stanzas of advice (394–99) expound on the five
-precepts. The stanza on the third precept recommends complete sexual
-abstinence as the ideal and sex within marriage as second best. Whereas the
-first four precepts are accorded only one stanza, abstinence from intoxicants
-receives two. Stanzas 400–402 deal with observance of the uposatha, 403
-with the layperson’s duty to feed the Sangha, and 404 with other
-householder duties such as support for parents and right livelihood. The
-discourse reflects a period when a sizeable lay community had constellated
-around the Buddha and it had become necessary for the Buddha to explain
-the specific responsibilities of monastics and laypeople both in their own
-domains and in their mutual relations.
+snp2.14:26-27 = an3.70:35-36 = an8.43:7-8 = an8.45:7-8
+
+
 III THE GREAT CHAPTER (MAHĀVAGGA)
 III,1 The Going Forth (Pabbajjā Sutta), verses 405–24
-The Pabbajjā Sutta and its sequel, the Padhāna Sutta, along with the
-introductory verses of the Nālaka Sutta, are the earliest attempts to narrate
-in verse major events in the Buddha’s life. Since each revolves around a
-particular incident, it would be an exaggeration to say that they constitute a
-primitive biography of the Buddha, but they certainly provided material for
-the construction of such a biography.
-The narrative portion of the Pabbajjā Sutta, according to the
-commentary, was spoken by Ānanda, but the centerpiece of the sutta is the
-dialogue between the future Buddha and King Bimbisāra at the PāṇḍavaHill outside Rājagaha. According to the commentary, the Buddha went to
-Rājagaha soon after renouncing the household life. The Jātaka Commentary
-(I 65,29–30) says that after he arrived at Anupiya, he first spent a week
-enjoying the bliss of renunciation and then left for Rājagaha, completing the
-200-mile trip in one day. From this it follows that the encounter with
-Bimbisāra took place before the Buddha became a pupil of Āḷāra Kālāma,
-as told in MN 26 (at MN I 164–65).
-The style of the Pabbajjā Sutta is simple and unadorned, free of
-embellishments and extraneous accretions. The Buddha is referred to as
-“Buddha” even though the sutta is set prior to his enlightenment. He is not
-called a bodhisatta. Several times the Buddha is referred to as “the bhikkhu”
-(411d, 412c, 416a) and once as a muni (414b). When asked about his
-origins, he does not identify himself as the son of a king, as the later legend
-has it, but acknowledges that the Sakyan realm was a protectorate of
-Kosala.
-There is a parallel to the Pabbajjā Sutta in the Sanskrit Mahāvastu and
-another parallel in Chinese in the Four-Part Vinaya ( 四 分 律 ) of the
-Dharmaguptaka school (T XXII no. 1428). This indicates that the story of a
-meeting between the future Buddha and Bimbisāra was shared by different
-schools of Early Buddhism. The story is not recorded elsewhere in the
-Nikāyas, but it is told in the Jātaka Commentary (I 66), which refers to the
-Pabbajjā Sutta. The two men met after the Buddha began his teaching
-mission (at Vin I 37). On that occasion the Buddha taught the Dhamma to
-Bimbisāra and his retinue, who all attained stream-entry.
+
 Parallels from other traditions: Sanskrit: Mvu II 198–200;
 Saṅghabhedavastu (Gnoli 1:94–96); Chinese: T XXII no. 1428,
 779c26–780a24
+
+
 III,2 Striving (Padhāna Sutta), verses 425–49
-Although the Pabbajjā Sutta ends with the Buddha saying, “I will go for the
-purpose of striving,” the events of the Padhāna Sutta, on the theme of
-striving, could not have occurred in immediate sequence. The sutta
-describes the Buddha’s exertion during his period of extreme ascetic
-practice. If we accept the testimony of the Nikāyas, particularly MN 36 (at I
-240), before the Buddha took up self-mortification he mastered the formlessmeditative attainments under Āḷāra Kālāma and Uddaka Rāmaputta. It was
-only after he left them that he pursued the practice of self-mortification.
-This means that the events narrated in the two suttas of Sn are separated by
-a temporal gap.
-The Padhāna Sutta also differs from its predecessor in its flavor.
-Whereas the Pabbajjā Sutta is plain and realistic, the Padhāna Sutta
-introduces myth and personification in a short epic of the spiritual hero
-struggling against the forces of metaphysical evil, here represented by
-Māra. At the time the story occurs, the Buddha has not yet taken his seat
-beneath the bodhi tree, determined to reach perfect enlightenment that very
-day. He is still engaged in his ascetic practices, intent on pursuing them to
-their limits. Thus Māra’s dialogue with the Buddha precedes the assault he
-will launch when the Buddha discovers the middle way, regains his physical
-vigor, and makes the great determination.
-The sutta is a powerful drama in which Māra adopts the guise of
-compassionate concern in his efforts to persuade the Buddha to give up his
-exertion and instead accumulate merits as a householder. The Buddha
-resolutely rejects this proposal and spurns the ten “armies of Māra.” These
-are treated metaphorically, but in the later Māra legend, the armies become
-actual demonic troops goaded by Māra into a relentless effort to drive the
-future Buddha away from his seat beneath the bodhi tree. Included among
-the ten armies are sensuality, discontent, and craving, which become
-personified as the three daughters of Māra who try unsuccessfully to seduce
-the Buddha (see SN 4:25, I 124–26).
-A temporal gap in the Buddha’s life separates the last four stanzas of the
-poem, 446–49, from the previous ones. These stanzas seem to have been
-appended to the original sutta, which would have achieved closure if it had
-ended at 445. Since Māra says here that he has followed the Buddha for
-seven years, this would put them a year after the enlightenment. Stanza 446
-may have found its way into this poem from the floating mass of oral verses
-describing different events in the Buddha’s life. Stanzas 447–48 are found
-elsewhere (at SN I 124), as is 449, which seems out of context at SN I 122.
-These verses may have been “borrowed” from their original sources and
-inserted here to demonstrate that in his battle with Māra the Buddha
-ultimately prevailed.Parallels from other traditions: Sanskrit: Mvu II 238–40; Lalitavistara
+
+Parallels from other traditions: Sanskrit: Mvu II 238–40; Lalitavistara
 18:1–22
 III,3 Well-Spoken (Subhāsita Sutta), verses 450–54
-This short sutta in mixed prose and verse again gives Vaṅgīsa the
-opportunity to display his poetic skill, this time on well-spoken speech. In
-the prose passage the Buddha enumerates four constituents of well-spoken
-speech, which oddly include “well-spoken speech” as one factor among
-them. After he restates the same points in verse, Vaṅgīsa asks permission to
-speak, and when permission is granted, he recites verses that explain his
-understanding of well-spoken speech as words that cause no harm to
-oneself or others. He next goes a step further and declares truth to be the
-dhammo sanantano — the ancient principle on which both the good and the
-Dhamma are grounded. Since it leads to nibbāna, the supreme good,
-Vaṅgīsa extols the Buddha’s word as “the supreme speech.”
+
 Pāli parallel: SN 8:5. Parallels from other traditions: Sanskrit: Śag 20
 (Sn 452 only); Chinese: SĀ 1218 (T II 332a8–332a29); SĀ2 253 (T II
 462b19–462c8)
@@ -1090,7 +810,7 @@ Buddha, after which Sāriputta announces that he has come with a question;
 the commentary explains that he is asking on behalf of his pupils. From
 958–62 he actually asks not one question but a multitude of questions
 pertaining to the training of a bhikkhu. In the remainder of the sutta (962–
-75) the Buddha explains the various aspects of monastic training: the fears a
+1)  the Buddha explains the various aspects of monastic training: the fears a
 bhikkhu must overcome, the afflictions he must endure, his moral conduct,
 his cultivation of mind, how he should deport himself, and how he should
 investigate the Dhamma.Parallels from other traditions: see Appendix 1
