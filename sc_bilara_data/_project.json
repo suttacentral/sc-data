@@ -225,6 +225,17 @@
       }
     ]
   },
+  "fr_ms_translation_cittadhammo": {
+    "name": "French sutta translation Cittadhammo Bhikkhu",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/cittadhammo/sutta",
+    "translation_muids": "translation-fr-cittadhammo",
+    "collaborator": [
+      {
+        "author_github_handle": "cittadhammo"
+      }
+    ]
+  },
   "fr_ms_translation_noeismet": {
     "name": "French sutta translation Noé Ismet",
     "root_path": "root/pli/ms/sutta",

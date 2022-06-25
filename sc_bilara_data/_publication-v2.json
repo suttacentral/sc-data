@@ -1959,5 +1959,30 @@
     "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste.",
     "first_published": "2022",
     "editions_url": ""
+  },
+  {
+    "publication_number": "scpub72",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fr",
+    "translation_lang_name": "Français",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/fr/cittadhammo/sutta/mn",
+    "creator_uid": "cittadhammo",
+    "creator_name": "Cittadhammo Bhikkhu",
+    "creator_github_handle": "cittadhammo",
+    "text_uid": "mn",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Majjhimanikāya",
+    "creation_process": "",
+    "text_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "",
+    "first_published": "",
+    "editions_url": ""
   }
 ]
