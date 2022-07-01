@@ -1984,5 +1984,30 @@
     "license_statement": "",
     "first_published": "",
     "editions_url": ""
+  },
+  {
+    "publication_number": "scpub73",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "th",
+    "translation_lang_name": "ภาษาไทย",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/th/korakot/sutta/kn",
+    "creator_uid": "korakot",
+    "creator_name": "Korakot Chaovavanich",
+    "creator_github_handle": "korakot",
+    "text_uid": "kn",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Khuddakanikāya",
+    "creation_process": "",
+    "text_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "",
+    "first_published": "",
+    "editions_url": ""
   }
 ]

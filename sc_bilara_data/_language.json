@@ -109,6 +109,11 @@
     "name": "Srpski",
     "is_root": false
   },
+  "th": {
+    "type": "language",
+    "name": "ภาษาไทย",
+    "is_root": false
+  },
   "vi": {
     "type": "language",
     "name": "Tiếng Việt",
