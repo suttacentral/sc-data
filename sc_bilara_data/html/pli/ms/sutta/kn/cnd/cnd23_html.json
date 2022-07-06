@@ -1,6 +1,6 @@
 {
   "cnd23:0.1": "<article id='cnd23'><header><ul><li class='division'>{}</li></ul>",
-  "cnd23:0.2": "<h1>{}</h1></header>",
+  "cnd23:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "cnd23:1.0.1": "<h2>{}</h2>",
   "cnd23:1.1": "<blockquote class='gatha'><p data-counter='11'><span class='verse-line'>{}</span>",
   "cnd23:1.2": "<span class='verse-line'>{}</span>",
