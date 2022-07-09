@@ -1,7 +1,7 @@
 {
   "dn32:0.1": "<article id='dn32'><header><ul><li class='division'>{}</li></ul>",
   "dn32:0.2": "<h1 class='sutta-title'>{}</h1></header>",
-  "dn32:0.3": "<h2>{}</h2>",
+  "dn32:1.0": "<h2>{}</h2>",
   "dn32:1.1": "<p><span class='evam'>{}</span>",
   "dn32:1.2": "{}",
   "dn32:1.3": "{}",
