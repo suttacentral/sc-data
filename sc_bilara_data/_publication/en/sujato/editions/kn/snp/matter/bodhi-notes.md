@@ -113,193 +113,20 @@ Pāli parallel: SN 8:5. Parallels from other traditions: Sanskrit: Śag 20
 462b19–462c8)
 III,4 Sundarikabhāradvāja (Sundarikabhāradvāja Sutta), verses
 455–86
-This discourse — also known as the Pūraḷāsa Sutta, “The Sacrificial Cake”
-— has a part-parallel in the Saṃyutta Nikāya (SN 7:9, I 167–70). In both
-the interlocutor is the brahmin Sundarikabhāradvāja. The two have the same
-prose introduction and share several verses (462–63, 480–81), but otherwise
-they go off in very different directions. This demonstrates how the
-compilers of the texts might have selected different sets of verses
-circulating among the communities of reciters and then provided them with
-the same prose framework, even though it is impossible that two different
-discourses could have been given on the same occasion and under the same
-circumstances. In this sutta the verse section seems confused in places, and
-it is even unclear whether certain lines (between 456 and 461) should be
-understood as prose interjections or as unmetrical verse. The commentarytries to unravel the confusion but it seems the text itself has been partly
-corrupted.
-The sutta, like several we have so far encountered, pits the Buddha
-against a brahmin, this time over the question of who is worthy to receive
-offerings. The brahmin, spotting a robed figure sitting near the site of his
-Vedic ritual, is about to offer him the sacrificial cake, but when he discovers
-that the intended recipient is not a brahmin but an ascetic, he pulls back,
-about to withdraw the offering. The Buddha, however, challenges the
-brahmin’s assumption. He first completely dissociates himself from caste
-affiliations, denying (in 455) even that he is a prince; instead he defines
-himself as a true “man of nought”: “I am not a brahmin nor am I a prince; I
-am not a vessa or anything else.” He denies that the merit of an offering is
-determined by the recipient’s birth, insisting that the merit depends upon the
-recipient’s moral and spiritual qualities. Someone from a low family may be
-“a steadfast muni” and thus may be the one most worthy of the offering
-(462).
-In stanzas 463–66 the Buddha describes in general terms those who
-deserve to receive an oblation. They are those who have renounced sensual
-pleasures, are devoid of lust, wander in the world without attachments, and
-have abandoned taking things as “mine.” Each verse ends in the refrain: “a
-brahmin who would sacrifice intent on merit should make a timely oblation
-to him.” But with 467 he changes pitch and launches into a hymn of self-
-praise extending over eleven verses, each ending in the refrain: “the
-Tathāgata is worthy of the sacrificial cake.” Almost all the terms used in
-this hymn would be applicable to any arahant and thus are still indicative of
-Buddhism in its early phase, before sharp distinctions were drawn that
-elevated the Buddha to heights above his arahant disciples.
-Through the force of the Buddha’s argument the brahmin is won over
-and states his wish to make his offering to the Buddha. The Buddha,
-however, refuses the offering. We here meet the verses encountered earlier
-(81–82), where the Buddha rejected an offering on the ground that “food
-over which verses have been recited is not to be eaten by me.” It is in this
-context rather than the earlier one that the rejection makes sense, for the
-food was previously the object of the brahmanic ritual, consecrated by the
-recitation of brahmanic verses.The prose passage that concludes the sutta ends in the familiar way. The
-brahmin abandons his reservations, goes for refuge, asks to go forth under
-the Buddha, and finally attains arahantship.
+
 Pāli parallel: SN 7:9 (part only)
 III,5 Māgha (Māgha Sutta), verses 487–509
-The theme of this sutta is similar to the preceding one, but the questioner, a
-brahmin youth named Māgha, does not approach the Buddha as an
-antagonist but as a reverential inquirer. His question, as posed in the
-opening stanza, is: “Who are worthy recipients of gifts for householders in
-quest of merit?” The question is raised against the backdrop of the ancient
-Indian belief that gifts of food and other requisites create spiritual merit,
-wholesome kamma conducive to good fortune in future lives, with the
-volume of merit dependent on the virtues of the recipients.
-The Buddha replies by describing those who are true fields of merit. He
-does not specifically refer to himself and his own disciples but describes the
-qualities of the ideal recipients in broad terms characteristic of all arahants.
-Several of the verses correspond to those of the preceding sutta and the tone
-throughout is identical. When Māgha asks about the best way to perform
-the sacrifice, the Buddha explains the threefold excellence, which the
-commentary explains as giving with a placid mind before, during, and after
-the presentation of the gift. In its original context, however, what was
-intended may have been the excellence of the giver, the recipients, and the
-gifts. It is noteworthy that Māgha asks only about the way to rebirth in the
-brahma world, and the Buddha responds at the level of the question,
-without attempting to reveal the path of insight that leads to liberation. This
-illustrates the Buddha’s pedagogical technique of assessing the capacities of
-the listeners and framing the teaching in a way that corresponds to their
-aptitude and inclinations.
+
 III,6 Sabhiya (Sabhiya Sutta), verses 510–47
-The Sabhiya Sutta begins with a long prose narrative about a wanderer
-named Sabhiya who is told by a guardian deity that he should live the
-spiritual life under an ascetic or brahmin who can answer certain questionsfor him. He approaches the six heterodox teachers, the Buddha’s rivals in
-the Magadha region, but not only do they fail to reply to his question, even
-worse “they displayed irritation, hatred, and displeasure, and they even
-questioned the wanderer Sabhiya himself.” This portion of the sutta is
-remarkably similar to the opening narrative of the Sāmaññaphala Sutta,
-where King Ajātasattu tells of how he asked the six teachers about the fruits
-of the ascetic life without receiving a satisfactory reply (DN I 52–59).
-Finally, Sabhiya considers visiting the ascetic Gotama to ask these
-questions. At first he hesitates, because Gotama is much younger than the
-six teachers, but he then considers: “An ascetic should not be belittled or
-disparaged just because he is young. For even if an ascetic is young, he
-might be powerful and mighty.” We can detect here echoes of the Buddha’s
-reply to King Pasenadi on their first meeting (SN I 69,1–7). After a long
-journey, Sabhiya reaches Rājagaha, meets the Buddha, and relates the
-purpose of his visit.
-Speaking now in verse, Sabhiya requests permission to ask his questions
-and the Buddha invites him to speak up, assuring him: “I’ll answer you
-according to the Dhamma.” The dialogue that ensues is entirely in verse,
-with prose passages inserted only to demarcate the sections. Sabhiya’s
-questions all concern the meaning of various terms that must have been
-discussed by the ascetics of northern India. The terms describe the ideal
-spiritual figure of the contemplative quest, the type of person who embodies
-the supreme goal. The terms about which Sabhiya seeks clarification from
-the Buddha fall into five groups, which are divided merely as a matter of
-convenience and not by any difference in their subject matter: (1) bhikkhu,
-gentle, tamed, enlightened (buddha); (2) brahmin, ascetic, cleansed, nāga;
-(3) field-knower, skilled, pundit (paṇḍita), muni; (4) Veda-master,
-cognizant, heroic, thoroughbred; (5) scholar, noble, one of good conduct,
-wanderer. The word saṃnyāsin, the preferred term of later Indian
-monasticism, is not among them, and thus it is likely the word originated
-later or at least became widespread subsequent to the age of Early
-Buddhism. The same is true of paramahaṃsa, “supreme goose,” the word
-used in Hindu contemplative circles to designate the accomplished sage.
-The answers to the questions involve subtle word plays and edifying
-etymologies that are extremely hard to translate into English in ways thatcorrespond to the term being examined. The explanations themselves, in
-fact, sometimes preserve their relevance only in the Middle Indo-Aryan
-dialects and become tenuous when the texts are transposed into Sanskrit, or
-even in partly Sanskritized Pāli. Thus, as Norman has pointed out (GD 258;
-see too Norman 2006a, 134), the edifying derivation of brāhmaṇa from
-bāhetvā sabbapāpani, “one who has expelled all evil,” would have been
-discernible only in a dialect in which the word was pronounced bāhaṇa.
-With the partial Sanskritization of the Pāli texts, brāhmaṇa was adopted for
-bāhaṇa and the pun became opaque. But the playful derivation of samaṇa,
-ascetic (literally “striver”), from samitāvi, “peaceful one,” remained intact
-in Pāli but lost its cogency in Sanskrit, where śramaṇa could not be easily
-connected to śamitāvi. In some places explanatory lines seem to have
-migrated from the place where they properly belong, creating gaps in the
-explanation. There is a Sanskrit parallel to the Sabhiya verses in the
-Mahāvastu and another parallel in the Chinese translation of the
-*Abhiniṣkramaṇa Sūtra. As is inevitable in a literature originally oral, their
-explanations differ in places from the Pāli.
-After the Buddha has answered all his question, Sabhiya extols him in
-verses of lyrical beauty. He then pays homage to the Buddha, and — the
-prose conclusion reports — he goes for refuge, receives ordination, and
-attains arahantship.
+ 
 Parallels from other traditions: Sanskrit: Mvu III 394–401; Chinese: T
 III no. 190, 833b8–835b22
 III,7 Sela (Sela Sutta), verses 548–73
-The Sela Sutta is another conversion story, this time centered on the erudite
-brahmin Sela. The sutta has an exact parallel in Majjhima Nikāya 92. The
-sutta opens with the encounter between the Buddha and another teacher
-named Keṇiya, whose status is unclear. The text describes him as a jaṭila, a
-type of ascetic that wore matted locks. Elsewhere the jaṭilas are depicted as
-celibate and as guardians of the sacred fire (perhaps votaries of the god
-Agni), but Keṇiya is shown as living partly like a householder, with a large
-hermitage where he is surrounded by family and relatives. The Buddha
-twice rejects his offer to provide a meal, but when asked a third time he
-silently consents.This sets the dramatic background to the discourse. When Keṇiya’s
-teacher, the learned brahmin Sela, arrives along with his three hundred
-students, Keṇiya informs Sela that he has invited the Buddha for the next
-day’s meal. The very word “buddha” causes a wave of astonishment and
-exhilaration in Sela, for, he says, “even this sound ‘buddha’ is rarely
-encountered in the world.” Sela is described as a master of the Three Vedas
-and their auxiliary texts, which apparently include traditions about buddhas
-and their secular counterpart, the wheel-turning monarch — at least
-according to the sutta.
-Sela then visits the Buddha to determine whether Keṇiya’s report is
-true. He examines the Buddha’s body for the thirty-two marks of a great
-man, which he had learned about through his study of brahmanic lore.
-When he ascertains that the Buddha possesses all thirty-two marks —
-including one mark that could only be perceived with the help of the
-Buddha’s psychic power — he extols the Buddha in verse and questions
-him about his attainment. In verse 558 the Buddha gives the most concise
-definition of a buddha found in the Nikāyas: one who has known what
-should be known, developed what should be developed, and abandoned
-what should be abandoned. He asks Sela to suspend his doubts, assuring
-him that his teaching is “well proclaimed, directly visible, immediate.”
-Having overcome their doubts, Sela and his students go forth, withdraw
-into seclusion, and attain arahantship. On the eighth day after their
-ordination, they return to the Buddha and announce their attainment,
-praising the Buddha in verse. Two of the stanzas are exactly the same as
-those in Sabhiya’s eulogy (571–72 = 545–46). Like Sabhiya, in the final
-stanza Sela asks the Buddha to extend his feet so that he and his pupils can
-worship them.
+
 Pāli parallel: MN 92; Th 818–41 (verses only). Parallels from other
 traditions: Chinese: EĀ 49.6 (T II 798a25–799c16)
 III,8 The Dart (Salla Sutta), verses 574–93
-This sutta seems out of place in this collection, for it is a simple didactic
-poem lodged in the midst of long discourses composed in mixed prose and
-verse and apparently designed to demonstrate the Buddha’s success in
-converting his contemporaries among the ascetics and brahmins of theIndian spiritual scene. The poem is a homily on death whose themes have
-been the stuff of Buddhist sermons down the centuries. The “dart” in the
-title is grief over the death of loved ones. The poem reminds us that the
-arrival of death is unpredictable; there is no means to avoid death; none of
-our loved ones can protect us when death calls on us, and we are helpless to
-protect them; we are all like pots doomed to break or like cows heading for
-slaughter. The wise recognize this and do not grieve, for they understand
-that to grow old and die is the way of the world. When facing loss, sorrow
-and lamentation are useless, for they cannot bring the dead back to life,
-while grieving only brings harm to oneself. Thus the wise extract the dart of
-grief, attain peace of mind, and dwell free of sorrow.
+
 III,9 Vāseṭṭha (Vāseṭṭha Sutta), verses 594–656
 This long discourse returns to the topic of the caste system with specific
 reference to the question: “How is one a brahmin?” Two brahmin students
