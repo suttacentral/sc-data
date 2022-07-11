@@ -1,5 +1,5 @@
 ## The following requirements were added by pip freeze:
-arrow==0.12.1
+arrow==0.15.1
 aspy.yaml==1.1.1
 astroid==1.6.4
 backcall==0.1.0
