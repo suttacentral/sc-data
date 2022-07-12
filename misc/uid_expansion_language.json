@@ -1,52 +1,52 @@
 [
   {
-    "uid": "tib",
-    "acro": "Tib",
-    "name": "Tibetan"
+    "uid": "bo",
+    "acronym": "Tib",
+    "name": "Modern Tibetan"
   },
   {
-    "uid": "pli",
-    "acro": "Pli",
-    "name": "Pāli"
-  },
-  {
-    "uid": "zh",
-    "acro": "Zh",
-    "name": "Chinese"
+    "uid": "kho",
+    "acronym": "Kho",
+    "name": "Khotanese"
   },
   {
     "uid": "lzh",
-    "acro": "Lzh",
+    "acronym": "Lzh",
     "name": "Literary Chinese"
   },
   {
-    "uid": "san",
-    "acro": "San",
-    "name": "Sanskrit"
-  },
-  {
     "uid": "pgd",
-    "acro": "Pgd",
+    "acronym": "Pgd",
     "name": "Gāndhārī"
   },
   {
+    "uid": "pli",
+    "acronym": "Pli",
+    "name": "Pāli"
+  },
+  {
     "uid": "pra",
-    "acro": "Pra",
+    "acronym": "Pra",
     "name": "Prākrit"
   },
   {
+    "uid": "san",
+    "acronym": "San",
+    "name": "Sanskrit"
+  },
+  {
     "uid": "uig",
-    "acro": "Uig",
+    "acronym": "Uig",
     "name": "Uighur"
   },
   {
     "uid": "xct",
-    "acro": "Xct",
+    "acronym": "Xct",
     "name": "Classical Tibetan"
   },
   {
-    "uid": "kho",
-    "acro": "Kho",
-    "name": "Khotanese"
+    "uid": "zh",
+    "acronym": "Zh",
+    "name": "Modern Chinese"
   }
 ]

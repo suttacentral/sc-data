@@ -1,47 +1,47 @@
 [
   {
-    "uid": "tv",
-    "acro": "Tv",
-    "name": "Theravāda"
-  },
-  {
-    "uid": "sarv",
-    "acro": "Sarv",
-    "name": "Sarvāstivāda"
-  },
-  {
-    "uid": "mu",
-    "acro": "Mu",
-    "name": "Mūlasarvāstivāda"
-  },
-  {
-    "uid": "mi",
-    "acro": "Mi",
-    "name": "Mahīśāsaka"
-  },
-  {
-    "uid": "mg",
-    "acro": "Mg",
-    "name": "Mahāsaṅghika"
-  },
-  {
-    "uid": "lo",
-    "acro": "Lo",
-    "name": "Lokuttaravāda"
-  },
-  {
     "uid": "dg",
-    "acro": "Dg",
+    "acronym": "Dg",
     "name": "Dharmaguptaka"
   },
   {
+    "uid": "hv",
+    "acronym": "Hv",
+    "name": "Haimavata"
+  },
+  {
     "uid": "ka",
-    "acro": "Ka",
+    "acronym": "Ka",
     "name": "Kāśyapīya"
   },
   {
-    "uid": "hv",
-    "acro": "Hv",
-    "name": "Haimavata"
+    "uid": "lo",
+    "acronym": "Lo",
+    "name": "Lokuttaravāda"
+  },
+  {
+    "uid": "mg",
+    "acronym": "Mg",
+    "name": "Mahāsaṅghika"
+  },
+  {
+    "uid": "mi",
+    "acronym": "Mi",
+    "name": "Mahīśāsaka"
+  },
+  {
+    "uid": "mu",
+    "acronym": "Mu",
+    "name": "Mūlasarvāstivāda"
+  },
+  {
+    "uid": "sarv",
+    "acronym": "Sarv",
+    "name": "Sarvāstivāda"
+  },
+  {
+    "uid": "tv",
+    "acronym": "Tv",
+    "name": "Theravāda"
   }
 ]
