@@ -1,5 +1,5 @@
 {
-  "pli-tv-pvr5:0.1": "<article id='pli-tv-pvr5'><header><ul><li class='division'>{}</li></ul>",
+  "pli-tv-pvr5:0.1": "<article id='pli-tv-pvr5' data-split='epub'><header><ul><li class='division'>{}</li></ul>",
   "pli-tv-pvr5:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-pvr5:0.3": "<h2>{}</h2>",
   "pli-tv-pvr5:1.1": "<p data-content='1'>{}",
