@@ -465,7 +465,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/sutta/mn",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/mn",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -473,8 +473,8 @@
     "translation_title": "Mittlere Lehrreden",
     "translation_subtitle": "Eine Übersetzung des Majjhima-Nikāya",
     "root_title": "Majjhimanikāya",
-    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen, insbesondere die von Bhikkhu Mettiko, werden zu Referenzzwecken ebenfalls herangezogen.",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen, insbesondere die von Bhikkhu Mettiko, sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -485,18 +485,11 @@
     },
     "edition": [
       {
-        "edition_number": "2",
-        "publication_date": "2021",
-        "publisher": "SuttaCentral",
-        "publication_type": "website",
-        "edition_url": "https://suttacentral.net/ma"
-      },
-      {
         "edition_number": "1",
         "publication_date": "Ab Ende 2019 fortlaufend",
-        "publisher": "SuttaCentral Voice",
+        "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": "https://voice.suttacentral.net"
+        "edition_url": "https://suttacentral.net/mn"
       }
     ]
   },
@@ -506,7 +499,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/sc-voice/bilara-data/blob/master/translation/de/sabbamitta/sutta/sn",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/sn",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -514,8 +507,8 @@
     "translation_title": "Verbundene Lehrreden",
     "translation_subtitle": "Eine Übersetzung des Saṁyutta-Nikāya",
     "root_title": "Saṁyuttanikāya",
-    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen, insbesondere die von Wilhelm Geiger, Nyānaponika Mahāthera und Hellmuth Hecker, werden zu Referenzzwecken ebenfalls herangezogen.",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen, insbesondere die von Wilhelm Geiger, Nyānaponika Mahāthera und Hellmuth Hecker, sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -526,18 +519,11 @@
     },
     "edition": [
       {
-        "edition_number": "2",
-        "publication_date": "2021",
+        "edition_number": "1",
+        "publication_date": "Ab Ende 2019 fortlaufend",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/sn"
-      },
-      {
-        "edition_number": "1",
-        "publication_date": "Ab Ende 2019 fortlaufend",
-        "publisher": "SuttaCentral Voice",
-        "publication_type": "website",
-        "edition_url": "https://voice.suttacentral.net"
       }
     ]
   },
@@ -547,7 +533,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/sutta/an",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/an",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -555,8 +541,8 @@
     "translation_title": "Nummerierte Lehrreden",
     "translation_subtitle": "Eine Übersetzung des Aṅguttara-Nikāya",
     "root_title": "Aṅguttaranikāya",
-    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen, insbesondere die von Nyānatiloka Mahāthera, werden zu Referenzzwecken ebenfalls herangezogen.",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen, insbesondere die von Nyānatiloka Mahāthera, sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -567,18 +553,11 @@
     },
     "edition": [
       {
-        "edition_number": "2",
-        "publication_date": "2021",
+        "edition_number": "1",
+        "publication_date": "Ab Ende 2019 fortlaufend",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/an"
-      },
-      {
-        "edition_number": "1",
-        "publication_date": "Ab Ende 2019 fortlaufend",
-        "publisher": "SuttaCentral Voice",
-        "publication_type": "website",
-        "edition_url": "https://voice.suttacentral.net"
       }
     ]
   },
@@ -588,7 +567,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/sutta/dn",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/dn",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -596,8 +575,8 @@
     "translation_title": "Lange Lehrreden",
     "translation_subtitle": "Eine Übersetzung des Dīgha-Nikāya",
     "root_title": "Dīghanikāya",
-    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen, insbesondere die von Otto Franke und dem Übersetzerteam von Thalpawila Kusalagnana (MA), Dr. Mudagamuwe Maithrimurthi und Thomas Trätow, werden zu Referenzzwecken ebenfalls herangezogen.",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen, insbesondere die von Otto Franke, sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -608,18 +587,11 @@
     },
     "edition": [
       {
-        "edition_number": "2",
-        "publication_date": "2021",
+        "edition_number": "1",
+        "publication_date": "Ab Ende 2019 fortlaufend",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/dn"
-      },
-      {
-        "edition_number": "1",
-        "publication_date": "Ab Ende 2019 fortlaufend",
-        "publisher": "SuttaCentral Voice",
-        "publication_type": "website",
-        "edition_url": "https://voice.suttacentral.net"
       }
     ]
   },
@@ -1192,7 +1164,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/thag",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/thag",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -1200,8 +1172,8 @@
     "translation_title": "Strophen der altehrwürdigen Mönche",
     "translation_subtitle": "Eine Übersetzung des Theragāthā",
     "root_title": "Theragāthā",
-    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -1213,7 +1185,7 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "2021",
+        "publication_date": "Ab 2021 fortlaufend",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/thag"
@@ -1226,7 +1198,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/thig",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/thig",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
@@ -1234,8 +1206,8 @@
     "translation_title": "Strophen der altehrwürdigen Nonnen",
     "translation_subtitle": "Eine Übersetzung des Therīgāthā",
     "root_title": "Therīgāthā",
-    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -1247,7 +1219,7 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "2021",
+        "publication_date": "Ab 2021 fortlaufend",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/thig"
@@ -1260,152 +1232,16 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "de",
     "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/dhp",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/dhp",
     "author_uid": "sabbamitta",
     "author_name": "Sabbamitta",
     "author_github_handle": "sabbamitta",
     "text_uid": "dhp",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "Dhamma-Sprüche",
+    "translation_subtitle": "Eine Übersetzung des Dhammapada",
     "root_title": "Dhammapada",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": true,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
-    },
-    "edition": [
-      {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
-      }
-    ]
-  },
-  "scpub30": {
-    "publication_number": "scpub30",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "de",
-    "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/iti",
-    "author_uid": "sabbamitta",
-    "author_name": "Sabbamitta",
-    "author_github_handle": "sabbamitta",
-    "text_uid": "iti",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "Itivuttaka",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": true,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
-    },
-    "edition": [
-      {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
-      }
-    ]
-  },
-  "scpub31": {
-    "publication_number": "scpub31",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "de",
-    "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/snp",
-    "author_uid": "sabbamitta",
-    "author_name": "Sabbamitta",
-    "author_github_handle": "sabbamitta",
-    "text_uid": "snp",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "Suttanipāta",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": true,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
-    },
-    "edition": [
-      {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
-      }
-    ]
-  },
-  "scpub32": {
-    "publication_number": "scpub32",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "de",
-    "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/ud",
-    "author_uid": "sabbamitta",
-    "author_name": "Sabbamitta",
-    "author_github_handle": "sabbamitta",
-    "text_uid": "ud",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "Udāna",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": true,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
-    },
-    "edition": [
-      {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "edition_url": ""
-      }
-    ]
-  },
-  "scpub33": {
-    "publication_number": "scpub33",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "de",
-    "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/master/translation/de/sabbamitta/sutta/kn/kp",
-    "author_uid": "sabbamitta",
-    "author_name": "Sabbamitta",
-    "author_github_handle": "sabbamitta",
-    "text_uid": "kp",
-    "translation_title": "Kleinere Ausschnitte",
-    "translation_subtitle": "Eine Übersetzung des Khuddakapāṭha",
-    "root_title": "Khuddakapāṭha",
-    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
-    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
     "is_published": true,
     "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
@@ -1417,7 +1253,143 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "2021",
+        "publication_date": "Ab 2021 fortlaufend",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/dhp"
+      }
+    ]
+  },
+  "scpub30": {
+    "publication_number": "scpub30",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/iti",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "iti",
+    "translation_title": "So wurde es gesagt",
+    "translation_subtitle": "Eine Übersetzung des Itivuttaka",
+    "root_title": "Itivuttaka",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "is_published": true,
+    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "Ab 2021 fortlaufend",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/iti"
+      }
+    ]
+  },
+  "scpub31": {
+    "publication_number": "scpub31",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/snp",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "snp",
+    "translation_title": "Lehrreden-Sammelband",
+    "translation_subtitle": "Eine Übersetzung des Sutta-Nipāta",
+    "root_title": "Suttanipāta",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "is_published": true,
+    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "Ab 2021 fortlaufend",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
+      }
+    ]
+  },
+  "scpub32": {
+    "publication_number": "scpub32",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/ud",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "ud",
+    "translation_title": "Innige Sprüche",
+    "translation_subtitle": "Eine Übersetzung des Udāna",
+    "root_title": "Udāna",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "is_published": true,
+    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "Ab 2021 fortlaufend",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/ud"
+      }
+    ]
+  },
+  "scpub33": {
+    "publication_number": "scpub33",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/kp",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "kp",
+    "translation_title": "Kleinere Ausschnitte",
+    "translation_subtitle": "Eine Übersetzung des Khuddakapāṭha",
+    "root_title": "Khuddakapāṭha",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche sowie andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "is_published": true,
+    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "Ab 2021 fortlaufend",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/kp"
