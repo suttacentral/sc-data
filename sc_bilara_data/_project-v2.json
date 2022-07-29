@@ -332,6 +332,14 @@
     "creator_github_handle": "korakot"
   },
   {
+    "project_uid": "vi_blurb_translation",
+    "name": "Vietnamese blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/vi/blurb",
+    "translation_muids": "translation-vi",
+    "creator_github_handle": "phineas-pta"
+  },
+  {
     "project_uid": "vi_localization",
     "name": "Vietnamese localization",
     "root_path": "root/en/site",
@@ -345,6 +353,14 @@
     "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/vi/phantuananh/sutta",
     "translation_muids": "translation-vi-phantuananh",
+    "creator_github_handle": "phineas-pta"
+  },
+  {
+    "project_uid": "vi_names_translation",
+    "name": "Vietnamese names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/vi/site",
+    "translation_muids": "translation-vi-site",
     "creator_github_handle": "phineas-pta"
   },
   {
