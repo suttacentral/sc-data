@@ -2802,5 +2802,39 @@
         "edition_url": "https://suttacentral.net/kn"
       }
     ]
+  },
+  "scpub74": {
+    "publication_number": "scpub74",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fr",
+    "translation_lang_name": "Français",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/fr/sekha/sutta",
+    "author_uid": "sekha",
+    "author_name": "Bhikkhu Sekha",
+    "author_github_handle": "BhikkhuSekha",
+    "text_uid": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": ""
+      }
+    ]
   }
 }

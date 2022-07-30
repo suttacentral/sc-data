@@ -247,6 +247,17 @@
       }
     ]
   },
+  "fr_ms_translation_sekha": {
+    "name": "French sutta translation Bhikkhu Sekha",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/sekha/sutta",
+    "translation_muids": "translation-fr-sekha",
+    "collaborator": [
+      {
+        "author_github_handle": "BhikkhuSekha"
+      }
+    ]
+  },
   "fr_names_translation": {
     "name": "French names translation",
     "root_path": "root/misc/site",
