@@ -2809,31 +2809,31 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "fr",
     "translation_lang_name": "Français",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/fr/sekha/sutta",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/fr/sekha/sutta/an",
     "author_uid": "sekha",
     "author_name": "Bhikkhu Sekha",
     "author_github_handle": "BhikkhuSekha",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "an",
+    "translation_title": "Discours En Listes",
+    "translation_subtitle": "Une traduction de l’Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "La source primaire était la version électronique de l’édition Mahāsaṅgīti des Tipiṭaka en Pali. Traduit du Pali, en prenant plusieurs traductions anglaises pour référence, surtout celles de Bhikkhu Bodhi.",
+    "translation_description": "Cette traduction fait partie d’un projet visant à traduire les quatre Nikāyas en Pali, avec les objectifs suivants : utilisation d’un langage simple et facile à comprendre, terminologie cohérente, restitution précise du Pali, traductions libres de droits.",
+    "is_published": true,
+    "publication_status": "En cours de révision.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
+      "license_statement": "Cette traduction est une expression d’un texte spirituel ancien qui a été transmis par la tradition bouddhiste pour le bien de tous les êtres sensibles. Elle est versée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragé à copier, reproduire, adapter, changer et faire d’autres usages de cette traduction. Le traducteur demande respectueusement que l’utilisation qui en est faite respecte les valeurs et les principes de la communauté bouddhiste."
     },
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "",
+        "publication_date": "2022",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": ""
+        "edition_url": "ttps://suttacentral.net/an"
       }
     ]
   }
