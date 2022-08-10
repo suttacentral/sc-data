@@ -1,7 +1,7 @@
 {
   "mnd13:0.1": "<article id='mnd13'><header><ul><li class='division'>{}</li>",
   "mnd13:0.2": "<li>{}</li></ul>",
-  "mnd13:0.3": "<h1>{}</h1></header>",
+  "mnd13:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "mnd13:1.1": "<p>{}</p>",
   "mnd13:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "mnd13:2.2": "<span class='verse-line'>{}</span>",

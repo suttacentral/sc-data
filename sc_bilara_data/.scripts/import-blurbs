@@ -1,0 +1,15 @@
+#!/bin/bash
+.scripts/import-blurb en grouping
+.scripts/import-blurb en an
+.scripts/import-blurb en dn
+.scripts/import-blurb en kn
+.scripts/import-blurb en mn
+.scripts/import-blurb en sn
+.scripts/import-blurb en pli-tv-bu-pm
+.scripts/import-blurb en pli-tv-bu-vb
+.scripts/import-blurb en pli-tv-bi-pm
+.scripts/import-blurb en pli-tv-bi-vb
+.scripts/import-blurb en pli-tv-kd
+.scripts/import-blurb en pli-tv-pvr
+.scripts/import-blurb en divisions
+.scripts/import-blurb en abhidhamma

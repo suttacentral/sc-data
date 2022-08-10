@@ -1,7 +1,7 @@
 {
   "ya7.2.1:0.1": "<article id='ya7.2.1'><header><ul><li class='division'>{}</li>",
   "ya7.2.1:0.2": "<li>{}</li></ul>",
-  "ya7.2.1:0.3": "<h1>{}</h1></header>",
+  "ya7.2.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "ya7.2.1:1.0": "<h2>{}</h2>",
   "ya7.2.1:1.1": "<p data-direction='forward'>{}</p>",
   "ya7.2.1:2.1": "<p data-direction='reverse'>{}</p>",

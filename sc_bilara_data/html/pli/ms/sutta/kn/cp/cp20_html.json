@@ -2,7 +2,7 @@
   "cp20:0.1": "<article id='cp20'><header><ul><li class='division'>{}</li>",
   "cp20:0.2": "<li>{}</li>",
   "cp20:0.3": "<li>{}</li></ul>",
-  "cp20:0.4": "<h1>{}</h1></header>",
+  "cp20:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "cp20:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "cp20:1.2": "<span class='verse-line'>{}</span>",
   "cp20:1.3": "<span class='verse-line'>{}</span>",

@@ -32,8 +32,8 @@
       "cover_image": ".img/paperback_cover_6inx9in.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
          "./matter/epigraph.html",
         "main-toc",
         "./matter/foreword.html",

@@ -32,9 +32,9 @@
       "cover_image": "pdf_cover.png",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
-         "./matter/epigraph.html",
+        "imprint",
+        "./matter/epigraph.html",
         "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",

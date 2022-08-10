@@ -1,0 +1,51 @@
+name: Check integrity of bilara-data and yuttadhammo texts
+
+on:
+  schedule:
+    - cron: '* 13 * * 5'
+
+jobs:
+  check-migration:
+    runs-on: ubuntu-20.04
+
+    env:
+      BD_REPO: suttacentral/bilara-data
+      BD_REPO_BRANCH: published
+      TEST_REPO: suttacentral/bilara-data-integrity
+      TEST_REPO_BRANCH: master
+      PYTHON_VERSION: 3.7.5
+
+    steps:
+      - name: Checkout ${{ env.TEST_REPO }} repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ env.TEST_REPO }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          ref: ${{ env.TEST_REPO_BRANCH }}
+          path: bilara-data-integrity
+
+      - name: Checkout ${{ env.BD_REPO }} repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ env.BD_REPO }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          ref: ${{ env.BD_REPO_BRANCH }}
+          fetch-depth: 0
+          path: bilara-data-integrity/bilara-data
+
+      - name: Setup Python
+        uses: actions/setup-python@v2.2.1
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install bilara-data-integrity Python dependencies
+        run: pip install -r requirements.txt
+        working-directory: bilara-data-integrity
+
+      - name: Set up sutta-processor
+        run: pip install .
+        working-directory: bilara-data-integrity
+
+      - name: Run sutta-processor
+        run: sutta-processor -e check_migration -c sutta_processor_config.yaml
+        working-directory: bilara-data-integrity

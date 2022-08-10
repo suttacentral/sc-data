@@ -2,7 +2,7 @@
   "ja319:0.1": "<article id='ja319'><header><ul><li class='division'>{}</li>",
   "ja319:0.2": "<li>{}</li>",
   "ja319:0.3": "<li>{}</li></ul>",
-  "ja319:0.4": "<h1>{}</h1></header>",
+  "ja319:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "ja319:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "ja319:1.2": "<span class='verse-line'>{}</span>",
   "ja319:1.3": "<span class='verse-line'>{}</span>",

@@ -1,6 +1,6 @@
 {
   "bv1:0.1": "<article id='bv1'><header><ul><li class='division'>{}</li></ul>",
-  "bv1:0.2": "<h1>{}</h1></header>",
+  "bv1:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "bv1:1.1": "<p class='namo'>{}</p>",
   "bv1:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "bv1:2.2": "<span class='verse-line'>{}</span>",

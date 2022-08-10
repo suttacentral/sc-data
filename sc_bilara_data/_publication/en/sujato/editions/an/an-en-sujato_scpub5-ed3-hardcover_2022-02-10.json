@@ -32,8 +32,8 @@
       "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
          "./matter/epigraph.html",
         "main-toc",
         "./matter/foreword.html",
@@ -61,8 +61,8 @@
       "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [
@@ -83,8 +83,8 @@
       "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [
@@ -106,8 +106,8 @@
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [
@@ -130,8 +130,8 @@
       "cover_image": "hardcover_cover_6inx9in_vol5.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [

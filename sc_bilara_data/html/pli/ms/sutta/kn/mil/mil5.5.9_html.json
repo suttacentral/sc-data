@@ -2,7 +2,7 @@
   "mil5.5.9:0.1": "<article id='mil5.5.9'><header><ul><li class='division'>{}</li>",
   "mil5.5.9:0.2": "<li>{}</li>",
   "mil5.5.9:0.3": "<li>{}</li></ul>",
-  "mil5.5.9:0.4": "<h1>{}</h1></header>",
+  "mil5.5.9:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "mil5.5.9:1.1": "<p>{}</p>",
   "mil5.5.9:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "mil5.5.9:2.2": "<span class='verse-line'>{}</span>",

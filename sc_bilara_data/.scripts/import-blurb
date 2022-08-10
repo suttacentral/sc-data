@@ -1,0 +1,9 @@
+#!/bin/bash
+LANG=$1
+DIV=$2
+if [ "$LANG" == "" ]; then LANG=en; fi
+if [ "$DIV" == "" ]; then DIV=grouping; fi
+BLURB=root/$LANG/blurb
+FILE=$BLURB/$DIV-blurbs_root-$LANG.json
+mkdir -p $BLURB
+json $LANG.$DIV < ../sc-data/additional-info/blurbs.json > $FILE

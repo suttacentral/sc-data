@@ -1,7 +1,7 @@
 {
   "tha-ap191:0.1": "<article id='tha-ap191'><header><ul><li class='division'>{}</li>",
   "tha-ap191:0.2": "<li>{}</li></ul>",
-  "tha-ap191:0.3": "<h1>{}</h1></header>",
+  "tha-ap191:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "tha-ap191:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "tha-ap191:1.2": "<span class='verse-line'>{}</span>",
   "tha-ap191:1.3": "<span class='verse-line'>{}</span>",

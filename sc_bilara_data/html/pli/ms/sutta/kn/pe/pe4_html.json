@@ -1,6 +1,6 @@
 {
   "pe4:0.1": "<article id='pe4'><header><ul><li class='division'>{}</li></ul>",
-  "pe4:0.2": "<h1>{}</h1></header>",
+  "pe4:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "pe4:1.1": "<p>{}</p>",
   "pe4:2.1": "<p>{}",
   "pe4:2.2": "{}</p>",

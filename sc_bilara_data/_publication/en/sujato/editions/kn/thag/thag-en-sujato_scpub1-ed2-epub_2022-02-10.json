@@ -31,8 +31,6 @@
       "cover_background_image": "orange5.png",
       "cover_image": "epub_cover.png",
       "frontmatter": [
-        "titlepage",
-        "imprint",
         "halftitlepage",
          "./matter/epigraph.html",
         "main-toc",
@@ -45,7 +43,8 @@
         "thag"
       ],
       "backmatter": [
-        "colophon"
+        "colophon",
+        "imprint"
       ]
     }
   ]

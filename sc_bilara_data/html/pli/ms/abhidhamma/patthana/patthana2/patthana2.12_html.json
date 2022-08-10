@@ -1,7 +1,7 @@
 {
   "patthana2.12:0.1": "<article id='patthana2.12'><header><ul><li class='division'>{}</li>",
   "patthana2.12:0.2": "<li class='subdivision'>{}</li></ul>",
-  "patthana2.12:0.3": "<h1>{}</h1></header>",
+  "patthana2.12:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "patthana2.12:1.0.1": "<h5>{}</h5>",
   "patthana2.12:1.0.2": "<h6>{}</h6>",
   "patthana2.12:1.1": "<p data-counter='1'>{}</p>",

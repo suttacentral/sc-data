@@ -2,7 +2,7 @@
   "mil5.2.1:0.1": "<article id='mil5.2.1'><header><ul><li class='division'>{}</li>",
   "mil5.2.1:0.2": "<li>{}</li>",
   "mil5.2.1:0.3": "<li>{}</li></ul>",
-  "mil5.2.1:0.4": "<h1>{}</h1></header>",
+  "mil5.2.1:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "mil5.2.1:1.1": "<p>{}",
   "mil5.2.1:1.2": "{}",
   "mil5.2.1:1.3": "{}",

@@ -31,8 +31,6 @@
       "cover_background_image": null,
       "cover_image": null,
       "frontmatter": [
-        "titlepage",
-        "imprint",
         "halftitlepage",
          "./matter/epigraph.html",
         "main-toc",
@@ -46,7 +44,8 @@
       ],
       "backmatter": [
         "endnotes",
-        "colophon"
+        "colophon",
+        "imprint"
       ]
     }
   ]

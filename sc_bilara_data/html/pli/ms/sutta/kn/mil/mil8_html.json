@@ -1,6 +1,6 @@
 {
   "mil8:0.1": "<article id='mil8'><header><ul><li class='division'>{}</li></ul>",
-  "mil8:0.2": "<h1>{}</h1></header>",
+  "mil8:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "mil8:1.1": "<p>{}</p>",
   "mil8:2.1": "<p>{}</p>",
   "mil8:3.1": "<p>{}",

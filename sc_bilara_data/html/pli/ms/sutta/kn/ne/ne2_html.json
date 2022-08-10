@@ -1,6 +1,6 @@
 {
   "ne2:0.1": "<article id='ne2'><header><ul><li class='division'>{}</li></ul>",
-  "ne2:0.2": "<h1>{}</h1></header>",
+  "ne2:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "ne2:1.1": "<p>{}",
   "ne2:1.2": "{}</p>",
   "ne2:2.1": "<p>{}</p>",

@@ -2,7 +2,7 @@
   "vv70:0.1": "<article id='vv70'><header><ul><li class='division'>{}</li>",
   "vv70:0.2": "<li>{}</li>",
   "vv70:0.3": "<li>{}</li></ul>",
-  "vv70:0.4": "<h1>{}</h1></header>",
+  "vv70:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "vv70:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "vv70:1.2": "<span class='verse-line'>{}</span>",
   "vv70:1.3": "<span class='verse-line'>{}</span>",

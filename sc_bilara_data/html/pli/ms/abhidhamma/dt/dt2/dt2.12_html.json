@@ -1,7 +1,7 @@
 {
   "dt2.12:0.1": "<article id='dt2.12'><header><ul><li class='division'>{}</li>",
   "dt2.12:0.2": "<li>{}</li></ul>",
-  "dt2.12:0.3": "<h1>{}</h1></header>",
+  "dt2.12:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "dt2.12:1.1": "<p>{}",
   "dt2.12:1.2": "{}",
   "dt2.12:1.3": "{}",

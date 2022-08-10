@@ -1,0 +1,77 @@
+name: Test changes on a pull request.
+
+on:
+  pull_request:
+    branches:
+      - published
+
+jobs:
+  test-changes-on-pull-request:
+    runs-on: ubuntu-20.04
+    
+    env:
+      FROM_REPO: suttacentral/bilara-data
+      FROM_REPO_BRANCH: ${{ github.event.pull_request.head.ref }}
+      TEST_REPO: suttacentral/bilara-data-integrity
+      TEST_REPO_BRANCH: master
+      PYTHON_VERSION: 3.7.5
+
+    steps:
+      - name: Checkout ${{ env.TEST_REPO }} repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ env.TEST_REPO }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          ref: ${{ env.TEST_REPO_BRANCH }}
+          path: bilara-data-integrity
+
+      - name: Checkout ${{ env.FROM_REPO }} repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ env.FROM_REPO }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          ref: ${{ env.FROM_REPO_BRANCH }}
+          fetch-depth: 0
+          path: bilara-data-integrity/bilara-data
+
+      - name: Get changed files
+        id: changed-files
+        run: echo ::set-output name=FILES::$(git diff --diff-filter=ACMR --no-commit-id --name-only -r ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- '*.json')
+        working-directory: bilara-data-integrity/bilara-data
+
+      - name: Get related files for changed files
+        if: steps.changed-files.outputs.FILES
+        id: related-changed-files
+        run: echo ::set-output name=RELATED_FILES::$(python .github/workflows/get_related_files.py -f ${{ steps.changed-files.outputs.FILES }})
+        working-directory: bilara-data-integrity/bilara-data
+
+      - name: Get deleted files
+        id: deleted-files
+        run: echo ::set-output name=DELETED::$(git diff --diff-filter=D --no-commit-id --name-only -r ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- '*.json')
+        working-directory: bilara-data-integrity/bilara-data
+
+      - name: Setup Python
+        if: steps.related-changed-files.outputs.RELATED_FILES
+        uses: actions/setup-python@v2.2.1
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install bilara-data-integrity Python dependencies
+        if: steps.related-changed-files.outputs.RELATED_FILES
+        run: pip install -r requirements.txt
+        working-directory: bilara-data-integrity
+
+      - name: Set up sutta-processor
+        if: steps.related-changed-files.outputs.RELATED_FILES
+        run: pip install .
+        working-directory: bilara-data-integrity
+
+      - name: Install bilara-data Python dependencies
+        if: steps.related-changed-files.outputs.RELATED_FILES
+        run: pip install -r requirements.txt
+        working-directory: bilara-data-integrity/bilara-data/.nilakkhana
+
+      - name: Run sutta-processor
+        if: steps.related-changed-files.outputs.RELATED_FILES
+        run: sutta-processor -e check_all_changes -c sutta_processor_config.yaml -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
+        working-directory: bilara-data-integrity
