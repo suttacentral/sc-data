@@ -3,7 +3,7 @@ name: Normalize trailing spaces
 on:
   push:
     branches:
-      - "published"
+      - published
 
 jobs:
   Normalize-trailing-spaces:
