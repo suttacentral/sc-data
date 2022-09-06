@@ -10,6 +10,7 @@ Some of these files are deprecated and should not be used for future development
 The current files are as follows.
 
 - `tree` files give the tree structure of the whole navigation. 
+- `nav_only_tree`: defines texts for which there is no text, only navigation.
 - `super-` files give the "superstructure", i.e. the higher-level structure as far as the individual text or division.
 - `text_extra_info` gives supplementary information about texts.
 - `super_extra_info` is the same, but for the `super-` files.
