@@ -1,7 +1,6 @@
 {
-  "an2.11:0.1": "<section class='range' id='an2.11-20'><header><ul><li class='division'>{}</li>",
-  "an2.11:0.2": "<li>{}</li></ul>",
-  "an2.11:0.3": "<h1 class='range-title'>{}</h1></header>",
+  "an2.11:0.1": "<section class='range' id='an2.11-20'><header><ul><li class='division'>{}</li></ul>",
+  "an2.11:0.2": "<h1 class='range-title'>{}</h1></header>",
   "an2.11:1.0": "<article id='an2.11'><h2 class='sutta-title'>{}</h2>",
   "an2.11:1.1": "<p>{}",
   "an2.11:1.2": "{}",
