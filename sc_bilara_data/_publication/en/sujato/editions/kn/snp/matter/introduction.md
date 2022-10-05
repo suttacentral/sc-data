@@ -764,50 +764,62 @@ That the number sixteen is significant is supported by the fact that the suttas 
 
 I would even go beyond this and ask whether *all* the chapters of the Suttanipāta might have had the numerical pattrern of expanding fours as their organizing principle. None have the standard ten suttas per vagga. The first and third chapters have twelve suttas. The Aṭṭhakavagga has sixteen suttas, and so does the Pārāyanavagga, if we leave aside the obviously late opening and closing passages. This leaves only the second chapter outside the pattern, with fourteen suttas. It doesn’t seem unlikely that this rather motley chapter has been expanded a little. I don’t want to push this argument too far, as it is only a general idea admitting of many exceptions. Still, I do believe that an awareness of numerical patterns is a useful addition to the toolset of text analysis.
 
-The Aṭṭhakavagga, and to a lesser extent the Pārāyanavagga, employs a number of specialized Pali terms delaing with theories or views. These are not completely different than their normal senses throughout the canon, yet they are quite specific in this context, and easily trip up the student. This is not a complete list of terms and ideas commonly found in the Aṭṭhakavagga, only those whose characteristic usage here is unusual.
+***
 
-- *(no) upeti*, *(an)upaya*: (does not) get involved (4.3:1.1, 4.3:8.1, 4.9:12.4, 4.13:3.3, 4.13:17.1, 4.13:3.2)
+The Aṭṭhakavagga, and to a lesser extent the Pārāyanavagga, employs a number of specialized Pali terms dealing with theories or views. These are not completely different than their normal senses throughout the canon, yet they are quite specific in this context, and easily trip up the student. Here I list these characteristic terms. 
+
+- *(no) upeti*, *(an)upaya*: (does not) get involved (4.3:1.1, 4.3:1.3, 4.3:8.1, 4.9:12.4, 4.13:3.3, 4.13:17.1, 4.13:3.2)
 - *chanda*: preference, favored opinion (4.3:2.2, 4.13:19.2)
-- *kusalā*: (those who claim to be) experts (4.12:1.2, 4.12:2.2, 4.12:2.4, 4.13:4.4, 4.13:9.4, 4.13:15.4)
-- *ñāṇa*, *jānati*: notion; unjustified knowledge (4.3:2.4, 4.4:1.3, 4.4:2.2, 4.5:4.2, 4.5:5.2, 4.12:1.3, 4.13:14.1, 4.13:17.2)
-- *(pa)kappa*, *(pa)kappeti*: formulation, a view created by imagination and speculation (4.3:5.1, 4.4:6.4, 4.4:7.1, 4.5:4.1, 4.5:7.2, 4.5:7.4, 4.5:8.1, 4.9:4.1, 4.13:16.2, 4.10:13.4, 4.12:9.3, 4.13:16.2, 4.13:17.1, 4.13:20.4)
-- *vikappeti*: to judge, in the sense of think critically of someone or to justify oneself (4.4:6.4, 4.5:7.4, 4.13:4.4)
-- *purekkharoti*: promote (one’s views); often paired with *pakappeti*, “to make things up and promote them”. Those whose views are insecurely grounded feel the need to push them on others. (4.4:7.1, 4.5:8.1, 4.10:2.5, 4.13:16.2) purakkh
-- *pacceti*: to believe (4.4:1.4, 4.5:5.4, 4.5:8.4, 4.13:14.2)
-- *(sam)(ug)gahīta*: adopted; specifically, a view or belief that has been adopted (4.3:6.2, 4.4:8.2, 4.4:8.4; 4.5:2.3, 4.5:6.4, 4.8:9.1, 4.9:3.3, 4.9:3.4; 4.9:4.3, 4.9:5.6, 4.9:7.3, 4.9:11.2, 4.9:13.3, 4.13:13.2; also see 2.12:11.1)
+- *kusala*: (one who claims to be) an expert (4.11:15.4, 4.12:1.2, 4.12:2.2, 4.12:2.4, 4.12:4.2, 4.12:8.2, 4.12:11.3, 4.13:4.4, 4.13:9.4, 4.13:15.4)
+- *ñāṇa*, *jānati*: notion; unjustified knowledge (4.3:2.4, 4.4:1.3, 4.4:1.4, 4.4:2.2, 4.5:4.2, 4.5:5.2, 4.9:5.1, 4.9:5.4, 4.9:6.1, 4.9:6.4, 4.12:1.3, 4.13:14.1, 4.13:17.2)
+- *(pa)kappa*, *(pa)kappeti*: formulation, a view created by imagination and speculation (4.3:5.1, 4.3:7.2, 4.4:6.4, 4.4:7.1, 4.5:4.1, 4.5:7.2, 4.5:7.4, 4.5:8.1, 4.9:4.1, 4.10:13.4, 4.12:9.3, 4.13:8.2, 4.13:16.2, 4.13:17.1, 4.13:20.4, 4.15:11.3)
+- *vikappeti*: to judge, in the sense of think critically of someone or to justify oneself (4.4:6.4, 4.5:7.4, 4.13:4.4, 4.14:4.4)
+- *purakkhata*, *purekkharoti*: promote (one’s views); often paired with *pakappeti*, “to make things up and promote them”. Those whose views are insecurely grounded feel the need to push them on others (in a positive sense “prioritize wisdom” at 4.16:15.1). (4.3:5.2, 4.4:7.1, 4.5:8.1, 4.9:10.3, 4.10:2.5, 4.10:12.3, 4.13:16.2).
+- *pacceti*: to believe (4.4:1.4, 4.5:5.4, 4.5:8.4, 4.9:6.7, 4.13:14.2)
+- *(sam)(ug)gahīta*: adopted; specifically, a view or belief that has been adopted (4.3:6.2, 4.4:8.2, 4.4:8.4; 4.5:2.3, 4.5:6.4, 4.8:9.1, 4.8:10.4, 4.9:3.3, 4.9:3.4; 4.9:4.3, 4.9:5.6, 4.9:7.3, 4.9:11.2, 4.9:13.3, 4.13:13.2, 4.13:17.4; also see 2.12:11.1)
 - *(vi)nicchaya*: judgment; weighing one view against another (4.3:6.2, 4.5:6.4, 4.9:3.3, 4.9:4.1, 4.11:5.2, 4.11:6.4, 4.12:10.3, 4.12:17.1, 4.12:17.3, 4.13:13.2)
 - *nivesa*, *niviṭṭha*: dogma; a view that is held over-strongly (4.3:6.1, 4.5:6.3, 4.8:1.4, 4.9:12.4, 4.12:15.3, 4.13:16.1, 4.13:19.2)
-- *samatta*: embraced, taken up (a belief or practice); see *atta* below (4.12:4.4)
-- *(diṭṭhi)paribbasāna*: maintaining (a view); continuing to dwell on one’s own view as the best (4.5:1.1, 4.12:1.1, 4.13:1.1)
+- *samatta*, *samādāya*: embraced, taken up (a belief or practice); see *atta* below (snp4.3:2.3, 4.4:5.1, 4.12:4.4, 4.12:12.1, 4.12:12.4, 4.13:4.2, 4.16:8.1)
+- *(diṭṭhi)paribbasāna*: maintaining (a view); continuing to dwell on one’s own view as the best (4.5:1.1, 4.12:1.1, 4.12:3.4, 4.13:1.1)
 
-In addition, there are a couple of characteristic idioms that deserve discussion. Perhaps the most striking phrases in the Aṭṭhakavagga are those where the enlightened sage is described as niether taking up nor setting down. This appears, and is intended to appear, as a paradox. Normally, of course, we would expect that such a person would be beyond grasping, not that they would be beyond non-grasping. The key is to recognize that in all cases, this refers to the ongoing process of grasping and letting go. The enlightened sage has already let go of everything and no longer needs to let go of anything.
+***
 
-This must be handled carefully in translation, because the Pali phrases sometimes use a past participle, which if rendered with grammatical literalness, implies a process that happened in the past: a sage *has never* grasped anything or let anything go. It is apparent, however, that this cannot be the case. What could it even mean to say that someone *has never* grasped anything or let anything go? 
+In addition, there are a couple of characteristic idioms that deserve discussion. Perhaps the most striking phrases in the Aṭṭhakavagga are those where the enlightened sage is described as neither taking up nor setting down. This appears, and is intended to appear, as a paradox. Normally, of course, we would expect that such a person would be beyond grasping, not that they would be beyond non-grasping. What it points to, though, is that the sage is no longer engaged in the process of grasping and letting go. It is because the enlightened sage has already let go of everything that they no longer need to let go of anything.
+
+This must be handled carefully in translation, because the Pali phrases sometimes use a past participle, which if rendered with grammatical literalness, implies a process that happened in the past: a sage *has never* grasped anything or let anything go. Obviously this cannot be the case: what could it even mean to say that someone *has never* grasped anything or let anything go? 
 
 The word used most commonly in this way is *atta*. This is a past participle from the verb *ādiyati* (“to take up”) and is not the more common word *attā* (“self”). Rather confusingly, the Niddesa and commentary accept both explanations, which, while not linguistically justified, serves to illustrate the sense. 
 
-If we look at a typical case, the meaning becomes clear. In [snp4.3], we are first told that a confused person is continually “rejecting” (*nirassatī*) and “taking up” (*ādiyatī*) different teachings ([snp4.3:6.4]). Here the present active tense is used. Then, at the end of the sutta, the enlightened sage is said to have shaken off all views, and hence is no longer engaged in picking up and putting down ([snp4.3:8.3]: *attā nirattā na hi tassa atthi*). The use of the past participle emphasizes that the whole process is behind them. The commentary glosses the past participles here with present participles (*gahaṇaṁ muñcanaṁ*), confirming that this sense is intended. The Niddesa offers a slightly different interpretation, glossing *atta* with another past participle (*gahita*) and *niratta* with a future passive participle (*muñcitabba*), thus yielding the sense, “there is nothing they have grasped, or that they need to let go”. 
+If we look at a typical case, the meaning becomes clear. In the Duṭṭhaṭṭhakasutta we are first told that a confused person is continually “rejecting” (*nirassatī*) and “taking up” (*ādiyatī*) different teachings ([snp4.3:6.4]). Here the present active tense is used. Then, at the end of the sutta, the enlightened sage is said to have shaken off all views, and hence is no longer engaged in picking up and putting down ([snp4.3:8.3]: *attā nirattā na hi tassa atthi*). The use of the past participle emphasizes that the whole process is behind them. The commentary glosses the past participles here with present participles (*gahaṇaṁ muñcanaṁ*), confirming that this sense is intended. The Niddesa offers a slightly different interpretation, glossing *atta* with another past participle (*gahita*) and *niratta* with a future passive participle (*muñcitabba*), thus yielding the sense, “there is nothing they have grasped or that they need to let go”. Thus the traditional commentaries agree, and the contextual usage supports, that while the linguistic phrasing appears paradoxical, the sense is not. The Buddha uses paradoxes to stimulate interest and inquiry, not to confuse a simple matter.
 
-The same idea is elsewhere expressed using various terms and grammatical tenses. We have already seen the contrast between present active tense and past participle in [snp4.3]. In [snp4.4] we find further examples. The unsullied one is said to be “letting go without creating anything new here” (*attañjaho nayidha pakubbamāno*, [snp4.4:3.4]), expressed with present participles. On the other hand, the unenlightened “grab on and let go (like a monkey)” (*uggahāyanti nirassajanti*, [snp4.4:4.3]), using present active tense. Again, the enlightened one is “neither in love with passion nor besotted by dispassion” (*na rāgarāgī na virāgaratto*, [snp4.4:8.3]), here using personal nouns to express the same idea. The same terms are also used in present active sense,  (*na hi so rajjati no virajjati*, [snp4.6:10.4]) As another example, consider [snp4.5:5.1], where we find *attaṁ pahāya anupādiyāno* “having let go what was picked up, one does not grasp”. [snp4.10] returns to the past participle forms when it says a sage has nothing “picked up or put down” (*attā vāpi nirattā vā*). The Tuvaṭakasutta has a similar phrasing (_natthi attā kuto nirattā vā_, [snp4.14:5.4])The Purābhedasutta has a further variation, leaning on an unusual sense of *saddhā*, “neither hungering nor growing dispassionate” (*na saddho na virajjati*, [snp4.10:6.4]). Of a similar sense is the final line of the Mahābyūhasutta, “not formulating, not abstaining, not longing” (_na kappiyo nūparato na patthiyo_, [snp4.13:20.4]).
+The same idea is elsewhere expressed using various terms and grammatical tenses. We have already seen the contrast between present active tense and past participle in the Duṭṭhaṭṭhakasutta. In the Suddhaṭṭhakasutta we find further examples. The unsullied one is said to be “letting go without creating anything new here” (*attañjaho nayidha pakubbamāno*, [snp4.4:3.4]), expressed with present participles. On the other hand, the unenlightened “grab on and let go (like a monkey)” (*uggahāyanti nirassajanti*, [snp4.4:4.3]), using present active tense. The same grammatical form is employed in the Attadaṇḍasutta, “they neither take nor reject” (*nādeti na nirassatī*, [snp4.15:20.4]). Again, the enlightened one is “neither in love with passion nor besotted by dispassion” (*na rāgarāgī na virāgaratto*, [snp4.4:8.3]), here using personal nouns to express the same idea. The same terms are also used in present active sense in the Jarāsutta,  (*na hi so rajjati no virajjati*, [snp4.6:10.4]). As another example, consider the Paramaṭṭhakasutta, where we find “having let go what was picked up, one does not grasp” (*attaṁ pahāya anupādiyāno*, [snp4.5:5.1]). The Purābhedasutta returns to the past participle forms when it says a sage has nothing “picked up or put down” (*attā vāpi nirattā vā*, [snp4.10:11.3]). The Tuvaṭakasutta has a similar phrasing (_natthi attā kuto nirattā vā_, [snp4.14:5.4]). The Purābhedasutta has a further variation, leaning on an unusual sense of *saddhā*, “neither hungering nor growing dispassionate” (*na saddho na virajjati*, [snp4.10:6.4]). Of a similar sense is the final line of the Mahābyūhasutta, “not formulating, not abstaining, not longing” (_na kappiyo nūparato na patthiyo_, [snp4.13:20.4]). 
 
-The second characteristic idiom is not so distinctive of the Aṭṭhakavagga, yet is used in a somewhat specific way. In the suttas, we commonly find mention of what is “seen, heard, thought, and cognized” (*diṭṭhaṁ sutaṁ mutaṁ viññātaṁ*). The tradition, starting with the Abhidhamma, typically treats these as a mere summary of the six senses. This is linguistically implausible, as *muta* clearly indicates what has been “thought” rather than what has been “smelt, tasted, and touched”. Following Jayatillecke’s incisive analysis, it seems that they are rather are a shorthand for the kinds of ways that philosophies and beliefs are adopted. They may come from what has been “seen” as per the Suddhaṭṭhakasutta, i.e. the sight of a holy person; “heard”, or less literally “learned”, through a teaching or the passing down of a scriptural tradition; “thought” in the case of rationalist philosophers; and “cognized” by meditations in states of immersion. This meaning is not unknown to the traditions, for the commentary to the Paramaṭṭhakasutta, for example, explains “with regard to what has been seen, heard, or thought” as “views that have arisen constructed on these bases” (*diṭṭhe sute sīlavate muteti etesu vatthūsu uppannadiṭṭhisaṅkhāte*). 
+Clearly all of these variations express a similar idea, which is not defined by a specific terminology or grammar. 
 
-These terms, which are derived from the Upaniṣads, are used throughout the suttas in this sense. In the Aṭṭhakavagga, however, they occur with two distinctive features. 
+***
 
-The last item, the “cognized” is missing. This indicates that these portions of the Aṭṭhakavagga are not concerned with meditative practitioners, but with those who have arrived at their beliefs through faith or reason. There are some possible exceptions to this, but overall the main concern of the Aṭṭhakavagga is clear.
+The second characteristic idiom is not so distinctive of the Aṭṭhakavagga, yet is used in a somewhat specific way. In the suttas, we commonly find mention of what is “seen, heard, thought, and cognized” (*diṭṭhaṁ sutaṁ mutaṁ viññātaṁ*). These are derived from the Upaniṣads. Following Jayatillecke’s incisive analysis, it seems that they are a shorthand for the kinds of ways that philosophies and beliefs are known. They may come from what has been “seen” as per the Suddhaṭṭhakasutta, i.e. the sight of a holy person; “heard”, or less literally “learned”, through a teaching or the passing down of a scriptural tradition; “thought” in the case of rationalist philosophers; and “cognized” by meditators in states of profound immersion. Note that *diṭṭha* (“what has been seen”) is not the same as *diṭṭhi* (“a view or theory”); the latter may arise from the former.
+
+The tradition, however, starting with the Abhidhamma, typically treats these as a mere summary of the six senses. This is linguistically implausible, as *muta* clearly indicates what has been “thought” rather than what has been “smelt, tasted, and touched”. Nevertheless, the older meaning is not unknown to the traditions, for the commentary to the Paramaṭṭhakasutta, for example, explains “with regard to what has been seen, heard, or thought” as “views that have arisen constructed on these bases” (*diṭṭhe sute sīlavate muteti etesu vatthūsu uppannadiṭṭhisaṅkhāte*). 
+
+These terms are used throughout the suttas in this sense. In the Aṭṭhakavagga, however, they occur with two distinctive features. 
+
+The last item, the “cognized” is missing. This indicates that these portions of the Aṭṭhakavagga are not concerned with meditative practitioners, but with those who have arrived at their beliefs through faith or reason. There are some possible exceptions to this, but overall the main concern of the Aṭṭhakavagga is clear. In this respect, the Pārāyanavagga differs. As it is a conversation with meditators, the *viññāta* is there as normal.
 
 The commentary, however, explains *ñāṇa* as insight that has arisen due to meditative attainment (*samāpattiñāṇā*). While this is true elsewhere, and is not impossible here, generally the Aṭṭhakavagga is clearly speaking of *ñāṇa* that has arisen from speculation ([snp4.3:2.4], [snp4.5:4.1]), or from seeing a pure person ([snp4.4:1.3]).
 
 This is one of the reasons why the “views” spoken of are inadequate. They are based on flawed means of knowing. Of course, meditation itself has its own pitfalls, which are discussed at length in [dn1] and elsewhere. 
 
-The second distinctive feature is that these terms are often combined with “precepts” (*sīla*) and/or vows (*vata*). For example, a perfected one would not speak in terms of “what has been seen, heard, thought, or precepts and vows” (*diṭṭhe sute sīlavate mute vā*, [snp4.4:3.2]). Such combinations would make little sense if the seen and heard were referring simply to sense experience. Rather, these are all examples of ways of coming to know philosophical or spitiual truths. Precepts and vows are adopted as behaviors that support the realization of the truth. This interpretation is by no means 
+The second distinctive feature is that these terms are often combined with “precepts” (*sīla*) and/or vows (*vata*). For example, a perfected one would not speak in terms of “what has been seen, heard, thought, or precepts and vows” (*diṭṭhe sute sīlavate mute vā*, [snp4.4:3.2]). Such combinations would make little sense if the seen and heard were referring simply to sense experience. Rather, these are all examples of ways of coming to know philosophical or spitiual truths. Precepts and vows are adopted as behaviors that support the realization of the truth. 
 
-In this respect, the Pārāyanavagga differs. As it is a conversation with meditators, the *viññāta* is there as normal.
+
 
 - 4.2:7.4 seen heard
 - 4.4:3.2 Diṭṭhe sute sīlavate mute
 - 4.4:6.2 diṭṭhaṁ va sutaṁ mutaṁ
-- 4.5:6.3 diṭṭhe va sute mute vā
+- 4.5:2.2: Diṭṭhe sute sīlavate mute vā
+- 4.5:3.3: diṭṭhaṁ va sutaṁ mutaṁ vā
+- 4.5:7.1: Tassīdha diṭṭhe va sute mute vā
 - 4.6:9.4 diṭṭhasutaṁ mutesu vā
 - 4.6:10.2 diṭṭhasutaṁ mutesu vā
 - 4.9:5.1 Na diṭṭhiyā na sutiyā na ñāṇena
@@ -815,6 +827,7 @@ In this respect, the Pārāyanavagga differs. As it is a conversation with medit
 - 4.13:3.4: Diṭṭhe sute khantimakubbamāno
 - 4.13:7.2 diṭṭhaṁ va sutaṁ mutaṁ vā
 - 4.13:20.2 diṭṭhaṁ va sutaṁ mutaṁ vā
+- 4.16:1.1, 1.2
 
 One final characteristic deserves a mention. In keeping with its direct, unsentimental tenor, the Aṭṭhakavagga, and to a lesser extent the Pārāyanavagga, insist that no person can purify another. These texts have an unrelenting insistence on the necessity for self-reliance.
 
@@ -1093,7 +1106,7 @@ The ending of the third verse and beginning of the fourth pose a challenge for t
 
 The root sense is “lay to rest”. Originally it probably meant the place that one laid down one’s burdens at the end of the day (cf. _khema_). From there we see two main applications, to “end” (cf. _pariyosāna_), or to “reside”. The fact that it follows right after the mention of finding “home” in the “world” in an unafflicted “quarter” shows that the sense “reside” applies.
 
-As it happens, English also has a word that means both “residence” and “ending”, and which likewise originates in the idea of establishing a safe place to rest at the end of a journey: settlement. 
+As it happens, English also has a word that means both “residence” and “ending”, and which likewise originates in the idea of establishing a safe place to rest at the end of a journey: settlement. <a epub:type="noteref" href="#note-186" id="noteref-186" role="doc-noteref">186</a>
 
 The Niddesa, followed by the commentary, explains these lines in a metaphorical sense. For  _anosita_ it has, “Youth is settled by old age, health is settled by illness” and so on; and for _osāna_, “Old age settles all youth, illness settles all health …". This is in the tradition of the Hāliddikānisutta ([sn22.3]), which as we have seen, explains a verse about “leaving shelter” in terms of the five aggregates. While this is a valid pedagogical approach, it doesn’t help us understand the basic meaning. What we can say, though, is that Niddesa connects _anosita_ with _osāna_.
 
@@ -1101,9 +1114,35 @@ A final subtlety in the translation is the particle _tveva_, which here has a co
 
 >Wanting a home for myself,
 I saw nowhere unsettled.
-But even in their settlement they fight
+Yet even in their settlement they fight
 
-Here the existential plight comes into sharper focus. All that people want, it would seem, is a safe place to make their life. Land, water, food, family. Yet somehow, it is never enough: even when they have such a place, they still end up fighting. 
+Here the existential plight comes into sharper focus. All that people want, it would seem, is a safe place to make their life. Land, water, food, family. Yet somehow, it is never enough: even when they have such a place, they still end up fighting. And this is why the situation appears so hopeless: even victory and achieving all you wanat merely sows the seeds for future conflict.
+
+Thus it is here that the young Siddhattha’s quest turned inwards. Surely there must be something in humanity that causes us to always seek out violence? And he saw it, that “dart”, an arrow nestling deep in the heart. The pain and anguish of this is the ultimate reason we can never be truly satisfied, never find our place of rest. 
+
+The text does not identify the dart, but it is commonly used throughout the suttas as a metaphor for suffering and its various causes. The Niddesa explains it as the “seven darts”, and while this is not a standard category, most or all of these are in fact called darts elsewhere in the suttas: greed, hate, delusion, conceit, views, sorrow, and doubt. 
+
+The fact that it is unexplained, however, suggests that here, the exact metaphorical target of “dart” is less important than the metaphor itself. It is a military image. It tells us that those who inflict violence are already wounded. The carry their injury with them before they even go into battle; it is the reason they fight. And it is why, long after they have returned home and the scars of war have healed, they still carry that pain within them. And it lies there, festering, passed on from generation to generation, waiting for the next war.
+
+For many, the realization that the spur to violence lies within us all is a depressing realization on the inherent nature of humanity. But not for the young Siddhattha. If it lies within us, it can be extracted. 
+
+One struck by the dart is said to “run around”, and once again the metaphor is left implicit. But it evokes our never-ending search for solutions in the world, be they through violence, or through war's handmaid, indlugence. Plucking it out stops the running around and the opposite, “sinking down”. Throughout the suttas, “sinking down” is used as a metaphor for laziness and apathy. Here it would evokes the depression and hopeless that can easily come upon one who contemplates humanity’s propensity for endless cycles of violence.
+
+Having depicted his youthful existential crisis in lines of uncommon brevity and precision, the Buddha now goes on to speak of the training that leads to plucking out the dart. Here we return to the themes of non-attachment, contentment, moral integrity, and effort to which the trainee aspires, and which the prefected sage embodies.
+
+### With Sāriputta
+
+The chapter is wrapped up with the Sāriputtasutta, where the Buddha’s chief disciple questions the Buddha  on the path of the renunciant. Here Sāriputta shows his characteristic grace and devotion, as well as his magnininamity of spirit, as he questions on behalf of the people assembled there. 
+
+He opens by saying he has not previously “seen” or “heard” of a Teacher like the Buddha. We have learned from the rest of the Aṭṭhakavagga that these refer to the ways of knowing: to behold the sight of a holy one, or to encounter a teaching or oral tradition. Sāriputta, let us remember, was formerly a follower of Sañjaya Belaṭṭhiputta, so he would have been familiar with the various “groups” or communities and their leaders before meeting the Buddha. It almost sounds as if this is Sāriputta’s first meeting with the Buddha, but perhaps this is just a rhetorical flourish.
+
+The final line of the verse mentions that the Buddha has arrived from Tusita heaven, dropping the reference casually as if assuming everyone would understand the reference. This is presumably because the canonical texts say on multiple occasions that the bodhisatta had arrived in this life from Tusita heaven ([an4.127:1.3], [an8.70:16.1], [mn123:6.3], [dn14:1.17.1]). This is a good example of how the Aṭṭhakavagga relies on the prose suttas. 
+
+The Niddesa and the Pali commentary agree that this refers to the Buddha’s birth. Yet at the same time, the commentary as well as the Arthapada set the discourse following the Buddha’s descent from the heaven of the Thirty-Three (Tāvatiṁsa) after teaching the Dhamma to his mother there. Since this event is not found in early texts, and since it is the wrong heaven, it cannot be what Sāriputta was referring to. To add to the confusion, the Pali texts say the Buddha’s mother was reborn in Tusita, not the Tāvatiṁsa; on this point various northern texts differ. 
+
+This story evidently originated in the northern regions, probably among the Mūlasarvāstivādins of Mathura, as a folk tale about filial piety and the power of maternal love. Its roots appear to lie in a story about the voracious *yakkhinī* Hārītī, whose disturbing habit of eating children was ended by the Buddha when he showed her how much she loved her own children. The commentary to the Abhidhamma adapted this famous tale to serve as an origin story for the Abhidhamma, probably to compete with the similarly divine origin legend of the contemporary Mahāyāna sutras. Evidently the Theravāda tradition has become confused as they tried to graft the incident of teaching the Abhidhamma on to the early suttas. It is worth noting that the Suttanipāta commentary does not mention the Abhidhamma in this context. It’s not clear whether this is because it is earlier than the telling in the Abhidhamma commentary, or whether it is just an abbreviated retelling.
+
+
 
 ## The Way to the Beyond
 
@@ -1129,3 +1168,4 @@ This agreement of multiple independent indications makes it certain that the int
 ## A Brief Translation History
 
 You may come across a translation of the Aṭṭhakavagga by a certain ex-monk called Paññobhāsa, but I would no recommend it. He is an anti-semite and a Nazi sympathizer. The Aṭṭhakavagga speaks eloquently of the harm that comes from attachment to hateful views, but it would seem that merely translating it is not enough to innoculate oneself against falling into the same trap.
+
