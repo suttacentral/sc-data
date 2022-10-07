@@ -2870,5 +2870,39 @@
         "edition_url": "ttps://suttacentral.net/sn"
       }
     ]
+  },
+  "scpub76": {
+    "publication_number": "scpub76",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/davis/sutta/sn",
+    "author_uid": "davis",
+    "author_name": "Andrew Davis",
+    "author_github_handle": "abd3",
+    "text_uid": "sn",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "ttps://suttacentral.net/sn"
+      }
+    ]
   }
 }
