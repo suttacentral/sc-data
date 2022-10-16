@@ -19,22 +19,22 @@
     "reference": "reference",
     "markup": "html"
   },
-  "number_of_volumes": 1,
+  "number_of_volumes": 3,
   "volumes": [
     {
-      "volume_number": null,
-      "volume_isbn": null,
-      "volume_acronym": "DN",
-      "volume_translation_title": null,
-      "volume_root_title": null,
+      "volume_number": "vol1",
+      "volume_isbn": "978-1-76132-097-2",
+      "volume_acronym": "DN 1–13",
+      "volume_translation_title": "The Chapter on the Entire Spectrum of Ethics",
+      "volume_root_title": "Sīlakkhandhavagga",
       "volume_blurb": null,
       "cover_background_image": "blue1.png",
-       "cover_image": "hardcover_cover_6inx9in.pdf",
+      "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
-         "./matter/epigraph.html",
+        "imprint",
+        "./matter/epigraph.html",
         "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",
@@ -44,7 +44,53 @@
         "blurbs"
       ],
       "mainmatter": [
-        "dn"
+        "dn-silakkhandhavagga"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol2",
+      "volume_isbn": "978-1-76132-098-9",
+      "volume_acronym": "DN 14–23",
+      "volume_translation_title": "The Great Chapter",
+      "volume_root_title": "Mahāvagga",
+      "volume_blurb": null,
+      "cover_background_image": "blue2.png",
+      "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+        "main-toc",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "dn-mahavagga"
+      ],
+      "backmatter": [
+        "colophon"
+      ]
+    },
+    {
+      "volume_number": "vol3",
+      "volume_isbn": "978-1-76132-099-6",
+      "volume_acronym": "DN 24–34",
+      "volume_translation_title": "The Chapter with Pāṭikaputta",
+      "volume_root_title": "Pāthikavagga",
+      "volume_blurb": null,
+      "cover_background_image": "blue3.png",
+      "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
+      "frontmatter": [
+        "titlepage",
+        "halftitlepage",
+        "imprint",
+        "main-toc",
+        "blurbs"
+      ],
+      "mainmatter": [
+        "dn-pathikavagga"
       ],
       "backmatter": [
         "colophon"

@@ -29,8 +29,8 @@
       "cover_image": false,
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",

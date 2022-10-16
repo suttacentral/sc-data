@@ -27,13 +27,13 @@
       "volume_acronym": "Bu Vb",
       "volume_translation_title": "Analysis of Rules for Monks (1)",
       "volume_root_title": "Bhikkhu Vibhaṅga",
-      "volume_blurb": "This volume includes the first three categories of rules for monks. <i lang='pi'>Pārājika</i> entails immediate and permanent expulsion from the saṅgha; <i lang='pi'>Saṅghādisesa</i> entails a period of suspension after consideration by the Saṅgha; and <i lang='pi'>Aniyata</i> is a procedure requiring consideration of an accusation by a laywoman against a monk.",
+      "volume_blurb": "This volume includes the first three categories of rules for monks. <i lang='pli'>Pārājika</i> entails immediate and permanent expulsion from the saṅgha; <i lang='pli'>Saṅghādisesa</i> entails a period of suspension after consideration by the Saṅgha; and <i lang='pli'>Aniyata</i> is a procedure requiring consideration of an accusation by a laywoman against a monk.",
       "cover_background_image": "green1.png",
       "cover_image": "hardcover_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",
@@ -56,13 +56,13 @@
       "volume_acronym": "Bu Vb",
       "volume_translation_title": "Analysis of Rules for Monks (2)",
       "volume_root_title": "Bhikkhu Vibhaṅga",
-      "volume_blurb": "The minor rules for monks. <i lang='pi'>Nissaggiya pācittiya</i> entails confession with forfeiture; <i lang='pi'>pācittya</i> a simple confession; <i lang='pi'>pāṭidesanīya</i> are a special set of rules also requiring confession; <i lang='pi'>sekhiya</i> are guidelines for good manners and conduct; and <i lang='pi'>adhikaraṇasamatha</i> are seven procedures for settling disputes.",
+      "volume_blurb": "The minor rules for monks. <i lang='pli'>Nissaggiya pācittiya</i> entails confession with forfeiture; <i lang='pli'>pācittya</i> a simple confession; <i lang='pli'>pāṭidesanīya</i> are a special set of rules also requiring confession; <i lang='pli'>sekhiya</i> are guidelines for good manners and conduct; and <i lang='pli'>adhikaraṇasamatha</i> are seven procedures for settling disputes.",
       "cover_background_image": "green2.png",
       "cover_image": "hardcover_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [
@@ -88,8 +88,8 @@
       "cover_image": "hardcover_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [
@@ -103,16 +103,16 @@
     {
       "volume_number": "vol4",
       "volume_isbn": "978-1-76132-010-1",
-      "volume_acronym": "Mv",
-      "volume_translation_title": "Great Division",
+      "volume_acronym": "Kd 1–10",
+      "volume_translation_title": "The Great Division",
       "volume_root_title": "Mahāvagga",
-      "volume_blurb": "The first ten of the 22 <i lang='pi'>khandhakas</i> make up the “Great Division” in the Pali Vinaya.",
+      "volume_blurb": "The first ten of the 22 <i lang='pli'>khandhakas</i> make up the “Great Division” in the Pali Vinaya.",
       "cover_background_image": "green4.png",
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [
@@ -135,16 +135,16 @@
     {
       "volume_number": "vol5",
       "volume_isbn": "978-1-76132-011-8",
-      "volume_acronym": "Cv",
-      "volume_translation_title": "Lesser Division",
+      "volume_acronym": "Kd 11–22",
+      "volume_translation_title": "The Lesser Division",
       "volume_root_title": "Cūḷavagga",
-      "volume_blurb": "Sections eleven through twenty-two of the <i lang='pi'>khandhakas</i> make up the “Lesser Division” of the Pali Vinaya.",
+      "volume_blurb": "Sections eleven through twenty-two of the <i lang='pli'>khandhakas</i> make up the “Lesser Division” of the Pali Vinaya.",
       "cover_background_image": "green5.png",
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [
@@ -177,8 +177,8 @@
       "cover_image": "hardcover_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc"
       ],
       "mainmatter": [

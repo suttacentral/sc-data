@@ -1,6 +1,6 @@
 {
   "ne3:0.1": "<article id='ne3'><header><ul><li class='division'>{}</li></ul>",
-  "ne3:0.2": "<h1>{}</h1></header>",
+  "ne3:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "ne3:1.1": "<p>{}</p>",
   "ne3:2.0": "<h3>{}</h3>",
   "ne3:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",

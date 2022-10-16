@@ -28,5 +28,10 @@
     "type": "edition",
     "is_root": true,
     "language": "lzh"
+  },
+  "sf": {
+      "type": "edition",
+      "is_root": true,
+      "language": "san"
   }
 }

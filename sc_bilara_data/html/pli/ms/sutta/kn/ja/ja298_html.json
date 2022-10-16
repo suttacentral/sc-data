@@ -2,7 +2,7 @@
   "ja298:0.1": "<article id='ja298'><header><ul><li class='division'>{}</li>",
   "ja298:0.2": "<li>{}</li>",
   "ja298:0.3": "<li>{}</li></ul>",
-  "ja298:0.4": "<h1>{}</h1></header>",
+  "ja298:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "ja298:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "ja298:1.2": "<span class='verse-line'>{}</span>",
   "ja298:1.3": "<span class='verse-line'>{}</span>",

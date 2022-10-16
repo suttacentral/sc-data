@@ -1,6 +1,6 @@
 {
   "vb10:0.1": "<article id='vb10'><header><ul><li class='division'>{}</li></ul>",
-  "vb10:0.2": "<h1>{}</h1></header>",
+  "vb10:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "vb10:1.0": "<h2>{}</h2>",
   "vb10:1.1": "<p>{}",
   "vb10:1.2": "{}</p>",

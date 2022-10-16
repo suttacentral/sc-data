@@ -1,7 +1,6 @@
 {
-  "an2.230-279:0.1": "<article class='range' id='an2.230-279'><header><ul><li class='division'>{}</li>",
-  "an2.230-279:0.2": "<li>{}</li></ul>",
-  "an2.230-279:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "an2.230-279:0.1": "<article class='range' id='an2.230-279'><header><ul><li class='division'>{}</li></ul>",
+  "an2.230-279:0.2": "<h1 class='range-title'>{}</h1></header>",
   "an2.230-279:1.1": "<p data-counter='1–50'>{}",
   "an2.230-279:1.2": "{}",
   "an2.230-279:1.3": "{}",

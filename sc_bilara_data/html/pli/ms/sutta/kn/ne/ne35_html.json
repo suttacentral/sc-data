@@ -2,7 +2,7 @@
   "ne35:0.1": "<article id='ne35'><header><ul><li class='division'>{}</li>",
   "ne35:0.2": "<li>{}</li>",
   "ne35:0.3": "<li>{}</li></ul>",
-  "ne35:0.4": "<h1>{}</h1></header>",
+  "ne35:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "ne35:1.1": "<p>{}</p>",
   "ne35:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "ne35:2.2": "<span class='verse-line'>{}</span>",

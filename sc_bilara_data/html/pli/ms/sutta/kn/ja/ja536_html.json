@@ -2,7 +2,7 @@
   "ja536:0.1": "<article id='ja536'><header><ul><li class='division'>{}</li>",
   "ja536:0.2": "<li>{}</li>",
   "ja536:0.3": "<li>{}</li></ul>",
-  "ja536:0.4": "<h1>{}</h1></header>",
+  "ja536:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "ja536:1.1": "<p>{}",
   "ja536:1.2": "{}</p>",
   "ja536:2.1": "<p>{}",

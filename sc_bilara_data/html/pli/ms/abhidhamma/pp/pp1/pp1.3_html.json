@@ -1,7 +1,7 @@
 {
   "pp1.3:0.1": "<article id='pp1.3'><header><ul><li class='division'>{}</li>",
   "pp1.3:0.2": "<li>{}</li></ul>",
-  "pp1.3:0.3": "<h1>{}</h1></header>",
+  "pp1.3:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "pp1.3:1.1": "<p>{}</p>",
   "pp1.3:2.1": "<p data-counter='1'>{}</p>",
   "pp1.3:3.1": "<p data-counter='2'>{}</p>",

@@ -28,8 +28,6 @@
       "cover_background_image": "blue1.png",
       "cover_image": null,
       "frontmatter": [
-        "titlepage",
-        "imprint",
         "halftitlepage",
          "./matter/epigraph.html",
         "main-toc",
@@ -44,7 +42,8 @@
         "dn"
       ],
       "backmatter": [
-        "colophon"
+        "colophon",
+        "imprint"
       ]
     }
   ]

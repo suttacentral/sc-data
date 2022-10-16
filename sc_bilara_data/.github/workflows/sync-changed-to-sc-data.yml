@@ -1,0 +1,23 @@
+name: Push changed files to sc-data repo
+
+on:
+  push:
+    branches:
+      - published
+
+jobs:
+  push-changed-files-to-sc-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: push changed files to sc-data repo
+        uses: andstor/copycat-action@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          src_branch: published
+          src_path: /.
+          dst_owner: suttacentral
+          dst_repo_name: sc-data
+          dst_path: /sc_bilara_data/
+          dst_branch: master
+          clean: true
+          commit_message: '[GHA] Update the bilara_data files.'

@@ -1,0 +1,123 @@
+name: Push changed files to sc-data
+
+on:
+  push:
+    branches:
+      - published
+
+jobs:
+  push-to-sc-data:
+    runs-on: ubuntu-20.04
+    
+    env:
+      FROM_REPO: suttacentral/bilara-data
+      FROM_REPO_BRANCH: published
+      TO_REPO: suttacentral/sc-data
+      TO_REPO_BRANCH: master
+      TO_REPO_TARGET_FOLDER: sc_bilara_data
+      TEST_REPO: suttacentral/bilara-data-integrity
+      TEST_REPO_BRANCH: master
+      PYTHON_VERSION: 3.7.5
+      STARTING_COMMIT: ${{ github.event.before }}
+
+    # steps:
+      # - name: Checkout ${{ env.TEST_REPO }} repo
+      #   uses: actions/checkout@v3
+      #   with:
+      #     repository: ${{ env.TEST_REPO }}
+      #     token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      #     ref: ${{ env.TEST_REPO_BRANCH }}
+      #     path: bilara-data-integrity
+
+      # - name: Checkout ${{ env.FROM_REPO }} repo
+      #   uses: actions/checkout@v3
+      #   with:
+      #     repository: ${{ env.FROM_REPO }}
+      #     token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      #     ref: ${{ env.FROM_REPO_BRANCH }}
+      #     fetch-depth: 0
+      #     path: bilara-data-integrity/bilara-data
+
+      # - name: Get changed files
+      #   id: changed-files
+      #   run: echo ::set-output name=FILES::$(git diff --diff-filter=ACMR --no-commit-id --name-only -r ${{ env.STARTING_COMMIT }}..${{ github.sha }} -- '*.json')
+      #   working-directory: bilara-data-integrity/bilara-data
+
+      # - name: Get related files for changed files
+      #   if: steps.changed-files.outputs.FILES
+      #   id: related-changed-files
+      #   run: echo ::set-output name=RELATED_FILES::$(python .github/workflows/get_related_files.py -f ${{ steps.changed-files.outputs.FILES }})
+      #   working-directory: bilara-data-integrity/bilara-data
+
+      # - name: Get deleted files
+      #   id: deleted-files
+      #   run: echo ::set-output name=DELETED::$(git diff --diff-filter=D --no-commit-id --name-only -r ${{ env.STARTING_COMMIT }}..${{ github.sha }} -- '*.json')
+      #   working-directory: bilara-data-integrity/bilara-data
+
+      # - name: Setup Python
+      #   if: steps.related-changed-files.outputs.RELATED_FILES
+      #   uses: actions/setup-python@v4
+      #   with:
+      #     python-version: ${{ env.PYTHON_VERSION }}
+
+      # - name: Checkout ${{ env.TO_REPO }} repo
+      #   if: steps.related-changed-files.outputs.RELATED_FILES || steps.deleted-files.outputs.DELETED
+      #   uses: actions/checkout@v3
+      #   with:
+      #     repository: ${{ env.TO_REPO }}
+      #     token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      #     ref: ${{ env.TO_REPO_BRANCH }}
+      #     path: sc-data
+
+      # - name: Install bilara-data-integrity Python dependencies
+      #   if: steps.related-changed-files.outputs.RELATED_FILES
+      #   run: pip install -r requirements.txt
+      #   working-directory: bilara-data-integrity
+
+      # - name: Set up sutta-processor
+      #   if: steps.related-changed-files.outputs.RELATED_FILES
+      #   run: pip install .
+      #   working-directory: bilara-data-integrity
+
+      # - name: Install bilara-data Python dependencies
+      #   if: steps.related-changed-files.outputs.RELATED_FILES
+      #   run: pip install -r requirements.txt
+      #   working-directory: bilara-data-integrity/bilara-data/.nilakkhana
+
+      # - name: Run Nilakkhana transform only on changed files
+      #   if: steps.related-changed-files.outputs.RELATED_FILES
+      #   run: python .nilakkhana/per_file_parse.py -f ${{ steps.related-changed-files.outputs.RELATED_FILES }}
+      #   working-directory: bilara-data-integrity/bilara-data
+
+      # - name: Copy changed files to the target directory
+      #   if: steps.related-changed-files.outputs.RELATED_FILES
+      #   run: |
+      #     for f in ${{ steps.related-changed-files.outputs.RELATED_FILES }}
+      #     do
+      #       mkdir -p $TO_REPO_TARGET_FOLDER/$(dirname $f)
+      #       cp ../bilara-data-integrity/bilara-data/$f $TO_REPO_TARGET_FOLDER/$(dirname $f)/
+      #     done
+      #   working-directory: sc-data
+
+      # - name: Remove deleted files from ${{ env.TO_REPO }}
+      #   if: steps.deleted-files.outputs.DELETED
+      #   run: |
+      #     git config user.name github-actions
+      #     git config user.email github-actions@github.com
+      #     for f in ${{ steps.deleted-files.outputs.DELETED }}
+      #     do
+      #       git rm --ignore-unmatch $TO_REPO_TARGET_FOLDER/$f
+      #     done
+      #     git commit -m "Updating sc-bilara-data from bilara-data with deleted files."
+      #     git push
+      #   working-directory: sc-data
+
+      # - name: Push changed files to ${{ env.TO_REPO }}
+      #   if: steps.related-changed-files.outputs.RELATED_FILES
+      #   run: |
+      #     git config user.name github-actions
+      #     git config user.email github-actions@github.com
+      #     git add .
+      #     git commit -m "Updating sc-bilara-data from bilara-data with new or changed files."
+      #     git push
+      #   working-directory: sc-data

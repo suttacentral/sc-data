@@ -1,7 +1,7 @@
 {
   "thi-ap9:0.1": "<article id='thi-ap9'><header><ul><li class='division'>{}</li>",
   "thi-ap9:0.2": "<li>{}</li></ul>",
-  "thi-ap9:0.3": "<h1>{}</h1></header>",
+  "thi-ap9:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "thi-ap9:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "thi-ap9:1.2": "<span class='verse-line'>{}</span>",
   "thi-ap9:1.3": "<span class='verse-line'>{}</span>",

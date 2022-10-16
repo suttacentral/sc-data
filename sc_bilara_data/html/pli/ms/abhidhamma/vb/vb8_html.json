@@ -1,6 +1,6 @@
 {
   "vb8:0.1": "<article id='vb8'><header><ul><li class='division'>{}</li></ul>",
-  "vb8:0.2": "<h1>{}</h1></header>",
+  "vb8:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "vb8:1.0": "<h2>{}</h2>",
   "vb8:1.1": "<p>{}",
   "vb8:1.2": "{}</p>",

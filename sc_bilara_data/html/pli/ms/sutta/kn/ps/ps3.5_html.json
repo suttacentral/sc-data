@@ -1,7 +1,7 @@
 {
   "ps3.5:0.1": "<article id='ps3.5'><header><ul><li class='division'>{}</li>",
   "ps3.5:0.2": "<li>{}</li></ul>",
-  "ps3.5:0.3": "<h1>{}</h1></header>",
+  "ps3.5:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "ps3.5:1.1": "<p>{}",
   "ps3.5:1.2": "{}</p>",
   "ps3.5:2.1": "<p>{}",

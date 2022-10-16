@@ -2,7 +2,7 @@
   "ne14:0.1": "<article id='ne14'><header><ul><li class='division'>{}</li>",
   "ne14:0.2": "<li>{}</li>",
   "ne14:0.3": "<li>{}</li></ul>",
-  "ne14:0.4": "<h1>{}</h1></header>",
+  "ne14:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "ne14:1.1": "<p>{}",
   "ne14:1.2": "{}</p>",
   "ne14:2.1": "<p>{}",

@@ -1,1007 +1,1007 @@
 [
   {
     "uid": "an",
-    "acro": "AN",
+    "acronym": "AN",
     "name": "Aṅguttara Nikāya"
   },
   {
     "uid": "ap",
-    "acro": "Ap",
+    "acronym": "Ap",
     "name": "Āpadāna"
   },
   {
     "uid": "arv",
-    "acro": "Arv",
+    "acronym": "Arv",
     "name": "Arthaviniścaya"
   },
   {
     "uid": "avs",
-    "acro": "Avs",
+    "acronym": "Avs",
     "name": "Avadānaśataka"
   },
   {
     "uid": "bv",
-    "acro": "Bv",
+    "acronym": "Bv",
     "name": "Buddhavaṁsa"
   },
   {
     "uid": "cnd",
-    "acro": "Cnd",
+    "acronym": "Cnd",
     "name": "Cūḷaniddesa"
   },
   {
     "uid": "cp",
-    "acro": "Cp",
+    "acronym": "Cp",
     "name": "Cariyāpiṭaka"
   },
   {
     "uid": "cps",
-    "acro": "Cps",
+    "acronym": "Cps",
     "name": "Catuṣpariṣatsūtra"
   },
   {
     "uid": "da",
-    "acro": "DA",
+    "acronym": "DA",
     "name": "Dīrghāgama"
   },
   {
     "uid": "kag",
-    "acro": "KA",
+    "acronym": "KA",
     "name": "Khuddakāgama"
   },
   {
     "uid": "dhp",
-    "acro": "Dhp",
+    "acronym": "Dhp",
     "name": "Dhammapada"
   },
   {
     "uid": "gdhp",
-    "acro": "G-Dhp",
+    "acronym": "G-Dhp",
     "name": "Gāndhārī Dharmapada"
   },
   {
     "uid": "g2dhp",
-    "acro": "G-2-Dhp",
+    "acronym": "G-2-Dhp",
     "name": "Gāndhārī Dharmapada British Library Fragment 16"
   },
   {
     "uid": "g3dhp",
-    "acro": "G-3-Dhp",
+    "acronym": "G-3-Dhp",
     "name": "Gāndhārī Dharmapada Split Collection Fragment 3"
   },
   {
     "uid": "pdhp",
-    "acro": "P-Dhp",
+    "acronym": "P-Dhp",
     "name": "Patna Dharmapada"
   },
   {
     "uid": "divy",
-    "acro": "Divy",
+    "acronym": "Divy",
     "name": "Divyāvadāna"
   },
   {
     "uid": "dk",
-    "acro": "Dk",
+    "acronym": "Dk",
     "name": "Dharmaskandha"
   },
   {
     "uid": "dn",
-    "acro": "DN",
+    "acronym": "DN",
     "name": "Dīgha Nikāya"
   },
   {
     "uid": "d",
-    "acro": "D",
+    "acronym": "D",
     "name": "Derge edition"
   },
   {
     "uid": "q",
-    "acro": "Q",
+    "acronym": "Q",
     "name": "Qianlong (Peking edition of Tibetan canon)"
   },
   {
     "uid": "dt",
-    "acro": "Dt",
+    "acronym": "Dt",
     "name": "Dhātukathā"
   },
   {
     "uid": "dr",
-    "acro": "Dr",
+    "acronym": "Dr",
     "name": "Dayyaraṭṭhassa Saṅgītitepiṭakaṁ"
   },
   {
     "uid": "ds",
-    "acro": "Ds",
+    "acronym": "Ds",
     "name": "Dhammasaṅgaṇī"
   },
   {
     "uid": "ea",
-    "acro": "EA",
+    "acronym": "EA",
     "name": "Ekottarikāgama (1st)"
   },
   {
     "uid": "ea-2",
-    "acro": "EA2 [T 150A]",
+    "acronym": "EA2 [T 150A]",
     "name": "Ekottarikāgama (2nd)"
   },
   {
     "uid": "gf",
-    "acro": "Gandh",
+    "acronym": "Gandh",
     "name": "Gāndhārī fragments"
   },
   {
     "uid": "iti",
-    "acro": "Iti",
+    "acronym": "Iti",
     "name": "Itivuttaka"
   },
   {
     "uid": "isi",
-    "acro": "Isibhās",
+    "acronym": "Isibhās",
     "name": "Isibhāsiyāiṁ"
   },
   {
     "uid": "ja",
-    "acro": "Ja",
+    "acronym": "Ja",
     "name": "Jātaka"
   },
   {
     "uid": "jp",
-    "acro": "Jp",
+    "acronym": "Jp",
     "name": "Jnānaprasthāna"
   },
     {
     "uid": "kam",
-    "acro": "Kam",
+    "acronym": "Kam",
     "name": "Kammavācā"
   },
   {
     "uid": "kf",
-    "acro": "Khot",
+    "acronym": "Khot",
     "name": "Khotanese fragments"
   },
   {
     "uid": "kg",
-    "acro": "Kg",
+    "acronym": "Kg",
     "name": "Kangyur"
   },
   {
     "uid": "kn",
-    "acro": "KN",
+    "acronym": "KN",
     "name": "Khuddaka Nikāya"
   },
   {
     "uid": "kp",
-    "acro": "Kp",
+    "acronym": "Kp",
     "name": "Khuddakapāṭha"
   },
   {
     "uid": "kv",
-    "acro": "Kv",
+    "acronym": "Kv",
     "name": "Kathāvatthu"
   },
   {
     "uid": "khv",
-    "acro": "Khv",
+    "acronym": "Khv",
     "name": "Khuddakavatthu"
   },
   {
     "uid": "lal",
-    "acro": "Lal",
+    "acronym": "Lal",
     "name": "Lalitavistara"
   },
   {
     "uid": "ma",
-    "acro": "MA",
+    "acronym": "MA",
     "name": "Madhyamāgama"
   },
   {
     "uid": "mbh",
-    "acro": "Mbh",
+    "acronym": "Mbh",
     "name": "Mahābhārata"
   },
   {
     "uid": "mc",
-    "acro": "Mc",
+    "acronym": "Mc",
     "name": "Mahācūḷātepiṭakaṁ"
   },
   {
     "uid": "mpt",
-    "acro": "Mpt",
+    "acronym": "Mpt",
     "name": "Mahāvyutpatti"
   },
   {
     "uid": "mh",
-    "acro": "Mh",
+    "acronym": "Mh",
     "name": "Mahāsūtras"
   },
   {
     "uid": "mil",
-    "acro": "Mil",
+    "acronym": "Mil",
     "name": "Milindapañha"
   },
   {
     "uid": "mn",
-    "acro": "MN",
+    "acronym": "MN",
     "name": "Majjhima Nikāya"
   },
   {
     "uid": "mnd",
-    "acro": "Mnd",
+    "acronym": "Mnd",
     "name": "Mahāniddesa"
   },
   {
     "uid": "ms",
-    "acro": "Ms",
+    "acronym": "Ms",
     "name": "Mahasaṅgīti Tipiṭaka"
   },
   {
     "uid": "mvu",
-    "acro": "Mvu",
+    "acronym": "Mvu",
     "name": "Mahāvastu"
   },
   {
     "uid": "nd",
-    "acro": "Nd",
+    "acronym": "Nd",
     "name": "Niddesa"
   },
   {
     "uid": "ne",
-    "acro": "Ne",
+    "acronym": "Ne",
     "name": "Nettipakaraṇa"
   },
   {
     "uid": "t1670a",
-    "acro": "T 1670 A",
+    "acronym": "T 1670 A",
     "name": "Nāgasena Bhikṣu Sūtra (1st)"
   },
   {
     "uid": "t1670b",
-    "acro": "T 1670 B",
+    "acronym": "T 1670 B",
     "name": "Nāgasena Bhikṣu Sūtra (2nd)"
   },
   {
     "uid": "oa",
-    "acro": "OA",
+    "acronym": "OA",
     "name": "Other Āgama Sūtras"
   },
     {
     "uid": "om",
-    "acro": "OM",
+    "acronym": "OM",
     "name": "Other Mātikā"
   },
   {
     "uid": "pe",
-    "acro": "Pe",
+    "acronym": "Pe",
     "name": "Peṭakopadesa"
   },
   {
     "uid": "pk",
-    "acro": "Pk",
+    "acronym": "Pk",
     "name": "Prakaraṇapada"
   },
   {
     "uid": "pp",
-    "acro": "Pp",
+    "acronym": "Pp",
     "name": "Puggalapaññatti"
   },
   {
     "uid": "ps",
-    "acro": "Ps",
+    "acronym": "Ps",
     "name": "Paṭisambhidāmagga"
   },
   {
     "uid": "patthana",
-    "acro": "Patthana",
+    "acronym": "Patthana",
     "name": "Paṭṭhāna"
   },
   {
     "uid": "pf",
-    "acro": "PF",
+    "acronym": "PF",
     "name": "Prākrit fragments"
   },
   {
     "uid": "pu",
-    "acro": "Pu",
+    "acronym": "Pu",
     "name": "Puggalavāda"
   },
   {
     "uid": "praj",
-    "acro": "Praj",
+    "acronym": "Praj",
     "name": "Prajnaptiśāstra"
   },
   {
     "uid": "pv",
-    "acro": "Pv",
+    "acronym": "Pv",
     "name": "Petavatthu"
   },
   {
     "uid": "sa",
-    "acro": "SA",
+    "acronym": "SA",
     "name": "Saṁyuktāgama (1st)"
   },
   {
     "uid": "sa-2",
-    "acro": "SA-2",
+    "acronym": "SA-2",
     "name": "Saṁyuktāgama (2nd)"
   },
   {
     "uid": "sa-3",
-    "acro": "SA-3",
+    "acronym": "SA-3",
     "name": "Saṁyuktāgama (3rd)"
   },
   {
     "uid": "sab",
-    "acro": "Sab",
+    "acronym": "Sab",
     "name": "Śāriputrābhidharma"
   },
   {
     "uid": "sag",
-    "acro": "Sag",
+    "acronym": "Sag",
     "name": "Śarīrārthagāthā"
   },
   {
     "uid": "sb",
-    "acro": "Sb",
+    "acronym": "Sb",
     "name": "Saṅghabhedavastu"
   },
   {
     "uid": "sbh",
-    "acro": "Sbh",
+    "acronym": "Sbh",
     "name": "Śrāvakabhūmi"
   },
   {
     "uid": "sf",
-    "acro": "SF",
+    "acronym": "SF",
     "name": "Sanskrit Āgama Sūtras"
   },
   {
     "uid": "sg",
-    "acro": "Sg",
+    "acronym": "Sg",
     "name": "Saṅgītiparyāya"
   },
   {
     "uid": "sht",
-    "acro": "SHT",
+    "acronym": "SHT",
     "name": "SHT fragments"
   },
   {
     "uid": "sn",
-    "acro": "SN",
+    "acronym": "SN",
     "name": "Saṁyutta Nikāya"
   },
   {
     "uid": "snp",
-    "acro": "Snp",
+    "acronym": "Snp",
     "name": "Sutta Nipāta"
   },
   {
     "uid": "spp",
-    "acro": "Spp",
+    "acronym": "Spp",
     "name": "Śāriputraparipṛcchā"
   },
   {
     "uid": "suy",
-    "acro": "Sūy",
+    "acronym": "Sūy",
     "name": "Sūyagadamgasuttam"
   },
   {
     "uid": "t",
-    "acro": "T",
+    "acronym": "T",
     "name": "Taishō"
   },
   {
     "uid": "other-t",
-    "acro": "Other T",
+    "acronym": "Other T",
     "name": "Other Taishō"
   },
   {
     "uid": "tha-ap",
-    "acro": "Tha Ap",
+    "acronym": "Tha Ap",
     "name": "Therāpadāna"
   },
   {
     "uid": "thag",
-    "acro": "Thag",
+    "acronym": "Thag",
     "name": "Theragāthā"
   },
   {
     "uid": "thi-ap",
-    "acro": "Thi Ap",
+    "acronym": "Thi Ap",
     "name": "Therīapadāna"
   },
   {
     "uid": "thig",
-    "acro": "Thig",
+    "acronym": "Thig",
     "name": "Therīgāthā"
   },
   {
     "uid": "tib",
-    "acro": "Tib",
+    "acronym": "Tib",
     "name": "Tibetan"
   },
   {
     "uid": "ud",
-    "acro": "Ud",
+    "acronym": "Ud",
     "name": "Udāna"
   },
   {
     "uid": "uf",
-    "acro": "Uigh",
+    "acronym": "Uigh",
     "name": "Uighur fragments"
   },
   {
     "uid": "up",
-    "acro": "Up",
+    "acronym": "Up",
     "name": "Upāyikā"
   },
   {
     "uid": "upp",
-    "acro": "Upp",
+    "acronym": "Upp",
     "name": "Upaliparipṛcchā"
   },
   {
     "uid": "utt",
-    "acro": "Utt",
+    "acronym": "Utt",
     "name": "Uttarādhyayanasūtra"
   },
     {
     "uid": "utg",
-    "acro": "Utg",
+    "acronym": "Utg",
     "name": "Uttargantha"
   },
   {
     "uid": "uv",
-    "acro": "Uv",
+    "acronym": "Uv",
     "name": "Udānavarga"
   },
   {
     "uid": "uvs",
-    "acro": "UvS",
+    "acronym": "UvS",
     "name": "Udānavarga de Subaši"
   },
   {
     "uid": "ve",
-    "acro": "VE",
+    "acronym": "VE",
     "name": "Vinaya Ekottara"
   },
   {
     "uid": "vk",
-    "acro": "Vk",
+    "acronym": "Vk",
     "name": "Vijnānakāya"
   },
   {
     "uid": "vns",
-    "acro": "Vns",
+    "acronym": "Vns",
     "name": "Vinayanidānasūtra"
   },
   {
     "uid": "vs",
-    "acro": "VS",
+    "acronym": "VS",
     "name": "(Vinaya) Saṁyutta"
   },
   {
     "uid": "vv",
-    "acro": "Vv",
+    "acronym": "Vv",
     "name": "Vimānavatthu"
   },
   {
     "uid": "ya",
-    "acro": "Ya",
+    "acronym": "Ya",
     "name": "Yamaka"
   },
     {
     "uid": "ybs",
-    "acro": "Ybs",
+    "acronym": "Ybs",
     "name": "Yogācārabhūmi"
   },
   {
     "uid": "nidana",
-    "acro": "Nidana",
+    "acronym": "Nidana",
     "name": "Nidāna"
   },
   {
     "uid": "pli",
-    "acro": "Pli",
+    "acronym": "Pli",
     "name": "Pāli"
   },
   {
     "uid": "zh",
-    "acro": "Zh",
+    "acronym": "Zh",
     "name": "Chinese"
   },
   {
     "uid": "lzh",
-    "acro": "Lzh",
+    "acronym": "Lzh",
     "name": "Literary Chinese"
   },
   {
     "uid": "san",
-    "acro": "San",
+    "acronym": "San",
     "name": "Sanskrit"
   },
   {
     "uid": "pgd",
-    "acro": "Pgd",
+    "acronym": "Pgd",
     "name": "Gāndhārī"
   },
   {
     "uid": "pra",
-    "acro": "Pra",
+    "acronym": "Pra",
     "name": "Prākrit"
   },
   {
     "uid": "uig",
-    "acro": "Uig",
+    "acronym": "Uig",
     "name": "Uighur"
   },
   {
     "uid": "xct",
-    "acro": "Xct",
+    "acronym": "Xct",
     "name": "Classical Tibetan"
   },
   {
     "uid": "my",
-    "acro": "My",
+    "acronym": "My",
     "name": "Burmese"
   },
   {
     "uid": "de",
-    "acro": "De",
+    "acronym": "De",
     "name": "German"
   },
   {
     "uid": "en",
-    "acro": "En",
+    "acronym": "En",
     "name": "English"
   },
   {
     "uid": "es",
-    "acro": "Es",
+    "acronym": "Es",
     "name": "Spanish"
   },
   {
     "uid": "fr",
-    "acro": "Fr",
+    "acronym": "Fr",
     "name": "French"
   },
   {
     "uid": "ko",
-    "acro": "Ko",
+    "acronym": "Ko",
     "name": "Korean"
   },
   {
     "uid": "ru",
-    "acro": "Ru",
+    "acronym": "Ru",
     "name": "Russian"
   },
   {
     "uid": "vi",
-    "acro": "Vi",
+    "acronym": "Vi",
     "name": "Vietnamese"
   },
   {
     "uid": "kho",
-    "acro": "Kho",
+    "acronym": "Kho",
     "name": "Khotanese"
   },
   {
     "uid": "abhidhamma",
-    "acro": "Abhidhamma",
+    "acronym": "Abhidhamma",
     "name": "Abhidhamma"
   },
   {
     "uid": "sutta",
-    "acro": "Sutta",
+    "acronym": "Sutta",
     "name": "Suttas"
   },
   {
     "uid": "vinaya",
-    "acro": "Vinaya",
+    "acronym": "Vinaya",
     "name": "Vinaya"
   },
   {
     "uid": "tv",
-    "acro": "Tv",
+    "acronym": "Tv",
     "name": "Theravāda"
   },
   {
     "uid": "vb",
-    "acro": "Vb",
+    "acronym": "Vb",
     "name": "Vibhaṅga"
   },
   {
     "uid": "pm",
-    "acro": "Pm",
+    "acronym": "Pm",
     "name": "Pātimokkha"
   },
   {
     "uid": "pvr",
-    "acro": "Pvr",
+    "acronym": "Pvr",
     "name": "Parivāra"
   },
   {
     "uid": "sarv",
-    "acro": "Sarv",
+    "acronym": "Sarv",
     "name": "Sarvāstivāda"
   },
   {
     "uid": "mu",
-    "acro": "Mu",
+    "acronym": "Mu",
     "name": "Mūlasarvāstivāda"
   },
   {
     "uid": "mi",
-    "acro": "Mi",
+    "acronym": "Mi",
     "name": "Mahīśāsaka"
   },
   {
     "uid": "mg",
-    "acro": "Mg",
+    "acronym": "Mg",
     "name": "Mahāsaṅghika"
   },
   {
     "uid": "lo",
-    "acro": "Lo",
+    "acronym": "Lo",
     "name": "Lokuttaravāda"
   },
   {
     "uid": "dg",
-    "acro": "Dg",
+    "acronym": "Dg",
     "name": "Dharmaguptaka"
   },
   {
     "uid": "ka",
-    "acro": "Ka",
+    "acronym": "Ka",
     "name": "Kāśyapīya"
   },
   {
     "uid": "hv",
-    "acro": "Hv",
+    "acronym": "Hv",
     "name": "Haimavata"
   },
   {
     "uid": "bf",
-    "acro": "Bf",
+    "acronym": "Bf",
     "name": "Bajaur"
   },
   {
     "uid": "qizil",
-    "acro": "Qizil",
+    "acronym": "Qizil",
     "name": "Qizil"
   },
   {
     "uid": "tf",
-    "acro": "Tf",
+    "acronym": "Tf",
     "name": "Turfan"
   },
   {
     "uid": "finot",
-    "acro": "Finot",
+    "acronym": "Finot",
     "name": "Finot"
   },
   {
     "uid": "ba",
-    "acro": "BA",
+    "acronym": "BA",
     "name": "Bhikkhu Adhyāya"
   },
   {
     "uid": "dh",
-    "acro": "DH",
+    "acronym": "DH",
     "name": "Dun Huang"
   },
   {
     "uid": "sc",
-    "acro": "SC",
+    "acronym": "SC",
     "name": "SuttaCentral"
   },
   {
     "uid": "pj",
-    "acro": "Pj",
+    "acronym": "Pj",
     "name": "Pārājika"
   },
   {
     "uid": "ss",
-    "acro": "Ss",
+    "acronym": "Ss",
     "name": "Saṅghādisesa"
   },
   {
     "uid": "ay",
-    "acro": "Ay",
+    "acronym": "Ay",
     "name": "Aniyata"
   },
   {
     "uid": "np",
-    "acro": "NP",
+    "acronym": "NP",
     "name": "Nissaggiya Pācittiya"
   },
   {
     "uid": "pc",
-    "acro": "Pc",
+    "acronym": "Pc",
     "name": "Pācittiya"
   },
   {
     "uid": "pd",
-    "acro": "Pd",
+    "acronym": "Pd",
     "name": "Pāṭidesanīya"
   },
   {
     "uid": "sk",
-    "acro": "Sk",
+    "acronym": "Sk",
     "name": "Sekhiya"
   },
   {
     "uid": "as",
-    "acro": "As",
+    "acronym": "As",
     "name": "Adhikaraṇasamatha"
   },
   {
     "uid": "du",
-    "acro": "Du",
+    "acronym": "Du",
     "name": "Dukkaṭa"
   },
   {
     "uid": "tl",
-    "acro": "Tl",
+    "acronym": "Tl",
     "name": "Thullaccaya"
   },
   {
     "uid": "asc",
-    "acro": "Asc",
+    "acronym": "Asc",
     "name": "Abhisamācārika"
   },
   {
     "uid": "bu",
-    "acro": "Bu",
+    "acronym": "Bu",
     "name": "Bhikkhu"
   },
   {
     "uid": "bi",
-    "acro": "Bi",
+    "acronym": "Bi",
     "name": "Bhikkhunī"
   },
   {
     "uid": "pn",
-    "acro": "Pn",
+    "acronym": "Pn",
     "name": "Pakiṇṇaka"
   },
   {
     "uid": "conc",
-    "acro": "Conc.",
+    "acronym": "Conc.",
     "name": "Conclusion"
   },
   {
     "uid": "gd",
-    "acro": "Gd",
+    "acronym": "Gd",
     "name": "Garudhamma"
   },
   {
     "uid": "cases",
-    "acro": "cases",
+    "acronym": "cases",
     "name": "cases"
   },
   {
     "uid": "vagga",
-    "acro": "Vagga",
+    "acronym": "Vagga",
     "name": "Vagga"
   },
   {
     "uid": "kd",
-    "acro": "Kd",
+    "acronym": "Kd",
     "name": "Khandhaka"
   },
   {
     "uid": "acip",
-    "acro": "ACIP",
+    "acronym": "ACIP",
     "name": "Asian Classics Input Project"
   },
   {
     "uid": "cbeta",
-    "acro": "CBETA",
+    "acronym": "CBETA",
     "name": "Chinese Buddhist Electronic Text Association"
   },
   {
     "uid": "ddb",
-    "acro": "DDB",
+    "acronym": "DDB",
     "name": "Digital Dictionary of Buddhism"
   },
   {
     "uid": "dy",
-    "acro": "Dy",
+    "acronym": "Dy",
     "name": "Dhātukāya"
   },
   {
     "uid": "f",
-    "acro": "F",
+    "acronym": "F",
     "name": "Fragment"
   },
   {
     "uid": "g",
-    "acro": "G",
+    "acronym": "G",
     "name": "Gilgit"
   },
   {
     "uid": "gbm",
-    "acro": "GBM",
+    "acronym": "GBM",
     "name": "Gilgit Buddhist Manuscripts"
   },
   {
     "uid": "gretil",
-    "acro": "GRETIL",
+    "acronym": "GRETIL",
     "name": "Göttingen Register of Electronic Texts in Indian Languages"
   },
   {
     "uid": "hf",
-    "acro": "Hf",
+    "acronym": "Hf",
     "name": "Hybrid Sanskrit fragment"
   },
   {
     "uid": "hsan",
-    "acro": "Hsan",
+    "acronym": "Hsan",
     "name": "Hybrid Sanskrit"
   },
   {
     "uid": "ks",
-    "acro": "KS",
+    "acronym": "KS",
     "name": "Kindred Sayings"
   },
   {
     "uid": "ll",
-    "acro": "ll",
+    "acronym": "ll",
     "name": "Parallels"
   },
   {
     "uid": "p",
-    "acro": "P",
+    "acronym": "P",
     "name": "Page"
   },
   {
     "uid": "vol",
-    "acro": "Vol",
+    "acronym": "Vol",
     "name": "Volume"
   },
   {
     "uid": "ed",
-    "acro": "ed",
+    "acronym": "ed",
     "name": "edited, editor, edition"
   },
   {
     "uid": "c-a",
-    "acro": "C-A",
+    "acronym": "C-A",
     "name": "Chaṭṭhasaṅgīti Piṭakaṁ Atthakathā"
   },
   {
     "uid": "c1",
-    "acro": "C1",
+    "acronym": "C1",
     "name": "Chaṭṭhasaṅgīti Piṭakaṁ 2496–2499 (1952–1955)"
   },
   {
     "uid": "cha1",
-    "acro": "C1",
+    "acronym": "C1",
     "name": "Chaṭṭhasaṅgīti Piṭakaṁ 2496–2499 (1952–1955)"
   },
   {
     "uid": "c2",
-    "acro": "C2",
+    "acronym": "C2",
     "name": "Chaṭṭhasaṅgīti Piṭakaṁ 2nd ed. 2500–2506 (1956–1962)"
   },
   {
     "uid": "c3",
-    "acro": "C3",
+    "acronym": "C3",
     "name": "Chaṭṭhasaṅgīti Piṭakaṁ (1997)"
   },
   {
     "uid": "cha2",
-    "acro": "C2",
+    "acronym": "C2",
     "name": "Chaṭṭhasaṅgīti Piṭakaṁ 2nd ed. 2500–2506 (1956–1962)"
   },
   {
     "uid": "cha3",
-    "acro": "C3",
+    "acronym": "C3",
     "name": "Chaṭṭhasaṅgīti Piṭakaṁ (1997)"
   },
   {
     "uid": "mr",
-    "acro": "Mr",
+    "acronym": "Mr",
     "name": "Maramma Tipiṭaka 2541 (1997)"
   },
   {
     "uid": "ka-ma",
-    "acro": "Mr",
+    "acronym": "Mr",
     "name": "Maramma Tipiṭaka 2541 (1997)"
   },
   {
     "uid": "si",
-    "acro": "Si",
+    "acronym": "Si",
     "name": "Sinhala Tipiṭaka 2501 (1957)"
   },
   {
     "uid": "km",
-    "acro": "Km",
+    "acronym": "Km",
     "name": "Phratraipiṭakapāḷi 2501–2512 (1958–1969)"
   },
   {
     "uid": "maku",
-    "acro": " Maku",
+    "acronym": " Maku",
     "name": "Mahāmakurājāvidyālai 2466 (1923)"
   },
   {
     "uid": "pts-a",
-    "acro": "PTS-A",
+    "acronym": "PTS-A",
     "name": "Pali Text Society Atthakathā"
   },
   {
     "uid": "pts1",
-    "acro": "PTS 1",
+    "acronym": "PTS 1",
     "name": "Pali Text Society 1st ed. 2424–2535 (1881–1992)"
   },
   {
     "uid": "pa1",
-    "acro": "PTS 1",
+    "acronym": "PTS 1",
     "name": "Pali Text Society 1st ed. 2424–2535 (1881–1992)"
   },
   {
     "uid": "pts2",
-    "acro": "PTS 2",
+    "acronym": "PTS 2",
     "name": "Pali Text Society 2nd ed. 2517–2541 (1974–1998)"
   },
   {
     "uid": "pa2",
-    "acro": "PTS 2",
+    "acronym": "PTS 2",
     "name": "Pali Text Society 2nd ed. 2517–2541 (1974–1998)"
   },
   {
     "uid": "s-a",
-    "acro": "S-A",
+    "acronym": "S-A",
     "name": "Syāmaraṭṭhassa Tepiṭakaṁ Atthakathā"
   },
   {
     "uid": "s1",
-    "acro": "S 1",
+    "acronym": "S 1",
     "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893)"
   },
   {
     "uid": "s2",
-    "acro": "S 2",
+    "acronym": "S 2",
     "name": "Syāmaraṭṭhassa Tepiṭakaṁ 2469–2471 (1926–1928)"
   },
   {
     "uid": "s3",
-    "acro": "S 3",
+    "acronym": "S 3",
     "name": "Syāmaraṭṭhassa Tepiṭakaṁ 2538 (1995)"
   },
   {
     "uid": "sya1",
-    "acro": "S 1",
+    "acronym": "S 1",
     "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893)"
   },
   {
     "uid": "sya2",
-    "acro": "S 2",
+    "acronym": "S 2",
     "name": "Syāmaraṭṭhassa Tepiṭakaṁ 2469–2471 (1926–1928)"
   },
   {
     "uid": "sya3",
-    "acro": "S 3",
+    "acronym": "S 3",
     "name": "Syāmaraṭṭhassa Tepiṭakaṁ 2538 (1995)"
   },
   {
     "uid": "sya1-3",
-    "acro": "S 1–3",
+    "acronym": "S 1–3",
     "name": "Chulachomklao Pāḷi Tipiṭaka 2436 (1893),Syāmaraṭṭhassa Tepiṭakaṁ 2469–2471 (1926–1928) & 2538 (1995)"
   },
   {
     "uid": "bj",
-    "acro": "Bj",
+    "acronym": "Bj",
     "name": "Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
   },
   {
     "uid": "bj-a",
-    "acro": " Bj A",
+    "acronym": " Bj A",
     "name": "Buddhajayantītripiṭakagranthamālā Atthakathā)"
   },
   {
     "uid": "wp",
-    "acro": "WP",
+    "acronym": "WP",
     "name": "Wisdom Publications"
   }
 ]

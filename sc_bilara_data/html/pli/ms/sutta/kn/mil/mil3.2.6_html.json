@@ -1,7 +1,7 @@
 {
   "mil3.2.6:0.1": "<article id='mil3.2.6'><header><ul><li class='division'>{}</li>",
   "mil3.2.6:0.2": "<li>{}</li></ul>",
-  "mil3.2.6:0.3": "<h1>{}</h1></header>",
+  "mil3.2.6:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "mil3.2.6:1.1": "<p>{}",
   "mil3.2.6:1.2": "{}",
   "mil3.2.6:1.3": "{}",

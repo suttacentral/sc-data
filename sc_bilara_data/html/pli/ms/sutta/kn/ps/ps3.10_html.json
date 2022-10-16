@@ -1,7 +1,7 @@
 {
   "ps3.10:0.1": "<article id='ps3.10'><header><ul><li class='division'>{}</li>",
   "ps3.10:0.2": "<li>{}</li></ul>",
-  "ps3.10:0.3": "<h1>{}</h1></header>",
+  "ps3.10:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "ps3.10:1.1": "<p>{}</p>",
   "ps3.10:2.1": "<p data-counter='1'>{}",
   "ps3.10:2.2": "{}",

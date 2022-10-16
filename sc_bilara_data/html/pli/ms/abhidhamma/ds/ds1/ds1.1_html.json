@@ -1,6 +1,6 @@
 {
   "ds1.1:0.1": "<article id='ds1.1'><header><ul><li class='division'>{}</li></ul>",
-  "ds1.1:0.2": "<h1>{}</h1></header>",
+  "ds1.1:0.2": "<h1 class='sutta-title'>{}</h1></header>",
   "ds1.1:1.0.1": "<h3>{}</h3>",
   "ds1.1:1.0.2": "<p class='namo'>{}</p>",
   "ds1.1:1.1": "<p>{}</p>",

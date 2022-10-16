@@ -1,7 +1,7 @@
 {
   "pv41:0.1": "<article id='pv41'><header><ul><li class='division'>{}</li>",
   "pv41:0.2": "<li>{}</li></ul>",
-  "pv41:0.3": "<h1>{}</h1></header>",
+  "pv41:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "pv41:1.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "pv41:1.2": "<span class='verse-line'>{}</span>",
   "pv41:1.3": "<span class='verse-line'>{}</span>",

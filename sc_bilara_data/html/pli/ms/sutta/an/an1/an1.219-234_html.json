@@ -1,7 +1,6 @@
 {
-  "an1.219:0.1": "<section class='range' id='an1.219-234'><header><ul><li class='division'>{}</li>",
-  "an1.219:0.2": "<li>{}</li></ul>",
-  "an1.219:0.3": "<h1 class='range-title'>{}</h1></header>",
+  "an1.219:0.1": "<section class='range' id='an1.219-234'><header><ul><li class='division'>{}</li></ul>",
+  "an1.219:0.2": "<h1 class='range-title'>{}</h1></header>",
   "an1.219:1.1": "<article id='an1.219'><p data-counter='1'>{}</p></article>",
   "an1.220:1.1": "<article id='an1.220'><p data-counter='2'>{}</p></article>",
   "an1.221:1.1": "<article id='an1.221'><p data-counter='3'>{}</p></article>",

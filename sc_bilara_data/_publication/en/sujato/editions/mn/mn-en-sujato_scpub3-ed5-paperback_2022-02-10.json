@@ -32,8 +32,8 @@
       "cover_image": "paperback_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
          "./matter/epigraph.html",
         "main-toc",
         "./matter/foreword.html",
@@ -60,8 +60,8 @@
       "cover_image": "paperback_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc",
         "blurbs"
       ],
@@ -83,8 +83,8 @@
       "cover_image": "paperback_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
-        "imprint",
         "halftitlepage",
+        "imprint",
         "main-toc",
         "blurbs"
       ],

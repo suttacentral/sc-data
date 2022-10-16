@@ -2,7 +2,7 @@
   "kv22.6:0.1": "<article id='kv22.6'><header><ul><li class='division'>{}</li>",
   "kv22.6:0.2": "<li>{}</li>",
   "kv22.6:0.3": "<li>{}</li></ul>",
-  "kv22.6:0.4": "<h1>{}</h1></header>",
+  "kv22.6:0.4": "<h1 class='sutta-title'>{}</h1></header>",
   "kv22.6:1.1": "<p data-doxy='orthodox'>{}",
   "kv22.6:1.2": "{}",
   "kv22.6:1.3": "{}",

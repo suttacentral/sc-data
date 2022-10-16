@@ -1,0 +1,32 @@
+name: Nilakkhana transform all supported files
+
+on:
+  push:
+    branches:
+      - published
+
+jobs:
+  nilakkhana-transform-all-supported-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout published repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10.5
+
+      - name: Execute python script
+        run: |
+          python .nilakkhana/process_all_supported_files.py
+      - name: Push changed files
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "[GHA] Nilakkhana transform"
+          git push origin published:published
