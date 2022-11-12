@@ -48,6 +48,14 @@
     "creator_github_handle": "sabbamitta"
   },
   {
+    "project_uid": "de_vri_translation_sabbamitta",
+    "name": "German Patimokkha translation Sabbamitta",
+    "root_path": "root/pli/vri/vinaya",
+    "translation_path": "translation/de/sabbamitta/vinaya",
+    "translation_muids": "translation-de-sabbamitta",
+    "creator_github_handle": "sabbamitta"
+  },
+  {
     "project_uid": "en_ms_translation_brahmali",
     "name": "English translation Bhikkhu Brahmali",
     "root_path": "root/pli/ms/vinaya",
@@ -88,6 +96,22 @@
     "creator_github_handle": "suddhaso"
   },
   {
+    "project_uid": "es_ms_translation_sumano_sutta",
+    "name": "Spanish sutta translation Bhante Sumano",
+    "root_path": "root/pli/ms/sutta/an",
+    "translation_path": "translation/es/sumano/sutta/an",
+    "translation_muids": "translation-es-sumano",
+    "creator_github_handle": "vensumano"
+  },
+  {
+    "project_uid": "es_ms_translation_sumano_vinaya",
+    "name": "Spanish vinaya translation Bhante Sumano",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/es/sumano/vinaya",
+    "translation_muids": "translation-es-sumano",
+    "creator_github_handle": "vensumano"
+  },
+  {
     "project_uid": "en_ms_translation_sujato",
     "name": "English translation Bhikkhu Sujato",
     "root_path": "root/pli/ms/sutta",
@@ -120,6 +144,14 @@
     "creator_github_handle": "vimalanyani"
   },
   {
+    "project_uid": "en_vri_translation_brahmali",
+    "name": "English Patimokkha translation Bhikkhu Brahmali",
+    "root_path": "root/pli/vri/vinaya",
+    "translation_path": "translation/en/brahmali/vinaya",
+    "translation_muids": "translation-en-brahmali",
+    "creator_github_handle": "brahmali"
+  },
+  {
     "project_uid": "en_vri_translation_comm-team",
     "name": "English translation of the commentaries",
     "root_path": "root/pli/vri/sutta/atthakatha",
@@ -128,20 +160,20 @@
     "creator_github_handle": "sujato"
   },
   {
-    "project_uid": "es_ms_translation_sumano_sutta",
-    "name": "Spanish sutta translation Bhante Sumano",
-    "root_path": "root/pli/ms/sutta/an",
-    "translation_path": "translation/es/sumano/sutta/an",
-    "translation_muids": "translation-es-sumano",
-    "creator_github_handle": "vensumano"
+    "project_uid": "en_vri_translation_pasanna",
+    "name": "English Patimokkha translation Venerable Pasanna",
+    "root_path": "root/pli/vri/vinaya",
+    "translation_path": "translation/en/pasanna/vinaya",
+    "translation_muids": "translation-en-pasanna",
+    "creator_github_handle": "delightedbydhamma"
   },
   {
-    "project_uid": "es_ms_translation_sumano_vinaya",
-    "name": "Spanish vinaya translation Bhante Sumano",
-    "root_path": "root/pli/ms/vinaya",
-    "translation_path": "translation/es/sumano/vinaya",
-    "translation_muids": "translation-es-sumano",
-    "creator_github_handle": "vensumano"
+    "project_uid": "en_vri_translation_sujato",
+    "name": "English Patimokkha translation Bhikkhu Sujato",
+    "root_path": "root/pli/vri/vinaya",
+    "translation_path": "translation/en/sujato/vinaya",
+    "translation_muids": "translation-en-sujato",
+    "creator_github_handle": "sujato"
   },
   {
     "project_uid": "fi_ms_translation_mudito_sutta",
@@ -317,6 +349,17 @@
     "name": "Portuguese translation",
     "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/pt/laera-quaresma/sutta",
+    "translation_muids": "translation-pt-laera-quaresma",
+    "creator_github_handle": [
+      "gnlaera",
+      "vngmar"
+    ]
+  },
+  {
+    "project_uid": "pt_vri_translation",
+    "name": "Portuguese Patimokkha translation",
+    "root_path": "root/pli/vri/vinaya",
+    "translation_path": "translation/pt/laera-quaresma/vinaya",
     "translation_muids": "translation-pt-laera-quaresma",
     "creator_github_handle": [
       "gnlaera",
