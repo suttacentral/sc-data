@@ -290,6 +290,7 @@
     "author_uid": "brahmali",
     "author_name": "Bhikkhu Brahmali",
     "author_github_handle": "brahmali",
+    "pitaka": "vinaya",
     "text_uid": "pli-tv-vi",
     "translation_title": "Theravāda Collection on Monastic Law",
     "translation_subtitle": "A translation of the Pali Vinaya Piṭaka into English",
@@ -2766,18 +2767,18 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya/pli-tv-bi-vb",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya",
     "author_uid": "brahmali",
     "author_name": "Bhikkhu Brahmali",
     "author_github_handle": "brahmali",
-    "text_uid": "pli-tv-bi-vb",
-    "translation_title": "The nuns’ rules and their analysis",
-    "translation_subtitle": "A translation of the Pali Bhikkhunī-vibhaṅga into English",
-    "root_title": "Bhikkhunī Vibhaṅga",
-    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
-    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
-    "is_published": true,
-    "publication_status": "Completed, revision is ongoing.",
+    "text_uid": "pli-tv-bi-pm",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Bhikkhunī Pātimokkha",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -2787,10 +2788,10 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "2021",
+        "publication_date": "",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": "https://suttacentral.net/pli-tv-bi-vb"
+        "edition_url": "https://suttacentral.net/pli-tv-bi-pm"
       }
     ]
   },
@@ -2800,18 +2801,18 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya/pli-tv-bu-vb",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya",
     "author_uid": "brahmali",
     "author_name": "Bhikkhu Brahmali",
     "author_github_handle": "brahmali",
-    "text_uid": "pli-tv-bu-vb",
-    "translation_title": "The monks’ rules and their analysis",
-    "translation_subtitle": "A translation of the Pali Bhikkhu-vibhaṅga into English",
-    "root_title": "Bhikkhu Vibhaṅga",
-    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
-    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
-    "is_published": true,
-    "publication_status": "Completed, revision is ongoing.",
+    "text_uid": "pli-tv-bu-pm",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Bhikkhu Pātimokkha",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -2821,10 +2822,10 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "2021",
+        "publication_date": "",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": "https://suttacentral.net/pli-tv-bu-vb"
+        "edition_url": "https://suttacentral.net/pli-tv-bu-pm"
       }
     ]
   },
@@ -2834,18 +2835,18 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya/pli-tv-kd",
-    "author_uid": "brahmali",
-    "author_name": "Bhikkhu Brahmali",
-    "author_github_handle": "brahmali",
-    "text_uid": "pli-tv-kd",
-    "translation_title": "The chapters on legal procedures and miscellaneous matters",
-    "translation_subtitle": "A translation of the Pali Khandhakas into English",
-    "root_title": "Khandhaka",
-    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
-    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
-    "is_published": true,
-    "publication_status": "Completed, revision is ongoing.",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/vinaya",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "pli-tv-bi-pm",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Bhikkhunī Pātimokkha",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -2855,10 +2856,10 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "2021",
+        "publication_date": "",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": "https://suttacentral.net/pli-tv-kd"
+        "edition_url": "https://suttacentral.net/pli-tv-bi-pm"
       }
     ]
   },
@@ -2868,18 +2869,18 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "en",
     "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya/pli-tv-pvr",
-    "author_uid": "brahmali",
-    "author_name": "Bhikkhu Brahmali",
-    "author_github_handle": "brahmali",
-    "text_uid": "pli-tv-pvr",
-    "translation_title": "The Compendium",
-    "translation_subtitle": "A translation of the Pali Parivāra into English",
-    "root_title": "Parivāra",
-    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with occasional reference of other Pali editions, especially the Chaṭṭha Saṅgāyana edition and the Pali Text Society edition. I cross-checked with I.B. Horner’s English translation, “The Book of the Discipline”, as well Bhikkhu Ñāṇatusita’s “A Translation and Analysis of the Pātimokkha” and Ajahn Ṭhānissaro’s “Buddhist Monastic Code”.",
-    "translation_description": "This is the first complete translation of the Vinaya Piṭaka in English. The aim has been to produce a translation that is easy to read, clear, and accurate, and also modern in vocabulary and style.",
-    "is_published": true,
-    "publication_status": "Completed, revision is ongoing.",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/vinaya",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "pli-tv-bu-pm",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Bhikkhu Pātimokkha",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -2889,10 +2890,10 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "2021",
+        "publication_date": "",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": "https://suttacentral.net/pli-tv-pvr"
+        "edition_url": "https://suttacentral.net/pli-tv-bu-pm"
       }
     ]
   },
@@ -2900,12 +2901,12 @@
     "publication_number": "scpub81",
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
-    "translation_lang_iso": "en",
-    "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya",
-    "author_uid": "brahmali",
-    "author_name": "Bhikkhu Brahmali",
-    "author_github_handle": "brahmali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/vinaya",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
     "text_uid": "pli-tv-bi-pm",
     "translation_title": "",
     "translation_subtitle": "",
@@ -2934,12 +2935,12 @@
     "publication_number": "scpub82",
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
-    "translation_lang_iso": "en",
-    "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya",
-    "author_uid": "brahmali",
-    "author_name": "Bhikkhu Brahmali",
-    "author_github_handle": "brahmali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/vinaya",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
     "text_uid": "pli-tv-bu-pm",
     "translation_title": "",
     "translation_subtitle": "",
@@ -2966,142 +2967,6 @@
   },
   "scpub83": {
     "publication_number": "scpub83",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "en",
-    "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/vinaya",
-    "author_uid": "sujato",
-    "author_name": "Bhikkhu Sujato",
-    "author_github_handle": "sujato",
-    "text_uid": "pli-tv-bi-pm",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "Bhikkhunī Pātimokkha",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
-    },
-    "edition": [
-      {
-        "edition_number": "1",
-        "publication_date": "",
-        "publisher": "SuttaCentral",
-        "publication_type": "website",
-        "edition_url": "https://suttacentral.net/pli-tv-bi-pm"
-      }
-    ]
-  },
-  "scpub84": {
-    "publication_number": "scpub84",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "en",
-    "translation_lang_name": "English",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/vinaya",
-    "author_uid": "sujato",
-    "author_name": "Bhikkhu Sujato",
-    "author_github_handle": "sujato",
-    "text_uid": "pli-tv-bu-pm",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "Bhikkhu Pātimokkha",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
-    },
-    "edition": [
-      {
-        "edition_number": "1",
-        "publication_date": "",
-        "publisher": "SuttaCentral",
-        "publication_type": "website",
-        "edition_url": "https://suttacentral.net/pli-tv-bu-pm"
-      }
-    ]
-  },
-  "scpub85": {
-    "publication_number": "scpub85",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "de",
-    "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/vinaya",
-    "author_uid": "sabbamitta",
-    "author_name": "Sabbamitta",
-    "author_github_handle": "sabbamitta",
-    "text_uid": "pli-tv-bi-pm",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "Bhikkhunī Pātimokkha",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
-    },
-    "edition": [
-      {
-        "edition_number": "1",
-        "publication_date": "",
-        "publisher": "SuttaCentral",
-        "publication_type": "website",
-        "edition_url": "https://suttacentral.net/pli-tv-bi-pm"
-      }
-    ]
-  },
-  "scpub86": {
-    "publication_number": "scpub86",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "de",
-    "translation_lang_name": "Deutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/vinaya",
-    "author_uid": "sabbamitta",
-    "author_name": "Sabbamitta",
-    "author_github_handle": "sabbamitta",
-    "text_uid": "pli-tv-bu-pm",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "Bhikkhu Pātimokkha",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
-    },
-    "edition": [
-      {
-        "edition_number": "1",
-        "publication_date": "",
-        "publisher": "SuttaCentral",
-        "publication_type": "website",
-        "edition_url": "https://suttacentral.net/pli-tv-bu-pm"
-      }
-    ]
-  },
-  "scpub87": {
-    "publication_number": "scpub87",
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "pt",
@@ -3144,8 +3009,8 @@
       }
     ]
   },
-  "scpub88": {
-    "publication_number": "scpub88",
+  "scpub84": {
+    "publication_number": "scpub84",
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
     "translation_lang_iso": "pt",
