@@ -17,7 +17,7 @@
       "geometry": { "type": "Point", "coordinates": [83.671875, 25.614286] },
       "properties": {
         "layer": "Capital cities",
-        "name": "Ayujjhā / Ayojjhā",
+        "name": "Ayojjhā",
         "icon": "building",
         "id": "ayujjhā",
         "define": "ayujjhā"
@@ -28,7 +28,7 @@
       "geometry": { "type": "Point", "coordinates": [83.0044556, 25.2993376] },
       "properties": {
         "layer": "Capital cities",
-        "name": "Bārānasī / Benares",
+        "name": "Bārāṇasī",
         "icon": "building",
         "id": "bārānasī",
         "define": "bārānasī"
@@ -94,7 +94,7 @@
       "geometry": { "type": "Point", "coordinates": [77.673611, 27.4925] },
       "properties": {
         "layer": "Capital cities",
-        "name": "Madhurā / Mathurā",
+        "name": "Madhurā ",
         "icon": "building",
         "id": "madhurā",
         "define": "madhurā"
@@ -204,7 +204,7 @@
       "geometry": { "type": "Point", "coordinates": [80.2716074, 25.3986163] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Ambatittha / Ambatitthā / Ambatiṭṭha",
+        "name": "Ambatittha ",
         "icon": "question",
         "id": "ambatittha",
         "define": "ambatittha"
@@ -237,7 +237,7 @@
       "geometry": { "type": "Point", "coordinates": [81.4773609, 25.3521726] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Bālakaloṇakāra / Bākalonakārāgama / Bālakalonakārāma",
+        "name": "Bālakaloṇakāragāma ",
         "icon": "question",
         "id": "bālakaloṇakāra",
         "define": "bālakaloṇakāra"
@@ -292,7 +292,7 @@
       "geometry": { "type": "Point", "coordinates": [84.298782, 26.573175] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Bhoganagara / Bhoga / Bhogagāmanagara",
+        "name": "Bhoganagara ",
         "icon": "circle",
         "id": "bhoganagara",
         "define": "bhoganagara"
@@ -347,7 +347,7 @@
       "geometry": { "type": "Point", "coordinates": [87.83803, 25.0489] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Kajangala / Kajangalā",
+        "name": "Kajaṅgalā",
         "icon": "circle",
         "id": "kajangala",
         "define": "kajangala"
@@ -402,7 +402,7 @@
       "geometry": { "type": "Point", "coordinates": [82.706451, 27.630007] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Iccānaṅgala / Icchānaṅkala",
+        "name": "Icchānaṅgala",
         "icon": "circle",
         "id": "iccānaṅgala",
         "define": "iccānaṅgala"
@@ -446,7 +446,7 @@
       "geometry": { "type": "Point", "coordinates": [85.267639, 26.008658] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Kalandagāma / Kalanda / Kalaṇḍaka",
+        "name": "Kalandagāma ",
         "icon": "question",
         "id": "kalandagāma",
         "define": "kalandagāma"
@@ -457,7 +457,7 @@
       "geometry": { "type": "Point", "coordinates": [78.02, 29.17] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Kammāsadhamma / Kammāsadamma / Kammasadamma / Kammasadhamma",
+        "name": "Kammāsadhamma ",
         "icon": "circle",
         "id": "kammāsadhamma",
         "define": "kammāsadhamma"
@@ -468,7 +468,7 @@
       "geometry": { "type": "Point", "coordinates": [80.20407, 26.0223878] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Kaṇṇakujja / Kaṇṇagocchaka / Kaṇṇagotta",
+        "name": "Kaṇṇakujja",
         "icon": "question",
         "id": "kaṇṇakujja",
         "define": "kaṇṇakujja"
@@ -512,7 +512,7 @@
       "geometry": { "type": "Point", "coordinates": [75.5932612, 22.1518001] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Mahesā / Māhissati",
+        "name": "Māhissatī",
         "icon": "circle",
         "id": "mahesā",
         "define": "mahesā"
@@ -523,7 +523,7 @@
       "geometry": { "type": "Point", "coordinates": [83.233795, 27.626357] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Medāḷupa / Medatalumpa",
+        "name": "Medāḷupa ",
         "icon": "question",
         "id": "medāḷupa",
         "define": "medāḷupa"
@@ -545,7 +545,7 @@
       "geometry": { "type": "Point", "coordinates": [82.934418, 27.606888] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Nagaraka / Naṅgaraka",
+        "name": "Nagaraka ",
         "icon": "question",
         "id": "nagaraka",
         "define": "nagaraka"
@@ -556,7 +556,7 @@
       "geometry": { "type": "Point", "coordinates": [85.443521, 25.136951] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Nāḷandā / Nāla / Nālaka / Nālika / Upatissagāma",
+        "name": "Nāḷandā ",
         "icon": "circle",
         "id": "nāḷandā",
         "define": "nāḷandā"
@@ -567,7 +567,7 @@
       "geometry": { "type": "Point", "coordinates": [83.7130737, 27.3083331] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Pajjanika / Sajjanela",
+        "name": "Pajjanika ",
         "icon": "question",
         "id": "pajjanika",
         "define": "pajjanika"
@@ -578,7 +578,7 @@
       "geometry": { "type": "Point", "coordinates": [81.622925, 25.413509] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Pālileyya / Pārileyya / Pārileyyaka",
+        "name": "Pālileyya ",
         "icon": "question",
         "id": "pālileyya",
         "define": "pālileyya"
@@ -611,7 +611,7 @@
       "geometry": { "type": "Point", "coordinates": [84.09827, 26.146795] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Rāmagāmaka / Rāmagāma",
+        "name": "Rāmagāma",
         "icon": "question",
         "id": "rāmagāmaka",
         "define": "rāmagāmaka"
@@ -655,7 +655,7 @@
       "geometry": { "type": "Point", "coordinates": [83.4576434, 27.3278568] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Sāmuga / Sāpūga",
+        "name": "Sāpūga",
         "icon": "question",
         "id": "sāmuga",
         "define": "sāmuga"
@@ -666,7 +666,7 @@
       "geometry": { "type": "Point", "coordinates": [84.9682617, 24.722509] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Senānigama / Senānīnigama",
+        "name": "Senānigama ",
         "icon": "question",
         "id": "senānigama",
         "define": "senānigama"
@@ -677,7 +677,7 @@
       "geometry": { "type": "Point", "coordinates": [82.548065, 27.668934] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Setabyā / Setavyā",
+        "name": "Setabyā ",
         "icon": "circle",
         "id": "setabyā",
         "define": "setabyā"
@@ -710,7 +710,7 @@
       "geometry": { "type": "Point", "coordinates": [85.0781286, 24.7380974] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Ṭaṅkitamañca / Taṅkitamañca",
+        "name": "Ṭaṅkitamañca ",
         "icon": "question",
         "id": "ṭaṅkitamañca",
         "define": "ṭaṅkitamañca"
@@ -754,7 +754,7 @@
       "geometry": { "type": "Point", "coordinates": [85.039666, 25.723207] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Ukkaceḷā / Ukkacelā / Ukkavelā / Ukkaveḷā",
+        "name": "Ukkacelā",
         "icon": "question",
         "id": "ukkacelā",
         "define": "ukkacelā"
@@ -765,7 +765,7 @@
       "geometry": { "type": "Point", "coordinates": [84.991275, 24.695102] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Uruvelā / Senānigama / Uruvelapattana",
+        "name": "Uruvelā ",
         "icon": "circle",
         "id": "uruvelā",
         "define": "uruvelā"
@@ -787,7 +787,7 @@
       "geometry": { "type": "Point", "coordinates": [83.5812369, 27.3790824] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Uttara / Uttaraka",
+        "name": "Uttara ",
         "icon": "question",
         "id": "uttara",
         "define": "uttara"
@@ -798,7 +798,7 @@
       "geometry": { "type": "Point", "coordinates": [82.1557617, 22.8537964] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Veḷukaṇḍa / Veḷukaṇṭa",
+        "name": "Veḷukaṇḍa ",
         "icon": "question",
         "id": "veḷukaṇḍa",
         "define": "veḷukaṇḍa"
@@ -809,7 +809,7 @@
       "geometry": { "type": "Point", "coordinates": [80.172729, 24.698962] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Vanasa / Vanasāvhaya / Tumbavanagara / Pavana / Vanasāvatthī",
+        "name": "Vanasa ",
         "icon": "circle",
         "id": "vanasavhaya",
         "define": "vanasavhaya"
@@ -820,7 +820,7 @@
       "geometry": { "type": "Point", "coordinates": [77.812744, 23.535478] },
       "properties": {
         "layer": "Towns & villages",
-        "name": "Vedisa / Vedisagiri",
+        "name": "Vedisa ",
         "icon": "circle",
         "id": "vedisa",
         "define": "vedisa"
@@ -919,7 +919,7 @@
       "geometry": { "type": "Point", "coordinates": [82.196738, 26.798927] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Añjanavana / Añcanavana",
+        "name": "Añjanavana ",
         "icon": "tree",
         "id": "añjanavana",
         "define": "añjanavana"
@@ -974,7 +974,7 @@
       "geometry": { "type": "Point", "coordinates": [85.115204, 26.081807] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Bahuputta / Bahuputta Cetiya/ Bahuputtaka Cetiya / Bahuputtaka",
+        "name": "Bahuputta ",
         "icon": "pray",
         "id": "bahuputta cetiya",
         "define": "bahuputta cetiya"
@@ -996,7 +996,7 @@
       "geometry": { "type": "Point", "coordinates": [83.895721, 26.751742] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Baliharana / Baliharaṇa",
+        "name": "Baliharaṇa",
         "icon": "tree",
         "id": "baliharaṇa",
         "define": "baliharaṇa"
@@ -1073,7 +1073,7 @@
       "geometry": { "type": "Point", "coordinates": [77.644501, 18.912782] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Godhāvarī / Godhāvari",
+        "name": "Godhāvarī ",
         "icon": "water",
         "id": "godhāvarī",
         "define": "godhāvarī"
@@ -1095,7 +1095,7 @@
       "geometry": { "type": "Point", "coordinates": [85.3663445, 24.987614] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Gomatakakandarā / Gomatakandarā / Gomatakaṇḍarā",
+        "name": "Gomatakakandarā ",
         "icon": "mountain",
         "id": "gomatakakandarā",
         "define": "gomatakakandarā"
@@ -1161,7 +1161,7 @@
       "geometry": { "type": "Point", "coordinates": [77.65686, 27.454665] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Gundāvana / Kundāvana / Guṇḍāvana / Kuṇḍāvana",
+        "name": "Gundāvana",
         "icon": "tree",
         "id": "gundāvana",
         "define": "gundāvana"
@@ -1194,7 +1194,7 @@
       "geometry": { "type": "Point", "coordinates": [85.418859, 24.985047] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Isigili / Isigilapassa",
+        "name": "Isigili ",
         "icon": "mountain",
         "id": "isigili",
         "define": "isigili"
@@ -1205,7 +1205,7 @@
       "geometry": { "type": "Point", "coordinates": [83.034238, 25.397519] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Isipatana / Migadaya",
+        "name": "Isipatana Migadāya",
         "icon": "tree",
         "id": "isipatana",
         "define": "isipatana"
@@ -1260,7 +1260,7 @@
       "geometry": { "type": "Point", "coordinates": [82.214813, 26.797413] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Kantakīvana / Kaṇḍakīvana / Tikantakī",
+        "name": "Kaṇḍakīvana ",
         "icon": "tree",
         "id": "kaṇḍakīvana",
         "define": "kaṇḍakīvana"
@@ -1282,7 +1282,7 @@
       "geometry": { "type": "Point", "coordinates": [84.93805, 24.693188] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Kappāsika / Kappāsiya Vanasaṇḍa",
+        "name": "Kappāsiya Vanasaṇḍa",
         "icon": "tree",
         "id": "kappāsika vanasaṇḍa",
         "define": "kappāsika vanasaṇḍa"
@@ -1293,7 +1293,7 @@
       "geometry": { "type": "Point", "coordinates": [85.391407, 25.0128176] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Kassapakārāma / Kassapārāma",
+        "name": "Kassapakārāma ",
         "icon": "dhammacakka",
         "id": "kassapakārāma",
         "define": "kassapakārāma"
@@ -1337,7 +1337,7 @@
       "geometry": { "type": "Point", "coordinates": [83.27491, 27.46716] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Lumbinī / Lumbineyya",
+        "name": "Lumbinī ",
         "icon": "dhammacakka",
         "id": "lumbineyya",
         "define": "lumbineyya"
@@ -1381,7 +1381,7 @@
       "geometry": { "type": "Point", "coordinates": [85.944671, 26.719854] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Makhādevaambavana / Maghadevaambavana",
+        "name": "Makhādevaambavana ",
         "icon": "tree",
         "id": "maghadevaambavana",
         "define": "maghadevaambavana"
@@ -1403,7 +1403,7 @@
       "geometry": { "type": "Point", "coordinates": [82.074738, 27.507358] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Mallikārāma / Mallikāya ārāma",
+        "name": "Mallikārāma",
         "icon": "tree",
         "id": "mallikāya ārāma",
         "define": "mallikāya ārāma"
@@ -1458,7 +1458,7 @@
       "geometry": { "type": "Point", "coordinates": [78.813713, 26.8829432] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Naḷerupucimanda / Naḷerupucimanda / Nalerupucimaṇḍa",
+        "name": "Naḷerupucimanda ",
         "icon": "tree",
         "id": "naḷerupucimanda",
         "define": "naḷerupucimanda"
@@ -1469,7 +1469,7 @@
       "geometry": { "type": "Point", "coordinates": [85.005684, 24.721573] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Nerañjarā / Nerañjarāya",
+        "name": "Nerañjarā ",
         "icon": "water",
         "id": "nerañjarāya",
         "define": "nerañjarāya"
@@ -1513,7 +1513,7 @@
       "geometry": { "type": "Point", "coordinates": [81.85, 25.45] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Payāga / Payāgatiṭṭha / Payāgapatiṭṭhāna",
+        "name": "Payāga Ford",
         "icon": "water",
         "id": "payāga",
         "define": "payāga"
@@ -1535,7 +1535,7 @@
       "geometry": { "type": "Point", "coordinates": [85.430245, 25.01897] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Pipphaligūhā / Pippaliguhā",
+        "name": "Pippaliguhā",
         "icon": "mountain",
         "id": "pippaliguhā",
         "define": "pippaliguhā"
@@ -1578,7 +1578,7 @@
       "geometry": { "type": "Point", "coordinates": [75.7919312, 22.4338789] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Papāte Pabbate / Papātapabbata",
+        "name": "Papātapabbata",
         "icon": "mountain",
         "id": "papāte pabbate",
         "define": "papāte pabbate"
@@ -1611,7 +1611,7 @@
       "geometry": { "type": "Point", "coordinates": [81.627388, 25.407927] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Rakkhitavanasaṇḍa / Rakkhita",
+        "name": "Rakkhitavanasaṇḍa ",
         "icon": "tree",
         "id": "rakkhita",
         "define": "rakkhita"
@@ -1633,7 +1633,7 @@
       "geometry": { "type": "Point", "coordinates": [85.3404236, 24.9754771] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Sappasoṇḍikapabbhāra / Sappasoṇḍika",
+        "name": "Sappasoṇḍikapabbhāra ",
         "icon": "mountain",
         "id": "sappasoṇḍikapabbhāra",
         "define": "sappasoṇḍikapabbhāra"
@@ -1655,7 +1655,7 @@
       "geometry": { "type": "Point", "coordinates": [85.0523764, 26.0194575] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Sattamba / Sattambaka",
+        "name": "Sattamba ",
         "icon": "pray",
         "id": "sattamba",
         "define": "sattamba"
@@ -1732,7 +1732,7 @@
       "geometry": { "type": "Point", "coordinates": [85.3606796, 25.0177954] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Sumāgadhā / Sumāgavā",
+        "name": "Sumāgadhā ",
         "icon": "water",
         "id": "sumāgadhā",
         "define": "sumāgadhā"
@@ -1776,7 +1776,7 @@
       "geometry": { "type": "Point", "coordinates": [83.8986393, 26.7301265] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Upavatta / Upavattana",
+        "name": "Upavattana",
         "icon": "dhammacakka",
         "id": "upavatta",
         "define": "upavatta"
@@ -1820,7 +1820,7 @@
       "geometry": { "type": "Point", "coordinates": [85.386858, 24.967362] },
       "properties": {
         "layer": "Temples & features",
-        "name": "Vepulla / Vipula / Vaṅkaka / Pācīnavaṁsa / Supassa",
+        "name": "Vepulla ",
         "icon": "mountain",
         "id": "vepulla",
         "define": "vepulla"
@@ -2058,7 +2058,7 @@
       },
       "properties": {
         "layer": "Mahajanapadas",
-        "name": "Cetiya / Ceti / Cetī / Cedi",
+        "name": "Cetī ",
         "style": {
           "color": "#db4436",
           "opacity": 1,
@@ -2167,7 +2167,7 @@
       },
       "properties": {
         "layer": "Mahajanapadas",
-        "name": "Kamboja / Kambojaka / Kambuja",
+        "name": "Kamboja ",
         "style": {
           "color": "#c6a4cf",
           "opacity": 1,
@@ -2225,7 +2225,7 @@
       },
       "properties": {
         "layer": "Mahajanapadas",
-        "name": "Kāsi / Kāsika / Kāsigāma / Kāsinigama",
+        "name": "Kāsi",
         "style": {
           "color": "#9fc3ff",
           "opacity": 1,
@@ -2506,7 +2506,7 @@
       },
       "properties": {
         "layer": "Mahajanapadas",
-        "name": "Pañcāla / Pañcālajanapada / Pañcālaraṭṭha / Pañcālā",
+        "name": "Pañcāla ",
         "style": {
           "color": "#ffdd5e",
           "opacity": 1,
@@ -2689,7 +2689,7 @@
       },
       "properties": {
         "layer": "Republics / countries",
-        "name": "Aḷaka / Mūḷaka",
+        "name": "Aḷaka ",
         "style": {
           "color": "#3f5ba9",
           "opacity": 1,
@@ -3065,7 +3065,7 @@
       },
       "properties": {
         "layer": "Republics / countries",
-        "name": "Yona / Yavāna / Yonakā",
+        "name": "Yona ",
         "style": {
           "color": "#db4436",
           "opacity": 1,
@@ -3670,7 +3670,7 @@
       "geometry": { "type": "Point", "coordinates": [115.8487701, -31.9579882] },
       "properties": {
         "layer": "Fanciful Places",
-        "name": "Sagga/Heaven",
+        "name": "Sagga (Heaven)",
         "icon": "circle",
         "id": "sagga"
       }
