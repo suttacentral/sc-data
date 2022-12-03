@@ -1548,7 +1548,8 @@
         "layer": "Temples & features",
         "name": "Piprahwa Stupa",
         "icon": "pray",
-        "id": "piprahwa stupa"
+        "id": "piprahwa stupa",
+        "define": "piprahwa stupa"
       }
     },
     {
@@ -3146,7 +3147,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.415955, 25.020906] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "1) Rājagaha",
         "icon": "walk",
         "id": "1) rājagaha"
@@ -3156,7 +3157,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.4653924, 25.1483956] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "2) Nāḷandā",
         "icon": "walk",
         "id": "2) nāḷandā"
@@ -3166,7 +3167,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.193481, 25.584563] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "3) Pataligama",
         "icon": "walk",
         "id": "3) pataligama"
@@ -3176,7 +3177,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.233307, 25.656382] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "4) Koṭigāma",
         "icon": "walk",
         "id": "4) koṭigāma"
@@ -3186,7 +3187,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.211334, 25.735581] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "5) Nādika",
         "icon": "walk",
         "id": "5) nādika"
@@ -3196,7 +3197,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.1505657, 25.8638602] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "6) Beluva",
         "icon": "walk",
         "id": "6) beluva"
@@ -3206,7 +3207,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.063019, 25.996316] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "7) Vesālī",
         "icon": "walk",
         "id": "7) vesālī"
@@ -3216,7 +3217,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.0321196, 26.1190666] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "8) Bhaṇḍagāma",
         "icon": "walk",
         "id": "8) bhaṇḍagāma"
@@ -3226,7 +3227,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [84.8117065, 26.3918697] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "9) Hatthigāmaka",
         "icon": "walk",
         "id": "9) hatthigāmaka"
@@ -3236,7 +3237,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [84.6194463, 26.4336855] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "10) Ambagāma",
         "icon": "walk",
         "id": "10) ambagāma"
@@ -3246,7 +3247,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [84.4573975, 26.4926987] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "11) Jambugāma",
         "icon": "walk",
         "id": "11) jambugāma"
@@ -3256,7 +3257,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [84.3145761, 26.5958976] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "12) Bhoganagara",
         "icon": "walk",
         "id": "12) bhoganagara"
@@ -3266,7 +3267,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [84.094849, 26.694091] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "13) Pāvā",
         "icon": "walk",
         "id": "13) pāvā"
@@ -3276,7 +3277,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [83.915634, 26.740092] },
       "properties": {
-        "layer": "Mahaparinibbana journey",
+        "layer": "Mahāparinibbāna journey",
         "name": "14) Kusinārā, Mallā",
         "icon": "walk",
         "id": "14) kusinārā, mallā"
@@ -3302,17 +3303,17 @@
         ]
       },
       "properties": {
-        "layer": "Mahaparinibbana journey",
-        "name": "Mahaparinibbana trek",
+        "layer": "Mahāparinibbāna journey",
+        "name": "Mahāparinibbāna journey",
         "style": { "color": "#a7b5d7", "opacity": 1, "weight": 4 },
-        "id": "mahaparinibbana trek"
+        "id": "Mahāparinibbāna journey"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [73.5377617, 19.7373649] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "1) Mūḷaka",
         "icon": "walk",
         "id": "1) mūḷaka"
@@ -3322,7 +3323,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [75.380859, 19.482129] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "2) Patiṭṭhāna",
         "icon": "walk",
         "id": "2) patiṭṭhāna"
@@ -3332,7 +3333,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [75.357056, 22.019453] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "3) Māhissati",
         "icon": "walk",
         "id": "3) māhissati"
@@ -3342,7 +3343,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [75.777222, 23.182778] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "4) Ujjenī",
         "icon": "walk",
         "id": "4) ujjenī"
@@ -3352,7 +3353,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [77.0800781, 23.7602094] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "5) Gonaddha",
         "icon": "walk",
         "id": "5) gonaddha"
@@ -3362,7 +3363,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [78.4588623, 24.141741] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "6) Vedisa",
         "icon": "walk",
         "id": "6) vedisa"
@@ -3372,7 +3373,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [80.2166748, 24.6819612] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "7) Vanasa",
         "icon": "walk",
         "id": "7) vanasa"
@@ -3382,7 +3383,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [81.392899, 25.338984] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "8) Kosambī",
         "icon": "walk",
         "id": "8) kosambī"
@@ -3392,7 +3393,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [82.2, 26.8] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "9) Sāketa",
         "icon": "walk",
         "id": "9) sāketa"
@@ -3402,7 +3403,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [82.0953369, 27.4985267] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "10) Sāvatthī",
         "icon": "walk",
         "id": "10) sāvatthī"
@@ -3412,7 +3413,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [82.548065, 27.668934] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "11) Setabyā",
         "icon": "walk",
         "id": "11) setabyā"
@@ -3422,7 +3423,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [83.034668, 27.5484591] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "12) Kapilavatthu",
         "icon": "walk",
         "id": "12) kapilavatthu"
@@ -3432,7 +3433,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [83.8922882, 26.761552] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "13) Kusinārā",
         "icon": "walk",
         "id": "13) kusinārā"
@@ -3442,7 +3443,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [84.0558795, 26.6777435] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "14) Pāvā",
         "icon": "walk",
         "id": "14) pāvā"
@@ -3452,7 +3453,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [84.298782, 26.573175] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "15) Bhoganagara",
         "icon": "walk",
         "id": "15) bhoganagara"
@@ -3462,7 +3463,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.1007843, 26.0154464] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "16) Vesāli",
         "icon": "walk",
         "id": "16) vesāli"
@@ -3472,7 +3473,7 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [85.4393005, 25.0215287] },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "17) Rājagaha",
         "icon": "walk",
         "id": "17) rājagaha"
@@ -3637,7 +3638,7 @@
         ]
       },
       "properties": {
-        "layer": "Parayanavagga journey",
+        "layer": "Pārāyanavagga journey",
         "name": "Line 18",
         "style": { "color": "#777777", "opacity": 1, "weight": 3.713 },
         "id": "line 18"
