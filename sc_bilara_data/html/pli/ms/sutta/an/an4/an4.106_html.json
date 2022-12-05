@@ -2,5 +2,5 @@
   "an4.106:0.1": "<article id='an4.106'><header><ul><li class='division'>{}</li>",
   "an4.106:0.2": "<li>{}</li></ul>",
   "an4.106:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "an4.106:1.1": "<p><i>{}</p></i></article>"
+  "an4.106:1.1": "<p class='expansion-instructions'>{}</p></article>"
 }
