@@ -176,7 +176,7 @@
   "ne5:36.4": "<span class='verse-line'>{}</span>",
   "ne5:36.5": "<span class='verse-line'>{}</span>",
   "ne5:36.6": "<span class='verse-line'>{}</span></p>",
-  "ne5:37.1": "<p>{}",
+  "ne5:37.1": "<p><span class='verse-line'>{}</span>",
   "ne5:37.2": "<span class='speaker'>{}</span>",
   "ne5:37.3": "<span class='verse-line'>{}</span>",
   "ne5:37.4": "<span class='verse-line'>{}</span>",

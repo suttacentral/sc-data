@@ -8,7 +8,7 @@
   "sn2.7:2.2": "<span class='verse-line'>{}</span>",
   "sn2.7:2.3": "<span class='verse-line'>{}</span>",
   "sn2.7:2.4": "<span class='verse-line'>{}</span></p>",
-  "sn2.7:3.1": "<p>{}",
+  "sn2.7:3.1": "<p><span class='verse-line'>{}</span>",
   "sn2.7:3.2": "<span class='speaker'>{}</span>",
   "sn2.7:3.3": "<span class='verse-line'>{}</span>",
   "sn2.7:3.4": "<span class='verse-line'>{}</span>",

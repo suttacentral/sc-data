@@ -1136,7 +1136,7 @@
   "ne37:364.2": "<span class='verse-line'>{}</span>",
   "ne37:364.3": "<span class='verse-line'>{}</span>",
   "ne37:364.4": "<span class='verse-line'>{}</span></p>",
-  "ne37:365.1": "<p>{}",
+  "ne37:365.1": "<p><span class='verse-line'>{}</span>",
   "ne37:365.2": "<span class='speaker'>{}</span>",
   "ne37:365.3": "<span class='verse-line'>{}</span>",
   "ne37:365.4": "<span class='verse-line'>{}</span>",

@@ -26,7 +26,7 @@
   "sn1.34:6.4": "<span class='verse-line'>{}</span>",
   "sn1.34:6.5": "<span class='verse-line'>{}</span>",
   "sn1.34:6.6": "<span class='verse-line'>{}</span></p>",
-  "sn1.34:7.1": "<p>{}",
+  "sn1.34:7.1": "<p><span class='verse-line'>{}</span>",
   "sn1.34:7.2": "<span class='speaker'>{}</span>",
   "sn1.34:7.3": "<span class='verse-line'>{}</span>",
   "sn1.34:7.4": "<span class='verse-line'>{}</span>",
