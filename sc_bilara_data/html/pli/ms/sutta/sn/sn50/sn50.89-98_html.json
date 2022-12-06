@@ -2,7 +2,7 @@
   "sn50.89-98:0.1": "<article id='sn50.89-98'><header><ul><li class='division'>{}</li>",
   "sn50.89-98:0.2": "<li>{}</li></ul>",
   "sn50.89-98:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "sn50.89-98:1.1": "<p>{}</p>",
+  "sn50.89-98:1.1": "<p class='expansion-instructions'>{}</p>",
   "sn50.89-98:1.2": "<p class='endsection'>{}</p>",
   "sn50.89-98:2.0": "<p class='uddana-intro'>{}</p>",
   "sn50.89-98:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",

@@ -2,5 +2,5 @@
   "sn50.77-88:0.1": "<article id='sn50.77-88'><header><ul><li class='division'>{}</li>",
   "sn50.77-88:0.2": "<li>{}</li></ul>",
   "sn50.77-88:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "sn50.77-88:1.1": "<p>{}</p></article>"
+  "sn50.77-88:1.1": "<p class='expansion-instructions'>{}</p></article>"
 }

@@ -2,6 +2,6 @@
   "sn24.20-35:0.1": "<article id='sn24.20-35'><header><ul><li class='division'>{}</li>",
   "sn24.20-35:0.2": "<li>{}</li></ul>",
   "sn24.20-35:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "sn24.20-35:1.1": "<p>{}</p>",
+  "sn24.20-35:1.1": "<p class='expansion-instructions'>{}</p>",
   "sn24.20-35:1.2": "<p class='endsection'>{}</p></article>"
 }

@@ -32,6 +32,6 @@
   "sn19.1:4.6": "{}</p>",
   "sn19.1:4.7": "<p>{}",
   "sn19.1:4.8": "{}</p>",
-  "sn19.1:4.9": "<p>{}</p>",
+  "sn19.1:4.9": "<p class='expansion-instructions'>{}</p>",
   "sn19.1:4.10": "<p class='endsection'>{}</p></article>"
 }
