@@ -17,12 +17,12 @@
   "sn17.38-43:1.13": "<p>{}",
   "sn17.38-43:1.14": "{}",
   "sn17.38-43:1.15": "{}</p>",
-  "sn17.38-43:1.16": "<p class='endsection'>{}</p>",
-  "sn17.38-43:1.17": "<p class='endsection'>{}</p>",
+  "sn17.38-43:1.16": "<p class='endsutta'>{}</p>",
+  "sn17.38-43:1.17": "<p class='endvagga'>{}</p>",
   "sn17.38-43:2.0": "<p class='uddana-intro'>{}</p>",
   "sn17.38-43:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn17.38-43:2.2": "<span class='verse-line'>{}</span>",
   "sn17.38-43:2.3": "<span class='verse-line'>{}</span>",
   "sn17.38-43:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn17.38-43:2.5": "<p class='endsutta'>{}</p></article>"
+  "sn17.38-43:2.5": "<p class='endbook'>{}</p></article>"
 }

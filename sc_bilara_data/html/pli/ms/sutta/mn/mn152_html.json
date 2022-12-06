@@ -123,8 +123,8 @@
   "mn152:18.2": "{}</p>",
   "mn152:18.3": "<p>{}",
   "mn152:18.4": "{}</p>",
-  "mn152:18.5": "<p class='endsection'>{}</p>",
-  "mn152:18.6": "<p class='endsutta'>{}</p>",
+  "mn152:18.5": "<p class='endsutta'>{}</p>",
+  "mn152:18.6": "<p class='endvagga'>{}</p>",
   "mn152:19.0": "<p class='uddana-intro'>{}</p>",
   "mn152:19.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "mn152:19.2": "<span class='verse-line'>{}</span>",
@@ -138,6 +138,6 @@
   "mn152:20.3": "<span class='verse-line'>{}</span>",
   "mn152:20.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "mn152:20.5": "<p class='endbook'>{}</p>",
-  "mn152:20.6": "<p class='endsection'>{}</p>",
+  "mn152:20.6": "<p class='end'>{}</p>",
   "mn152:20.7": "<p class='endbook'>{}</p></article>"
 }

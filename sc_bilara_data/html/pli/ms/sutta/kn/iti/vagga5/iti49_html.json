@@ -28,8 +28,8 @@
   "iti49:7.3": "<span class='verse-line'>{}</span>",
   "iti49:7.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "iti49:8.1": "<p>{}</p>",
-  "iti49:8.2": "<p class='endsection'>{}</p>",
-  "iti49:8.3": "<p class='endsection'>{}</p>",
+  "iti49:8.2": "<p class='endsutta'>{}</p>",
+  "iti49:8.3": "<p class='endvagga'>{}</p>",
   "iti49:9.0": "<p class='uddana-intro'>{}</p>",
   "iti49:9.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "iti49:9.2": "<span class='verse-line'>{}</span>",
@@ -41,5 +41,5 @@
   "iti49:10.4": "<span class='verse-line'>{}</span>",
   "iti49:10.5": "<span class='verse-line'>{}</span>",
   "iti49:10.6": "<span class='verse-line'>{}</span></p></blockquote>",
-  "iti49:10.7": "<p class='endsutta'>{}</p></article>"
+  "iti49:10.7": "<p class='endbook'>{}</p></article>"
 }

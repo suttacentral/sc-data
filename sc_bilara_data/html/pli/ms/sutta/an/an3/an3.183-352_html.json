@@ -43,7 +43,7 @@
   "an3.183-352:3.26": "{}</p>",
   "an3.183-352:4.1": "<p>{}",
   "an3.183-352:4.2": "{}</p>",
-  "an3.183-352:4.3": "<p class='endsection'>{}</p>",
+  "an3.183-352:4.3": "<p class='endsutta'>{}</p>",
   "an3.183-352:5.0": "<p class='uddana-intro'>{}</p>",
   "an3.183-352:5.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an3.183-352:5.2": "<span class='verse-line'>{}</span>",
@@ -63,6 +63,6 @@
   "an3.183-352:8.2": "<span class='verse-line'>{}</span>",
   "an3.183-352:8.3": "<span class='verse-line'>{}</span>",
   "an3.183-352:8.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an3.183-352:8.5": "<p class='endsutta'>{}</p>",
+  "an3.183-352:8.5": "<p class='endbook'>{}</p>",
   "an3.183-352:8.6": "<p class='endbook'>{}</p></article>"
 }

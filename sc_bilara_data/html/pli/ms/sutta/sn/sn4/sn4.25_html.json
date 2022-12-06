@@ -108,11 +108,11 @@
   "sn4.25:25.2": "<span class='verse-line'>{}</span>",
   "sn4.25:25.3": "<span class='verse-line'>{}</span>",
   "sn4.25:25.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn4.25:25.5": "<p class='endsection'>{}</p>",
+  "sn4.25:25.5": "<p class='endvagga'>{}</p>",
   "sn4.25:26.0": "<p class='uddana-intro'>{}</p>",
   "sn4.25:26.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn4.25:26.2": "<span class='verse-line'>{}</span>",
   "sn4.25:26.3": "<span class='verse-line'>{}</span>",
   "sn4.25:26.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn4.25:26.5": "<p class='endsutta'>{}</p></article>"
+  "sn4.25:26.5": "<p class='endbook'>{}</p></article>"
 }

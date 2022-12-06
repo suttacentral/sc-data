@@ -36,7 +36,7 @@
   "thag8.3:8.3": "<span class='verse-line'>{}</span>",
   "thag8.3:8.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "thag8.3:8.5": "<p class='endsutta'>{}</p>",
-  "thag8.3:8.6": "<p class='endsection'>{}</p>",
+  "thag8.3:8.6": "<p class='endbook>{}</p>",
   "thag8.3:9.0": "<p class='uddana-intro'>{}</p>",
   "thag8.3:9.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "thag8.3:9.2": "<span class='verse-line'>{}</span>",

@@ -3,12 +3,12 @@
   "sn52.24:0.2": "<li>{}</li></ul>",
   "sn52.24:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn52.24:1.1": "<p>{}</p>",
-  "sn52.24:1.2": "<p class='endsection'>{}</p>",
-  "sn52.24:1.3": "<p class='endsection'>{}</p>",
+  "sn52.24:1.2": "<p class='endsutta'>{}</p>",
+  "sn52.24:1.3": "<p class='endvagga'>{}</p>",
   "sn52.24:2.0": "<p class='uddana-intro'>{}</p>",
   "sn52.24:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn52.24:2.2": "<span class='verse-line'>{}</span>",
   "sn52.24:2.3": "<span class='verse-line'>{}</span>",
   "sn52.24:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn52.24:2.5": "<p class='endsutta'>{}</p></article>"
+  "sn52.24:2.5": "<p class='endbook'>{}</p></article>"
 }

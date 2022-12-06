@@ -39,12 +39,12 @@
   "an4.100:6.2": "{}",
   "an4.100:6.3": "{}",
   "an4.100:6.4": "{}</p>",
-  "an4.100:6.5": "<p class='endsection'>{}</p>",
-  "an4.100:6.6": "<p class='endsection'>{}</p>",
+  "an4.100:6.5": "<p class='endsutta'>{}</p>",
+  "an4.100:6.6": "<p class='endvagga'>{}</p>",
   "an4.100:7.0": "<p class='uddana-intro'>{}</p>",
   "an4.100:7.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an4.100:7.2": "<span class='verse-line'>{}</span>",
   "an4.100:7.3": "<span class='verse-line'>{}</span>",
   "an4.100:7.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an4.100:7.5": "<p class='endsutta'>{}</p></article>"
+  "an4.100:7.5": "<p class='endbook'>{}</p></article>"
 }

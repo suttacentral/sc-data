@@ -3,11 +3,11 @@
   "sn12.82:0.2": "<li>{}</li></ul>",
   "sn12.82:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn12.82:1.1": "<p>{}</p>",
-  "sn12.82:1.2": "<p data-counter='353'>{}",
+  "sn12.82:1.2": "<p>{}",
   "sn12.82:1.3": "{}",
   "sn12.82:1.4": "{}",
   "sn12.82:1.5": "{}</p>",
-  "sn12.82:1.6": "<p>{}</p>",
-  "sn12.82:1.7": "<p class='endsection'>{}</p>",
+  "sn12.82:1.6": "<p class='end'>{}</p>",
+  "sn12.82:1.7": "<p class='endsutta'>{}</p>",
   "sn12.82:1.8": "<p class='expansion-instructions'>{}</p></article>"
 }

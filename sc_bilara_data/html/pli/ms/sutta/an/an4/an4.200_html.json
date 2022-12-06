@@ -82,12 +82,12 @@
   "an4.200:18.1": "<p>{}",
   "an4.200:18.2": "{}",
   "an4.200:18.3": "{}</p>",
-  "an4.200:18.4": "<p class='endsection'>{}</p>",
-  "an4.200:18.5": "<p class='endsection'>{}</p>",
+  "an4.200:18.4": "<p class='endsutta'>{}</p>",
+  "an4.200:18.5": "<p class='endvagga'>{}</p>",
   "an4.200:19.0": "<p class='uddana-intro'>{}</p>",
   "an4.200:19.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an4.200:19.2": "<span class='verse-line'>{}</span>",
   "an4.200:19.3": "<span class='verse-line'>{}</span>",
   "an4.200:19.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an4.200:19.5": "<p class='endsutta'>{}</p></article>"
+  "an4.200:19.5": "<p class='endbook'>{}</p></article>"
 }

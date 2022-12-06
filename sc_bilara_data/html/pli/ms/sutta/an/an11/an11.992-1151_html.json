@@ -30,11 +30,11 @@
   "an11.992-1151:1.25": "{}</p>",
   "an11.992-1151:2.1": "<p>{}",
   "an11.992-1151:2.2": "{}</p>",
-  "an11.992-1151:2.3": "<p class='endsection'>{}</p>",
+  "an11.992-1151:2.3": "<p class='endsutta'>{}</p>",
   "an11.992-1151:3.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an11.992-1151:3.2": "<span class='verse-line'>{}</span>",
   "an11.992-1151:3.3": "<span class='verse-line'>{}</span>",
-  "an11.992-1151:3.4": "<span class='verse-line'>{}</span>",
-  "an11.992-1151:3.5": "</p></blockquote><p class='endbook'>{}</p>",
+  "an11.992-1151:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
+  "an11.992-1151:3.5": "<p class='endbook'>{}</p>",
   "an11.992-1151:3.6": "<p class='endbook'>{}</p></article>"
 }

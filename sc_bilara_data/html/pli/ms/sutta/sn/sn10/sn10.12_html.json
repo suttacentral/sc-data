@@ -79,11 +79,11 @@
   "sn10.12:13.2": "<span class='verse-line'>{}</span>",
   "sn10.12:13.3": "<span class='verse-line'>{}</span>",
   "sn10.12:13.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn10.12:13.5": "<p class='endsection'>{}</p>",
+  "sn10.12:13.5": "<p class='endvagga'>{}</p>",
   "sn10.12:14.0": "<p class='uddana-intro'>{}</p>",
   "sn10.12:14.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn10.12:14.2": "<span class='verse-line'>{}</span>",
   "sn10.12:14.3": "<span class='verse-line'>{}</span>",
   "sn10.12:14.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn10.12:14.5": "<p class='endsutta'>{}</p></article>"
+  "sn10.12:14.5": "<p class='endbook'>{}</p></article>"
 }

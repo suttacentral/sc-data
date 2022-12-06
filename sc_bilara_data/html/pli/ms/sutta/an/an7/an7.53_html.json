@@ -75,12 +75,12 @@
   "an7.53:13.3": "{}</p>",
   "an7.53:13.4": "<p data-counter='7'>{}</p>",
   "an7.53:14.1": "<p>{}</p>",
-  "an7.53:14.2": "<p class='endsection'>{}</p>",
-  "an7.53:14.3": "<p class='endsection'>{}</p>",
+  "an7.53:14.2": "<p class='endsutta'>{}</p>",
+  "an7.53:14.3": "<p class='endvagga'>{}</p>",
   "an7.53:15.0": "<p class='uddana-intro'>{}</p>",
   "an7.53:15.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an7.53:15.2": "<span class='verse-line'>{}</span>",
   "an7.53:15.3": "<span class='verse-line'>{}</span>",
   "an7.53:15.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an7.53:15.5": "<p class='endsutta'>{}</p></article>"
+  "an7.53:15.5": "<p class='endbook'>{}</p></article>"
 }

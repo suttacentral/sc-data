@@ -163,7 +163,7 @@
   "sn35.95:38.4": "<span class='verse-line'>{}</span>",
   "sn35.95:38.5": "<span class='verse-line'>{}</span>",
   "sn35.95:38.6": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn35.95:38.7": "<p class='endsection'>{}</p>",
+  "sn35.95:38.7": "<p>{}</p>",
   "sn35.95:39.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
   "sn35.95:39.2": "<span class='verse-line'>{}</span>",
   "sn35.95:39.3": "<span class='verse-line'>{}</span>",
@@ -179,5 +179,5 @@
   "sn35.95:42.2": "{}</p>",
   "sn35.95:42.3": "<p>{}",
   "sn35.95:42.4": "{}</p>",
-  "sn35.95:42.5": "<p class='endsection'>{}</p></article>"
+  "sn35.95:42.5": "<p class='endsutta'>{}</p></article>"
 }

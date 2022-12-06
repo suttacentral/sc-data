@@ -705,7 +705,7 @@
   "dn23:34.3": "{}",
   "dn23:34.4": "{}</p>",
   "dn23:34.5": "<p class='endsutta'>{}</p>",
-  "dn23:34.6": "<p class='endsutta'>{}</p>",
+  "dn23:34.6": "<p class='endvagga'>{}</p>",
   "dn23:35.0": "<p class='uddana-intro'>{}</p>",
   "dn23:35.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "dn23:35.2": "<span class='verse-line'>{}</span>",
@@ -713,5 +713,5 @@
   "dn23:35.4": "<span class='verse-line'>{}</span>",
   "dn23:35.5": "<span class='verse-line'>{}</span>",
   "dn23:35.6": "<span class='verse-line'>{}</span></p></blockquote>",
-  "dn23:35.7": "<p class='endbook'>{}</p></article>"
+  "dn23:35.7": "<p class='endvagga'>{}</p></article>"
 }

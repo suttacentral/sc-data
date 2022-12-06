@@ -3,5 +3,5 @@
   "sn24.40:0.2": "<li>{}</li></ul>",
   "sn24.40:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn24.40:1.1": "<p>{}</p>",
-  "sn24.40:1.2": "<p class='endsection'>{}</p></article>"
+  "sn24.40:1.2": "<p class='endsutta'>{}</p></article>"
 }

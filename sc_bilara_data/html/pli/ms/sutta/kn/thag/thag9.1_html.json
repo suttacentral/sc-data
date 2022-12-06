@@ -40,7 +40,7 @@
   "thag9.1:9.3": "<span class='verse-line'>{}</span>",
   "thag9.1:9.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "thag9.1:9.5": "<p class='endsutta'>{}</p>",
-  "thag9.1:9.6": "<p class='endsection'>{}</p>",
+  "thag9.1:9.6": "<p class='endbook>{}</p>",
   "thag9.1:10.0": "<p class='uddana-intro'>{}</p>",
   "thag9.1:10.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "thag9.1:10.2": "<span class='verse-line'>{}</span>",

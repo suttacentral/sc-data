@@ -880,7 +880,7 @@
   "dn34:2.3.131": "{}",
   "dn34:2.3.132": "{}</p>",
   "dn34:2.3.133": "<p class='endsutta'>{}</p>",
-  "dn34:2.3.134": "<p class='endsutta'>{}</p>",
+  "dn34:2.3.134": "<p class='endvagga'>{}</p>",
   "dn34:2.4.0": "<p class='uddana-intro'>{}</p>",
   "dn34:2.4.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "dn34:2.4.2": "<span class='verse-line'>{}</span>",
@@ -890,7 +890,7 @@
   "dn34:2.4.6": "<span class='verse-line'>{}</span>",
   "dn34:2.4.7": "<span class='verse-line'>{}</span>",
   "dn34:2.4.8": "<span class='verse-line'>{}</span></p></blockquote>",
-  "dn34:2.4.9": "<p class='endbook'>{}</p>",
-  "dn34:2.4.10": "<p class='endsection'>{}</p>",
+  "dn34:2.4.9": "<p class='endvagga'>{}</p>",
+  "dn34:2.4.10": "<p class='end'>{}</p>",
   "dn34:2.4.11": "<p class='endbook'>{}</p></article>"
 }
