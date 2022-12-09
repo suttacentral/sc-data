@@ -3052,5 +3052,39 @@
         "edition_url": "https://suttacentral.net/pli-tv-bu-pm"
       }
     ]
+  },
+  "scpub85": {
+    "publication_number": "scpub85",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pl",
+    "translation_lang_name": "Polski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pl/marcinow/sutta/sn",
+    "author_uid": "marcinow",
+    "author_name": "Piotr Marcinów",
+    "author_github_handle": "pyjterq",
+    "text_uid": "sn",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sn"
+      }
+    ]
   }
 }
