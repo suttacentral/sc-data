@@ -10,9 +10,9 @@
   "sn55.9:1.6": "{}",
   "sn55.9:1.7": "{}</p>",
   "sn55.9:2.1": "<p>{}</p>",
-  "sn55.9:2.2": "<p>{}</p>",
+  "sn55.9:2.2": "<p class='expansion-instructions'>{}</p>",
   "sn55.9:3.1": "<p>{}",
   "sn55.9:3.2": "{}",
   "sn55.9:3.3": "{}</p>",
-  "sn55.9:3.4": "<p class='endsection'>{}</p></article>"
+  "sn55.9:3.4": "<p class='endsutta'>{}</p></article>"
 }

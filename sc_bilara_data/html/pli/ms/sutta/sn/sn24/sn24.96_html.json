@@ -39,11 +39,11 @@
   "sn24.96:5.1": "<p>{}",
   "sn24.96:5.2": "{}</p>",
   "sn24.96:5.3": "<p>{}</p>",
-  "sn24.96:5.4": "<p class='endsection'>{}</p>",
+  "sn24.96:5.4": "<p class='endvagga'>{}</p>",
   "sn24.96:6.0": "<p class='uddana-intro'>{}</p>",
   "sn24.96:6.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn24.96:6.2": "<span class='verse-line'>{}</span>",
   "sn24.96:6.3": "<span class='verse-line'>{}</span>",
   "sn24.96:6.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn24.96:6.5": "<p class='endsutta'>{}</p></article>"
+  "sn24.96:6.5": "<p class='endbook'>{}</p></article>"
 }

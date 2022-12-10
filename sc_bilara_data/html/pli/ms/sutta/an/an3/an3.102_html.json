@@ -27,12 +27,12 @@
   "an3.102:4.4": "{}",
   "an3.102:4.5": "{}",
   "an3.102:4.6": "{}</p>",
-  "an3.102:4.7": "<p class='endsection'>{}</p>",
-  "an3.102:4.8": "<p class='endsection'>{}</p>",
+  "an3.102:4.7": "<p class='endsutta'>{}</p>",
+  "an3.102:4.8": "<p class='endvagga'>{}</p>",
   "an3.102:5.0": "<p class='uddana-intro'>{}</p>",
   "an3.102:5.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an3.102:5.2": "<span class='verse-line'>{}</span>",
   "an3.102:5.3": "<span class='verse-line'>{}</span>",
   "an3.102:5.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an3.102:5.5": "<p class='endsutta'>{}</p></article>"
+  "an3.102:5.5": "<p class='endbook'>{}</p></article>"
 }

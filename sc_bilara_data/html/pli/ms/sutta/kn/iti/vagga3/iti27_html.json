@@ -34,8 +34,8 @@
   "iti27:10.3": "<span class='verse-line'>{}</span>",
   "iti27:10.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "iti27:11.1": "<p>{}</p>",
-  "iti27:11.2": "<p class='endsection'>{}</p>",
-  "iti27:11.3": "<p class='endsection'>{}</p>",
+  "iti27:11.2": "<p class='endsutta'>{}</p>",
+  "iti27:11.3": "<p class='endvagga'>{}</p>",
   "iti27:12.0": "<p class='uddana-intro'>{}</p>",
   "iti27:12.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "iti27:12.2": "<span class='verse-line'>{}</span>",
@@ -45,5 +45,5 @@
   "iti27:13.2": "<span class='verse-line'>{}</span>",
   "iti27:13.3": "<span class='verse-line'>{}</span>",
   "iti27:13.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "iti27:13.5": "<p class='endsutta'>{}</p></article>"
+  "iti27:13.5": "<p class='endbook'>{}</p></article>"
 }

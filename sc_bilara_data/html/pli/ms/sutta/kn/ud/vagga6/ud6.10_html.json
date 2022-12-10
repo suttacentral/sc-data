@@ -20,11 +20,11 @@
   "ud6.10:6.2": "<span class='verse-line'>{}</span>",
   "ud6.10:6.3": "<span class='verse-line'>{}</span>",
   "ud6.10:6.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "ud6.10:6.5": "<p class='endsection'>{}</p>",
+  "ud6.10:6.5": "<p class='endsutta'>{}</p>",
   "ud6.10:7.0": "<p class='uddana-intro'>{}</p>",
   "ud6.10:7.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "ud6.10:7.2": "<span class='verse-line'>{}</span>",
   "ud6.10:7.3": "<span class='verse-line'>{}</span>",
   "ud6.10:7.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "ud6.10:7.5": "<p class='endsection'>{}</p></article>"
+  "ud6.10:7.5": "<p class='endvagga'>{}</p></article>"
 }

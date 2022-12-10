@@ -11,13 +11,13 @@
   "an6.106:1.7": "{}",
   "an6.106:1.8": "{}",
   "an6.106:1.9": "{}</p>",
-  "an6.106:1.10": "<p class='endsection'>{}</p>",
-  "an6.106:1.11": "<p class='endsection'>{}</p>",
+  "an6.106:1.10": "<p class='endsutta'>{}</p>",
+  "an6.106:1.11": "<p class='endvagga'>{}</p>",
   "an6.106:2.0": "<p class='uddana-intro'>{}</p>",
   "an6.106:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an6.106:2.2": "<span class='verse-line'>{}</span>",
   "an6.106:2.3": "<span class='verse-line'>{}</span>",
   "an6.106:2.4": "<span class='verse-line'>{}</span>",
   "an6.106:2.5": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an6.106:2.6": "<p class='endsutta'>{}</p></article>"
+  "an6.106:2.6": "<p class='endbook'>{}</p></article>"
 }

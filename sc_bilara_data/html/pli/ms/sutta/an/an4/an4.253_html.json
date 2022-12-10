@@ -6,12 +6,12 @@
   "an4.253:1.2": "{}",
   "an4.253:1.3": "{}",
   "an4.253:1.4": "{}</p>",
-  "an4.253:1.5": "<p class='endsection'>{}</p>",
-  "an4.253:1.6": "<p class='endsection'>{}</p>",
+  "an4.253:1.5": "<p class='endsutta'>{}</p>",
+  "an4.253:1.6": "<p class='endvagga'>{}</p>",
   "an4.253:2.0": "<p class='uddana-intro'>{}</p>",
   "an4.253:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an4.253:2.2": "<span class='verse-line'>{}</span>",
   "an4.253:2.3": "<span class='verse-line'>{}</span>",
   "an4.253:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an4.253:2.5": "<p class='endsection'>{}</p></article>"
+  "an4.253:2.5": "<p class='endbook'>{}</p></article>"
 }

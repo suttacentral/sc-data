@@ -2,5 +2,5 @@
   "an9.84-91:0.1": "<article id='an9.84-91'><header><ul><li class='division'>{}</li>",
   "an9.84-91:0.2": "<li>{}</li></ul>",
   "an9.84-91:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "an9.84-91:1.1": "<p>{}</p></article>"
+  "an9.84-91:1.1": "<p class='expansion-instructions'>{}</p></article>"
 }

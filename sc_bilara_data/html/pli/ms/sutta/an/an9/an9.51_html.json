@@ -8,12 +8,12 @@
   "an9.51:2.2": "{}</p>",
   "an9.51:3.1": "<p>{}",
   "an9.51:3.2": "{}</p>",
-  "an9.51:3.3": "<p class='endsection'>{}</p>",
-  "an9.51:3.4": "<p class='endsection'>{}</p>",
+  "an9.51:3.3": "<p class='endsutta'>{}</p>",
+  "an9.51:3.4": "<p class='endvagga'>{}</p>",
   "an9.51:4.0": "<p class='uddana-intro'>{}</p>",
   "an9.51:4.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an9.51:4.2": "<span class='verse-line'>{}</span>",
   "an9.51:4.3": "<span class='verse-line'>{}</span>",
   "an9.51:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an9.51:4.5": "<p class='endsutta'>{}</p></article>"
+  "an9.51:4.5": "<p class='endbook'>{}</p></article>"
 }

@@ -18,11 +18,11 @@
   "sn1.81:4.2": "<span class='verse-line'>{}</span>",
   "sn1.81:4.3": "<span class='verse-line'>{}</span>",
   "sn1.81:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn1.81:4.5": "<p class='endsection'>{}</p>",
+  "sn1.81:4.5": "<p class='endvagga'>{}</p>",
   "sn1.81:5.0": "<p class='uddana-intro'>{}</p>",
   "sn1.81:5.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn1.81:5.2": "<span class='verse-line'>{}</span>",
   "sn1.81:5.3": "<span class='verse-line'>{}</span>",
   "sn1.81:5.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn1.81:5.5": "<p class='endsutta'>{}</p></article>"
+  "sn1.81:5.5": "<p class='endbook'>{}</p></article>"
 }

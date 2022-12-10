@@ -448,6 +448,17 @@
       }
     ]
   },
+  "pl_ms_translation_marcinow": {
+    "name": "Polish sutta translation Piotr Marcinów",
+    "root_path": "root/pli/ms/sutta/sn",
+    "translation_path": "translation/pl/marcinow/sutta/sn",
+    "translation_muids": "translation-pl-marcinow",
+    "collaborator": [
+      {
+        "author_github_handle": "pyjterq"
+      }
+    ]
+  },
   "pt_blurb_translation": {
     "name": "Portuguese blurb translation",
     "root_path": "root/en/blurb",

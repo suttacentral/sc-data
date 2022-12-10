@@ -10,12 +10,12 @@
   "sn37.34:2.2": "<span class='verse-line'>{}</span>",
   "sn37.34:2.3": "<span class='verse-line'>{}</span>",
   "sn37.34:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn37.34:2.5": "<p class='endsection'>{}</p>",
-  "sn37.34:2.6": "<p class='endsection'>{}</p>",
+  "sn37.34:2.5": "<p class='endsutta'>{}</p>",
+  "sn37.34:2.6": "<p class='endvagga'>{}</p>",
   "sn37.34:3.0": "<p class='uddana-intro'>{}</p>",
   "sn37.34:3.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn37.34:3.2": "<span class='verse-line'>{}</span>",
   "sn37.34:3.3": "<span class='verse-line'>{}</span>",
   "sn37.34:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn37.34:3.5": "<p class='endsutta'>{}</p></article>"
+  "sn37.34:3.5": "<p class='endbook'>{}</p></article>"
 }

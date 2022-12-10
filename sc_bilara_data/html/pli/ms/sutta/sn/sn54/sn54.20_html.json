@@ -13,12 +13,12 @@
   "sn54.20:1.9": "{}",
   "sn54.20:1.10": "{}",
   "sn54.20:1.11": "{}</p>",
-  "sn54.20:1.12": "<p class='endsection'>{}</p>",
-  "sn54.20:1.13": "<p class='endsection'>{}</p>",
+  "sn54.20:1.12": "<p class='endsutta'>{}</p>",
+  "sn54.20:1.13": "<p class='endvagga'>{}</p>",
   "sn54.20:2.0": "<p class='uddana-intro'>{}</p>",
   "sn54.20:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn54.20:2.2": "<span class='verse-line'>{}</span>",
   "sn54.20:2.3": "<span class='verse-line'>{}</span>",
   "sn54.20:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn54.20:2.5": "<p class='endsutta'>{}</p></article>"
+  "sn54.20:2.5": "<p class='endbook'>{}</p></article>"
 }

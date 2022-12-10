@@ -32,11 +32,11 @@
   "sn31.23-112:1.28": "{}",
   "sn31.23-112:1.29": "{}</p>",
   "sn31.23-112:2.1": "<p>{}</p>",
-  "sn31.23-112:2.2": "<p class='endsection'>{}</p>",
+  "sn31.23-112:2.2": "<p class='endvagga'>{}</p>",
   "sn31.23-112:3.0": "<p class='uddana-intro'>{}</p>",
   "sn31.23-112:3.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn31.23-112:3.2": "<span class='verse-line'>{}</span>",
   "sn31.23-112:3.3": "<span class='verse-line'>{}</span>",
   "sn31.23-112:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn31.23-112:3.5": "<p class='endsutta'>{}</p></article>"
+  "sn31.23-112:3.5": "<p class='endbook'>{}</p></article>"
 }

@@ -24,12 +24,12 @@
   "iti99:7.3": "<span class='verse-line'>{}</span>",
   "iti99:7.4": "<span class='verse-line'>{}</span></p></blockquote>",
   "iti99:8.1": "<p>{}</p>",
-  "iti99:8.2": "<p class='endsection'>{}</p>",
-  "iti99:8.3": "<p class='endsection'>{}</p>",
+  "iti99:8.2": "<p class='endsutta'>{}</p>",
+  "iti99:8.3": "<p class='endvagga'>{}</p>",
   "iti99:9.0": "<p class='uddana-intro'>{}</p>",
   "iti99:9.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "iti99:9.2": "<span class='verse-line'>{}</span>",
   "iti99:9.3": "<span class='verse-line'>{}</span>",
   "iti99:9.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "iti99:9.5": "<p class='endsutta'>{}</p></article>"
+  "iti99:9.5": "<p class='endbook'>{}</p></article>"
 }

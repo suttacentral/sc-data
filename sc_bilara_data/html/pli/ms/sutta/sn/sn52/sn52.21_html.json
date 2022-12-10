@@ -3,5 +3,5 @@
   "sn52.21:0.2": "<li>{}</li></ul>",
   "sn52.21:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn52.21:1.1": "<p>{}</p>",
-  "sn52.21:1.2": "<p class='endsection'>{}</p></article>"
+  "sn52.21:1.2": "<p class='endsutta'>{}</p></article>"
 }

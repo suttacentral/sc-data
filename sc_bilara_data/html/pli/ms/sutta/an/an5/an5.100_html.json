@@ -88,12 +88,12 @@
   "an5.100:11.8": "{}",
   "an5.100:11.9": "{}",
   "an5.100:11.10": "{}</p>",
-  "an5.100:11.11": "<p class='endsection'>{}</p>",
-  "an5.100:11.12": "<p class='endsection'>{}</p>",
+  "an5.100:11.11": "<p class='endsutta'>{}</p>",
+  "an5.100:11.12": "<p class='endvagga'>{}</p>",
   "an5.100:12.0": "<p class='uddana-intro'>{}</p>",
   "an5.100:12.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "an5.100:12.2": "<span class='verse-line'>{}</span>",
   "an5.100:12.3": "<span class='verse-line'>{}</span>",
   "an5.100:12.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "an5.100:12.5": "<p class='endsutta'>{}</p></article>"
+  "an5.100:12.5": "<p class='endbook'>{}</p></article>"
 }

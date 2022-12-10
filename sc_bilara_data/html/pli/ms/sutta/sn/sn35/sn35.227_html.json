@@ -5,7 +5,7 @@
   "sn35.227:1.1": "<p>{}</p>",
   "sn35.227:1.2": "<p>{}",
   "sn35.227:1.3": "{}</p>",
-  "sn35.227:1.4": "<p class='endsection'>{}</p>",
+  "sn35.227:1.4": "<p class='endvagga'>{}</p>",
   "sn35.227:2.0": "<p class='uddana-intro'>{}</p>",
   "sn35.227:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "sn35.227:2.2": "<span class='verse-line'>{}</span>",
@@ -13,5 +13,5 @@
   "sn35.227:2.4": "<span class='verse-line'>{}</span>",
   "sn35.227:2.5": "<span class='verse-line'>{}</span>",
   "sn35.227:2.6": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn35.227:2.7": "<p class='endsection'>{}</p></article>"
+  "sn35.227:2.7": "<p class='endsutta'>{}</p></article>"
 }

@@ -2198,5 +2198,30 @@
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "",
     "editions_url": ""
+  },
+  {
+    "publication_number": "scpub85",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pl",
+    "translation_lang_name": "Polski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pl/marcinow/sutta/sn",
+    "creator_uid": "marcinow",
+    "creator_name": "Piotr Marcinów",
+    "creator_github_handle": "pyjterq",
+    "text_uid": "sn",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "Saṁyuttanikāya",
+    "creation_process": "",
+    "text_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej.",
+    "first_published": "",
+    "editions_url": ""
   }
 ]
