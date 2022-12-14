@@ -526,7 +526,7 @@
   "ds2.1.1:179.2": "{}",
   "ds2.1.1:179.3": "{}",
   "ds2.1.1:179.4": "{}</p>",
-  "ds2.1.1:179.5": "<p class='endsutta'>{}<br>",
-  "ds2.1.1:179.6": "<span class='verse-line'>{}</span>",
-  "ds2.1.1:179.7": "<span class='verse-line'>{}</span></p></article>"
+  "ds2.1.1:179.5": "<p class='endsection'>{}</p>",
+  "ds2.1.1:179.6": "<p class='endsutta'>{}</p>",
+  "ds2.1.1:179.7": "<p class='endsutta'>{}</p></article>"
 }
