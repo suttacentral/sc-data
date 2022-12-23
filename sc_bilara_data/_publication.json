@@ -3086,5 +3086,39 @@
         "edition_url": "https://suttacentral.net/sn"
       }
     ]
+  },
+  "scpub86": {
+    "publication_number": "scpub86",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/kn/cp",
+    "author_uid": "sujato",
+    "author_name": "Bhikkhu Sujato",
+    "author_github_handle": "sujato",
+    "text_uid": "thag",
+    "translation_title": "The Conduct Leading to Buddhahood",
+    "translation_subtitle": "A fine translation of the Cariyapiṭaka",
+    "root_title": "Cariyapiṭaka",
+    "translation_process": "Translated from the Pali. Primary source was the Mahāsaṅgīti edition, with reference to the English translation of I.B. Horner.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Cariyapiṭaka, one of the latest books in the Pali canon. The terminology is kept consistent with that for the earlier Pali texts.",
+    "is_published": true,
+    "publication_status": "Completed, revision is ongoing.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "his translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2022",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/cp"
+      }
+    ]
   }
 }
