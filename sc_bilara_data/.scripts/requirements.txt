@@ -5,7 +5,7 @@ ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.15.1
 lml==0.0.9
-lxml==4.4.1
+lxml==4.9.1
 parso==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
