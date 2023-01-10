@@ -127,16 +127,16 @@ Go to the .scripts folder. Change the python version to 3.7.2. (Other versions m
 pip3 install -r requirements.txt
 ```
 
-Ready to go, let’s export dn1 as a Libreoffice spreadsheet!
+Ready to go, let’s export dn1 as a `tsv` file, which can be opened as a spreadsheet!
 
 ```
-./sheet_export.py dn1 dn1.ods
+./sheet_export.py dn1 dn1.tsv
 ```
 
 Edit it, save, and run:
 
 ```
- ./sheet_import.py dn1.ods
+ ./sheet_import.py dn1.tsv
  ```
 
 Et voila, your changes appear in the bilara data file.
@@ -147,7 +147,7 @@ You can easily do something like this, too:
 ./sheet_export.py dn dn.tsv --include root, translation+en
 ```
 
-“Export the whole of DN as a tsv file, including only the root text and English translation”.
+“Export the whole of DN as a `tsv` file, including only the root text and English translation”.
 
 ## Some notes on SC-specific data
 
