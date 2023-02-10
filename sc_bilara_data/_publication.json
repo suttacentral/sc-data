@@ -3120,5 +3120,39 @@
         "edition_url": "https://suttacentral.net/cp"
       }
     ]
+  },
+  "scpub87": {
+    "publication_number": "scpub87",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pl",
+    "translation_lang_name": "Polski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pl/hardao/sutta/kn/kp",
+    "author_uid": "hardao",
+    "author_name": "Piotr Jagodziński",
+    "author_github_handle": "HarDao",
+    "text_uid": "kp",
+    "translation_title": "Khuddakapāṭha",
+    "translation_subtitle": "Krótkie urywki",
+    "root_title": "Khuddakapāṭha",
+    "translation_process": "Tłumaczenie bazuje na Chaṭṭha Saṅgāyana Tipiṭaka - Trójkoszu Szóstego Synodu, który odbył się w Birmie, w Yangon. Autor przekładu polskiego oprócz wierności z oryginałem, stara się także doszukiwać wspólnych rdzeni językowych oraz opisać szerszą perspektywę odnośnie treści zawartych w tekstach źródłowych. Odzwierciedlone jest to w licznych przypisach i wyczerpujących przedmowach do poszczególnych sutt.",
+    "translation_description": "To tłumaczenie jest częścią projektu tłumaczeń tekstów kanonu pāḷijskiego na język polski z portalu Sasana.pl. Przekład bazuje na oryginale w języku pāḷijskim, posiłkuje się innymi wersjami językowymi tłumaczeń, oraz paralelnymi tekstami (np. āgamami), opublikowanymi na stronie SuttaCentral.net. Celem projektu jest przekład tekstów źródłowych wraz z przedmowami tłumacza, by jak najlepiej wyjaśniać Dhammę Buddhy polskiemu czytelnikowi. Brak praw autorskich. Projekt nie został ukończony.",
+    "is_published": true,
+    "publication_status": "Wydany wyłącznie w wersji cyfrowej, projekt w początkowej fazie, nie został ukończony.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2023",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/kp"
+      }
+    ]
   }
 }
