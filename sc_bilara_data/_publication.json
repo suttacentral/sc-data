@@ -3064,13 +3064,13 @@
     "author_name": "Piotr Marcinów",
     "author_github_handle": "pyjterq",
     "text_uid": "sn",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "Saṁyutta Nikāya",
+    "translation_subtitle": "Mowy połączone",
     "root_title": "Saṁyuttanikāya",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "Tłumaczenie bazuje na edycji Mahāsaṅgīti kanonu palijskiego. Tłumaczenie jest z języka palijskiego i konsultowane w formie i treści z innymi tłumaczeniami, szczególnie Bhante Sujato.",
+    "translation_description": "To tłumaczenie jest częścią projektu tłumaczeń kanonu palijskiego na język polski. Inspiracja do podjęcia tego zadania pochodzi z projektu SuttaCentral i pracy Bhante Sujato. Celem tego tłumaczenia jest: przystępny tekst, spójna terminologia, wierne oddanie treści, brak praw autorskich.",
+    "is_published": true,
+    "publication_status": "Tłumaczenie jest w początkowej fazie.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -3080,7 +3080,7 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "",
+        "publication_date": "2023",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/sn"
