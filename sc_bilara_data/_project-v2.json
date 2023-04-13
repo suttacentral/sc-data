@@ -375,6 +375,14 @@
     ]
   },
   {
+    "project_uid": "ru_ms_translation_sv",
+    "name": "Russian translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ru/sv/sutta",
+    "translation_muids": "translation-ru-sv",
+    "creator_github_handle": "o28o"
+  },
+  {
     "project_uid": "si_ms_translation_madhu",
     "name": "Sinhala translation",
     "root_path": "root/pli/ms/sutta",

@@ -2273,5 +2273,30 @@
     "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej.",
     "first_published": "2023",
     "editions_url": ""
+  },
+  {
+    "publication_number": "scpub88",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "ру́сский язы́к",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/sv/sutta/mn",
+    "creator_uid": "sv",
+    "creator_name": "SV theravada.ru",
+    "creator_github_handle": "o28o",
+    "text_uid": "mn",
+    "translation_title": "Наставления Средней Длины",
+    "translation_subtitle": "Перевод Мадджхима Никаи",
+    "root_title": "Majjhimanikāya",
+    "creation_process": "Переводы соответствующих текстов выполнены SV с английского, по переводам Бхиккху Бодхи. Данные для Bilara подготовлены Татьяной Ремизовой.",
+    "text_description": "Перевод, основных текстов Палийского Канона, которые опубликованы на сайте theravada.ru",
+    "is_published": true,
+    "publication_status": "Завершен.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "Это перевод древних текстов, передаваемых в Буддистской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете копировать, адаптировать, изменять, иными словами использовать этот перевод. Единственное требование: эти тексты должны быть использованы в соответсвтии с ценностями и принципами Буддистского Сообщества.",
+    "first_published": "2023",
+    "editions_url": "https://suttacentral.net/mn"
   }
 ]
