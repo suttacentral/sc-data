@@ -1,6 +1,8 @@
 name: Push changed files to sc-data repo
 
 on:
+  schedule:
+    - cron: '0 0 * * SUN'
   push:
     branches:
       - published
