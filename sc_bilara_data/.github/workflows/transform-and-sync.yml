@@ -32,7 +32,7 @@ jobs:
           git commit -m "[GHA] Nilakkhana transform"
           git push origin published:published
 
-      - name: push changed files to sc-data repo
+      - name: Sync changed files to sc-data repo
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -43,5 +43,5 @@ jobs:
           dst_path: /sc_bilara_data/
           dst_branch: master
           clean: true
-          commit_message: '[GHA] Update files from bilara-data repository.'
+          commit_message: '[GHA] Sync files from bilara-data.'
 
