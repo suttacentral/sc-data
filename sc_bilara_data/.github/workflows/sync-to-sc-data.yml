@@ -1,4 +1,4 @@
-name: Push changed files to sc-data repo
+name: Sync to sc-data repo
 
 on:
   schedule:
@@ -11,7 +11,7 @@ jobs:
   push-changed-files-to-sc-data:
     runs-on: ubuntu-latest
     steps:
-      - name: push changed files to sc-data repo
+      - name: sync changed files to sc-data repo
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}

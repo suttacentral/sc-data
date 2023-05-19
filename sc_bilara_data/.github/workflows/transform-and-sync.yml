@@ -5,13 +5,13 @@ on:
     - cron: '0 0 * * SUN'
   push:
     branches:
-      - test_ga
+      - published
 
 jobs:
   nilakkhana-transform-all-supported-files:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout published repository
+      - name: Checkout published branch
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -36,12 +36,12 @@ jobs:
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          src_branch: test_ga
+          src_branch: published
           src_path: /.
           dst_owner: suttacentral
           dst_repo_name: sc-data
           dst_path: /sc_bilara_data/
-          dst_branch: test_ga
+          dst_branch: master
           clean: true
           commit_message: '[GHA] Update files from bilara-data repository.'
 
