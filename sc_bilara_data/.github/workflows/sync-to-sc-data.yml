@@ -11,7 +11,7 @@ jobs:
   push-changed-files-to-sc-data:
     runs-on: ubuntu-latest
     steps:
-      - name: sync changed files to sc-data repo
+      - name: Sync changed files to sc-data repo
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -22,4 +22,4 @@ jobs:
           dst_path: /sc_bilara_data/
           dst_branch: master
           clean: true
-          commit_message: '[GHA] Update the bilara_data files.'
+          commit_message: '[GHA] Sync files from bilara-data.'
