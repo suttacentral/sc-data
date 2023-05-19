@@ -1,0 +1,47 @@
+name: Transform and sync
+
+on:
+  schedule:
+    - cron: '0 0 * * SUN'
+  push:
+    branches:
+      - test_ga
+
+jobs:
+  nilakkhana-transform-all-supported-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout published repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11.3
+
+      - name: Execute python script to transform
+        run: |
+          python .nilakkhana/process_all_supported_files.py
+      - name: Push changed files
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "[GHA] Nilakkhana transform"
+          git push origin published:published
+
+      - name: push changed files to sc-data repo
+        uses: andstor/copycat-action@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          src_branch: test_ga
+          src_path: /.
+          dst_owner: suttacentral
+          dst_repo_name: sc-data
+          dst_path: /sc_bilara_data/
+          dst_branch: test_ga
+          clean: true
+          commit_message: '[GHA] Update files from bilara-data repository.'
+
