@@ -1315,7 +1315,7 @@
   },
   {
     "uid": "d",
-    "acronym": "Other Xct",
+    "acronym": "Other Tibetan",
     "alt_acronym": null,
     "volpage": null,
     "alt_volpage": null,
@@ -1324,7 +1324,7 @@
   },
   {
     "uid": "other-vi",
-    "acronym": "Other Vi",
+    "acronym": "Other Vinaya",
     "alt_acronym": null,
     "volpage": null,
     "alt_volpage": null,
@@ -1721,15 +1721,6 @@
   {
     "uid": "uf",
     "acronym": "UF",
-    "alt_acronym": null,
-    "volpage": null,
-    "alt_volpage": null,
-    "alt_name": null,
-    "biblio_uid": null
-  },
-  {
-    "uid": "upp",
-    "acronym": "Upp",
     "alt_acronym": null,
     "volpage": null,
     "alt_volpage": null,
