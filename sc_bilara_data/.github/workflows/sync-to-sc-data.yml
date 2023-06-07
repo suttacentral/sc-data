@@ -2,7 +2,7 @@ name: Sync to sc-data repo
 
 on:
   schedule:
-    - cron: '30 0 * * SUN'
+    - cron: '0 8 * * SUN'
   push:
     branches:
       - published
