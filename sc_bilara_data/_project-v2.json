@@ -160,11 +160,11 @@
     "creator_github_handle": "delightedbydhamma"
   },
   {
-    "project_uid": "es_ms_translation_hugovega",
-    "name": "Spanish sutta translation Hugo Vega",
+    "project_uid": "es_ms_translation_maggatr",
+    "name": "Spanish sutta translation Magga Traducciones",
     "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/es/hugovega/sutta",
-    "translation_muids": "translation-es-hugovega",
+    "translation_path": "translation/es/maggatr/sutta",
+    "translation_muids": "translation-es-maggatr",
     "creator_github_handle": "magga-es"
   },
   {
