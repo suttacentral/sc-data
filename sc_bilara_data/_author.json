@@ -162,5 +162,13 @@
   "sv": {
     "type": "translator",
     "name": "SV theravada.ru"
+  },
+  "anandajoti": {
+    "type": "translator",
+    "name": "Bhikkhu Ānandajoti"
+  },
+  "maggatr": {
+    "type": "translator",
+    "name": "Magga Traducciones"
   }
 }
