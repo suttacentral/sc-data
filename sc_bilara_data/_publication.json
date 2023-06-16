@@ -3195,31 +3195,31 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "es",
     "translation_lang_name": "Español",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/es/maggatr/sutta",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/es/maggatr/sutta/sn",
     "author_uid": "maggatr",
     "author_name": "Magga Traducciones",
     "author_github_handle": "magga-es",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "sn",
+    "translation_title": "Discursos enlazados",
+    "translation_subtitle": "Saṁyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "Se parte de la segmentación del Pali ofrecida por la plataforma Bilara de suttacentral.net, y se realiza basándose en las traducciones de Bhante Sujato y Bhikkhu Bodhi, consultado en ocasiones otras referencias en distintos idiomas, así como el significado del Pali original de términos específicos cuando se considera necesario.",
+    "translation_description": "Traducciones hechas al español para estudio del grupo Magga Traducciones, y ofrecer también una alternativa a las ya existentes en esta lengua por si fuese de utilidad.",
+    "is_published": true,
+    "publication_status": "Perpetuamente en curso.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
+      "license_statement": "Esta traducción es una expresión de un antiguo texto espiritual que ha sido transmitido por la tradición budista en beneficio de todos los seres. Se ofrece al dominio público a través de Creative Commons Zero (CC0). Se te anima a copiar, reproducir, adaptar, alterar o hacer uso de esta traducción. El traductor solicita respetuosamente que cualquier uso sea de acuerdo con los valores y principios de la comunidad budista."
     },
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "",
+        "publication_date": "2023",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": ""
+        "edition_url": "https://suttacentral.net/sn"
       }
     ]
   }
