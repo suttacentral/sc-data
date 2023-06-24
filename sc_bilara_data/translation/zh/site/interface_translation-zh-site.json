@@ -4,6 +4,7 @@
   "dictionary:activatePaliDescription": "分析巴利文与尝试显示单词的含义。请注意，这只是一个辅助，并不一定准确。单词的解读来自New Concise Pali English Dictionary。 ",
   "dictionary:activatePaliLookup": "启用巴利文查找 ",
   "dictionary:adjacentTerms": "相邻词语 ",
+  "dictionary:asterisk": "当鼠标移动到星号上进行提示 ",
   "dictionary:changePaliScript": "更改巴利文的原稿 ",
   "dictionary:changePaliScriptDescription": "这使您能阅读各种巴利文字符。 ",
   "dictionary:changePaliScriptLabel": "文稿 ",
@@ -70,6 +71,7 @@
   "interface:abbreviations": "缩写 ",
   "interface:abbreviationsTitle": "缩写 ",
   "interface:abhidhamma": "论藏 ",
+  "interface:abhidhammaEssayTitle": "阿毗达摩：对教义的系统分析 ",
   "interface:abhidhammaTitle": "论 ",
   "interface:about": "关于 ",
   "interface:aboutTitle": "关于SUTTACENTRAL ",
@@ -110,6 +112,7 @@
   "interface:joinDiscussion": "加入关于这个经文的讨论。 ",
   "interface:kho": "塞语 ",
   "interface:languageLabel": "语言 ",
+  "interface:languages": "翻译统计 ",
   "interface:licensing": "许可证 ",
   "interface:licensingTitle": "许可证 ",
   "interface:linked": "相应部 ",
@@ -243,6 +246,7 @@
   "suttaplex:translationsIn": "翻译 ",
   "suttaplex:volumeAndPage": "卷和页 ",
   "suttaplex:volumeAndPagePTS1": "PTS 卷和页：第一版= {pts-vp-pli1ed}; 第二版= {pts-vp-pli2ed} ",
+  "text:languagePromptMessage": "您可以从工具栏中的菜单更改语言。 ",
   "text:segmentNumber": "SuttaCentral 段号 ",
   "text:viewImage": "查看页面图像"
 }
