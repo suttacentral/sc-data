@@ -72,6 +72,14 @@
     "creator_github_handle": "abd3"
   },
   {
+    "project_uid": "en_ms_translation_kelly",
+    "name": "English Milindapañha translation by John Kelly",
+    "root_path": "root/pli/ms/sutta/kn/mil",
+    "translation_path": "translation/en/kelly/sutta/kn/mil",
+    "translation_muids": "translation-en-kelly",
+    "creator_github_handle": "GillianPerrett"
+  },
+  {
     "project_uid": "en_ms_translation_kovilo",
     "name": "English translation Kovilo Bhikkhu",
     "root_path": "root/pli/ms/sutta",
