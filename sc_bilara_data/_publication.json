@@ -3256,5 +3256,39 @@
         "edition_url": "https://suttacentral.net/an"
       }
     ]
+  },
+  "scpub91": {
+    "publication_number": "scpub91",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta/kn/mil",
+    "author_uid": "sabbamitta",
+    "author_name": "Sabbamitta",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "mil",
+    "translation_title": "Die Fragen des Königs Milinda",
+    "translation_subtitle": "Eine Übersetzung des Milindapañha",
+    "root_title": "Milindapañha",
+    "translation_process": "Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka. Die Übersetzung stützt sich auf Nyanatiloka Theras und Nyanaponika Theras bestehende deutsche Übersetzung und zieht auch englische Übersetzungen, insbesondere die neuere Übersetzung von John Kelly, heran.",
+    "translation_description": "Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas sowie die älteren Teile des Khuddaka-Nikāya ins Deutsche zu übersetzen; vereinzelt werden auch andere Texte aus dem Khuddaka-Nikāya eingeschlossen. Die Übersetzung geht von früheren Übersetzungen, insbesondere der von Nyanatiloka Thera und Nyanaponika Thera, aus. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali; kein Copyright. Das gesamte Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.",
+    "is_published": true,
+    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2023",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mil"
+      }
+    ]
   }
 }
