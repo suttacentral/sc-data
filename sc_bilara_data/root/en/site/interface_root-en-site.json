@@ -1,4 +1,7 @@
 {
+  "badge:aligned": "aligned",
+  "badge:annotated": "annotated",
+  "badge:legacy": "legacy",
   "dictionary:activateChineseDescription": "This enables word lookup for ancient Chinese texts. Word meanings are from the Digital Dictionary of Buddhism.",
   "dictionary:activateChineseLookup": "Activate Chinese word lookup",
   "dictionary:activatePaliDescription": "Analyzes the Pali text and attempts to display the word meaning. Note that this is an aid only, and is not always accurate. Word meanings are from the New Concise Pali English Dictionary.",
