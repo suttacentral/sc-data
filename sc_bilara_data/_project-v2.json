@@ -264,6 +264,30 @@
     "creator_github_handle": "trush23"
   },
   {
+    "project_uid": "id_blurb_translation",
+    "name": "Indonesian blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/id/blurb",
+    "translation_muids": "translation-id",
+    "creator_github_handle": "renaldoaluska"
+  },
+  {
+    "project_uid": "id_localization",
+    "name": "Indonesian localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/id/site",
+    "translation_muids": "translation-id-site",
+    "creator_github_handle": "renaldoaluska"
+  },
+  {
+    "project_uid": "id_names_translation",
+    "name": "Indonesian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/id/site",
+    "translation_muids": "translation-id-site",
+    "creator_github_handle": "renaldoaluska"
+  },
+  {
     "project_uid": "id_sct_translation_seniya",
     "name": "Chinese root translation Seniya Ariyakumara",
     "root_path": "root/lzh/sct/sutta",
@@ -304,11 +328,27 @@
     "creator_github_handle": "kaz-kaz"
   },
   {
+    "project_uid": "jpn_localization",
+    "name": "Japanese localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/jpn/site",
+    "translation_muids": "translation-jpn-site",
+    "creator_github_handle": "kaz-kaz"
+  },
+  {
     "project_uid": "jpn_ms_translation_kaz",
     "name": "Japanese translation",
     "root_path": "root/pli/ms/sutta/an",
     "translation_path": "translation/jpn/kaz/sutta/an",
     "translation_muids": "translation-jpn-kaz",
+    "creator_github_handle": "kaz-kaz"
+  },
+  {
+    "project_uid": "jpn_names_translation",
+    "name": "Japanese names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/jpn/site",
+    "translation_muids": "translation-jpn-site",
     "creator_github_handle": "kaz-kaz"
   },
   {
@@ -331,12 +371,20 @@
     ]
   },
   {
+    "project_uid": "pl_blurb_translation",
+    "name": "Polish blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/pl/blurb",
+    "translation_muids": "translation-pl",
+    "creator_github_handle": ""
+  },
+  {
     "project_uid": "pl_localization",
     "name": "Polish localization",
     "root_path": "root/en/site",
     "translation_path": "translation/pl/site",
     "translation_muids": "translation-pl-site",
-    "creator_github_handle": "sujato"
+    "creator_github_handle": ""
   },
   {
     "project_uid": "pl_ms_translation_hardao_sutta",
@@ -355,6 +403,14 @@
     "creator_github_handle": "pyjterq"
   },
   {
+    "project_uid": "pl_names_translation",
+    "name": "Polish names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/pl/site",
+    "translation_muids": "translation-pl-site",
+    "creator_github_handle": ""
+  },
+  {
     "project_uid": "pt_blurb_translation",
     "name": "Portuguese blurb translation",
     "root_path": "root/en/blurb",
@@ -370,6 +426,17 @@
     "project_uid": "pt_localization",
     "name": "Portuguese localization",
     "root_path": "root/en/site",
+    "translation_path": "translation/pt/site",
+    "translation_muids": "translation-pt-site",
+    "creator_github_handle": [
+      "gnlaera",
+      "vngmar"
+    ]
+  },
+  {
+    "project_uid": "pt_names_translation",
+    "name": "Portuguese names translation",
+    "root_path": "root/misc/site",
     "translation_path": "translation/pt/site",
     "translation_muids": "translation-pt-site",
     "creator_github_handle": [
@@ -462,6 +529,14 @@
     "translation_path": "translation/vi/site",
     "translation_muids": "translation-vi-site",
     "creator_github_handle": "phineas-pta"
+  },
+  {
+    "project_uid": "zh_blurb_translation",
+    "name": "Chinese blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/zh/blurb",
+    "translation_muids": "translation-zh",
+    "creator_github_handle": "ihongda"
   },
   {
     "project_uid": "zh_localization",

@@ -368,6 +368,39 @@
       }
     ]
   },
+  "id_blurb_translation": {
+    "name": "Indonesian blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/id/blurb",
+    "translation_muids": "translation-id",
+    "collaborator": [
+      {
+        "author_github_handle": "renaldoaluska"
+      }
+    ]
+  },
+  "id_localization": {
+    "name": "Indonesian localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/id/site",
+    "translation_muids": "translation-id-site",
+    "collaborator": [
+      {
+        "author_github_handle": "renaldoaluska"
+      }
+    ]
+  },
+  "id_names_translation": {
+    "name": "Indonesian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/id/site",
+    "translation_muids": "translation-id-site",
+    "collaborator": [
+      {
+        "author_github_handle": "renaldoaluska"
+      }
+    ]
+  },
   "id_sct_translation_seniya": {
     "name": "Chinese root translation Seniya Ariyakumara",
     "root_path": "root/lzh/sct/sutta",
@@ -423,11 +456,33 @@
       }
     ]
   },
+  "jpn_localization": {
+    "name": "Japanese localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/jpn/site",
+    "translation_muids": "translation-jpn-site",
+    "collaborator": [
+      {
+        "author_github_handle": "kaz-kaz"
+      }
+    ]
+  },
   "jpn_ms_translation_kaz": {
     "name": "Japanese translation",
     "root_path": "root/pli/ms/sutta/an",
     "translation_path": "translation/jpn/kaz/sutta/an",
     "translation_muids": "translation-jpn-kaz",
+    "collaborator": [
+      {
+        "author_github_handle": "kaz-kaz"
+      }
+    ]
+  },
+  "jpn_names_translation": {
+    "name": "Japanese names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/jpn/site",
+    "translation_muids": "translation-jpn-site",
     "collaborator": [
       {
         "author_github_handle": "kaz-kaz"
@@ -459,6 +514,17 @@
       }
     ]
   },
+  "pl_blurb_translation": {
+    "name": "Polish blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/pl/blurb",
+    "translation_muids": "translation-pl",
+    "collaborator": [
+      {
+        "author_github_handle": ""
+      }
+    ]
+  },
   "pl_localization": {
     "name": "Polish localization",
     "root_path": "root/en/site",
@@ -466,7 +532,7 @@
     "translation_muids": "translation-pl-site",
     "collaborator": [
       {
-        "author_github_handle": "sujato"
+        "author_github_handle": ""
       }
     ]
   },
@@ -492,6 +558,17 @@
       }
     ]
   },
+  "pl_names_translation": {
+    "name": "Polish names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/pl/site",
+    "translation_muids": "translation-pl-site",
+    "collaborator": [
+      {
+        "author_github_handle": ""
+      }
+    ]
+  },
   "pt_blurb_translation": {
     "name": "Portuguese blurb translation",
     "root_path": "root/en/blurb",
@@ -512,6 +589,20 @@
   "pt_localization": {
     "name": "Portuguese localization",
     "root_path": "root/en/site",
+    "translation_path": "translation/pt/site",
+    "translation_muids": "translation-pt-site",
+    "collaborator": [
+      {
+        "author_github_handle": "gnlaera"
+      },
+      {
+        "author_github_handle": "vngmar"
+      }
+    ]
+  },
+  "pt_names_translation": {
+    "name": "Portuguese names translation",
+    "root_path": "root/misc/site",
     "translation_path": "translation/pt/site",
     "translation_muids": "translation-pt-site",
     "collaborator": [
@@ -636,6 +727,17 @@
     "collaborator": [
       {
         "author_github_handle": "phineas-pta"
+      }
+    ]
+  },
+  "zh_blurb_translation": {
+    "name": "Chinese blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/zh/blurb",
+    "translation_muids": "translation-zh",
+    "collaborator": [
+      {
+        "author_github_handle": "ihongda"
       }
     ]
   },
