@@ -485,8 +485,8 @@
   {
     "project_uid": "sr_ms_translation_brankokovacevic",
     "name": "Serbian translation Branko Kovačević",
-    "root_path": "root/pli/ms/sutta/dn",
-    "translation_path": "translation/sr/brankokovacevic/sutta/dn",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/sr/brankokovacevic/sutta",
     "translation_muids": "translation-sr-brankokovacevic",
     "creator_github_handle": "Bundi-py"
   },
