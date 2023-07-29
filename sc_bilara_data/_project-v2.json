@@ -77,7 +77,10 @@
     "root_path": "root/pli/ms/sutta/kn/mil",
     "translation_path": "translation/en/kelly/sutta/kn/mil",
     "translation_muids": "translation-en-kelly",
-    "creator_github_handle": "GillianPerrett"
+    "creator_github_handle": [
+      "palistudent",
+      "GillianPerrett"
+    ]
   },
   {
     "project_uid": "en_ms_translation_kovilo",
