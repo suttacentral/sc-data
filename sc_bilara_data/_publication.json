@@ -1254,14 +1254,14 @@
   },
   "scpub34": {
     "publication_number": "scpub34",
-    "root_lang": "misc",
-    "translation_lang": "en",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/name",
-    "author_uid": "sujato",
-    "author_name": "Bhikkhu Sujato",
-    "author_github_handle": "sujato",
-    "text_uid": "name",
-    "translation_title": "Names",
+    "root_lang": "",
+    "translation_lang": "",
+    "source_url": "",
+    "author_uid": "",
+    "author_name": "",
+    "author_github_handle": "",
+    "text_uid": "",
+    "translation_title": "",
     "translation_subtitle": "",
     "root_title": "",
     "translation_process": "",
@@ -3302,13 +3302,13 @@
     "author_name": "John Kelly",
     "author_github_handle": "palistudent",
     "text_uid": "mil",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "Milinda’s Questions",
+    "translation_subtitle": "Great Chapter",
     "root_title": "Milindapañha",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pāli Tipiṭaka (with additional checking against the PTS Pāli edition). Translated from the Pāli, with reference to several English translations, especially that of I.B. Horner.",
+    "translation_description": "This ongoing (and still very much incomplete) translation of the Milindapañha is part of a project to translate and make available online the Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. This project was commenced in 2023.",
+    "is_published": true,
+    "publication_status": "Incomplete.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -3318,10 +3318,44 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "",
+        "publication_date": "2023",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/mil"
+      }
+    ]
+  },
+  "scpub93": {
+    "publication_number": "scpub93",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pt",
+    "translation_lang_name": "Português",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pt/laera-quaresma/sutta/kn/snp",
+    "author_uid": "laera-quaresma",
+    "author_name": "Gabriel Laera",
+    "author_github_handle": "gnlaera",
+    "text_uid": "snp",
+    "translation_title": "Sutta Nipata: Uma Antolologia de Discursos do Buda",
+    "translation_subtitle": "Uma tradução inspirada pelo trabalho de Bhikkhu Sujato",
+    "root_title": "Suttanipāta",
+    "translation_process": "Traduzido do inglês, com referências ocasionais ao texto original em páli (edição Mahāsaṅgīti). A fonte principal é a tradução recente feita por Bhikkhu Sujato.",
+    "translation_description": "Esta tradução se basea no trabalho de Bhante Sujato e portanto reflete a intenção de se manter a clareza e a urgência do Suttanipāta. O Suttanipāta inclui versos dos períodos mais antigos e mais recentes dentro do período dos antigos textos, e por isso cobre uma variedade desafiante de estilos e temas, por vezes intensos, devocionais ou afiados. Em várias partes, nomeadamente no Aṭṭhakavagga, há uma série de expressões muito específicas que exigem uma atenção redobrada.",
+    "is_published": true,
+    "publication_status": "Em progresso.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2023",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
       }
     ]
   }

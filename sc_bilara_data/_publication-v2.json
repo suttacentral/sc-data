@@ -22,7 +22,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2014",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/thag"
   },
   {
     "publication_number": "scpub2",
@@ -47,7 +47,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2018",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/dn"
   },
   {
     "publication_number": "scpub3",
@@ -72,7 +72,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2018",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/mn"
   },
   {
     "publication_number": "scpub4",
@@ -97,7 +97,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2018",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/sn"
   },
   {
     "publication_number": "scpub5",
@@ -122,7 +122,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2018",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub6",
@@ -147,7 +147,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2019",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/thig"
   },
   {
     "publication_number": "scpub7",
@@ -172,7 +172,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/dhp"
   },
   {
     "publication_number": "scpub8",
@@ -198,7 +198,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/vinaya"
   },
   {
     "publication_number": "scpub9",
@@ -307,18 +307,9 @@
     "translation_lang_iso": "ru",
     "translation_lang_name": "русский язык",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/team/sutta/dn",
-    "creator_uid": [
-      "dz",
-      "dfowl"
-    ],
-    "creator_name": [
-      "Dzmitry",
-      "Danylo Rybchynskyi"
-    ],
-    "creator_github_handle": [
-      "venseiiz",
-      "ViceroyFaust"
-    ],
+    "creator_uid": ["dz", "dfowl"],
+    "creator_name": ["Dzmitry", "Danylo Rybchynskyi"],
+    "creator_github_handle": ["venseiiz", "ViceroyFaust"],
     "text_uid": "dn",
     "translation_title": "",
     "translation_subtitle": "",
@@ -331,10 +322,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translators respectfully request that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub14",
@@ -359,7 +348,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "この和訳は生きとし生けるもの達のために仏教界によって代々引き継がれてきた古代の聖なる文献をあらわしたものです。訳はクリエイティブ・コモンズ・ゼロ（CC0）によりパブリック・ドメインに置かれています。読者は、複写、複製、改作、改変、その他の方法によりこの訳の使用が可能です。ただ、仏教徒コミュニティーの価値や理念に沿って使用してくださるようよろしくお願い申し上げます。",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub15",
@@ -368,21 +357,9 @@
     "translation_lang_iso": "pt",
     "translation_lang_name": "Português",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pt/laera-quaresma/sutta/an",
-    "creator_uid": [
-      "gnlaera",
-      "quaresma",
-      "vitor"
-    ],
-    "creator_name": [
-      "Gabriel Laera",
-      "Marco Quaresma",
-      "Vitor Guimarães"
-    ],
-    "creator_github_handle": [
-      "gnlaera",
-      "marcoquaresma",
-      "vngmar"
-    ],
+    "creator_uid": ["gnlaera", "quaresma", "vitor"],
+    "creator_name": ["Gabriel Laera", "Marco Quaresma", "Vitor Guimarães"],
+    "creator_github_handle": ["gnlaera", "marcoquaresma", "vngmar"],
     "text_uid": "an",
     "translation_title": "Discursos Numerados",
     "translation_subtitle": "Uma tradução do Aṅguttara Nikāya",
@@ -396,7 +373,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub16",
@@ -421,7 +398,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2020",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/iti"
   },
   {
     "publication_number": "scpub17",
@@ -446,7 +423,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/snp"
   },
   {
     "publication_number": "scpub18",
@@ -471,7 +448,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/ud"
   },
   {
     "publication_number": "scpub19",
@@ -496,7 +473,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2020",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/kp"
   },
   {
     "publication_number": "scpub20",
@@ -521,7 +498,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2019",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/sa"
   },
   {
     "publication_number": "scpub21",
@@ -546,7 +523,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/thig"
   },
   {
     "publication_number": "scpub22",
@@ -555,7 +532,7 @@
     "translation_lang_iso": false,
     "translation_lang_name": false,
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/root/pli/dpcv/pli-tv-kd",
-    "creator_uid": ["weerakoon","medagoda","sujato","allon"],
+    "creator_uid": ["weerakoon", "medagoda", "sujato", "allon"],
     "creator_name": ["Deepika Weerakoon", "Roshini Medagoda", "Bhikkhu Sujato", "Mark Allon"],
     "creator_github_handle": "sujato",
     "text_uid": "dpcv",
@@ -570,10 +547,8 @@
     "license_abbreviation": false,
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0",
     "license_statement": "This work is an ancient sacred text that was created thousands of years ago and is maintained to the present day by its traditional custodians, the Buddhist monastic Sangha. It is free of known restrictions under copyright law, including all related and neighboring rights. We respectfully request that it is used in accordance with the values of the Buddhist tradition. We ask that any reusers do not alter the text, except by reference to the original manuscript.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub23",
@@ -582,7 +557,7 @@
     "translation_lang_iso": false,
     "translation_lang_name": false,
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/root/pli/bj/pli-tv-kd",
-    "creator_uid": ["weerakoon","medagoda"],
+    "creator_uid": ["weerakoon", "medagoda"],
     "creator_name": ["Deepika Weerakoon", "Roshini Medagoda"],
     "creator_github_handle": "sujato",
     "text_uid": "bj",
@@ -597,10 +572,8 @@
     "license_abbreviation": false,
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0",
     "license_statement": "This work is an ancient sacred text that was created thousands of years ago and is maintained to the present day by its traditional custodians, the Buddhist monastic Sangha. It is free of known restrictions under copyright law, including all related and neighboring rights. We respectfully request that it is used in accordance with the values of the Buddhist tradition. We ask that any reusers do not “correct” the text, except by reference to the original printed edition.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub24",
@@ -624,10 +597,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This is a transcription of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The transcribers respectfully request that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub25",
@@ -643,8 +614,8 @@
     "translation_title": "Číslované Rozpravy",
     "translation_subtitle": "Překlad Aṅguttara Nikáji",
     "root_title": "Aṅguttaranikāya",
-    "creation_process": "Hlavním zdrojem je digitální vydání Páḷi Tipiṭaky “Mahāsaṅgīti.” Rád používám barmský oficiální překlad, Páḷi Komentáře, doslovné Páḷi-barmské překlady Páḷi Komentářů, a (hlavně) elektronickou verzi monumentálního Páḷi-barmského slovníku (ပါဠိ-မြန်မာ အဘိဓာန်). Někdy používám Páḷi-anglický minislovník v Chaṭṭhasaṅgāyanā Tipiṭaka aplikaci (verze 4.0). Překlad byl z velké části zrychlen anglickým překladem od Bhikkhu Sujāto, který posloužil zejména k nahlédnutí a coby průvodce při práci.",
-    "text_description": "Tento překlad je jeden z mých prvních pokusů překládat z původního jazyka Páḷi do češtiny. Zatím se nejedná o ucelený pokud o překlad, proto, prosím, odpusťte literární neucelenost přeložených částí. Hlavní důraz byl kladen na srozumitelnost, přestože přesnost by měla být na spolehlivé úrovni. Žádná autorská práva. Vytvořeno v Myanmaru, 2020.",
+	"creation_process": "Hlavním zdrojem je digitální vydání Páḷi Tipiṭaky “Mahāsaṅgīti.” Rád používám barmský oficiální překlad, Páḷi Komentáře, doslovné Páḷi-barmské překlady Páḷi Komentářů, a (hlavně) elektronickou verzi monumentálního Páḷi-barmského slovníku (ပါဠိ-မြန်မာ အဘိဓာန်). Někdy používám Páḷi-anglický minislovník v Chaṭṭhasaṅgāyanā Tipiṭaka aplikaci (verze 4.0). Překlad byl z velké části zrychlen anglickým překladem od Bhikkhu Sujāto, který posloužil zejména k nahlédnutí a coby průvodce při práci.",
+	"text_description": "Tento překlad je jeden z mých prvních pokusů překládat z původního jazyka Páḷi do češtiny. Zatím se nejedná o ucelený pokud o překlad, proto, prosím, odpusťte literární neucelenost přeložených částí. Hlavní důraz byl kladen na srozumitelnost, přestože přesnost by měla být na spolehlivé úrovni. Žádná autorská práva. Vytvořeno v Myanmaru, 2020.",
     "is_published": true,
     "publication_status": "Všechny zveřejněné překlady rozprav jsou hotové v rozsahu té které rozpravy. Přepracování, návrhy, opravy, a kritika budou velice vítané.",
     "license_type": "Creative Commons Zero",
@@ -652,7 +623,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Tento překlad je projevem starověkého duchovního textu, který byl předán z generace na generaci buddhistickou traidicí ku prospěchu všech živých bytostí. Je darován do veřejného vlastnictví (public domain) skrze Creative COmmons Zero (CC0). Povzbuzuji vás ke kopírování, reprodukci, adaptaci, změně, nebo jakémukoliv jinému užití tohoto překladu. Překladatel slušně žádá, aby bylo jakékoliv užití tohoto textu v souladu s hodnotami a principy buddhistického společenství.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub26",
@@ -676,7 +647,7 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "ဤအနက်ဘာသာပြန်သည် သတ္တဝါအားလုံး၏အကျိုးစီးပွားအလို့ငှာ ဗုဒ္ဓဘာသာအစဉ်အလာဖြင့် လက်ဆင့်ကမ်းထိန်းသိမ်းလာသော ဗုဒ္ဓကျမ်းဂန်မှစကားလုံးများကို ဖော်ပြထားခြင်းဖြစ်ပေသည်။ ဤဘာသာပြန်သည် Creative Commons Zero(CC0)ဖြင့် အများဆိုင်အဖြစ် ရည်ရွယ်တည်ရှိပါသည်။ သင့်အနေဖြင့် ဤဘာသာပြန်ကို အသုံးပြုလိုပါက ကူးယူခြင်း၊ ဖြန့်ဝေခြင်း၊ သင့်လျော်သလို ပြောင်းလဲ၍ အဆင်ပြေသလို အသုံးပြုနိုင်ပါသည်။ မည်သည့်အသုံးပြုခြင်း၌မဆို ဗုဒ္ဓဘာသာလူ့ဘောင်အသိုင်းအဝိုင်း၏ မူဝါဒများ၊ တန်ဖိုးများနှင့်အညီဖြစ်ပါစေရန် ဘာသာပြန်ဆိုသူမှ လေးစားစွာတောင်းဆိုပါသည်။",
-    "first_published": "2021",
+    "first_published": "",
     "editions_url": ""
   },
   {
@@ -868,14 +839,14 @@
   },
   {
     "publication_number": "scpub34",
-    "root_lang": "misc",
-    "translation_lang": "en",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/name",
-    "creator_uid": "sujato",
-    "creator_name": "Bhikkhu Sujato",
-    "creator_github_handle": "sujato",
-    "text_uid": "name",
-    "translation_title": "Names",
+    "root_lang": "",
+    "translation_lang": "",
+    "source_url": "",
+    "creator_uid": "",
+    "creator_name": "",
+    "creator_github_handle": "",
+    "text_uid": "",
+    "translation_title": "",
     "translation_subtitle": "",
     "root_title": "",
     "creation_process": "",
@@ -886,11 +857,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": "",
-    "url": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub35",
@@ -915,7 +883,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2019",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/ma"
   },
   {
     "publication_number": "scpub36",
@@ -989,10 +957,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub39",
@@ -1041,10 +1007,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub41",
@@ -1068,10 +1032,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub42",
@@ -1096,7 +1058,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Terjemahan ini adalah ungkapan sebuah teks spiritual yang telah diwariskan oleh tradisi Buddhis demi manfaat semua makhluk. Ini didedikaskan pada domain publik melalui Creative Commons Nol (CC0). Anda didorong untuk menyalin, memproduksi ulang, mengadaptasi, mengubah, atau sebaliknya menggunakan terjemahan ini. Penerjemah dengan hormat meminta agar penggunaan apa pun sesuai dengan nilai-nilai dan prinsip komunitas Buddhis.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/sa"
   },
   {
     "publication_number": "scpub43",
@@ -1121,7 +1083,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Đây là bản dịch của kinh điển Phật giáo cổ xưa được truyền thừa từ bao đời vì lợi ích cho chúng sanh, vậy nên nó được phân phối theo giấy phép Creative Commons CC0 Hiến tặng vào Phạm vi Công cộng Toàn thế giới. Quý vị được tự do sao chép, phân phối, tham khảo, sửa đổi, trình bày, hay sử dụng tác phẩm này. Chúng tôi chỉ xin quý vị hoan hỉ sử dụng phù hợp với tinh thần và nguyên tắc Phật giáo.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/dhp"
   },
   {
     "publication_number": "scpub44",
@@ -1145,10 +1107,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub45",
@@ -1172,10 +1132,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub46",
@@ -1199,10 +1157,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub47",
@@ -1211,18 +1167,9 @@
     "translation_lang_iso": "pt",
     "translation_lang_name": "Português",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pt/laera-quaresma/sutta/mn",
-    "creator_uid": [
-      "gnlaera",
-      "vitor"
-    ],
-    "creator_name": [
-      "Gabriel Laera",
-      "Vitor Guimarães"
-    ],
-    "creator_github_handle": [
-      "gnlaera",
-      "vngmar"
-    ],
+    "creator_uid": ["gnlaera", "vitor"],
+    "creator_name": ["Gabriel Laera", "Vitor Guimarães"],
+    "creator_github_handle": ["gnlaera", "vngmar"],
     "text_uid": "mn",
     "translation_title": "Discursos Médios",
     "translation_subtitle": "Uma tradução do Majjhima Nikāya",
@@ -1236,7 +1183,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/mn"
   },
   {
     "publication_number": "scpub48",
@@ -1245,18 +1192,9 @@
     "translation_lang_iso": "pt",
     "translation_lang_name": "Português",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pt/laera-quaresma/sutta/sn",
-    "creator_uid": [
-      "gnlaera",
-      "vitor"
-    ],
-    "creator_name": [
-      "Gabriel Laera",
-      "Vitor Guimarães"
-    ],
-    "creator_github_handle": [
-      "gnlaera",
-      "vngmar"
-    ],
+    "creator_uid": ["gnlaera", "vitor"],
+    "creator_name": ["Gabriel Laera", "Vitor Guimarães"],
+    "creator_github_handle": ["gnlaera", "vngmar"],
     "text_uid": "sn",
     "translation_title": "Discursos Conectados ou Vinculados",
     "translation_subtitle": "Uma tradução do Saṁyutta Nikāya",
@@ -1270,7 +1208,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/sn"
   },
   {
     "publication_number": "scpub49",
@@ -1294,10 +1232,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "SuttaCentral",
-    "publication_type": "website"
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub50",
@@ -1322,10 +1258,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "SuttaCentral",
-    "publication_type": "website"
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub51",
@@ -1349,10 +1283,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "SuttaCentral",
-    "publication_type": "website"
+    "first_published": "",
+    "editions_url": ""
   },
   {
     "publication_number": "scpub52",
@@ -1377,7 +1309,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/mn"
   },
   {
     "publication_number": "scpub53",
@@ -1402,7 +1334,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/dhp"
   },
   {
     "publication_number": "scpub54",
@@ -1427,7 +1359,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub55",
@@ -1452,7 +1384,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/dn"
   },
   {
     "publication_number": "scpub56",
@@ -1477,7 +1409,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej.",
     "first_published": "2021",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/snp"
   },
   {
     "publication_number": "scpub57",
@@ -1501,10 +1433,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "edition_number": "",
-    "publication_date": "",
-    "publisher": "",
-    "publication_type": ""
+    "first_published": "",
+    "editions_url": "https://suttacentral.net/mn"
   },
   {
     "publication_number": "scpub58",
@@ -1529,7 +1459,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub59",
@@ -1604,7 +1534,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/snp"
   },
   {
     "publication_number": "scpub62",
@@ -1629,7 +1559,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/mn"
   },
   {
     "publication_number": "scpub63",
@@ -1654,7 +1584,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/sn"
   },
   {
     "publication_number": "scpub64",
@@ -1729,7 +1659,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/dn"
   },
   {
     "publication_number": "scpub67",
@@ -1754,7 +1684,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Ovaj prevod je verzija drevnog duhovnog teksta koji je budistička tradicija prenosila za dobrobit svih živih bića. Predat je u javno vlasništvo putem Creative Commons Zero (CC0) licence. Pozivamo vas da kopirate, reprodukujete, prilagođavate, menjate ili na drugi način koristite ovaj prevod. Prevodilac zahteva da svaka buduća upotreba teksta bude u skladu sa vrednostima i principima budističke zajednice.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/dn"
   },
   {
     "publication_number": "scpub68",
@@ -1779,7 +1709,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/sn"
   },
   {
     "publication_number": "scpub69",
@@ -1804,7 +1734,7 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
     "license_statement": "",
     "first_published": "2017",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/pdhp"
   },
   {
     "publication_number": "scpub70",
@@ -1829,7 +1759,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub71",
@@ -1854,7 +1784,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/dn"
   },
   {
     "publication_number": "scpub72",
@@ -1929,7 +1859,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Cette traduction est une expression d’un texte spirituel ancien qui a été transmis par la tradition bouddhiste pour le bien de tous les êtres sensibles. Elle est versée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragé à copier, reproduire, adapter, changer et faire d’autres usages de cette traduction. Le traducteur demande respectueusement que l’utilisation qui en est faite respecte les valeurs et les principes de la communauté bouddhiste.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub75",
@@ -1954,7 +1884,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Cette traduction est une expression d’un texte spirituel ancien qui a été transmis par la tradition bouddhiste pour le bien de tous les êtres sensibles. Elle est versée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragé à copier, reproduire, adapter, changer et faire d’autres usages de cette traduction. Le traducteur demande respectueusement que l’utilisation qui en est faite respecte les valeurs et les principes de la communauté bouddhiste.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/sn"
   },
   {
     "publication_number": "scpub76",
@@ -2138,18 +2068,9 @@
     "translation_lang_iso": "pt",
     "translation_lang_name": "Português",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pt/laera-quaresma/vinaya",
-    "creator_uid": [
-      "gnlaera",
-      "vitor"
-    ],
-    "creator_name": [
-      "Gabriel Laera",
-      "Vitor Guimarães"
-    ],
-    "creator_github_handle": [
-      "gnlaera",
-      "vngmar"
-    ],
+    "creator_uid": ["gnlaera", "vitor"],
+    "creator_name": ["Gabriel Laera", "Vitor Guimarães"],
+    "creator_github_handle": ["gnlaera", "vngmar"],
     "text_uid": "pli-tv-bi-pm",
     "translation_title": "",
     "translation_subtitle": "",
@@ -2172,18 +2093,9 @@
     "translation_lang_iso": "pt",
     "translation_lang_name": "Português",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pt/laera-quaresma/vinaya",
-    "creator_uid": [
-      "gnlaera",
-      "vitor"
-    ],
-    "creator_name": [
-      "Gabriel Laera",
-      "Vitor Guimarães"
-    ],
-    "creator_github_handle": [
-      "gnlaera",
-      "vngmar"
-    ],
+    "creator_uid": ["gnlaera", "vitor"],
+    "creator_name": ["Gabriel Laera", "Vitor Guimarães"],
+    "creator_github_handle": ["gnlaera", "vngmar"],
     "text_uid": "pli-tv-bu-pm",
     "translation_title": "",
     "translation_subtitle": "",
@@ -2222,7 +2134,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej.",
     "first_published": "2023",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/sn"
   },
   {
     "publication_number": "scpub86",
@@ -2247,7 +2159,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2022",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/cp"
   },
   {
     "publication_number": "scpub87",
@@ -2272,7 +2184,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "To tłumaczenie jest przekazem starożytnego tekstu, który został zachowany przez tradycję buddyjską dla dobra wszystkich czujących istot. Autor przekazuje znajdujące się tu dzieła do domeny publicznej za pośrednictwem Creative Commons Zero (CC0), zrzekając się wykonywania wszelkich praw do utworu wynikających z prawa autorskiego, włączając w to wszelkie prawa powiązane i prawa pokrewne, w zakresie dozwolonym przez prawo, na obszarze całego świata. Możesz zwielokratniać, zmieniać, rozpowszechniać lub w inny sposób wykorzystać to tłumaczenie. Tłumacz z prosi, aby każde użycie było zgodne z wartościami i zasadami społeczności buddyjskiej.",
     "first_published": "2023",
-    "editions_url": ""
+    "editions_url": "https://suttacentral.net/kp"
   },
   {
     "publication_number": "scpub88",
@@ -2321,10 +2233,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Esta traducción es una expresión de un antiguo texto espiritual que ha sido transmitido por la tradición budista en beneficio de todos los seres. Se ofrece al dominio público a través de Creative Commons Zero (CC0). Se te anima a copiar, reproducir, adaptar, alterar o hacer uso de esta traducción. El traductor solicita respetuosamente que cualquier uso sea de acuerdo con los valores y principios de la comunidad budista.",
-    "edition_number": "1",
-    "publication_date": "2023",
-    "publisher": "SuttaCentral",
-    "publication_type": "website"
+    "first_published": "2023",
+    "editions_url": "https://suttacentral.net/sn"
   },
   {
     "publication_number": "scpub90",
@@ -2348,10 +2258,8 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Esta traducción es una expresión de un antiguo texto espiritual que ha sido transmitido por la tradición budista en beneficio de todos los seres. Se ofrece al dominio público a través de Creative Commons Zero (CC0). Se te anima a copiar, reproducir, adaptar, alterar o hacer uso de esta traducción. El traductor solicita respetuosamente que cualquier uso sea de acuerdo con los valores y principios de la comunidad budista.",
-    "edition_number": "1",
-    "publication_date": "2023",
-    "publisher": "SuttaCentral",
-    "publication_type": "website"
+    "first_published": "2023",
+    "editions_url": "https://suttacentral.net/an"
   },
   {
     "publication_number": "scpub91",
@@ -2389,18 +2297,43 @@
     "creator_name": "John Kelly",
     "creator_github_handle": "palistudent",
     "text_uid": "mil",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "Milinda’s Questions",
+    "translation_subtitle": "Great Chapter",
     "root_title": "Milindapañha",
-    "creation_process": "",
-    "text_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "creation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pāli Tipiṭaka (with additional checking against the PTS Pāli edition). Translated from the Pāli, with reference to several English translations, especially that of I.B. Horner.",
+    "text_description": "This ongoing (and still very much incomplete) translation of the Milindapañha is part of a project to translate and make available online the Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. This project was commenced in 2023.",
+    "is_published": true,
+    "publication_status": "Incomplete.",
     "license_type": "Creative Commons Zero",
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
-    "first_published": "",
+    "first_published": "2023",
     "editions_url": "https://suttacentral.net/mil"
+  },
+  {
+    "publication_number": "scpub93",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "pt",
+    "translation_lang_name": "Português",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/pt/laera-quaresma/sutta/kn/snp",
+    "creator_uid": "laera-quaresma",
+    "creator_name": "Gabriel Laera",
+    "creator_github_handle": "gnlaera",
+    "text_uid": "snp",
+    "translation_title": "Sutta Nipata: Uma Antolologia de Discursos do Buda",
+    "translation_subtitle": "Uma tradução inspirada pelo trabalho de Bhikkhu Sujato",
+    "root_title": "Suttanipāta",
+    "creation_process": "Traduzido do inglês, com referências ocasionais ao texto original em páli (edição Mahāsaṅgīti). A fonte principal é a tradução recente feita por Bhikkhu Sujato.",
+    "text_description": "Esta tradução se basea no trabalho de Bhante Sujato e portanto reflete a intenção de se manter a clareza e a urgência do Suttanipāta. O Suttanipāta inclui versos dos períodos mais antigos e mais recentes dentro do período dos antigos textos, e por isso cobre uma variedade desafiante de estilos e temas, por vezes intensos, devocionais ou afiados. Em várias partes, nomeadamente no Aṭṭhakavagga, há uma série de expressões muito específicas que exigem uma atenção redobrada.",
+    "is_published": true,
+    "publication_status": "Em progresso.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "Esta tradução é uma expressão de um antigo texto sobre assuntos espirituais que foi transmitido pela tradição budista para o benefício de todos os seres sencientes. Ela é dedicada ao domínio público através do Creative Commons Zero (CC0). Todos são encorajados a copiar, reproduzir, adaptar, alterar ou de outra forma fazer uso desta tradução. Os tradutores solicitam respeitosamente que qualquer uso esteja de acordo com os valores e princípios da comunidade budista.",
+    "first_published": "2023",
+    "editions_url": "https://suttacentral.net/snp"
   }
 ]
