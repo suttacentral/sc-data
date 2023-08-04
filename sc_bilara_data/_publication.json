@@ -1254,20 +1254,22 @@
   },
   "scpub34": {
     "publication_number": "scpub34",
-    "root_lang": "",
-    "translation_lang": "",
-    "source_url": "",
-    "author_uid": "",
-    "author_name": "",
-    "author_github_handle": "",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/kovilo/sutta/an",
+    "author_uid": "kovilo",
+    "author_name": "Kovilo Bhikkhu",
+    "author_github_handle": "kovilo",
+    "text_uid": "an",
+    "translation_title": "The Numerical List Collection",
+    "translation_subtitle": "A Companion Translation of the Aṅguttara Nikāya",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "Primary source was the digital Mahāsaṅgīti edition of the Pali Tipiṭaka. Translated from the Pali, with reference to several English translations and extensive use of the [Digital Pāli Reader](https://www.digitalpalireader.online/_dprhtml/index.html) and the [Digital Pāli](https://digitalpalidictionary.github.io/) Dictionary.",
+    "translation_description": "This text is the first published sutta translated by Kovilo Bhikkhu during his time at Dharma Realm Buddhist University (2020-2024). This and future translations by Venerable Kovilo seek to translate the original text with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright.",
+    "is_published": true,
+    "publication_status": "Ongoing translations of suttas in order of the translator’s interest. Revision is ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -1276,11 +1278,11 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "",
-        "publication_type": "",
-        "url": ""
+        "edition_number": "1",
+        "publication_date": "2023",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "url": "https://suttacentral.net/an"
       }
     ]
   },
