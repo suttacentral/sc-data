@@ -414,6 +414,14 @@
     "creator_github_handle": ""
   },
   {
+    "project_uid": "pl_sct_translation_lucjan",
+    "name": "Chinese root translation Paweł Łucjan",
+    "root_path": "root/lzh/sct/sutta",
+    "translation_path": "translation/pl/lucjan/sutta",
+    "translation_muids": "translation-pl-lucjan",
+    "creator_github_handle": "p-lucjan"
+  },
+  {
     "project_uid": "pt_blurb_translation",
     "name": "Portuguese blurb translation",
     "root_path": "root/en/blurb",
