@@ -79,6 +79,11 @@
     "name": "မြန်မာစာ",
     "is_root": false
   },
+  "nys": {
+    "type": "language",
+    "name": "Noongar",
+    "is_root": false
+  },  
   "pl": {
     "type": "language",
     "name": "Polski",

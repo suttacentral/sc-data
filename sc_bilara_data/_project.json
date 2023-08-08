@@ -517,6 +517,17 @@
       }
     ]
   },
+  "nys_ms_translation_buddhadassa": {
+    "name": "Noongar translation",
+    "root_path": "root/pli/ms/sutta/an",
+    "translation_path": "translation/nys/buddhadassa/sutta/an",
+    "translation_muids": "translation-nys-buddhadassa",
+    "collaborator": [
+      {
+        "author_github_handle": "BD928"
+      }
+    ]
+  },
   "pl_blurb_translation": {
     "name": "Polish blurb translation",
     "root_path": "root/en/blurb",
