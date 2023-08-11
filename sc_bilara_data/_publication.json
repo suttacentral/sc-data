@@ -3369,26 +3369,26 @@
     "translation_lang_name": "Noongar",
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/nys/buddhadassa/sutta/an",
     "author_uid": "buddhadassa",
-    "author_name": "Buddhadassa",
+    "author_name": "Ryan John Guilfoyle",
     "author_github_handle": "BD928",
     "text_uid": "an",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "Numbered Discourses",
+    "translation_subtitle": "Ghain Kwabba translation of the Aṅguttara Nikāya",
     "root_title": "Aṅguttaranikāya",
-    "translation_process": "",
-    "translation_description": "",
+    "translation_process": "Ne Anguttara Nikaya/Noongar yakka dilagn boorda Ryan Guilfoyle “aka” Noongar Publishing “aka” Buddhadāsa nginder jin ally-war Bodhinyana Buddhist Monastery.",
+    "translation_description": "A Nyoongar wordlist, Anthropology and Archeology Department, Western Australian Museum.",
     "is_published": false,
-    "publication_status": "",
+    "publication_status": "Ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
+      "license_statement": "Ne yakka be ghain yakka dilagn boorda milgebar Kaartijen kap-it-ngun boorda Buddha “aka” Bridiyar Kaartijen ghain yoongie Creative Commons (CC0) Mara Mara ka."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
+        "edition_number": "1",
+        "publication_date": "2023",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/an"
