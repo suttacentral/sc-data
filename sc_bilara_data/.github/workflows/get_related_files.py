@@ -1,6 +1,6 @@
 """This module is used to get files that are related to changed or deleted files.  Since the bilara-data-integrity tests
 are now only run on a per file basis, we need to make sure that when an html file is modified the tests are run on both
-the html and root file.  This module will also make sure that if an hmtl file is deleted, it's related root file is also
+the html and root file.  This module will also make sure that if an hmtl file is deleted, it’s related root file is also
 deleted.
 
 This is the list of the relationships between tests and files in bilara-data-integrity:
