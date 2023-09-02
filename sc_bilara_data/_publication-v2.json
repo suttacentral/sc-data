@@ -2362,5 +2362,30 @@
     "license_statement": "Ne yakka be ghain yakka dilagn boorda milgebar Kaartijen kap-it-ngun boorda Buddha “aka” Bridiyar Kaartijen ghain yoongie Creative Commons (CC0) Mara Mara ka.",
     "first_published": "2023",
     "editions_url": "https://suttacentral.net/an"
+  },
+  {
+    "publication_number": "scpub95",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "lt",
+    "translation_lang_name": "Lietuvių kalba",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/lt/piyadassi/sutta/kn/iti",
+    "creator_uid": "piyadassi",
+    "creator_name": "Sayalay Piyadassi",
+    "creator_github_handle": "Piyadassii",
+    "text_uid": "iti",
+    "translation_title": "Taip bylota",
+    "translation_subtitle": "Itivuttakos vertimas",
+    "root_title": "Itivuttaka",
+    "creation_process": "Versta iš pali, Chaṭṭhasaṅgayānos leidimo kanono. Vertimas atitinka pirminio pali teksto komentarą (aṭṭhakathā). Abejotinose vietose buvo naudojami taip pat ir turimi angliški vertimai.",
+    "text_description": "Šis vertimas yra dalis projekto, kuriuo siekiama išversti keturias pali Nikāyas ir kelias knygas iš Khuddaka Nikāyos į lietuvių kalbą. Vertimo tikslas yra suteikti lietuviams galimybę skaityti pali tekstus gimtąja kalba. Vertime bandoma išlaikyti pusiausvyrą tarp tikslaus pali žodžių perdavimo ir aiškios lietuvių kalbos; be autorinių teisių. Projektas pradėtas įgyvendinti 2022 m. pradžioje.",
+    "is_published": true,
+    "publication_status": "Šis vertimas yra preliminarus ir gali būti toliau redaguojamas.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "Šis vertimas – tai senovinio dvasinio teksto perteikimas, kurį budizmo tradicija perdavė visų gyvų būtybių labui. Jis yra viešai prieinamas pagal „Creative Commons Zero” (CC0). Kviečiame kopijuoti, atgaminti, adaptuoti, keisti ar kitaip naudoti šį vertimą. Vertėjas pagarbiai prašo, kad bet koks naudojimas atitiktų budistų bendruomenės vertybes ir principus.",
+    "first_published": "2023",
+    "editions_url": "https://suttacentral.net/iti"
   }
 ]
