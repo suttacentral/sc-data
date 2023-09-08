@@ -208,7 +208,10 @@
     "root_path": "root/en/blurb",
     "translation_path": "translation/fr/blurb",
     "translation_muids": "translation-fr",
-    "creator_github_handle": "noeismet"
+    "creator_github_handle": [
+      "noeismet",
+      "philaleth3s"
+    ]
   },
   {
     "project_uid": "fr_localization",
