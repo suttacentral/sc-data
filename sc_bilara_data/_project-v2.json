@@ -304,8 +304,8 @@
   {
     "project_uid": "it_ms_translation_giovannizappa",
     "name": "Italian translation Giovanni Zappa",
-    "root_path": "root/pli/ms/sutta/mn",
-    "translation_path": "translation/it/giovannizappa/sutta/mn",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/it/giovannizappa/sutta",
     "translation_muids": "translation-it-giovannizappa",
     "creator_github_handle": "gioz93"
   },
