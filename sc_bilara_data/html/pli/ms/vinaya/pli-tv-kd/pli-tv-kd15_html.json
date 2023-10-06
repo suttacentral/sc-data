@@ -3,7 +3,7 @@
   "pli-tv-kd15:0.2": "<li class='division'>{}</li></ul>",
   "pli-tv-kd15:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "pli-tv-kd15:1.0.1": "<h2>{}</h2>",
-  "pli-tv-kd15:1.0.2": "<h3>{}</h3>",
+  "pli-tv-kd15:1.0.2": "<h3 class='help-heading'>{}</h3>",
   "pli-tv-kd15:1.1.1": "<p>{}",
   "pli-tv-kd15:1.1.2": "{}",
   "pli-tv-kd15:1.1.3": "{}",
