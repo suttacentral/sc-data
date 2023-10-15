@@ -10,7 +10,7 @@
   "page_height": "9in",
   "cover_bleed": "3mm",
   "cover_flap_width": false,
-  "cover_theme_color": "green",
+  "cover_theme_color": "brown",
   "main_toc_depth": "1",
   "secondary_toc": true,
   "sources": {
@@ -28,7 +28,7 @@
       "volume_translation_title": "Analysis of Rules for Monks (1)",
       "volume_root_title": "Bhikkhu Vibhaṅga",
       "volume_blurb": "This volume includes the first three categories of rules for monks. <i lang='pli'>Pārājika</i> entails immediate and permanent expulsion from the saṅgha; <i lang='pli'>Saṅghādisesa</i> entails a period of suspension after consideration by the Saṅgha; and <i lang='pli'>Aniyata</i> is a procedure requiring consideration of an accusation by a laywoman against a monk.",
-      "cover_background_image": "green1.png",
+      "cover_background_image": "brown1.png",
       "cover_image": "paperback_cover_6inx9in_vol1.pdf",
       "frontmatter": [
         "titlepage",
@@ -57,7 +57,7 @@
       "volume_translation_title": "Analysis of Rules for Monks (2)",
       "volume_root_title": "Bhikkhu Vibhaṅga",
       "volume_blurb": "The minor rules for monks. <i lang='pli'>Nissaggiya pācittiya</i> entails confession with forfeiture; <i lang='pli'>pācittya</i> a simple confession; <i lang='pli'>pāṭidesanīya</i> are a special set of rules also requiring confession; <i lang='pli'>sekhiya</i> are guidelines for good manners and conduct; and <i lang='pli'>adhikaraṇasamatha</i> are seven procedures for settling disputes.",
-      "cover_background_image": "green2.png",
+      "cover_background_image": "brown2.png",
       "cover_image": "paperback_cover_6inx9in_vol2.pdf",
       "frontmatter": [
         "titlepage",
@@ -84,7 +84,7 @@
       "volume_translation_title": "Analysis of Rules for Nuns",
       "volume_root_title": "Bhikkhunī Vibhaṅga",
       "volume_blurb": "The entire collection of rules for nuns. The canon only includes those that are specially laid down for nuns, while those shared with the monks are implicit.",
-      "cover_background_image": "green3.png",
+      "cover_background_image": "brown3.png",
       "cover_image": "paperback_cover_6inx9in_vol3.pdf",
       "frontmatter": [
         "titlepage",
@@ -107,7 +107,7 @@
       "volume_translation_title": "The Great Division",
       "volume_root_title": "Mahāvagga",
       "volume_blurb": "The first ten of the 22 <i lang='pli'>khandhakas</i> make up the “Great Division” in the Pali Vinaya.",
-      "cover_background_image": "green4.png",
+      "cover_background_image": "brown4.png",
       "cover_image": "paperback_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
@@ -139,7 +139,7 @@
       "volume_translation_title": "The Lesser Division",
       "volume_root_title": "Cūḷavagga",
       "volume_blurb": "Sections eleven through twenty-two of the <i lang='pli'>khandhakas</i> make up the “Lesser Division” of the Pali Vinaya.",
-      "cover_background_image": "green5.png",
+      "cover_background_image": "brown5.png",
       "cover_image": "paperback_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
@@ -173,7 +173,7 @@
       "volume_translation_title": "The Compendium",
       "volume_root_title": "Parivāra",
       "volume_blurb": "A textbook that assembles the material from the Vinaya and arranges it for study.",
-      "cover_background_image": "green6.png",
+      "cover_background_image": "brown6.png",
       "cover_image": "paperback_cover_6inx9in_vol4.pdf",
       "frontmatter": [
         "titlepage",
