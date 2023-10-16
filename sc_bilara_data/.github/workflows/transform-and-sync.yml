@@ -56,5 +56,5 @@ jobs:
           dst_path: /sc_bilara_data/
           dst_branch: master
           clean: true
-          commit_message: '[GHA] Sync nilakkhana transformed files from bilara-data.'
+          commit_message: '[GHA] Nilakkhana transform and sync files from bilara-data repo.'
 
