@@ -30,13 +30,8 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "[GHA] Nilakkhana transform"
+          git push origin published:published
           
-          if [[ -n $(git status --porcelain) ]]; then
-            echo "There are changes to commit."
-            git push origin published:published
-          else
-            echo "No changes to commit."          
-
       - name: Sync changed files to sc-data repo
         uses: andstor/copycat-action@v3
         with:
