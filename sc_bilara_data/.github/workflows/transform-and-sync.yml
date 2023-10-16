@@ -24,13 +24,26 @@ jobs:
       - name: Execute python script to transform
         run: |
           python .nilakkhana/process_all_supported_files.py
-      - name: Push changed files
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "There are changes to commit."
+            echo "::set-output name=changes::true"
+          else
+            echo "No changes to commit."
+            echo "::set-output name=changes::false"
+          fi
+
+      - name: Push changes
+        if: steps.check-changes.outputs.changes == 'true'
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
           git commit -m "[GHA] Nilakkhana transform"
-          (git push origin published:published) || true
+          git push origin published:published      
           
       - name: Sync changed files to sc-data repo
         uses: andstor/copycat-action@v3
