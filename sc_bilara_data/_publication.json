@@ -2774,13 +2774,13 @@
     "author_name": "Bhikkhu Brahmali",
     "author_github_handle": "brahmali",
     "text_uid": "pli-tv-bi-pm",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "The Monastic Code for nuns",
+    "translation_subtitle": "Bhikkhunī Pātimokkha",
     "root_title": "Bhikkhunī Pātimokkha",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "The material here is mostly extracted from the Bhikkhunī Vibhaṅga and [Kd 2](https://suttacentral.net/pli-tv-kd2/en/brahmali), which includes the introduction to the Pātimokkha. The small amount of original material is translated from the Pali of the Mahāsaṅgīti edition.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Bhikkhunī Pātimokkha. It was first done as part of the translation of the Bhikkhunī Vibhaṅga, which includes the Bhikkhunī Pātimokkha.",
+    "is_published": true,
+    "publication_status": "Completed, revision ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -2790,7 +2790,7 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "",
+        "publication_date": "2023",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/pli-tv-bi-pm"
@@ -2808,13 +2808,13 @@
     "author_name": "Bhikkhu Brahmali",
     "author_github_handle": "brahmali",
     "text_uid": "pli-tv-bu-pm",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "The Monastic Code for monks",
+    "translation_subtitle": "Bhikkhu Pātimokkha",
     "root_title": "Bhikkhu Pātimokkha",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "The material here is mostly extracted from the Bhikkhu Vibhaṅga and [Kd 2](https://suttacentral.net/pli-tv-kd2/en/brahmali), which includes the introduction to the Pātimokkha. The small amount of original material is translated from the Pali of the Mahāsaṅgīti edition.",
+    "translation_description": "This translation aims to make a clear, readable, and accurate rendering of the Bhikkhu Pātimokkha. It was first done as part of the translation of the Bhikkhu Vibhaṅga, which includes the Bhikkhu Pātimokkha.",
+    "is_published": true,
+    "publication_status": "Completed, revision ongoing.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -2824,7 +2824,7 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "",
+        "publication_date": "2023",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/pli-tv-bu-pm"
