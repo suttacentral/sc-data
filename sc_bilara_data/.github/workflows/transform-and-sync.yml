@@ -30,10 +30,10 @@ jobs:
         run: |
           if [[ -n $(git status --porcelain) ]]; then
             echo "There are changes to commit."
-            echo "{changes}={true}" >> $GITHUB_OUTPUT
+            echo "changes=true" >> $GITHUB_OUTPUT
           else
             echo "No changes to commit."
-            echo "{changes}={false}" >> $GITHUB_OUTPUT
+            echo "changes=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Push changes
