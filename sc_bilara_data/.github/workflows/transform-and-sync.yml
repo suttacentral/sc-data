@@ -30,7 +30,7 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "[GHA] Nilakkhana transform"
-          git push origin published:published
+          (git push origin published:published) || true
           
       - name: Sync changed files to sc-data repo
         uses: andstor/copycat-action@v3
