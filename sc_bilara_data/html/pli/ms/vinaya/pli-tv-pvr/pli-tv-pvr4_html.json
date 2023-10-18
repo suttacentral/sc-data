@@ -142,7 +142,7 @@
   "pli-tv-pvr4:26.3": "{}</p>",
   "pli-tv-pvr4:27.1": "<p class='endsutta'>{}</p>",
   "pli-tv-pvr4:28.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
-  "pli-tv-pvr4:29.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-pvr4:29.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "pli-tv-pvr4:29.2": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr4:29.3": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr4:29.4": "<span class='verse-line'>{}</span></p>",
@@ -578,7 +578,7 @@
   "pli-tv-pvr4:82.1": "<p class='endsutta'>{}</p>",
   "pli-tv-pvr4:83.1": "<p class='end'>{}</p>",
   "pli-tv-pvr4:84.1": "<section class='uddana'><p class='uddana-intro'>{}</p>",
-  "pli-tv-pvr4:85.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-pvr4:85.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "pli-tv-pvr4:85.2": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr4:85.3": "<span class='verse-line'>{}</span>",
   "pli-tv-pvr4:85.4": "<span class='verse-line'>{}</span></p></blockquote></section></article>"

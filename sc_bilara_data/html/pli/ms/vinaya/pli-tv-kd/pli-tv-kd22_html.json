@@ -542,7 +542,7 @@
   "pli-tv-kd22:2.9.1": "<hr><p>{}</p>",
   "pli-tv-kd22:2.9.2": "<p class='endsutta'>{}</p>",
   "pli-tv-kd22:2.9.3": "<section class='uddana'><p class='uddana-intro'>{}</p>",
-  "pli-tv-kd22:2.9.4": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "pli-tv-kd22:2.9.4": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
   "pli-tv-kd22:2.9.5": "<span class='verse-line'>{}</span>",
   "pli-tv-kd22:2.9.6": "<span class='verse-line'>{}</span>",
   "pli-tv-kd22:2.9.7": "<span class='verse-line'>{}</span></p>",
