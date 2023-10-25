@@ -71,7 +71,7 @@ def transform(string, reference_url_pattern=None):
 
             url = reference_url_pattern.format(uid=uid)
             if bookmark:
-                url = f'{url}#{bookmark}'
+                url = f'https://suttacentral.net{url}#{bookmark}'
             
         
         return f"<a href='{url}'>{label}</a>"
