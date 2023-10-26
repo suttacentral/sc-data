@@ -2039,16 +2039,22 @@
     "short_name": "Takehara",
     "long_name": "Kaz Takehara"
   },
-    {
+  {
     "type": "author",
     "uid": "nogelmeier-davis",
     "short_name": "Nogelmeier, Davis",
     "long_name": "M. Puakea Nogelmeier, Jake H. Davis"
   },
-   {
+  {
     "type": "author",
     "uid": "nyanamoli-thera",
     "short_name": "Nyanamoli",
     "long_name": "Nyanamoli Thera"
+  },
+  {
+    "type": "author",
+    "uid": "kansai",
+    "short_name": "関西パーリ語実習会",
+    "long_name": "関西パーリ語実習会"
   }
 ]
