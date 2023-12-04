@@ -4,6 +4,8 @@ from hashlib import md5
 
 from uid_to_acro import uid_to_acro
 
+from simplify_label import simplify_label
+
 def transform(string, reference_url_pattern=None):
     """
 
@@ -17,13 +19,13 @@ def transform(string, reference_url_pattern=None):
     reference_url_pattern:
 
     '/{uid}/en/sujato'
-    
+
 
     Extra Rules:
 
     "a -> “a
     a" -> a”
-    
+
     """
 
 
@@ -35,8 +37,8 @@ def transform(string, reference_url_pattern=None):
         result = 'TAG' + md5(m[0].encode()).hexdigest()[:20]
         html_mapping[result] = m[0]
         return result
-    
-    
+
+
     string = re.sub(r'<[a-z].*?>', subfn, string)
 
     # Rules
@@ -45,7 +47,7 @@ def transform(string, reference_url_pattern=None):
 
     string = re.sub(r'\*(.*?)\*', r'<em>\1</em>', string)
     string = re.sub(r'\_(.*?)\_', r"<i lang='pi' translate='no'>\1</i>", string)
-    
+
     def link_fn(m):
         label = m[1]
         link = m[2]
@@ -72,12 +74,14 @@ def transform(string, reference_url_pattern=None):
             url = reference_url_pattern.format(uid=uid)
             if bookmark:
                 url = f'{url}#{bookmark}'
-            
+
         if not url.startswith('https://suttacentral.net'):
             url = f'https://suttacentral.net{url}'
-        
+
+        label = simplify_label(label)
+
         return f"<a href='{url}'>{label}</a>"
-    
+
     string = re.sub(r'\[(.*?)\]\((.*?)\)', link_fn, string)
 
     def reverse_subfn(m):
