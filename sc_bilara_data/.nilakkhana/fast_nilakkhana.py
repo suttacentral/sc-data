@@ -75,8 +75,8 @@ def transform(string, reference_url_pattern=None):
             if bookmark:
                 url = f'{url}#{bookmark}'
 
-        # if not url.startswith('https://suttacentral.net'):
-        #     url = f'https://suttacentral.net{url}'
+        if not url.startswith('https://suttacentral.net'):
+            url = f'https://suttacentral.net{url}'
 
         label = simplify_label(label)
 
