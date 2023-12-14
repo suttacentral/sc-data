@@ -314,7 +314,6 @@
 	"an2.130-140": {
 		"translation/de/sabbamitta": "sutta/an/an2",
 		"translation/en/sujato": "sutta/an/an2",
-		"translation/jpn/kaz": "sutta/an/an2",
 		"root/pli/ms": "sutta/an/an2"
 	},
 	"an2.141-150": {
@@ -333,7 +332,6 @@
 	"an2.163-179": {
 		"translation/de/sabbamitta": "sutta/an/an2",
 		"translation/en/sujato": "sutta/an/an2",
-		"translation/jpn/kaz": "sutta/an/an2",
 		"root/pli/ms": "sutta/an/an2"
 	},
 	"an2.180-229": {
@@ -580,6 +578,7 @@
 		"translation/de/sabbamitta": "sutta/an/an3",
 		"translation/en/sujato": "sutta/an/an3",
 		"translation/jpn/kaz": "sutta/an/an3",
+		"translation/lt/piyadassi": "sutta/an/an3",
 		"root/pli/ms": "sutta/an/an3"
 	},
 	"an3.40": {
@@ -1524,6 +1523,7 @@
 		"translation/cs/ashinsarana": "sutta/an/an4",
 		"translation/de/sabbamitta": "sutta/an/an4",
 		"translation/en/sujato": "sutta/an/an4",
+		"translation/fr/noeismet": "sutta/an/an4",
 		"translation/jpn/kaz": "sutta/an/an4",
 		"root/pli/ms": "sutta/an/an4"
 	},
@@ -1538,6 +1538,7 @@
 		"translation/cs/ashinsarana": "sutta/an/an4",
 		"translation/de/sabbamitta": "sutta/an/an4",
 		"translation/en/sujato": "sutta/an/an4",
+		"translation/fr/noeismet": "sutta/an/an4",
 		"root/pli/ms": "sutta/an/an4"
 	},
 	"an4.56": {
@@ -3172,6 +3173,7 @@
 	"an5.57": {
 		"translation/de/sabbamitta": "sutta/an/an5",
 		"translation/en/sujato": "sutta/an/an5",
+		"translation/lt/piyadassi": "sutta/an/an5",
 		"root/pli/ms": "sutta/an/an5"
 	},
 	"an5.58": {
@@ -5205,6 +5207,7 @@
 	"an7.63": {
 		"translation/de/sabbamitta": "sutta/an/an7",
 		"translation/en/sujato": "sutta/an/an7",
+		"translation/fr/noeismet": "sutta/an/an7",
 		"root/pli/ms": "sutta/an/an7"
 	},
 	"an7.64": {
@@ -5649,6 +5652,7 @@
 	"an8.49": {
 		"translation/de/sabbamitta": "sutta/an/an8",
 		"translation/en/sujato": "sutta/an/an8",
+		"translation/fr/noeismet": "sutta/an/an8",
 		"root/pli/ms": "sutta/an/an8"
 	},
 	"an8.50": {
@@ -7722,66 +7726,77 @@
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp21-32": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp33-43": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp44-59": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp60-75": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp76-89": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp90-99": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp100-115": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp116-128": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp129-145": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp146-156": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp157-166": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/suddhaso": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
@@ -7795,16 +7810,19 @@
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp179-196": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp197-208": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
 	},
 	"dhp209-220": {
+		"translation/de/sabbamitta": "sutta/kn/dhp",
 		"translation/en/sujato": "sutta/kn/dhp",
 		"translation/vi/phantuananh": "sutta/kn/dhp",
 		"root/pli/ms": "sutta/kn/dhp"
@@ -8046,6 +8064,7 @@
 	"dn31": {
 		"translation/de/sabbamitta": "sutta/dn",
 		"translation/en/sujato": "sutta/dn",
+		"translation/fr/noeismet": "sutta/dn",
 		"translation/lt/piyadassi": "sutta/dn",
 		"translation/pl/hardao": "sutta/dn",
 		"translation/sr/brankokovacevic": "sutta/dn",
@@ -8228,16 +8247,19 @@
 	"iti27": {
 		"translation/de/sabbamitta": "sutta/kn/iti/vagga3",
 		"translation/en/sujato": "sutta/kn/iti/vagga3",
+		"translation/lt/piyadassi": "sutta/kn/iti/vagga3",
 		"root/pli/ms": "sutta/kn/iti/vagga3"
 	},
 	"iti28": {
 		"translation/de/sabbamitta": "sutta/kn/iti/vagga4",
 		"translation/en/sujato": "sutta/kn/iti/vagga4",
+		"translation/lt/piyadassi": "sutta/kn/iti/vagga4",
 		"root/pli/ms": "sutta/kn/iti/vagga4"
 	},
 	"iti29": {
 		"translation/de/sabbamitta": "sutta/kn/iti/vagga4",
 		"translation/en/sujato": "sutta/kn/iti/vagga4",
+		"translation/lt/piyadassi": "sutta/kn/iti/vagga4",
 		"root/pli/ms": "sutta/kn/iti/vagga4"
 	},
 	"iti30": {
@@ -8768,10 +8790,115 @@
 		"translation/en/kelly": "sutta/kn/mil",
 		"root/pli/ms": "sutta/kn/mil"
 	},
+	"mil3.2.1": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.2.2": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.2.3": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.2.4": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.2.5": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.2.6": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.2.7": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.2.8": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.2.9": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.1": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.2": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.3": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.4": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.5": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.6": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.7": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.8": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.9": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.10": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.11": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.12": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.13": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.3.14": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.4.1": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.4.2": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
+	"mil3.4.3": {
+		"translation/en/kelly": "sutta/kn/mil",
+		"root/pli/ms": "sutta/kn/mil"
+	},
 	"mn1": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn2": {
@@ -8780,30 +8907,35 @@
 		"translation/lt/piyadassi": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn3": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn4": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn5": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn6": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn7": {
@@ -8812,12 +8944,14 @@
 		"translation/lt/piyadassi": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn8": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn9": {
@@ -8825,6 +8959,7 @@
 		"translation/lt/piyadassi": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn10": {
@@ -8833,16 +8968,19 @@
 		"translation/lt/piyadassi": "sutta/mn",
 		"translation/pl/hardao": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn11": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn12": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
+		"translation/sr/brankokovacevic": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn13": {
@@ -8897,6 +9035,7 @@
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn22": {
+		"translation/de/sabbamitta": "sutta/mn",
 		"translation/en/sujato": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
@@ -8982,6 +9121,7 @@
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn38": {
+		"translation/de/sabbamitta": "sutta/mn",
 		"translation/en/sujato": "sutta/mn",
 		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
@@ -9113,43 +9253,53 @@
 		"translation/de/sabbamitta": "sutta/mn",
 		"translation/en/sujato": "sutta/mn",
 		"translation/lt/piyadassi": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn63": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/lt/piyadassi": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn64": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn65": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn66": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn67": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn68": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn69": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn70": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn71": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn72": {
@@ -9174,6 +9324,7 @@
 	},
 	"mn77": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn78": {
@@ -9191,6 +9342,7 @@
 	"mn81": {
 		"translation/de/sabbamitta": "sutta/mn",
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn82": {
@@ -9232,6 +9384,7 @@
 	"mn91": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/lt/piyadassi": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn92": {
@@ -9341,18 +9494,21 @@
 	"mn117": {
 		"translation/en/sujato": "sutta/mn",
 		"translation/lt/piyadassi": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn118": {
 		"translation/de/sabbamitta": "sutta/mn",
 		"translation/en/sujato": "sutta/mn",
 		"translation/pt/laera-quaresma": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn119": {
 		"translation/de/sabbamitta": "sutta/mn",
 		"translation/en/sujato": "sutta/mn",
 		"translation/lt/piyadassi": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn120": {
@@ -9481,6 +9637,7 @@
 	},
 	"mn148": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"mn149": {
@@ -9497,6 +9654,7 @@
 	},
 	"mn152": {
 		"translation/en/sujato": "sutta/mn",
+		"translation/ru/sv": "sutta/mn",
 		"root/pli/ms": "sutta/mn"
 	},
 	"pdhp1-13": {
@@ -9630,6 +9788,10 @@
 	},
 	"pdhp398-414.json": {
 		"translation/en/anandajoti": "sutta/pdhp"
+	},
+	"pli-tv-bi-pm": {
+		"translation/en/brahmali": "vinaya",
+		"root/pli/ms": "vinaya"
 	},
 	"pli-tv-bi-vb-as1-7": {
 		"translation/en/brahmali": "vinaya/pli-tv-bi-vb",
@@ -10067,6 +10229,10 @@
 		"translation/en/brahmali": "vinaya/pli-tv-bi-vb/pli-tv-bi-vb-pd",
 		"root/pli/ms": "vinaya/pli-tv-bi-vb/pli-tv-bi-vb-pd"
 	},
+	"pli-tv-bi-vb-pj1-4": {
+		"translation/en/brahmali": "vinaya/pli-tv-bi-vb/pli-tv-bi-vb-pj",
+		"root/pli/ms": "vinaya/pli-tv-bi-vb/pli-tv-bi-vb-pj"
+	},
 	"pli-tv-bi-vb-pj1": {
 		"translation/en/brahmali": "vinaya/pli-tv-bi-vb/pli-tv-bi-vb-pj",
 		"root/pli/ms": "vinaya/pli-tv-bi-vb/pli-tv-bi-vb-pj"
@@ -10150,6 +10316,10 @@
 	"pli-tv-bi-vb-ss13": {
 		"translation/en/brahmali": "vinaya/pli-tv-bi-vb/pli-tv-bi-vb-ss",
 		"root/pli/ms": "vinaya/pli-tv-bi-vb/pli-tv-bi-vb-ss"
+	},
+	"pli-tv-bu-pm": {
+		"translation/en/brahmali": "vinaya",
+		"root/pli/ms": "vinaya"
 	},
 	"pli-tv-bu-vb-as1-7": {
 		"translation/en/brahmali": "vinaya/pli-tv-bu-vb",
@@ -11331,139 +11501,163 @@
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/lt/piyadassi": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.2": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.3": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/lt/piyadassi": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.4": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.5": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.6": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.7": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.8": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.9": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.10": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.11": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.12": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.13": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.14": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.15": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.16": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.17": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.18": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.19": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.20": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.21": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.22": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.23": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.24": {
 		"translation/de/sabbamitta": "sutta/sn/sn1",
 		"translation/en/sujato": "sutta/sn/sn1",
 		"translation/pt/laera-quaresma": "sutta/sn/sn1",
+		"translation/sr/brankokovacevic": "sutta/sn/sn1",
 		"root/pli/ms": "sutta/sn/sn1"
 	},
 	"sn1.25": {
@@ -18077,6 +18271,7 @@
 	"sn46.3": {
 		"translation/de/sabbamitta": "sutta/sn/sn46",
 		"translation/en/sujato": "sutta/sn/sn46",
+		"translation/lt/piyadassi": "sutta/sn/sn46",
 		"root/pli/ms": "sutta/sn/sn46"
 	},
 	"sn46.4": {
@@ -20985,10 +21180,12 @@
 	},
 	"snp5.4": {
 		"translation/en/sujato": "sutta/kn/snp/vagga5",
+		"translation/lt/piyadassi": "sutta/kn/snp/vagga5",
 		"root/pli/ms": "sutta/kn/snp/vagga5"
 	},
 	"snp5.5": {
 		"translation/en/sujato": "sutta/kn/snp/vagga5",
+		"translation/lt/piyadassi": "sutta/kn/snp/vagga5",
 		"root/pli/ms": "sutta/kn/snp/vagga5"
 	},
 	"snp5.6": {
@@ -22124,114 +22321,142 @@
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag6.7": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag6.8": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag6.9": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag6.10": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag6.11": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag6.12": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag6.13": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag6.14": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag7.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag7.2": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag7.3": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag7.4": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag7.5": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag8.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag8.2": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag8.3": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag9.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag10.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag10.2": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag10.3": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag10.4": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag10.5": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag10.6": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag10.7": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag11.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag12.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag12.2": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag13.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
@@ -22241,6 +22466,7 @@
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag14.2": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
@@ -22255,18 +22481,22 @@
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.2": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.3": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.4": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
@@ -22276,34 +22506,42 @@
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.6": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.7": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.8": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.9": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag16.10": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag17.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag17.2": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag17.3": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
@@ -22313,6 +22551,7 @@
 		"root/pli/ms": "sutta/kn/thag"
 	},
 	"thag19.1": {
+		"translation/de/sabbamitta": "sutta/kn/thag",
 		"translation/en/sujato": "sutta/kn/thag",
 		"root/pli/ms": "sutta/kn/thag"
 	},
@@ -24967,85 +25206,7 @@
 	"mil2": {
 		"root/pli/ms": "sutta/kn/mil"
 	},
-	"mil3.2.1": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.2.2": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.2.3": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.2.4": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.2.5": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.2.6": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.2.7": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.2.8": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.2.9": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.10": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.11": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.12": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.13": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.14": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.1": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.2": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.3": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.4": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.5": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.6": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.7": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.8": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.3.9": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
 	"mil3.4.10": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.4.1": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.4.2": {
-		"root/pli/ms": "sutta/kn/mil"
-	},
-	"mil3.4.3": {
 		"root/pli/ms": "sutta/kn/mil"
 	},
 	"mil3.4.4": {
@@ -28152,11 +28313,5 @@
 	},
 	"vv9": {
 		"root/pli/ms": "sutta/kn/vv"
-	},
-	"pli-tv-bi-pm": {
-		"root/pli/ms": "vinaya"
-	},
-	"pli-tv-bu-pm": {
-		"root/pli/ms": "vinaya"
 	}
 }
