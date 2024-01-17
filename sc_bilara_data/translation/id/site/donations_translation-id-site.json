@@ -25,5 +25,16 @@
   "donations:24": "SuttaCentral Development Trust ",
   "donations:25": "SuttaCentral Development Trust adalah perwalian amal. Anggota pendiri perwalian adalah Bhante Sujato, Bhante Brahmali, dan John Kelly. Perwalian ini dikelola oleh Deepika Weerakoon. ",
   "donations:26": "Akuntan dan auditor Trust adalah <a href='http://www.alwisco.com.au'>Randolph Alwis &amp; Co Pty Ltd</a>. Dengan nomor <a href='https://abr.business.gov.au/SearchByAbn.aspx?SearchText=858%20188%2075744'>Australian Business Number (ABN): 858 188 75744</a>. ",
-  "donations:27": "Rincian keuangan Trust tersedia jika Anda memiliki pertanyaan. Trust dibuat semata-mata untuk mendukung pengembangan SuttaCentral. Semua dana di Trust hanya akan dibelanjakan untuk SuttaCentral, dan tidak ada untuk administrasi perwalian, yang dikelola oleh sukarelawan. "
+  "donations:27": "Rincian keuangan Trust tersedia jika Anda memiliki pertanyaan. Trust dibuat semata-mata untuk mendukung pengembangan SuttaCentral. Semua dana di Trust hanya akan dibelanjakan untuk SuttaCentral, dan tidak ada untuk administrasi perwalian, yang dikelola oleh sukarelawan. ",
+  "donations:amount": "Jumlah ",
+  "donations:chooseFrequency": "Anda dapat memberikan donasi sekali atau donasi bulanan. ",
+  "donations:currency": "Mata Uang ",
+  "donations:donateNow": "Donasi Sekarang ",
+  "donations:errorMessage": "Layanan untuk sementara tidak tersedia, silakan coba lagi nanti ",
+  "donations:feeDisclaimer": "Biaya penanganan Stripe yang dipotong dari donasi adalah 1,75% + 30¢ untuk kartu Australia, dan 2,9% + 30¢ untuk kartu Internasional, ditambah biaya konversi mata uang 1,8% bila berlaku. ",
+  "donations:invalidValue": "Nilai tidak valid ",
+  "donations:monthly": "Bulanan ",
+  "donations:oneTime": "Sekali ",
+  "donations:payWithCard": "Donasi dengan kartu ",
+  "donations:storageDisclaimer": "SuttaCentral tidak menangani atau menyimpan rincian kartu kredit Anda. Semua transaksi kartu kredit ditangani secara aman oleh <a href='https://stripe.com' target='blank'>Stripe</a>. "
 }

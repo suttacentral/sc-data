@@ -25,5 +25,16 @@
   "donations:24": "SuttaCentral Development Trust ",
   "donations:25": "O SuttaCentral Development Trust é uma instituição sem fins lucrativos. Os membros fundadores da trust são Bhante Sujato, Bhante Brahmali e John Kelly. A trust é gerida por Deepika Weerakoon. ",
   "donations:26": "Os contadores e auditores da Trust são <a href='http://www.alwisco.com.au'>Randolph Alwis &amp; Co Pty Ltd</a>. The <a href='https://abr.business.gov.au/SearchByAbn.aspx?SearchText=858%20188%2075744'>ABN is 858 188 75744</a>. ",
-  "donations:27": "Os detalhes financeiros da trust estão disponíveis caso você tenha alguma dúvida. A trust foi criada exclusivamente para apoiar o desenvolvimento do SuttaCentral. Todos os fundos arrecadados pela trust serão gastos exclusivamente no SuttaCentral, e nenhuma despesa resulta da administração da trust, que é gerenciada por voluntários."
+  "donations:27": "Os detalhes financeiros da trust estão disponíveis caso você tenha alguma dúvida. A trust foi criada exclusivamente para apoiar o desenvolvimento do SuttaCentral. Todos os fundos arrecadados pela trust serão gastos exclusivamente no SuttaCentral, e nenhuma despesa resulta da administração da trust, que é gerenciada por voluntários.",
+  "donations:amount": "Valor ",
+  "donations:chooseFrequency": "Você pode fazer uma doação única ou valor mensal: ",
+  "donations:currency": "Moeda ",
+  "donations:donateNow": "Contribua ",
+  "donations:errorMessage": "Este serviço está temporariamente indisponível, tente mais tarde ",
+  "donations:feeDisclaimer": "A taxa por operação deduzida de sua doação equivale a 1.75% + AU$ 0.30 para cartões emitidos na Austrália, e 2.9% + AU$ 0.30 para cartões internacionais, acrescido de 1.8% de taxa de câmbio quando aplicável. ",
+  "donations:invalidValue": "Valor inválido ",
+  "donations:monthly": "Mensal ",
+  "donations:oneTime": "Única ",
+  "donations:payWithCard": "Pague com cartão de crédito/débito ",
+  "donations:storageDisclaimer": "SuttaCentral não armazena ou distribui os detalhes de seu cartão. Todas as transações são realizadas em ambiente seguro por <a href='https://stripe.com' target='blank'>Stripe</a>. "
 }

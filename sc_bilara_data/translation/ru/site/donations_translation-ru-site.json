@@ -1,0 +1,13 @@
+{
+  "donations:amount": "Сумма",
+  "donations:chooseFrequency": "Вы можете сделать единовременное пожертвование или ежемесячное.",
+  "donations:currency": "Валюта",
+  "donations:donateNow": "Пожертвовать",
+  "donations:errorMessage": "Сервис временно недоступен, пожалуйста попробуйте позднее",
+  "donations:feeDisclaimer": "Комиссия за обработку Stripe, вычитаемая из пожертвования, составляет 1,75% + 30 центов для австралийских карт и 2,9% + 30 центов для международных карт плюс комиссия за конвертацию валюты в размере 1,8%, если применимо.",
+  "donations:invalidValue": "Недопустимое значение",
+  "donations:monthly": "Ежемесячно",
+  "donations:oneTime": "Единовременно",
+  "donations:payWithCard": "Пожертвовать с карты",
+  "donations:storageDisclaimer": "SuttaCentral не обрабатывает и не хранит данные вашей карты. Все транзакции по картам безопасно обрабатываются платформой <a href='https://stripe.com' target='blank'>Stripe</a>."
+}

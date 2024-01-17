@@ -1,0 +1,13 @@
+{
+  "donations:amount": "રકમ",
+  "donations:chooseFrequency": "તમે એક વખતનું દાન અથવા માસિક દાન કરી શકો છો.",
+  "donations:currency": "ચલણ",
+  "donations:donateNow": "હવે દાન કરો",
+  "donations:errorMessage": "સેવા અસ્થાયી રૂપે અનુપલબ્ધ છે, કૃપા કરીને પછીથી પ્રયાસ કરો",
+  "donations:feeDisclaimer": "દાનમાંથી કાપવામાં આવેલી સ્ટ્રાઇપ હેન્ડલિંગ ફી ઑસ્ટ્રેલિયન કાર્ડ્સ માટે 1.75% + 30¢ અને આંતરરાષ્ટ્રીય કાર્ડ્સ માટે 2.9% + 30¢, વત્તા જ્યારે લાગુ હોય ત્યારે 1.8% ચલણ રૂપાંતર ફી.",
+  "donations:invalidValue": "અમાન્ય મૂલ્ય",
+  "donations:monthly": "માસિક",
+  "donations:oneTime": "એક વાર",
+  "donations:payWithCard": "કાર્ડ સાથે દાન કરો",
+  "donations:storageDisclaimer": "સુત્તાસેંટ્રલ તમારા ક્રેડિટ કાર્ડની વિગતોને હેન્ડલ કે સ્ટોર કરતું નથી. તમામ ક્રેડિટ કાર્ડ વ્યવહારો <a href='https://stripe.com' target='blank'>Stripe</a> દ્વારા સુરક્ષિત રીતે હેન્ડલ કરવામાં આવે છે."
+}

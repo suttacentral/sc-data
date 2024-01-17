@@ -1,0 +1,13 @@
+{
+  "donations:amount": "ප්රමාණය",
+  "donations:chooseFrequency": "ඔබට එක් වරක් පරිත්‍යාගයක් හෝ මාසික පරිත්‍යාගයක් කළ හැකිය.",
+  "donations:currency": "මුදල්",
+  "donations:donateNow": "දැන් පරිත්යාග",
+  "donations:errorMessage": "සේවාව තාවකාලිකව නොමැත, කරුණාකර පසුව උත්සාහ කරන්න",
+  "donations:feeDisclaimer": "පරිත්‍යාගයකින් අඩු කරන ලද තීරු හැසිරවීමේ ගාස්තුව ඕස්ට්‍රේලියානු කාඩ්පත් සඳහා 1.75% + 30¢, සහ ජාත්‍යන්තර කාඩ්පත් සඳහා 2.9% + 30¢, සහ අදාළ වන විට 1.8% මුදල් පරිවර්තන ගාස්තුවකි.",
+  "donations:invalidValue": "වලංගු නොවන අගයක්",
+  "donations:monthly": "මාසික",
+  "donations:oneTime": "එක වරක්",
+  "donations:payWithCard": "කාඩ්පත සමඟ පරිත්යාග කරන්න",
+  "donations:storageDisclaimer": "SuttaCentral ඔබේ ක්‍රෙඩිට් කාඩ් විස්තර හසුරුවන්නේ හෝ ගබඩා කරන්නේ නැත. සියලුම ක්‍රෙඩිට් කාඩ් ගනුදෙනු <a href='https://stripe.com' target='blank'>Stripe</a> මගින් ආරක්ෂිතව හසුරුවනු ලැබේ."
+}
