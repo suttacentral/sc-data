@@ -18,9 +18,9 @@ from logging import Logger
 logger = Logger(__name__)
 
 def parseargs():
-    parser = argparse.ArgumentParser(description='Split a file on <split name="foo">')
+    parser = argparse.ArgumentParser(description='Split a file on <split name='foo'>')
     parser.add_argument('file', type=pathlib.Path)
-    parser.add_argument('--out', type=pathlib.Path, default=None, help="Defaults to same location as source file")
+    parser.add_argument('--out', type=pathlib.Path, default=None, help='Defaults to same location as source file')
     return parser.parse_args()
 
 
@@ -61,7 +61,7 @@ for i, split in enumerate(splits):
     if not name:
         name = '{}-{}'.format(args.file.stem, i)
     outfile = (args.out / name).with_suffix(args.file.suffix)
-    string = lxml.etree.tostring(split, encoding="unicode", method = {XML: 'XML', HTML: 'HTML'}[mode])
+    string = lxml.etree.tostring(split, encoding='unicode', method = {XML: 'XML', HTML: 'HTML'}[mode])
     string = regex.sub(r'(?s)<split[^>]*>(.*)</split>', r'\1', string)
-    with outfile.open('w', encoding="utf8") as f:
+    with outfile.open('w', encoding='utf8') as f:
         f.write(string)
