@@ -25,5 +25,16 @@
   "donations:24": "SuttaCentral Development Trust",
   "donations:25": "Le SuttaCentral Development Trust est un trust caritatif. Les membres fondateurs du trust sont Bhante Sujato, Bhante Brahmali, et John Kelly. Le trust est géré par Deepika Weerakoon.",
   "donations:26": "Les comptables et auditeurs du Trust sont <a href='http://www.alwisco.com.au' rel='noopener' target='_blank'>Randolph Alwis &amp; Co Pty Ltd</a>. L’<a href='https://abr.business.gov.au/SearchByAbn.aspx?SearchText=858%20188%2075744' rel='noopener' target='_blank'>ABN is 858 188 75744</a>.",
-  "donations:27": "Les détails financiers du Trust sont disponibles si vous avez des questions. Le Trust a été créé uniquement pour soutenir le développement de SuttaCentral. Tous les fonds du Trust seront uniquement consacrés à SuttaCentral, et aucun à l’administration du Trust, qui est gérée par des bénévoles."
+  "donations:27": "Les détails financiers du Trust sont disponibles si vous avez des questions. Le Trust a été créé uniquement pour soutenir le développement de SuttaCentral. Tous les fonds du Trust seront uniquement consacrés à SuttaCentral, et aucun à l’administration du Trust, qui est gérée par des bénévoles.",
+  "donations:amount": "Montant ",
+  "donations:chooseFrequency": "Vous pouvez faire un don unique ou un don mensuel.",
+  "donations:currency": "Devise",
+  "donations:donateNow": "Faites un don maintenant",
+  "donations:errorMessage": "Le service est temporairement indisponible, veuillez essayer plus tard",
+  "donations:feeDisclaimer": "Les frais de gestion de Stripe déduits d’un don sont de 1,75 % + 30 ¢ pour les cartes australiennes, et de 2,9 % + 30 ¢ pour les cartes internationales, plus des frais de conversion de devises de 1,8 % le cas échéant.",
+  "donations:invalidValue": "Valeur non valide",
+  "donations:monthly": "Mensuel",
+  "donations:oneTime": "Une fois",
+  "donations:payWithCard": "Faire un don avec une carte",
+  "donations:storageDisclaimer": "SuttaCentral ne traite ni ne stocke les données de votre carte de crédit. Toutes les transactions par carte de crédit sont traitées de manière sécurisée par <a href='https://stripe.com' target='blank'>Stripe</a>."
 }

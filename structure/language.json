@@ -223,7 +223,7 @@
   },
   {
     "uid": "ar",
-    "name": "Arabic",
+    "name": "اَلْعَرَبِيَّةُ",
     "is_root": false,
     "iso_code": "ar"
   },
@@ -235,7 +235,7 @@
   },
   {
     "uid": "bn",
-    "name": "Bengali",
+    "name": "বাংলা",
     "is_root": false,
     "iso_code": "bn"
   },
@@ -289,7 +289,7 @@
   },
   {
     "uid": "fa",
-    "name": "Farsi",
+    "name": "فارسی",
     "is_root": false,
     "iso_code": "fa"
   },
@@ -313,7 +313,7 @@
   },
   {
     "uid": "he",
-    "name": "Hebrew",
+    "name": "עִבְֿרִיתּ",
     "is_root": false,
     "iso_code": "he"
   },
@@ -325,7 +325,7 @@
   },
   {
     "uid": "hr",
-    "name": "hrvatski",
+    "name": "Hrvatski",
     "is_root": false,
     "iso_code": "hr"
   },
@@ -391,7 +391,7 @@
   },
   {
     "uid": "ru",
-    "name": "ру́сский язы́к",
+    "name": "Русский",
     "is_root": false,
     "iso_code": "ru"
   },
@@ -403,7 +403,7 @@
   },
   {
     "uid": "sk",
-    "name": "slovenčina",
+    "name": "Slovenčina",
     "is_root": false,
     "iso_code": "sk"
   },
