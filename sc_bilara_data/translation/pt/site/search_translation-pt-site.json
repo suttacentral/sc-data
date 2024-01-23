@@ -1,9 +1,4 @@
 {
-  "autocomplete:filterSearch": "Filtrar a pesquisa para os primeiros suttas budistas",
-  "autocomplete:goto": "Vá para",
-  "autocomplete:textOr": "texto ou",
-  "autocomplete:collection": "coleção",
-  "autocomplete:tipsForSearchSyntax": "Dicas para sintaxe de pesquisa",
   "search:all": "Tudo ",
   "search:dictionaries": "Dicionários ",
   "search:filter": "Filtro ",
@@ -14,10 +9,5 @@
   "search:search": "Procurar ",
   "search:searchResultsText": "Resultado da busca por ",
   "search:searchTooltip": "Buscar no SuttaCentral ",
-  "search:translations": "Traduções ",
-  "search:inAllLanguage": "em todos os idiomas",
-  "search:inputSearchTerm": "Insira o termo de pesquisa",
-  "search:matchPartial": "Partida parcial",
-  "search:noResult": "Não há resultados para '{searchTerm}'. <br/> Considere <a target='_blank' href='https://discourse.suttacentral.net/search?q={searchTerm}'>pesquisar no fórum</a> ou postar sua busca por lá <a target=' _blank' href='https://discourse.suttacentral.net'>nova pergunta</a>.",
-  "search:searchInAllText": "Pesquise em todos os textos"
+  "search:translations": "Traduções "
 }
