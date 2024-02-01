@@ -1,4 +1,5 @@
 {
+  "autocomplete:change": "Changer ",
   "autocomplete:collection": "recueil ",
   "autocomplete:filterSearch": "Filtrer la recherche sur les suttas bouddhistes anciens ",
   "autocomplete:goto": "Aller à ",
@@ -12,6 +13,7 @@
   "search:inputSearchTerm": "Saisir le terme de recherche ",
   "search:loadMore": "Charger plus",
   "search:matchPartial": "Correspondance partielle ",
+  "search:metaDescriptionText": "Textes bouddhistes anciens et traductions modernes. Suttas (sutras) du Tipitaka (Tripitaka) en pali, chinois, sanskrit et tibétain avec les enseignements du Bouddha sur la pleine conscience, la compréhension profonde, la sagesse et la méditation.",
   "search:noResult": "Il n’existe aucun résultat pour '{searchTerm}'. <br/> Pensez à <a target='_blank' href='https://discourse.suttacentral.net/search?q={searchTerm}'>chercher sur le forum</a> ou à poster une <a target='_blank' href='https://discourse.suttacentral.net'>nouvelle question</a>. ",
   "search:resultsFor": "résultats pour",
   "search:rootTexts": "Textes originaux ",
