@@ -2361,7 +2361,7 @@
         "parallels": ["mn116","ea38.7"]
     },
     {
-        "parallels": ["mn117","ma189","sht-sutta51","up6.080"]
+        "parallels": ["mn117","ma189","sht-sutta51","up6.080", "~sa785"]
     },
     {
         "parallels": ["mn118","sa815","sht-sutta84","~sa803","~sa810-812","~sn54.13-16"]
@@ -3316,6 +3316,9 @@
     },
     {
         "parallels": ["sa783","~sn45.5"]
+    },
+    {
+        "parallels": ["sa785", "~sa784", "~mn117"]
     },
     {
         "parallels": ["sa810-812","~mn118","~sa815","~sht-sutta84"]
