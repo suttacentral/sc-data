@@ -39,5 +39,6 @@
   "viewoption:textViewDescription": "Некоторые тексты на SuttaCentral «сегментированы»; исходный текст и перевод приблизительно совпадают построчно. Для таких текстов см. как основной текст, так и перевод.",
   "viewoption:textViewDisabled": "Просмотр Pali-Английского выключен.",
   "viewoption:textViewEnabled": "{textView}-просмотр теперь активирован для подходящий текстов.",
-  "viewoption:viewRoot": "Смотреть коренной текст с переводом"
+  "viewoption:viewRoot": "Смотреть коренной текст с переводом",
+  "viewoption:showHighlightingTitle": "Показать Подчеркивания"
 }

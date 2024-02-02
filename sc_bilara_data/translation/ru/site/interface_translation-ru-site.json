@@ -133,5 +133,19 @@
   "interface:xto": "Tokharian A",
   "text:languagePromptMessage": "Вы можете изменить язык в меню в панели инструментов.",
   "text:segmentNumber": "Номер сегмента SuttaCentral",
-  "text:viewImage": "Показать изображение страницы"
+  "text:viewImage": "Показать изображение страницы",
+  "bottomsheet:close": "Закрыть",
+  "bottomsheet:help": "Помощь",
+  "interface:chooseYourLanguage": "Выберите Язык",
+  "interface:chooseYourLanguageDescription": "Где доступно, показывать переводы и интерфейс на выбранном языке.",
+  "interface:viewCompactButtonText": "пробелы",
+  "interface:viewComfyButtonText": "пробелы",
+  "interface:toolsButtonText": "вид",
+  "interface:infoButtonText": "инфо",
+  "interface:showParallelsButtonText": "параллели",
+  "interface:showToCButtonText": "содержание",
+  "interface:showParallelTableViewButtonText": "таблица",
+  "interface:searchOptionsButtonText": "языки",
+  "interface:searchFilterButtonText": "фильтр",
+  "interface:tableOfContent": "Содержание"
 }

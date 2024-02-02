@@ -29,5 +29,14 @@
   "suttaplex:translations": "ဘာသာပြန်များ",
   "suttaplex:translationsIn": "ဘာသာပြန်များ",
   "suttaplex:volumeAndPage": "အတွဲနှင့် စာမျက်နှာ",
-  "suttaplex:volumeAndPagePTS1": "PTS အတွဲနှင့် စာမျက်နှာ - ပထမအကြိမ် ထုတ်ဝေမှု = {pts-vp-pli1ed}; ဒုတိယအကြိမ် ထုတ်ဝေမှု = {pts-vp-pli2ed}"
+  "suttaplex:volumeAndPagePTS1": "PTS အတွဲနှင့် စာမျက်နှာ - ပထမအကြိမ် ထုတ်ဝေမှု = {pts-vp-pli1ed}; ဒုတိယအကြိမ် ထုတ်ဝေမှု = {pts-vp-pli2ed}",
+  "suttaplex:aligned": "ညှိထားသည်။",
+  "suttaplex:alignedDescription": "ဘာသာပြန်ဆိုမှုများကို မူရင်းစာသားနှင့် အပိုင်းလိုက် ယှဉ်တွဲ ပြန်ဆိုထားပါသည်။ ဤဘာသာပြန်ဆိုမှုကို SuttaCentral ၏ Bilara ဘာသာပြန် application ဖြင့်ထုတ်လုပ်ပါသည်။",
+  "suttaplex:alignedOperationGuide": "ဘာသာပြန်ခြင်းသို့ နှိပ်ပြီးနောက် စာသားနှင့် ဘာသာပြန်ဆိုချက်ကို တစ်လိုင်းချင်း သို့မဟုတ် ဘေးချင်းယှဉ်ကြည့်ရန် toolbar ရှိ “ကြည့်ရှုရန်များ” နှိပ်သီးကို နှိပ်ပါ။",
+  "suttaplex:annotated": "မှတ်ချက်ပြုထားသည်။",
+  "suttaplex:annotatedDescription": "ဘာသာပြန်ဆိုမှုများတွင် စာသားနှင့် ဘာသာပြန်ခြင်းများတွင် မှတ်စုများရှိသည်။",
+  "suttaplex:annotatedOperationGuide": "ဘာသာပြန်ခြင်းသို့ နှိပ်ပြီးနောက် မှတ်စုဖတ်ရန် ရွေးချယ်မှုအတွက် toolbar ရှိ “ကြည့်ရှုရန်များ” နှိပ်သီးကို နှိပ်ပါ။",
+  "suttaplex:legacy": "စာမူအဟောင်းများ",
+  "suttaplex:legacyDescription": "SuttaCentral သည် ဘာသာပြန်ချက်များကို ကျမ်းအမျိုးမျိုးမှ လိုက်လျောညီထွေစွာ ဖော်ယူအသုံးပြုထားပါသည်။ ဤသို့ ဖော်ပြရာတွင် ယှဉ်တွဲပြခြင်းနှင့် မှတ်ချက်များ မပါရှိပါ။",
+  "suttaplex:shareThisSutta": "ဤသုတ္တံကို မျှဝေရန်"
 }

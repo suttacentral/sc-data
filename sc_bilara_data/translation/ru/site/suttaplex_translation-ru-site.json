@@ -29,5 +29,14 @@
   "suttaplex:translations": "переводы",
   "suttaplex:translationsIn": "переводы",
   "suttaplex:volumeAndPage": "Том и страница",
-  "suttaplex:volumeAndPagePTS1": "PTS том и страница: 1ая редакция = {pts-vp-pli1ed}; 2ая редакция = {pts-vp-pli2ed}"
+  "suttaplex:volumeAndPagePTS1": "PTS том и страница: 1ая редакция = {pts-vp-pli1ed}; 2ая редакция = {pts-vp-pli2ed}",
+  "suttaplex:aligned": "Построчные",
+  "suttaplex:alignedDescription": "переводы сопоставлены сегмент за сегментом с коренным текстом. Эти тексты загружены на SuttaCentral с помощью нашего приложения для переводов Bilara.",
+  "suttaplex:alignedOperationGuide": "Перейдите к переводу, затем нажмите кнопку «Вид» на панели инструментов, чтобы просмотреть текст сопоставленный и перевод построчно или постранично.",
+  "suttaplex:annotated": "Аннотированный",
+  "suttaplex:annotatedDescription": "переводы с примечаниями к тексту и переводу.",
+  "suttaplex:annotatedOperationGuide": "Перейдите к переводу, затем нажмите кнопку «Вид» на панели инструментов, чтобы выбрать параметры чтения заметок.",
+  "suttaplex:legacy": "Обычные",
+  "suttaplex:legacyDescription": "для SuttaCentral адаптированы переводы из различных источников. В этих переводах нет построчного сопоставления с коренным текстом и аннотаций.",
+  "suttaplex:shareThisSutta": "Поделиться Этой Суттой"
 }
