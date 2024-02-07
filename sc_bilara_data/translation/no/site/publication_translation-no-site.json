@@ -19,6 +19,6 @@
   "publication:source": "Kilde",
   "publication:suttaCentralPublicationNumber": "SuttaCentral utgivelsesnummer",
   "publication:license": "Lisens",
-  "publication:licenseDescription": "I den grad det er lovmessig tillatt, har <a rel='dct:publisher' href='https://suttacentral.net/'><span property='dct:title'>{authorName}</span></a> gitt avkall på all opphavsrett og relaterte eller tilstøtende rettigheter til <cite property='dct:title'>{translationTitle}</cite>. Dette verket er publisert fra <span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australia</span>.",
+  "publication:licenseDescription": "I den grad det er lovmessig tillatt, har <span property='dct:title'>{authorName}</span> gitt avkall på all opphavsrett og relaterte eller tilstøtende rettigheter til <cite property='dct:title'>{translationTitle}</cite>. Dette verket er publisert fra <span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australia</span>.",
   "publication:aboutThisLicense": "Om denne lisensen"
 }

@@ -19,6 +19,6 @@
   "publication:source": "မူရင်း",
   "publication:suttaCentralPublicationNumber": "SuttaCentral စာစောင်နံပါတ်",
   "publication:license": "လိုင်စင်",
-  "publication:licenseDescription": "ဥပဒေမှ ခွင့်ပြုထားသော အတိုင်းအတာအထိ <a rel='dct:Publisher' href='https://suttacentral.net/'><span property='dct:title'>{authorName}</span></a> သည် <cite property='dct:title'>{translationTitle}</cite> ကို မူလမူပိုင်များ သို့မဟုတ် မူပိုင်များနှင့် ဆက်နွယ်သူများနှင့် ပါတ်သက်သော အခွံကြေးငွေများကို ကင်းလွတ်ခွင့်ပြုပါသည်။ ယခုထုတ်ဝေမှုသည် <span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australia</span> မှဖြစ်ပါသည်။",
+  "publication:licenseDescription": "ဥပဒေမှ ခွင့်ပြုထားသော အတိုင်းအတာအထ<span property='dct:title'>{authorName}</span>a> သည် <cite property='dct:title'>{translationTitle}</cite> ကို မူလမူပိုင်များ သို့မဟုတ် မူပိုင်များနှင့် ဆက်နွယ်သူများနှင့် ပါတ်သက်သော အခွံကြေးငွေများကို ကင်းလွတ်ခွင့်ပြုပါသည်။ ယခုထုတ်ဝေမှုသည် <span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australia</span> မှဖြစ်ပါသည်။",
   "publication:aboutThisLicense": "ယခုလိုင်စင်အကြောင်း"
 }

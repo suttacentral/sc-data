@@ -2,7 +2,7 @@
   "publication:aboutThisLicense": "À propos de cette licence ",
   "publication:edition": "Édition ",
   "publication:license": "Licence ",
-  "publication:licenseDescription": "Dans la mesure où la loi le permet, <a rel='dct:publisher' href='https://suttacentral.net/'><span property='dct:title'>{authorName}</span></a> a renoncé à tous les droits d'auteur et droits connexes ou voisins de <cite property='dct:title'>{translationTitle}</cite>. Ce travail est publié depuis l’<span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australie</span>. ",
+  "publication:licenseDescription": "Dans la mesure où la loi le permet, <span property='dct:title'>{authorName}</span> a renoncé à tous les droits d'auteur et droits connexes ou voisins de <cite property='dct:title'>{translationTitle}</cite>. Ce travail est publié depuis l’<span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australie</span>. ",
   "publication:numberOfVolumes": "Nombre de volumes ",
   "publication:publicationDate": "Date de publication ",
   "publication:publicationStatus": "État de la publication ",
