@@ -12,7 +12,7 @@
   "error:generalError": "Algemene fout",
   "error:networkError": "Netwerkfout",
   "error:offline": "Je bent offline.",
-  "error:pageNoFound": "Paginanummer gevonden",
+  "error:pageNotFound": "Paginanummer gevonden",
   "error:translationDataLoadError": "Fout bij het laden van vertaalgegevens",
   "interface:ab": "Systematische verhandelingen",
   "interface:abbreviations": "Afkortingen",

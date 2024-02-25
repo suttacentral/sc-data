@@ -20,12 +20,10 @@
   "viewoption:noteSummary": "Hiển thị ghi chú và dị bản của các đoạn văn",
   "viewoption:notes": "Ghi chú",
   "viewoption:notesDescription": "Hiển thị ghi chú của dịch giả, dị bản, v.v.",
-  "viewoption:onlyWorks": "Chức năng chỉ dành cho một số văn bản, ví dụ như bản dịch của Sujato và Brahmali.",
   "viewoption:paliLookupDictionaryDisabled": "Tra cứu từ điển tiếng Pali đã bị tắt.",
   "viewoption:plain": "Văn bản thuần",
   "viewoption:referenceDescription": "Giao diện chính của SuttaCentral hiển thị tham khảo cho các phân đoạn và cho các văn bản khác. Các mục còn lại là các phiên bản Pali khác.",
   "viewoption:referenceDisplayTypeNone": "Không gì cả",
-  "viewoption:relatedItems": "Các mục liên quan",
   "viewoption:scriptChanged": "Hiển thị tiếng Pali với cách viết {paliScript}.",
   "viewoption:showHighlighting": "Đánh dấu các chi tiết quan trọng"
 }

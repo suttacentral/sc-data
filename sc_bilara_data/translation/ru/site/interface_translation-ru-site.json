@@ -12,7 +12,7 @@
   "error:generalError": "Общая Ошибка",
   "error:networkError": "Ошибка Сети",
   "error:offline": "Вы в режиме оффлайн.",
-  "error:pageNoFound": "Страница не найдена",
+  "error:pageNotFound": "Страница не найдена",
   "error:translationDataLoadError": "Ошибка загрузки данных перевода",
   "interface:aNewBeginning": "SuttaCentral 2018",
   "interface:aNewBeginningTitle": "SuttaCentral 2018",

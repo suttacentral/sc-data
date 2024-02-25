@@ -12,7 +12,7 @@
   "error:generalError": "一般的なエラー",
   "error:networkError": "ネットワークエラー",
   "error:offline": "オフラインです。",
-  "error:pageNoFound": "ページが見つかりませんでした",
+  "error:pageNotFound": "ページが見つかりませんでした",
   "error:translationDataLoadError": "翻訳データ読み込みエラー",
   "interface:ab": "系統的文献",
   "interface:abbreviations": "略語",

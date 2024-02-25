@@ -12,7 +12,7 @@
   "error:generalError": "सामान्य त्रुटि",
   "error:networkError": "नेटवर्क त्रुटि",
   "error:offline": "आप ऑफ़लाइन हैं।",
-  "error:pageNoFound": "पृष्ठ संख्या नहीं मिली",
+  "error:pageNotFound": "पृष्ठ संख्या नहीं मिली",
   "error:translationDataLoadError": "अनुवाद डेटा लोड त्रुटि",
   "interface:ab": "व्यवस्थित ग्रंथ",
   "interface:abbreviations": "लघुरूप",

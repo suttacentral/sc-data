@@ -12,7 +12,7 @@
   "error:generalError": "အထွေထွေ အမှား",
   "error:networkError": "ကွန်ရက်ချိတ်ဆက်မှု အမှား",
   "error:offline": "သင်သည် အင်တာနက်နှင့် မချိတ်ထားပါ။",
-  "error:pageNoFound": "စာမျက်နှာ ရှာမတွေ့ပါ။",
+  "error:pageNotFound": "စာမျက်နှာ ရှာမတွေ့ပါ။",
   "error:translationDataLoadError": "ဘာသာပြန် အချက်အလက်များ ဖတ်ရာတွင် အမှားရှိနေသည်။",
   "interface:aNewBeginning": "SuttaCentral 2018",
   "interface:aNewBeginningTitle": "SuttaCentral 2018",

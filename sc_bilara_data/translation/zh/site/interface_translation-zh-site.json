@@ -12,7 +12,7 @@
   "error:generalError": "通用错误 ",
   "error:networkError": "网络错误 ",
   "error:offline": "你已离线 ",
-  "error:pageNoFound": "找不到页面 ",
+  "error:pageNotFound": "找不到页面 ",
   "error:translationDataLoadError": "找不到相关的翻译文本，可能正在翻译中 ",
   "interface:aNewBeginning": "SuttaCentral 2018 ",
   "interface:aNewBeginningTitle": "SuttaCentral 2018 ",

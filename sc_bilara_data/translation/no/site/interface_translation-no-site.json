@@ -12,7 +12,7 @@
   "error:generalError": "Generell feil",
   "error:networkError": "Nettverksfeil",
   "error:offline": "Du er frakoblet.",
-  "error:pageNoFound": "Siden ble ikke funnet",
+  "error:pageNotFound": "Siden ble ikke funnet",
   "error:translationDataLoadError": "Feil ved innlasting av oversettelsesdata",
   "interface:ab": "Systematiske avhandlinger",
   "interface:abbreviations": "Forkortelser",

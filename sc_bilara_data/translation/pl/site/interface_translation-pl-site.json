@@ -12,7 +12,7 @@
   "error:generalError": "Błąd ogólny",
   "error:networkError": "Błąd sieci",
   "error:offline": "Utracono połączenie z internetem.",
-  "error:pageNoFound": "Nie znaleziono strony",
+  "error:pageNotFound": "Nie znaleziono strony",
   "error:translationDataLoadError": "Błąd ładowania danych tłumaczenia",
   "interface:abbreviations": "Skróty",
   "interface:abbreviationsTitle": "Skróty",

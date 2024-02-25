@@ -12,7 +12,7 @@
   "error:generalError": "Yleinen virhe",
   "error:networkError": "Verkkovirhe",
   "error:offline": "Olet offline-tilassa.",
-  "error:pageNoFound": "Sivua ei löytynyt",
+  "error:pageNotFound": "Sivua ei löytynyt",
   "error:translationDataLoadError": "Käännöstietojen latausvirhe",
   "interface:aNewBeginning": "SuttaCentral 2018",
   "interface:aNewBeginningTitle": "SuttaCentral 2018",
