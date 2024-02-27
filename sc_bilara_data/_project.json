@@ -681,6 +681,28 @@
       }
     ]
   },
+  "si_blurb_translation": {
+    "name": "Sinhala blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/si/blurb",
+    "translation_muids": "translation-si",
+    "collaborator": [
+      {
+        "author_github_handle": "thesunshade"
+      }
+    ]
+  },
+  "si_localization": {
+    "name": "Sinhala localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/si/site",
+    "translation_muids": "translation-si-site",
+    "collaborator": [
+      {
+        "author_github_handle": "thesunshade"
+      }
+    ]
+  },
   "si_ms_translation_madhu": {
     "name": "Sinhala translation",
     "root_path": "root/pli/ms/sutta",
@@ -689,6 +711,17 @@
     "collaborator": [
       {
         "author_github_handle": "Madhu-metta"
+      }
+    ]
+  },
+  "si_names_translation": {
+    "name": "Sinhala names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/si/site",
+    "translation_muids": "translation-si-site",
+    "collaborator": [
+      {
+        "author_github_handle": "thesunshade"
       }
     ]
   },
