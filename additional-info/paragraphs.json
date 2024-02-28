@@ -35,6 +35,11 @@
     "description": "Paragraph numbers in The Book of Analysis, Thittila 1969."
   },
   {
+    "uid": "bs",
+    "acronym": "BS",
+    "description": "Paragraph numbers in Beyerlein & Steinschulte 2003."
+  },
+  {
     "uid": "dd",
     "acronym": "Dhdas-bh",
     "description": "Paragraph numbers by Brother Dhammadaso."
