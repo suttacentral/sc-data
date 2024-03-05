@@ -36,5 +36,15 @@
   "donations:monthly": "Ежемесячно",
   "donations:oneTime": "Единовременно",
   "donations:payWithCard": "Пожертвовать с карты",
-  "donations:storageDisclaimer": "SuttaCentral не обрабатывает и не хранит данные вашей карты. Все транзакции по картам безопасно обрабатываются платформой <a href='https://stripe.com' target='blank'>Stripe</a>."
+  "donations:storageDisclaimer": "SuttaCentral не обрабатывает и не хранит данные вашей карты. Все транзакции по картам безопасно обрабатываются платформой <a href='https://stripe.com' target='blank'>Stripe</a>.",
+  "donations:success1": "Садху! Садху!",
+  "donations:success2": "Ваш дар Дхаммы очень важен для нас. Он будет использован с заботой для поддержки   SuttaCentral и поможет сделать Дхамму доступной для всех тех, кто желает избавиться от страданий.",
+  "donations:successAltText": "Фото двух бирманских послушникоа, читающих Дхамму",
+  "donations:success3": "Пусть заслуга вашего доброго подношения будет для долговечного счастья и благополучия   вас и всех ваших близких!",
+  "donations:success4": "Пусть оно будет для счастья, благополучия и освобождения многих!",
+  "donations:success5": "Дар учения превосходит все другие дары;",
+  "donations:success6": "вкус учения превосходит все другие вкусы;",
+  "donations:success7": "радость учения превосходит все другие радости;",
+  "donations:success8": "тот, кто прекратил желание, превосходит все страдания.",
+  "donations:success9": "Преумножьте заслугу: <a href='[https://suttacentral.net/search?query=giving](https://suttacentral.net/search?query=giving)'> прочтите несколько сутт, посвященных радостям дарения</a>, и напомните себе о своей доброте."
 }

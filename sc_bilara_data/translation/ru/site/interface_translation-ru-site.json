@@ -146,5 +146,14 @@
   "interface:showParallelTableViewButtonText": "таблица",
   "interface:searchOptionsButtonText": "языки",
   "interface:searchFilterButtonText": "фильтр",
-  "interface:tableOfContent": "Содержание"
+  "interface:tableOfContent": "Содержание",
+  "bottomsheet:help1": "Источник: <cite>Новый краткий пали-английский словарь</cite>, составленный SuttaCentral на основе <cite>Краткого пали-английского словаря</cite> Буддадатты, обновленный и исправленный по словарю Маргарет Кон <cite>Словарь Пали</cite>.",
+  "bottomsheet:help2": "Перевод Палии слов выполнен компьютером, результаты не всегда точны.",
+  "bottomsheet:help3": "Нажмите на заголовок слова, чтобы перейти к словарной статье",
+  "bottomsheet:help4": "Перемещаться с помощью клавиатуры.",
+  "bottomsheet:help5": "Далее",
+  "bottomsheet:help6": "Назад",
+  "bottomsheet:help7": "Если не работает, проверьте <a href='[https://en.wikipedia.org/wiki/  Access_key#Access_in_different_browsers](https://en.wikipedia.org/wiki/  Access_key#Access_in_different_browsers)' target='_blank'> HTML access key для вашего браузера</a>.",
+  "interface:previous": "Предыдущий",
+  "interface:next": "Следующий"
 }
