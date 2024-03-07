@@ -1,13 +1,13 @@
 {
-  "donations:amount": "Summa",
-  "donations:chooseFrequency": "Voit tehdä kertalahjoituksen tai kuukausittaisen lahjoituksen.",
-  "donations:currency": "Valuutta",
-  "donations:donateNow": "Tee lahjoitus nyt",
-  "donations:errorMessage": "Palvelu on väliaikaisesti poissa käytöstä, yritä myöhemmin uudelleen.",
-  "donations:feeDisclaimer": "Stripe-käsittelymaksu, joka vähennetään lahjoituksesta, on 1,75 % + 30 senttiä Australialaisille luottokorteille ja 2,9 % + 30 senttiä kansainvälisille luottokorteille, sekä 1,8 % valuutanvaihtomaksu tarvittaessa.",
-  "donations:invalidValue": "Virheellinen arvo",
-  "donations:monthly": "Kuukausittainen",
-  "donations:oneTime": "Kertalahjoitus",
-  "donations:payWithCard": "Maksa kortilla",
-  "donations:storageDisclaimer": "SuttaCentral ei käsittele tai tallenna luottokorttitietojasi. Kaikki luottokorttitapahtumat hoidetaan turvallisesti <a href='https://stripe.com' target='blank'>Stripen</a> toimesta."
+  "donations:amount": "'Summa'",
+  "donations:chooseFrequency": "'Voit tehdä kertalahjoituksen tai kuukausittaisen lahjoituksen.'",
+  "donations:currency": "'Valuutta'",
+  "donations:donateNow": "'Tee lahjoitus nyt'",
+  "donations:errorMessage": "'Palvelu on väliaikaisesti poissa käytöstä, yritä myöhemmin uudelleen.'",
+  "donations:feeDisclaimer": "'Stripe-käsittelymaksu, joka vähennetään lahjoituksesta, on 1,75 % + 30 senttiä Australialaisille luottokorteille ja 2,9 % + 30 senttiä kansainvälisille luottokorteille, sekä 1,8 % valuutanvaihtomaksu tarvittaessa.'",
+  "donations:invalidValue": "'Virheellinen arvo'",
+  "donations:monthly": "'Kuukausittainen'",
+  "donations:oneTime": "'Kertalahjoitus'",
+  "donations:payWithCard": "'Maksa kortilla'",
+  "donations:storageDisclaimer": "\"SuttaCentral ei käsittele tai tallenna luottokorttitietojasi. Kaikki luottokorttitapahtumat hoidetaan turvallisesti <a href='https://stripe.com' target='blank'>Stripen</a> toimesta.\""
 }

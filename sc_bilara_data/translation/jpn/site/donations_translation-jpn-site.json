@@ -1,13 +1,13 @@
 {
-  "donations:amount": "額",
-  "donations:chooseFrequency": "1回限りの寄付または毎月の寄付が可能です。",
-  "donations:currency": "通貨",
-  "donations:donateNow": "さあ寄付しよう",
-  "donations:errorMessage": "サービスは一時的に利用できません。後ほど再試行してください。",
-  "donations:feeDisclaimer": "寄付金から差し引かれる Stripe の手数料は、オーストラリアのカードの場合は 1.75% + 30 ¢、国際カードの場合は 2.9% + 30 ¢、さらに該当する場合は 1.8% の通貨換算手数料がかかります。",
-  "donations:invalidValue": "無効な値",
-  "donations:monthly": "毎月",
-  "donations:oneTime": "一回のみ",
-  "donations:payWithCard": "カードで寄付する",
-  "donations:storageDisclaimer": "SuttaCentral スッタ・セントラル は、クレジット カードの詳細を処理したり保存したりしません。すべてのクレジット カード取引は、<a href='https:// Stripe.com' target='blank'>Stripe</a> によって安全に処理されます。"
+  "donations:amount": "'額'",
+  "donations:chooseFrequency": "'1回限りの寄付または毎月の寄付が可能です。'",
+  "donations:currency": "'通貨'",
+  "donations:donateNow": "'さあ寄付しよう'",
+  "donations:errorMessage": "'サービスは一時的に利用できません。後ほど再試行してください。'",
+  "donations:feeDisclaimer": "'寄付金から差し引かれる Stripe の手数料は、オーストラリアのカードの場合は 1.75% + 30 ¢、国際カードの場合は 2.9% + 30 ¢、さらに該当する場合は 1.8% の通貨換算手数料がかかります。'",
+  "donations:invalidValue": "'無効な値'",
+  "donations:monthly": "'毎月'",
+  "donations:oneTime": "'一回のみ'",
+  "donations:payWithCard": "'カードで寄付する'",
+  "donations:storageDisclaimer": "\"SuttaCentral スッタ・セントラル は、クレジット カードの詳細を処理したり保存したりしません。すべてのクレジット カード取引は、<a href='https:// Stripe.com' target='blank'>Stripe</a> によって安全に処理されます。\""
 }

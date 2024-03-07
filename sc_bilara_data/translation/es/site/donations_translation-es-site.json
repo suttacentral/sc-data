@@ -1,13 +1,13 @@
 {
-  "donations:amount": "Cantidad",
-  "donations:chooseFrequency": "Puedes hacer una donación única o una donación mensual.",
-  "donations:currency": "Divisa",
-  "donations:donateNow": "Done ahora",
-  "donations:errorMessage": "El servicio no está disponible temporalmente, intente más tarde",
-  "donations:feeDisclaimer": "La tarifa de manejo de Stripe deducida de una donación es 1,75% + 30¢ para tarjetas australianas y 2,9% + 30¢ para tarjetas internacionales, más una tarifa de conversión de moneda de 1,8% cuando corresponda.",
-  "donations:invalidValue": "valor no válido",
-  "donations:monthly": "Mensual",
-  "donations:oneTime": "Una vez",
-  "donations:payWithCard": "Donar con tarjeta",
-  "donations:storageDisclaimer": "SuttaCentral no maneja ni almacena los datos de su tarjeta de crédito. <a href='https://stripe.com' target='blank'>Stripe</a> gestiona de forma segura todas las transacciones con tarjeta de crédito."
+  "donations:amount": "'Cantidad'",
+  "donations:chooseFrequency": "'Puedes hacer una donación única o una donación mensual.'",
+  "donations:currency": "'Divisa'",
+  "donations:donateNow": "'Done ahora'",
+  "donations:errorMessage": "'El servicio no está disponible temporalmente, intente más tarde'",
+  "donations:feeDisclaimer": "'La tarifa de manejo de Stripe deducida de una donación es 1,75% + 30¢ para tarjetas australianas y 2,9% + 30¢ para tarjetas internacionales, más una tarifa de conversión de moneda de 1,8% cuando corresponda.'",
+  "donations:invalidValue": "'valor no válido'",
+  "donations:monthly": "'Mensual'",
+  "donations:oneTime": "'Una vez'",
+  "donations:payWithCard": "'Donar con tarjeta'",
+  "donations:storageDisclaimer": "\"SuttaCentral no maneja ni almacena los datos de su tarjeta de crédito. <a href='https://stripe.com' target='blank'>Stripe</a> gestiona de forma segura todas las transacciones con tarjeta de crédito.\""
 }

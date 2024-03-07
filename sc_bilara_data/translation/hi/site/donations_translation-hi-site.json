@@ -1,13 +1,13 @@
 {
-  "donations:amount": "मात्रा",
-  "donations:chooseFrequency": "आप एक-समय दान या मासिक दान कर सकते हैं।",
-  "donations:currency": "मुद्रा",
-  "donations:donateNow": "अभी दान कीजिए",
-  "donations:errorMessage": "सेवा अस्थायी रूप से अनुपलब्ध है, कृपया बाद में प्रयास करें",
-  "donations:feeDisclaimer": "दान से काटा गया स्ट्राइप हैंडलिंग शुल्क ऑस्ट्रेलियाई कार्ड के लिए 1.75% + 30¢ और अंतर्राष्ट्रीय कार्ड के लिए 2.9% + 30¢ है, साथ ही लागू होने पर 1.8% मुद्रा रूपांतरण शुल्क भी है।",
-  "donations:invalidValue": "अमान्य मूल्य",
-  "donations:monthly": "महीने के",
-  "donations:oneTime": "वन टाइम",
-  "donations:payWithCard": "कार्ड से दान करें",
-  "donations:storageDisclaimer": "सुत्तासेंट्रल आपके क्रेडिट कार्ड विवरण को संभाल या संग्रहीत नहीं करता है। सभी क्रेडिट कार्ड लेनदेन <a href='https://stripe.com' target='blank'>Stripe</a> द्वारा सुरक्षित रूप से प्रबंधित किए जाते हैं।"
+  "donations:amount": "'मात्रा'",
+  "donations:chooseFrequency": "'आप एक-समय दान या मासिक दान कर सकते हैं।'",
+  "donations:currency": "'मुद्रा'",
+  "donations:donateNow": "'अभी दान कीजिए'",
+  "donations:errorMessage": "'सेवा अस्थायी रूप से अनुपलब्ध है, कृपया बाद में प्रयास करें'",
+  "donations:feeDisclaimer": "'दान से काटा गया स्ट्राइप हैंडलिंग शुल्क ऑस्ट्रेलियाई कार्ड के लिए 1.75% + 30¢ और अंतर्राष्ट्रीय कार्ड के लिए 2.9% + 30¢ है, साथ ही लागू होने पर 1.8% मुद्रा रूपांतरण शुल्क भी है।'",
+  "donations:invalidValue": "'अमान्य मूल्य'",
+  "donations:monthly": "'महीने के'",
+  "donations:oneTime": "'वन टाइम'",
+  "donations:payWithCard": "'कार्ड से दान करें'",
+  "donations:storageDisclaimer": "\"सुत्तासेंट्रल आपके क्रेडिट कार्ड विवरण को संभाल या संग्रहीत नहीं करता है। सभी क्रेडिट कार्ड लेनदेन <a href='https://stripe.com' target='blank'>Stripe</a> द्वारा सुरक्षित रूप से प्रबंधित किए जाते हैं।\""
 }
