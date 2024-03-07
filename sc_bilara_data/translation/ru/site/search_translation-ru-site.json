@@ -1,13 +1,13 @@
 {
-  "search:all": "'\\'\"\\\\\\'Все\\\\\\'\"\\''",
-  "search:dictionaries": "'\\'\"\\\\\\'Словари\\\\\\'\"\\''",
-  "search:filter": "'\\'\"\\\\\\'Фильтр\\\\\\'\"\\''",
-  "search:hint": "'\\'\"\\\\\\'Подсказка: Введите к прим. mn34 или sn3.2, чтобы перейти сразу к сутте.\\\\\\'\"\\''",
-  "search:loadMore": "'\\'\"\\\\\\'Загрузить ещё\\\\\\'\"\\''",
-  "search:resultsFor": "'\\'\"\\\\\\'результаты для\\\\\\'\"\\''",
-  "search:rootTexts": "'\\'\"\\\\\\'Коренные тексты\\\\\\'\"\\''",
-  "search:search": "'\\'\"\\\\\\'Поиск\\\\\\'\"\\''",
-  "search:searchResultsText": "'\\'\"\\\\\\'Результаты поиска для\\\\\\'\"\\''",
-  "search:searchTooltip": "'\\'\"\\\\\\'Поиск по SuttaCentral\\\\\\'\"\\''",
-  "search:translations": "'\\'\"\\\\\\'Переводы\\\\\\'\"\\''"
+  "search:all": "Все",
+  "search:dictionaries": "Словари",
+  "search:filter": "Фильтр",
+  "search:hint": "Подсказка: Введите к прим. mn34 или sn3.2, чтобы перейти сразу к сутте.",
+  "search:loadMore": "Загрузить ещё",
+  "search:resultsFor": "результаты для",
+  "search:rootTexts": "Коренные тексты",
+  "search:search": "Поиск",
+  "search:searchResultsText": "Результаты поиска для",
+  "search:searchTooltip": "Поиск по SuttaCentral",
+  "search:translations": "Переводы"
 }

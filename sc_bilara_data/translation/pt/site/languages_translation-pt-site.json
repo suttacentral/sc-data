@@ -1,10 +1,10 @@
 {
-  "languages:languagesOnSuttaCentral": "'\\'\"\\\\\\'Idiomas no SuttaCentral \\\\\\'\"\\''",
-  "languages:ancientLanguages": "'\\'\"\\\\\\'Idiomas antigos \\\\\\'\"\\''",
-  "languages:modernLanguages": "'\\'\"\\\\\\'Idiomas modernos \\\\\\'\"\\''",
-  "languages:translations": "'\\'\"\\\\\\'Traduções \\\\\\'\"\\''",
-  "languages:translators": "'\\'\"\\\\\\'Tradutores \\\\\\'\"\\''",
-  "languages:divisions": "'\\'\"\\\\\\'Divisões \\\\\\'\"\\''",
-  "languages:authors": "'\\'\"\\\\\\'Autores \\\\\\'\"\\''",
-  "languages:percentageOfOriginalTexts": "'\\'\"\\\\\\'Percemtual dos textos originais encontrados no SuttaCentral que foram traduzidos para o idioma {lang}\\\\\\'\"\\''"
+  "languages:languagesOnSuttaCentral": "Idiomas no SuttaCentral ",
+  "languages:ancientLanguages": "Idiomas antigos ",
+  "languages:modernLanguages": "Idiomas modernos ",
+  "languages:translations": "Traduções ",
+  "languages:translators": "Tradutores ",
+  "languages:divisions": "Divisões ",
+  "languages:authors": "Autores ",
+  "languages:percentageOfOriginalTexts": "Percemtual dos textos originais encontrados no SuttaCentral que foram traduzidos para o idioma {lang}"
 }

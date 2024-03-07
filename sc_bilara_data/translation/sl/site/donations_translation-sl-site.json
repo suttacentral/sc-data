@@ -1,13 +1,13 @@
 {
-  "donations:amount": "'\\'\"\\\\\\'Znesek\\\\\\'\"\\''",
-  "donations:chooseFrequency": "'\\'\"\\\\\\'Donirate lahko enkrat ali mesečno.\\\\\\'\"\\''",
-  "donations:currency": "'\\'\"\\\\\\'Valuta\\\\\\'\"\\''",
-  "donations:donateNow": "'\\'\"\\\\\\'Donirajte zdaj\\\\\\'\"\\''",
-  "donations:errorMessage": "'\\'\"\\\\\\'Storitev trenutno ni na voljo, poskusite pozneje\\\\\\'\"\\''",
-  "donations:feeDisclaimer": "'\\'\"\\\\\\'Provizija za obdelavo Stripe, ki se odšteje od donacije, znaša 1,75 % + 30 ¢ za avstralske kartice in 2,9 % + 30 ¢ za mednarodne kartice, plus 1,8 % provizija za pretvorbo valut, kadar je to primerno.\\\\\\'\"\\''",
-  "donations:invalidValue": "'\\'\"\\\\\\'Neveljavna vrednost\\\\\\'\"\\''",
-  "donations:monthly": "'\\'\"\\\\\\'Mesečno\\\\\\'\"\\''",
-  "donations:oneTime": "'\\'\"\\\\\\'Enkrat\\\\\\'\"\\''",
-  "donations:payWithCard": "'\\'\"\\\\\\'Donirajte s kartico\\\\\\'\"\\''",
-  "donations:storageDisclaimer": "'\\'\\\\\\'\"SuttaCentral ne obravnava ali shranjuje podatkov o vaši kreditni kartici. Vse transakcije s kreditnimi karticami varno upravlja <a href=\\\\\\\\\\\\\\'https://stripe.com\\\\\\\\\\\\\\' target=\\\\\\\\\\\\\\'blank\\\\\\\\\\\\\\'>Stripe</a>.\"\\\\\\'\\''"
+  "donations:amount": "Znesek",
+  "donations:chooseFrequency": "Donirate lahko enkrat ali mesečno.",
+  "donations:currency": "Valuta",
+  "donations:donateNow": "Donirajte zdaj",
+  "donations:errorMessage": "Storitev trenutno ni na voljo, poskusite pozneje",
+  "donations:feeDisclaimer": "Provizija za obdelavo Stripe, ki se odšteje od donacije, znaša 1,75 % + 30 ¢ za avstralske kartice in 2,9 % + 30 ¢ za mednarodne kartice, plus 1,8 % provizija za pretvorbo valut, kadar je to primerno.",
+  "donations:invalidValue": "Neveljavna vrednost",
+  "donations:monthly": "Mesečno",
+  "donations:oneTime": "Enkrat",
+  "donations:payWithCard": "Donirajte s kartico",
+  "donations:storageDisclaimer": "SuttaCentral ne obravnava ali shranjuje podatkov o vaši kreditni kartici. Vse transakcije s kreditnimi karticami varno upravlja <a href='https://stripe.com' target='blank'>Stripe</a>."
 }

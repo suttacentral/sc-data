@@ -1,13 +1,13 @@
 {
-  "donations:amount": "'\\'\"\\\\\\'Quantità\\\\\\'\"\\''",
-  "donations:chooseFrequency": "'\\'\"\\\\\\'Puoi fare una donazione una tantum o una donazione mensile.\\\\\\'\"\\''",
-  "donations:currency": "'\\'\"\\\\\\'Valuta\\\\\\'\"\\''",
-  "donations:donateNow": "'\\'\"\\\\\\'Donate adesso\\\\\\'\"\\''",
-  "donations:errorMessage": "'\\'\"\\\\\\'Il servizio è temporaneamente non disponibile, riprova più tardi\\\\\\'\"\\''",
-  "donations:feeDisclaimer": "'\\'\\\\\\'\"La commissione di gestione Stripe detratta da una donazione è dell\\\\\\\\\\\\\\'1,75% + 30 ¢ per le carte australiane e del 2,9% + 30 ¢ per le carte internazionali, più una commissione di conversione valuta dell\\\\\\\\\\\\\\'1,8% ove applicabile.\"\\\\\\'\\''",
-  "donations:invalidValue": "'\\'\"\\\\\\'valore non valido\\\\\\'\"\\''",
-  "donations:monthly": "'\\'\"\\\\\\'Mensile\\\\\\'\"\\''",
-  "donations:oneTime": "'\\'\"\\\\\\'Una volta\\\\\\'\"\\''",
-  "donations:payWithCard": "'\\'\"\\\\\\'Dona con la carta\\\\\\'\"\\''",
-  "donations:storageDisclaimer": "'\\'\\\\\\'\"SuttaCentral non gestisce né memorizza i dati della tua carta di credito. Tutte le transazioni con carta di credito sono gestite in modo sicuro da <a href=\\\\\\\\\\\\\\'https://stripe.com\\\\\\\\\\\\\\' target=\\\\\\\\\\\\\\'blank\\\\\\\\\\\\\\'>Stripe</a>.\"\\\\\\'\\''"
+  "donations:amount": "Quantità",
+  "donations:chooseFrequency": "Puoi fare una donazione una tantum o una donazione mensile.",
+  "donations:currency": "Valuta",
+  "donations:donateNow": "Donate adesso",
+  "donations:errorMessage": "Il servizio è temporaneamente non disponibile, riprova più tardi",
+  "donations:feeDisclaimer": "La commissione di gestione Stripe detratta da una donazione è dell'1,75% + 30 ¢ per le carte australiane e del 2,9% + 30 ¢ per le carte internazionali, più una commissione di conversione valuta dell'1,8% ove applicabile.",
+  "donations:invalidValue": "valore non valido",
+  "donations:monthly": "Mensile",
+  "donations:oneTime": "Una volta",
+  "donations:payWithCard": "Dona con la carta",
+  "donations:storageDisclaimer": "SuttaCentral non gestisce né memorizza i dati della tua carta di credito. Tutte le transazioni con carta di credito sono gestite in modo sicuro da <a href='https://stripe.com' target='blank'>Stripe</a>."
 }

@@ -1,13 +1,13 @@
 {
-  "donations:amount": "'\\'\"\\\\\\'Hoeveelheid\\\\\\'\"\\''",
-  "donations:chooseFrequency": "'\\'\"\\\\\\'U kunt een eenmalige of een maandelijkse donatie doen.\\\\\\'\"\\''",
-  "donations:currency": "'\\'\"\\\\\\'Munteenheid\\\\\\'\"\\''",
-  "donations:donateNow": "'\\'\"\\\\\\'Doneer nu\\\\\\'\"\\''",
-  "donations:errorMessage": "'\\'\"\\\\\\'De service is tijdelijk niet beschikbaar. Probeer het later opnieuw\\\\\\'\"\\''",
-  "donations:feeDisclaimer": "'\\'\"\\\\\\'De Stripe-verwerkingskosten die van een donatie worden afgetrokken bedragen 1,75% + 30 ¢ voor Australische kaarten en 2,9% + 30 ¢ voor internationale kaarten, plus 1,8% valutawisselkosten indien van toepassing.\\\\\\'\"\\''",
-  "donations:invalidValue": "'\\'\"\\\\\\'ongeldige waarde\\\\\\'\"\\''",
-  "donations:monthly": "'\\'\"\\\\\\'Maandelijks\\\\\\'\"\\''",
-  "donations:oneTime": "'\\'\"\\\\\\'Eenmalig\\\\\\'\"\\''",
-  "donations:payWithCard": "'\\'\"\\\\\\'Doneer met kaart\\\\\\'\"\\''",
-  "donations:storageDisclaimer": "'\\'\\\\\\'\"SuttaCentral verwerkt of bewaart uw creditcardgegevens niet. Alle creditcardtransacties worden veilig afgehandeld door <a href=\\\\\\\\\\\\\\'https://stripe.com\\\\\\\\\\\\\\' target=\\\\\\\\\\\\\\'blank\\\\\\\\\\\\\\'>Stripe</a>.\"\\\\\\'\\''"
+  "donations:amount": "Hoeveelheid",
+  "donations:chooseFrequency": "U kunt een eenmalige of een maandelijkse donatie doen.",
+  "donations:currency": "Munteenheid",
+  "donations:donateNow": "Doneer nu",
+  "donations:errorMessage": "De service is tijdelijk niet beschikbaar. Probeer het later opnieuw",
+  "donations:feeDisclaimer": "De Stripe-verwerkingskosten die van een donatie worden afgetrokken bedragen 1,75% + 30 ¢ voor Australische kaarten en 2,9% + 30 ¢ voor internationale kaarten, plus 1,8% valutawisselkosten indien van toepassing.",
+  "donations:invalidValue": "ongeldige waarde",
+  "donations:monthly": "Maandelijks",
+  "donations:oneTime": "Eenmalig",
+  "donations:payWithCard": "Doneer met kaart",
+  "donations:storageDisclaimer": "SuttaCentral verwerkt of bewaart uw creditcardgegevens niet. Alle creditcardtransacties worden veilig afgehandeld door <a href='https://stripe.com' target='blank'>Stripe</a>."
 }

@@ -1,13 +1,13 @@
 {
-  "search:all": "'\\'\"\\\\\\'සෑම\\\\\\'\"\\''",
-  "search:dictionaries": "'\\'\"\\\\\\'ශබ්දකෝෂ\\\\\\'\"\\''",
-  "search:filter": "'\\'\"\\\\\\'පෙරහන\\\\\\'\"\\''",
-  "search:hint": "'\\'\"\\\\\\'ඉඟිය: සොයන්න උදා. mn34 හෝ sn3.2 කෙලින්ම එම සූත්\\\\\\\\\\\\\\\\u200dරයට යන්න.\\\\\\'\"\\''",
-  "search:loadMore": "'\\'\"\\\\\\'වැඩිපුර පටවන්න\\\\\\'\"\\''",
-  "search:resultsFor": "'\\'\"\\\\\\'සඳහා ප්රතිඵල\\\\\\'\"\\''",
-  "search:rootTexts": "'\\'\"\\\\\\'මූල පෙළ\\\\\\'\"\\''",
-  "search:search": "'\\'\"\\\\\\'සෙවීම\\\\\\'\"\\''",
-  "search:searchResultsText": "'\\'\"\\\\\\'සඳහා සෙවුම් ප්රතිඵල\\\\\\'\"\\''",
-  "search:searchTooltip": "'\\'\"\\\\\\'SuttaCentral සොයන්න\\\\\\'\"\\''",
-  "search:translations": "'\\'\"\\\\\\'පරිවර්තන\\\\\\'\"\\''"
+  "search:all": "සෑම",
+  "search:dictionaries": "ශබ්දකෝෂ",
+  "search:filter": "පෙරහන",
+  "search:hint": "ඉඟිය: සොයන්න උදා. mn34 හෝ sn3.2 කෙලින්ම එම සූත්‍රයට යන්න.",
+  "search:loadMore": "වැඩිපුර පටවන්න",
+  "search:resultsFor": "සඳහා ප්රතිඵල",
+  "search:rootTexts": "මූල පෙළ",
+  "search:search": "සෙවීම",
+  "search:searchResultsText": "සඳහා සෙවුම් ප්රතිඵල",
+  "search:searchTooltip": "SuttaCentral සොයන්න",
+  "search:translations": "පරිවර්තන"
 }

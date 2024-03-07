@@ -1,13 +1,13 @@
 {
-  "search:all": "'\\'\"\\\\\\'Kaikki\\\\\\'\"\\''",
-  "search:dictionaries": "'\\'\"\\\\\\'Sanakirjat\\\\\\'\"\\''",
-  "search:filter": "'\\'\"\\\\\\'Suodata\\\\\\'\"\\''",
-  "search:hint": "'\\'\"\\\\\\'Vinkki: Hae esimerkiksi mn34 tai sn3.2 päästäksesi suoraan siihen suttaan.\\\\\\'\"\\''",
-  "search:loadMore": "'\\'\"\\\\\\'Lataa lisää\\\\\\'\"\\''",
-  "search:resultsFor": "'\\'\"\\\\\\'tulokset haulle\\\\\\'\"\\''",
-  "search:rootTexts": "'\\'\"\\\\\\'Alkuperäistekstit\\\\\\'\"\\''",
-  "search:search": "'\\'\"\\\\\\'Haku\\\\\\'\"\\''",
-  "search:searchResultsText": "'\\'\"\\\\\\'Hakutulokset haulle\\\\\\'\"\\''",
-  "search:searchTooltip": "'\\'\"\\\\\\'Hae SuttaCentralista\\\\\\'\"\\''",
-  "search:translations": "'\\'\"\\\\\\'Käännökset\\\\\\'\"\\''"
+  "search:all": "Kaikki",
+  "search:dictionaries": "Sanakirjat",
+  "search:filter": "Suodata",
+  "search:hint": "Vinkki: Hae esimerkiksi mn34 tai sn3.2 päästäksesi suoraan siihen suttaan.",
+  "search:loadMore": "Lataa lisää",
+  "search:resultsFor": "tulokset haulle",
+  "search:rootTexts": "Alkuperäistekstit",
+  "search:search": "Haku",
+  "search:searchResultsText": "Hakutulokset haulle",
+  "search:searchTooltip": "Hae SuttaCentralista",
+  "search:translations": "Käännökset"
 }
