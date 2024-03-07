@@ -1,9 +1,9 @@
 {
-  "share:cite": "'Citar'",
-  "share:citeCopied": "'¡Cita copiada al portapapeles!'",
-  "share:copyLink": "'Copiar link'",
-  "share:copyTable": "'Copiar tabla'",
-  "share:error": "'Se ha producido un error.'",
-  "share:linkCopied": "'¡Enlace copiado al portapapeles!'",
-  "share:tableCopied": "'¡Tabla paralela copiada al portapapeles!'"
+  "share:cite": "'\"\\'Citar\\'\"'",
+  "share:citeCopied": "'\"\\'¡Cita copiada al portapapeles!\\'\"'",
+  "share:copyLink": "'\"\\'Copiar link\\'\"'",
+  "share:copyTable": "'\"\\'Copiar tabla\\'\"'",
+  "share:error": "'\"\\'Se ha producido un error.\\'\"'",
+  "share:linkCopied": "'\"\\'¡Enlace copiado al portapapeles!\\'\"'",
+  "share:tableCopied": "'\"\\'¡Tabla paralela copiada al portapapeles!\\'\"'"
 }

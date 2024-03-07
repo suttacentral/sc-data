@@ -1,13 +1,13 @@
 {
-  "search:all": "'Alle'",
-  "search:dictionaries": "'Woordenboeken'",
-  "search:filter": "'Filter'",
-  "search:hint": "'Tip: Zoek b.v. mn34 of sn3.2 om rechtstreeks naar die sutta te gaan.'",
-  "search:loadMore": "'Meer laden'",
-  "search:resultsFor": "'resultaten voor'",
-  "search:rootTexts": "'Bronteksten'",
-  "search:search": "'Zoekopdracht'",
-  "search:searchResultsText": "'Zoekresultaten voor'",
-  "search:searchTooltip": "'Zoek SuttaCentral'",
-  "search:translations": "'Vertalingen'"
+  "search:all": "'\"\\'Alle\\'\"'",
+  "search:dictionaries": "'\"\\'Woordenboeken\\'\"'",
+  "search:filter": "'\"\\'Filter\\'\"'",
+  "search:hint": "'\"\\'Tip: Zoek b.v. mn34 of sn3.2 om rechtstreeks naar die sutta te gaan.\\'\"'",
+  "search:loadMore": "'\"\\'Meer laden\\'\"'",
+  "search:resultsFor": "'\"\\'resultaten voor\\'\"'",
+  "search:rootTexts": "'\"\\'Bronteksten\\'\"'",
+  "search:search": "'\"\\'Zoekopdracht\\'\"'",
+  "search:searchResultsText": "'\"\\'Zoekresultaten voor\\'\"'",
+  "search:searchTooltip": "'\"\\'Zoek SuttaCentral\\'\"'",
+  "search:translations": "'\"\\'Vertalingen\\'\"'"
 }

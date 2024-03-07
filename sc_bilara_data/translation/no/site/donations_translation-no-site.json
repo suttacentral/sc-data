@@ -1,13 +1,13 @@
 {
-  "donations:amount": "'Beløp'",
-  "donations:chooseFrequency": "'Du kan gi en engangsdonasjon eller en månedlig donasjon.'",
-  "donations:currency": "'Valuta'",
-  "donations:donateNow": "'Donér nå'",
-  "donations:errorMessage": "'Tjenesten er midlertidig utilgjengelig, prøv igjen senere'",
-  "donations:feeDisclaimer": "'Håndteringsgebyret til Stripe som trekkes fra en donasjon, er på 1,75 % + 30 ¢ for australske kort, og 2,9 % + 30 ¢ for internasjonale kort, pluss et valutakonverteringsgebyr på 1,8 % når det er aktuelt.'",
-  "donations:invalidValue": "'Ugyldig verdi'",
-  "donations:monthly": "'Månedlig'",
-  "donations:oneTime": "'En gang'",
-  "donations:payWithCard": "'Donér med kort'",
-  "donations:storageDisclaimer": "\"SuttaCentral verken håndterer eller lagrer kredittkortopplysningene dine. Alle kredittkorttransaksjoner håndteres sikkert av <a href='https://stripe.com' target='blank'>Stripe</a>.\""
+  "donations:amount": "'\"\\'Beløp\\'\"'",
+  "donations:chooseFrequency": "'\"\\'Du kan gi en engangsdonasjon eller en månedlig donasjon.\\'\"'",
+  "donations:currency": "'\"\\'Valuta\\'\"'",
+  "donations:donateNow": "'\"\\'Donér nå\\'\"'",
+  "donations:errorMessage": "'\"\\'Tjenesten er midlertidig utilgjengelig, prøv igjen senere\\'\"'",
+  "donations:feeDisclaimer": "'\"\\'Håndteringsgebyret til Stripe som trekkes fra en donasjon, er på 1,75 % + 30 ¢ for australske kort, og 2,9 % + 30 ¢ for internasjonale kort, pluss et valutakonverteringsgebyr på 1,8 % når det er aktuelt.\\'\"'",
+  "donations:invalidValue": "'\"\\'Ugyldig verdi\\'\"'",
+  "donations:monthly": "'\"\\'Månedlig\\'\"'",
+  "donations:oneTime": "'\"\\'En gang\\'\"'",
+  "donations:payWithCard": "'\"\\'Donér med kort\\'\"'",
+  "donations:storageDisclaimer": "'\\'\"SuttaCentral verken håndterer eller lagrer kredittkortopplysningene dine. Alle kredittkorttransaksjoner håndteres sikkert av <a href=\\\\\\'https://stripe.com\\\\\\' target=\\\\\\'blank\\\\\\'>Stripe</a>.\"\\''"
 }
