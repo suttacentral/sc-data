@@ -38,6 +38,7 @@ def transform(string, reference_url_pattern=None):
         html_mapping[result] = m[0]
         return result
 
+    string = re.sub(r'\\u2009', '\u2009', string)
 
     string = re.sub(r'<[a-z].*?>', subfn, string)
 
