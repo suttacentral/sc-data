@@ -418,6 +418,28 @@
       }
     ]
   },
+  "it_blurb_translation": {
+    "name": "Italian blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/it/blurb",
+    "translation_muids": "translation-it",
+    "collaborator": [
+      {
+        "author_github_handle": "BMahabodhi"
+      }
+    ]
+  },
+  "it_localization": {
+    "name": "Italian localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/it/site",
+    "translation_muids": "translation-it-site",
+    "collaborator": [
+      {
+        "author_github_handle": "BMahabodhi"
+      }
+    ]
+  },
   "it_ms_translation_giovannizappa": {
     "name": "Italian translation Giovanni Zappa",
     "root_path": "root/pli/ms/sutta",
@@ -451,6 +473,17 @@
       }
     ]
   },
+  "it_names_translation": {
+    "name": "Italian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/it/site",
+    "translation_muids": "translation-it-site",
+    "collaborator": [
+      {
+        "author_github_handle": "BMahabodhi"
+      }
+    ]
+  }, 
   "jpn_blurb_translation": {
     "name": "Japanese blurb translation",
     "root_path": "root/en/blurb",
@@ -823,5 +856,5 @@
         "author_github_handle": "ihongda"
       }
     ]
-  }
+  }  
 }
