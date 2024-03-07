@@ -110,5 +110,5 @@ def process_file(file):
         target_file.truncate()
         new_data = {}
         for k,v in data.items():
-            new_data[k] = transform(repr(v), reference_url_pattern)
+            new_data[k] = transform(v, reference_url_pattern)
         json.dump(new_data, target_file, indent=2, ensure_ascii=False)

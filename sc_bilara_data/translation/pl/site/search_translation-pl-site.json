@@ -1,13 +1,13 @@
 {
-  "search:all": "'\"\\'Wszystko\\'\"'",
-  "search:dictionaries": "'\"\\'Słowniki\\'\"'",
-  "search:filter": "'\"\\'Filtrowanie\\'\"'",
-  "search:hint": "'\"\\'Podpowiedź: Szukaj m.in. mn34 lub sn3.2, aby przejść bezpośrednio do tej sutty.\\'\"'",
-  "search:loadMore": "'\"\\'Załaduj więcej\\'\"'",
-  "search:resultsFor": "'\"\\'wyników dla\\'\"'",
-  "search:rootTexts": "'\"\\'Teksty źródłowe\\'\"'",
-  "search:search": "'\"\\'Szukaj\\'\"'",
-  "search:searchResultsText": "'\"\\'Wyniki wyszukiwania dla\\'\"'",
-  "search:searchTooltip": "'\"\\'Wyszukaj w SuttaCentral\\'\"'",
-  "search:translations": "'\"\\'Tłumaczenia\\'\"'"
+  "search:all": "'\\'\"\\\\\\'Wszystko\\\\\\'\"\\''",
+  "search:dictionaries": "'\\'\"\\\\\\'Słowniki\\\\\\'\"\\''",
+  "search:filter": "'\\'\"\\\\\\'Filtrowanie\\\\\\'\"\\''",
+  "search:hint": "'\\'\"\\\\\\'Podpowiedź: Szukaj m.in. mn34 lub sn3.2, aby przejść bezpośrednio do tej sutty.\\\\\\'\"\\''",
+  "search:loadMore": "'\\'\"\\\\\\'Załaduj więcej\\\\\\'\"\\''",
+  "search:resultsFor": "'\\'\"\\\\\\'wyników dla\\\\\\'\"\\''",
+  "search:rootTexts": "'\\'\"\\\\\\'Teksty źródłowe\\\\\\'\"\\''",
+  "search:search": "'\\'\"\\\\\\'Szukaj\\\\\\'\"\\''",
+  "search:searchResultsText": "'\\'\"\\\\\\'Wyniki wyszukiwania dla\\\\\\'\"\\''",
+  "search:searchTooltip": "'\\'\"\\\\\\'Wyszukaj w SuttaCentral\\\\\\'\"\\''",
+  "search:translations": "'\\'\"\\\\\\'Tłumaczenia\\\\\\'\"\\''"
 }
