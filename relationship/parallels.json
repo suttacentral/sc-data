@@ -10368,7 +10368,7 @@
         "parallels": ["an8.29#14","~dhp315","~gdhp131","~pdhp234","~t210.30#vgns30.12","~t212.6#vgns6.13-#vgns6.14","~t213.5#vgns5.14-#vgns5.15","~thag17.2#vns1004","~uv5#5.16-#5.17","~uv-kg5#135-#136","~uvs5#5.15-#5.16"]
     },
     {
-        "parallels": ["dhp1","gdhp201","pdhp1","t210.9#vgns9.1","t212.32#vgns32.13","t213.31#vgns31.13","uv31#31.23","~mkv66","uv-kg31#793","uvs31#31.20"]
+        "parallels": ["dhp1","gdhp201","pdhp1","t210.9#vgns9.1","t212.32#vgns32.13","t213.31#vgns31.13","uv31#31.23","~mkv25#3","uv-kg31#793","uvs31#31.20"]
     },
     {
         "mentions": ["dhp1","ne37#10","pe2#6"]
@@ -10908,16 +10908,10 @@
         "parallels": ["uv30#30.44","uv-kg30#765"]
     },
     {
-        "parallels": ["dhp2","gdhp202","pdhp2","t210.9#vgns9.2","t212.32#vgns32.14","t213.31#vgns31.14","uv31#31.24","~mkv66","uv-kg31#794","uvs31#31.21"]
+        "parallels": ["dhp2","gdhp202","pdhp2","t210.9#vgns9.2","t212.32#vgns32.14","t213.31#vgns31.14","uv31#31.24","~mkv25#3","uv-kg31#794","uvs31#31.21", "mkv32#14"]
     },
     {
         "parallels": ["mkv64#3","mkv6#3"]
-    },
-    {
-        "parallels": ["mkv25#3","~mkv32#14","uv31#31.23-#31.24"]
-    },
-    {
-        "parallels": ["~mkv25#3","mkv32#14","uv31#31.24"]
     },
     {
         "parallels": ["uv31#31.27","uv-kg31#795","uvs31#31.25"]
@@ -12426,7 +12420,7 @@
         "parallels": ["ja528#37","~dhp141","~Mūlasarvāstivādivinaya (Gilgit III.iv.40)","~divy#210.003","~pdhp195","~san-lo-mvu104#23","~t210.18#vgns18.9","~t212.34#vgns34.1","~t213.33#vgns33.1","~uv33#33.1","~uv-kg33#906","~uvs33#33.2"]
     },
     {
-        "parallels": ["mkv66","~dhp1-2","~gdhp201-202","~pdhp1-2","~t210.9#vgns9.1-#vgns9.2","~t212.32#vgns32.13-#vgns32.14","~t213.31#vgns31.13-#vgns31.14","~uv31#31.23-#31.24","~uv-kg31#793-#794","~uvs31#31.20-#31.21"]
+        "parallels": ["mkv25#3","dhp1-2","gdhp201-202","pdhp1-2","t210.9#vgns9.1-#vgns9.2","t212.32#vgns32.13-#vgns32.14","t213.31#vgns31.13-#vgns31.14","uv31#31.23-#31.24","uv-kg31#793-#794","uvs31#31.20-#31.21", "~mkv32#14"]
     },
     {
         "parallels": ["mn75#22","~dhp204","~gdhp162","~pdhp76","~t210.36#vgns36.2","~t212.27#vgns27.6","~t213.26#vgns26.6","~uv26#26.6","~uv-kg26#552","~uvs26#26.6"]
