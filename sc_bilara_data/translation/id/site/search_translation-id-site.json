@@ -1,8 +1,10 @@
 {
+  "autocomplete:change": "Ubah ",
   "autocomplete:collection": "koleksi ",
   "autocomplete:filterSearch": "Filter pencarian hanya sutta Buddhis awal ",
   "autocomplete:goto": "Buka ",
   "autocomplete:textOr": "teks atau ",
+  "autocomplete:tipsForSearchSyntax": "Saran untuk sintaks pencarian ",
   "search:all": "Semua ",
   "search:dictionaries": "Kamus ",
   "search:filter": "Filter ",
@@ -11,11 +13,13 @@
   "search:inputSearchTerm": "Kata kunci pencarian ",
   "search:loadMore": "Muat lebih banyak ",
   "search:matchPartial": "Cocok sebagian ",
+  "search:metaDescriptionText": "Teks Buddhis awal dan terjemahan modern. Sutta (sutra) dari Tipitaka (Tripitaka) dalam bahasa Pali, Tionghoa, Sanskerta, dan Tibet dengan ajaran Buddha tentang perhatian-penuh, wawasan, kebijaksanaan, dan meditasi. ",
   "search:noResult": "Tidak ada hasil untuk '{searchTerm}'.Pertimbangkan untuk <a href='https://discourse.suttacentral.net/search?q={searchTerm}' target='blank'>mencari di forum</a> atau <a href='https://discourse.suttacentral.net/search?q={searchTerm}' target='blank'>memposting pertanyaan baru</a>. ",
   "search:resultsFor": "hasil untuk ",
   "search:rootTexts": "Teks sumber ",
   "search:search": "Pencarian ",
   "search:searchInAllText": "Cari dalam semua teks ",
+  "search:searchOptions": "Opsi Pencarian ",
   "search:searchResultsText": "Hasil pencarian untuk ",
   "search:translations": "Terjemahan "
 }
