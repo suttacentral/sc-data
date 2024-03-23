@@ -326,6 +326,14 @@
     "creator_github_handle": "gioz93"
   },
   {
+    "project_uid": "it_ms_translation_mahabodhi",
+    "name": "Italian translation Bhikkhu Mahabodhi",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/it/mahabodhi/sutta",
+    "translation_muids": "translation-it-mahabodhi",
+    "creator_github_handle": "BMahabodhi"
+  },
+  {
     "project_uid": "it_ms_translation_soma",
     "name": "Italian translation Ayya Soma",
     "root_path": "root/pli/ms/sutta",

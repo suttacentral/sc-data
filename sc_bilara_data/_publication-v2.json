@@ -2562,5 +2562,30 @@
     "license_statement": "Esta traducción es una expresión de un antiguo texto espiritual que ha sido transmitido por la tradición budista en beneficio de todos los seres. Se ofrece al dominio público a través de Creative Commons Zero (CC0). Se te anima a copiar, reproducir, adaptar, alterar o hacer uso de esta traducción. El traductor solicita respetuosamente que cualquier uso sea de acuerdo con los valores y principios de la comunidad budista.",
     "first_published": "2024",
     "editions_url": "https://suttacentral.net/mn"
+  },
+  {
+    "publication_number": "scpub103",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "it",
+    "translation_lang_name": "Italiano",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/it/mahabodhi/sutta",
+    "creator_uid": "mahabodhi",
+    "creator_name": "Bhikkhu Mahabodhi",
+    "creator_github_handle": "BMahabodhi",
+    "text_uid": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "creation_process": "",
+    "text_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "",
+    "first_published": "",
+    "editions_url": ""
   }
 ]
