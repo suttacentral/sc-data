@@ -1,0 +1,13 @@
+{
+  "donations:amount": "Množství",
+  "donations:chooseFrequency": "Můžete přispět jednorázově nebo měsíčně.",
+  "donations:currency": "Měna",
+  "donations:donateNow": "Přispět nyní",
+  "donations:errorMessage": "Služba je dočasně nedostupná, zkuste to prosím později",
+  "donations:feeDisclaimer": "Poplatek za zpracování plateb společností Stripe odečtený z daru činí:  1,75 % + 30 Kč pro australské karty. 2,9 % + 30 Kč pro mezinárodní karty. Poplatek za převod měny ve výši 1,8 % se připočítává v případě, že je převod měny nutný.",
+  "donations:invalidValue": "neplatná hodnota",
+  "donations:monthly": "Měsíční",
+  "donations:oneTime": "Jednorázově",
+  "donations:payWithCard": "Darovat kartou",
+  "donations:storageDisclaimer": "SuttaCentral nezpracovává ani neukládá údaje o vaší kreditní kartě. Všechny transakce kreditní kartou bezpečně zpracovává <a href='https://stripe.com' target='blank'>Stripe</a>."
+}
