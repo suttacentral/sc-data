@@ -150,5 +150,7 @@
   "text:segmentNumber": "SuttaCentral segment number",
   "text:viewImage": "View page image",
   "interface:previous": "Previous",
-  "interface:next": "Next"
+  "interface:next": "Next",
+  "interface:navigationTitle": "Navigation",
+  "interface:parallelsTitle": "Suttas and Parallels"
 }
