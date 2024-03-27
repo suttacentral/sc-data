@@ -54,7 +54,7 @@ jobs:
           dst_owner: suttacentral
           dst_repo_name: sc-data
           dst_path: /sc_bilara_data/
-          dst_branch: master
+          dst_branch: main
           clean: true
           commit_message: '[GHA] Nilakkhana transform and sync files from bilara-data repo.'
 
