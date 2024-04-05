@@ -28,5 +28,14 @@
   "suttaplex:mention": "Wzmianka: jeden tekst jest cytowany albo wspomniany w innym tekście.",
   "suttaplex:resemblingParallel": "Wersje zbliżone: teksty są porównywalne.",
   "suttaplex:retellingParallel": "Opowiadanie na nowo: wydarzenia w jednym tekście są opowiadane na nowo w innym tekście.",
-  "suttaplex:share": "Udostępnij"
+  "suttaplex:share": "Udostępnij",
+  "suttaplex:aligned": "korespondujące",
+  "suttaplex:annotated": "opatrzone komentarzem",
+  "suttaplex:legacy": "przekazane",
+  "suttaplex:alignedDescription": "translations are matched segment by segment with the root text. These are produced by SuttaCentral with our Bilara translation application.",
+  "suttaplex:alignedOperationGuide": "Click through to the translation, then click the “Views” button on the toolbar to see text and translation line-by-line or side-by-side.",
+  "suttaplex:annotatedDescription": "translations have notes on the text and translation.",
+  "suttaplex:annotatedOperationGuide": "Click through to the translation, then click the “Views” button on the toolbar to select options for reading notes.",
+  "suttaplex:legacyDescription": "translations have been adapted for SuttaCentral from various sources. They lack features such as alignment and annotations.",
+  "suttaplex:shareThisSutta": "Share this sutta"
 }

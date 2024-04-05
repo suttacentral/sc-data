@@ -37,5 +37,6 @@
   "viewoption:textViewEnabled": "{textView}-widok jest teraz włączony w odpowiednich tekstach.",
   "viewoption:textView": "Tekst oryginalny i tłumaczenie",
   "viewoption:textViewDescription": "Niektóre teksty na SuttaCentral są “podzielone”; tekst oryginalny oraz tłumaczenie korespondują w przybliżeniu linijka do linijki tekstu. Dla tych tekstów, zobacz tekst źródłowy i tłumaczenie.",
-  "viewoption:viewRoot": "Pokaż oryginalny tekst i tłumaczenie"
+  "viewoption:viewRoot": "Pokaż oryginalny tekst i tłumaczenie",
+  "viewoption:showHighlightingTitle": "Show Highlighting"
 }
