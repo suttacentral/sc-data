@@ -582,7 +582,7 @@
     "translation_muids": "translation-pl",
     "collaborator": [
       {
-        "author_github_handle": ""
+        "author_github_handle": "MarcinSadl"
       }
     ]
   },
@@ -593,7 +593,7 @@
     "translation_muids": "translation-pl-site",
     "collaborator": [
       {
-        "author_github_handle": ""
+        "author_github_handle": "MarcinSadl"
       }
     ]
   },
@@ -626,7 +626,7 @@
     "translation_muids": "translation-pl-site",
     "collaborator": [
       {
-        "author_github_handle": ""
+        "author_github_handle": "MarcinSadl"
       }
     ]
   },
@@ -714,6 +714,28 @@
       }
     ]
   },
+  "ru_blurb_translation": {
+    "name": "Russian blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/ru/blurb",
+    "translation_muids": "translation-ru",
+    "collaborator": [
+      {
+        "author_github_handle": "timtim-ww"
+      }
+    ]
+  },
+  "ru_localization": {
+    "name": "Russian localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/ru/site",
+    "translation_muids": "translation-ru-site",
+    "collaborator": [
+      {
+        "author_github_handle": "timtim-ww"
+      }
+    ]
+  },
   "ru_ms_translation_sv": {
     "name": "Russian translation",
     "root_path": "root/pli/ms/sutta",
@@ -722,6 +744,17 @@
     "collaborator": [
       {
         "author_github_handle": "o28o"
+      }
+    ]
+  },
+  "ru_names_translation": {
+    "name": "Russian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/ru/site",
+    "translation_muids": "translation-ru-site",
+    "collaborator": [
+      {
+        "author_github_handle": "timtim-ww"
       }
     ]
   },
