@@ -398,6 +398,14 @@
     "creator_github_handle": "Piyadassii"
   },
   {
+    "project_uid": "mn_ms_translation_mangala",
+    "name": "Mongolian sutta translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/mn/mangala/sutta",
+    "translation_muids": "translation-mn-mangala",
+    "creator_github_handle": "kkhangal"
+  },
+  {
     "project_uid": "my_ms_translation_my-team",
     "name": "Burmese translation",
     "root_path": "root/pli/ms/sutta/dn",
