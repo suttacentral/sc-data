@@ -490,5 +490,11 @@
     "name": "ગુજરાતી",
     "is_root": false,
     "iso_code": "gu"
+  },
+  {
+    "uid": "mn",
+    "name": "монгол хэл",
+    "is_root": false,
+    "iso_code": "mn"
   }
 ]
