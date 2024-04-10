@@ -1,10 +1,11 @@
 {
-  "languages:languagesOnSuttaCentral": "Sprachen auf SuttaCentral ",
   "languages:ancientLanguages": "Alte Sprachen ",
-  "languages:modernLanguages": "Moderne Sprachen ",
-  "languages:translations": "Übersetzungen ",
-  "languages:translators": "Übersetzerinnen und Übersetzer ",
-  "languages:divisions": "Abteilungen ",
   "languages:authors": "Autoren ",
-  "languages:percentageOfOriginalTexts": "Prozentsatz der Originaltexte auf SuttaCentral, die ins {lang} übersetzt wurden "
+  "languages:divisions": "Abteilungen ",
+  "languages:languagesOnSuttaCentral": "Sprachen auf SuttaCentral ",
+  "languages:modernLanguages": "Moderne Sprachen ",
+  "languages:other": "Sonstige ",
+  "languages:percentageOfOriginalTexts": "Prozentsatz der Originaltexte auf SuttaCentral, die in diese Sprache übersetzt wurden ",
+  "languages:translations": "Übersetzungen ",
+  "languages:translators": "Übersetzer "
 }
