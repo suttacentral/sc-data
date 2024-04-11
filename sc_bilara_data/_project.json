@@ -560,6 +560,28 @@
         "author_github_handle": "kkhangal"
       }
     ]
+  },  
+  "my_blurb_translation": {
+    "name": "Burmese blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/my/blurb",
+    "translation_muids": "translation-my",
+    "collaborator": [
+      {
+        "author_github_handle": "amaung"
+      }
+    ]
+  },
+  "my_localization": {
+    "name": "Burmese localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/my/site",
+    "translation_muids": "translation-my-site",
+    "collaborator": [
+      {
+        "author_github_handle": "amaung"
+      }
+    ]
   },
   "my_ms_translation_my-team": {
     "name": "Burmese translation",
@@ -572,6 +594,17 @@
       },
       {
         "author_github_handle": "ashinsarana"
+      }
+    ]
+  },
+  "my_names_translation": {
+    "name": "Burmese names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/my/site",
+    "translation_muids": "translation-my-site",
+    "collaborator": [
+      {
+        "author_github_handle": "amaung"
       }
     ]
   },
