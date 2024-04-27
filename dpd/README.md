@@ -22,6 +22,6 @@ This dictinonary relies on 3 different files:
 
 Via the `dpd-format-script.js` we create 3 simple dictionnaries. But might be inconveniant.
 
-## Make unique File
+## Make Unique Master Dictionary
 
 Via `dpd-master-script.js` you can create one master simple dictionnary.
