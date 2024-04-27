@@ -18,8 +18,10 @@ This dictinonary relies on 3 different files:
     		 add the result to html string
     display the html string
 
-## Transorm file into simple dictinonary
+## Transorm files into simple dictinonary
 
-via the `dpd-format-script.js` we create simple dictionnaries and store them in the dictinaries folder -> simple.
+Via the `dpd-format-script.js` we create 3 simple dictionnaries. But might be inconveniant.
 
-Careful, these files have the same name, but are not identical.
+## Make unique File
+
+Via `dpd-master-script.js` you can create one master simple dictionnary.
