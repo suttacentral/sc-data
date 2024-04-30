@@ -420,6 +420,12 @@
     "iso_code": "th"
   },
   {
+    "uid": "tr",
+    "name": "Türkçe",
+    "is_root": false,
+    "iso_code": "tr"
+  },
+  {
     "uid": "vi",
     "name": "Tiếng Việt",
     "is_root": false,
