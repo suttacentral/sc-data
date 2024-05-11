@@ -868,6 +868,39 @@
       }
     ]
   },
+  "tr_blurb_translation": {
+    "name": "Turkish blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/tr/blurb",
+    "translation_muids": "translation-tr",
+    "collaborator": [
+      {
+        "author_github_handle": "Pinpin123456"
+      }
+    ]
+  },
+  "tr_localization": {
+    "name": "Turkish localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/tr/site",
+    "translation_muids": "translation-tr-site",
+    "collaborator": [
+      {
+        "author_github_handle": "Pinpin123456"
+      }
+    ]
+  },
+  "tr_names_translation": {
+    "name": "Turkish names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/tr/site",
+    "translation_muids": "translation-tr-site",
+    "collaborator": [
+      {
+        "author_github_handle": "Pinpin123456"
+      }
+    ]
+  },
   "vi_blurb_translation": {
     "name": "Vietnamese blurb translation",
     "root_path": "root/en/blurb",
