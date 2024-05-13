@@ -78,7 +78,7 @@
     "type": "language",
     "name": "монгол хэл",
     "is_root": false
-  },  
+  },
   "my": {
     "type": "language",
     "name": "မြန်မာစာ",
@@ -88,7 +88,7 @@
     "type": "language",
     "name": "Noongar",
     "is_root": false
-  },  
+  },
   "pl": {
     "type": "language",
     "name": "Polski",
@@ -133,5 +133,10 @@
     "type": "language",
     "name": "Tiếng Việt",
     "is_root": false
+  },
+  "pra": {
+    "type": "language",
+    "name": "Prakrit",
+    "is_root": true
   }
 }
