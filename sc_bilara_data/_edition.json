@@ -33,5 +33,10 @@
       "type": "edition",
       "is_root": true,
       "language": "san"
+  },
+  "pts": {
+    "type": "edition",
+    "is_root": true,
+    "language": "pra"
   }
 }
