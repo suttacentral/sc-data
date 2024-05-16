@@ -45843,8 +45843,8 @@
     {
         "parallels": [
             "dhp106",
-            "gdhp305-321#jb310",
-            "gdhp305-321#jb320",
+            "~gdhp305-321#jb310",
+            "~gdhp305-321#jb320",
             "pdhp376-397#pdhp379",
             "san-lo-mvu109#sc5-#sc9",
             "t210.16#vgns16.7",
@@ -45853,6 +45853,34 @@
             "uv24#uv24.29",
             "uv-kg24#vuv520",
             "uvs24#uvs24.24"
+        ]
+    },
+    {
+        "parallels": [
+            "~dhp106",
+            "gdhp305-321#jb310",
+            "~pdhp376-397#pdhp379",
+            "~san-lo-mvu109#sc5-#sc9",
+            "~t210.16#vgns16.7",
+            "~t213.24#vgns24.32",
+            "~Manusmṛti 5.53",
+            "~uv24#uv24.29",
+            "~uv-kg24#vuv520",
+            "~uvs24#uvs24.24"
+        ]
+    },
+        {
+        "parallels": [
+            "~dhp106",
+            "gdhp305-321#jb320",
+            "~pdhp376-397#pdhp379",
+            "~san-lo-mvu109#sc5-#sc9",
+            "~t210.16#vgns16.7",
+            "~t213.24#vgns24.32",
+            "~Manusmṛti 5.53",
+            "~uv24#uv24.29",
+            "~uv-kg24#vuv520",
+            "~uvs24#uvs24.24"
         ]
     },
     {
