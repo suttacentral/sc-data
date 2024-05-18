@@ -272,6 +272,28 @@
       }
     ]
   },
+  "fi_blurb_translation": {
+    "name": "Finnish blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/fi/blurb",
+    "translation_muids": "translation-fi",
+    "collaborator": [
+      {
+        "author_github_handle": "meditoikuinbuddha"
+      }
+    ]
+  },
+  "fi_localization": {
+    "name": "Finnish localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/fi/site",
+    "translation_muids": "translation-fi-site",
+    "collaborator": [
+      {
+        "author_github_handle": "meditoikuinbuddha"
+      }
+    ]
+  },  
   "fi_ms_translation_mudito_sutta": {
     "name": "Finnish sutta translation Ajahn Mudito",
     "root_path": "root/pli/ms/sutta/an",
@@ -280,6 +302,17 @@
     "collaborator": [
       {
         "author_github_handle": "Muditassa"
+      }
+    ]
+  },
+  "fi_names_translation": {
+    "name": "Finnish names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/fi/site",
+    "translation_muids": "translation-fi-site",
+    "collaborator": [
+      {
+        "author_github_handle": "meditoikuinbuddha"
       }
     ]
   },
