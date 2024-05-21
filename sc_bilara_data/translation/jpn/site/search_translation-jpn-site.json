@@ -1,8 +1,9 @@
 {
+  "autocomplete:change": "変える ",
+  "autocomplete:collection": "コレクション",
   "autocomplete:filterSearch": "初期仏教経文の絞り込み検索",
   "autocomplete:goto": "に行く",
   "autocomplete:textOr": "テキストまたは",
-  "autocomplete:collection": "コレクション",
   "autocomplete:tipsForSearchSyntax": "検索のコツ",
   "search:all": "全て",
   "search:dictionaries": "辞書",
@@ -12,11 +13,13 @@
   "search:inputSearchTerm": "検索語を入力してください",
   "search:loadMore": "もっと読み込む",
   "search:matchPartial": "部分一致",
+  "search:metaDescriptionText": "初期の仏教経典と現代語訳。マインドフルネス、洞察力、智慧、瞑想に関する仏陀の教えを記したパーリ語、中国語、サンスクリット語、チベット語の三蔵（大蔵経）の経典（経文）。 ",
   "search:noResult": "「{searchTerm}」の結果はありません。 <br/><a target='_blank' href='https://discourse.suttacentral.net/search?q={searchTerm}'>フォーラムで検索</a>するか、<a target='  _blank' href='https://discourse.suttacentral.net'>新しい質問を投稿してください</a>。",
   "search:resultsFor": "の結果",
   "search:rootTexts": "原文",
   "search:search": "検索",
   "search:searchInAllText": "すべてのテキストを検索",
+  "search:searchOptions": "検索オプション ",
   "search:searchResultsText": "の検索結果",
   "search:translations": "翻訳"
 }
