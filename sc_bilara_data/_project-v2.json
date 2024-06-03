@@ -598,7 +598,10 @@
     "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/ru/sv/sutta",
     "translation_muids": "translation-ru-sv",
-    "creator_github_handle": "o28o"
+    "creator_github_handle": [
+      "o28o",
+      "neptunao"
+    ]
   },
   {
     "project_uid": "ru_names_translation",
