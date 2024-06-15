@@ -138,5 +138,15 @@
     "type": "language",
     "name": "Prakrit",
     "is_root": true
+  },
+  "zh-Hans": {
+    "type": "language",
+    "name": "Simplified Chinese",
+    "is_root": false
+  },
+  "zh-Hant": {
+    "type": "language",
+    "name": "Traditional Chinese",
+    "is_root": false
   }
 }
