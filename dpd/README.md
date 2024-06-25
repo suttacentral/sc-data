@@ -1,7 +1,5 @@
 # DPD Implementation
 
-Original JSON are from: https://github.com/digitalpalidictionary/dpd-db/tree/feature/db-relations/tbw/output
-
 See https://github.com/digitalpalidictionary/dpd-db/tree/feature/db-relations/tbw for explaination
 
 ## Lookup Word Description
