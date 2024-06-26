@@ -3768,5 +3768,39 @@
         "edition_url": "https://suttacentral.net/sn"
       }
     ]
+  },
+  "scpub106": {
+    "publication_number": "scpub106",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/kovilo/sutta/kn/pv",
+    "author_uid": "kovilo",
+    "author_name": "Kovilo Bhikkhu",
+    "author_github_handle": "kovilo",
+    "text_uid": "pv",
+    "translation_title": "Buddhist Ghost Stories",
+    "translation_subtitle": "Harrowing Lessons from Hungry Ghosts",
+    "root_title": "Petavatthu",
+    "translation_process": "The Petavatthu Collection of 814 verses organized into 51 Poems is being translated verse by verse, poem by poem. The Digital Pāli Reader and Digital Pāli Dictionary are being used extensively along with several thesauri.",
+    "translation_description": "This is a translation of the Pāli Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 version of the Petavatthu. Emphasis was given to accuracy of translation over poetic expression. A respectful tone is maintained throughout with an end result that is hopefully both readable and informative.",
+    "is_published": true,
+    "publication_status": "In process.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2024",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "url": "https://suttacentral.net/pv"
+      }
+    ]
   }
 }

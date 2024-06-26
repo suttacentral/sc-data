@@ -2637,5 +2637,30 @@
   "license_statement": "Это перевод древних текстов, передаваемых в Буддистской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете копировать, адаптировать, изменять, иными словами использовать этот перевод. Единственное требование: эти тексты должны быть использованы в соответсвтии с ценностями и принципами Буддистского Сообщества.",
   "first_published": "2024",
   "editions_url": "https://suttacentral.net/sn"
+  },
+  {
+    "publication_number": "scpub106",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/kovilo/sutta/kn/pv",
+    "creator_uid": "kovilo",
+    "creator_name": "Kovilo Bhikkhu",
+    "creator_github_handle": "kovilo",
+    "text_uid": "pv",
+    "translation_title": "Buddhist Ghost Stories",
+    "translation_subtitle": "Harrowing Lessons from Hungry Ghosts",
+    "root_title": "Petavatthu",
+    "creation_process": "The Petavatthu Collection of 814 verses organized into 51 Poems is being translated verse by verse, poem by poem. The Digital Pāli Reader and Digital Pāli Dictionary are being used extensively along with several thesauri.",
+    "text_description": "This is a translation of the Pāli Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 version of the Petavatthu. Emphasis was given to accuracy of translation over poetic expression. A respectful tone is maintained throughout with an end result that is hopefully both readable and informative.",
+    "is_published": true,
+    "publication_status": "In process.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
+    "first_published": "2024",
+    "editions_url": "https://suttacentral.net/pv"
   }
 ]
