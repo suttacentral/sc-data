@@ -202,5 +202,13 @@
   "pts": {
     "type": "root",
     "name": "PTS"
+  },
+  "cыркин": {
+    "type": "translator",
+    "name": "А. Я. Сыркин"
+  },
+  "syrkin": {
+    "type": "translator",
+    "name": "A. Y. Syrkin"
   }
 }

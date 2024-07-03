@@ -2662,5 +2662,30 @@
     "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "2024",
     "editions_url": "https://suttacentral.net/pv"
+  },
+  {
+    "publication_number": "scpub107",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "Русский Язык",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/syrkin/sutta/mn",
+    "creator_uid": "syrkin",
+    "creator_name": "A. Y. Syrkin",
+    "creator_github_handle": "syrkin",
+    "text_uid": "mn",
+    "translation_title": "Длинные Наставления",
+    "translation_subtitle": "Перевод Дигха Никаи",
+    "root_title": "Dīghaanikāya",
+    "creation_process": "Переводы выпополнены с Пали на Русский язык. Данные для Bilara подготовил Павел Каторгин.",
+    "text_description": "Перевод, основных текстов Палийского Канона, которые опубликованы на сайте theravada.ru. Перевод, основных текстов Палийского Канона, подготовленный А. Я. Сыркиным.",
+    "is_published": true,
+    "publication_status": "Завершен / Complete.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "Это перевод древних текстов, передаваемых в Буддистской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете копировать, адаптировать, изменять, иными словами использовать этот перевод. Единственное требование: эти тексты должны быть использованы в соответсвтии с ценностями и принципами Буддистского Сообщества.",
+    "first_published": "2024",
+    "editions_url": "https://suttacentral.net/mn"
   }
 ]
