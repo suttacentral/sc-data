@@ -69,6 +69,11 @@
     "name": "日本語",
     "is_root": false
   },
+  "ko": {
+    "type": "language",
+    "name": "한국어/조선말",
+    "is_root": false
+  },
   "lt": {
     "type": "language",
     "name": "Lietuvių kalba",
@@ -139,12 +144,12 @@
     "name": "Prakrit",
     "is_root": true
   },
-  "zh-Hans": {
+  "zh-hans": {
     "type": "language",
     "name": "Simplified Chinese",
     "is_root": false
   },
-  "zh-Hant": {
+  "zh-hant": {
     "type": "language",
     "name": "Traditional Chinese",
     "is_root": false
