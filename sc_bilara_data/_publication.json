@@ -3816,7 +3816,7 @@
     "text_uid": "dn",
     "translation_title": "Длинные Наставления",
     "translation_subtitle": "Перевод Дигха Никаи",
-    "root_title": "Dīghaanikāya",
+    "root_title": "Dīghanikāya",
     "translation_process": "Переводы выпополнены с Пали на Русский язык. Данные для Bilara подготовил Павел Каторгин.",
     "translation_description": "Перевод, основных текстов Палийского Канона, которые опубликованы на сайте theravada.ru. Перевод, основных текстов Палийского Канона, подготовленный А. Я. Сыркиным.",
     "is_published": true,
@@ -3833,7 +3833,41 @@
         "publication_date": "2024",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "url": "https://suttacentral.net/mn"
+        "url": "https://suttacentral.net/dn"
+      }
+    ]
+  },
+  "scpub108": {
+    "publication_number": "scpub108",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "ру́сский язы́к",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/narinyanievmenenko/sutta/kn/thag",
+    "author_uid": "narinyanievmenenko",
+    "author_name": "Evgenia Evmenenko",
+    "author_github_handle": "neptunao",
+    "text_uid": "thag",
+    "translation_title": "Тхерагатха и Тхеригатха: Стихи старших монахов и монахинь Будды",
+    "translation_subtitle": "Перевод Тхерагатхи и Тхеригатхи",
+    "root_title": "Theragāthā",
+    "translation_process": "Переводы соответствующих текстов выполнены Евгенией Евмененко с пали и английского по переводам К. Р. Нормана и Бхиккху Суджато. Данные для Bilara подготовил Александр Рябец.",
+    "translation_description": "Перевод Тхерагатхи и Тхеригатхи из книги издательства Ганга под редакцией Надежды Лукьянович, редактор серии «Самадхи» Александр А. Нариньяни. Источник: https://ganga.ru/book/theragatha-i-therigatha",
+    "is_published": true,
+    "publication_status": "Завершен",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Это перевод древних текстов, передаваемых в Буддистской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете копировать, адаптировать, изменять, иными словами использовать этот перевод. Единственное требование: эти тексты должны быть использованы в соответсвтии с ценностями и принципами Буддистского Сообщества."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2024",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/thag"
       }
     ]
   }

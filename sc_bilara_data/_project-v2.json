@@ -705,7 +705,10 @@
     "root_path": "root/en/blurb",
     "translation_path": "translation/tr/blurb",
     "translation_muids": "translation-tr",
-    "creator_github_handle": "Pinpin123456"
+    "creator_github_handle": [
+      "Pinpin123456",
+      "Denizymn"
+    ]
   },
   {
     "project_uid": "tr_localization",
@@ -713,7 +716,10 @@
     "root_path": "root/en/site",
     "translation_path": "translation/tr/site",
     "translation_muids": "translation-tr-site",
-    "creator_github_handle": "Pinpin123456"
+    "creator_github_handle": [
+      "Pinpin123456",
+      "Denizymn"
+    ]
   },
   {
     "project_uid": "tr_names_translation",
@@ -721,7 +727,10 @@
     "root_path": "root/misc/site",
     "translation_path": "translation/tr/site",
     "translation_muids": "translation-tr-site",
-    "creator_github_handle": "Pinpin123456"
+    "creator_github_handle": [
+      "Pinpin123456",
+      "Denizymn"
+    ]
   },
   {
     "project_uid": "vi_blurb_translation",
