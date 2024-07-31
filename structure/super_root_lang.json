@@ -25,7 +25,6 @@
       "t211",
       "t212",
       "t213",
-      "uv-kg",
       "minor-lzh",
       "lzh-mg-vi",
       "lzh-dg-vi",
@@ -101,7 +100,8 @@
     "root_lang_name": "Tibetan",
     "contains": [
       "other-xct",
-      "xct-mu-vi"
+      "xct-mu-vi",
+      "uv-kg",
     ]
   },
   {
