@@ -254,6 +254,14 @@
     "creator_github_handle": "cittadhammo"
   },
   {
+    "project_uid": "fr_ms_translation_francois",
+    "name": "French sutta translation Francois Thibeault",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/francois/sutta",
+    "translation_muids": "translation-fr-francois",
+    "creator_github_handle": "francoisthibeault"
+  },
+  {
     "project_uid": "fr_ms_translation_noeismet",
     "name": "French sutta translation Noé Ismet",
     "root_path": "root/pli/ms/sutta",
@@ -444,6 +452,14 @@
     "translation_path": "translation/ko/site",
     "translation_muids": "translation-ko-site",
     "creator_github_handle": "gloine"
+  },
+  {
+    "project_uid": "lo_ms_translation_jayasaro",
+    "name": "Lao Vinaya translation Jayasāro Bhikkhu",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/lo/jayasaro/vinaya",
+    "translation_muids": "translation-lo-jayasaro",
+    "creator_github_handle": "Jayasiri-Jayasaro"
   },
   {
     "project_uid": "lt_ms_translation_piyadassi",
@@ -690,6 +706,14 @@
     "translation_path": "translation/sr/brankokovacevic/sutta",
     "translation_muids": "translation-sr-brankokovacevic",
     "creator_github_handle": "Bundi-py"
+  },
+  {
+    "project_uid": "th_ms_translation_jayasaro",
+    "name": "Thai Vinaya translation Jayasāro Bhikkhu",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/th/jayasaro/vinaya",
+    "translation_muids": "translation-th-jayasaro",
+    "creator_github_handle": "Jayasiri-Jayasaro"
   },
   {
     "project_uid": "th_ms_translation_korakot",
