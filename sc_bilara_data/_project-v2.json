@@ -171,6 +171,14 @@
     "creator_github_handle": "delightedbydhamma"
   },
   {
+    "project_uid": "es_ms_translation_font",
+    "name": "Spanish sutta translation Bernat Font",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/es/font/sutta",
+    "translation_muids": "translation-es-font",
+    "creator_github_handle": "BernatFontClos"
+  },
+  {
     "project_uid": "es_ms_translation_maggatr",
     "name": "Spanish sutta translation Magga Traducciones",
     "root_path": "root/pli/ms/sutta",
