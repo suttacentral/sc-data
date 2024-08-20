@@ -1,7 +1,7 @@
 import re
 
 def uid_to_acro(uid):
-    result = re.sub(r'[a-zA-Z-]+', lambda m: uid_to_acro_map.get(m[0]) or m[0].upper(), uid)
+    result = re.sub(r'[a-zA-Z]+', lambda m: uid_to_acro_map.get(m[0]) or m[0].upper(), uid)
     result = re.sub(r'(\d+)-(\d+)', r'\1–\2', result)
     result = re.sub('-', ' ', result)
     result = re.sub(r'([a-zA-Z])(\d)', r'\1 \2', result)
@@ -89,8 +89,10 @@ uid_to_acro_map = {
   "t": "T",
   "other-t": "Other T",
   "tha-ap": "Tha Ap",
+  "tha": "Tha",
   "thag": "Thag",
   "thi-ap": "Thi Ap",
+  "thi": "Thi",
   "thig": "Thig",
   "tib": "Tib",
   "ud": "Ud",
