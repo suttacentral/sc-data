@@ -144,10 +144,16 @@ Et voila, your changes appear in the bilara data file.
 You can easily do something like this, too:
 
 ```
-./sheet_export.py dn dn.tsv --include root, translation+en
+./sheet_export.py dn dn.tsv --include root,translation+en
 ```
 
 “Export the whole of DN as a `tsv` file, including only the root text and English translation”.
+
+Or say,
+
+```
+./sheet_export.py kn kn.tsv --include root,translation+sujato
+```
 
 ## Some notes on SC-specific data
 
