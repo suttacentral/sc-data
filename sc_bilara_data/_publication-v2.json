@@ -2914,5 +2914,30 @@
   "license_statement": "",
   "first_published": "",
   "editions_url": "https://suttacentral.net/vinaya"
+  },
+  {
+    "publication_number": "scpub117",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/kn/ja",
+    "creator_uid": "sujato",
+    "creator_name": "Bhikkhu Sujato",
+    "creator_github_handle": "sujato",
+    "text_uid": "ja",
+    "translation_title": "Stories of Past Lives",
+    "translation_subtitle": "A fresh translation of the Jātaka verses",
+    "root_title": "Jātaka",
+    "creation_process": "Translated from the Pali. The primary source was the Mahāsaṅgīti edition, with reference to the revised English translations by Ānandajoti.",
+    "text_description": "This translation aims to make a clear, readable, and accurate rendering of some Jātaka verses. It was begun in late 2024. The project does not aim to be complete, nor to include the stories, for which see the revised versions by Ānandajoti.",
+    "is_published": true,
+    "publication_status": "Incomplete.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
+    "first_published": "2024",
+    "editions_url": "https://suttacentral.net/ja"
   }
 ]
