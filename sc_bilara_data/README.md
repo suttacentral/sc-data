@@ -113,33 +113,45 @@ This is a utility for importing and exporting data from Bilara. It allows you to
 1. Internal SC work, especially changing segments in bilara-data
 2. Consumption of `bilara-data` in external apps
 
-The basic usage is to export a text or range of texts as a spreadsheet. The data can then be viewed or manipulated in the spreadsheet, and the result imported back into `bilara-data`. 
+The basic usage is to export a text or range of texts in `tsv`. The data can then be viewed or manipulated in the spreadsheet, and the result imported back into `bilara-data`. 
 
 A typical use case would be if we discover that a text has an extra unwanted segment break, we can combine two segments into one, delete the old segment, and re-import it. Changing this in the raw json files is tricky, as you have to keep track of all the different files of that particular text, and re-increment the segment numbering.
 
-Bilara i/o uses [Pyexcel](http://www.pyexcel.org/) under the hood, so data can be imported and exported to [any format supported by pyexcel](http://docs.pyexcel.org/en/latest/design.html#data-format). However we have only extensively tested it with `.ods` spreadsheets.
-
 ### Use bilara i/o
 
-Go to the .scripts folder. Change the python version to 3.7.2. (Other versions may work if you have a different version installed.) Run something like:
+Make sure you’re in the latest `unpublished` branch.
+
+```
+cd bilara-data
+git checkout unpublished
+git pull
+```
+
+Go to the .scripts folder. 
+
+```
+cd bilara-data/.scripts/bilara-io
+```
+
+Change the python version to 3.7.2. (Other versions may work if you have a different version installed; some users say to use 3.9 or higher.) Run something like:
 
 ```
 pip3 install -r requirements.txt
 ```
 
-Ready to go, let’s export dn1 as a `tsv` file, which can be opened as a spreadsheet!
+Ready to go, let’s export dn1 as a `tsv` file!
 
 ```
 ./sheet_export.py dn1 dn1.tsv
 ```
 
-Edit it, save, and run:
+Open it in your spreadsheet application (calc, excel, google sheets, etc.). Edit it, save, and run:
 
 ```
  ./sheet_import.py dn1.tsv
  ```
 
-Et voila, your changes appear in the bilara data file.
+*Et voila*, your changes appear in the relevant bilara-data files.
 
 You can easily do something like this, too:
 
@@ -148,12 +160,6 @@ You can easily do something like this, too:
 ```
 
 “Export the whole of DN as a `tsv` file, including only the root text and English translation”.
-
-Or say,
-
-```
-./sheet_export.py kn kn.tsv --include root,translation+sujato
-```
 
 ## Some notes on SC-specific data
 
