@@ -826,7 +826,10 @@
     "root_path": "root/en/blurb",
     "translation_path": "translation/zh-hans/blurb",
     "translation_muids": "translation-zh-hans",
-    "creator_github_handle": "tsungmaolee"
+    "creator_github_handle": [
+      "tsungmaolee",
+      "wcang"
+    ]
   },
   {
     "project_uid": "zh-hans_localization",
@@ -834,7 +837,10 @@
     "root_path": "root/en/site",
     "translation_path": "translation/zh-hans/site",
     "translation_muids": "translation-zh-hans-site",
-    "creator_github_handle": "tsungmaolee"
+    "creator_github_handle": [
+      "tsungmaolee",
+      "wcang"
+    ]
   },
   {
     "project_uid": "zh-hans_ms_translation_mao",
@@ -858,7 +864,10 @@
     "root_path": "root/misc/site",
     "translation_path": "translation/zh-hans/site",
     "translation_muids": "translation-zh-hans-site",
-    "creator_github_handle": "tsungmaolee"
+    "creator_github_handle": [
+      "tsungmaolee",
+      "wcang"
+    ]
   },
   {
     "project_uid": "zh-hant_blurb_translation",
@@ -866,7 +875,10 @@
     "root_path": "root/en/blurb",
     "translation_path": "translation/zh-hant/blurb",
     "translation_muids": "translation-zh-hant",
-    "creator_github_handle": "tsungmaolee"
+    "creator_github_handle": [
+      "tsungmaolee",
+      "wcang"
+    ]
   },
   {
     "project_uid": "zh-hant_localization",
@@ -874,7 +886,10 @@
     "root_path": "root/en/site",
     "translation_path": "translation/zh-hant/site",
     "translation_muids": "translation-zh-hant-site",
-    "creator_github_handle": "tsungmaolee"
+    "creator_github_handle": [
+      "tsungmaolee",
+      "wcang"
+    ]
   },
   {
     "project_uid": "zh-hant_ms_translation_mao",
@@ -898,6 +913,9 @@
     "root_path": "root/misc/site",
     "translation_path": "translation/zh-hant/site",
     "translation_muids": "translation-zh-hant-site",
-    "creator_github_handle": "tsungmaolee"
+    "creator_github_handle": [
+      "tsungmaolee",
+      "wcang"
+    ]
   }
 ]
