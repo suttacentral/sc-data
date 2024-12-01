@@ -2914,5 +2914,30 @@
   "license_statement": "ການແປນີ້ເປັນການສະແດງເຖິງຄຳພີບູຮານທີ່ສືບທອດໂດຍວັດທະນະທຳຂອງພຸດທະສາດສະໜາເພື່ອປະໂຫຍດຂອງສັບພະສັດທັງຫຼາຍ ຂໍອຸທິດໃຫ້ກັບສາທານລະນະສົມບັດຜ່ານ Creative Commons Zero (CC0) ແລະຂໍເຊີນຊວນໃຫ້ຄັດລອກ ຜະລິດຊ້ຳ ດັດແປງ ແກ້ໄຂ ຫຼືໃຊ້ການແປນີ້ໃນຮູບແບບຕ່າງ ໆ ຜູ້ແປຂໍຄວາມກະລຸນາໃຫ້ການໃຊ້ວຽກໃດ ໆ ເປັນໄປດ້ວຍຄຸນຄ່າແລະຫຼັກການຂອງຊຸມຊົນພຸດທະສາດສະໜາ.",
   "first_published": "2024",
   "editions_url": "https://suttacentral.net/vinaya"
+  },
+  {
+  "publication_number": "scpub117",
+  "root_lang_iso": "pli",
+  "root_lang_name": "Pali",
+  "translation_lang_iso": "ru",
+  "translation_lang_name": "ру́сский язы́к",
+  "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/sv/sutta/kn/snp",
+  "creator_uid": "sv",
+  "creator_name": "SV theravada.ru",
+  "creator_github_handle": "o28o",
+  "text_uid": "snp",
+  "translation_title": "Суттанипата",
+  "translation_subtitle": "Перевод Суттанипаты",
+  "root_title": "Suttanipāta",
+  "creation_process": "Переводы соответствующих текстов выполнены SV с английского по переводам Бхиккху Бодхи. Данные для Bilara подготовил Александр Рябец.",
+  "text_description": "Переводы основных текстов Палийского Канона, опубликованные на сайте theravada.ru",
+  "is_published": false,
+  "publication_status": "Завершен",
+  "license_type": "Creative Commons Zero",
+  "license_abbreviation": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "license_statement": "Это перевод древних текстов, передаваемых в Буддистской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете копировать, адаптировать, изменять, иными словами использовать этот перевод. Единственное требование: эти тексты должны быть использованы в соответсвтии с ценностями и принципами Буддистского Сообщества.",
+  "first_published": "",
+  "editions_url": "https://suttacentral.net/snp"
   }
 ]
