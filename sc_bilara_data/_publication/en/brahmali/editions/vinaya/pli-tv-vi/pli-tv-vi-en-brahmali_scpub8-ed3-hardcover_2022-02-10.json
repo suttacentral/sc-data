@@ -34,10 +34,14 @@
         "titlepage",
         "halftitlepage",
         "imprint",
+        "./matter/epigraph.html",
         "main-toc",
         "./matter/foreword.html",
         "./matter/preface.html",
-        "./matter/introduction.html"
+        "./matter/general-introduction.html",
+        "./matter/bu-vb-1-introduction.html",
+        "./matter/bibliography.html",
+        "./matter/abbreviations.html"
       ],
       "mainmatter": [
         "pli-tv-bu-vb-pj",
@@ -46,6 +50,12 @@
       ],
       "backmatter": [
         "endnotes",
+        "./matter/appendix-glossary.html",
+        "./matter/appendix-terms.html",
+        "./matter/appendix-sectional.html",
+        "./matter/appendix-furniture.html",
+        "./matter/appendix-medical.html",
+        "./matter/appendix-plants.html",
         "colophon"
       ]
     },
@@ -62,7 +72,9 @@
         "titlepage",
         "halftitlepage",
         "imprint",
-        "main-toc"
+        "main-toc",
+        "./matter/bu-vb-2-introduction.html",
+        "./matter/abbreviations.html"
       ],
       "mainmatter": [
         "pli-tv-bu-vb-np",
@@ -89,13 +101,16 @@
         "titlepage",
         "halftitlepage",
         "imprint",
-        "main-toc"
+        "main-toc",
+        "./matter/bi-vb-introduction.html",
+        "./matter/abbreviations.html"
       ],
       "mainmatter": [
         "pli-tv-bi-vb"
       ],
       "backmatter": [
         "endnotes",
+        "./matter/bi-vb-appendix-rules.html",
         "colophon"
       ]
     },
@@ -112,7 +127,9 @@
         "titlepage",
         "halftitlepage",
         "imprint",
-        "main-toc"
+        "main-toc",
+        "./matter/kd-1-introduction.html",
+        "./matter/abbreviations.html"
       ],
       "mainmatter": [
         "pli-tv-kd1",
@@ -144,7 +161,9 @@
         "titlepage",
         "halftitlepage",
         "imprint",
-        "main-toc"
+        "main-toc",
+        "./matter/kd-2-introduction.html",
+        "./matter/abbreviations.html"
       ],
       "mainmatter": [
         "pli-tv-kd11",
@@ -178,7 +197,9 @@
         "titlepage",
         "halftitlepage",
         "imprint",
-        "main-toc"
+        "main-toc",
+        "./matter/pvr-introduction.html",
+        "./matter/abbreviations.html"
       ],
       "mainmatter": [
         "pli-tv-pvr"
