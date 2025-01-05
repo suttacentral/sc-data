@@ -3875,9 +3875,9 @@
     "publication_number": "scpub109",
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
-    "translation_lang_iso": "zh-hans",
-    "translation_lang_name": "Simplified Chinese",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/zh-hans/mao/sutta",
+    "translation_lang_iso": "zh",
+    "translation_lang_name": "Chinese",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/zh/mao/sutta",
     "author_uid": "mao",
     "author_name": "Tsung-Mao Lee",
     "author_github_handle": "tsungmaolee",
@@ -3909,77 +3909,9 @@
     "publication_number": "scpub110",
     "root_lang_iso": "pli",
     "root_lang_name": "Pali",
-    "translation_lang_iso": "zh-hans",
-    "translation_lang_name": "Simplified Chinese",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/zh-hans/yingchen/sutta",
-    "author_uid": "yingchen",
-    "author_name": "Ying-Chen Chang",
-    "author_github_handle": "YingChen-Jane",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
-    },
-    "edition": [
-      {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "SuttaCentral",
-        "publication_type": "website",
-        "edition_url": ""
-      }
-    ]
-  },
-  "scpub111": {
-    "publication_number": "scpub111",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "zh-hant",
-    "translation_lang_name": "Traditional Chinese",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/zh-hant/mao/sutta",
-    "author_uid": "mao",
-    "author_name": "Tsung-Mao Lee",
-    "author_github_handle": "tsungmaolee",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
-    "license": {
-      "license_type": "Creative Commons Zero",
-      "license_abbreviation": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
-    },
-    "edition": [
-      {
-        "edition_number": "",
-        "publication_date": "",
-        "publisher": "SuttaCentral",
-        "publication_type": "website",
-        "edition_url": ""
-      }
-    ]
-  },
-  "scpub112": {
-    "publication_number": "scpub112",
-    "root_lang_iso": "pli",
-    "root_lang_name": "Pali",
-    "translation_lang_iso": "zh-hant",
-    "translation_lang_name": "Traditional Chinese",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/zh-hant/yingchen/sutta",
+    "translation_lang_iso": "zh",
+    "translation_lang_name": "Chinese",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/zh/yingchen/sutta",
     "author_uid": "yingchen",
     "author_name": "Ying-Chen Chang",
     "author_github_handle": "YingChen-Jane",

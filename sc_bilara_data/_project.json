@@ -304,7 +304,7 @@
         "author_github_handle": "meditoikuinbuddha"
       }
     ]
-  },  
+  },
   "fi_ms_translation_mudito_sutta": {
     "name": "Finnish sutta translation Ajahn Mudito",
     "root_path": "root/pli/ms/sutta/an",
@@ -549,7 +549,7 @@
         "author_github_handle": "BMahabodhi"
       }
     ]
-  }, 
+  },
   "jpn_blurb_translation": {
     "name": "Japanese blurb translation",
     "root_path": "root/en/blurb",
@@ -670,7 +670,7 @@
         "author_github_handle": "kkhangal"
       }
     ]
-  },  
+  },
   "my_blurb_translation": {
     "name": "Burmese blurb translation",
     "root_path": "root/en/blurb",
@@ -1097,6 +1097,15 @@
     "collaborator": [
       {
         "author_github_handle": "ihongda"
+      },
+      {
+        "author_github_handle": "tsungmaolee"
+      },
+      {
+        "author_github_handle": "wcang"
+      },
+      {
+        "author_github_handle": "YingChen-Jane"
       }
     ]
   },
@@ -1108,6 +1117,15 @@
     "collaborator": [
       {
         "author_github_handle": "ihongda"
+      },
+      {
+        "author_github_handle": "tsungmaolee"
+      },
+      {
+        "author_github_handle": "wcang"
+      },
+      {
+        "author_github_handle": "YingChen-Jane"
       }
     ]
   },
@@ -1119,134 +1137,37 @@
     "collaborator": [
       {
         "author_github_handle": "ihongda"
-      }
-    ]
-  },
-  "zh-hans_blurb_translation": {
-    "name": "Simplified Chinese blurb translation",
-    "root_path": "root/en/blurb",
-    "translation_path": "translation/zh-hans/blurb",
-    "translation_muids": "translation-zh-hans",
-    "collaborator": [
+      },
       {
         "author_github_handle": "tsungmaolee"
       },
       {
         "author_github_handle": "wcang"
-      }
-    ]
-  },
-  "zh-hans_localization": {
-    "name": "Simplified Chinese localization",
-    "root_path": "root/en/site",
-    "translation_path": "translation/zh-hans/site",
-    "translation_muids": "translation-zh-hans-site",
-    "collaborator": [
-      {
-        "author_github_handle": "tsungmaolee"
       },
-      {
-        "author_github_handle": "wcang"
-      }
-    ]
-  },
-  "zh-hans_ms_translation_mao": {
-    "name": "Simplified Chinese translation",
-    "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/zh-hans/mao/sutta",
-    "translation_muids": "translation-zh-hans-mao",
-    "collaborator": [
-      {
-        "author_github_handle": "tsungmaolee"
-      }
-    ]
-  },
-  "zh-hans_ms_translation_yingchen": {
-    "name": "Simplified Chinese translation",
-    "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/zh-hans/yingchen/sutta",
-    "translation_muids": "translation-zh-hans-yingchen",
-    "collaborator": [
       {
         "author_github_handle": "YingChen-Jane"
       }
     ]
   },
-  "zh-hans_names_translation": {
-    "name": "Simplified Chinese names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/zh-hans/site",
-    "translation_muids": "translation-zh-hans-site",
-    "collaborator": [
-      {
-        "author_github_handle": "tsungmaolee"
-      },
-      {
-        "author_github_handle": "wcang"
-      }
-    ]
-  },
-  "zh-hant_blurb_translation": {
-    "name": "Traditional Chinese blurb translation",
-    "root_path": "root/en/blurb",
-    "translation_path": "translation/zh-hant/blurb",
-    "translation_muids": "translation-zh-hant",
-    "collaborator": [
-      {
-        "author_github_handle": "tsungmaolee"
-      },
-      {
-        "author_github_handle": "wcang"
-      }
-    ]
-  },
-  "zh-hant_localization": {
-    "name": "Traditional Chinese localization",
-    "root_path": "root/en/site",
-    "translation_path": "translation/zh-hant/site",
-    "translation_muids": "translation-zh-hant-site",
-    "collaborator": [
-      {
-        "author_github_handle": "tsungmaolee"
-      },
-      {
-        "author_github_handle": "wcang"
-      }
-    ]
-  },
-  "zh-hant_ms_translation_mao": {
-    "name": "Traditional Chinese translation",
+  "zh_ms_translation_mao": {
+    "name": "Chinese ms translation",
     "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/zh-hant/mao/sutta",
-    "translation_muids": "translation-zh-hant-mao",
+    "translation_path": "translation/zh/mao/sutta",
+    "translation_muids": "translation-zh-mao",
     "collaborator": [
       {
         "author_github_handle": "tsungmaolee"
       }
     ]
   },
-  "zh-hant_ms_translation_yingchen": {
-    "name": "Traditional Chinese translation",
+  "zh_ms_translation_yingchen": {
+    "name": "Chinese ms translation",
     "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/zh-hant/yingchen/sutta",
-    "translation_muids": "translation-zh-hant-yingchen",
+    "translation_path": "translation/zh/yingchen/sutta",
+    "translation_muids": "translation-zh-yingchen",
     "collaborator": [
       {
         "author_github_handle": "YingChen-Jane"
-      }
-    ]
-  },
-  "zh-hant_names_translation": {
-    "name": "Traditional Chinese names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/zh-hant/site",
-    "translation_muids": "translation-zh-hant-site",
-    "collaborator": [
-      {
-        "author_github_handle": "tsungmaolee"
-      },
-      {
-        "author_github_handle": "wcang"
       }
     ]
   }
