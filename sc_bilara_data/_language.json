@@ -129,6 +129,11 @@
     "name": "Srpski",
     "is_root": false
   },
+  "ta": {
+    "type": "language",
+    "name": "தமிழ்",
+    "is_root": false
+  },  
   "th": {
     "type": "language",
     "name": "ไทย",

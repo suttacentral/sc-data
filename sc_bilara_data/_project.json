@@ -981,6 +981,39 @@
       }
     ]
   },
+  "ta_blurb_translation": {
+    "name": "Tamil blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/ta/blurb",
+    "translation_muids": "translation-ta",
+    "collaborator": [
+      {
+        "author_github_handle": "upasaka76601"
+      }
+    ]
+  },
+  "ta_localization": {
+    "name": "Tamil localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/ta/site",
+    "translation_muids": "translation-ta-site",
+    "collaborator": [
+      {
+        "author_github_handle": "upasaka76601"
+      }
+    ]
+  },
+  "ta_names_translation": {
+    "name": "Tamil names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/ta/site",
+    "translation_muids": "translation-ta-site",
+    "collaborator": [
+      {
+        "author_github_handle": "upasaka76601"
+      }
+    ]
+  },
   "th_ms_translation_jayasaro": {
     "name": "Thai Vinaya translation Jayasāro Bhikkhu",
     "root_path": "root/pli/ms/vinaya",
