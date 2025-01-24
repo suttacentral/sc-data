@@ -478,5 +478,11 @@
     "name": "монгол хэл",
     "is_root": false,
     "iso_code": "mn"
+  },
+  {
+    "uid": "lo",
+    "name": "ລາວ",
+    "is_root": false,
+    "iso_code": "lo"
   }
 ]

@@ -69,6 +69,16 @@
     "name": "日本語",
     "is_root": false
   },
+  "ko": {
+    "type": "language",
+    "name": "한국어/조선말",
+    "is_root": false
+  },
+  "lo": {
+    "type": "language",
+    "name": "ພາສາລາວ",
+    "is_root": false
+  },
   "lt": {
     "type": "language",
     "name": "Lietuvių kalba",
@@ -119,6 +129,11 @@
     "name": "Srpski",
     "is_root": false
   },
+  "ta": {
+    "type": "language",
+    "name": "தமிழ்",
+    "is_root": false
+  },  
   "th": {
     "type": "language",
     "name": "ไทย",

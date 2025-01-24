@@ -202,5 +202,41 @@
   "pts": {
     "type": "root",
     "name": "PTS"
+  },
+  "cыркин": {
+    "type": "translator",
+    "name": "А. Я. Сыркин"
+  },
+  "syrkin": {
+    "type": "translator",
+    "name": "A. Y. Syrkin"
+  },
+  "narinyanievmenenko": {
+    "type": "translator",
+    "name": "Evgenia Evmenenko"
+  },
+  "mao": {
+    "type": "translator",
+    "name": "Tsung-Mao Lee"
+  },
+  "yingchen": {
+    "type": "translator",
+    "name": "Ying-Chen Chang"
+  },
+  "gloine": {
+    "type": "translator",
+    "name": "Jaehyung Lee"
+  },
+  "francois": {
+    "type": "translator",
+    "name": "Francois Thibeault"
+  },
+  "jayasaro": {
+    "type": "translator",
+    "name": "Jayasāro Bhikkhu"
+  },
+  "font": {
+    "type": "translator",
+    "name": "Bernat Font"
   }
 }
