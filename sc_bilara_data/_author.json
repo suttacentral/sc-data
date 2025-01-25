@@ -1,191 +1,123 @@
 {
-  "ms": {
+  "bj": {
     "type": "root",
-    "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+    "name": "Buddha Jayanti Tipiṭaka"
   },
-  "sujato": {
-    "type": "translator",
-    "name": "Bhikkhu Sujato"
-  },
-  "brahmali": {
-    "type": "translator",
-    "name": "Bhikkhu Brahmali"
-  },
-  "sabbamitta": {
-    "type": "translator",
-    "name": "Sabbamitta"
-  },
-  "kaz": {
-    "type": "translator",
-    "name": "Kaz Takehara"
-  },
-  "gnlaera": {
-    "type": "translator",
-    "name": "Gabriel Laera"
-  },
-  "patton": {
-    "type": "translator",
-    "name": "Charles Patton"
-  },
-  "ashinsarana": {
-    "type": "translator",
-    "name": "Ashin Sarana"
-  },
-  "nyeinchanaye": {
-    "type": "translator",
-    "name": "Nyein Chan Aye"
+  "cone": {
+    "type": "root",
+    "name": "Margaret Cone"
   },
   "dpcv": {
     "type": "root",
     "name": "Dutiya-Parakkamabāhu Cullavagga"
   },
-  "bj": {
+  "ms": {
     "type": "root",
-    "name": "Buddha Jayanti Tipiṭaka"
+    "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+  },
+  "pts": {
+    "type": "root",
+    "name": "PTS"
   },
   "vri": {
     "type": "root",
     "name": "Vipassana Research Institute"
   },
-  "my-team": {
+  "anandajoti": {
     "type": "translator",
-    "name": "Myanmar Translation Team"
+    "name": "Bhikkhu Ānandajoti"
   },
-  "carmi": {
+  "ashinsarana": {
     "type": "translator",
-    "name": "Carmi Cronje"
-  },
-  "vimalanyani": {
-    "type": "translator",
-    "name": "Bhikkhunī Vimalañāṇī"
-  },
-  "madhu": {
-    "type": "translator",
-    "name": "Madhuwanthi Buddhadasa"
-  },
-  "vitor": {
-    "type": "translator",
-    "name": "Vitor Guimarães"
-  },
-  "seniya": {
-    "type": "translator",
-    "name": "Seniya Ariyakumara"
-  },
-  "soma": {
-    "type": "translator",
-    "name": "Ayya Soma"
-  },
-  "wynne": {
-    "type": "translator",
-    "name": "Alexander Wynne"
-  },
-  "phantuananh": {
-    "type": "translator",
-    "name": "Bhikkhu Thích Minh Châu"
-  },
-  "kovilo": {
-    "type": "translator",
-    "name": "Kovilo Bhikkhu"
-  },
-  "suvira": {
-    "type": "translator",
-    "name": "Bhikkhuni Suvira"
-  },
-  "sumano": {
-    "type": "translator",
-    "name": "Bhante Sumano"
-  },
-  "mudito": {
-    "type": "translator",
-    "name": "Ajahn Mudito"
-  },
-  "hardao": {
-    "type": "translator",
-    "name": "Piotr Jagodziński"
-  },
-  "suddhaso": {
-    "type": "translator",
-    "name": "Bhante Suddhāso"
-  },
-  "giovannizappa": {
-    "type": "translator",
-    "name": "Giovanni Zappa"
-  },
-  "piyadassi": {
-    "type": "translator",
-    "name": "Sayalay Piyadassi"
-  },
-  "trush": {
-    "type": "translator",
-    "name": "Trushant Majmudar"
+    "name": "Ashin Sarana"
   },
   "bernatfontclos": {
     "type": "translator",
     "name": "Bernat Font-Clos"
   },
+  "brahmali": {
+    "type": "translator",
+    "name": "Bhikkhu Brahmali"
+  },
   "brankokovacevic": {
     "type": "translator",
     "name": "Branislav Kovačević"
-  },
-  "noeismet": {
-    "type": "translator",
-    "name": "Noé Ismet"
-  },
-  "laera": {
-    "type": "translator",
-    "name": "Laera et al."
-  },
-  "cittadhammo": {
-    "type": "translator",
-    "name": "Cittadhammo Bhikkhu"
-  },
-  "korakot": {
-    "type": "translator",
-    "name": "Korakot Chaovavanich"
-  },
-  "sekha": {
-    "type": "translator",
-    "name": "Bhikkhu Sekha"
-  },
-  "davis": {
-    "type": "translator",
-    "name": "Dr Joongpyo Lee"
-  },
-  "pasanna": {
-    "type": "translator",
-    "name": "Venerable Pasanna"
-  },
-  "marcinow": {
-    "type": "translator",
-    "name": "Piotr Marcinów"
-  },
-  "sv": {
-    "type": "translator",
-    "name": "SV theravada.ru"
-  },
-  "anandajoti": {
-    "type": "translator",
-    "name": "Bhikkhu Ānandajoti"
-  },
-  "maggatr": {
-    "type": "translator",
-    "name": "Magga Traducciones"
-  },
-  "kelly": {
-    "type": "translator",
-    "name": "John Kelly"
   },
   "buddhadassa": {
     "type": "translator",
     "name": "Ryan John Guilfoyle"
   },
-  "quaresma": {
+  "cittadhammo": {
     "type": "translator",
-    "name": "Marco Quaresma"
+    "name": "Cittadhammo Bhikkhu"
+  },
+  "cыркин": {
+    "type": "translator",
+    "name": "А. Я. Сыркин"
+  },
+  "davis": {
+    "type": "translator",
+    "name": "Dr Joongpyo Lee"
+  },
+  "font": {
+    "type": "translator",
+    "name": "Bernat Font"
+  },
+  "francois": {
+    "type": "translator",
+    "name": "Francois Thibeault"
+  },
+  "giovannizappa": {
+    "type": "translator",
+    "name": "Giovanni Zappa"
+  },
+  "gloine": {
+    "type": "translator",
+    "name": "Jaehyung Lee"
+  },
+  "gnlaera": {
+    "type": "translator",
+    "name": "Gabriel Laera"
+  },
+  "hardao": {
+    "type": "translator",
+    "name": "Piotr Jagodziński"
+  },
+  "jayasaro": {
+    "type": "translator",
+    "name": "Jayasāro Bhikkhu"
+  },
+  "kaz": {
+    "type": "translator",
+    "name": "Kaz Takehara"
+  },
+  "kelly": {
+    "type": "translator",
+    "name": "John Kelly"
+  },
+  "korakot": {
+    "type": "translator",
+    "name": "Korakot Chaovavanich"
+  },
+  "kovilo": {
+    "type": "translator",
+    "name": "Kovilo Bhikkhu"
+  },
+  "laera": {
+    "type": "translator",
+    "name": "Laera et al."
   },
   "lucjan": {
     "type": "translator",
     "name": "Paweł Łucjan"
+  },
+  "madhu": {
+    "type": "translator",
+    "name": "Madhuwanthi Buddhadasa"
+  },
+  "maggatr": {
+    "type": "translator",
+    "name": "Magga Traducciones"
   },
   "mahabodhi": {
     "type": "translator",
@@ -195,48 +127,116 @@
     "type": "translator",
     "name": "Mangala"
   },
-  "cone": {
-    "type": "root",
-    "name": "Margaret Cone"
-  },
-  "pts": {
-    "type": "root",
-    "name": "PTS"
-  },
-  "cыркин": {
+  "mao": {
     "type": "translator",
-    "name": "А. Я. Сыркин"
+    "name": "Tsung-Mao Lee"
   },
-  "syrkin": {
+  "marcinow": {
     "type": "translator",
-    "name": "A. Y. Syrkin"
+    "name": "Piotr Marcinów"
+  },
+  "mudito": {
+    "type": "translator",
+    "name": "Ajahn Mudito"
+  },
+  "my-team": {
+    "type": "translator",
+    "name": "Myanmar Translation Team"
   },
   "narinyanievmenenko": {
     "type": "translator",
     "name": "Evgenia Evmenenko"
   },
-  "mao": {
+  "noeismet": {
     "type": "translator",
-    "name": "Tsung-Mao Lee"
+    "name": "Noé Ismet"
+  },
+  "nyeinchanaye": {
+    "type": "translator",
+    "name": "Nyein Chan Aye"
+  },
+  "pasanna": {
+    "type": "translator",
+    "name": "Venerable Pasanna"
+  },
+  "patton": {
+    "type": "translator",
+    "name": "Charles Patton"
+  },
+  "phantuananh": {
+    "type": "translator",
+    "name": "Bhikkhu Thích Minh Châu"
+  },
+  "piyadassi": {
+    "type": "translator",
+    "name": "Sayalay Piyadassi"
+  },
+  "quaresma": {
+    "type": "translator",
+    "name": "Marco Quaresma"
+  },
+  "sabbamitta": {
+    "type": "translator",
+    "name": "Sabbamitta"
+  },
+  "sekha": {
+    "type": "translator",
+    "name": "Bhikkhu Sekha"
+  },
+  "seniya": {
+    "type": "translator",
+    "name": "Seniya Ariyakumara"
+  },
+  "soma": {
+    "type": "translator",
+    "name": "Ayya Soma"
+  },
+  "suddhaso": {
+    "type": "translator",
+    "name": "Bhante Suddhāso"
+  },
+  "sujato": {
+    "type": "translator",
+    "name": "Bhikkhu Sujato"
+  },
+  "sumano": {
+    "type": "translator",
+    "name": "Bhante Sumano"
+  },
+  "suvira": {
+    "type": "translator",
+    "name": "Bhikkhuni Suvira"
+  },
+  "sv": {
+    "type": "translator",
+    "name": "SV theravada.ru"
+  },
+  "syrkin": {
+    "type": "translator",
+    "name": "A. Y. Syrkin"
+  },
+  "thitanana": {
+    "type": "translator",
+    "name": "Ṭhitañāṇa Bhikkhu"
+  },
+  "trush": {
+    "type": "translator",
+    "name": "Trushant Majmudar"
+  },
+  "vimalanyani": {
+    "type": "translator",
+    "name": "Bhikkhunī Vimalañāṇī"
+  },
+  "vitor": {
+    "type": "translator",
+    "name": "Vitor Guimarães"
+  },
+  "wynne": {
+    "type": "translator",
+    "name": "Alexander Wynne"
   },
   "yingchen": {
     "type": "translator",
     "name": "Ying-Chen Chang"
-  },
-  "gloine": {
-    "type": "translator",
-    "name": "Jaehyung Lee"
-  },
-  "francois": {
-    "type": "translator",
-    "name": "Francois Thibeault"
-  },
-  "jayasaro": {
-    "type": "translator",
-    "name": "Jayasāro Bhikkhu"
-  },
-  "font": {
-    "type": "translator",
-    "name": "Bernat Font"
   }
 }

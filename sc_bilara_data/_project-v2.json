@@ -32,6 +32,14 @@
     "creator_github_handle": "sabbamitta"
   },
   {
+    "project_uid": "de_names_translation",
+    "name": "German names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/de/site",
+    "translation_muids": "translation-de-site",
+    "creator_github_handle": "sabbamitta"
+  },
+  {
     "project_uid": "de_ms_translation_sabbamitta",
     "name": "German translation Sabbamitta Silashin",
     "root_path": "root/pli/ms/sutta",
@@ -45,14 +53,6 @@
     "root_path": "root/pli/ms/vinaya",
     "translation_path": "translation/de/sabbamitta/vinaya",
     "translation_muids": "translation-de-sabbamitta",
-    "creator_github_handle": "sabbamitta"
-  },
-  {
-    "project_uid": "de_names_translation",
-    "name": "German names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/de/site",
-    "translation_muids": "translation-de-site",
     "creator_github_handle": "sabbamitta"
   },
   {
@@ -203,6 +203,14 @@
     "creator_github_handle": "vensumano"
   },
   {
+    "project_uid": "et_ms_translation_thitanana",
+    "name": "Estonian translation Ṭhitañāṇa Bhikkhu",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/et/thitanana/sutta",
+    "translation_muids": "translation-et-thitanana",
+    "creator_github_handle": "EestiTheravaadaSangha"
+  },
+  {
     "project_uid": "fi_blurb_translation",
     "name": "Finnish blurb translation",
     "root_path": "root/en/blurb",
@@ -219,20 +227,20 @@
     "creator_github_handle": "meditoikuinbuddha"
   },
   {
-    "project_uid": "fi_ms_translation_mudito_sutta",
-    "name": "Finnish sutta translation Ajahn Mudito",
-    "root_path": "root/pli/ms/sutta/an",
-    "translation_path": "translation/fi/mudito/sutta/an",
-    "translation_muids": "translation-fi-mudito",
-    "creator_github_handle": "Muditassa"
-  },
-  {
     "project_uid": "fi_names_translation",
     "name": "Finnish names translation",
     "root_path": "root/misc/site",
     "translation_path": "translation/fi/site",
     "translation_muids": "translation-fi-site",
     "creator_github_handle": "meditoikuinbuddha"
+  },
+  {
+    "project_uid": "fi_ms_translation_mudito_sutta",
+    "name": "Finnish sutta translation Ajahn Mudito",
+    "root_path": "root/pli/ms/sutta/an",
+    "translation_path": "translation/fi/mudito/sutta/an",
+    "translation_muids": "translation-fi-mudito",
+    "creator_github_handle": "Muditassa"
   },
   {
     "project_uid": "fr_blurb_translation",
@@ -249,6 +257,14 @@
     "project_uid": "fr_localization",
     "name": "French localization",
     "root_path": "root/en/site",
+    "translation_path": "translation/fr/site",
+    "translation_muids": "translation-fr-site",
+    "creator_github_handle": "noeismet"
+  },
+  {
+    "project_uid": "fr_names_translation",
+    "name": "French names translation",
+    "root_path": "root/misc/site",
     "translation_path": "translation/fr/site",
     "translation_muids": "translation-fr-site",
     "creator_github_handle": "noeismet"
@@ -284,14 +300,6 @@
     "translation_path": "translation/fr/sekha/sutta",
     "translation_muids": "translation-fr-sekha",
     "creator_github_handle": "BhikkhuSekha"
-  },
-  {
-    "project_uid": "fr_names_translation",
-    "name": "French names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/fr/site",
-    "translation_muids": "translation-fr-site",
-    "creator_github_handle": "noeismet"
   },
   {
     "project_uid": "gu_ms_translation_trush",
@@ -358,6 +366,14 @@
     "creator_github_handle": "BMahabodhi"
   },
   {
+    "project_uid": "it_names_translation",
+    "name": "Italian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/it/site",
+    "translation_muids": "translation-it-site",
+    "creator_github_handle": "BMahabodhi"
+  },
+  {
     "project_uid": "it_ms_translation_giovannizappa",
     "name": "Italian translation Giovanni Zappa",
     "root_path": "root/pli/ms/sutta",
@@ -390,14 +406,6 @@
     "creator_github_handle": "ayyasoma"
   },
   {
-    "project_uid": "it_names_translation",
-    "name": "Italian names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/it/site",
-    "translation_muids": "translation-it-site",
-    "creator_github_handle": "BMahabodhi"
-  },
-  {
     "project_uid": "jpn_blurb_translation",
     "name": "Japanese blurb translation",
     "root_path": "root/en/blurb",
@@ -414,19 +422,19 @@
     "creator_github_handle": "kaz-kaz"
   },
   {
-    "project_uid": "jpn_ms_translation_kaz",
-    "name": "Japanese translation",
-    "root_path": "root/pli/ms/sutta/an",
-    "translation_path": "translation/jpn/kaz/sutta/an",
-    "translation_muids": "translation-jpn-kaz",
-    "creator_github_handle": "kaz-kaz"
-  },
-  {
     "project_uid": "jpn_names_translation",
     "name": "Japanese names translation",
     "root_path": "root/misc/site",
     "translation_path": "translation/jpn/site",
     "translation_muids": "translation-jpn-site",
+    "creator_github_handle": "kaz-kaz"
+  },
+  {
+    "project_uid": "jpn_ms_translation_kaz",
+    "name": "Japanese translation",
+    "root_path": "root/pli/ms/sutta/an",
+    "translation_path": "translation/jpn/kaz/sutta/an",
+    "translation_muids": "translation-jpn-kaz",
     "creator_github_handle": "kaz-kaz"
   },
   {
@@ -446,19 +454,19 @@
     "creator_github_handle": "gloine"
   },
   {
-    "project_uid": "ko_ms_translation_gloine",
-    "name": "Korean translation",
-    "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/ko/gloine/sutta",
-    "translation_muids": "translation-ko-gloine",
-    "creator_github_handle": "gloine"
-  },
-  {
     "project_uid": "ko_names_translation",
     "name": "Korean names translation",
     "root_path": "root/misc/site",
     "translation_path": "translation/ko/site",
     "translation_muids": "translation-ko-site",
+    "creator_github_handle": "gloine"
+  },
+  {
+    "project_uid": "ko_ms_translation_gloine",
+    "name": "Korean translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ko/gloine/sutta",
+    "translation_muids": "translation-ko-gloine",
     "creator_github_handle": "gloine"
   },
   {
@@ -502,6 +510,14 @@
     "creator_github_handle": "amaung"
   },
   {
+    "project_uid": "my_names_translation",
+    "name": "Burmese names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/my/site",
+    "translation_muids": "translation-my-site",
+    "creator_github_handle": "amaung"
+  },
+  {
     "project_uid": "my_ms_translation_my-team",
     "name": "Burmese translation",
     "root_path": "root/pli/ms/sutta/dn",
@@ -511,14 +527,6 @@
       "NyeinChanAye",
       "ashinsarana"
     ]
-  },
-  {
-    "project_uid": "my_names_translation",
-    "name": "Burmese names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/my/site",
-    "translation_muids": "translation-my-site",
-    "creator_github_handle": "amaung"
   },
   {
     "project_uid": "nys_ms_translation_buddhadassa",
@@ -545,6 +553,14 @@
     "creator_github_handle": "MarcinSadl"
   },
   {
+    "project_uid": "pl_names_translation",
+    "name": "Polish names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/pl/site",
+    "translation_muids": "translation-pl-site",
+    "creator_github_handle": "MarcinSadl"
+  },
+  {
     "project_uid": "pl_ms_translation_hardao_sutta",
     "name": "Polish sutta translation Piotr Jagodziński",
     "root_path": "root/pli/ms/sutta",
@@ -559,14 +575,6 @@
     "translation_path": "translation/pl/marcinow/sutta/sn",
     "translation_muids": "translation-pl-marcinow",
     "creator_github_handle": "pyjterq"
-  },
-  {
-    "project_uid": "pl_names_translation",
-    "name": "Polish names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/pl/site",
-    "translation_muids": "translation-pl-site",
-    "creator_github_handle": "MarcinSadl"
   },
   {
     "project_uid": "pl_sct_translation_lucjan",
@@ -649,6 +657,14 @@
     "creator_github_handle": "timtim-ww"
   },
   {
+    "project_uid": "ru_names_translation",
+    "name": "Russian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/ru/site",
+    "translation_muids": "translation-ru-site",
+    "creator_github_handle": "timtim-ww"
+  },
+  {
     "project_uid": "ru_ms_translation_narinyanievmenenko",
     "name": "Russian translation",
     "root_path": "root/pli/ms/sutta/kn",
@@ -668,14 +684,6 @@
     ]
   },
   {
-    "project_uid": "ru_names_translation",
-    "name": "Russian names translation",
-    "root_path": "root/misc/site",
-    "translation_path": "translation/ru/site",
-    "translation_muids": "translation-ru-site",
-    "creator_github_handle": "timtim-ww"
-  },
-  {
     "project_uid": "si_blurb_translation",
     "name": "Sinhala blurb translation",
     "root_path": "root/en/blurb",
@@ -692,20 +700,20 @@
     "creator_github_handle": "thesunshade"
   },
   {
-    "project_uid": "si_ms_translation_madhu",
-    "name": "Sinhala translation",
-    "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/si/madhu/sutta",
-    "translation_muids": "translation-si-madhu",
-    "creator_github_handle": "Madhu-metta"
-  },
-  {
     "project_uid": "si_names_translation",
     "name": "Sinhala names translation",
     "root_path": "root/misc/site",
     "translation_path": "translation/si/site",
     "translation_muids": "translation-si-site",
     "creator_github_handle": "thesunshade"
+  },
+  {
+    "project_uid": "si_ms_translation_madhu",
+    "name": "Sinhala translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/si/madhu/sutta",
+    "translation_muids": "translation-si-madhu",
+    "creator_github_handle": "Madhu-metta"
   },
   {
     "project_uid": "sr_ms_translation_brankokovacevic",
@@ -805,19 +813,19 @@
     "creator_github_handle": "phineas-pta"
   },
   {
-    "project_uid": "vi_ms_translation_phantuananh",
-    "name": "Vietnamese translation",
-    "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/vi/phantuananh/sutta",
-    "translation_muids": "translation-vi-phantuananh",
-    "creator_github_handle": "phineas-pta"
-  },
-  {
     "project_uid": "vi_names_translation",
     "name": "Vietnamese names translation",
     "root_path": "root/misc/site",
     "translation_path": "translation/vi/site",
     "translation_muids": "translation-vi-site",
+    "creator_github_handle": "phineas-pta"
+  },
+  {
+    "project_uid": "vi_ms_translation_phantuananh",
+    "name": "Vietnamese translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/vi/phantuananh/sutta",
+    "translation_muids": "translation-vi-phantuananh",
     "creator_github_handle": "phineas-pta"
   },
   {
