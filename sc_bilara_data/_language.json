@@ -9,6 +9,16 @@
     "name": "Classical Chinese",
     "is_root": true
   },
+  "pra": {
+    "type": "language",
+    "name": "Prakrit",
+    "is_root": true
+  },
+  "san": {
+      "type": "language",
+      "name": "Sanskrit",
+      "is_root": true
+  },
   "ca": {
     "type": "language",
     "name": "Català",
@@ -32,6 +42,11 @@
   "es": {
     "type": "language",
     "name": "Español",
+    "is_root": false
+  },
+  "et": {
+    "type": "language",
+    "name": "Eesti keel",
     "is_root": false
   },
   "fi": {
@@ -114,11 +129,6 @@
     "name": "ру́сский язы́к",
     "is_root": false
   },
-  "san": {
-      "type": "language",
-      "name": "Sanskrit",
-      "is_root": true
-  },
   "si": {
     "type": "language",
     "name": "සිංහල",
@@ -148,10 +158,5 @@
     "type": "language",
     "name": "Tiếng Việt",
     "is_root": false
-  },
-  "pra": {
-    "type": "language",
-    "name": "Prakrit",
-    "is_root": true
   }
 }
