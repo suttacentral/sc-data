@@ -4122,13 +4122,13 @@
     "author_name": "SV theravada.ru",
     "author_github_handle": "o28o",
     "text_uid": "an",
-    "translation_title": "",
-    "translation_subtitle": "",
+    "translation_title": "Ангуттара Никая: Номерные наставления Будды",
+    "translation_subtitle": "Перевод Ангуттара Никаи",
     "root_title": "Aṅguttaranikāya",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "translation_process": "Переводы соответствующих текстов выполнены SV с английского по переводам Бхиккху Бодхи. Данные для Bilara подготовили Татьяна Ремизова и Александр Рябец.",
+    "translation_description": "Переводы основных текстов Палийского Канона, опубликованные на сайте theravada.ru",
+    "is_published": true,
+    "publication_status": "Завершен",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
@@ -4138,7 +4138,7 @@
     "edition": [
       {
         "edition_number": "1",
-        "publication_date": "",
+        "publication_date": "2025",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/an"
@@ -4176,6 +4176,40 @@
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/"
+      }
+    ]
+  },
+  "scpub120": {
+    "publication_number": "scpub120",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "ру́сский язы́к",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/sv/sutta/kn/iti",
+    "author_uid": "sv",
+    "author_name": "SV theravada.ru",
+    "author_github_handle": "o28o",
+    "text_uid": "iti",
+    "translation_title": "Итивуттака",
+    "translation_subtitle": "Перевод Итивуттаки",
+    "root_title": "Itivuttaka",
+    "translation_process": "Переводы соответствующих текстов выполнены SV с английского по переводам Бхиккху Тханиссаро. Данные для Bilara подготовил Александр Рябец.",
+    "translation_description": "Переводы основных текстов Палийского Канона, опубликованные на сайте theravada.ru",
+    "is_published": true,
+    "publication_status": "Завершен",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Это перевод древних текстов, передаваемых в Буддистской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете копировать, адаптировать, изменять, иными словами использовать этот перевод. Единственное требование: эти тексты должны быть использованы в соответсвтии с ценностями и принципами Буддистского Сообщества."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/iti"
       }
     ]
   }
