@@ -408,13 +408,13 @@
     ]
   },
   "fr_ms_translation_sekha": {
-    "name": "French sutta translation Bhikkhu Sekha",
+    "name": "French sutta translation Rémy Zins",
     "root_path": "root/pli/ms/sutta",
     "translation_path": "translation/fr/sekha/sutta",
     "translation_muids": "translation-fr-sekha",
     "collaborator": [
       {
-        "author_github_handle": "BhikkhuSekha"
+        "author_github_handle": "LaniakeanDev"
       }
     ]
   },
@@ -602,6 +602,39 @@
     "collaborator": [
       {
         "author_github_handle": "kaz-kaz"
+      }
+    ]
+  },
+  "kan_blurb_translation": {
+    "name": "Kannada blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/kan/blurb",
+    "translation_muids": "translation-kan",
+    "collaborator": [
+      {
+        "author_github_handle": "vittal-namdas"
+      }
+    ]
+  },
+  "kan_localization": {
+    "name": "Kannada localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/kan/site",
+    "translation_muids": "translation-kan-site",
+    "collaborator": [
+      {
+        "author_github_handle": "vittal-namdas"
+      }
+    ]
+  },
+  "kan_names_translation": {
+    "name": "Kannada names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/kan/site",
+    "translation_muids": "translation-kan-site",
+    "collaborator": [
+      {
+        "author_github_handle": "vittal-namdas"
       }
     ]
   },

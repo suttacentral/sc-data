@@ -84,6 +84,11 @@
     "name": "日本語",
     "is_root": false
   },
+  "kan": {
+    "type": "language",
+    "name": "ಕನ್ನಡ",
+    "is_root": false
+  },
   "ko": {
     "type": "language",
     "name": "한국어/조선말",
