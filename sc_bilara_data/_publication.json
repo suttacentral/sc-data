@@ -4212,5 +4212,39 @@
         "edition_url": "https://suttacentral.net/iti"
       }
     ]
+  },
+  "scpub121": {
+    "publication_number": "scpub121",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "gsw",
+    "translation_lang_name": "Schweizerdeutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/gsw/flavio/sutta/kn/snp",
+    "author_uid": "flavio",
+    "author_name": "Flavio Stucky",
+    "author_github_handle": "sabbamitta",
+    "text_uid": "snp",
+    "translation_title": "D'Metta Sutta: Liäbi",
+    "translation_subtitle": "Übersetzung der Mettāsutta ins Züridütsch",
+    "root_title": "Suttanipāta",
+    "translation_process": "Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische und Sabbamittas deutsche Übersetzung sowie die digitale Mahāsaṅgīti-Ausgabe der Mettāsutta; bestehende deutsche sowie andere englische Übersetzungen wurden zu Referenzzwecken ebenfalls herangezogen.",
+    "translation_description": "Diese Übersetzung wurde gemacht, um die Mettāsutta ins Schweizerdeutsch, genauer ins Zürichdeutsch (Züridütsch), zeitgemäß und authentisch zu übersetzen. Schweizerdeutsch, genauer Zürichdeutsch. Die Übersetzung geht von Bhikkhu Sujatos englischer und Sabbamittas deutscher Übersetzung aus und hat auch den Palitext berücksichtigt.",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Der Übersetzer bittet höflich darum, dass jede Verwendung in Übereinstimmung mit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
+      }
+    ]
   }
 }

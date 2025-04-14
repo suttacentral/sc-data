@@ -302,6 +302,14 @@
     "creator_github_handle": "LaniakeanDev"
   },
   {
+    "project_uid": "gsw_ms_translation_flavio",
+    "name": "Schweizerdeutsch Mettāsutta translation by Flavio Stucky",
+    "root_path": "root/pli/ms/sutta/kn/snp",
+    "translation_path": "translation/gsw/flavio/sutta/kn/snp",
+    "translation_muids": "translation-gsw-flavio",
+    "creator_github_handle": "sabbamitta"
+  },
+  {
     "project_uid": "gu_ms_translation_trush",
     "name": "Gujarati translation Trushant Majmudar",
     "root_path": "root/pli/ms/sutta/mn",

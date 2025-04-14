@@ -59,6 +59,11 @@
     "name": "Français",
     "is_root": false
   },
+  "gsw": {
+    "type": "language",
+    "name": "Schweizerdeutsch",
+    "is_root": false
+  },
   "gu": {
     "type": "language",
     "name": "ગુજરાતી",

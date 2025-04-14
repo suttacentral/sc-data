@@ -418,6 +418,17 @@
       }
     ]
   },
+  "gsw_ms_translation_flavio": {
+    "name": "Schweizerdeutsch Mettāsutta translation by Flavio Stucky",
+    "root_path": "root/pli/ms/sutta/kn/snp",
+    "translation_path": "translation/gsw/flavio/sutta/kn/snp",
+    "translation_muids": "translation-gsw-flavio",
+    "collaborator": [
+      {
+        "author_github_handle": "sabbamitta"
+      }
+    ]
+  },
   "gu_ms_translation_trush": {
     "name": "Gujarati translation Trushant Majmudar",
     "root_path": "root/pli/ms/sutta/mn",
