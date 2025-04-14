@@ -4219,7 +4219,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "gsw",
     "translation_lang_name": "Schweizerdeutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/gsw/flavio/sutta/kn/snp",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/gsw/flavio/sutta/kn",
     "author_uid": "flavio",
     "author_name": "Flavio Stucky",
     "author_github_handle": "sabbamitta",
@@ -4229,7 +4229,7 @@
     "root_title": "Suttanipāta",
     "translation_process": "Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische und Sabbamittas deutsche Übersetzung sowie die digitale Mahāsaṅgīti-Ausgabe der Mettāsutta; bestehende deutsche sowie andere englische Übersetzungen wurden zu Referenzzwecken ebenfalls herangezogen.",
     "translation_description": "Diese Übersetzung wurde gemacht, um die Mettāsutta ins Schweizerdeutsch, genauer ins Zürichdeutsch (Züridütsch), zeitgemäß und authentisch zu übersetzen. Schweizerdeutsch, genauer Zürichdeutsch. Die Übersetzung geht von Bhikkhu Sujatos englischer und Sabbamittas deutscher Übersetzung aus und hat auch den Palitext berücksichtigt.",
-    "is_published": false,
+    "is_published": true,
     "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -4239,8 +4239,8 @@
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
+        "edition_number": "1",
+        "publication_date": "2025",
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/snp"

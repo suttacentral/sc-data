@@ -304,8 +304,8 @@
   {
     "project_uid": "gsw_ms_translation_flavio",
     "name": "Schweizerdeutsch Mettāsutta translation by Flavio Stucky",
-    "root_path": "root/pli/ms/sutta/kn/snp",
-    "translation_path": "translation/gsw/flavio/sutta/kn/snp",
+    "root_path": "root/pli/ms/sutta/kn",
+    "translation_path": "translation/gsw/flavio/sutta/kn",
     "translation_muids": "translation-gsw-flavio",
     "creator_github_handle": "sabbamitta"
   },

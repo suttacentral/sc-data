@@ -2971,7 +2971,7 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "gsw",
     "translation_lang_name": "Schweizerdeutsch",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/gsw/flavio/sutta/kn/snp",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/gsw/flavio/sutta/kn",
     "creator_uid": "flavio",
     "creator_name": "Flavio Stucky",
     "creator_github_handle": "sabbamitta",
@@ -2981,13 +2981,13 @@
     "root_title": "Suttanipāta",
     "creation_process": "Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische und Sabbamittas deutsche Übersetzung sowie die digitale Mahāsaṅgīti-Ausgabe der Mettāsutta; bestehende deutsche sowie andere englische Übersetzungen wurden zu Referenzzwecken ebenfalls herangezogen.",
     "text_description": "Diese Übersetzung wurde gemacht, um die Mettāsutta ins Schweizerdeutsch, genauer ins Zürichdeutsch (Züridütsch), zeitgemäß und authentisch zu übersetzen. Schweizerdeutsch, genauer Zürichdeutsch. Die Übersetzung geht von Bhikkhu Sujatos englischer und Sabbamittas deutscher Übersetzung aus und hat auch den Palitext berücksichtigt.",
-    "is_published": false,
+    "is_published": true,
     "publication_status": "",
     "license_type": "Creative Commons Zero",
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Der Übersetzer bittet höflich darum, dass jede Verwendung in Übereinstimmung mit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt.",
-    "first_published": "",
+    "first_published": "2025",
     "editions_url": "https://suttacentral.net/snp"
   }
 ]
