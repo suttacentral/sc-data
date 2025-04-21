@@ -282,6 +282,12 @@
     "iso_code": "fr"
   },
   {
+    "uid": "gsw",
+    "name": "Schweizerdeutsch",
+    "is_root": false,
+    "iso_code": "gsw"
+  },
+  {
     "uid": "haw",
     "name": "ʻŌlelo Hawaiʻi",
     "is_root": false,
