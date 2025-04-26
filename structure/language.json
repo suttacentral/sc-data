@@ -264,6 +264,12 @@
     "iso_code": "es"
   },
   {
+    "uid": "et",
+    "name": "Eesti keel",
+    "is_root": false,
+    "iso_code": "et"
+  },
+  {
     "uid": "fa",
     "name": "فارسی",
     "is_root": false,
