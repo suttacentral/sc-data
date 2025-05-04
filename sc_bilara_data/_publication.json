@@ -4314,5 +4314,39 @@
         "edition_url": "https://suttacentral.net/ud"
       }
     ]
+  },
+  "scpub124": {
+    "publication_number": "scpub124",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "sr",
+    "translation_lang_name": "Srpski",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/sr/brankokovacevic/sutta/kn/snp",
+    "author_uid": "brankokovacevic",
+    "author_name": "Branislav Kovačević",
+    "author_github_handle": "Bundi-py",
+    "text_uid": "snp",
+    "translation_title": "Antologija Budinih govora",
+    "translation_subtitle": "",
+    "root_title": "Suttanipāta",
+    "translation_process": "Prevod je rađen na osnovu Mahāsaṅgīti izdanja Tipiṭake, dakle sa palija, uz konsultovanje već postojećih prevoda na engleski, koje su načinili K. R. Norman, Hammalawa Saddhatissa, Bhikkhu Bodhi, Ajahn Sujato i Thanissaro Bhikkhu.",
+    "translation_description": "Ovaj prevod je deo višegodišnjeg projekta prevoda četiri nikāye u okviru budističkog Pali kanona, sa ciljem da po prvi put omogući zainteresovanima čitanje Budinih govora u srpskom prevodu, potpuno besplatno.",
+    "is_published": true,
+    "publication_status": "Prevod završen. Revizija prevoda u toku.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Ovaj prevod je verzija drevnog duhovnog teksta koji je budistička tradicija prenosila za dobrobit svih živih bića. Predat je u javno vlasništvo putem Creative Commons Zero (CC0) licence. Pozivamo vas da kopirate, reprodukujete, prilagođavate, menjate ili na drugi način koristite ovaj prevod. Prevodilac zahteva da svaka buduća upotreba teksta bude u skladu sa vrednostima i principima budističke zajednice."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/snp"
+      }
+    ]
   }
 }
