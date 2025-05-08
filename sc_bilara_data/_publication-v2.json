@@ -3064,5 +3064,30 @@
     "license_statement": "Ovaj prevod je verzija drevnog duhovnog teksta koji je budistička tradicija prenosila za dobrobit svih živih bića. Predat je u javno vlasništvo putem Creative Commons Zero (CC0) licence. Pozivamo vas da kopirate, reprodukujete, prilagođavate, menjate ili na drugi način koristite ovaj prevod. Prevodilac zahteva da svaka buduća upotreba teksta bude u skladu sa vrednostima i principima budističke zajednice.",
     "first_published": "2025",
     "editions_url": "https://suttacentral.net/snp"
+  },
+  {
+    "publication_number": "scpub125",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "it",
+    "translation_lang_name": "Italiano",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/it/giovannizappa/sutta/sn",
+    "creator_uid": "giovannizappa",
+    "creator_name": "Giovanni Zappa",
+    "creator_github_handle": "gioz93",
+    "text_uid": "sn",
+    "translation_title": "Discorsi connessi",
+    "translation_subtitle": "Traduzione del Saṃyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
+    "creation_process": "La fonte primaria è la traduzione in lingua inglese di Bhikkhu Sujato, e dove necessario altre varie traduzioni inglesi, pur sempre mantenendo riferimento all’originale in Pali.",
+    "text_description": "Questo testo è parte di un progetto volto a pubblicare traduzioni dei quattro Nikāya che rispettino il più possibile l’originale in Pali, pur usando termini e stile adatti al lettore moderno.",
+    "is_published": true,
+    "publication_status": "Completato, revisione in corso.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "Questa traduzione è l’espressione di un testo spirituale antico, tramandato dalla tradizione Buddhista a beneficio di tutti gli esseri viventi. È affidata al dominio pubblico attraverso Creative Commons Zero (CC0). Siete invitati a copiare, riprodurre, adattare, modificare, o in ogni modo a fare uso di questa traduzione. Il traduttore chiede gentilmente che ogni utilizzo sia in linea con i valori e i principi della comunità Buddhista.",
+    "first_published": "2025",
+    "editions_url": "https://suttacentral.net/sn"
   }
 ]
