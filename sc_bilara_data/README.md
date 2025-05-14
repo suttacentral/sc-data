@@ -222,7 +222,7 @@ an11.6:1.1": "etthantare pāṭho si, sya-all, km, pts-vp-pli1ed potthakesu na
 
 The reference files contain detailed references to over a dozen editions of the Pali canon. These were originally collated by the Dhamma Society for their Mahsaṅgīti edition, and have been supplemented by SuttaCentral.
 
-The full forms of the abbreviations may be found in `pali_edition.json`.
+The full forms of the abbreviations may be found in `sc-data/misc/root_edition.json`.
 
 ## GitHub Actions
 
