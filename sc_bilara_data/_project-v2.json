@@ -451,7 +451,10 @@
     "root_path": "root/en/blurb",
     "translation_path": "translation/kan/blurb",
     "translation_muids": "translation-kan",
-    "creator_github_handle": "vittal-namdas"
+    "creator_github_handle": [
+      "vittal-namdas",
+      "akileshv"
+    ]
   },
   {
     "project_uid": "kan_localization",
@@ -459,7 +462,10 @@
     "root_path": "root/en/site",
     "translation_path": "translation/kan/site",
     "translation_muids": "translation-kan-site",
-    "creator_github_handle": "vittal-namdas"
+    "creator_github_handle": [
+      "vittal-namdas",
+      "akileshv"
+    ]
   },
   {
     "project_uid": "kan_names_translation",
@@ -467,7 +473,10 @@
     "root_path": "root/misc/site",
     "translation_path": "translation/kan/site",
     "translation_muids": "translation-kan-site",
-    "creator_github_handle": "vittal-namdas"
+    "creator_github_handle": [
+      "vittal-namdas",
+      "akileshv"
+    ]
   },
   {
     "project_uid": "ko_blurb_translation",
