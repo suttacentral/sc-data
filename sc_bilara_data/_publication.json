@@ -3983,27 +3983,27 @@
     "author_uid": "font",
     "author_name": "Bernat Font",
     "author_github_handle": "BernatFontClos",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "sn",
+    "translation_title": "Discursos conectados",
+    "translation_subtitle": "Una traducción del Saṁyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "Se ha partido del texto pali disponible en SuttaCentral —la edición Mahāsaṅgīti digital— consultando variantes textuales y, ocasionalmente, los comentarios. La traducción ha sido revisada por Aleix Ruiz-Falqués.",
+    "translation_description": "Este proyecto surge ante la escasez de traducciones de suttas directas del pali, sistemáticas, completas y digitales. Por ello, se ha reducido al mínimo la influencia de versiones inglesas existentes, buscando expresiones naturales, accesibles y, en la medida de lo posible, comprensibles en todo el ambito hispanohablante. Ha contado con el apoyo de Hemera Foundation y el Insight Meditation Center en Redwood City, California.",
+    "is_published": true,
+    "publication_status": "Finalizada.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
+      "license_statement": "Esta traducción transmite un antiguo texto espiritual que ha sido transmitido por la tradición budista para el beneficio de todos los seres sintientes. Se dedica al dominio público mediante la licencia Creative Commons Zero (CC0). Se alienta a copiar, reproducir, adaptar, modificar o utilizar esta traducción de cualquier otra forma. El traductor solicita respetuosamente que cualquier uso se haga de acuerdo con los valores y principios de la comunidad budista."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
+        "edition_number": "1",
+        "publication_date": "2025",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": ""
+        "edition_url": "https://suttacentral.net/sn"
       }
     ]
   },
