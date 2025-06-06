@@ -1142,6 +1142,17 @@
       }
     ]
   },
+  "tr_ms_translation_dogensisapa": {
+    "name": "Türkçe translation Dōgen Sisapa",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/dogensisapa/sutta",
+    "translation_muids": "translation-tr-dogensisapa",
+    "collaborator": [
+      {
+        "author_github_handle": "DogenSisapa"
+      }
+    ]
+  },
   "vi_blurb_translation": {
     "name": "Vietnamese blurb translation",
     "root_path": "root/en/blurb",
