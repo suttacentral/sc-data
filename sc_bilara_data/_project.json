@@ -374,6 +374,17 @@
       }
     ]
   },
+  "fr_ms_translation_christelle": {
+    "name": "French sutta translation Christelle Ah-Mouck",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/christelle/sutta",
+    "translation_muids": "translation-fr-christelle",
+    "collaborator": [
+      {
+        "author_github_handle": "ChristelleAh-Mouck"
+      }
+    ]
+  },
   "fr_ms_translation_cittadhammo": {
     "name": "French sutta translation Cittadhammo Bhikkhu",
     "root_path": "root/pli/ms/sutta",
