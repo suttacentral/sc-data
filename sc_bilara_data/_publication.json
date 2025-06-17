@@ -4389,31 +4389,31 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "tr",
     "translation_lang_name": "Türkçe",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/tr/dogensisapa/sutta",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/tr/dogensisapa/sutta/kn/thig",
     "author_uid": "dogensisapa",
     "author_name": "Dōgen Sisapa",
     "author_github_handle": "DogenSisapa",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "thig",
+    "translation_title": "Kıdemli Dervişelerin Şarkıları",
+    "translation_subtitle": "Therīgāthā Çevirisi",
+    "root_title": "Therīgāthā",
+    "translation_process": "Pali Tipiṭaka Dijital Mahāsaṅgīti edisyonu baz alınmıştır. Pali aslından, Bhikkhu Sujato, Bhikkhuni Soma, Bhikkhu Mahinda ve K.R. Norman çalışmalarından yararlanılarak çevirilmiştir.",
+    "translation_description": "Kıdemli dervişelerin dizelerinin yer aldığı Therīgāthā, melodik kaygılarla doktrinal sadaket bir arada götürülerek, Pali ifadelere olabildiğince sadık kalınarak, şiirsel akıntı içerisinde modern Türkçe’ye çevirilmiştir.",
+    "is_published": true,
+    "publication_status": "2024-2025 tarihlerinde tamamlanmıştır. Revizyon ve önerilere açıktır.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
+      "license_statement": "Tüm varlıkların yararına armağan edilen bu çeviri, Budist geleneği tarafından aktarılan kadim bir manevi metnin ifadesidir. Creative Commons Zero (CC0) aracılığıyla kamuya mal edilmiştir. Bu çeviriyi kopyalamanız, çoğaltmanız, uyarlamanız, değiştirmeniz veya başka şekillerde kullanmanız teşvik edilmektedir. Bu metnin kullanımının Budist toplulukların manevi değer ve ilkeleriyle uyumlu olmasını saygıyla rica ederiz."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
+        "edition_number": "1",
+        "publication_date": "2025",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": ""
+        "edition_url": "https://suttacentral.net/thig"
       }
     ]
   },
