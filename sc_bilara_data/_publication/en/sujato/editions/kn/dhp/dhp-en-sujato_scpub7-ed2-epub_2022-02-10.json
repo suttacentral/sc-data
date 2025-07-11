@@ -37,14 +37,14 @@
         "./matter/foreword.html",
         "./matter/preface.html",
         "./matter/introduction.html",
-        "./matter/acknowledgements.html"
+        "./matter/acknowledgements.html",
+        "imprint"
       ],
       "mainmatter": [
         "dhp"
       ],
       "backmatter": [
-        "colophon",
-        "imprint"
+        "colophon"
       ]
     }
   ]
