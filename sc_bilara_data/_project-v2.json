@@ -719,7 +719,10 @@
     "root_path": "root/pli/ms/sutta/kn",
     "translation_path": "translation/ru/narinyanievmenenko/sutta/kn",
     "translation_muids": "translation-ru-narinyanievmenenko",
-    "creator_github_handle": "neptunao"
+    "creator_github_handle": [
+      "neptunao",
+	  "Korramrmr"
+    ]
   },
   {
     "project_uid": "ru_ms_translation_sv",
@@ -729,7 +732,8 @@
     "translation_muids": "translation-ru-sv",
     "creator_github_handle": [
       "o28o",
-      "neptunao"
+      "neptunao",
+	  "Korramrmr"
     ]
   },
   {
