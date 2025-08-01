@@ -801,6 +801,14 @@
     "creator_github_handle": "upasaka76601"
   },
   {
+    "project_uid": "th_ms_translation_dhiranandi",
+    "name": "Thai translation Dhīranandī",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/th/dhiranandi/sutta",
+    "translation_muids": "translation-th-dhiranandi",
+    "creator_github_handle": "Dhiranandi"
+  },
+  {
     "project_uid": "th_ms_translation_jayasaro",
     "name": "Thai Vinaya translation Jayasāro Bhikkhu",
     "root_path": "root/pli/ms/vinaya",
