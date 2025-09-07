@@ -4461,27 +4461,27 @@
     "author_uid": "dhiranandi",
     "author_name": "Dhīranandī",
     "author_github_handle": "Dhiranandi",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "snp",
+    "translation_title": "สุตตนิบาต",
+    "translation_subtitle": "สุตตนิบาต ฉบับแปลไทยสำหรับผู้เริ่มศึกษา",
+    "root_title": "Suttanipāta",
+    "translation_process": "แปลจากฉบับภาษาอังกฤษของ Bhante Sujato เป็นหลัก ซึ่ง Bhante แปลจากภาษาบาลี ฉบับมหาสังคีติ และเลือกแปลแบบประโยคต่อประโยค ไม่ใช่คำต่อคำ เพราะคำศัพท์แต่ละคำไม่มีแก่นแท้ในตัวเองหากปราศจากบริบทของประโยค",
+    "translation_description": "โครงการแปลครั้งนี้มุ่งรักษาใจความสำคัญของต้นฉบับ พร้อมปรับถ้อยคำสำนวนให้เหมาะสมกับยุคสมัยเพื่อให้คนรุ่นใหม่เข้าถึงพระธรรมได้ง่ายขึ้น ภาคภาษาไทยฉบับนี้จึงไม่ใช่เป็นงานวิชาการ แต่มีจุดหมายเพียงเพื่อเป็นข้อมูลที่จะช่วยให้เกิดความกระจ่างในพระธรรมคำสอนขึ้นสักเล็กน้อย พร้อมจุดประกายแรงบันดาลใจ ท้าทายความคิดผู้อ่านให้พิจารณาเห็นธรรมะว่าเป็นสิ่งที่เป็นประโยชน์กับคนทุกวัย ทุกยุคทุกสมัย",
+    "is_published": true,
+    "publication_status": "อยู่ระหว่างการแปล",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
+      "license_statement": "งานแปลนี้เป็นการถ่ายทอดพระธรรมคำสอนอันเก่าแก่ของพระพุทธศาสนาเพื่อประโยชน์แก่มนุษย์เราทั้งหลาย โดยขออุทิศให้เป็นสมบัติสาธารณะภายใต้สัญญาอนุญาต Creative Commons Zero (CC0) ท่านสามารถคัดลอก เผยแพร่ ดัดแปลง หรือปรับใช้เนื้อหานี้ได้ตามความเหมาะสม ทั้งนี้ ผู้แปลขอให้ผู้นำไปใช้กรุณาดำเนินการโดยเคารพต่อคุณค่าและหลักการแห่งพระพุทธศาสนา"
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
+        "edition_number": "1",
+        "publication_date": "2025",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": ""
+        "edition_url": "https://suttacentral.net/snp"
       }
     ]
   }
