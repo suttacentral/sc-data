@@ -1051,9 +1051,9 @@
       }
     ]
   },
-  "si_vri_translation_karunika": {
+  "si_ms_translation_karunika": {
     "name": "Sinhala translation Vinaya",
-    "root_path": "root/pli/vri/vinaya",
+    "root_path": "root/pli/ms/vinaya",
     "translation_path": "translation/si/karunika/vinaya",
     "translation_muids": "translation-si-karunika",
     "collaborator": [
