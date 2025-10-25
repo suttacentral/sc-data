@@ -4620,5 +4620,39 @@
         "edition_url": "https://suttacentral.net/mn"
       }
     ]
+  },
+  "scpub133": {
+    "publication_number": "scpub133",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sonjabuege/sutta/kn",
+    "author_uid": "sonjabuege",
+    "author_name": "Sonja Büge",
+    "author_github_handle": "Kazeni-sawaru",
+    "text_uid": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/"
+      }
+    ]
   }
 }

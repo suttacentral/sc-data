@@ -56,6 +56,14 @@
     "creator_github_handle": "sabbamitta"
   },
   {
+    "project_uid": "de_ms_translation_sonjabuege",
+    "name": "German translation Sonja Büge",
+    "root_path": "root/pli/ms/sutta/kn",
+    "translation_path": "translation/de/sonjabuege/sutta/kn",
+    "translation_muids": "translation-de-sonjabuege",
+    "creator_github_handle": "Kazeni-sawaru"
+  },
+  {
     "project_uid": "en_ms_translation_brahmali",
     "name": "English translation Bhikkhu Brahmali",
     "root_path": "root/pli/ms/vinaya",
