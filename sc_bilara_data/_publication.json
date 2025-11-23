@@ -4631,27 +4631,27 @@
     "author_uid": "sonjabuege",
     "author_name": "Sonja Büge",
     "author_github_handle": "Kazeni-sawaru",
-    "text_uid": "",
-    "translation_title": "",
-    "translation_subtitle": "",
-    "root_title": "",
-    "translation_process": "",
-    "translation_description": "",
-    "is_published": false,
-    "publication_status": "",
+    "text_uid": "thig",
+    "translation_title": "Strophen der altehrwürdigen Nonnen",
+    "translation_subtitle": "Eine Übersetzung des Therīgāthā",
+    "root_title": "Therīgāthā",
+    "translation_process": "Die Initiative für diese Übersetzung ging von Prof. Dr. Ulrike Niklas, Universität zu Köln, aus, bei der ich Pali und Sanskrit studiert habe. Als Basistext für die Übersetzung habe ich die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka benutzt und direkt aus dem Pali übersetzt.",
+    "translation_description": "Mein Ziel war die Erstellung einer möglichst wissenschaftlichen Übersetzung sowie leichte Verständlichkeit und Lesbarkeit des Textes.",
+    "is_published": true,
+    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
     "license": {
       "license_type": "Creative Commons Zero",
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "license_statement": ""
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
     },
     "edition": [
       {
-        "edition_number": "",
-        "publication_date": "",
+        "edition_number": "1",
+        "publication_date": "2025",
         "publisher": "SuttaCentral",
         "publication_type": "website",
-        "edition_url": "https://suttacentral.net/"
+        "edition_url": "https://suttacentral.net/thig"
       }
     ]
   },
