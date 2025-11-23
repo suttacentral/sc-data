@@ -294,6 +294,17 @@
       }
     ]
   },
+  "et_ms_translation_mgvali": {
+    "name": "Estonian translation Margus Väli",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/et/mgvali/sutta",
+    "translation_muids": "translation-et-mgvali",
+    "collaborator": [
+      {
+        "author_github_handle": "margusvali2"
+      }
+    ]
+  },
   "et_ms_translation_thitanana": {
     "name": "Estonian translation Ṭhitañāṇa Bhikkhu",
     "root_path": "root/pli/ms/sutta",
@@ -984,6 +995,17 @@
     "collaborator": [
       {
         "author_github_handle": "timtim-ww"
+      }
+    ]
+  },
+  "ru_ms_translation_khantibalo": {
+    "name": "Russian translation Khantibalo",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ru/khantibalo/sutta",
+    "translation_muids": "translation-ru-khantibalo",
+    "collaborator": [
+      {
+        "author_github_handle": "neptunao"
       }
     ]
   },

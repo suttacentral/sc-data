@@ -211,6 +211,14 @@
     "creator_github_handle": "vensumano"
   },
   {
+    "project_uid": "et_ms_translation_mgvali",
+    "name": "Estonian translation Margus Väli",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/et/mgvali/sutta",
+    "translation_muids": "translation-et-mgvali",
+    "creator_github_handle": "margusvali2"
+  },
+  {
     "project_uid": "et_ms_translation_thitanana",
     "name": "Estonian translation Ṭhitañāṇa Bhikkhu",
     "root_path": "root/pli/ms/sutta",
@@ -720,6 +728,14 @@
     "translation_path": "translation/ru/site",
     "translation_muids": "translation-ru-site",
     "creator_github_handle": "timtim-ww"
+  },
+  {
+    "project_uid": "ru_ms_translation_khantibalo",
+    "name": "Russian translation Khantibalo",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ru/khantibalo/sutta",
+    "translation_muids": "translation-ru-khantibalo",
+    "creator_github_handle": "neptunao"
   },
   {
     "project_uid": "ru_ms_translation_narinyanievmenenko",
