@@ -1095,6 +1095,39 @@
       }
     ]
   },
+  "sr_blurb_translation": {
+    "name": "Serbian blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/sr/blurb",
+    "translation_muids": "translation-sr",
+    "collaborator": [
+      {
+        "author_github_handle": "Bundi-py"
+      }
+    ]
+  },
+  "sr_localization": {
+    "name": "Serbian localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/sr/site",
+    "translation_muids": "translation-sr-site",
+    "collaborator": [
+      {
+        "author_github_handle": "Bundi-py"
+      }
+    ]
+  },
+  "sr_names_translation": {
+    "name": "Serbian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/sr/site",
+    "translation_muids": "translation-sr-site",
+    "collaborator": [
+      {
+        "author_github_handle": "Bundi-py"
+      }
+    ]
+  },
   "sr_ms_translation_brankokovacevic": {
     "name": "Serbian translation Branko Kovačević",
     "root_path": "root/pli/ms/sutta",
