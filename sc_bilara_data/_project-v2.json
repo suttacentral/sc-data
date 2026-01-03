@@ -56,6 +56,14 @@
     "creator_github_handle": "sabbamitta"
   },
   {
+    "project_uid": "de_ms_translation_sonjabuege",
+    "name": "German translation Sonja Büge",
+    "root_path": "root/pli/ms/sutta/kn",
+    "translation_path": "translation/de/sonjabuege/sutta/kn",
+    "translation_muids": "translation-de-sonjabuege",
+    "creator_github_handle": "Kazeni-sawaru"
+  },
+  {
     "project_uid": "en_ms_translation_brahmali",
     "name": "English translation Bhikkhu Brahmali",
     "root_path": "root/pli/ms/vinaya",
@@ -201,6 +209,14 @@
     "translation_path": "translation/es/sumano/vinaya",
     "translation_muids": "translation-es-sumano",
     "creator_github_handle": "vensumano"
+  },
+  {
+    "project_uid": "et_ms_translation_mgvali",
+    "name": "Estonian translation Margus Väli",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/et/mgvali/sutta",
+    "translation_muids": "translation-et-mgvali",
+    "creator_github_handle": "margusvali2"
   },
   {
     "project_uid": "et_ms_translation_thitanana",
@@ -714,6 +730,14 @@
     "creator_github_handle": "timtim-ww"
   },
   {
+    "project_uid": "ru_ms_translation_khantibalo",
+    "name": "Russian translation Khantibalo",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ru/khantibalo/sutta",
+    "translation_muids": "translation-ru-khantibalo",
+    "creator_github_handle": "neptunao"
+  },
+  {
     "project_uid": "ru_ms_translation_narinyanievmenenko",
     "name": "Russian translation",
     "root_path": "root/pli/ms/sutta/kn",
@@ -767,6 +791,38 @@
     "translation_path": "translation/si/madhu/sutta",
     "translation_muids": "translation-si-madhu",
     "creator_github_handle": "Madhu-metta"
+  },
+  {
+    "project_uid": "si_ms_translation_karunika",
+    "name": "Sinhala translation Vinaya",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/si/karunika/vinaya",
+    "translation_muids": "translation-si-karunika",
+    "creator_github_handle": "VenKarunika"
+  },
+  {
+    "project_uid": "sr_blurb_translation",
+    "name": "Serbian blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/sr/blurb",
+    "translation_muids": "translation-sr",
+    "creator_github_handle": "Bundi-py"
+  },
+  {
+    "project_uid": "sr_localization",
+    "name": "Serbian localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/sr/site",
+    "translation_muids": "translation-sr-site",
+    "creator_github_handle": "Bundi-py"
+  },
+  {
+    "project_uid": "sr_names_translation",
+    "name": "Serbian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/sr/site",
+    "translation_muids": "translation-sr-site",
+    "creator_github_handle": "Bundi-py"
   },
   {
     "project_uid": "sr_ms_translation_brankokovacevic",

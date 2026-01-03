@@ -5,6 +5,8 @@ This repository contains the published and unpublished translations, root texts,
 - The `published` branch is the main branch and contains finished translations and other texts. **Use `published` branch for any form of publishing**. In software terms it can be considered to be “stable”. 
 - The `unpublished` branch contains translations which are still in progress. **Do not use material from `unpublished` except for internal SuttaCentral uses.** In software terms it can be considered to be the “develop” branch. There should be no data integrity issues but there are no guarantees about the content. 
 
+:pushpin: **Note:** Please report _translation typos_ in the pinned thread in the [Feedback category of our forum](https://discourse.suttacentral.net/c/feedback/19)
+
 ###### Table of Contents
 
 - [Warning](#warning)

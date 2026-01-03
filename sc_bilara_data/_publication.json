@@ -3819,7 +3819,7 @@
     "root_title": "Dīghanikāya",
     "translation_process": "Переводы выпополнены с Пали на Русский язык. Данные для Bilara подготовил Павел Каторгин.",
     "translation_description": "Перевод, основных текстов Палийского Канона, которые опубликованы на сайте theravada.ru. Перевод, основных текстов Палийского Канона, подготовленный А. Я. Сыркиным.",
-    "is_published": true,
+    "is_published": false,
     "publication_status": "Завершен / Complete.",
     "license": {
       "license_type": "Creative Commons Zero",
@@ -4482,6 +4482,244 @@
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": "https://suttacentral.net/snp"
+      }
+    ]
+  },
+  "scpub129": {
+    "publication_number": "scpub129",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "th",
+    "translation_lang_name": "ไทย",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/th/dhiranandi/sutta",
+    "author_uid": "dhiranandi",
+    "author_name": "Dhīranandī",
+    "author_github_handle": "Dhiranandi",
+    "text_uid": "mn",
+    "translation_title": "มัชฌิมนิกาย",
+    "translation_subtitle": "ฉบับแปลไทยสำหรับผู้เริ่มศึกษา",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "แปลจากต้นฉบับภาษาอังกฤษของ Bhante Sujato เป็นหลัก (ซึ่งแปลจากภาษาบาลี ฉบับมหาสังคีติ) พร้อมทั้งอ้างอิงฉบับแปลภาษาอังกฤษอื่น ๆ อีกหลายฉบับ โดยเฉพาะฉบับของ Bhikkhu Bodhi ตลอดจนฉบับแปลภาษาไทยที่มีเผยแพร่ทางออนไลน์",
+    "translation_description": "โครงการแปลครั้งนี้มุ่งรักษาใจความสำคัญของต้นฉบับ พร้อมปรับถ้อยคำสำนวนให้เหมาะสมกับยุคสมัยเพื่อให้คนรุ่นใหม่เข้าถึงพระธรรมได้ง่ายขึ้น ภาคภาษาไทยฉบับนี้จึงไม่ใช่เป็นงานวิชาการ แต่มีจุดหมายเพียงเพื่อเป็นข้อมูลที่จะช่วยให้เกิดความกระจ่างในพระธรรมคำสอนขึ้นสักเล็กน้อย พร้อมจุดประกายแรงบันดาลใจ ท้าทายความคิดผู้อ่านให้พิจารณาเห็นธรรมะว่าเป็นสิ่งที่เป็นประโยชน์กับคนทุกวัย ทุกยุคทุกสมัย",
+    "is_published": true,
+    "publication_status": "อยู่ระหว่างการแปล",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "งานแปลนี้เป็นการถ่ายทอดพระธรรมคำสอนอันเก่าแก่ของพระพุทธศาสนาเพื่อประโยชน์แก่มนุษย์เราทั้งหลาย โดยขออุทิศให้เป็นสมบัติสาธารณะภายใต้สัญญาอนุญาต Creative Commons Zero (CC0) ท่านสามารถคัดลอก เผยแพร่ ดัดแปลง หรือปรับใช้เนื้อหานี้ได้ตามความเหมาะสม ทั้งนี้ ผู้แปลขอให้ผู้นำไปใช้กรุณาดำเนินการโดยเคารพต่อคุณค่าและหลักการแห่งพระพุทธศาสนา"
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub130": {
+    "publication_number": "scpub130",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "si",
+    "translation_lang_name": "සිංහල",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/si/karunika/vinaya",
+    "author_uid": "karunika",
+    "author_name": "Ayyā Kāruṇikā, Ayyā Therikā",
+    "author_github_handle": "VenKarunika",
+    "text_uid": "pli-tv-bi-pm",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub131": {
+    "publication_number": "scpub131",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "si",
+    "translation_lang_name": "සිංහල",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/si/karunika/vinaya",
+    "author_uid": "karunika",
+    "author_name": "Ayyā Kāruṇikā, Ayyā Therikā",
+    "author_github_handle": "VenKarunika",
+    "text_uid": "pli-tv-bi-vb",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "",
+        "publication_type": "",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub132": {
+    "publication_number": "scpub132",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fr",
+    "translation_lang_name": "Français",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/fr/christelle/sutta",
+    "author_uid": "christelle",
+    "author_name": "Christelle Ah-Mouck",
+    "author_github_handle": "ChristelleAh-Mouck",
+    "text_uid": "mn",
+    "translation_title": "Discours de Longueur Moyenne",
+    "translation_subtitle": "Une traduction du Majjhima Nikāya",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "La source principale est la version anglaise de Bhante Sujato. Traduite de l’anglais au français.",
+    "translation_description": "Traduction de l’anglais au français.",
+    "is_published": true,
+    "publication_status": "Cette traduction est provisoire et sujette à des modifications ultérieures.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub133": {
+    "publication_number": "scpub133",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "de",
+    "translation_lang_name": "Deutsch",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/de/sonjabuege/sutta/kn",
+    "author_uid": "sonjabuege",
+    "author_name": "Sonja Büge",
+    "author_github_handle": "Kazeni-sawaru",
+    "text_uid": "thig",
+    "translation_title": "Strophen der altehrwürdigen Nonnen",
+    "translation_subtitle": "Eine Übersetzung des Therīgāthā",
+    "root_title": "Therīgāthā",
+    "translation_process": "Die Initiative für diese Übersetzung ging von Prof. Dr. Ulrike Niklas, Universität zu Köln, aus, bei der ich Pali und Sanskrit studiert habe. Als Basistext für die Übersetzung habe ich die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka benutzt und direkt aus dem Pali übersetzt.",
+    "translation_description": "Mein Ziel war die Erstellung einer möglichst wissenschaftlichen Übersetzung sowie leichte Verständlichkeit und Lesbarkeit des Textes.",
+    "is_published": true,
+    "publication_status": "Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Diese Übersetzung ist Ausdruck eines alten spirituellen Textes, der von der buddhistischen Tradition für das Wohl aller Lebewesen weitergegeben wurde. Er ist dem öffentlichen Besitz gewidmet in Form von „Creative Commons Zero (CC0 1.0 Universal)“. Es steht Ihnen frei, diese Übersetzung zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden. Die Übersetzerin bittet höflich darum, dass jede Verwendung in Übereinstimmungmit den Werten und Grundsätzen der buddhistischen Gemeinschaft erfolgt."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/thig"
+      }
+    ]
+  },
+  "scpub134": {
+    "publication_number": "scpub134",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "ру́сский язы́к",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/khantibalo/sutta/dn",
+    "author_uid": "khantibalo",
+    "author_name": "Khantibalo",
+    "author_github_handle": "neptunao",
+    "text_uid": "dn",
+    "translation_title": "Дигха Никая: Собрание длинных наставлений",
+    "translation_subtitle": "Перевод Дигха Никаи",
+    "root_title": "Dīghanikāya",
+    "translation_process": "Перевод khantibalo на основе палийского оригинала и одного или нескольких переводов на английский. Данные для Bilara подготовил Александр Рябец.",
+    "translation_description": "Переводы основных текстов Палийского Канона, опубликованные на сайте https://tipitaka.theravada.su/",
+    "is_published": false,
+    "publication_status": "В процессе",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Это перевод древних текстов, передаваемых в Буддистской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете копировать, адаптировать, изменять, иными словами использовать этот перевод. Единственное требование: эти тексты должны быть использованы в соответсвтии с ценностями и принципами Буддистского Сообщества."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2025",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/dn"
+      }
+    ]
+  },
+  "scpub135": {
+    "publication_number": "scpub135",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "et",
+    "translation_lang_name": "Eesti keel",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/et/mgvali/sutta",
+    "author_uid": "mgvali",
+    "author_name": "Margus Väli",
+    "author_github_handle": "margusvali2",
+    "text_uid": "",
+    "translation_title": "",
+    "translation_subtitle": "",
+    "root_title": "",
+    "translation_process": "",
+    "translation_description": "",
+    "is_published": false,
+    "publication_status": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "edition": [
+      {
+        "edition_number": "",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": ""
       }
     ]
   }
