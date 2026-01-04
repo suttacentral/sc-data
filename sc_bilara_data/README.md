@@ -9,7 +9,6 @@ This respository is monitered by Bilara's admin team, who manage the publication
 ###### Table of Contents
 
 - [Branches](#branches)
-- [Warning](#warning)
 - [How it works](#how-it-works)
 - [Publication](#publication)
 - [Inline markup](#inline-markup)
@@ -19,7 +18,7 @@ This respository is monitered by Bilara's admin team, who manage the publication
   - [Variant readings](#variant-readings)
   - [References](#references)
 
-# Branches
+## Branches
 
 - The `published` branch is the main branch and contains finished translations and other texts. **The `published` branch is used for any form of publishing**. In software terms it can be considered to be “stable”. 
 - The `unpublished` branch contains translations which are still in progress. **The `unpublished` branch is used for internal SuttaCentral uses.** In software terms it can be considered to be the “develop” branch. There should be no data integrity issues but there are no guarantees about the content. 
