@@ -583,11 +583,11 @@
     "creator_github_handle": "amaung"
   },
   {
-    "project_uid": "my_ms_translation_my~team",
+    "project_uid": "my_ms_translation_myteam",
     "name": "Burmese translation",
     "root_path": "root/pli/ms/sutta/dn",
-    "translation_path": "translation/my/my~team/sutta/dn",
-    "translation_muids": "translation-my-my~team",
+    "translation_path": "translation/my/myteam/sutta/dn",
+    "translation_muids": "translation-my-myteam",
     "creator_github_handle": [
       "NyeinChanAye",
       "ashinsarana"
