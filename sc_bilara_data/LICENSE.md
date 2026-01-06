@@ -1,3 +1,5 @@
+# License
+
 All translations created in Bilara and supported by SuttaCentral are dedicated to the Public Domain by means of the [Creative Commons Public Domain (CC0) license](https://creativecommons.org/public-domain/cc0/).
 
 For more information about SuttaCentral licensing, please see https://suttacentral.net/licensing.
