@@ -4,8 +4,6 @@ The `bilara-data` repository contains the published and unpublished translations
 
 Bilara's admin team use this repository to manage the publication workflow from the Bilara app to SuttaCentral's website. 
 
-:pushpin: **Note:** Please report _translation typos_ in the pinned thread in the [Feedback category of our forum](https://discourse.suttacentral.net/c/feedback/19)
-
 ###### Table of Contents
 
 - [Branches](#branches)
