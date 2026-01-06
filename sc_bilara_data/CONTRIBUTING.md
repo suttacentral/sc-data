@@ -1,6 +1,6 @@
 # Contributing
 
-**Please report all _translation typos_ in the pinned thread in the [Feedback category of our forum](https://discourse.suttacentral.net/c/feedback/19)**. Do not create pull requests in this repository to address typos as they must be addressed directly in the [Bilara translation app](https://bilara.suttacentral.net/) by the translator.
+**Please report all _translation typos_ in the pinned thread in the [Feedback category of our forum](https://discourse.suttacentral.net/c/feedback/19)**. Do not create pull requests in this repository as typos must be addressed directly in the [Bilara translation app](https://bilara.suttacentral.net/) by the translator.
 
 If you would like to **start a translation project** using the [Bilara translation app](https://bilara.suttacentral.net/), please review the [Guide for translators](https://github.com/suttacentral/bilara-data/wiki/Guide-for-translators) and follow the instructions.
 
