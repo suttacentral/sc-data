@@ -16,4 +16,4 @@ If you would like to start a translation project using the [Bilara translation a
 ## 💻 For Developers
 If you would like to contribute to the development of the new Bilara app or SuttaCentral website:
 - Review the README files in the [Bilara](https://github.com/suttacentral/elastic-bilara) and [SuttaCentral](https://github.com/suttacentral/suttacentral) repositories.
-- Get in touch with [Bhante Sujato](https://discourse.suttacentral.net/u/sujato) via our forum.
+- Get in touch with [Bhante Sujato via our forum](https://discourse.suttacentral.net/u/sujato).
