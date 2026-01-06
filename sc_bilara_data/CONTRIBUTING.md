@@ -10,8 +10,8 @@ To maintain our publication workflow, translation typos must be addressed within
 
 ## 🌍 For Translators
 If you would like to start a translation project using the [Bilara translation app](https://bilara.suttacentral.net/):
-1. Review the [Guide for translators](https://github.com/suttacentral/bilara-data/wiki/Guide-for-translators).
-2. Follow the onboarding instructions provided there.
+- Review the [Guide for translators](https://github.com/suttacentral/bilara-data/wiki/Guide-for-translators).
+- Follow the onboarding instructions provided there.
 
 ## 💻 For Developers
 If you would like to contribute to the development of the new Bilara app or SuttaCentral website:
