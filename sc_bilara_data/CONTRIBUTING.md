@@ -1,7 +1,19 @@
 # Contributing
 
-**Please report all _translation typos_ in the pinned thread in the [Feedback category of our forum](https://discourse.suttacentral.net/c/feedback/19)**. Do not create pull requests in this repository as typos must be addressed directly in the [Bilara translation app](https://bilara.suttacentral.net/) by the translator.
+## 🛑 Pull Requests
+Please **do not create pull requests** in this repository unless they have been discussed with the Bilara admin team.
 
-If you would like to **start a translation project** using the [Bilara translation app](https://bilara.suttacentral.net/), please review the [Guide for translators](https://github.com/suttacentral/bilara-data/wiki/Guide-for-translators) and follow the instructions.
+## 📌 Reporting Mistakes or Typos
+Please report _translation typos_ in the pinned thread in the [Feedback category of our forum](https://discourse.suttacentral.net/c/feedback/19).
 
-If you would like to **contribute to the development of the Bilara app or SuttaCentral website**, please review the `README` files in the [Bilara](https://github.com/suttacentral/bilara) and [SuttaCentral](https://github.com/suttacentral/suttacentral) repositories, and get in touch with [Bhante Sujato](https://discourse.suttacentral.net/u/sujato) via our forum.
+To maintain our publication workflow, translation typos must be addressed within the [Bilara translation app](https://bilara.suttacentral.net/).
+
+## 🌍 For Translators
+If you would like to start a translation project using the [Bilara translation app](https://bilara.suttacentral.net/):
+1. Review the [Guide for translators](https://github.com/suttacentral/bilara-data/wiki/Guide-for-translators).
+2. Follow the onboarding instructions provided there.
+
+## 💻 For Developers
+If you would like to contribute to the development of the new Bilara app or SuttaCentral website:
+- Review the README files in the [Bilara](https://github.com/suttacentral/elastic-bilara) and [SuttaCentral](https://github.com/suttacentral/suttacentral) repositories.
+- Get in touch with [Bhante Sujato](https://discourse.suttacentral.net/u/sujato) via our forum.
