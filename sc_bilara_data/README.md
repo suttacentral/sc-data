@@ -4,6 +4,8 @@ The `bilara-data` repository contains the published and unpublished translations
 
 Bilara's admin team use this repository to manage the publication workflow from the Bilara app to SuttaCentral's website. 
 
+> ⚠️ NOTE: `sc_bilara_data` is equivalent to the published branch of `bilara-data`. Modifications should not be made in this directory.
+
 ###### Table of Contents
 
 - [Branches](#branches)
