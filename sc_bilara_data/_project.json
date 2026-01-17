@@ -801,11 +801,11 @@
       }
     ]
   },
-  "my_ms_translation_myteam": {
+  "my_ms_translation_my-team": {
     "name": "Burmese translation",
     "root_path": "root/pli/ms/sutta/dn",
-    "translation_path": "translation/my/myteam/sutta/dn",
-    "translation_muids": "translation-my-myteam",
+    "translation_path": "translation/my/my-team/sutta/dn",
+    "translation_muids": "translation-my-my-team",
     "collaborator": [
       {
         "author_github_handle": "NyeinChanAye"
@@ -1037,6 +1037,9 @@
       },
       {
         "author_github_handle": "Korramrmr"
+      },
+      {
+        "author_github_handle": "dotokbit"
       }
     ]
   },
