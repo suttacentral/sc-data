@@ -976,8 +976,8 @@
     "root_lang_name": "Pali",
     "translation_lang_iso": "my",
     "translation_lang_name": " မြန်မာဘာသာ",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/my/myteam/sutta/dn",
-    "author_uid": "myteam",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/my/my-team/sutta/dn",
+    "author_uid": "my-team",
     "collaborator": [
       {
         "collaborator_uid": "nyeinchanaye",
@@ -4720,6 +4720,40 @@
         "publisher": "SuttaCentral",
         "publication_type": "website",
         "edition_url": ""
+      }
+    ]
+  },
+  "scpub136": {
+    "publication_number": "scpub136",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "fr",
+    "translation_lang_name": "Français",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/fr/christelle/sutta",
+    "author_uid": "christelle",
+    "author_name": "Christelle Ah-Mouck",
+    "author_github_handle": "ChristelleAh-Mouck",
+    "text_uid": "sn",
+    "translation_title": "Discours Connectés",
+    "translation_subtitle": "Une traduction du Samyutta Nikāya",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "La source principale est la version anglaise de Bhante Sujato. Traduite de l’anglais au français.",
+    "translation_description": "Traduction de l’anglais au français.",
+    "is_published": true,
+    "publication_status": "Cette traduction est provisoire et sujette à des modifications ultérieures.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2026",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sn"
       }
     ]
   }
