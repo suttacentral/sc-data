@@ -23445,41 +23445,41 @@
     {
         "parallels": [
             "lzh-mg-bu-pn7#t0471a25-#t0474a03",
-            "~sammitiya#t0670c5-#t0670c16",
+            "~1461#t0670c5-#t0670c16",
             "~san-lo-bi-vb-gd1-san-lo-bi-vb-gd8",
-            "~t156",
-            "~t196",
+            "~t156.7#153c8-#154a6",
+            "~t196.9",
             "~xct-mu-kd18b#da100a4-#da104b5",
-            "~lzh-mu-kd18b#t0230b10-#t0351c2",
+            "~lzh-mu-kd18b#t0350b10-#t0351c2",
             "~lzh-mi-kd17#t0185b19-#t0186a28",
             "~pli-tv-kd20#1.1.1-#4.1.6",
             "~an8.51",
             "~ma116",
             "~t60",
             "~lzh-dg-kd17#t0922c07-#t0923c12",
-            "~t1478",
+            "~t1478.1",
             "~san-lo-bi-vb-nidana",
-            "~t1463"
+            "~t1463.1#803a22-#803b24"
         ]
     },
     {
         "parallels": [
             "~lzh-mg-bu-pn7#t0471a25-#t0474a03",
-            "~sammitiya#t0670c5-#t0670c16",
+            "~1461#t0670c5-#t0670c16",
             "san-lo-bi-vb-gd1-san-lo-bi-vb-gd8",
-            "~t156",
-            "~t196",
+            "~t156.7#153c8-#154a6",
+            "~t196.9",
             "~xct-mu-kd18b#da100a4-#da104b5",
-            "~lzh-mu-kd18b#t0230b10-#t0351c2",
+            "~lzh-mu-kd18b#t0350b10-#t0351c2",
             "~lzh-mi-kd17#t0185b19-#t0186a28",
             "~pli-tv-kd20#1.1.1-#4.1.6",
             "~an8.51",
             "~ma116",
             "~t60",
             "~lzh-dg-kd17#t0922c07-#t0923c12",
-            "~t1478",
+            "~t1478.1",
             "~san-lo-bi-vb-nidana",
-            "~t1463"
+            "~t1463.1#803a22-#803b24"
         ]
     },
     {
@@ -45211,21 +45211,81 @@
     {
         "parallels": [
             "xct-mu-kd18b#da100a4-#da104b5",
-            "lzh-mu-kd18b#t0230b10-#t0351c2",
+            "lzh-mu-kd18b#t0350b10-#t0351c2",
             "lzh-mi-kd17#t0185b19-#t0186a28",
             "pli-tv-kd20#1.1.1-#4.1.6",
             "an8.51",
             "ma116",
             "t60",
             "lzh-dg-kd17#t0922c07-#t0923c12",
-            "t1478",
+            "t1478.1",
             "san-lo-bi-vb-nidana",
-            "t1463",
+            "t1463.1#803a22-#803b24",
             "~lzh-mg-bu-pn7#t0471a25-#t0474a03",
-            "~sammitiya#t0670c5-#t0670c16",
+            "~1461#t0670c5-#t0670c16",
             "~san-lo-bi-vb-gd1-san-lo-bi-vb-gd8",
-            "~t156",
-            "~t196"
+            "~t156.7#153c8-#154a6",
+            "~t196.9"
+        ]
+    },
+    {
+        "parallels": [
+            "~lzh-mg-bu-pn7#t0471a25-#t0474a03",
+            "1461#t0670c5-#t0670c16",
+            "~san-lo-bi-vb-gd1-san-lo-bi-vb-gd8",
+            "~t156.7#153c8-#154a6",
+            "~t196.9",
+            "~xct-mu-kd18b#da100a4-#da104b5",
+            "~lzh-mu-kd18b#t0350b10-#t0351c2",
+            "~lzh-mi-kd17#t0185b19-#t0186a28",
+            "~pli-tv-kd20#1.1.1-#4.1.6",
+            "~an8.51",
+            "~ma116",
+            "~t60",
+            "~lzh-dg-kd17#t0922c07-#t0923c12",
+            "~t1478.1",
+            "~san-lo-bi-vb-nidana",
+            "~t1463.1#803a22-#803b24"
+        ]
+    },
+    {
+        "parallels": [
+            "~lzh-mg-bu-pn7#t0471a25-#t0474a03",
+            "~1461#t0670c5-#t0670c16",
+            "~san-lo-bi-vb-gd1-san-lo-bi-vb-gd8",
+            "t156.7#153c8-#154a6",
+            "~t196.9",
+            "~xct-mu-kd18b#da100a4-#da104b5",
+            "~lzh-mu-kd18b#t0350b10-#t0351c2",
+            "~lzh-mi-kd17#t0185b19-#t0186a28",
+            "~pli-tv-kd20#1.1.1-#4.1.6",
+            "~an8.51",
+            "~ma116",
+            "~t60",
+            "~lzh-dg-kd17#t0922c07-#t0923c12",
+            "~t1478.1",
+            "~san-lo-bi-vb-nidana",
+            "~t1463.1#803a22-#803b24"
+        ]
+    },
+    {
+        "parallels": [
+            "~lzh-mg-bu-pn7#t0471a25-#t0474a03",
+            "~1461#t0670c5-#t0670c16",
+            "~san-lo-bi-vb-gd1-san-lo-bi-vb-gd8",
+            "~t156.7#153c8-#154a6",
+            "t196.9",
+            "~xct-mu-kd18b#da100a4-#da104b5",
+            "~lzh-mu-kd18b#t0350b10-#t0351c2",
+            "~lzh-mi-kd17#t0185b19-#t0186a28",
+            "~pli-tv-kd20#1.1.1-#4.1.6",
+            "~an8.51",
+            "~ma116",
+            "~t60",
+            "~lzh-dg-kd17#t0922c07-#t0923c12",
+            "~t1478.1",
+            "~san-lo-bi-vb-nidana",
+            "~t1463.1#803a22-#803b24"
         ]
     },
     {
