@@ -103563,6 +103563,15 @@
     "biblio_uid": null
   },
   {
+    "uid": "d3:ja50b7",
+    "acronym": "D 3 ja 50b7",
+    "alt_acronym": null,
+    "volpage": "'dul ba: D 3: ja 50b7–59a4 / Q 1032: nye 48b5–56a5",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
     "uid": "d6:da191a",
     "acronym": "D 6 da 191a",
     "alt_acronym": null,
@@ -103711,6 +103720,15 @@
     "acronym": "D 974",
     "alt_acronym": null,
     "volpage": "gzungs 'dus: D 974: wam 101:90a",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "d4106",
+    "acronym": "D 4106",
+    "alt_acronym": null,
+    "volpage": "D 4106: phu 81b5–83a7 / Q 5607: mu 94b6–96b5",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -107239,6 +107257,15 @@
     "acronym": "SHT Sutta 84",
     "alt_acronym": null,
     "volpage": "SHT 3091",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": "sht"
+  },
+  {
+    "uid": "sht-sutta85",
+    "acronym": "SHT Sutta 85",
+    "alt_acronym": null,
+    "volpage": "SHT 4560",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": "sht"
