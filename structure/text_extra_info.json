@@ -107271,6 +107271,15 @@
     "biblio_uid": "sht"
   },
   {
+    "uid": "sht-sutta86",
+    "acronym": "SHT Sutta 86",
+    "alt_acronym": null,
+    "volpage": "SHT 2379/15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": "sht"
+  },
+  {
     "uid": "pf10",
     "acronym": "Prākrit Fragment",
     "alt_acronym": null,
@@ -107305,6 +107314,24 @@
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": "all&sal2000"
+  },
+  {
+    "uid": "gf30",
+    "acronym": "GF 30",
+    "alt_acronym": null,
+    "volpage": "Strauch 2007/2008: 20f and 2014",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": "strauch2007"
+  },
+  {
+    "uid": "tf1",
+    "acronym": "TF 1",
+    "alt_acronym": null,
+    "volpage": "Ji et al. 1998: 168–188",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": "ji1998"
   },
   {
     "uid": "g2dhp",
@@ -120213,10 +120240,19 @@
     "biblio_uid": null
   },
   {
-    "uid": "t202.57",
-    "acronym": "T 202.57",
+    "uid": "t203.1",
+    "acronym": "T 203.1",
     "alt_acronym": null,
     "volpage": "T iv 447a16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t203.50",
+    "acronym": "T 203.50",
+    "alt_acronym": null,
+    "volpage": "T iv 470a15",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -120583,7 +120619,7 @@
   },
   {
     "uid": "t1478.1",
-    "acronym": "T 1478",
+    "acronym": "T 1478.1",
     "alt_acronym": null,
     "volpage": "T xxiv 945b25–950a15",
     "alt_volpage": null,
@@ -120640,6 +120676,15 @@
     "acronym": "T 1509.15",
     "alt_acronym": null,
     "volpage": "T xxv 170a08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t1509.22",
+    "acronym": "T 1509.22",
+    "alt_acronym": null,
+    "volpage": "T xxv 221b12",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -120829,6 +120874,15 @@
     "acronym": "T 1545.98",
     "alt_acronym": null,
     "volpage": "T xxvii 509b17–510b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t1545.178",
+    "acronym": "T 1545.178",
+    "alt_acronym": null,
+    "volpage": "T xxvii 892a20–896c09",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
