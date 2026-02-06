@@ -864,6 +864,15 @@
     "biblio_uid": null
   },
   {
+    "uid": "hv",
+    "acronym": "Hv",
+    "alt_acronym": null,
+    "volpage": null,
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
     "uid": "iti",
     "acronym": "Iti",
     "alt_acronym": null,
@@ -875,6 +884,15 @@
   {
     "uid": "ja",
     "acronym": "Ja",
+    "alt_acronym": null,
+    "volpage": null,
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-iti",
+    "acronym": "Lzh Iti",
     "alt_acronym": null,
     "volpage": null,
     "alt_volpage": null,
@@ -1170,8 +1188,8 @@
     "biblio_uid": null
   },
   {
-    "uid": "om",
-    "acronym": "Other Mt",
+    "uid": "lzh-vi",
+    "acronym": "Other Vi",
     "alt_acronym": null,
     "volpage": null,
     "alt_volpage": null,
