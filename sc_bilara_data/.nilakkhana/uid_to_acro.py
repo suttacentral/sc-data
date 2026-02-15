@@ -62,7 +62,7 @@ uid_to_acro_map = {
   "t1670a": "T 1670 A",
   "t1670b": "T 1670 B",
   "oa": "OA",
-  "om": "OM",
+  "vi": "Vi",
   "pe": "Pe",
   "pk": "Pk",
   "pp": "Pp",
