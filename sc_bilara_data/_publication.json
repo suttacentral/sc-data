@@ -4125,7 +4125,7 @@
     "translation_title": "Ангуттара Никая: Номерные наставления Будды",
     "translation_subtitle": "Перевод Ангуттара Никаи",
     "root_title": "Aṅguttaranikāya",
-    "translation_process": "Переводы соответствующих текстов выполнены SV с английского по переводам Бхиккху Бодхи. Данные для Bilara изначально подготовлены и взяты с сайта dhamma.gift.",
+    "translation_process": "Переводы соответствующих текстов выполнены SV с английского по переводам Бхиккху Бодхи. Данные для Bilara подготовил Олег Спиридонов.",
     "translation_description": "Переводы основных текстов Палийского Канона, опубликованные на сайте theravada.ru",
     "is_published": true,
     "publication_status": "Завершен",
@@ -4746,6 +4746,142 @@
       "license_abbreviation": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "license_statement": "Cette traduction est l’expression d’un texte spirituel ancien qui a été transmis par la tradition Bouddhiste pour le bénéfice de tous les êtres sensibles. Elle est dédiée au domaine public via Creative Commons Zero (CC0). Vous êtes encouragés à copier, reproduire, adapter, modifier ou utiliser de toute autre manière cette traduction. Le traducteur demande respectueusement que toute utilisation soit en accord avec les valeurs et les principes de la communauté Bouddhiste."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2026",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/sn"
+      }
+    ]
+  },
+  "scpub137": {
+    "publication_number": "scpub137",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "ру́сский язы́к",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/o/sutta/an",
+    "author_uid": "o",
+    "author_name": "o Dhamma.gift",
+    "author_github_handle": "o28o",
+    "text_uid": "an",
+    "translation_title": "Ангуттара-никая: восходящие наставления",
+    "translation_subtitle": "Перевод Саньютта-никаи",
+    "root_title": "Aṅguttaranikāya",
+    "translation_process": "Системные переводы с пали со сквозной терминологией. Принципы подробно описаны:  https://dhamma.gift/assets/common/o.html",
+    "translation_description": "Переводы с пали, выполненные автором ‘o’ и опубликованные на сайте Dhamma.gift.",
+    "is_published": true,
+    "publication_status": "Завершён",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Это перевод древних текстов, передаваемых в буддийской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете свободно копировать, адаптировать и изменять этот перевод. Единственное требование — использование должно соответствовать ценностям и принципам буддийского сообщества."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2026",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/an"
+      }
+    ]
+  },
+  "scpub138": {
+    "publication_number": "scpub138",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "ру́сский язы́к",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/o/sutta/dn",
+    "author_uid": "o",
+    "author_name": "o Dhamma.gift",
+    "author_github_handle": "o28o",
+    "text_uid": "dn",
+    "translation_title": "Дигха-никая: длинные наставления",
+    "translation_subtitle": "Перевод Дигха-никаи",
+    "root_title": "Dīghanikāya",
+    "translation_process": "Системные переводы с пали со сквозной терминологией. Принципы подробно описаны: https://dhamma.gift/assets/common/o.html",
+    "translation_description": "Переводы с пали, выполненные автором ‘o’ и опубликованные на сайте Dhamma.gift.",
+    "is_published": true,
+    "publication_status": "Завершён",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Это перевод древних текстов, передаваемых в буддийской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете свободно копировать, адаптировать и изменять этот перевод. Единственное требование — использование должно соответствовать ценностям и принципам буддийского сообщества."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2026",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/dn"
+      }
+    ]
+  },
+  "scpub139": {
+    "publication_number": "scpub139",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "ру́сский язы́к",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/o/sutta/mn",
+    "author_uid": "o",
+    "author_name": "o Dhamma.gift",
+    "author_github_handle": "o28o",
+    "text_uid": "mn",
+    "translation_title": "Мадджхима-никая: наставления средней длины",
+    "translation_subtitle": "Перевод Мадджхима-никаи",
+    "root_title": "Majjhimanikāya",
+    "translation_process": "Системные переводы с пали со сквозной терминологией. Принципы подробно описаны: https://dhamma.gift/assets/common/o.html",
+    "translation_description": "Переводы с пали, выполненные автором ‘o’ и опубликованные на сайте Dhamma.gift.",
+    "is_published": true,
+    "publication_status": "Завершён",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Это перевод древних текстов, передаваемых в буддийской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете свободно копировать, адаптировать и изменять этот перевод. Единственное требование — использование должно соответствовать ценностям и принципам буддийского сообщества."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2026",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
+  },
+  "scpub140": {
+    "publication_number": "scpub140",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ru",
+    "translation_lang_name": "ру́сский язы́к",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ru/o/sutta/sn",
+    "author_uid": "o",
+    "author_name": "o Dhamma.gift",
+    "author_github_handle": "o28o",
+    "text_uid": "sn",
+    "translation_title": "Саньютта-никая: связанные наставления",
+    "translation_subtitle": "Перевод Саньютта-никаи",
+    "root_title": "Saṁyuttanikāya",
+    "translation_process": "Системные переводы с пали со сквозной терминологией. Принципы подробно описаны:  https://dhamma.gift/assets/common/o.html",
+    "translation_description": "Переводы с пали, выполненные автором ‘o’ и опубликованные на сайте Dhamma.gift.",
+    "is_published": true,
+    "publication_status": "Завершён",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "Это перевод древних текстов, передаваемых в буддийской традиции для блага существ. Распространяется по модели Creative Commons Zero (CC0). Вы можете свободно копировать, адаптировать и изменять этот перевод. Единственное требование — использование должно соответствовать ценностям и принципам буддийского сообщества."
     },
     "edition": [
       {
