@@ -902,7 +902,6 @@
   "kv": "Kv",
   "ya": "Ya",
   "patthana": "Patthana",
-  "sab": "Sab",
   "sg": "Sg",
   "lzh-dk": "Lzh Dk",
   "pr": "Pr",
@@ -911,5 +910,10 @@
   "pk": "Pk",
   "jp": "Jp",
   "mvs": "Mvs",
-  "dk": "Dk"
+  "dk": "Dk",
+  "sab": "Sab",
+  "sab-div1": "T 1548.1–10",
+  "sab-div2": "T 1548.11–21",
+  "sab-div3": "T 1548.22–23",
+  "sab-div4": "T 1548.24–33"
 }
