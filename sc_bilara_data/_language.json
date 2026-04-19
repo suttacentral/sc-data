@@ -19,6 +19,11 @@
       "name": "Sanskrit",
       "is_root": true
   },
+  "ar": {
+    "type": "language",
+    "name": "اَلْعَرَبِيَّةُ",
+    "is_root": false
+  },
   "ca": {
     "type": "language",
     "name": "Català",
@@ -61,7 +66,7 @@
   },
   "gsw": {
     "type": "language",
-    "name": "Züridütsch",
+    "name": "Schweizerdeutsch",
     "is_root": false
   },
   "gu": {
@@ -87,6 +92,11 @@
   "jpn": {
     "type": "language",
     "name": "日本語",
+    "is_root": false
+  },
+  "ka": {
+    "type": "language",
+    "name": "ქართული",
     "is_root": false
   },
   "kan": {
@@ -164,14 +174,14 @@
     "name": "Türkçe",
     "is_root": false
   },
-  "vi": {
-    "type": "language",
-    "name": "Tiếng Việt",
-    "is_root": false
-  },
   "ur": {
     "type": "language",
     "name": "اُردُو",
+    "is_root": false
+  },
+  "vi": {
+    "type": "language",
+    "name": "Tiếng Việt",
     "is_root": false
   }
 }
