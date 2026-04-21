@@ -19,6 +19,10 @@
     "type": "root",
     "name": "PTS"
   },
+  "sct": {
+    "type": "root",
+    "name": "Taisho Tipitaka"
+  },
   "vri": {
     "type": "root",
     "name": "Vipassana Research Institute"
@@ -26,7 +30,7 @@
   "alaeddin": {
     "type": "translator",
     "name": "Ādam ʿAlāʾ al-Dīn"
-  },  
+  },
   "anandajoti": {
     "type": "translator",
     "name": "Bhikkhu Ānandajoti"
@@ -54,7 +58,7 @@
   "christelle": {
     "type": "translator",
     "name": "Christelle Ah-Mouck"
-  },  
+  },
   "cittadhammo": {
     "type": "translator",
     "name": "Cittadhammo Bhikkhu"
@@ -70,15 +74,15 @@
   "dhiranandi": {
     "type": "translator",
     "name": "Dhīranandī"
-  },  
+  },
   "dogensisapa": {
     "type": "translator",
     "name": "Dōgen Sisapa"
-  },  
+  },
   "flavio": {
     "type": "translator",
     "name": "Flavio Stucky"
-  }, 
+  },
   "font": {
     "type": "translator",
     "name": "Bernat Font"
@@ -122,7 +126,7 @@
   "khantibalo": {
     "type": "translator",
     "name": "Khantibalo"
-  },  
+  },
   "korakot": {
     "type": "translator",
     "name": "Korakot Chaovavanich"
@@ -142,7 +146,7 @@
   "luka": {
     "type": "translator",
     "name": "Luka Elizbarashvili"
-  },  
+  },
   "madhu": {
     "type": "translator",
     "name": "Madhuwanthi Buddhadasa"
