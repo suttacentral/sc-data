@@ -25,7 +25,6 @@
       "t211",
       "t212",
       "t213",
-      "uv-kg",
       "minor-lzh",
       "lzh-mg-vi",
       "lzh-dg-vi",
@@ -35,7 +34,8 @@
       "lzh-ka-bu-pm",
       "lzh-upp-bu",
       "sammitiya",
-      "om",
+      "hv",
+      "lzh-vi",
       "lzh-dg-ab",
       "lzh-sarv-ab"
     ]
@@ -101,7 +101,8 @@
     "root_lang_name": "Tibetan",
     "contains": [
       "other-xct",
-      "xct-mu-vi"
+      "xct-mu-vi",
+      "uv-kg"
     ]
   },
   {
