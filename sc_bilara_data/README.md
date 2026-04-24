@@ -1,13 +1,12 @@
 # bilara-data
 
-This repository contains the published and unpublished translations, root texts, and other data from the Bilara translation app.
+The `bilara-data` repository contains the published and unpublished translations, root texts, and other data from the [Bilara translation app](https://bilara.suttacentral.net/). Translators use Bilara to do translations, while `bilara-data` manages version control and publication of translations to [SuttaCentral](https://suttacentral.net/).
 
-- The `published` branch is the main branch and contains finished translations and other texts. **Use `published` branch for any form of publishing**. In software terms it can be considered to be “stable”. 
-- The `unpublished` branch contains translations which are still in progress. **Do not use material from `unpublished` except for internal SuttaCentral uses.** In software terms it can be considered to be the “develop” branch. There should be no data integrity issues but there are no guarantees about the content. 
+Bilara's admin team use this repository to manage the publication workflow from the Bilara app to SuttaCentral's website. 
 
 ###### Table of Contents
 
-- [Warning](#warning)
+- [Branches](#branches)
 - [How it works](#how-it-works)
 - [Publication](#publication)
 - [Inline markup](#inline-markup)
@@ -17,8 +16,12 @@ This repository contains the published and unpublished translations, root texts,
   - [Variant readings](#variant-readings)
   - [References](#references)
 
+## Branches
 
-## Warning
+- The `published` branch is the main branch and contains finished translations and other texts. **The `published` branch is used for any form of publishing**. In software terms it can be considered to be “stable”. 
+- The `unpublished` branch contains translations which are still in progress. **The `unpublished` branch is used for internal SuttaCentral uses.** In software terms it can be considered to be the “develop” branch. There should be no data integrity issues but there are no guarantees about the content. 
+
+### warning
 
 Pull Requests such as from a fork should not be made against published branch. Instead pull requests should be made against the unpublished branch.
 
