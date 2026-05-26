@@ -15,6 +15,10 @@ def natural_sort_key(s):
     return [int(c) if c.isdigit() else c.lower() for c in re.split(r'(\d+)', s)]
 
 
+def remove_empty(entry: dict) -> dict:
+    return {k: v for k, v in entry.items() if v != [] and v != {}}
+
+
 def add_unique(existing: list, new_items: list) -> list:
     return list(set(existing + new_items))
 
@@ -47,7 +51,7 @@ def parseitem(newpardict: dict, parlist: list, partype: str) -> None:
         parlist = [i.lstrip("~") for i in parlist]
 
     for paritem in parlist:
-        if paritem.startswith("~"):
+        if paritem.startswith("~") or " " in paritem:
             continue
 
         suttauid = paritem.split("#", 1)[0]
@@ -80,7 +84,12 @@ def main():
             print(f"Warning: unrecognised item structure: {item}")
 
     for entry in newpardict.values():
-        entry["sections"] = dict(sorted(entry["sections"].items(), key=lambda x: natural_sort_key(x[0])))
+        entry["sections"] = dict(sorted(
+            {k: remove_empty(v) for k, v in entry["sections"].items()}.items(),
+            key=lambda x: natural_sort_key(x[0])
+        ))
+
+    newpardict = {k: remove_empty(v) for k, v in newpardict.items()}
 
     with open(OUTPUT_FILE, 'w', encoding='utf8') as f:
         json.dump(dict(sorted(newpardict.items(), key=lambda x: natural_sort_key(x[0]))), f, ensure_ascii=False, indent=8)
