@@ -4134,7 +4134,7 @@
     "uid": "sn11.25",
     "acronym": "SN 11.25",
     "alt_acronym": "SN 271",
-    "volpage": "SN 271 PTS (1st ed) SN i 240",
+    "volpage": "PTS (1st ed) SN i 240",
     "alt_volpage": "PTS (2nd ed) SN i 514",
     "alt_name": null,
     "biblio_uid": null
@@ -49286,8 +49286,8 @@
   {
     "uid": "iti1",
     "acronym": "Iti 1",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 1",
+    "alt_acronym": "It 1.1",
+    "volpage": "PTS It 1",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49295,8 +49295,8 @@
   {
     "uid": "iti2",
     "acronym": "Iti 2",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 1",
+    "alt_acronym": "It 1.2",
+    "volpage": "PTS It 1",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49304,8 +49304,8 @@
   {
     "uid": "iti3",
     "acronym": "Iti 3",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 2",
+    "alt_acronym": "It 1.3",
+    "volpage": "PTS It 2",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49313,8 +49313,8 @@
   {
     "uid": "iti4",
     "acronym": "Iti 4",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 2",
+    "alt_acronym": "It 1.4",
+    "volpage": "PTS It 2",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49322,8 +49322,8 @@
   {
     "uid": "iti5",
     "acronym": "Iti 5",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 3",
+    "alt_acronym": "It 1.5",
+    "volpage": "PTS It 3",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49331,8 +49331,8 @@
   {
     "uid": "iti6",
     "acronym": "Iti 6",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 3",
+    "alt_acronym": "It 1.6",
+    "volpage": "PTS It 3",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49340,8 +49340,8 @@
   {
     "uid": "iti7",
     "acronym": "Iti 7",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 3",
+    "alt_acronym": "It 1.7",
+    "volpage": "PTS It 3",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49349,8 +49349,8 @@
   {
     "uid": "iti8",
     "acronym": "Iti 8",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 4",
+    "alt_acronym": "It 1.8",
+    "volpage": "PTS It 4",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49358,8 +49358,8 @@
   {
     "uid": "iti9",
     "acronym": "Iti 9",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 5",
+    "alt_acronym": "It 1.9",
+    "volpage": "PTS It 5",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49367,8 +49367,8 @@
   {
     "uid": "iti10",
     "acronym": "Iti 10",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 5",
+    "alt_acronym": "It 1.10",
+    "volpage": "PTS It 5",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49376,8 +49376,8 @@
   {
     "uid": "iti11",
     "acronym": "Iti 11",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 6",
+    "alt_acronym": "It 1.11",
+    "volpage": "PTS It 6",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49385,8 +49385,8 @@
   {
     "uid": "iti12",
     "acronym": "Iti 12",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 7",
+    "alt_acronym": "It 1.12",
+    "volpage": "PTS It 7",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49394,8 +49394,8 @@
   {
     "uid": "iti13",
     "acronym": "Iti 13",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 7",
+    "alt_acronym": "It 1.13",
+    "volpage": "PTS It 7",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49403,8 +49403,8 @@
   {
     "uid": "iti14",
     "acronym": "Iti 14",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 7",
+    "alt_acronym": "It 1.14",
+    "volpage": "PTS It 7",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49412,8 +49412,8 @@
   {
     "uid": "iti15",
     "acronym": "Iti 15",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 8",
+    "alt_acronym": "It 1.15",
+    "volpage": "PTS It 8",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49421,8 +49421,8 @@
   {
     "uid": "iti16",
     "acronym": "Iti 16",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 9",
+    "alt_acronym": "It 1.16",
+    "volpage": "PTS It 9",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49430,8 +49430,8 @@
   {
     "uid": "iti17",
     "acronym": "Iti 17",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 10",
+    "alt_acronym": "It 1.17",
+    "volpage": "PTS It 10",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49439,8 +49439,8 @@
   {
     "uid": "iti18",
     "acronym": "Iti 18",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 10",
+    "alt_acronym": "It 1.18",
+    "volpage": "PTS It 10",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49448,8 +49448,8 @@
   {
     "uid": "iti19",
     "acronym": "Iti 19",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 11",
+    "alt_acronym": "It 1.19",
+    "volpage": "PTS It 11",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49457,8 +49457,8 @@
   {
     "uid": "iti20",
     "acronym": "Iti 20",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 12",
+    "alt_acronym": "It 1.20",
+    "volpage": "PTS It 12",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49466,8 +49466,8 @@
   {
     "uid": "iti21",
     "acronym": "Iti 21",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 13",
+    "alt_acronym": "It 1.21",
+    "volpage": "PTS It 13",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49475,8 +49475,8 @@
   {
     "uid": "iti22",
     "acronym": "Iti 22",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 14",
+    "alt_acronym": "It 1.22",
+    "volpage": "PTS It 14",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49484,8 +49484,8 @@
   {
     "uid": "iti23",
     "acronym": "Iti 23",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 16",
+    "alt_acronym": "It 1.23",
+    "volpage": "PTS It 16",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49493,8 +49493,8 @@
   {
     "uid": "iti24",
     "acronym": "Iti 24",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 17",
+    "alt_acronym": "It 1.24",
+    "volpage": "PTS It 17",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49502,8 +49502,8 @@
   {
     "uid": "iti25",
     "acronym": "Iti 25",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 18",
+    "alt_acronym": "It 1.25",
+    "volpage": "PTS It 18",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49511,8 +49511,8 @@
   {
     "uid": "iti26",
     "acronym": "Iti 26",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 18",
+    "alt_acronym": "It 1.26",
+    "volpage": "PTS It 18",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49520,8 +49520,8 @@
   {
     "uid": "iti27",
     "acronym": "Iti 27",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 19",
+    "alt_acronym": "It 1.27",
+    "volpage": "PTS It 19",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49529,8 +49529,8 @@
   {
     "uid": "iti28",
     "acronym": "Iti 28",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 22",
+    "alt_acronym": "It 2.1",
+    "volpage": "PTS It 22",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49538,8 +49538,8 @@
   {
     "uid": "iti29",
     "acronym": "Iti 29",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 23",
+    "alt_acronym": "It 2.2",
+    "volpage": "PTS It 23",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49547,8 +49547,8 @@
   {
     "uid": "iti30",
     "acronym": "Iti 30",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 24",
+    "alt_acronym": "It 2.3",
+    "volpage": "PTS It 24",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49556,8 +49556,8 @@
   {
     "uid": "iti31",
     "acronym": "Iti 31",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 25",
+    "alt_acronym": "It 2.4",
+    "volpage": "PTS It 25",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49565,8 +49565,8 @@
   {
     "uid": "iti32",
     "acronym": "Iti 32",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 26",
+    "alt_acronym": "It 2.5",
+    "volpage": "PTS It 26",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49574,8 +49574,8 @@
   {
     "uid": "iti33",
     "acronym": "Iti 33",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 26",
+    "alt_acronym": "It 2.6",
+    "volpage": "PTS It 26",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49583,8 +49583,8 @@
   {
     "uid": "iti34",
     "acronym": "Iti 34",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 27",
+    "alt_acronym": "It 2.7",
+    "volpage": "PTS It 27",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49592,8 +49592,8 @@
   {
     "uid": "iti35",
     "acronym": "Iti 35",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 28",
+    "alt_acronym": "It 2.8",
+    "volpage": "PTS It 28",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49601,8 +49601,8 @@
   {
     "uid": "iti36",
     "acronym": "Iti 36",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 29",
+    "alt_acronym": "It 2.9",
+    "volpage": "PTS It 29",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49610,8 +49610,8 @@
   {
     "uid": "iti37",
     "acronym": "Iti 37",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 29",
+    "alt_acronym": "It 2.10",
+    "volpage": "PTS It 29",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49619,8 +49619,8 @@
   {
     "uid": "iti38",
     "acronym": "Iti 38",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 31",
+    "alt_acronym": "It 2.11",
+    "volpage": "PTS It 31",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49628,8 +49628,8 @@
   {
     "uid": "iti39",
     "acronym": "Iti 39",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 33",
+    "alt_acronym": "It 2.12",
+    "volpage": "PTS It 33",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49637,8 +49637,8 @@
   {
     "uid": "iti40",
     "acronym": "Iti 40",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 34",
+    "alt_acronym": "It 2.13",
+    "volpage": "PTS It 34",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49646,8 +49646,8 @@
   {
     "uid": "iti41",
     "acronym": "Iti 41",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 35",
+    "alt_acronym": "It 2.14",
+    "volpage": "PTS It 35",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49655,8 +49655,8 @@
   {
     "uid": "iti42",
     "acronym": "Iti 42",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 36",
+    "alt_acronym": "It 2.15",
+    "volpage": "PTS It 36",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49664,8 +49664,8 @@
   {
     "uid": "iti43",
     "acronym": "Iti 43",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 37",
+    "alt_acronym": "It 2.16",
+    "volpage": "PTS It 37",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49673,8 +49673,8 @@
   {
     "uid": "iti44",
     "acronym": "Iti 44",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 38",
+    "alt_acronym": "It 2.17",
+    "volpage": "PTS It 38",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49682,8 +49682,8 @@
   {
     "uid": "iti45",
     "acronym": "Iti 45",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 39",
+    "alt_acronym": "It 2.18",
+    "volpage": "PTS It 39",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49691,8 +49691,8 @@
   {
     "uid": "iti46",
     "acronym": "Iti 46",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 40",
+    "alt_acronym": "It 2.19",
+    "volpage": "PTS It 40",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49700,8 +49700,8 @@
   {
     "uid": "iti47",
     "acronym": "Iti 47",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 41",
+    "alt_acronym": "It 2.20",
+    "volpage": "PTS It 41",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49709,8 +49709,8 @@
   {
     "uid": "iti48",
     "acronym": "Iti 48",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 42",
+    "alt_acronym": "It 2.21",
+    "volpage": "PTS It 42",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49718,8 +49718,8 @@
   {
     "uid": "iti49",
     "acronym": "Iti 49",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 43",
+    "alt_acronym": "It 2.22",
+    "volpage": "PTS It 43",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49727,8 +49727,8 @@
   {
     "uid": "iti50",
     "acronym": "Iti 50",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 45",
+    "alt_acronym": "It 3.1",
+    "volpage": "PTS It 45",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49736,8 +49736,8 @@
   {
     "uid": "iti51",
     "acronym": "Iti 51",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 45",
+    "alt_acronym": "It 3.2",
+    "volpage": "PTS It 45",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49745,8 +49745,8 @@
   {
     "uid": "iti52",
     "acronym": "Iti 52",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 46",
+    "alt_acronym": "It 3.3",
+    "volpage": "PTS It 46",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49754,8 +49754,8 @@
   {
     "uid": "iti53",
     "acronym": "Iti 53",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 47",
+    "alt_acronym": "It 3.4",
+    "volpage": "PTS It 47",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49763,8 +49763,8 @@
   {
     "uid": "iti54",
     "acronym": "Iti 54",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 48",
+    "alt_acronym": "It 3.5",
+    "volpage": "PTS It 48",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49772,8 +49772,8 @@
   {
     "uid": "iti55",
     "acronym": "Iti 55",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 48",
+    "alt_acronym": "It 3.6",
+    "volpage": "PTS It 48",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49781,8 +49781,8 @@
   {
     "uid": "iti56",
     "acronym": "Iti 56",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 49",
+    "alt_acronym": "It 3.7",
+    "volpage": "PTS It 49",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49790,8 +49790,8 @@
   {
     "uid": "iti57",
     "acronym": "Iti 57",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 49",
+    "alt_acronym": "It 3.8",
+    "volpage": "PTS It 49",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49799,8 +49799,8 @@
   {
     "uid": "iti58",
     "acronym": "Iti 58",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 50",
+    "alt_acronym": "It 3.9",
+    "volpage": "PTS It 50",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49808,8 +49808,8 @@
   {
     "uid": "iti59",
     "acronym": "Iti 59",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 50",
+    "alt_acronym": "It 3.10",
+    "volpage": "PTS It 50",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49817,8 +49817,8 @@
   {
     "uid": "iti60",
     "acronym": "Iti 60",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 51",
+    "alt_acronym": "It 3.11",
+    "volpage": "PTS It 51",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49826,8 +49826,8 @@
   {
     "uid": "iti61",
     "acronym": "Iti 61",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 52",
+    "alt_acronym": "It 3.12",
+    "volpage": "PTS It 52",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49835,8 +49835,8 @@
   {
     "uid": "iti62",
     "acronym": "Iti 62",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 53",
+    "alt_acronym": "It 3.13",
+    "volpage": "PTS It 53",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49844,8 +49844,8 @@
   {
     "uid": "iti63",
     "acronym": "Iti 63",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 53",
+    "alt_acronym": "It 3.14",
+    "volpage": "PTS It 53",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49853,8 +49853,8 @@
   {
     "uid": "iti64",
     "acronym": "Iti 64",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 54",
+    "alt_acronym": "It 3.15",
+    "volpage": "PTS It 54",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49862,8 +49862,8 @@
   {
     "uid": "iti65",
     "acronym": "Iti 65",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 55",
+    "alt_acronym": "It 3.16",
+    "volpage": "PTS It 55",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49871,8 +49871,8 @@
   {
     "uid": "iti66",
     "acronym": "Iti 66",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 55",
+    "alt_acronym": "It 3.17",
+    "volpage": "PTS It 55",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49880,8 +49880,8 @@
   {
     "uid": "iti67",
     "acronym": "Iti 67",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 56",
+    "alt_acronym": "It 3.18",
+    "volpage": "PTS It 56",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49889,8 +49889,8 @@
   {
     "uid": "iti68",
     "acronym": "Iti 68",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 56",
+    "alt_acronym": "It 3.19",
+    "volpage": "PTS It 56",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49898,8 +49898,8 @@
   {
     "uid": "iti69",
     "acronym": "Iti 69",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 57",
+    "alt_acronym": "It 3.20",
+    "volpage": "PTS It 57",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49907,8 +49907,8 @@
   {
     "uid": "iti70",
     "acronym": "Iti 70",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 58",
+    "alt_acronym": "It 3.21",
+    "volpage": "PTS It 58",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49916,8 +49916,8 @@
   {
     "uid": "iti71",
     "acronym": "Iti 71",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 59",
+    "alt_acronym": "It 3.22",
+    "volpage": "PTS It 59",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49925,8 +49925,8 @@
   {
     "uid": "iti72",
     "acronym": "Iti 72",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 61",
+    "alt_acronym": "It 3.23",
+    "volpage": "PTS It 61",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49934,8 +49934,8 @@
   {
     "uid": "iti73",
     "acronym": "Iti 73",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 61",
+    "alt_acronym": "It 3.24",
+    "volpage": "PTS It 61",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49943,8 +49943,8 @@
   {
     "uid": "iti74",
     "acronym": "Iti 74",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 62",
+    "alt_acronym": "It 3.25",
+    "volpage": "PTS It 62",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49952,8 +49952,8 @@
   {
     "uid": "iti75",
     "acronym": "Iti 75",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 64",
+    "alt_acronym": "It 3.26",
+    "volpage": "PTS It 64",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49961,8 +49961,8 @@
   {
     "uid": "iti76",
     "acronym": "Iti 76",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 67",
+    "alt_acronym": "It 3.27",
+    "volpage": "PTS It 67",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49970,8 +49970,8 @@
   {
     "uid": "iti77",
     "acronym": "Iti 77",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 69",
+    "alt_acronym": "It 3.28",
+    "volpage": "PTS It 69",
     "alt_volpage": null,
     "alt_name": "Bhindanā",
     "biblio_uid": null
@@ -49979,8 +49979,8 @@
   {
     "uid": "iti78",
     "acronym": "Iti 78",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 69",
+    "alt_acronym": "It 3.29",
+    "volpage": "PTS It 69",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49988,8 +49988,8 @@
   {
     "uid": "iti79",
     "acronym": "Iti 79",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 71",
+    "alt_acronym": "It 3.30",
+    "volpage": "PTS It 71",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -49997,8 +49997,8 @@
   {
     "uid": "iti80",
     "acronym": "Iti 80",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 72",
+    "alt_acronym": "It 3.31",
+    "volpage": "PTS It 72",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50006,8 +50006,8 @@
   {
     "uid": "iti81",
     "acronym": "Iti 81",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 73",
+    "alt_acronym": "It 3.32",
+    "volpage": "PTS It 73",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50015,8 +50015,8 @@
   {
     "uid": "iti82",
     "acronym": "Iti 82",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 75",
+    "alt_acronym": "It 3.33",
+    "volpage": "PTS It 75",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50024,8 +50024,8 @@
   {
     "uid": "iti83",
     "acronym": "Iti 83",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 76",
+    "alt_acronym": "It 3.34",
+    "volpage": "PTS It 76",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50033,8 +50033,8 @@
   {
     "uid": "iti84",
     "acronym": "Iti 84",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 78",
+    "alt_acronym": "It 3.35",
+    "volpage": "PTS It 78",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50042,8 +50042,8 @@
   {
     "uid": "iti85",
     "acronym": "Iti 85",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 80",
+    "alt_acronym": "It 3.36",
+    "volpage": "PTS It 80",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50051,8 +50051,8 @@
   {
     "uid": "iti86",
     "acronym": "Iti 86",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 81",
+    "alt_acronym": "It 3.37",
+    "volpage": "PTS It 81",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50060,8 +50060,8 @@
   {
     "uid": "iti87",
     "acronym": "Iti 87",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 82",
+    "alt_acronym": "It 3.38",
+    "volpage": "PTS It 82",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50069,8 +50069,8 @@
   {
     "uid": "iti88",
     "acronym": "Iti 88",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 83",
+    "alt_acronym": "It 3.39",
+    "volpage": "PTS It 83",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50078,8 +50078,8 @@
   {
     "uid": "iti89",
     "acronym": "Iti 89",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 85",
+    "alt_acronym": "It 3.40",
+    "volpage": "PTS It 85",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50087,8 +50087,8 @@
   {
     "uid": "iti90",
     "acronym": "Iti 90",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 87",
+    "alt_acronym": "It 3.41",
+    "volpage": "PTS It 87",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50096,8 +50096,8 @@
   {
     "uid": "iti91",
     "acronym": "Iti 91",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 89",
+    "alt_acronym": "It 3.42",
+    "volpage": "PTS It 89",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50105,8 +50105,8 @@
   {
     "uid": "iti92",
     "acronym": "Iti 92",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 90",
+    "alt_acronym": "It 3.43",
+    "volpage": "PTS It 90",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50114,8 +50114,8 @@
   {
     "uid": "iti93",
     "acronym": "Iti 93",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 92",
+    "alt_acronym": "It 3.44",
+    "volpage": "PTS It 92",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50123,8 +50123,8 @@
   {
     "uid": "iti94",
     "acronym": "Iti 94",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 93",
+    "alt_acronym": "It 3.45",
+    "volpage": "PTS It 93",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50132,8 +50132,8 @@
   {
     "uid": "iti95",
     "acronym": "Iti 95",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 94",
+    "alt_acronym": "It 3.46",
+    "volpage": "PTS It 94",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50141,8 +50141,8 @@
   {
     "uid": "iti96",
     "acronym": "Iti 96",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 95",
+    "alt_acronym": "It 3.47",
+    "volpage": "PTS It 95",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50150,8 +50150,8 @@
   {
     "uid": "iti97",
     "acronym": "Iti 97",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 96",
+    "alt_acronym": "It 3.48",
+    "volpage": "PTS It 96",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50159,8 +50159,8 @@
   {
     "uid": "iti98",
     "acronym": "Iti 98",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 98",
+    "alt_acronym": "It 3.49",
+    "volpage": "PTS It 98",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50168,8 +50168,8 @@
   {
     "uid": "iti99",
     "acronym": "Iti 99",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 98",
+    "alt_acronym": "It 3.50",
+    "volpage": "PTS It 98",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50177,8 +50177,8 @@
   {
     "uid": "iti100",
     "acronym": "Iti 100",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 101",
+    "alt_acronym": "It 4.1",
+    "volpage": "PTS It 101",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50186,8 +50186,8 @@
   {
     "uid": "iti101",
     "acronym": "Iti 101",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 102",
+    "alt_acronym": "It 4.2",
+    "volpage": "PTS It 102",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50195,8 +50195,8 @@
   {
     "uid": "iti102",
     "acronym": "Iti 102",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 103",
+    "alt_acronym": "It 4.3",
+    "volpage": "PTS It 103",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50204,8 +50204,8 @@
   {
     "uid": "iti103",
     "acronym": "Iti 103",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 104",
+    "alt_acronym": "It 4.4",
+    "volpage": "PTS It 104",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50213,8 +50213,8 @@
   {
     "uid": "iti104",
     "acronym": "Iti 104",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 106",
+    "alt_acronym": "It 4.5",
+    "volpage": "PTS It 106",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50222,8 +50222,8 @@
   {
     "uid": "iti105",
     "acronym": "Iti 105",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 109",
+    "alt_acronym": "It 4.6",
+    "volpage": "PTS It 109",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50231,8 +50231,8 @@
   {
     "uid": "iti106",
     "acronym": "Iti 106",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 109",
+    "alt_acronym": "It 4.7",
+    "volpage": "PTS It 109",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50240,8 +50240,8 @@
   {
     "uid": "iti107",
     "acronym": "Iti 107",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 111",
+    "alt_acronym": "It 4.8",
+    "volpage": "PTS It 111",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50249,8 +50249,8 @@
   {
     "uid": "iti108",
     "acronym": "Iti 108",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 112",
+    "alt_acronym": "It 4.9",
+    "volpage": "PTS It 112",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50258,8 +50258,8 @@
   {
     "uid": "iti109",
     "acronym": "Iti 109",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 113",
+    "alt_acronym": "It 4.10",
+    "volpage": "PTS It 113",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50267,8 +50267,8 @@
   {
     "uid": "iti110",
     "acronym": "Iti 110",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 115",
+    "alt_acronym": "It 4.11",
+    "volpage": "PTS It 115",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50276,8 +50276,8 @@
   {
     "uid": "iti111",
     "acronym": "Iti 111",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 118",
+    "alt_acronym": "It 4.12",
+    "volpage": "PTS It 118",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -50285,8 +50285,8 @@
   {
     "uid": "iti112",
     "acronym": "Iti 112",
-    "alt_acronym": null,
-    "volpage": "PTS Iti 121",
+    "alt_acronym": "It 4.13",
+    "volpage": "PTS It 121",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -127777,6 +127777,393 @@
     "acronym": "Lzh Dg Bi Vb Pd1- 8",
     "alt_acronym": null,
     "volpage": "T xxii 1428.30 778a08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd1",
+    "acronym": "Lzh Dg Kd 1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.31 779a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd2",
+    "acronym": "Lzh Dg Kd 2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.35 816c05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd3",
+    "acronym": "Lzh Dg Kd 3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.37 830b02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd4",
+    "acronym": "Lzh Dg Kd 4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.37 835c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd5",
+    "acronym": "Lzh Dg Kd 5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.38 843b11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd6",
+    "acronym": "Lzh Dg Kd 6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.39 849b10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd7",
+    "acronym": "Lzh Dg Kd 7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.42 866c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd8",
+    "acronym": "Lzh Dg Kd 8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.43 877c05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd9",
+    "acronym": "Lzh Dg Kd 9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.43 879b23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd10",
+    "acronym": "Lzh Dg Kd 10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.44 885a10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd11",
+    "acronym": "Lzh Dg Kd 11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.44 889a13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd12",
+    "acronym": "Lzh Dg Kd 12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.45 896b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd13",
+    "acronym": "Lzh Dg Kd 13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.46 904a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd14",
+    "acronym": "Lzh Dg Kd 14",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.46 906a09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd15",
+    "acronym": "Lzh Dg Kd 15",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.46 909b07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd16",
+    "acronym": "Lzh Dg Kd 16",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.47 913c14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd17",
+    "acronym": "Lzh Dg Kd 17",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.48 922c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd18",
+    "acronym": "Lzh Dg Kd 18",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.49 930c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd19",
+    "acronym": "Lzh Dg Kd 19",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.50 936b20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd20",
+    "acronym": "Lzh Dg Kd 20",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.51 945a20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd21",
+    "acronym": "Lzh Dg Kd 21",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.54 966a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-kd22",
+    "acronym": "Lzh Dg Kd 22",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.54 968c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-vs1",
+    "acronym": "Lzh Dg Vs 1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.55 971c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-ve1",
+    "acronym": "Lzh Dg Ve 1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1428.57 990b08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-bu-pm",
+    "acronym": "Lzh Dg Bu Pm",
+    "alt_acronym": null,
+    "volpage": "T xxii 1429.1 1015a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-dg-bi-pm",
+    "acronym": "Lzh Dg Bi Pm",
+    "alt_acronym": null,
+    "volpage": "T xxii 1431.1 1030c14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pj1",
+    "acronym": "Lzh Mg Bu Vb-pj 1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.1 227a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pj2",
+    "acronym": "Lzh Mg Bu Vb-pj 2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.2 238a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pj3",
+    "acronym": "Lzh Mg Bu Vb-pj 3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.4 253c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pj4",
+    "acronym": "Lzh Mg Bu Vb-pj 4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.4 257c16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss1",
+    "acronym": "Lzh Mg Bu Vb-ss 1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.5 262a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss2",
+    "acronym": "Lzh Mg Bu Vb-ss 2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.5 264a13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss3",
+    "acronym": "Lzh Mg Bu Vb-ss 3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.5 267c19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss4",
+    "acronym": "Lzh Mg Bu Vb-ss 4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.5 269c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss5",
+    "acronym": "Lzh Mg Bu Vb-ss 5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.6 271a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss6",
+    "acronym": "Lzh Mg Bu Vb-ss 6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.6 276b01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss7",
+    "acronym": "Lzh Mg Bu Vb-ss 7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.6 279a18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss8",
+    "acronym": "Lzh Mg Bu Vb-ss 8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.6 280a19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss9",
+    "acronym": "Lzh Mg Bu Vb-ss 9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.7 281a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss10",
+    "acronym": "Lzh Mg Bu Vb-ss 10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.7 281c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss11",
+    "acronym": "Lzh Mg Bu Vb-ss 11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.7 283b15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss12",
+    "acronym": "Lzh Mg Bu Vb-ss 12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.7 284c22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ss13",
+    "acronym": "Lzh Mg Bu Vb-ss 13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.7 286c16",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
