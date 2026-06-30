@@ -631,7 +631,10 @@
     "root_path": "root/en/site",
     "translation_path": "translation/pl/site",
     "translation_muids": "translation-pl-site",
-    "creator_github_handle": "MarcinSadl"
+    "creator_github_handle": [
+      "MarcinSadl",
+      "pyjterq"
+    ]
   },
   {
     "project_uid": "pl_names_translation",
