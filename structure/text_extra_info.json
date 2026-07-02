@@ -120288,7 +120288,7 @@
     "uid": "t765.1",
     "acronym": "T 765.1",
     "alt_acronym": null,
-    "volpage": "T xvii 662b13",
+    "volpage": "T xvii 765.1 0662b15",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -120297,7 +120297,7 @@
     "uid": "t765.2",
     "acronym": "T 765.2",
     "alt_acronym": null,
-    "volpage": "T xvii 662c12",
+    "volpage": "T xvii 765.1 0662b28",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -120306,7 +120306,1240 @@
     "uid": "t765.3",
     "acronym": "T 765.3",
     "alt_acronym": null,
-    "volpage": "T xvii 679b23",
+    "volpage": "T xvii 765.1 0662c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.4",
+    "acronym": "T 765.4",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0663a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.5",
+    "acronym": "T 765.5",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0663a16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.6",
+    "acronym": "T 765.6",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0663a29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.7",
+    "acronym": "T 765.7",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0663c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.8",
+    "acronym": "T 765.8",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0664a09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.9",
+    "acronym": "T 765.9",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0664a18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.10",
+    "acronym": "T 765.10",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0664b05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.11",
+    "acronym": "T 765.11",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0664b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.12",
+    "acronym": "T 765.12",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0664c11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.13",
+    "acronym": "T 765.13",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.14",
+    "acronym": "T 765.14",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.15",
+    "acronym": "T 765.15",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.16",
+    "acronym": "T 765.16",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.17",
+    "acronym": "T 765.17",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.18",
+    "acronym": "T 765.18",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.19",
+    "acronym": "T 765.19",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.20",
+    "acronym": "T 765.20",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.21",
+    "acronym": "T 765.21",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0665c16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.22",
+    "acronym": "T 765.22",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0666a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.23",
+    "acronym": "T 765.23",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0666a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.24",
+    "acronym": "T 765.24",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0666a27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.25",
+    "acronym": "T 765.25",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0666b10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.26",
+    "acronym": "T 765.26",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0666b22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.27",
+    "acronym": "T 765.27",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0666c08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.28",
+    "acronym": "T 765.28",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0666c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.29",
+    "acronym": "T 765.29",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0667a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.30",
+    "acronym": "T 765.30",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0667a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.31",
+    "acronym": "T 765.31",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0667a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.32",
+    "acronym": "T 765.32",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0667b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.33",
+    "acronym": "T 765.33",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0667b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.34",
+    "acronym": "T 765.34",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0667c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.35",
+    "acronym": "T 765.35",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0667c16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.36",
+    "acronym": "T 765.36",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.1 0667c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.37",
+    "acronym": "T 765.37",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0668a18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.38",
+    "acronym": "T 765.38",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0668b04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.39",
+    "acronym": "T 765.39",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0668b19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.40",
+    "acronym": "T 765.40",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0668c05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.41",
+    "acronym": "T 765.41",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0668c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.42",
+    "acronym": "T 765.42",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0669a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.43",
+    "acronym": "T 765.43",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0669a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.44",
+    "acronym": "T 765.44",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0669b07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.45",
+    "acronym": "T 765.45",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0669b22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.46",
+    "acronym": "T 765.46",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0669c08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.47",
+    "acronym": "T 765.47",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0669c23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.48",
+    "acronym": "T 765.48",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0670a09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.49",
+    "acronym": "T 765.49",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0670a24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.50",
+    "acronym": "T 765.50",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0670b11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.51",
+    "acronym": "T 765.51",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0670c11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.52",
+    "acronym": "T 765.52",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0670c23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.53",
+    "acronym": "T 765.53",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0671a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.54",
+    "acronym": "T 765.54",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0671a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.55",
+    "acronym": "T 765.55",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0671b07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.56",
+    "acronym": "T 765.56",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0671b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.57",
+    "acronym": "T 765.57",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0671b27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.58",
+    "acronym": "T 765.58",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0671c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.59",
+    "acronym": "T 765.59",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0672a04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.60",
+    "acronym": "T 765.60",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0672b02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.61",
+    "acronym": "T 765.61",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0672b18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.62",
+    "acronym": "T 765.62",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.2 0672c05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.63",
+    "acronym": "T 765.63",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0673a27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.64",
+    "acronym": "T 765.64",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0673b15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.65",
+    "acronym": "T 765.65",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0673c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.66",
+    "acronym": "T 765.66",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0673c22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.67",
+    "acronym": "T 765.67",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0674a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.68",
+    "acronym": "T 765.68",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0674a25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.69",
+    "acronym": "T 765.69",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0674b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.70",
+    "acronym": "T 765.70",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0674b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.71",
+    "acronym": "T 765.71",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0674c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.72",
+    "acronym": "T 765.72",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0674c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.73",
+    "acronym": "T 765.73",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0675a09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.74",
+    "acronym": "T 765.74",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0675b08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.75",
+    "acronym": "T 765.75",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0676b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.76",
+    "acronym": "T 765.76",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0676b20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.77",
+    "acronym": "T 765.77",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0676c09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.78",
+    "acronym": "T 765.78",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0676c24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.79",
+    "acronym": "T 765.79",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0677a09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.80",
+    "acronym": "T 765.80",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0677a29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.81",
+    "acronym": "T 765.81",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.3 0678b08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.82",
+    "acronym": "T 765.82",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0678c09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.83",
+    "acronym": "T 765.83",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0678c26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.84",
+    "acronym": "T 765.84",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0679a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.85",
+    "acronym": "T 765.85",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0679a24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.86",
+    "acronym": "T 765.86",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0679b23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.87",
+    "acronym": "T 765.87",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0680a29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.88",
+    "acronym": "T 765.88",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0680b19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.89",
+    "acronym": "T 765.89",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0680c19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.90",
+    "acronym": "T 765.90",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0681a05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.91",
+    "acronym": "T 765.91",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0681b07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.92",
+    "acronym": "T 765.92",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0681b29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.93",
+    "acronym": "T 765.93",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0681c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.94",
+    "acronym": "T 765.94",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0682a20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.95",
+    "acronym": "T 765.95",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0682b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.96",
+    "acronym": "T 765.96",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0682c09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.97",
+    "acronym": "T 765.97",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0683a09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.98",
+    "acronym": "T 765.98",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.4 0683a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.99",
+    "acronym": "T 765.99",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0683c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.100",
+    "acronym": "T 765.100",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0683c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.101",
+    "acronym": "T 765.101",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0684a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.102",
+    "acronym": "T 765.102",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0684b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.103",
+    "acronym": "T 765.103",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0684c17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.104",
+    "acronym": "T 765.104",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0685a13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.105",
+    "acronym": "T 765.105",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0685b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.106",
+    "acronym": "T 765.106",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0685c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.107",
+    "acronym": "T 765.107",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0685c24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.108",
+    "acronym": "T 765.108",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0686b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.109",
+    "acronym": "T 765.109",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0686b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.110",
+    "acronym": "T 765.110",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0687a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.111",
+    "acronym": "T 765.111",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0687c19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.112",
+    "acronym": "T 765.112",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.5 0688a20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.113",
+    "acronym": "T 765.113",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0689a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.114",
+    "acronym": "T 765.114",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0689c02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.115",
+    "acronym": "T 765.115",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0690a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.116",
+    "acronym": "T 765.116",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0690c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.117",
+    "acronym": "T 765.117",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0690c22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.118",
+    "acronym": "T 765.118",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0691a19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.119",
+    "acronym": "T 765.119",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0691b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.120",
+    "acronym": "T 765.120",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0692a01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.121",
+    "acronym": "T 765.121",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0692b13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.122",
+    "acronym": "T 765.122",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0692c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.123",
+    "acronym": "T 765.123",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0693a22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.124",
+    "acronym": "T 765.124",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0693b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.125",
+    "acronym": "T 765.125",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.6 0693c11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.126",
+    "acronym": "T 765.126",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0694a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.127",
+    "acronym": "T 765.127",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0694b12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.128",
+    "acronym": "T 765.128",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0694c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.129",
+    "acronym": "T 765.129",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0694c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.130",
+    "acronym": "T 765.130",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0695a09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.131",
+    "acronym": "T 765.131",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0695a27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.132",
+    "acronym": "T 765.132",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0695c01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.133",
+    "acronym": "T 765.133",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0696a01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.134",
+    "acronym": "T 765.134",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0696b02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.135",
+    "acronym": "T 765.135",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0696b16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.136",
+    "acronym": "T 765.136",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0696c13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.137",
+    "acronym": "T 765.137",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0697a18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.138",
+    "acronym": "T 765.138",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0697b27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.139",
+    "acronym": "T 765.139",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0698a11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "t765.140",
+    "acronym": "T 765.140",
+    "alt_acronym": null,
+    "volpage": "T xvii 765.7 0698c07",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
@@ -128065,6 +129298,3480 @@
     "acronym": "Lzh Mg Bu Vb-ss 13",
     "alt_acronym": null,
     "volpage": "T xxii 1425.7 286c16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-ka-bu-pm",
+    "acronym": "Lzh Ka Bu Pm",
+    "alt_acronym": null,
+    "volpage": "T xxiv 1460.1 659a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pm",
+    "acronym": "Lzh Mg Bu Pm",
+    "alt_acronym": null,
+    "volpage": "T xxii 1426.1 549a07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pm",
+    "acronym": "Lzh Mg Bi Pm",
+    "alt_acronym": null,
+    "volpage": "T xxii 1427.1 556a23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn1",
+    "acronym": "Lzh Mg Bi Pn1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 544c11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn2",
+    "acronym": "Lzh Mg Bi Pn2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 544c19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn3",
+    "acronym": "Lzh Mg Bi Pn3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 544c26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn4",
+    "acronym": "Lzh Mg Bi Pn4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545a05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn5",
+    "acronym": "Lzh Mg Bi Pn5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn6",
+    "acronym": "Lzh Mg Bi Pn6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn7",
+    "acronym": "Lzh Mg Bi Pn7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn8",
+    "acronym": "Lzh Mg Bi Pn8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn9",
+    "acronym": "Lzh Mg Bi Pn9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545b15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn10",
+    "acronym": "Lzh Mg Bi Pn10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn11",
+    "acronym": "Lzh Mg Bi Pn11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545b29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn12",
+    "acronym": "Lzh Mg Bi Pn12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545c08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn13",
+    "acronym": "Lzh Mg Bi Pn13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545c16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn14",
+    "acronym": "Lzh Mg Bi Pn14",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545c22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn15",
+    "acronym": "Lzh Mg Bi Pn15",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 545c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn16",
+    "acronym": "Lzh Mg Bi Pn16",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546a04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn17",
+    "acronym": "Lzh Mg Bi Pn17",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn18",
+    "acronym": "Lzh Mg Bi Pn18",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn19",
+    "acronym": "Lzh Mg Bi Pn19",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546a23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn20",
+    "acronym": "Lzh Mg Bi Pn20",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546a29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn21",
+    "acronym": "Lzh Mg Bi Pn21",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn22",
+    "acronym": "Lzh Mg Bi Pn22",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn23",
+    "acronym": "Lzh Mg Bi Pn23",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn24",
+    "acronym": "Lzh Mg Bi Pn24",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn25",
+    "acronym": "Lzh Mg Bi Pn25",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546c11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn26",
+    "acronym": "Lzh Mg Bi Pn26",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn27",
+    "acronym": "Lzh Mg Bi Pn27",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn28",
+    "acronym": "Lzh Mg Bi Pn28",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 546c29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn29",
+    "acronym": "Lzh Mg Bi Pn29",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547a07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn30",
+    "acronym": "Lzh Mg Bi Pn30",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547a27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn31",
+    "acronym": "Lzh Mg Bi Pn31",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547b11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn32",
+    "acronym": "Lzh Mg Bi Pn32",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547b26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn33",
+    "acronym": "Lzh Mg Bi Pn33",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547c02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn34",
+    "acronym": "Lzh Mg Bi Pn34",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547c07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn35",
+    "acronym": "Lzh Mg Bi Pn35",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547c16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn36",
+    "acronym": "Lzh Mg Bi Pn36",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn37",
+    "acronym": "Lzh Mg Bi Pn37",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 547c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn38",
+    "acronym": "Lzh Mg Bi Pn38",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 548a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn39",
+    "acronym": "Lzh Mg Bi Pn39",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 548a05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-pn40",
+    "acronym": "Lzh Mg Bi Pn40",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 548a07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn1",
+    "acronym": "Lzh Mg Bu Pn1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.23 412b19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn2",
+    "acronym": "Lzh Mg Bu Pn2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.24 426b13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn3",
+    "acronym": "Lzh Mg Bu Pn3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.26 442a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn4",
+    "acronym": "Lzh Mg Bu Pn4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.27 446c07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn5",
+    "acronym": "Lzh Mg Bu Pn5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.28 455a25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn6",
+    "acronym": "Lzh Mg Bu Pn6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.29 464c07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn7",
+    "acronym": "Lzh Mg Bu Pn7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.29 466c14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn8",
+    "acronym": "Lzh Mg Bu Pn8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.31 483b05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn9",
+    "acronym": "Lzh Mg Bu Pn9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.32 485c21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn10",
+    "acronym": "Lzh Mg Bu Pn10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.32 488b12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn11",
+    "acronym": "Lzh Mg Bu Pn11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.33 493c26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn12",
+    "acronym": "Lzh Mg Bu Pn12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.33 495b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn13",
+    "acronym": "Lzh Mg Bu Pn13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.33 496c15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-pn14",
+    "acronym": "Lzh Mg Bu Pn14",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.33 497b18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-asc1",
+    "acronym": "Lzh Mg Asc1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.34 499a20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-asc2",
+    "acronym": "Lzh Mg Asc2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.34 502b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-asc3",
+    "acronym": "Lzh Mg Asc3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.34 505c01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-asc4",
+    "acronym": "Lzh Mg Asc4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.35 507b04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-asc5",
+    "acronym": "Lzh Mg Asc5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.35 509c26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-asc6",
+    "acronym": "Lzh Mg Asc6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.35 511b16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-asc7",
+    "acronym": "Lzh Mg Asc7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.35 512c11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss1",
+    "acronym": "Lzh Mg Bi Vb Ss1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 517b29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss2",
+    "acronym": "Lzh Mg Bi Vb Ss2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 517c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss3",
+    "acronym": "Lzh Mg Bi Vb Ss3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 517c08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss4",
+    "acronym": "Lzh Mg Bi Vb Ss4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 517c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss5",
+    "acronym": "Lzh Mg Bi Vb Ss5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 518a20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss6",
+    "acronym": "Lzh Mg Bi Vb Ss6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 518b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss7",
+    "acronym": "Lzh Mg Bi Vb Ss7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 519b02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss8",
+    "acronym": "Lzh Mg Bi Vb Ss8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 519c07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss9",
+    "acronym": "Lzh Mg Bi Vb Ss9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 520b15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss10",
+    "acronym": "Lzh Mg Bi Vb Ss10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 520b29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss11",
+    "acronym": "Lzh Mg Bi Vb Ss11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 521a11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss12",
+    "acronym": "Lzh Mg Bi Vb Ss12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 521b11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss13",
+    "acronym": "Lzh Mg Bi Vb Ss13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 521c10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss14",
+    "acronym": "Lzh Mg Bi Vb Ss14",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 521c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss15",
+    "acronym": "Lzh Mg Bi Vb Ss15",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 522a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss16",
+    "acronym": "Lzh Mg Bi Vb Ss16",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 522b24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss17",
+    "acronym": "Lzh Mg Bi Vb Ss17",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 522c09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss18",
+    "acronym": "Lzh Mg Bi Vb Ss18",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 522c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-ss19",
+    "acronym": "Lzh Mg Bi Vb Ss19",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 523c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pd1-8",
+    "acronym": "Lzh Mg Bi Vb Pd1-8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 544a08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pj1",
+    "acronym": "Lzh Mg Bi Vb Pj1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 514a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pj2",
+    "acronym": "Lzh Mg Bi Vb Pj2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 515a05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pj3",
+    "acronym": "Lzh Mg Bi Vb Pj3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 515a08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pj4",
+    "acronym": "Lzh Mg Bi Vb Pj4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 515a11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pj5",
+    "acronym": "Lzh Mg Bi Vb Pj5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 515a17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pj6",
+    "acronym": "Lzh Mg Bi Vb Pj6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 515c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pj7",
+    "acronym": "Lzh Mg Bi Vb Pj7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 516b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pj8",
+    "acronym": "Lzh Mg Bi Vb Pj8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.36 516c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc1-70",
+    "acronym": "Lzh Mg Bi Vb Pc1-70",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 527b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc71",
+    "acronym": "Lzh Mg Bi Vb Pc71",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 527c14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc72",
+    "acronym": "Lzh Mg Bi Vb Pc72",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 528a08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc73",
+    "acronym": "Lzh Mg Bi Vb Pc73",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 528b05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc74",
+    "acronym": "Lzh Mg Bi Vb Pc74",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 528b23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc75",
+    "acronym": "Lzh Mg Bi Vb Pc75",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 528c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc76",
+    "acronym": "Lzh Mg Bi Vb Pc76",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 529b10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc77",
+    "acronym": "Lzh Mg Bi Vb Pc77",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 529c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc78",
+    "acronym": "Lzh Mg Bi Vb Pc78",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 529c23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc79",
+    "acronym": "Lzh Mg Bi Vb Pc79",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 530a22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc80",
+    "acronym": "Lzh Mg Bi Vb Pc80",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 530b14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc81",
+    "acronym": "Lzh Mg Bi Vb Pc81",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 530c01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc82",
+    "acronym": "Lzh Mg Bi Vb Pc82",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 531a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc83",
+    "acronym": "Lzh Mg Bi Vb Pc83",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 531a19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc84",
+    "acronym": "Lzh Mg Bi Vb Pc84",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 531b05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc85",
+    "acronym": "Lzh Mg Bi Vb Pc85",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 531b26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc86",
+    "acronym": "Lzh Mg Bi Vb Pc86",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 531c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc87",
+    "acronym": "Lzh Mg Bi Vb Pc87",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 532a05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc88",
+    "acronym": "Lzh Mg Bi Vb Pc88",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 532a23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc89",
+    "acronym": "Lzh Mg Bi Vb Pc89",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 532b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc90",
+    "acronym": "Lzh Mg Bi Vb Pc90",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 532c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc91",
+    "acronym": "Lzh Mg Bi Vb Pc91",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 532c26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc92",
+    "acronym": "Lzh Mg Bi Vb Pc92",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 533a20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc93",
+    "acronym": "Lzh Mg Bi Vb Pc93",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 533b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc94",
+    "acronym": "Lzh Mg Bi Vb Pc94",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 533c09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc95",
+    "acronym": "Lzh Mg Bi Vb Pc95",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 534a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc96",
+    "acronym": "Lzh Mg Bi Vb Pc96",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 534b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc97",
+    "acronym": "Lzh Mg Bi Vb Pc97",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 534c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc98",
+    "acronym": "Lzh Mg Bi Vb Pc98",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 535a17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc99",
+    "acronym": "Lzh Mg Bi Vb Pc99",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.38 535b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc100",
+    "acronym": "Lzh Mg Bi Vb Pc100",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 535c14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc101",
+    "acronym": "Lzh Mg Bi Vb Pc101",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 536a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc102",
+    "acronym": "Lzh Mg Bi Vb Pc102",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 536a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc103",
+    "acronym": "Lzh Mg Bi Vb Pc103",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 536a29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc104",
+    "acronym": "Lzh Mg Bi Vb Pc104",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 536b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc105",
+    "acronym": "Lzh Mg Bi Vb Pc105",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 536b26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc106",
+    "acronym": "Lzh Mg Bi Vb Pc106",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 536c13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc107",
+    "acronym": "Lzh Mg Bi Vb Pc107",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 536c24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc108",
+    "acronym": "Lzh Mg Bi Vb Pc108",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 537a17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc109",
+    "acronym": "Lzh Mg Bi Vb Pc109",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 537b08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc110",
+    "acronym": "Lzh Mg Bi Vb Pc110",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 537b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc111",
+    "acronym": "Lzh Mg Bi Vb Pc111",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 537c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc112",
+    "acronym": "Lzh Mg Bi Vb Pc112",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 538a11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc113",
+    "acronym": "Lzh Mg Bi Vb Pc113",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 538b02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc114",
+    "acronym": "Lzh Mg Bi Vb Pc114",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 538b18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc115",
+    "acronym": "Lzh Mg Bi Vb Pc115",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 538c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc116",
+    "acronym": "Lzh Mg Bi Vb Pc116",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 538c17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc117",
+    "acronym": "Lzh Mg Bi Vb Pc117",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 539a11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc118",
+    "acronym": "Lzh Mg Bi Vb Pc118",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 539b04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc119",
+    "acronym": "Lzh Mg Bi Vb Pc119",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 539c01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc120",
+    "acronym": "Lzh Mg Bi Vb Pc120",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 539c13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc121",
+    "acronym": "Lzh Mg Bi Vb Pc121",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 540a13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc122",
+    "acronym": "Lzh Mg Bi Vb Pc122",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 540a24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc123",
+    "acronym": "Lzh Mg Bi Vb Pc123",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 540b06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc124",
+    "acronym": "Lzh Mg Bi Vb Pc124",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 540b20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc125",
+    "acronym": "Lzh Mg Bi Vb Pc125",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 540c09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc126",
+    "acronym": "Lzh Mg Bi Vb Pc126",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 541a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc127",
+    "acronym": "Lzh Mg Bi Vb Pc127",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 541a20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc128",
+    "acronym": "Lzh Mg Bi Vb Pc128",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 541a27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc129",
+    "acronym": "Lzh Mg Bi Vb Pc129",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 541b01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc130",
+    "acronym": "Lzh Mg Bi Vb Pc130",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 541b04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc131",
+    "acronym": "Lzh Mg Bi Vb Pc131",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 541b08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc132",
+    "acronym": "Lzh Mg Bi Vb Pc132",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 541b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc133",
+    "acronym": "Lzh Mg Bi Vb Pc133",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.39 541c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc134",
+    "acronym": "Lzh Mg Bi Vb Pc134",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 542b02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc135",
+    "acronym": "Lzh Mg Bi Vb Pc135",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 542b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc136",
+    "acronym": "Lzh Mg Bi Vb Pc136",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 542c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc137",
+    "acronym": "Lzh Mg Bi Vb Pc137",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 542c15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc138",
+    "acronym": "Lzh Mg Bi Vb Pc138",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 543a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc139",
+    "acronym": "Lzh Mg Bi Vb Pc139",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 543a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc140",
+    "acronym": "Lzh Mg Bi Vb Pc140",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 543b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-pc141",
+    "acronym": "Lzh Mg Bi Vb Pc141",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 543b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np1-10",
+    "acronym": "Lzh Mg Bi Vb Np1-10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 524b04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np11",
+    "acronym": "Lzh Mg Bi Vb Np11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 524b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np12",
+    "acronym": "Lzh Mg Bi Vb Np12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 524c11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np13",
+    "acronym": "Lzh Mg Bi Vb Np13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 525a05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np14",
+    "acronym": "Lzh Mg Bi Vb Np14",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 525b01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np15",
+    "acronym": "Lzh Mg Bi Vb Np15",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 525b19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np16",
+    "acronym": "Lzh Mg Bi Vb Np16",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 525c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np17",
+    "acronym": "Lzh Mg Bi Vb Np17",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 525c24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np18",
+    "acronym": "Lzh Mg Bi Vb Np18",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 526a16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np19",
+    "acronym": "Lzh Mg Bi Vb Np19",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 526b06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np20",
+    "acronym": "Lzh Mg Bi Vb Np20",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 526c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-np29",
+    "acronym": "Lzh Mg Bi Vb Np29",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.37 527a08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-sk1-77",
+    "acronym": "Lzh Mg Bi Vb Sk1-77",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 544c05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bi-vb-as1-7",
+    "acronym": "Lzh Mg Bi Vb As1-7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.40 544c07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk1",
+    "acronym": "Lzh Mg Bu Vb Sk1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 399b07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk2",
+    "acronym": "Lzh Mg Bu Vb Sk2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 399c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk3",
+    "acronym": "Lzh Mg Bu Vb Sk3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 399c23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk4",
+    "acronym": "Lzh Mg Bu Vb Sk4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 400a11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk5",
+    "acronym": "Lzh Mg Bu Vb Sk5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 400a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk6",
+    "acronym": "Lzh Mg Bu Vb Sk6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 400b10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk7",
+    "acronym": "Lzh Mg Bu Vb Sk7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 400b27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk8",
+    "acronym": "Lzh Mg Bu Vb Sk8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 400c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk9",
+    "acronym": "Lzh Mg Bu Vb Sk9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 400c29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk10",
+    "acronym": "Lzh Mg Bu Vb Sk10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 401a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk11",
+    "acronym": "Lzh Mg Bu Vb Sk11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 401b02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk12",
+    "acronym": "Lzh Mg Bu Vb Sk12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 401b14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk13",
+    "acronym": "Lzh Mg Bu Vb Sk13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 401b26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk14",
+    "acronym": "Lzh Mg Bu Vb Sk14",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 401c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk15",
+    "acronym": "Lzh Mg Bu Vb Sk15",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 402a04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk16",
+    "acronym": "Lzh Mg Bu Vb Sk16",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 402a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk17",
+    "acronym": "Lzh Mg Bu Vb Sk17",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 402b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk18",
+    "acronym": "Lzh Mg Bu Vb Sk18",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 402b27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk19",
+    "acronym": "Lzh Mg Bu Vb Sk19",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 402c15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk20",
+    "acronym": "Lzh Mg Bu Vb Sk20",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 403a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk21",
+    "acronym": "Lzh Mg Bu Vb Sk21",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 403a24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk22",
+    "acronym": "Lzh Mg Bu Vb Sk22",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 403b15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk23",
+    "acronym": "Lzh Mg Bu Vb Sk23",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 403c01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk24",
+    "acronym": "Lzh Mg Bu Vb Sk24",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 403c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk25",
+    "acronym": "Lzh Mg Bu Vb Sk25",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 404a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk26",
+    "acronym": "Lzh Mg Bu Vb Sk26",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 404a23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk27",
+    "acronym": "Lzh Mg Bu Vb Sk27",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 404b08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk28",
+    "acronym": "Lzh Mg Bu Vb Sk28",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 404b22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk29",
+    "acronym": "Lzh Mg Bu Vb Sk29",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 404c07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk30",
+    "acronym": "Lzh Mg Bu Vb Sk30",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 404c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk31",
+    "acronym": "Lzh Mg Bu Vb Sk31",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 405a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk32",
+    "acronym": "Lzh Mg Bu Vb Sk32",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 405a18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk33",
+    "acronym": "Lzh Mg Bu Vb Sk33",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 405b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk34",
+    "acronym": "Lzh Mg Bu Vb Sk34",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 405b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk35",
+    "acronym": "Lzh Mg Bu Vb Sk35",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 405c06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk36",
+    "acronym": "Lzh Mg Bu Vb Sk36",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 405c19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk37",
+    "acronym": "Lzh Mg Bu Vb Sk37",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 406a04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk38",
+    "acronym": "Lzh Mg Bu Vb Sk38",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 406a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk39",
+    "acronym": "Lzh Mg Bu Vb Sk39",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 406a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk40",
+    "acronym": "Lzh Mg Bu Vb Sk40",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 406b09",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk41",
+    "acronym": "Lzh Mg Bu Vb Sk41",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 406b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk42",
+    "acronym": "Lzh Mg Bu Vb Sk42",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 406c08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk43",
+    "acronym": "Lzh Mg Bu Vb Sk43",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 406c24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk44",
+    "acronym": "Lzh Mg Bu Vb Sk44",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 407a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk45",
+    "acronym": "Lzh Mg Bu Vb Sk45",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 407b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk46",
+    "acronym": "Lzh Mg Bu Vb Sk46",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 407b19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk47",
+    "acronym": "Lzh Mg Bu Vb Sk47",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 407c05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk48",
+    "acronym": "Lzh Mg Bu Vb Sk48",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 407c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk49",
+    "acronym": "Lzh Mg Bu Vb Sk49",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 408a18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk50",
+    "acronym": "Lzh Mg Bu Vb Sk50",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 408b06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk51",
+    "acronym": "Lzh Mg Bu Vb Sk51",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 408b29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk52",
+    "acronym": "Lzh Mg Bu Vb Sk52",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 408c19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk53",
+    "acronym": "Lzh Mg Bu Vb Sk53",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 409a10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk54",
+    "acronym": "Lzh Mg Bu Vb Sk54",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 409a29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk55",
+    "acronym": "Lzh Mg Bu Vb Sk55",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 409b20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk56",
+    "acronym": "Lzh Mg Bu Vb Sk56",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 409c08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk57",
+    "acronym": "Lzh Mg Bu Vb Sk57",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 410a01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk58",
+    "acronym": "Lzh Mg Bu Vb Sk58",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 410a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk59",
+    "acronym": "Lzh Mg Bu Vb Sk59",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 410b12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk60",
+    "acronym": "Lzh Mg Bu Vb Sk60",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 410c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk61",
+    "acronym": "Lzh Mg Bu Vb Sk61",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 410c24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk62",
+    "acronym": "Lzh Mg Bu Vb Sk62",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 411a17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk63",
+    "acronym": "Lzh Mg Bu Vb Sk63",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 411b10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk64-65",
+    "acronym": "Lzh Mg Bu Vb Sk64-65",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 411c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-sk66",
+    "acronym": "Lzh Mg Bu Vb Sk66",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 412a19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc1",
+    "acronym": "Lzh Mg Bu Vb Pc1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.12 324c02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc2",
+    "acronym": "Lzh Mg Bu Vb Pc2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.12 325b13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc3",
+    "acronym": "Lzh Mg Bu Vb Pc3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.12 326b07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc4",
+    "acronym": "Lzh Mg Bu Vb Pc4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.12 327a25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc5",
+    "acronym": "Lzh Mg Bu Vb Pc5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.13 335b28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc6",
+    "acronym": "Lzh Mg Bu Vb Pc6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.13 336c05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc7",
+    "acronym": "Lzh Mg Bu Vb Pc7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.13 337a13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc8",
+    "acronym": "Lzh Mg Bu Vb Pc8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 337b18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc9",
+    "acronym": "Lzh Mg Bu Vb Pc9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 338b01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc10",
+    "acronym": "Lzh Mg Bu Vb Pc10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 338c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc11",
+    "acronym": "Lzh Mg Bu Vb Pc11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 339a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc12",
+    "acronym": "Lzh Mg Bu Vb Pc12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 340a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc13",
+    "acronym": "Lzh Mg Bu Vb Pc13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 340c27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc14",
+    "acronym": "Lzh Mg Bu Vb Pc14",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 341c14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc15",
+    "acronym": "Lzh Mg Bu Vb Pc15",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 342b29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc16",
+    "acronym": "Lzh Mg Bu Vb Pc16",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.14 343a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc17",
+    "acronym": "Lzh Mg Bu Vb Pc17",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 344a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc18",
+    "acronym": "Lzh Mg Bu Vb Pc18",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 344c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc19",
+    "acronym": "Lzh Mg Bu Vb Pc19",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 344c27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc20",
+    "acronym": "Lzh Mg Bu Vb Pc20",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 345a29",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc21",
+    "acronym": "Lzh Mg Bu Vb Pc21",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 345c23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc22",
+    "acronym": "Lzh Mg Bu Vb Pc22",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 346a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc23",
+    "acronym": "Lzh Mg Bu Vb Pc23",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 346c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc24",
+    "acronym": "Lzh Mg Bu Vb Pc24",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 347b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc25",
+    "acronym": "Lzh Mg Bu Vb Pc25",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 347c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc26",
+    "acronym": "Lzh Mg Bu Vb Pc26",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 348b01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc27",
+    "acronym": "Lzh Mg Bu Vb Pc27",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 349a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc28",
+    "acronym": "Lzh Mg Bu Vb Pc28",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 349b10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc29",
+    "acronym": "Lzh Mg Bu Vb Pc29",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 349c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc30",
+    "acronym": "Lzh Mg Bu Vb Pc30",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.15 350a01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc31",
+    "acronym": "Lzh Mg Bu Vb Pc31",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.16 351b02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc32",
+    "acronym": "Lzh Mg Bu Vb Pc32",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.16 352a05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc33",
+    "acronym": "Lzh Mg Bu Vb Pc33",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.16 354b04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc34",
+    "acronym": "Lzh Mg Bu Vb Pc34",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.16 356b24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc35",
+    "acronym": "Lzh Mg Bu Vb Pc35",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.16 357a05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc36",
+    "acronym": "Lzh Mg Bu Vb Pc36",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 359b06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc37",
+    "acronym": "Lzh Mg Bu Vb Pc37",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 359c04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc38",
+    "acronym": "Lzh Mg Bu Vb Pc38",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 360c13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc39",
+    "acronym": "Lzh Mg Bu Vb Pc39",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 361c07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc40",
+    "acronym": "Lzh Mg Bu Vb Pc40",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 362b24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc41",
+    "acronym": "Lzh Mg Bu Vb Pc41",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 362b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc42",
+    "acronym": "Lzh Mg Bu Vb Pc42",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 365b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc43",
+    "acronym": "Lzh Mg Bu Vb Pc43",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 366a21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc44",
+    "acronym": "Lzh Mg Bu Vb Pc44",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 366b28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc45",
+    "acronym": "Lzh Mg Bu Vb Pc45",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.17 367a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc46",
+    "acronym": "Lzh Mg Bu Vb Pc46",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 367c08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc47",
+    "acronym": "Lzh Mg Bu Vb Pc47",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 368a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc48",
+    "acronym": "Lzh Mg Bu Vb Pc48",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 369a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc49",
+    "acronym": "Lzh Mg Bu Vb Pc49",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 369c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc50",
+    "acronym": "Lzh Mg Bu Vb Pc50",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 371c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc51",
+    "acronym": "Lzh Mg Bu Vb Pc51",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 372c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc52",
+    "acronym": "Lzh Mg Bu Vb Pc52",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 373b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc53",
+    "acronym": "Lzh Mg Bu Vb Pc53",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 374a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc54",
+    "acronym": "Lzh Mg Bu Vb Pc54",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 374a14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc55",
+    "acronym": "Lzh Mg Bu Vb Pc55",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 374b14",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc56",
+    "acronym": "Lzh Mg Bu Vb Pc56",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 374c16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc57",
+    "acronym": "Lzh Mg Bu Vb Pc57",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 375b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc58",
+    "acronym": "Lzh Mg Bu Vb Pc58",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 375c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc59",
+    "acronym": "Lzh Mg Bu Vb Pc59",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.18 376a25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc60",
+    "acronym": "Lzh Mg Bu Vb Pc60",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 376c02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc61",
+    "acronym": "Lzh Mg Bu Vb Pc61",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 377a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc62",
+    "acronym": "Lzh Mg Bu Vb Pc62",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 378a27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc63",
+    "acronym": "Lzh Mg Bu Vb Pc63",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 379a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc64",
+    "acronym": "Lzh Mg Bu Vb Pc64",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 379b06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc65",
+    "acronym": "Lzh Mg Bu Vb Pc65",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 379c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc66",
+    "acronym": "Lzh Mg Bu Vb Pc66",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 380a23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc67",
+    "acronym": "Lzh Mg Bu Vb Pc67",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 380c24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc68",
+    "acronym": "Lzh Mg Bu Vb Pc68",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 381b06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc69",
+    "acronym": "Lzh Mg Bu Vb Pc69",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 381c28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc70",
+    "acronym": "Lzh Mg Bu Vb Pc70",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 382b26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc71",
+    "acronym": "Lzh Mg Bu Vb Pc71",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 383a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc72",
+    "acronym": "Lzh Mg Bu Vb Pc72",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 383c23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc73",
+    "acronym": "Lzh Mg Bu Vb Pc73",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.19 384c10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc74",
+    "acronym": "Lzh Mg Bu Vb Pc74",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 385b23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc75",
+    "acronym": "Lzh Mg Bu Vb Pc75",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 386a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc76",
+    "acronym": "Lzh Mg Bu Vb Pc76",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 386c13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc77",
+    "acronym": "Lzh Mg Bu Vb Pc77",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 387b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc78",
+    "acronym": "Lzh Mg Bu Vb Pc78",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 388a13",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc79",
+    "acronym": "Lzh Mg Bu Vb Pc79",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 388b28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc80",
+    "acronym": "Lzh Mg Bu Vb Pc80",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 389a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc81",
+    "acronym": "Lzh Mg Bu Vb Pc81",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 389c08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc82",
+    "acronym": "Lzh Mg Bu Vb Pc82",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 390b16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc83",
+    "acronym": "Lzh Mg Bu Vb Pc83",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 391a08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc84",
+    "acronym": "Lzh Mg Bu Vb Pc84",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 391b18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc85",
+    "acronym": "Lzh Mg Bu Vb Pc85",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 392a08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc86",
+    "acronym": "Lzh Mg Bu Vb Pc86",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 392b19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc87",
+    "acronym": "Lzh Mg Bu Vb Pc87",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 393a22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc88",
+    "acronym": "Lzh Mg Bu Vb Pc88",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 393b24",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc89",
+    "acronym": "Lzh Mg Bu Vb Pc89",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.20 394a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc90",
+    "acronym": "Lzh Mg Bu Vb Pc90",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 394c02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc91",
+    "acronym": "Lzh Mg Bu Vb Pc91",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 395a28",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-pc92",
+    "acronym": "Lzh Mg Bu Vb Pc92",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.21 395c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np1",
+    "acronym": "Lzh Mg Bu Vb Np1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.8 291a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np2",
+    "acronym": "Lzh Mg Bu Vb Np2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.8 293c17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np3",
+    "acronym": "Lzh Mg Bu Vb Np3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.8 298b25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np4",
+    "acronym": "Lzh Mg Bu Vb Np4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.8 299b04",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np5",
+    "acronym": "Lzh Mg Bu Vb Np5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 300b17",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np6",
+    "acronym": "Lzh Mg Bu Vb Np6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 301c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np7",
+    "acronym": "Lzh Mg Bu Vb Np7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 303a06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np8",
+    "acronym": "Lzh Mg Bu Vb Np8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 304b21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np9",
+    "acronym": "Lzh Mg Bu Vb Np9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 305a26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np10",
+    "acronym": "Lzh Mg Bu Vb Np10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 305b07",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np11",
+    "acronym": "Lzh Mg Bu Vb Np11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 306c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np12",
+    "acronym": "Lzh Mg Bu Vb Np12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 307b19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np13",
+    "acronym": "Lzh Mg Bu Vb Np13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 307c20",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np14",
+    "acronym": "Lzh Mg Bu Vb Np14",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 308b12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np15",
+    "acronym": "Lzh Mg Bu Vb Np15",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 309a15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np16",
+    "acronym": "Lzh Mg Bu Vb Np16",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 309b18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np17",
+    "acronym": "Lzh Mg Bu Vb Np17",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.9 310a18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np18",
+    "acronym": "Lzh Mg Bu Vb Np18",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.10 310c02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np19",
+    "acronym": "Lzh Mg Bu Vb Np19",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.10 312c03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np20",
+    "acronym": "Lzh Mg Bu Vb Np20",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.10 313c15",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np21",
+    "acronym": "Lzh Mg Bu Vb Np21",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.10 314b08",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np22",
+    "acronym": "Lzh Mg Bu Vb Np22",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.10 315a11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np23",
+    "acronym": "Lzh Mg Bu Vb Np23",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.10 316b03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np24",
+    "acronym": "Lzh Mg Bu Vb Np24",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.11 318b23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np25",
+    "acronym": "Lzh Mg Bu Vb Np25",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.11 319c01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np26",
+    "acronym": "Lzh Mg Bu Vb Np26",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.11 320b06",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np27",
+    "acronym": "Lzh Mg Bu Vb Np27",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.11 320c12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np28",
+    "acronym": "Lzh Mg Bu Vb Np28",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.11 321c27",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np29",
+    "acronym": "Lzh Mg Bu Vb Np29",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.11 323a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-np30",
+    "acronym": "Lzh Mg Bu Vb Np30",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.11 323c23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-ay1-2",
+    "acronym": "Lzh Mg Bu Vb Ay1-2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.7 289c18",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mg-bu-vb-as1-7",
+    "acronym": "Lzh Mg Bu Vb As1-7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1425.22 412b05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss1",
+    "acronym": "Lzh Mi Bu Vb Ss1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.2 010b01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss2",
+    "acronym": "Lzh Mi Bu Vb Ss2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.2 010c25",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss3",
+    "acronym": "Lzh Mi Bu Vb Ss3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.2 011b23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss4",
+    "acronym": "Lzh Mi Bu Vb Ss4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.2 011c26",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss5",
+    "acronym": "Lzh Mi Bu Vb Ss5",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.2 012a16",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss6",
+    "acronym": "Lzh Mi Bu Vb Ss6",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.2 013a12",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss7",
+    "acronym": "Lzh Mi Bu Vb Ss7",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.3 014b23",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss8",
+    "acronym": "Lzh Mi Bu Vb Ss8",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.3 015a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss9",
+    "acronym": "Lzh Mi Bu Vb Ss9",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.3 016b19",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss10",
+    "acronym": "Lzh Mi Bu Vb Ss10",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.3 016c21",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss11",
+    "acronym": "Lzh Mi Bu Vb Ss11",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.3 021a02",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss12",
+    "acronym": "Lzh Mi Bu Vb Ss12",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.3 021b05",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ss13",
+    "acronym": "Lzh Mi Bu Vb Ss13",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.3 021c11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-pj1",
+    "acronym": "Lzh Mi Bu Vb Pj1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.1 001a03",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-pj2",
+    "acronym": "Lzh Mi Bu Vb Pj2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.1 005b01",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-pj3",
+    "acronym": "Lzh Mi Bu Vb Pj3",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.2 007a22",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-pj4",
+    "acronym": "Lzh Mi Bu Vb Pj4",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.2 009a11",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ay1",
+    "acronym": "Lzh Mi Bu Vb Ay1",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.4 022c10",
+    "alt_volpage": null,
+    "alt_name": null,
+    "biblio_uid": null
+  },
+  {
+    "uid": "lzh-mi-bu-vb-ay2",
+    "acronym": "Lzh Mi Bu Vb Ay2",
+    "alt_acronym": null,
+    "volpage": "T xxii 1421.4 023a02",
     "alt_volpage": null,
     "alt_name": null,
     "biblio_uid": null
