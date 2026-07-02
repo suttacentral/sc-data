@@ -1286,6 +1286,17 @@
       }
     ]
   },
+  "tr_ms_translation_fulyakoksoy": {
+    "name": "Türkçe translation Fulyak Oksoy",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/fulyakoksoy/sutta",
+    "translation_muids": "translation-tr-fulyakoksoy",
+    "collaborator": [
+      {
+        "author_github_handle": "FulyaKoksoy"
+      }
+    ]
+  },
   "vi_blurb_translation": {
     "name": "Vietnamese blurb translation",
     "root_path": "root/en/blurb",
