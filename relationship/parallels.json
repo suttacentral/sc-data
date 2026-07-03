@@ -25711,22 +25711,6 @@
     },
     {
         "parallels": [
-            "lzh-mi-bu-vb-sk73",
-            "lzh-mi-bu-pm-sk73",
-            "lzh-mg-bu-vb-sk28",
-            "lzh-mg-bu-pm-sk28",
-            "san-mg-bu-pm-sk27",
-            "san-lo-bu-pm-sk27",
-            "lzh-mi-bi-vb-sk73",
-            "lzh-mi-bi-pm-sk73",
-            "lzh-sarv-bi-pm-dh-sk75",
-            "lzh-sarv-bi-vb-sk72",
-            "lzh-sarv-bi-pm-sk72",
-            "san-lo-bi-vb-sk28"
-        ]
-    },
-    {
-        "parallels": [
             "lzh-mi-bu-vb-sk86",
             "~lzh-sarv-bu-pm-sk98",
             "~lzh-sarv-bu-pm-2-sk92",
@@ -41641,7 +41625,19 @@
             "xct-mu-bi-pm-sk59",
             "lzh-mg-bi-vb-sk41",
             "lzh-mg-bi-pm-sk41",
-            "san-lo-bi-vb-sk30"
+            "san-lo-bi-vb-sk30",
+            "lzh-mi-bu-vb-sk73",
+            "lzh-mi-bu-pm-sk73",
+            "lzh-mg-bu-vb-sk28",
+            "lzh-mg-bu-pm-sk28",
+            "san-mg-bu-pm-sk27",
+            "san-lo-bu-pm-sk27",
+            "lzh-mi-bi-vb-sk73",
+            "lzh-mi-bi-pm-sk73",
+            "lzh-sarv-bi-pm-dh-sk75",
+            "lzh-sarv-bi-vb-sk72",
+            "lzh-sarv-bi-pm-sk72",
+            "san-lo-bi-vb-sk28"
         ]
     },
     {
@@ -42318,8 +42314,8 @@
             "san-mu-mpt-bu-pm-sk86",
             "lzh-mi-bu-vb-sk94",
             "lzh-mi-bu-pm-sk94",
-            "lzh-mg-bu-vb-sk56",
-            "lzh-mg-bu-pm-sk56",
+            "lzh-mg-bu-vb-sk55",
+            "lzh-mg-bu-pm-sk55",
             "san-mg-bu-pm-sk57",
             "san-lo-bu-pm-sk57",
             "pli-tv-bi-vb-sk65",
