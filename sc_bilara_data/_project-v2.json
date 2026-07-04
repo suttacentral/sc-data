@@ -69,7 +69,10 @@
     "root_path": "root/pli/ms/sutta/kn",
     "translation_path": "translation/de/sonjabuege/sutta/kn",
     "translation_muids": "translation-de-sonjabuege",
-    "creator_github_handle": "Kazeni-sawaru"
+    "creator_github_handle": [
+      "Kazeni-sawaru",
+      "sabbamitta"
+    ]
   },
   {
     "project_uid": "en_ms_translation_brahmali",
