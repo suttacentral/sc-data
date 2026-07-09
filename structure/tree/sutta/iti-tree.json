@@ -1,9 +1,9 @@
 {
   "iti": [
     {
-      "iti-ekakanipata": [
+      "t765-ekakanipata": [
         {
-          "iti-ekakanipata-pathamavagga": [
+          "t765-ekakanipata-pathamavagga": [
             "iti1",
             "iti2",
             "iti3",
@@ -17,7 +17,7 @@
           ]
         },
         {
-          "iti-ekakanipata-dutiyavagga": [
+          "t765-ekakanipata-dutiyavagga": [
             "iti11",
             "iti12",
             "iti13",
@@ -31,7 +31,7 @@
           ]
         },
         {
-          "iti-ekakanipata-tatiyavagga": [
+          "t765-ekakanipata-tatiyavagga": [
             "iti21",
             "iti22",
             "iti23",
@@ -44,9 +44,9 @@
       ]
     },
     {
-      "iti-dukanipata": [
+      "t765-dukanipata": [
         {
-          "iti-dukanipata-pathamavagga": [
+          "t765-dukanipata-pathamavagga": [
             "iti28",
             "iti29",
             "iti30",
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "iti-dukanipata-dutiyavagga": [
+          "t765-dukanipata-dutiyavagga": [
             "iti38",
             "iti39",
             "iti40",
@@ -78,9 +78,9 @@
       ]
     },
     {
-      "iti-tikanipata": [
+      "t765-tikanipata": [
         {
-          "iti-tikanipata-pathamavagga": [
+          "t765-tikanipata-pathamavagga": [
             "iti50",
             "iti51",
             "iti52",
@@ -94,7 +94,7 @@
           ]
         },
         {
-          "iti-tikanipata-dutiyavagga": [
+          "t765-tikanipata-dutiyavagga": [
             "iti60",
             "iti61",
             "iti62",
@@ -108,7 +108,7 @@
           ]
         },
         {
-          "iti-tikanipata-tatiyavagga": [
+          "t765-tikanipata-tatiyavagga": [
             "iti70",
             "iti71",
             "iti72",
@@ -122,7 +122,7 @@
           ]
         },
         {
-          "iti-catutthavagga": [
+          "t765-catutthavagga": [
             "iti80",
             "iti81",
             "iti82",
@@ -136,7 +136,7 @@
           ]
         },
         {
-          "iti-pancamavagga": [
+          "t765-pancamavagga": [
             "iti90",
             "iti91",
             "iti92",
@@ -152,9 +152,9 @@
       ]
     },
     {
-      "iti-catukkanipata": [
+      "t765-catukkanipata": [
         {
-          "iti-brahmanadhammayagavagga": [
+          "t765-brahmanadhammayagavagga": [
             "iti100",
             "iti101",
             "iti102",
