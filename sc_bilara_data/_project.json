@@ -421,6 +421,17 @@
       }
     ]
   },
+  "fr_ms_translation_marion": {
+    "name": "French sutta translation Marion Ah-Mouck",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/marion/sutta",
+    "translation_muids": "translation-fr-marion",
+    "collaborator": [
+      {
+        "author_github_handle": "Marion009"
+      }
+    ]
+  },
   "fr_ms_translation_cittadhammo": {
     "name": "French sutta translation Cittadhammo Bhikkhu",
     "root_path": "root/pli/ms/sutta",
