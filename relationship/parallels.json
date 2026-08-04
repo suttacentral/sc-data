@@ -3093,7 +3093,8 @@
       "an4.67",
       "~t505",
       "~sf258",
-      "~sa252"
+      "~sa252",
+      "~lzh-mu-bu-vb-pj3#t0656c03-#0657b22"
     ]
   },
   {
@@ -3102,7 +3103,8 @@
       "~an4.67",
       "~sn35.69",
       "~sa252",
-      "~sf258"
+      "~sf258",
+      "~lzh-mu-bu-vb-pj3#t0656c03-#0657b22"
     ]
   },
   {
@@ -3111,7 +3113,8 @@
       "sa252",
       "sf258",
       "~sf261",
-      "~t505"
+      "~t505",
+      "lzh-mu-bu-vb-pj3#t0656c03-#0657b22"
     ]
   },
   {
@@ -9972,7 +9975,8 @@
     "parallels": [
       "sf258",
       "~sn35.69",
-      "~sa252"
+      "~sa252",
+      "~lzh-mu-bu-vb-pj3#t0656c03-#0657b22"
     ]
   },
   {
@@ -10038,7 +10042,8 @@
       "~t802",
       "~sn35.69",
       "~sa252",
-      "~sf258"
+      "~sf258",
+      "~lzh-mu-bu-vb-pj3#t0656c03-#0657b22"
     ]
   },
   {
@@ -30297,7 +30302,8 @@
       "xct-mu-bi-vb-sk5",
       "xct-mu-bi-pm-sk5",
       "lzh-mg-bi-vb-sk8",
-      "lzh-mg-bi-pm-sk8"
+      "lzh-mg-bi-pm-sk8",
+      "pli-tv-kd15#29.4.6"
     ]
   },
   {
@@ -30568,7 +30574,8 @@
       "xct-mu-bi-vb-sk4",
       "xct-mu-bi-pm-sk4",
       "lzh-mg-bi-vb-sk9",
-      "lzh-mg-bi-pm-sk9"
+      "lzh-mg-bi-pm-sk9",
+      "pli-tv-kd15#29.4.6"
     ]
   },
   {
@@ -30629,6 +30636,47 @@
       "lzh-mg-bi-vb-sk52",
       "lzh-mg-bi-pm-sk52",
       "san-lo-bi-vb-sk41"
+    ]
+  },
+  {
+    "parallels": [
+      "pli-tv-bu-vb-sk51",
+      "pli-tv-bu-pm-sk51",
+      "Bhikkhu Parivāra Sekhiya 51",
+      "san-sarv-bu-pm-tf11-sk72",
+      "lzh-mu-bu-vb-sk55",
+      "xct-mu-bu-vb-sk54",
+      "xct-mu-bu-pm-sk54",
+      "san-mu-bu-pm-gbm3-sk55",
+      "san-mu-mpt-bu-pm-sk54",
+      "lzh-mi-bu-vb-sk61",
+      "lzh-mi-bu-pm-sk61",
+      "lzh-mi-bu-pm-2-sk61",
+      "lzh-mg-bu-vb-sk38",
+      "lzh-mg-bu-pm-sk38",
+      "san-mg-bu-pm-sk39",
+      "san-lo-bu-pm-sk39",
+      "lzh-dg-bu-vb-sk43",
+      "lzh-dg-bu-pm-sk43",
+      "lzh-dg-bu-pm-2-sk43",
+      "san-bu-pm-qizil-sk72",
+      "pli-tv-bi-vb-sk51",
+      "pli-tv-bi-pm-sk51",
+      "Bhikkhunī Parivāra Sekhiya 51",
+      "lzh-dg-bi-vb-sk43",
+      "lzh-dg-bi-pm-sk43",
+      "lzh-mi-bi-vb-sk61",
+      "lzh-mi-bi-pm-sk61",
+      "lzh-sarv-bi-vb-sk69",
+      "lzh-sarv-bi-pm-sk69",
+      "lzh-mu-bi-vb-sk56",
+      "lzh-mu-bi-pm-sk56",
+      "xct-mu-bi-vb-sk57",
+      "xct-mu-bi-pm-sk57",
+      "lzh-mg-bi-vb-sk51",
+      "lzh-mg-bi-pm-sk51",
+      "san-lo-bi-vb-sk40",
+      "~lzh-ka-bu-pm-sk48"
     ]
   },
   {
@@ -42063,47 +42111,6 @@
       "lzh-mg-bi-vb-sk50",
       "lzh-mg-bi-pm-sk50",
       "san-lo-bi-vb-sk39",
-      "~lzh-ka-bu-pm-sk48"
-    ]
-  },
-  {
-    "parallels": [
-      "pli-tv-bu-vb-sk51",
-      "pli-tv-bu-pm-sk51",
-      "Bhikkhu Parivāra Sekhiya 51",
-      "san-sarv-bu-pm-tf11-sk72",
-      "lzh-mu-bu-vb-sk55",
-      "xct-mu-bu-vb-sk54",
-      "xct-mu-bu-pm-sk54",
-      "san-mu-bu-pm-gbm3-sk55",
-      "san-mu-mpt-bu-pm-sk54",
-      "lzh-mi-bu-vb-sk61",
-      "lzh-mi-bu-pm-sk61",
-      "lzh-mi-bu-pm-2-sk61",
-      "lzh-mg-bu-vb-sk38",
-      "lzh-mg-bu-pm-sk38",
-      "san-mg-bu-pm-sk39",
-      "san-lo-bu-pm-sk39",
-      "lzh-dg-bu-vb-sk43",
-      "lzh-dg-bu-pm-sk43",
-      "lzh-dg-bu-pm-2-sk43",
-      "san-bu-pm-qizil-sk72",
-      "pli-tv-bi-vb-sk51",
-      "pli-tv-bi-pm-sk51",
-      "Bhikkhunī Parivāra Sekhiya 51",
-      "lzh-dg-bi-vb-sk43",
-      "lzh-dg-bi-pm-sk43",
-      "lzh-mi-bi-vb-sk61",
-      "lzh-mi-bi-pm-sk61",
-      "lzh-sarv-bi-vb-sk69",
-      "lzh-sarv-bi-pm-sk69",
-      "lzh-mu-bi-vb-sk56",
-      "lzh-mu-bi-pm-sk56",
-      "xct-mu-bi-vb-sk57",
-      "xct-mu-bi-pm-sk57",
-      "lzh-mg-bi-vb-sk51",
-      "lzh-mg-bi-pm-sk51",
-      "san-lo-bi-vb-sk40",
       "~lzh-ka-bu-pm-sk48"
     ]
   },
@@ -56640,7 +56647,8 @@
   {
     "parallels": [
       "iti44",
-      "t765.80"
+      "t765.80",
+      "ea16.2"
     ]
   },
   {
@@ -59311,7 +59319,8 @@
   {
     "parallels": [
       "iti46",
-      "t765.91"
+      "t765.91",
+      "sa825"
     ]
   },
   {
@@ -59323,7 +59332,8 @@
       "uv1#uv1.42",
       "iti46#4.1",
       "t765.91#6.0",
-      "uv-kg1#vuv42"
+      "uv-kg1#vuv42",
+      "sa825#t0211c19"
     ]
   },
   {
@@ -64627,7 +64637,8 @@
   {
     "parallels": [
       "iti5",
-      "t765.18"
+      "t765.18",
+      "sa462"
     ]
   },
   {
@@ -72145,7 +72156,8 @@
   {
     "parallels": [
       "iti74",
-      "t765.126"
+      "t765.126",
+      "sa874"
     ]
   },
   {
@@ -75834,23 +75846,26 @@
   {
     "parallels": [
       "iti9",
-      "t765.37",
+      "t765.37"
+    ]
+  },
+  {
+    "parallels": [
+      "t765.35",
       "~ea2.9",
       "~an1.304"
     ]
   },
   {
     "parallels": [
-      "~iti9",
-      "~t765.37",
+      "~t765.35",
       "ea2.9",
       "~an1.304"
     ]
   },
   {
     "parallels": [
-      "~iti9",
-      "~t765.37",
+      "~t765.35",
       "~ea2.9",
       "an1.304"
     ]
@@ -75858,23 +75873,26 @@
   {
     "parallels": [
       "iti10",
-      "t765.38",
+      "t765.38"
+    ]
+  },
+  {
+    "parallels": [
+      "t765.36",
       "~ea2.10",
       "~an1.303"
     ]
   },
   {
     "parallels": [
-      "~iti10",
-      "~t765.38",
+      "~t765.36",
       "ea2.10",
       "~an1.303"
     ]
   },
   {
     "parallels": [
-      "~iti10",
-      "~t765.38",
+      "~t765.36",
       "~ea2.10",
       "an1.303"
     ]
@@ -76049,7 +76067,7 @@
   },
   {
     "parallels": [
-      "t765.21",
+      "t765.23",
       "ea11.4"
     ]
   },
@@ -80460,6 +80478,12 @@
     "parallels": [
       "tha-ap16",
       "~mil5.3.3#1.1"
+    ]
+  },
+  {
+    "parallels": [
+      "iti83",
+      "ea34.3"
     ]
   },
   {

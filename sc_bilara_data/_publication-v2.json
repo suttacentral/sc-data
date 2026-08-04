@@ -3514,5 +3514,30 @@
   "license_statement": "ეს თარგმანი უძველესი სულიერი მოძღვრებაა, რომელიც ბუდისტურმა ტრადიციამ შემოინახა ყოველი სულიერი არსების სასარგებლოდ. ის საზოგადოებრივ საკუთრებას სარმოადგენს (Creative Commons Zero – CC0). დასაშვები და სასურველია მისი ასლის გაკეთება, კვლავწარმოება, გადაკეთება, შეცვლა ან თარგმანის სხვაგვარად გამოყენება. მთარგმნელის უმორჩილესი თხოვნაა, რომ ნებისმიერი მსგავსი გამოყენება არ ეწინააღმდეგებოდეს ბუდისტურ ღირებულებებსა თუ პრინციპებს.",
   "first_published": "2026",
   "editions_url": "https://suttacentral.net/dhp"
+  },
+  {
+  "publication_number": "scpub143",
+  "root_lang_iso": "pli",
+  "root_lang_name": "Pali",
+  "translation_lang_iso": "tr",
+  "translation_lang_name": "Türkçe",
+  "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/tr/şen/sutta",
+  "creator_uid": "şen",
+  "creator_name": "Cem Şen",
+  "creator_github_handle": "FulyaKoksoy",
+  "text_uid": "kp",
+  "translation_title": "Temel Metinler",
+  "translation_subtitle": "İYİ NİYET",
+  "root_title": "Khuddakapāṭha",
+  "creation_process": "Pali Tipiṭaka Dijital Mahāsaṅgīti edisyonu baz alınmıştır. Ajahn Sujato, Bhikkhu Bodhi, Bhikkhu Ṭhānissaro’nun çalışmalarından yararlanarak çevrilmiştir.",
+  "text_description": "Çeviri: CEM ŞEN Yayınlama yılı: 2024 Bu sutta, öncelikle Türkiye’deki Dhamma pratiği yapan Kalp Yolu Eğitimleri öğrencilerinin anlayışını desteklemek ve Dhamma’yı uygulamalarına yardımcı olmak için Türkçe’ye çevrilmiştir. Budha’nın sıradan hayat süren izdeşleri olarak bizler, bu ve diğer vaazları Türkçe konuşan okuyuculara sunarak, onların kalplerinin kusursuz özgürlüğüne doğru olan soylu yolculuklarına destek olabilmeyi amaçlıyoruz. Bu suttanın tercüme edilerek yayınlanması ve anlaşılması, tüm varlıkların özgürlüğe erişmesine katkıda bulunsun. Cem Şen’in izniyle kullanılmıştır. SuttaCentral için Sutta Çeviri ve Yayın işlerine odaklı Kalp Yolu Sangha tarafından hazırlanmıştır.",
+  "is_published": true,
+  "publication_status": "Yayımlandı, öneri ve düzenlemelere açıktır.",
+  "license_type": "Creative Commons Zero",
+  "license_abbreviation": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "license_statement": "Ücretsiz Dağıtım. Bu çeviri, Creative Commons Zero ile serbest olarak dağıtılabilir. Herhangi bir hakkı saklı değildir.",
+  "first_published": "2024",
+  "editions_url": "https://suttacentral.net/kp"
   }
 ]

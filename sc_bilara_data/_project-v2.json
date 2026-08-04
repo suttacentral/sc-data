@@ -1046,5 +1046,21 @@
     "translation_path": "translation/zh/yingchen/sutta",
     "translation_muids": "translation-zh-yingchen",
     "creator_github_handle": "YingChen-Jane"
+  },
+  {
+    "project_uid": "tr_ms_translation_çakmakçı",
+    "name": "Türkçe translation Ufuk Çakmakçı",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/çakmakçı/sutta",
+    "translation_muids": "translation-tr-çakmakçı",
+    "creator_github_handle": "FulyaKoksoy"
+  },
+  {
+    "project_uid": "tr_ms_translation_şen",
+    "name": "Türkçe translation Cem Şen",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/şen/sutta",
+    "translation_muids": "translation-tr-şen",
+    "creator_github_handle": "FulyaKoksoy"
   }
 ]
