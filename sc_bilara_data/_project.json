@@ -1440,8 +1440,8 @@
   "tr_ms_translation_çakmakçı": {
     "name": "Türkçe translation Ufuk Çakmakçı",
     "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/tr/çakmakçı/sutta",
-    "translation_muids": "translation-tr-çakmakçı",
+    "translation_path": "translation/tr/cakmakcı/sutta",
+    "translation_muids": "translation-tr-cakmakcı",
     "collaborator": [
       {
         "author_github_handle": "FulyaKoksoy"
@@ -1451,8 +1451,8 @@
   "tr_ms_translation_şen": {
     "name": "Türkçe translation Cem Şen",
     "root_path": "root/pli/ms/sutta",
-    "translation_path": "translation/tr/şen/sutta",
-    "translation_muids": "translation-tr-şen",
+    "translation_path": "translation/tr/sen/sutta",
+    "translation_muids": "translation-tr-sen",
     "collaborator": [
       {
         "author_github_handle": "FulyaKoksoy"
