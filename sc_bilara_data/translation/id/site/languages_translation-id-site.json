@@ -1,11 +1,11 @@
 {
-  "languages:ancientLanguages": "Bahasa Kuno ",
-  "languages:authors": "Penulis ",
-  "languages:divisions": "Divisi ",
   "languages:languagesOnSuttaCentral": "Bahasa-bahasa di SuttaCentral ",
+  "languages:ancientLanguages": "Bahasa Kuno ",
   "languages:modernLanguages": "Bahasa Modern ",
-  "languages:other": "Lainnya ",
-  "languages:percentageOfOriginalTexts": "Persentase teks asli di SuttaCentral yang telah diterjemahkan ke dalam bahasa {lang} ",
   "languages:translations": "Terjemahan ",
-  "languages:translators": "Penerjemah "
+  "languages:translators": "Penerjemah ",
+  "languages:divisions": "Divisi ",
+  "languages:authors": "Penulis ",
+  "languages:percentageOfOriginalTexts": "Persentase teks asli di SuttaCentral yang telah diterjemahkan ke dalam bahasa {lang} ",
+  "languages:other": "Lainnya "
 }

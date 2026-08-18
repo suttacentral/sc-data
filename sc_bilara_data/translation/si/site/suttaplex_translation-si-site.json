@@ -1,5 +1,13 @@
 {
   "suttaplex:advanced": "උසස් සිසුන් සඳහා නිර්දේශ කෙරේ",
+  "suttaplex:aligned": "",
+  "suttaplex:alignedDescription": "",
+  "suttaplex:alignedOperationGuide": "",
+  "suttaplex:annotated": "",
+  "suttaplex:annotatedDescription": "",
+  "suttaplex:annotatedOperationGuide": "",
+  "suttaplex:legacy": "",
+  "suttaplex:legacyDescription": "",
   "suttaplex:alternateText": "{book} සංස්කරණයේ විකල්ප අංකය:",
   "suttaplex:beginner": "ආරම්භක සිසුන් සඳහා නිර්දේශ කෙරේ",
   "suttaplex:countParallel": "{count} සමාන්තර",
@@ -22,10 +30,12 @@
   "suttaplex:resemblingParallel": "සමාන්තර සමාන: පෙළ සැසඳිය හැක.",
   "suttaplex:retellingParallel": "නැවත කියවීම: එක් පාඨයක සිදුවීම් තවත් පාඨයක නැවත කියැවේ.",
   "suttaplex:share": "බෙදාගන්න",
+  "suttaplex:shareThisSutta": "",
   "suttaplex:suttaCentralID": "SuttaCentral ID",
   "suttaplex:translation": "පරිවර්තනය",
   "suttaplex:translationIn": "පරිවර්තනය",
   "suttaplex:translations": "පරිවර්තන",
   "suttaplex:translationsIn": "පරිවර්තන",
-  "suttaplex:volumeAndPage": "පරිමාව සහ පිටුව"
+  "suttaplex:volumeAndPage": "පරිමාව සහ පිටුව",
+  "suttaplex:volumeAndPagePTS1": ""
 }

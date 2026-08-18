@@ -1,4 +1,5 @@
 {
+  "suttaplex:advanced": "Anbefales for viderekomne studenter",
   "suttaplex:aligned": "Justert",
   "suttaplex:alignedDescription": "oversettelser samsvarer segment for segment med grunnteksten. Disse er produsert av SuttaCentral med vår Bilara-oversettelsesapplikasjon.",
   "suttaplex:alignedOperationGuide": "Klikk deg frem til oversettelsen, og klikk deretter på «Visninger»-knappen på verktøylinjen for å se grunntekst og oversettelse linje for linje eller side ved side.",
@@ -7,8 +8,6 @@
   "suttaplex:annotatedOperationGuide": "Klikk deg frem til oversettelsen, og klikk deretter på «Visninger»-knappen på verktøylinjen for å velge alternativer for lesing av notater.",
   "suttaplex:legacy": "Eldre oversettelser",
   "suttaplex:legacyDescription": "oversettelsene er tilpasset for SuttaCentral fra forskjellige kilder. De mangler funksjoner som justering og notater.",
-  "suttaplex:shareThisSutta": "Del denne teksten",
-  "suttaplex:advanced": "Anbefales for viderekomne studenter",
   "suttaplex:alternateText": "Alternativt nummer i {book}-utgaven:",
   "suttaplex:beginner": "Anbefales for nybegynnere",
   "suttaplex:countParallel": "{count} parallell",
@@ -31,6 +30,7 @@
   "suttaplex:resemblingParallel": "Parallell som ligner: tekstene er sammenlignbare.",
   "suttaplex:retellingParallel": "Gjenfortelling: hendelsene i en tekst blir gjenfortalt i en annen.",
   "suttaplex:share": "Del",
+  "suttaplex:shareThisSutta": "Del denne teksten",
   "suttaplex:suttaCentralID": "SuttaCentral ID",
   "suttaplex:translation": "oversettelse",
   "suttaplex:translationIn": "oversettelse",
