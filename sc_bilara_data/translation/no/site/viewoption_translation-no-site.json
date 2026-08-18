@@ -3,6 +3,8 @@
   "viewoption:activateChineseLookup": "Aktiver kinesisk ordbok",
   "viewoption:activatePaliDescription": "Analyserer paliteksten og prøver å vise ordets betydning. Merk at dette kun er et hjelpemiddel som ikke alltid er nøyaktig. Ordenes betydning er hentet fra New Concise Pali English Dictionary.",
   "viewoption:activatePaliLookup": "Aktiver pali ordbok",
+  "viewoption:allRefsEnabled": "",
+  "viewoption:allRefsDisabled": "",
   "viewoption:asterisk": "Verktøytips ved asterisk",
   "viewoption:changePaliScript": "Andre pali alfabet",
   "viewoption:changePaliScriptDescription": "Dette lar deg lese paliteksten med forskjellige alfabet.",
@@ -12,6 +14,8 @@
   "viewoption:lineByLine": "Linje for linje",
   "viewoption:lookup": "Ordbok",
   "viewoption:lookupDictionaryEnabled": "{lookupDictionary} Ordboken er nå aktivert.",
+  "viewoption:mainRefsEnabled": "",
+  "viewoption:mainRefsDisabled": "",
   "viewoption:none": "Ingen",
   "viewoption:noteDescription": "Der det er tilgjengelig, kan du se kommentarer til oversettelsen og variasjoner i grunntekstene.",
   "viewoption:noteDisplayTypeToastAsterisk": "Verktøytips ved asterisk",
@@ -38,5 +42,10 @@
   "viewoption:textViewDescription": "Noen tekster på SuttaCentral er «segmentert». Originalteksten og oversettelsen samsvarer omtrentlig linje for linje. For slike tekster, se både grunntekst og oversettelse.",
   "viewoption:textViewDisabled": "Pali-engelsk visning er nå deaktivert.",
   "viewoption:textViewEnabled": "{textView}-visning er nå aktivert for gjeldende tekster.",
-  "viewoption:viewRoot": "Se grunntekst med oversettelse"
+  "viewoption:viewRoot": "Se grunntekst med oversettelse",
+  "viewoption:showIllustrations": "",
+  "viewoption:showIllustrationsDescription": "",
+  "viewoption:showIllustrationsDisabled": "",
+  "viewoption:showIllustrationsEnabled": "",
+  "viewoption:showIllustrationsTitle": ""
 }

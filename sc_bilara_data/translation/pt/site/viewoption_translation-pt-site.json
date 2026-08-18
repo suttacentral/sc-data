@@ -3,6 +3,8 @@
   "viewoption:activateChineseLookup": "Ativar busca automática por termos em chinês ",
   "viewoption:activatePaliDescription": "Analisa o texto páli e apresenta significados para estes. Note que esta funcionalidade existe apenas como elemento auxiliar, apresentando definições para termos não necessariamente em contexto e/ou de forma exata. As definições foram traduzidas a partir do dicionário páli-inglês New Concise Pali English Dictionary. ",
   "viewoption:activatePaliLookup": "Ativar busca automática por termos em páli ",
+  "viewoption:allRefsEnabled": "",
+  "viewoption:allRefsDisabled": "",
   "viewoption:asterisk": "Dica em asterisco ",
   "viewoption:changePaliScript": "Alterar o sistema de escrita em que o texto páli é apresentado ",
   "viewoption:changePaliScriptDescription": "Esta opção permite que textos originais em páli sejam apresentados em diferentes sistemas de escrita. ",
@@ -12,6 +14,8 @@
   "viewoption:lineByLine": "Linha por linha ",
   "viewoption:lookup": "Busca automática (lookup) ",
   "viewoption:lookupDictionaryEnabled": "Busca automática (lookup) {lookupDictionary} ativada. ",
+  "viewoption:mainRefsEnabled": "",
+  "viewoption:mainRefsDisabled": "",
   "viewoption:none": "Nada ",
   "viewoption:noteDescription": "Quando disponível, veja os comentários sobre a tradução e as leituras alternativas dos textos-raiz. ",
   "viewoption:noteDisplayTypeToastAsterisk": "Dica em asterisco ",
@@ -38,5 +42,10 @@
   "viewoption:textViewDescription": "Alguns textos no SuttaCentral são “segmentados”; o texto original e a tradução são aproximadamente combinados linha por linha. Para tais textos, veja tanto o texto raiz como a tradução. ",
   "viewoption:textViewDisabled": "Apresentação páli-português desativada. ",
   "viewoption:textViewEnabled": "{textView}- opção de apresentação ativada para textos com esta configuração. ",
-  "viewoption:viewRoot": "Ver texto original com tradução lado a lado "
+  "viewoption:viewRoot": "Ver texto original com tradução lado a lado ",
+  "viewoption:showIllustrations": "",
+  "viewoption:showIllustrationsDescription": "",
+  "viewoption:showIllustrationsDisabled": "",
+  "viewoption:showIllustrationsEnabled": "",
+  "viewoption:showIllustrationsTitle": ""
 }
