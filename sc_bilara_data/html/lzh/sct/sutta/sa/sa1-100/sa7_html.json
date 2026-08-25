@@ -1,6 +1,7 @@
 {
-  "sa7:0.1": "<article id='sa7'><header><ul><li class='division'>{}</li></ul>",
-  "sa7:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+  "sa7:0.1": "<article id='sa7'><header><ul><li class='division'>{}</li>",
+  "sa7:0.2": "<li class='subdivision'>{}</li></ul>",
+  "sa7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sa7:1.1": "<p>{}",
   "sa7:1.2": "{}</p>",
   "sa7:2.1": "<p>{}",
@@ -13,8 +14,9 @@
   "sa7:3.3": "{}",
   "sa7:3.4": "{}</p>",
   "sa7:4.1": "<p>{}</p>",
-  "sa7:5.1": "<blockquote class='gatha'><p>{}<br>",
-  "sa7:5.2": "{}<br>",
-  "sa7:5.3": "{}<br>",
-  "sa7:5.4": "{}</p></blockquote></article>"
+  "sa7:5.1": "<p class='uddana-intro'>{}</p>",
+  "sa7:6.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+  "sa7:6.2": "<span class='verse-line'>{}</span>",
+  "sa7:6.3": "<span class='verse-line'>{}</span>",
+  "sa7:6.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
 }
