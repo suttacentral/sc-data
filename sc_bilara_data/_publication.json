@@ -4994,5 +4994,39 @@
         "edition_url": "https://suttacentral.net/kp"
       }
     ]
+  },
+  "scpub144": {
+    "publication_number": "scpub144",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "ta",
+    "translation_lang_name": "Tamil",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/ta/magesh/sutta",
+    "author_uid": "magesh",
+    "author_name": "Upasaka Magesh",
+    "author_github_handle": "mageshsugu",
+    "text_uid": "sutta",
+    "translation_title": "இடை நீள பேருரைகள்",
+    "translation_subtitle": "இடை நீள பேருரைகளின் ஒரு எளிய மொழிபெயர்ப்பு",
+    "root_title": "மஜ்ஜிம நிகாயம்",
+    "translation_process": "பாளி திபிடகத்தின் 'மஹாசங்கீதி மின்னணுப் பதிப்பை' (Digital Mahāsaṅgīti) அடிப்படையாகக் கொண்டது. இது பாளியிலிருந்து, பல ஆங்கில மொழிபெயர்ப்புகளை, குறிப்பாக பிக்கு சுஜாதோ மற்றும் பிக்கு போதி ஆகியோரின் படைப்புகளை ஆதாரமாகக் கொண்டு மொழிபெயர்க்கப்பட்டது.",
+    "translation_description": "தமிழ் பௌத்தர்கள் எளிமையான மற்றும் அணுகக்கூடிய தமிழ் நடையில் பாளி அறநூல்களின் மூலத்தின் துல்லியமான மொழிபெயர்ப்புகளை படித்தறிய ேண்டுமென்ற ஆவலால், பிக்கு சுஜாதோ மற்றும் பிக்குனி சப்பமித்தா ஆகியோரின் வழிகாட்டுதலோடு, உபாசகர் மகேஷ் அவர்களால் இந்த மொழிபெயர்ப்பு மேற்கொள்ளப்பட்டது.",
+    "is_published": true,
+    "publication_status": "இது சமீபத்தில் தொடங்கப்பட்ட, தொடர்ந்து நடைபெற்று வரும் ஒரு மொழிபெயர்ப்பு.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "இந்த மொழிபெயர்ப்பு, அனைத்து உயிர்களின் நலனுக்காக பௌத்த மரபு வழிவந்த ஒரு தொன்மையான அறநூல்களின் வெளிப்பாடாகும். இது 'Creative Commons Zero' (CC0) உரிமத்தின் கீழ் பொதுப் பயன்பாட்டிற்காக (public domain) அர்ப்பணிக்கப்பட்டுள்ளது. இந்த மொழிபெயர்ப்பை நகலெடுக்கவோ, மறுஉருவாக்கம் செய்யவோ, மாற்றியமைக்கவோ அல்லது வேறு வகைகளில் பயன்படுத்தவோ உங்களுக்கு அனுமதி உண்டு. இதனைப் பயன்படுத்தும்போது, ​​பௌத்த சமூகத்தின் விழுமியங்கள் மற்றும் கோட்பாடுகளுக்கு இணங்கச் செயல்படுமாறு மொழிபெயர்ப்பாளர் பணிவுடன் கேட்டுக்கொள்கிறார். குறிப்பாக, இந்த ஆக்கத்தை செயற்கை நுண்ணறிவு (AI) பயிற்சிக்கான தரவுத்தொகுப்புகளிலோ, ஏதேனும் AI மாதிரி அல்லது வழிமுறையை (algorithm) உருவாக்குவதிலோ, அல்லது AI-சார்ந்த தொழில்நுட்பங்களிலோ பயன்படுத்த வேண்டாம் என்று கேட்டுக்கொள்ளப்படுகிறது."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "2026",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/mn"
+      }
+    ]
   }
 }
