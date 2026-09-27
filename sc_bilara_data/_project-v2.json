@@ -1062,5 +1062,13 @@
     "translation_path": "translation/tr/sen/sutta",
     "translation_muids": "translation-tr-sen",
     "creator_github_handle": "FulyaKoksoy"
+  },
+  {
+    "project_uid": "ta_ms_translation_magesh",
+    "name": "Tamil translation Upasaka Magesh",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ta/magesh/sutta",
+    "translation_muids": "translation-ta-magesh",
+    "creator_github_handle": "mageshsugu"
   }
 ]

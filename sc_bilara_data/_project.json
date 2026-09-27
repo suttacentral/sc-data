@@ -1458,5 +1458,16 @@
         "author_github_handle": "FulyaKoksoy"
       }
     ]
+  },
+  "ta_ms_translation_magesh": {
+    "name": "Türkçe translation Upasaka Magesh",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ta/magesh/sutta",
+    "translation_muids": "translation-ta-magesh",
+    "collaborator": [
+      {
+        "author_github_handle": "mageshsugu"
+      }
+    ]
   }
 }
