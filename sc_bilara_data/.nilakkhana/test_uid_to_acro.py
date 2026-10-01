@@ -7,12 +7,12 @@ from uid_to_acro import uid_to_acro
         ('dn','DN'),
         ('pj', 'Pj'),
         ('snp', 'Snp'),
-        ('sn1', 'SN 1'),
-        ('sn1.1', 'SN 1.1'),
-        ('sn1.1:1', 'SN 1.1:1'),
-        ('pli-tv-bu-vb-pj1', 'Pli Tv Bu Vb Pj 1'),
-        ('pli-tv-bu-vb-pj1:1.1', 'Pli Tv Bu Vb Pj 1:1.1'),
-        ('an1.21-30', 'AN 1.21–30'),
+        ('sn1', 'SN\u00A01'),
+        ('sn1.1', 'SN\u00A01.1'),
+        ('sn1.1:1', 'SN\u00A01.1:1'),
+        ('pli-tv-bu-vb-pj1', 'Pli Tv Bu Vb Pj\u00A01'),
+        ('pli-tv-bu-vb-pj1:1.1', 'Pli Tv Bu Vb Pj\u00A01:1.1'),
+        ('an1.21-30', 'AN\u00A01.21–30'),
         
     ]
 )

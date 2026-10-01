@@ -42,10 +42,10 @@ def test_hyperlink_transform(string, expected):
 @pytest.mark.parametrize(
     "reference_url_pattern,string,expected",
     [
-        ('/{uid}/en/brahmali', 'Text reference: [pli-tv-bu-vb-pj3]()', "Text reference: <a href='/pli-tv-bu-vb-pj3/en/brahmali'>Pli Tv Bu Vb Pj 3</a>"),
-        ('/{uid}/en/brahmali', '[Murder](pli-tv-bu-vb-pj3) is bad.', "<a href='/pli-tv-bu-vb-pj3/en/brahmali'>Murder</a> is bad."),
-        ('/{uid}/en/sujato', 'Uppercasing [sn1.1]()', "Uppercasing <a href='/sn1.1/en/sujato'>SN 1.1</a>"),
-        ('/{uid}/en/sujato', 'Colons hashed [sn1.1:1.7]()', "Colons hashed <a href='/sn1.1/en/sujato#1.7'>SN 1.1:1.7</a>"),
+        ('/{uid}/en/brahmali', 'Text reference: [pli-tv-bu-vb-pj3]()', "Text reference: <a href='https://suttacentral.net/pli-tv-bu-vb-pj3/en/brahmali'>Bu Pj\u00A03</a>"),
+        ('/{uid}/en/brahmali', '[Murder](pli-tv-bu-vb-pj3) is bad.', "<a href='https://suttacentral.net/pli-tv-bu-vb-pj3/en/brahmali'>Murder</a> is bad."),
+        ('/{uid}/en/sujato', 'Uppercasing [sn1.1]()', "Uppercasing <a href='https://suttacentral.net/sn1.1/en/sujato'>SN\u00A01.1</a>"),
+        ('/{uid}/en/sujato', 'Colons hashed [sn1.1:1.7]()', "Colons hashed <a href='https://suttacentral.net/sn1.1/en/sujato#1.7'>SN\u00A01.1:1.7</a>"),
     ]
 )
 def test_reference_transform(string, reference_url_pattern, expected):
