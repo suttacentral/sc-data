@@ -32,7 +32,7 @@ prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 py==1.10.0
 Pygments==2.20.0
-pylint==1.9.1
+pylint==4.0.9
 python-arango==4.1.0
 python-dateutil==2.7.3
 PyYAML==5.4
