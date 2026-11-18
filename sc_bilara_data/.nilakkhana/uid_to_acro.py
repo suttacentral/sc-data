@@ -4,7 +4,8 @@ def uid_to_acro(uid):
     result = re.sub(r'[a-zA-Z]+', lambda m: uid_to_acro_map.get(m[0]) or m[0].upper(), uid)
     result = re.sub(r'(\d+)-(\d+)', r'\1–\2', result)
     result = re.sub('-', ' ', result)
-    result = re.sub(r'([a-zA-Z])(\d)', r'\1 \2', result)
+    # Keep acronym+number references (e.g. MN 32) on the same line.
+    result = re.sub(r'([a-zA-Z])(\d)', lambda m: f"{m.group(1)}\u00A0{m.group(2)}", result)
     return result
 
 
@@ -62,7 +63,7 @@ uid_to_acro_map = {
   "t1670a": "T 1670 A",
   "t1670b": "T 1670 B",
   "oa": "OA",
-  "om": "OM",
+  "vi": "Vi",
   "pe": "Pe",
   "pk": "Pk",
   "pp": "Pp",

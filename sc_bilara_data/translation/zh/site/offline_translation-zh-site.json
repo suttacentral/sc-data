@@ -8,7 +8,7 @@
   "offline:chineseLookupsDescription": "选择以下列语言下载中文单词的字典查找： ",
   "offline:doesntSupportPWAs": "不幸的是，我们不能支持您平台上的高级Progressive Web App PWA）功能. 如果您想完全离线使用，请使用最新版本的Chrome。 我们计划在未来能在其他浏览器上实现更多的PWA功能。 ",
   "offline:downloadButton": "下载{languageName}的文字 ",
-  "offline:downloadComplete": "下载完成。现在可以离线阅读{lang}经文。 ",
+  "offline:downloadComplete": "下载完成，现在可以离线阅读{lang}经文。 ",
   "offline:downloadErrored": "下载完成，但有部分文件未能下载，{total}请求中的{failed}未完成。 ",
   "offline:downloadInProgress": "下载正在进行中。 ",
   "offline:downloadParallels": "包括平行文本 ",
@@ -32,6 +32,6 @@
   "offline:resetComplete": "下载历史已清除 ",
   "offline:selectDifferentLang": "在默认情况下，您的经文将以网站语言下载。如果您想选择其他语言，请从菜单中选择一种语言。 ",
   "offline:supportsPWAs": "您的浏览器支持Progressive Web Apps！ ",
-  "offline:suttasOnly": "只有经文，没有戒律或论文 ",
+  "offline:suttasOnly": "只有经文，没有戒律或阿毗达摩 ",
   "offline:usingOffline": "无网路下使用SuttaCentral "
 }

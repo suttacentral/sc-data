@@ -27,19 +27,18 @@
       "lzh-mg-bi-vb",
       "lzh-mg-bi-pn",
       "lzh-mg-bu-pm-div",
+      "lzh-mg-bu-pm-2-div",
       "lzh-mg-bi-pm-div",
       "lzh-mg-spp",
       "lzh-mi-bu-vb",
       "lzh-mi-bi-vb",
       "lzh-mi-kd",
-      "lzh-mi-vs",
       "lzh-mi-bu-pm-div",
       "lzh-mi-bi-pm-div",
       "lzh-mi-bu-kam",
       "lzh-dg-bu-vb",
       "lzh-dg-bi-vb",
       "lzh-dg-kd",
-      "lzh-dg-vs",
       "lzh-dg-ve",
       "lzh-dg-bu-pm-div",
       "lzh-dg-bu-pm-2-div",
@@ -72,8 +71,9 @@
       "lzh-ka-bu-pm-div",
       "lzh-upp-bu",
       "sammitiya",
+      "hv",
       "upp",
-      "om",
+      "lzh-vi",
       "sg",
       "lzh-dk",
       "pr",
@@ -342,6 +342,12 @@
     "iso_code": "jpn"
   },
   {
+    "uid": "ka",
+    "name": "ქართული",
+    "is_root": false,
+    "iso_code": "ka"
+  },
+  {
     "uid": "kan",
     "name": "ಕನ್ನಡ",
     "is_root": false,
@@ -496,5 +502,11 @@
     "name": "ລາວ",
     "is_root": false,
     "iso_code": "lo"
+  },
+  {
+    "uid": "ur",
+    "name": "اُردُو",
+    "is_root": false,
+    "iso_code": "ur"
   }
 ]

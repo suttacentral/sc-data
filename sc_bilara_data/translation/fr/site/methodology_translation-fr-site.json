@@ -44,7 +44,7 @@
   "methodology:43": "Notez qu’en raison de la nature des textes du Vinaya, il n’est pas nécessaire d’avoir les différents types de relations tels que spécifiés pour les Suttas. Dans presque tous les cas, il est clair qu’une règle particulière est un parallèle complet des autres règles, en ce sens qu’elles sont des versions différentes de la même « chose ». Il y a, bien sûr, des exceptions occasionnelles à cela, mais il n’y a rien à gagner, je pense, à essayer de spécifier quelques cas marginaux de ce genre dans les données. ",
   "methodology:44": "Sources des Textes ",
   "methodology:45": "Pali ",
-  "methodology:46": "Le texte pali sur SuttaCentral est l’édition Mahāsaṅgīti, parfois appelée le « World Tipitaka ». Il s’agit d’une version du texte du Sixième Concile qui a été éditée et publiée par la Dhamma Society de Bangkok, sur la base du texte numérique fourni par le Vipassana Research Insititute. La Dhamma Society a entrepris une révision approfondie du texte, le corrigeant par rapport aux multiples éditions imprimées. Ils ont pris comme source principale la première édition du texte du Sixième Concile, qui représente la tradition manuscrite birmane. Nous pensons que cette édition numérique du canon pali est la plus précise, la plus cohérente et la mieux éditée qui soit. ",
+  "methodology:46": "Le texte pali sur SuttaCentral est l’édition Mahāsaṅgīti, parfois appelée le « World Tipitaka ». Il s’agit d’une version du texte du Sixième Concile qui a été éditée et publiée par la Dhamma Society de Bangkok, sur la base du texte numérique fourni par le Vipassana Research Institute. La Dhamma Society a entrepris une révision approfondie du texte, le corrigeant par rapport aux multiples éditions imprimées. Ils ont pris comme source principale la première édition du texte du Sixième Concile, qui représente la tradition manuscrite birmane. Nous pensons que cette édition numérique du canon pali est la plus précise, la plus cohérente et la mieux éditée qui soit. ",
   "methodology:47": "La première version de SuttaCentral était liée au site Web de la Dhamma Society. Cependant, celui-ci s’est arrêté et nous avons décidé que nous devions héberger le texte nous-mêmes. Heureusement, le Vénérable Yuttadhammo avait fait une copie complète du Mahāsaṅgīti pour son Digital Pali Reader, et il nous a gentiment fourni les fichiers sources. ",
   "methodology:48": "Nous avons complété le texte de Mahāsaṅgīti avec les pātimokkhas pour les moines et les nonnes de l’édition VRI. ",
   "methodology:49": "Nous n’avons apporté aucune modification au texte de l’édition Mahāsaṅgīti. Toutefois, nous avons procédé à quelques ajustements mineurs de la numérotation et de la ponctuation. ",
@@ -298,5 +298,11 @@
   "methodology:297": "<span class='author'>Su</span>, Ken. <cite>Correspondence Tables of Chinese Verses among T210, T212 and T213</cite>. Āgama research group. <br><a href='http://yifertwtw.blogspot.tw/'>http://yifertwtw.blogspot.tw/</a>. ",
   "methodology:298": "<span class='author'>Bollée</span>, Willem B. <cite>Reverse Index of the Dhammapada, Suttanipāta, Thera- and Therīgāthā Pādas with Parallels from the Āyāraṅga, Sūyagaḍa, Uttarajjhāyā Dasaveyāliya and Isibhāsiyāiṁ.</cite>. Verlag für Orientalistische Fachpublikationen, <br>Reinbek 1983. </br> ",
   "methodology:299": "<span class='author'>Falk</span>, Harry. <cite>A new Gāndhārī Dharmapada (Texts from the Split Collection 3)</cite>. <a href='http://iriab.soka.ac.jp/content/pdf/aririab/Vol.%20XVIII%20(2015).pdf'>Annual Report of the International Research Institute for Advanced Buddhology,<br> at Soka University for the Academic Year 2014.<br>Vol. XVIII (2015)</br></a>. ",
-  "methodology:300": "<span class='author'>Braarvig</span>, Jens & <span class='author'>Liland</span>, Fredrik. University of Oslo, Faculty of Humanities. <a href='https://www2.hf.uio.no/polyglotta/index.php?page=volume&amp;vid=71'>Udānavarga</a>."
+  "methodology:300": "<span class='author'>Braarvig</span>, Jens & <span class='author'>Liland</span>, Fredrik. University of Oslo, Faculty of Humanities. <a href='https://www2.hf.uio.no/polyglotta/index.php?page=volume&amp;vid=71'>Udānavarga</a>.",
+  "methodology:301": "",
+  "methodology:302": "",
+  "methodology:303": "",
+  "methodology:304": "",
+  "methodology:305": "",
+  "methodology:306": ""
 }

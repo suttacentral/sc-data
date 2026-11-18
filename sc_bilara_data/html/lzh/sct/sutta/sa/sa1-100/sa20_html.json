@@ -1,0 +1,6 @@
+{
+  "sa20:0.1": "<article id='sa20'><header><ul><li class='division'>{}</li>",
+  "sa20:0.2": "<li class='subdivision'>{}</li></ul>",
+  "sa20:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+  "sa20:1.1": "<p>{}</p></article>"
+}

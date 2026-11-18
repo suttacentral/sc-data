@@ -29,9 +29,9 @@
   "offline:paliLookupsDescription": "Zaznacz, aby ściągnąć definicje słownikowe dla słów palijskich w następujących językach:",
   "offline:pwaDescription": "SuttaCentral to <a href='https://developers.google.com/web/progressive-web-apps/' target='_blank' rel='noopener'>Progresywna Aplikacja Webowa (PWA)</a>. Na wspieranych urządzeniach wiele funkcjonalności, wliczając w to nawigację oraz wcześniej odwiedzone strony, będzie działać nawet, jeśli utracisz połączenie z internetem.",
   "offline:resetButton": "Wyczyść historię pobierania",
+  "offline:resetComplete": "Historia pobierania została usunięta",
   "offline:selectDifferentLang": "Domyślnie pobrane zostaną teksty w języku strony. Jeśli chcesz wybrać inny język, wybierz go z menumenu.",
   "offline:supportsPWAs": "Niestety nie wspieramy progresywnych aplikacji webowych (PWA) na tej przeglądarce. Jeżeli chcesz pełny support dla wersji offline, użyj najnowszej wersji chroma. Planujemy szerszy support PWA na innych przeglądarkach w przyszłości.",
   "offline:suttasOnly": "Dostępne są tylko Sutry, nie Vinaya ani Abhidhamma.",
-  "offline:usingOffline": "Używaj SuttaCentral w trybie offline",
-  "offline:resetComplete": "Historia pobierania została usunięta"
+  "offline:usingOffline": "Używaj SuttaCentral w trybie offline"
 }

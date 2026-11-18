@@ -42,5 +42,10 @@
   "viewoption:textViewDescription": "Некоторые тексты на SuttaCentral сегментированы. Исходный текст и перевод сопоставлены по сегментам с примерным совпадением по строкам. Для таких текстов отобразить и исходный текст и перевод.",
   "viewoption:textViewDisabled": "Включено отображение «пали-английский».",
   "viewoption:textViewEnabled": "Оторбажение {textView} включено для текстов, для которых это возможно.",
-  "viewoption:viewRoot": "Отобразить корневой текст с переводом"
+  "viewoption:viewRoot": "Отобразить корневой текст с переводом",
+  "viewoption:showIllustrations": "Показать иллюстрации ",
+  "viewoption:showIllustrationsDescription": "Отображение иллюстраций в сегментированных текстах ",
+  "viewoption:showIllustrationsDisabled": "Отображение иллюстраций отключено ",
+  "viewoption:showIllustrationsEnabled": "Отображение иллюстраций включено ",
+  "viewoption:showIllustrationsTitle": "Показать иллюстрации "
 }

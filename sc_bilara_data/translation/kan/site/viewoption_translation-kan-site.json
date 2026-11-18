@@ -42,5 +42,10 @@
   "viewoption:textViewDescription": "ಸುತ್ತಾ ಸೆಂಟ್ರಲ್‌ನಲ್ಲಿನ ಕೆಲವು ಪಠ್ಯಗಳು “ವಿಭಜಿಸಲಾಗಿದೆ”; ಮೂಲ ಪಠ್ಯ ಮತ್ತು ಭಾಷಾಂತರವು ಸರಿಸುಮಾರು ಸಾಲು ಸಾಲಾಗಿ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ. ಅಂತಹ ಪಠ್ಯಗಳಿಗಾಗಿ, ಮೂಲ ಪಠ್ಯ ಮತ್ತು ಅನುವಾದ ಎರಡನ್ನೂ ನೋಡಿ.",
   "viewoption:textViewDisabled": "ಪಾಲಿ-ಇಂಗ್ಲಿಷ್ ವೀಕ್ಷಣೆಯನ್ನು ಈಗ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.",
   "viewoption:textViewEnabled": "{textView}-ವೀಕ್ಷಣೆಯನ್ನು ಈಗ ಅನ್ವಯಿಸುವ ಪಠ್ಯಗಳಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.",
-  "viewoption:viewRoot": "ಅನುವಾದದೊಂದಿಗೆ ಮೂಲ ಪಠ್ಯವನ್ನು ವೀಕ್ಷಿಸಿ"
+  "viewoption:viewRoot": "ಅನುವಾದದೊಂದಿಗೆ ಮೂಲ ಪಠ್ಯವನ್ನು ವೀಕ್ಷಿಸಿ",
+  "viewoption:showIllustrations": "",
+  "viewoption:showIllustrationsDescription": "",
+  "viewoption:showIllustrationsDisabled": "",
+  "viewoption:showIllustrationsEnabled": "",
+  "viewoption:showIllustrationsTitle": ""
 }

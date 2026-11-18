@@ -3,6 +3,8 @@
   "viewoption:activateChineseLookup": "Attiva la ricerca di parole in cinese ",
   "viewoption:activatePaliDescription": "Analizza il testo Pali e cerca di visualizzare il significato delle parole. Notare che questo è solo un aiuto e non è sempre accurato. Il significato delle parole è tratto dal New Concise Pali English Dictionary. ",
   "viewoption:activatePaliLookup": "Attiva la ricerca di parole in Pali ",
+  "viewoption:allRefsEnabled": "",
+  "viewoption:allRefsDisabled": "",
   "viewoption:asterisk": "A comparsa sull’asterisco ",
   "viewoption:changePaliScript": "Cambia l’alfabeto Pali ",
   "viewoption:changePaliScriptDescription": "Questo ti permette di leggere il testo Pali in vari alfabeti. ",
@@ -12,6 +14,8 @@
   "viewoption:lineByLine": "Riga per riga ",
   "viewoption:lookup": "Ricerca ",
   "viewoption:lookupDictionaryEnabled": "La ricerca nel dizionario {lookupDictionary} è ora attivata. ",
+  "viewoption:mainRefsEnabled": "",
+  "viewoption:mainRefsDisabled": "",
   "viewoption:none": "Nessuno",
   "viewoption:noteDescription": "Ove disponibile, visualizza i commenti sulla traduzione e sulle varianti di lettura per i testi radice. ",
   "viewoption:noteDisplayTypeToastAsterisk": "A comparsa sull’asterisco ",
@@ -38,5 +42,10 @@
   "viewoption:textViewDescription": "Alcuni testi su SuttaCentral sono “segmentati”; il testo originale e la traduzione corrispondono approssimativamente riga per riga. Per questi testi, vedere sia il testo originale che la traduzione. ",
   "viewoption:textViewDisabled": "La visualizzazione pali-inglese è ora disattivata. ",
   "viewoption:textViewEnabled": "La visualizzazione {textView} è ora attivata sui testi applicabili. ",
-  "viewoption:viewRoot": "Visualizza il testo originale con la traduzione "
+  "viewoption:viewRoot": "Visualizza il testo originale con la traduzione ",
+  "viewoption:showIllustrations": "",
+  "viewoption:showIllustrationsDescription": "",
+  "viewoption:showIllustrationsDisabled": "",
+  "viewoption:showIllustrationsEnabled": "",
+  "viewoption:showIllustrationsTitle": ""
 }

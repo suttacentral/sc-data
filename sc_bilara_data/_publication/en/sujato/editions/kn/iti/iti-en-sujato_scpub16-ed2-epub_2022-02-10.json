@@ -32,6 +32,7 @@
       "cover_image": "epub_cover.png",
       "frontmatter": [
         "halftitlepage",
+        "imprint",
          "./matter/epigraph.html",
         "main-toc",
         "./matter/foreword.html",
@@ -43,8 +44,7 @@
         "iti"
       ],
       "backmatter": [
-        "colophon",
-        "imprint"
+        "colophon"
       ]
     }
   ]

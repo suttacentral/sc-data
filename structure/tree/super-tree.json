@@ -78,10 +78,11 @@
             "minor-lzh": [
               "lzh-art",
               "lzh-ja",
-              "lzh-nbs",
               "lzh-ssnp",
+              "lzh-iti",
               "lzh-dharani",
-              "lzh-svk"
+              "lzh-svk",
+              "lzh-nbs"
             ]
           }
         ]
@@ -160,8 +161,8 @@
           "lzh-mi-bu-vb",
           "lzh-mi-bi-vb",
           "lzh-mi-kd",
-          "lzh-mi-vs",
           "lzh-mi-bu-pm",
+          "lzh-mi-bu-pm-2",
           "lzh-mi-bi-pm",
           "lzh-mi-bu-kam"
         ]
@@ -171,7 +172,6 @@
           "lzh-dg-bu-vb",
           "lzh-dg-bi-vb",
           "lzh-dg-kd",
-          "lzh-dg-vs",
           "lzh-dg-ve",
           "lzh-dg-bu-pm",
           "lzh-dg-bu-pm-2",
@@ -255,7 +255,8 @@
           "lzh-ka-bu-pm",
           "lzh-upp-bu",
           "sammitiya",
-          "om",
+          "hv",
+          "lzh-vi",
           "san-bu-pm-qizil",
           "pgd-pm-bf13"
         ]

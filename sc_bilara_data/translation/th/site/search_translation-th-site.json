@@ -1,3 +1,24 @@
 {
-  "autocomplete:tipsForSearchSyntax": "เทคนิคใช้คำสำหรับค้นหา"
+  "autocomplete:filterSearch": "",
+  "autocomplete:goto": "",
+  "autocomplete:textOr": "",
+  "autocomplete:collection": "",
+  "autocomplete:tipsForSearchSyntax": "เทคนิคใช้คำสำหรับค้นหา",
+  "autocomplete:change": "",
+  "search:all": "",
+  "search:dictionaries": "",
+  "search:filter": "",
+  "search:searchOptions": "",
+  "search:hint": "",
+  "search:inAllLanguage": "",
+  "search:inputSearchTerm": "",
+  "search:loadMore": "",
+  "search:matchPartial": "",
+  "search:noResult": "",
+  "search:resultsFor": "",
+  "search:rootTexts": "",
+  "search:search": "",
+  "search:searchInAllText": "",
+  "search:searchResultsText": "",
+  "search:translations": ""
 }

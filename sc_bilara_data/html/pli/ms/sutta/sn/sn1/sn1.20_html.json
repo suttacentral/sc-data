@@ -84,7 +84,7 @@
   "sn1.20:23.2": "<span class='verse-line'>{}</span>",
   "sn1.20:23.3": "<span class='verse-line'>{}</span>",
   "sn1.20:23.4": "<span class='verse-line'>{}</span></p></blockquote>",
-  "sn1.20:23.5": "<p></p>",
+  "sn1.20:23.5": "<p>{}</p>",
   "sn1.20:24.1": "<p>{}",
   "sn1.20:24.2": "{}</p>",
   "sn1.20:25.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",

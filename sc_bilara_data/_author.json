@@ -19,9 +19,17 @@
     "type": "root",
     "name": "PTS"
   },
+  "sct": {
+    "type": "root",
+    "name": "Taisho Tipitaka"
+  },
   "vri": {
     "type": "root",
     "name": "Vipassana Research Institute"
+  },
+  "alaeddin": {
+    "type": "translator",
+    "name": "Ādam ʿAlāʾ al-Dīn"
   },
   "anandajoti": {
     "type": "translator",
@@ -47,6 +55,10 @@
     "type": "translator",
     "name": "Ryan John Guilfoyle"
   },
+  "christelle": {
+    "type": "translator",
+    "name": "Christelle Ah-Mouck"
+  },
   "cittadhammo": {
     "type": "translator",
     "name": "Cittadhammo Bhikkhu"
@@ -59,10 +71,22 @@
     "type": "translator",
     "name": "Dr Joongpyo Lee"
   },
+  "dhiranandi": {
+    "type": "translator",
+    "name": "Dhīranandī"
+  },
+  "dogensisapa": {
+    "type": "translator",
+    "name": "Dōgen Sisapa"
+  },
+  "fulyakoksoy": {
+    "type": "translator",
+    "name": "Fulyak Oksoy"
+  },
   "flavio": {
     "type": "translator",
     "name": "Flavio Stucky"
-  }, 
+  },
   "font": {
     "type": "translator",
     "name": "Bernat Font"
@@ -91,6 +115,10 @@
     "type": "translator",
     "name": "Jayasāro Bhikkhu"
   },
+  "karunika": {
+    "type": "translator",
+    "name": "Ayyā Kāruṇikā, Ayyā Therikā"
+  },
   "kaz": {
     "type": "translator",
     "name": "Kaz Takehara"
@@ -98,6 +126,10 @@
   "kelly": {
     "type": "translator",
     "name": "John Kelly"
+  },
+  "khantibalo": {
+    "type": "translator",
+    "name": "Khantibalo"
   },
   "korakot": {
     "type": "translator",
@@ -114,6 +146,10 @@
   "lucjan": {
     "type": "translator",
     "name": "Paweł Łucjan"
+  },
+  "luka": {
+    "type": "translator",
+    "name": "Luka Elizbarashvili"
   },
   "madhu": {
     "type": "translator",
@@ -139,11 +175,19 @@
     "type": "translator",
     "name": "Piotr Marcinów"
   },
+  "marion": {
+    "type": "translator",
+    "name": "Marion Ah-Mouck"
+  },
+  "mgvali": {
+    "type": "translator",
+    "name": "Margus Väli"
+  },
   "mudito": {
     "type": "translator",
     "name": "Ajahn Mudito"
   },
-  "my-team": {
+  "myteam": {
     "type": "translator",
     "name": "Myanmar Translation Team"
   },
@@ -158,6 +202,10 @@
   "nyeinchanaye": {
     "type": "translator",
     "name": "Nyein Chan Aye"
+  },
+  "o": {
+    "type": "translator",
+    "name": "o Dhamma.gift"
   },
   "pasanna": {
     "type": "translator",
@@ -194,6 +242,10 @@
   "soma": {
     "type": "translator",
     "name": "Ayya Soma"
+  },
+  "sonjabuege": {
+    "type": "translator",
+    "name": "Sonja Büge"
   },
   "suddhaso": {
     "type": "translator",
@@ -242,5 +294,17 @@
   "yingchen": {
     "type": "translator",
     "name": "Ying-Chen Chang"
+  },
+  "cakmakcı": {
+    "type": "translator",
+    "name": "Ufuk Çakmakçı"
+  },
+  "sen": {
+    "type": "translator",
+    "name": "Cem Şen"
+  },
+  "magesh": {
+    "type": "translator",
+    "name": "Upasaka Magesh"
   }
 }

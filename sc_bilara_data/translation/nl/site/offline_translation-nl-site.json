@@ -1,6 +1,6 @@
 {
-  "offline:additionalInfo": "Bovendien kunt u teksten in de door u gekozen taal downloaden en offline lezen. Dit is vooral handig voor gebruikers van mobiele telefoons met beperkte data, of in regio's met een slechte dekking. Als uw gegevens beperkt zijn, raden we u aan verbinding te maken met wifi voordat u gaat downloaden.",
   "offline:addToHomeScreen": "Toevoegen aan startscherm",
+  "offline:additionalInfo": "Bovendien kunt u teksten in de door u gekozen taal downloaden en offline lezen. Dit is vooral handig voor gebruikers van mobiele telefoons met beperkte data, of in regio's met een slechte dekking. Als uw gegevens beperkt zijn, raden we u aan verbinding te maken met wifi voordat u gaat downloaden.",
   "offline:alreadyDownloaded": "Al gedownload.",
   "offline:canceled": "U heeft de download geannuleerd.",
   "offline:certainFunctions": "Voor bepaalde functies, waaronder zoeken, is een internetverbinding vereist.",
@@ -10,7 +10,6 @@
   "offline:downloadButton": "Teksten downloaden in {lingualName}",
   "offline:downloadComplete": "Je download is voltooid. Je kunt nu sutta's offline in het {lang} lezen.",
   "offline:downloadErrored": "Je download is voltooid. Maar we konden niet alle gevraagde teksten downloaden. {failed} van {total} verzoeken zijn niet correct voltooid.",
-  "offline:downloading": "Downloaden",
   "offline:downloadInProgress": "Download bezig.",
   "offline:downloadParallels": "Voeg parallellen toe",
   "offline:downloadParallelsDescription": "Selecteer deze optie om ook parallelle tabellen voor teksten te downloaden.",
@@ -18,6 +17,7 @@
   "offline:downloadRootTexts": "Voeg hoofdteksten toe",
   "offline:downloadRootTextsDescription": "Selecteer om teksten ook in de hoofdtalen te downloaden. Dit omvat een Pali > {toLang} opzoekwoordenboek. Om uw zoekopdracht te wijzigen, klikt u op",
   "offline:downloadStarted": "Uw download is nu gestart. U kunt de site blijven gebruiken en we laten u weten wanneer deze klaar is.",
+  "offline:downloading": "Downloaden",
   "offline:extraFeatures": "Als u extra functionaliteiten wenst, laat het ons weten.",
   "offline:language": "Taal",
   "offline:networkError": "Netwerkfout.",

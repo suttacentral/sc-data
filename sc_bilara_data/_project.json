@@ -1,4 +1,15 @@
 {
+  "ar_ms_translation_alaeddin": {
+    "name": "Arabic translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ar/alaeddin/sutta",
+    "translation_muids": "translation-ar-alaeddin",
+    "collaborator": [
+      {
+        "author_github_handle": "adamvls"
+      }
+    ]
+  },
   "ca_ms_translation_bernatfontclos": {
     "name": "Català sutta translation Bernat Font-Clos",
     "root_path": "root/pli/ms/sutta",
@@ -71,6 +82,20 @@
     "translation_path": "translation/de/sabbamitta/vinaya",
     "translation_muids": "translation-de-sabbamitta",
     "collaborator": [
+      {
+        "author_github_handle": "sabbamitta"
+      }
+    ]
+  },
+  "de_ms_translation_sonjabuege": {
+    "name": "German translation Sonja Büge",
+    "root_path": "root/pli/ms/sutta/kn",
+    "translation_path": "translation/de/sonjabuege/sutta/kn",
+    "translation_muids": "translation-de-sonjabuege",
+    "collaborator": [
+      {
+        "author_github_handle": "Kazeni-sawaru"
+      },
       {
         "author_github_handle": "sabbamitta"
       }
@@ -283,6 +308,17 @@
       }
     ]
   },
+  "et_ms_translation_mgvali": {
+    "name": "Estonian translation Margus Väli",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/et/mgvali/sutta",
+    "translation_muids": "translation-et-mgvali",
+    "collaborator": [
+      {
+        "author_github_handle": "margusvali2"
+      }
+    ]
+  },
   "et_ms_translation_thitanana": {
     "name": "Estonian translation Ṭhitañāṇa Bhikkhu",
     "root_path": "root/pli/ms/sutta",
@@ -371,6 +407,28 @@
     "collaborator": [
       {
         "author_github_handle": "noeismet"
+      }
+    ]
+  },
+  "fr_ms_translation_christelle": {
+    "name": "French sutta translation Christelle Ah-Mouck",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/christelle/sutta",
+    "translation_muids": "translation-fr-christelle",
+    "collaborator": [
+      {
+        "author_github_handle": "ChristelleAh-Mouck"
+      }
+    ]
+  },
+  "fr_ms_translation_marion": {
+    "name": "French sutta translation Marion Ah-Mouck",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/fr/marion/sutta",
+    "translation_muids": "translation-fr-marion",
+    "collaborator": [
+      {
+        "author_github_handle": "Marion009"
       }
     ]
   },
@@ -616,6 +674,17 @@
       }
     ]
   },
+  "ka_ms_translation_luka": {
+    "name": "Georgian translation",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ka/luka/sutta",
+    "translation_muids": "translation-ka-luka",
+    "collaborator": [
+      {
+        "author_github_handle": "KartuliDhamma"
+      }
+    ]
+  },
   "kan_blurb_translation": {
     "name": "Kannada blurb translation",
     "root_path": "root/en/blurb",
@@ -624,6 +693,9 @@
     "collaborator": [
       {
         "author_github_handle": "vittal-namdas"
+      },
+      {
+        "author_github_handle": "akileshv"
       }
     ]
   },
@@ -635,6 +707,9 @@
     "collaborator": [
       {
         "author_github_handle": "vittal-namdas"
+      },
+      {
+        "author_github_handle": "akileshv"
       }
     ]
   },
@@ -646,6 +721,9 @@
     "collaborator": [
       {
         "author_github_handle": "vittal-namdas"
+      },
+      {
+        "author_github_handle": "akileshv"
       }
     ]
   },
@@ -759,11 +837,11 @@
       }
     ]
   },
-  "my_ms_translation_my-team": {
+  "my_ms_translation_myteam": {
     "name": "Burmese translation",
     "root_path": "root/pli/ms/sutta/dn",
-    "translation_path": "translation/my/my-team/sutta/dn",
-    "translation_muids": "translation-my-my-team",
+    "translation_path": "translation/my/myteam/sutta/dn",
+    "translation_muids": "translation-my-myteam",
     "collaborator": [
       {
         "author_github_handle": "NyeinChanAye"
@@ -803,6 +881,9 @@
     "collaborator": [
       {
         "author_github_handle": "MarcinSadl"
+      },
+      {
+        "author_github_handle": "pyjterq"
       }
     ]
   },
@@ -956,6 +1037,17 @@
       }
     ]
   },
+  "ru_ms_translation_khantibalo": {
+    "name": "Russian translation Khantibalo",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ru/khantibalo/sutta",
+    "translation_muids": "translation-ru-khantibalo",
+    "collaborator": [
+      {
+        "author_github_handle": "neptunao"
+      }
+    ]
+  },
   "ru_ms_translation_narinyanievmenenko": {
     "name": "Russian translation",
     "root_path": "root/pli/ms/sutta/kn",
@@ -964,6 +1056,9 @@
     "collaborator": [
       {
         "author_github_handle": "neptunao"
+      },
+      {
+        "author_github_handle": "Korramrmr"
       }
     ]
   },
@@ -978,6 +1073,12 @@
       },
       {
         "author_github_handle": "neptunao"
+      },
+      {
+        "author_github_handle": "Korramrmr"
+      },
+      {
+        "author_github_handle": "dotokbit"
       }
     ]
   },
@@ -1025,6 +1126,50 @@
       }
     ]
   },
+  "si_ms_translation_karunika": {
+    "name": "Sinhala translation Vinaya",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/si/karunika/vinaya",
+    "translation_muids": "translation-si-karunika",
+    "collaborator": [
+      {
+        "author_github_handle": "VenKarunika"
+      }
+    ]
+  },
+  "sr_blurb_translation": {
+    "name": "Serbian blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/sr/blurb",
+    "translation_muids": "translation-sr",
+    "collaborator": [
+      {
+        "author_github_handle": "Bundi-py"
+      }
+    ]
+  },
+  "sr_localization": {
+    "name": "Serbian localization",
+    "root_path": "root/en/site",
+    "translation_path": "translation/sr/site",
+    "translation_muids": "translation-sr-site",
+    "collaborator": [
+      {
+        "author_github_handle": "Bundi-py"
+      }
+    ]
+  },
+  "sr_names_translation": {
+    "name": "Serbian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/sr/site",
+    "translation_muids": "translation-sr-site",
+    "collaborator": [
+      {
+        "author_github_handle": "Bundi-py"
+      }
+    ]
+  },
   "sr_ms_translation_brankokovacevic": {
     "name": "Serbian translation Branko Kovačević",
     "root_path": "root/pli/ms/sutta",
@@ -1066,6 +1211,17 @@
     "collaborator": [
       {
         "author_github_handle": "upasaka76601"
+      }
+    ]
+  },
+  "th_ms_translation_dhiranandi": {
+    "name": "Thai translation Dhīranandī",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/th/dhiranandi/sutta",
+    "translation_muids": "translation-th-dhiranandi",
+    "collaborator": [
+      {
+        "author_github_handle": "Dhiranandi"
       }
     ]
   },
@@ -1130,6 +1286,28 @@
       },
       {
         "author_github_handle": "Denizymn"
+      }
+    ]
+  },
+  "tr_ms_translation_dogensisapa": {
+    "name": "Türkçe translation Dōgen Sisapa",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/dogensisapa/sutta",
+    "translation_muids": "translation-tr-dogensisapa",
+    "collaborator": [
+      {
+        "author_github_handle": "DogenSisapa"
+      }
+    ]
+  },
+  "tr_ms_translation_fulyakoksoy": {
+    "name": "Türkçe translation Fulyak Oksoy",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/fulyakoksoy/sutta",
+    "translation_muids": "translation-tr-fulyakoksoy",
+    "collaborator": [
+      {
+        "author_github_handle": "FulyaKoksoy"
       }
     ]
   },
@@ -1256,6 +1434,39 @@
     "collaborator": [
       {
         "author_github_handle": "YingChen-Jane"
+      }
+    ]
+  },
+  "tr_ms_translation_çakmakçı": {
+    "name": "Türkçe translation Ufuk Çakmakçı",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/cakmakcı/sutta",
+    "translation_muids": "translation-tr-cakmakcı",
+    "collaborator": [
+      {
+        "author_github_handle": "FulyaKoksoy"
+      }
+    ]
+  },
+  "tr_ms_translation_şen": {
+    "name": "Türkçe translation Cem Şen",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/tr/sen/sutta",
+    "translation_muids": "translation-tr-sen",
+    "collaborator": [
+      {
+        "author_github_handle": "FulyaKoksoy"
+      }
+    ]
+  },
+  "ta_ms_translation_magesh": {
+    "name": "Türkçe translation Upasaka Magesh",
+    "root_path": "root/pli/ms/sutta",
+    "translation_path": "translation/ta/magesh/sutta",
+    "translation_muids": "translation-ta-magesh",
+    "collaborator": [
+      {
+        "author_github_handle": "mageshsugu"
       }
     ]
   }
